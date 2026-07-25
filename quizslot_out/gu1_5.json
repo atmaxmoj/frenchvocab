@@ -1,0 +1,233 @@
+[
+  {
+    "id": 3166,
+    "qs": [
+      {
+        "slot": "s|0",
+        "f": "sense",
+        "s": "Voler dans un magasin est un ___ qui peut entraîner des poursuites judiciaires.",
+        "en": "Shoplifting is an illegal act that can lead to legal proceedings.",
+        "a": "délit",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "s|0",
+        "f": "sense",
+        "s": "Participer à une manifestation non autorisée constitue un ___ selon la loi.",
+        "en": "Participating in an unauthorized demonstration constitutes an illegal act according to the law.",
+        "a": "délit",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "s|1",
+        "f": "sense",
+        "s": "Le vol simple est considéré comme un ___ et non comme un crime grave.",
+        "en": "Simple theft is considered a misdemeanor and not a serious crime.",
+        "a": "délit",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "s|1",
+        "f": "sense",
+        "s": "En droit français, un ___ est jugé par le tribunal correctionnel, pas par la cour d'assises.",
+        "en": "In French law, a misdemeanor is tried by the criminal court, not by the assize court.",
+        "a": "délit",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "s|2",
+        "f": "sense",
+        "s": "Il a été pris en flagrant ___ en train de copier sur son voisin.",
+        "en": "He was caught in the act (flagrant fault) of copying from his neighbour.",
+        "a": "délit",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "s|2",
+        "f": "sense",
+        "s": "Dire un mensonge à ses parents est un ___ que beaucoup d'enfants commettent.",
+        "en": "Telling a lie to one's parents is a fault that many children commit.",
+        "a": "délit",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "gender",
+        "f": "gender",
+        "s": "___ délit de fuite est sévèrement puni par la loi.",
+        "en": "The hit-and-run offence is severely punished by law.",
+        "a": "Le",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "gender",
+        "f": "gender",
+        "s": "Il a commis un ___ délit mineur et a reçu une amende.",
+        "en": "He committed a minor offence and received a fine.",
+        "a": "petit",
+        "alts": [],
+        "form": ""
+      }
+    ]
+  },
+  {
+    "id": 3167,
+    "qs": [
+      {
+        "slot": "s|0",
+        "f": "sense",
+        "s": "Les ___ de la route doivent respecter le code de la circulation.",
+        "en": "Road users must obey the highway code.",
+        "a": "usagers",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "s|0",
+        "f": "sense",
+        "s": "Les ___ des transports en commun peuvent acheter leur titre de transport en ligne.",
+        "en": "Users of public transport can buy their ticket online.",
+        "a": "usagers",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "s|1",
+        "f": "sense",
+        "s": "Le site demande à chaque ___ de créer un compte avant de se connecter.",
+        "en": "The website asks each user to create an account before logging in.",
+        "a": "usager",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "s|1",
+        "f": "sense",
+        "s": "Le mot de passe de cet ___ a été réinitialisé par l'administrateur.",
+        "en": "This user's password was reset by the administrator.",
+        "a": "usager",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "gender",
+        "f": "gender",
+        "s": "Mon voisin est ___ usager régulier de la bibliothèque municipale.",
+        "en": "My neighbor is a regular user of the municipal library.",
+        "a": "un",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "gender",
+        "f": "gender",
+        "s": "Il est ___ usager fidèle de ce service depuis dix ans.",
+        "en": "He has been a loyal user of this service for ten years.",
+        "a": "un",
+        "alts": [],
+        "form": ""
+      }
+    ]
+  },
+  {
+    "id": 3168,
+    "qs": [
+      {
+        "slot": "s|0",
+        "f": "sense",
+        "s": "Ce soir, nous allons voir une comédie ___.",
+        "en": "Tonight, we are going to see a musical comedy.",
+        "a": "musicale",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "s|0",
+        "f": "sense",
+        "s": "Il a reçu une formation ___ très solide dès son plus jeune âge.",
+        "en": "He received a very solid musical education from a very young age.",
+        "a": "musicale",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "s|1",
+        "f": "sense",
+        "s": "Cet enfant est vraiment ___ : il a retenu la mélodie après une seule écoute.",
+        "en": "This child is truly musical: he remembered the melody after just one listen.",
+        "a": "musical",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "s|1",
+        "f": "sense",
+        "s": "Dans cette famille, tous les enfants sont naturellement ___ et jouent d'un instrument.",
+        "en": "In this family, all the children are naturally musical and play an instrument.",
+        "a": "musicaux",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "g|mp",
+        "f": "agree",
+        "s": "Ses goûts ___ sont très éclectiques : il aime aussi bien le jazz que le classique.",
+        "en": "His musical tastes are very eclectic: he likes both jazz and classical.",
+        "a": "musicaux",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "g|mp",
+        "f": "agree",
+        "s": "Les instruments ___ de cette époque sont exposés dans une salle dédiée du musée.",
+        "en": "The musical instruments of this era are displayed in a dedicated room of the museum.",
+        "a": "musicaux",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "g|f",
+        "f": "agree",
+        "s": "Elle possède une oreille ___ exceptionnelle et détecte le moindre faux son.",
+        "en": "She has an exceptional musical ear and detects the slightest off-note.",
+        "a": "musicale",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "g|f",
+        "f": "agree",
+        "s": "La carrière ___ de cette artiste a débuté dès l'âge de sept ans.",
+        "en": "This artist's musical career began at the age of seven.",
+        "a": "musicale",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "g|fp",
+        "f": "agree",
+        "s": "Les soirées ___ organisées par le conservatoire attirent un large public chaque mois.",
+        "en": "The musical evenings organized by the conservatory attract a large audience each month.",
+        "a": "musicales",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "g|fp",
+        "f": "agree",
+        "s": "Ses études ___ l'ont conduite au Conservatoire national de Paris.",
+        "en": "Her musical studies led her to the National Conservatory of Paris.",
+        "a": "musicales",
+        "alts": [],
+        "form": ""
+      }
+    ]
+  }
+]

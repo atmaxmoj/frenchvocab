@@ -1,0 +1,1205 @@
+[
+  {
+    "id": 2037,
+    "qs": [
+      {
+        "slot": "s|0",
+        "f": "sense",
+        "s": "Les deux pays ont signé un accord de ___ économique.",
+        "a": "collaboration",
+        "en": "The two countries signed an economic cooperation agreement.",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "s|0",
+        "f": "sense",
+        "s": "Cette entreprise cherche à établir une ___ durable avec ses partenaires étrangers.",
+        "a": "collaboration",
+        "en": "This company seeks to establish lasting cooperation with its foreign partners.",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "s|1",
+        "f": "sense",
+        "s": "La ___ entre les membres de l'équipe a permis de livrer le projet dans les délais.",
+        "a": "collaboration",
+        "en": "The coordination among team members allowed the project to be delivered on time.",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "s|1",
+        "f": "sense",
+        "s": "Une bonne ___ au sein du département améliore la productivité de tous.",
+        "a": "collaboration",
+        "en": "Good teamwork within the department improves everyone's productivity.",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "s|2",
+        "f": "sense",
+        "s": "Grâce à la ___ des bénévoles, l'organisation a pu distribuer les repas rapidement.",
+        "a": "collaboration",
+        "en": "Thanks to the assistance of the volunteers, the organization was able to distribute meals quickly.",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "s|2",
+        "f": "sense",
+        "s": "Le projet a été achevé grâce à la ___ précieuse de nos collègues.",
+        "a": "collaboration",
+        "en": "The project was completed thanks to the valuable assistance of our colleagues.",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "gender",
+        "f": "gender",
+        "s": "Ils ont développé ___ collaboration fructueuse entre les deux laboratoires.",
+        "a": "une",
+        "en": "They developed a fruitful collaboration between the two laboratories.",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "gender",
+        "f": "gender",
+        "s": "___ collaboration entre les services est indispensable au bon fonctionnement de l'entreprise.",
+        "a": "La",
+        "en": "Collaboration between departments is indispensable for the proper functioning of the company.",
+        "alts": [],
+        "form": ""
+      }
+    ]
+  },
+  {
+    "id": 2038,
+    "qs": [
+      {
+        "slot": "t|Présent|0",
+        "f": "tense",
+        "s": "Ce travail me ___ une grande satisfaction.",
+        "a": "procure",
+        "en": "This work gives me great satisfaction.",
+        "alts": [],
+        "form": "Présent"
+      },
+      {
+        "slot": "t|Présent|0",
+        "f": "tense",
+        "s": "Mon oncle ___ des billets de théâtre chaque mois.",
+        "a": "procure",
+        "en": "My uncle gets theater tickets every month.",
+        "alts": [],
+        "form": "Présent"
+      },
+      {
+        "slot": "t|Présent|1",
+        "f": "tense",
+        "s": "Tu ___ des médicaments pour ta grand-mère ?",
+        "a": "procures",
+        "en": "Are you getting medicine for your grandmother?",
+        "alts": [],
+        "form": "Présent"
+      },
+      {
+        "slot": "t|Présent|1",
+        "f": "tense",
+        "s": "Est-ce que tu ___ du bois pour le feu ce soir ?",
+        "a": "procures",
+        "en": "Are you getting wood for the fire tonight?",
+        "alts": [],
+        "form": "Présent"
+      },
+      {
+        "slot": "t|Présent|2",
+        "f": "tense",
+        "s": "Nous ___ des fournitures pour l'atelier.",
+        "a": "procurons",
+        "en": "We are getting supplies for the workshop.",
+        "alts": [],
+        "form": "Présent"
+      },
+      {
+        "slot": "t|Présent|2",
+        "f": "tense",
+        "s": "Nous ___ à nos clients un service de qualité.",
+        "a": "procurons",
+        "en": "We provide our clients with a quality service.",
+        "alts": [],
+        "form": "Présent"
+      },
+      {
+        "slot": "t|Présent|3",
+        "f": "tense",
+        "s": "Vous ___ des documents officiels pour les nouveaux arrivants ?",
+        "a": "procurez",
+        "en": "Do you obtain official documents for the newcomers?",
+        "alts": [],
+        "form": "Présent"
+      },
+      {
+        "slot": "t|Présent|3",
+        "f": "tense",
+        "s": "Comment vous ___ -vous des pièces de rechange ?",
+        "a": "procurez",
+        "en": "How do you obtain spare parts?",
+        "alts": [],
+        "form": "Présent"
+      },
+      {
+        "slot": "t|Présent|4",
+        "f": "tense",
+        "s": "Ces associations ___ de la nourriture aux sans-abri.",
+        "a": "procurent",
+        "en": "These associations provide food to the homeless.",
+        "alts": [],
+        "form": "Présent"
+      },
+      {
+        "slot": "t|Présent|4",
+        "f": "tense",
+        "s": "Les voyages ___ des souvenirs inoubliables.",
+        "a": "procurent",
+        "en": "Travels bring unforgettable memories.",
+        "alts": [],
+        "form": "Présent"
+      },
+      {
+        "slot": "t|Passé composé|0",
+        "f": "tense",
+        "s": "J'___ les billets hier soir.",
+        "a": "ai procuré",
+        "en": "I got the tickets last night.",
+        "alts": [],
+        "form": "Passé composé"
+      },
+      {
+        "slot": "t|Passé composé|0",
+        "f": "tense",
+        "s": "J'___ un visa pour mon voyage au Canada.",
+        "a": "ai procuré",
+        "en": "I obtained a visa for my trip to Canada.",
+        "alts": [],
+        "form": "Passé composé"
+      },
+      {
+        "slot": "t|Passé composé|1",
+        "f": "tense",
+        "s": "Tu ___ ces informations confidentielles comment ?",
+        "a": "as procuré",
+        "en": "How did you obtain this confidential information?",
+        "alts": [],
+        "form": "Passé composé"
+      },
+      {
+        "slot": "t|Passé composé|1",
+        "f": "tense",
+        "s": "Tu ___ un emploi à ton cousin la semaine dernière ?",
+        "a": "as procuré",
+        "en": "Did you get a job for your cousin last week?",
+        "alts": [],
+        "form": "Passé composé"
+      },
+      {
+        "slot": "t|Passé composé|2",
+        "f": "tense",
+        "s": "Ce poste ___ une grande fierté à toute la famille.",
+        "a": "a procuré",
+        "en": "This position brought great pride to the whole family.",
+        "alts": [],
+        "form": "Passé composé"
+      },
+      {
+        "slot": "t|Passé composé|2",
+        "f": "tense",
+        "s": "La mairie ___ des logements d'urgence aux sinistrés.",
+        "a": "a procuré",
+        "en": "The town hall provided emergency housing to the disaster victims.",
+        "alts": [],
+        "form": "Passé composé"
+      },
+      {
+        "slot": "t|Passé composé|3",
+        "f": "tense",
+        "s": "Nous ___ les matériaux nécessaires avant le début des travaux.",
+        "a": "avons procuré",
+        "en": "We obtained the necessary materials before the start of the works.",
+        "alts": [],
+        "form": "Passé composé"
+      },
+      {
+        "slot": "t|Passé composé|3",
+        "f": "tense",
+        "s": "Nous lui ___ une place dans cette école réputée.",
+        "a": "avons procuré",
+        "en": "We got him a place in this reputable school.",
+        "alts": [],
+        "form": "Passé composé"
+      },
+      {
+        "slot": "t|Passé composé|4",
+        "f": "tense",
+        "s": "Vous ___ les autorisations nécessaires avant d'entrer ?",
+        "a": "avez procuré",
+        "en": "Did you obtain the necessary authorizations before entering?",
+        "alts": [],
+        "form": "Passé composé"
+      },
+      {
+        "slot": "t|Passé composé|4",
+        "f": "tense",
+        "s": "Vous ___ du plaisir à tout le monde avec ce spectacle.",
+        "a": "avez procuré",
+        "en": "You brought pleasure to everyone with this show.",
+        "alts": [],
+        "form": "Passé composé"
+      },
+      {
+        "slot": "t|Passé composé|5",
+        "f": "tense",
+        "s": "Les parents ___ tout le nécessaire à leurs enfants.",
+        "a": "ont procuré",
+        "en": "The parents provided everything necessary to their children.",
+        "alts": [],
+        "form": "Passé composé"
+      },
+      {
+        "slot": "t|Passé composé|5",
+        "f": "tense",
+        "s": "Ces découvertes ___ de nouvelles perspectives aux chercheurs.",
+        "a": "ont procuré",
+        "en": "These discoveries brought new perspectives to the researchers.",
+        "alts": [],
+        "form": "Passé composé"
+      },
+      {
+        "slot": "t|Imparfait|0",
+        "f": "tense",
+        "s": "Quand j'étais étudiant, je me ___ des livres d'occasion.",
+        "a": "procurais",
+        "en": "When I was a student, I used to get second-hand books.",
+        "alts": [],
+        "form": "Imparfait"
+      },
+      {
+        "slot": "t|Imparfait|0",
+        "f": "tense",
+        "s": "À l'époque, tu ___ facilement des places de concert.",
+        "a": "procurais",
+        "en": "Back then, you used to easily get concert tickets.",
+        "alts": [],
+        "form": "Imparfait"
+      },
+      {
+        "slot": "t|Imparfait|1",
+        "f": "tense",
+        "s": "Ce jardin ___ une grande tranquillité à ses propriétaires.",
+        "a": "procurait",
+        "en": "This garden used to bring great tranquility to its owners.",
+        "alts": [],
+        "form": "Imparfait"
+      },
+      {
+        "slot": "t|Imparfait|1",
+        "f": "tense",
+        "s": "La coopérative ___ des semences aux agriculteurs de la région.",
+        "a": "procurait",
+        "en": "The cooperative used to provide seeds to the farmers of the region.",
+        "alts": [],
+        "form": "Imparfait"
+      },
+      {
+        "slot": "t|Imparfait|2",
+        "f": "tense",
+        "s": "Nous ___ des vivres à notre équipe pendant l'expédition.",
+        "a": "procurions",
+        "en": "We used to provide supplies to our team during the expedition.",
+        "alts": [],
+        "form": "Imparfait"
+      },
+      {
+        "slot": "t|Imparfait|2",
+        "f": "tense",
+        "s": "Nous nous ___ de l'eau potable dans le village voisin.",
+        "a": "procurions",
+        "en": "We used to get drinking water from the neighboring village.",
+        "alts": [],
+        "form": "Imparfait"
+      },
+      {
+        "slot": "t|Imparfait|3",
+        "f": "tense",
+        "s": "Vous ___ des ressources financières pour le projet à l'époque ?",
+        "a": "procuriez",
+        "en": "Were you obtaining financial resources for the project back then?",
+        "alts": [],
+        "form": "Imparfait"
+      },
+      {
+        "slot": "t|Imparfait|3",
+        "f": "tense",
+        "s": "Comment vous ___ -vous des pièces rares avant Internet ?",
+        "a": "procuriez",
+        "en": "How did you obtain rare parts before the internet?",
+        "alts": [],
+        "form": "Imparfait"
+      },
+      {
+        "slot": "t|Imparfait|4",
+        "f": "tense",
+        "s": "Les marchands ___ des épices exotiques aux cuisiniers de la cour.",
+        "a": "procuraient",
+        "en": "The merchants used to provide exotic spices to the court cooks.",
+        "alts": [],
+        "form": "Imparfait"
+      },
+      {
+        "slot": "t|Imparfait|4",
+        "f": "tense",
+        "s": "Ces missions ___ de l'expérience précieuse aux jeunes volontaires.",
+        "a": "procuraient",
+        "en": "These missions used to provide valuable experience to young volunteers.",
+        "alts": [],
+        "form": "Imparfait"
+      },
+      {
+        "slot": "t|Futur|0",
+        "f": "tense",
+        "s": "Je ___ les documents nécessaires avant la réunion.",
+        "a": "procurerai",
+        "en": "I will get the necessary documents before the meeting.",
+        "alts": [],
+        "form": "Futur"
+      },
+      {
+        "slot": "t|Futur|0",
+        "f": "tense",
+        "s": "Je vous ___ une réponse dès que possible.",
+        "a": "procurerai",
+        "en": "I will provide you with an answer as soon as possible.",
+        "alts": [],
+        "form": "Futur"
+      },
+      {
+        "slot": "t|Futur|1",
+        "f": "tense",
+        "s": "Tu ___ les billets pour le match demain matin ?",
+        "a": "procureras",
+        "en": "Will you get the tickets for the match tomorrow morning?",
+        "alts": [],
+        "form": "Futur"
+      },
+      {
+        "slot": "t|Futur|1",
+        "f": "tense",
+        "s": "Ce diplôme te ___ de nombreuses opportunités professionnelles.",
+        "a": "procurera",
+        "en": "This diploma will bring you many professional opportunities.",
+        "alts": [],
+        "form": "Futur"
+      },
+      {
+        "slot": "t|Futur|2",
+        "f": "tense",
+        "s": "Cette initiative ___ des fonds supplémentaires à l'association.",
+        "a": "procurera",
+        "en": "This initiative will provide additional funds to the association.",
+        "alts": [],
+        "form": "Futur"
+      },
+      {
+        "slot": "t|Futur|2",
+        "f": "tense",
+        "s": "Le nouveau contrat ___ de la stabilité à l'entreprise.",
+        "a": "procurera",
+        "en": "The new contract will bring stability to the company.",
+        "alts": [],
+        "form": "Futur"
+      },
+      {
+        "slot": "t|Futur|3",
+        "f": "tense",
+        "s": "Nous ___ les matières premières directement auprès des fournisseurs.",
+        "a": "procurerons",
+        "en": "We will obtain the raw materials directly from the suppliers.",
+        "alts": [],
+        "form": "Futur"
+      },
+      {
+        "slot": "t|Futur|3",
+        "f": "tense",
+        "s": "Nous ___ à chaque participant un accès gratuit à la plateforme.",
+        "a": "procurerons",
+        "en": "We will provide each participant with free access to the platform.",
+        "alts": [],
+        "form": "Futur"
+      },
+      {
+        "slot": "t|Futur|4",
+        "f": "tense",
+        "s": "Vous ___ les autorisations avant la fin du mois ?",
+        "a": "procurerez",
+        "en": "Will you obtain the authorizations before the end of the month?",
+        "alts": [],
+        "form": "Futur"
+      },
+      {
+        "slot": "t|Futur|4",
+        "f": "tense",
+        "s": "Vous ___ aux étudiants tous les outils pédagogiques nécessaires.",
+        "a": "procurerez",
+        "en": "You will provide the students with all the necessary educational tools.",
+        "alts": [],
+        "form": "Futur"
+      },
+      {
+        "slot": "t|Futur|5",
+        "f": "tense",
+        "s": "Ces nouvelles technologies ___ un avantage concurrentiel à nos partenaires.",
+        "a": "procureront",
+        "en": "These new technologies will bring a competitive advantage to our partners.",
+        "alts": [],
+        "form": "Futur"
+      },
+      {
+        "slot": "t|Futur|5",
+        "f": "tense",
+        "s": "Les bénévoles ___ de l'aide aux familles dans le besoin.",
+        "a": "procureront",
+        "en": "The volunteers will provide help to families in need.",
+        "alts": [],
+        "form": "Futur"
+      },
+      {
+        "slot": "t|Conditionnel|0",
+        "f": "tense",
+        "s": "Si j'avais plus de temps, je me ___ un abonnement à cette bibliothèque.",
+        "a": "procurerais",
+        "en": "If I had more time, I would get a membership to that library.",
+        "alts": [],
+        "form": "Conditionnel"
+      },
+      {
+        "slot": "t|Conditionnel|0",
+        "f": "tense",
+        "s": "Si tu avais de l'argent, tu ___ de meilleures fournitures.",
+        "a": "procurerais",
+        "en": "If you had money, you would get better supplies.",
+        "alts": [],
+        "form": "Conditionnel"
+      },
+      {
+        "slot": "t|Conditionnel|1",
+        "f": "tense",
+        "s": "Ce poste lui ___ un revenu confortable.",
+        "a": "procurerait",
+        "en": "This position would bring him a comfortable income.",
+        "alts": [],
+        "form": "Conditionnel"
+      },
+      {
+        "slot": "t|Conditionnel|1",
+        "f": "tense",
+        "s": "Une bourse ___ à cet étudiant la possibilité de continuer ses études.",
+        "a": "procurerait",
+        "en": "A scholarship would provide this student with the possibility of continuing his studies.",
+        "alts": [],
+        "form": "Conditionnel"
+      },
+      {
+        "slot": "t|Conditionnel|2",
+        "f": "tense",
+        "s": "Nous ___ des ressources supplémentaires si le budget le permettait.",
+        "a": "procurerions",
+        "en": "We would obtain additional resources if the budget allowed it.",
+        "alts": [],
+        "form": "Conditionnel"
+      },
+      {
+        "slot": "t|Conditionnel|2",
+        "f": "tense",
+        "s": "Avec plus de moyens, nous ___ un meilleur soutien à nos membres.",
+        "a": "procurerions",
+        "en": "With more resources, we would provide better support to our members.",
+        "alts": [],
+        "form": "Conditionnel"
+      },
+      {
+        "slot": "t|Conditionnel|3",
+        "f": "tense",
+        "s": "Vous ___ des avantages supplémentaires si vous rejoigniez notre réseau.",
+        "a": "procureriez",
+        "en": "You would obtain additional benefits if you joined our network.",
+        "alts": [],
+        "form": "Conditionnel"
+      },
+      {
+        "slot": "t|Conditionnel|3",
+        "f": "tense",
+        "s": "Si vous participiez à ce programme, vous ___ une expérience unique.",
+        "a": "procureriez",
+        "en": "If you participated in this program, you would gain a unique experience.",
+        "alts": [],
+        "form": "Conditionnel"
+      },
+      {
+        "slot": "t|Conditionnel|4",
+        "f": "tense",
+        "s": "Si les conditions étaient réunies, ces investisseurs ___ les fonds nécessaires.",
+        "a": "procureraient",
+        "en": "If conditions were met, these investors would provide the necessary funds.",
+        "alts": [],
+        "form": "Conditionnel"
+      },
+      {
+        "slot": "t|Conditionnel|4",
+        "f": "tense",
+        "s": "Des partenariats solides ___ de nouvelles opportunités aux deux équipes.",
+        "a": "procureraient",
+        "en": "Strong partnerships would bring new opportunities to both teams.",
+        "alts": [],
+        "form": "Conditionnel"
+      },
+      {
+        "slot": "t|Subjonctif",
+        "f": "subj",
+        "s": "Il faut que tu ___ les documents avant demain.",
+        "a": "procures",
+        "en": "It is necessary that you obtain the documents before tomorrow.",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "t|Subjonctif",
+        "f": "subj",
+        "s": "Je souhaite que l'entreprise ___ une aide financière à ses employés.",
+        "a": "procure",
+        "en": "I wish that the company provide financial assistance to its employees.",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "s|0",
+        "f": "sense",
+        "s": "Elle a réussi à ___ un passeport en urgence avant son départ.",
+        "a": "procurer",
+        "en": "She managed to obtain a passport urgently before her departure.",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "s|0",
+        "f": "sense",
+        "s": "Il est difficile de ___ des médicaments rares dans cette région.",
+        "a": "procurer",
+        "en": "It is difficult to obtain rare medicines in this region.",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "s|1",
+        "f": "sense",
+        "s": "La musique lui ___ beaucoup de joie au quotidien.",
+        "a": "procure",
+        "en": "Music brings him a lot of joy on a daily basis.",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "s|1",
+        "f": "sense",
+        "s": "Ce succès ___ une grande fierté à toute leur famille.",
+        "a": "procure",
+        "en": "This success brings great pride to their whole family.",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "s|2",
+        "f": "sense",
+        "s": "Cette organisation ___ un hébergement gratuit aux réfugiés.",
+        "a": "procure",
+        "en": "This organization provides free accommodation to refugees.",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "s|2",
+        "f": "sense",
+        "s": "L'État doit ___ des soins médicaux à tous ses citoyens.",
+        "a": "procurer",
+        "en": "The state must provide medical care to all its citizens.",
+        "alts": [],
+        "form": ""
+      }
+    ]
+  },
+  {
+    "id": 2039,
+    "qs": [
+      {
+        "slot": "t|Présent|0",
+        "f": "tense",
+        "s": "Le prêtre ___ lors de la cérémonie chaque dimanche.",
+        "a": "officie",
+        "en": "The priest officiates at the ceremony every Sunday.",
+        "alts": [],
+        "form": "Présent"
+      },
+      {
+        "slot": "t|Présent|0",
+        "f": "tense",
+        "s": "J'___ comme maître de cérémonie lors de mariages.",
+        "a": "officie",
+        "en": "I officiate as master of ceremonies at weddings.",
+        "alts": [],
+        "form": "Présent"
+      },
+      {
+        "slot": "t|Présent|1",
+        "f": "tense",
+        "s": "Tu ___ souvent lors des réunions officielles de ton association.",
+        "a": "officies",
+        "en": "You often officiate at your association's official meetings.",
+        "alts": [],
+        "form": "Présent"
+      },
+      {
+        "slot": "t|Présent|1",
+        "f": "tense",
+        "s": "Est-ce que tu ___ comme arbitre dans ce tournoi ?",
+        "a": "officies",
+        "en": "Do you officiate as referee in this tournament?",
+        "alts": [],
+        "form": "Présent"
+      },
+      {
+        "slot": "t|Présent|2",
+        "f": "tense",
+        "s": "Nous ___ lors de la cérémonie d'ouverture ensemble.",
+        "a": "officions",
+        "en": "We officiate at the opening ceremony together.",
+        "alts": [],
+        "form": "Présent"
+      },
+      {
+        "slot": "t|Présent|2",
+        "f": "tense",
+        "s": "Nous ___ en tant que représentants officiels de la ville.",
+        "a": "officions",
+        "en": "We officiate as official representatives of the city.",
+        "alts": [],
+        "form": "Présent"
+      },
+      {
+        "slot": "t|Présent|3",
+        "f": "tense",
+        "s": "Vous ___ régulièrement lors des cérémonies militaires.",
+        "a": "officiez",
+        "en": "You regularly officiate at military ceremonies.",
+        "alts": [],
+        "form": "Présent"
+      },
+      {
+        "slot": "t|Présent|3",
+        "f": "tense",
+        "s": "En tant que juges, vous ___ dans ce concours de musique.",
+        "a": "officiez",
+        "en": "As judges, you officiate in this music competition.",
+        "alts": [],
+        "form": "Présent"
+      },
+      {
+        "slot": "t|Présent|4",
+        "f": "tense",
+        "s": "Les arbitres ___ sur le terrain ce soir.",
+        "a": "officient",
+        "en": "The referees officiate on the field tonight.",
+        "alts": [],
+        "form": "Présent"
+      },
+      {
+        "slot": "t|Présent|4",
+        "f": "tense",
+        "s": "Ils ___ comme témoins officiels lors de la signature du traité.",
+        "a": "officient",
+        "en": "They officiate as official witnesses at the treaty signing.",
+        "alts": [],
+        "form": "Présent"
+      },
+      {
+        "slot": "t|Passé composé|0",
+        "f": "tense",
+        "s": "J'___ lors de la cérémonie d'inauguration hier soir.",
+        "a": "ai officié",
+        "en": "I officiated at the inauguration ceremony last night.",
+        "alts": [],
+        "form": "Passé composé"
+      },
+      {
+        "slot": "t|Passé composé|0",
+        "f": "tense",
+        "s": "J'___ en tant qu'arbitre principal lors de la finale du tournoi.",
+        "a": "ai officié",
+        "en": "I officiated as head referee at the tournament final.",
+        "alts": [],
+        "form": "Passé composé"
+      },
+      {
+        "slot": "t|Passé composé|1",
+        "f": "tense",
+        "s": "Tu ___ lors du mariage de ta sœur le mois dernier.",
+        "a": "as officié",
+        "en": "You officiated at your sister's wedding last month.",
+        "alts": [],
+        "form": "Passé composé"
+      },
+      {
+        "slot": "t|Passé composé|1",
+        "f": "tense",
+        "s": "Tu ___ comme maître de cérémonie lors de la remise des diplômes.",
+        "a": "as officié",
+        "en": "You officiated as master of ceremonies at the graduation.",
+        "alts": [],
+        "form": "Passé composé"
+      },
+      {
+        "slot": "t|Passé composé|2",
+        "f": "tense",
+        "s": "Le notaire ___ lors de la signature du contrat ce matin.",
+        "a": "a officié",
+        "en": "The notary officiated at the contract signing this morning.",
+        "alts": [],
+        "form": "Passé composé"
+      },
+      {
+        "slot": "t|Passé composé|2",
+        "f": "tense",
+        "s": "L'évêque ___ lors de la messe de Noël à la cathédrale.",
+        "a": "a officié",
+        "en": "The bishop officiated at the Christmas mass at the cathedral.",
+        "alts": [],
+        "form": "Passé composé"
+      },
+      {
+        "slot": "t|Passé composé|3",
+        "f": "tense",
+        "s": "Nous ___ ensemble lors de la cérémonie commémorative.",
+        "a": "avons officié",
+        "en": "We officiated together at the commemorative ceremony.",
+        "alts": [],
+        "form": "Passé composé"
+      },
+      {
+        "slot": "t|Passé composé|3",
+        "f": "tense",
+        "s": "Nous ___ en tant qu'arbitres lors du championnat régional.",
+        "a": "avons officié",
+        "en": "We officiated as referees at the regional championship.",
+        "alts": [],
+        "form": "Passé composé"
+      },
+      {
+        "slot": "t|Passé composé|4",
+        "f": "tense",
+        "s": "Vous ___ lors de la cérémonie d'investiture du nouveau maire.",
+        "a": "avez officié",
+        "en": "You officiated at the inauguration ceremony of the new mayor.",
+        "alts": [],
+        "form": "Passé composé"
+      },
+      {
+        "slot": "t|Passé composé|4",
+        "f": "tense",
+        "s": "Vous ___ comme témoins lors de la signature de l'accord de paix.",
+        "a": "avez officié",
+        "en": "You officiated as witnesses at the signing of the peace agreement.",
+        "alts": [],
+        "form": "Passé composé"
+      },
+      {
+        "slot": "t|Passé composé|5",
+        "f": "tense",
+        "s": "Les prêtres ___ lors de la messe solennelle de dimanche.",
+        "a": "ont officié",
+        "en": "The priests officiated at Sunday's solemn mass.",
+        "alts": [],
+        "form": "Passé composé"
+      },
+      {
+        "slot": "t|Passé composé|5",
+        "f": "tense",
+        "s": "Les deux arbitres ___ lors de la finale de la Coupe du Monde.",
+        "a": "ont officié",
+        "en": "The two referees officiated at the World Cup final.",
+        "alts": [],
+        "form": "Passé composé"
+      },
+      {
+        "slot": "t|Imparfait|0",
+        "f": "tense",
+        "s": "Quand j'étais jeune, j'___ souvent lors des fêtes du village.",
+        "a": "officiais",
+        "en": "When I was young, I often officiated at village festivals.",
+        "alts": [],
+        "form": "Imparfait"
+      },
+      {
+        "slot": "t|Imparfait|0",
+        "f": "tense",
+        "s": "Tu ___ comme arbitre dans cette ligue avant ta retraite.",
+        "a": "officiais",
+        "en": "You used to officiate as referee in that league before your retirement.",
+        "alts": [],
+        "form": "Imparfait"
+      },
+      {
+        "slot": "t|Imparfait|1",
+        "f": "tense",
+        "s": "Le pasteur ___ dans cette paroisse depuis dix ans.",
+        "a": "officiait",
+        "en": "The pastor had been officiating in that parish for ten years.",
+        "alts": [],
+        "form": "Imparfait"
+      },
+      {
+        "slot": "t|Imparfait|1",
+        "f": "tense",
+        "s": "Elle ___ chaque semaine lors des cérémonies de la mairie.",
+        "a": "officiait",
+        "en": "She used to officiate every week at town hall ceremonies.",
+        "alts": [],
+        "form": "Imparfait"
+      },
+      {
+        "slot": "t|Imparfait|2",
+        "f": "tense",
+        "s": "Nous ___ régulièrement lors des événements sportifs de la région.",
+        "a": "officiions",
+        "en": "We used to officiate regularly at regional sporting events.",
+        "alts": [],
+        "form": "Imparfait"
+      },
+      {
+        "slot": "t|Imparfait|2",
+        "f": "tense",
+        "s": "Nous ___ ensemble lors des cérémonies militaires annuelles.",
+        "a": "officiions",
+        "en": "We used to officiate together at the annual military ceremonies.",
+        "alts": [],
+        "form": "Imparfait"
+      },
+      {
+        "slot": "t|Imparfait|3",
+        "f": "tense",
+        "s": "Vous ___ en tant qu'arbitres lors des matchs de championnat.",
+        "a": "officiiez",
+        "en": "You used to officiate as referees at championship matches.",
+        "alts": [],
+        "form": "Imparfait"
+      },
+      {
+        "slot": "t|Imparfait|3",
+        "f": "tense",
+        "s": "Vous ___ lors des cérémonies officielles quand vous étiez en poste.",
+        "a": "officiiez",
+        "en": "You used to officiate at official ceremonies when you were in post.",
+        "alts": [],
+        "form": "Imparfait"
+      },
+      {
+        "slot": "t|Imparfait|4",
+        "f": "tense",
+        "s": "Les juges ___ lors de chaque compétition internationale.",
+        "a": "officiaient",
+        "en": "The judges used to officiate at every international competition.",
+        "alts": [],
+        "form": "Imparfait"
+      },
+      {
+        "slot": "t|Imparfait|4",
+        "f": "tense",
+        "s": "Elles ___ comme intermédiaires lors des négociations diplomatiques.",
+        "a": "officiaient",
+        "en": "They used to officiate as intermediaries in diplomatic negotiations.",
+        "alts": [],
+        "form": "Imparfait"
+      },
+      {
+        "slot": "t|Futur|0",
+        "f": "tense",
+        "s": "J'___ lors de la cérémonie d'inauguration du nouveau bâtiment.",
+        "a": "officierai",
+        "en": "I will officiate at the inauguration ceremony of the new building.",
+        "alts": [],
+        "form": "Futur"
+      },
+      {
+        "slot": "t|Futur|0",
+        "f": "tense",
+        "s": "J'___ en tant qu'arbitre principal lors de la finale de samedi.",
+        "a": "officierai",
+        "en": "I will officiate as head referee at Saturday's final.",
+        "alts": [],
+        "form": "Futur"
+      },
+      {
+        "slot": "t|Futur|1",
+        "f": "tense",
+        "s": "Tu ___ lors de la cérémonie de remise des prix demain soir.",
+        "a": "officieras",
+        "en": "You will officiate at the award ceremony tomorrow evening.",
+        "alts": [],
+        "form": "Futur"
+      },
+      {
+        "slot": "t|Futur|1",
+        "f": "tense",
+        "s": "Tu ___ comme notaire lors de la signature de l'acte la semaine prochaine.",
+        "a": "officieras",
+        "en": "You will officiate as notary at the deed signing next week.",
+        "alts": [],
+        "form": "Futur"
+      },
+      {
+        "slot": "t|Futur|2",
+        "f": "tense",
+        "s": "Le chef de protocole ___ lors du banquet d'État ce soir.",
+        "a": "officiera",
+        "en": "The head of protocol will officiate at the state banquet tonight.",
+        "alts": [],
+        "form": "Futur"
+      },
+      {
+        "slot": "t|Futur|2",
+        "f": "tense",
+        "s": "L'arbitre désigné ___ lors du match de quart de finale.",
+        "a": "officiera",
+        "en": "The appointed referee will officiate at the quarter-final match.",
+        "alts": [],
+        "form": "Futur"
+      },
+      {
+        "slot": "t|Futur|3",
+        "f": "tense",
+        "s": "Nous ___ lors de la cérémonie de clôture du festival la semaine prochaine.",
+        "a": "officierons",
+        "en": "We will officiate at the festival closing ceremony next week.",
+        "alts": [],
+        "form": "Futur"
+      },
+      {
+        "slot": "t|Futur|3",
+        "f": "tense",
+        "s": "Nous ___ en tant que représentants lors du sommet international.",
+        "a": "officierons",
+        "en": "We will officiate as representatives at the international summit.",
+        "alts": [],
+        "form": "Futur"
+      },
+      {
+        "slot": "t|Futur|4",
+        "f": "tense",
+        "s": "Vous ___ lors de la cérémonie de mariage de votre ami.",
+        "a": "officierez",
+        "en": "You will officiate at your friend's wedding ceremony.",
+        "alts": [],
+        "form": "Futur"
+      },
+      {
+        "slot": "t|Futur|4",
+        "f": "tense",
+        "s": "Vous ___ comme arbitres lors du prochain championnat national.",
+        "a": "officierez",
+        "en": "You will officiate as referees at the next national championship.",
+        "alts": [],
+        "form": "Futur"
+      },
+      {
+        "slot": "t|Futur|5",
+        "f": "tense",
+        "s": "Les officiels ___ lors de la cérémonie d'ouverture des Jeux olympiques.",
+        "a": "officieront",
+        "en": "The officials will officiate at the Olympic Games opening ceremony.",
+        "alts": [],
+        "form": "Futur"
+      },
+      {
+        "slot": "t|Futur|5",
+        "f": "tense",
+        "s": "Ils ___ en tant qu'arbitres lors des matchs éliminatoires du tournoi.",
+        "a": "officieront",
+        "en": "They will officiate as referees at the tournament qualifying matches.",
+        "alts": [],
+        "form": "Futur"
+      },
+      {
+        "slot": "t|Conditionnel|0",
+        "f": "tense",
+        "s": "Si on me le demandait, j'___ volontiers lors de ce mariage.",
+        "a": "officierais",
+        "en": "If asked, I would gladly officiate at this wedding.",
+        "alts": [],
+        "form": "Conditionnel"
+      },
+      {
+        "slot": "t|Conditionnel|0",
+        "f": "tense",
+        "s": "Si tu étais disponible, tu ___ lors de la cérémonie à ma place.",
+        "a": "officierais",
+        "en": "If you were available, you would officiate at the ceremony in my place.",
+        "alts": [],
+        "form": "Conditionnel"
+      },
+      {
+        "slot": "t|Conditionnel|1",
+        "f": "tense",
+        "s": "Si le prêtre était absent, le diacre ___ à la messe.",
+        "a": "officierait",
+        "en": "If the priest were absent, the deacon would officiate at mass.",
+        "alts": [],
+        "form": "Conditionnel"
+      },
+      {
+        "slot": "t|Conditionnel|1",
+        "f": "tense",
+        "s": "L'arbitre ___ plus souvent si sa santé le lui permettait.",
+        "a": "officierait",
+        "en": "The referee would officiate more often if his health allowed.",
+        "alts": [],
+        "form": "Conditionnel"
+      },
+      {
+        "slot": "t|Conditionnel|2",
+        "f": "tense",
+        "s": "Si on nous en donnait l'occasion, nous ___ lors de cet événement.",
+        "a": "officierions",
+        "en": "If given the opportunity, we would officiate at this event.",
+        "alts": [],
+        "form": "Conditionnel"
+      },
+      {
+        "slot": "t|Conditionnel|2",
+        "f": "tense",
+        "s": "Nous ___ plus souvent si nous étions certifiés comme arbitres.",
+        "a": "officierions",
+        "en": "We would officiate more often if we were certified as referees.",
+        "alts": [],
+        "form": "Conditionnel"
+      },
+      {
+        "slot": "t|Conditionnel|3",
+        "f": "tense",
+        "s": "Si vous étiez formés, vous ___ lors des cérémonies officielles.",
+        "a": "officieriez",
+        "en": "If you were trained, you would officiate at official ceremonies.",
+        "alts": [],
+        "form": "Conditionnel"
+      },
+      {
+        "slot": "t|Conditionnel|3",
+        "f": "tense",
+        "s": "Vous ___ lors de ce tournoi si votre candidature était acceptée.",
+        "a": "officieriez",
+        "en": "You would officiate at this tournament if your application were accepted.",
+        "alts": [],
+        "form": "Conditionnel"
+      },
+      {
+        "slot": "t|Conditionnel|4",
+        "f": "tense",
+        "s": "Si les arbitres habituels étaient malades, ils ___ quand même.",
+        "a": "officieraient",
+        "en": "If the usual referees were sick, they would still officiate.",
+        "alts": [],
+        "form": "Conditionnel"
+      },
+      {
+        "slot": "t|Conditionnel|4",
+        "f": "tense",
+        "s": "Les prêtres ___ plus souvent si la paroisse avait plus d'événements.",
+        "a": "officieraient",
+        "en": "The priests would officiate more often if the parish had more events.",
+        "alts": [],
+        "form": "Conditionnel"
+      },
+      {
+        "slot": "t|Subjonctif",
+        "f": "subj",
+        "s": "Il faut que tu ___ lors de la prochaine cérémonie officielle.",
+        "a": "officies",
+        "en": "You must officiate at the next official ceremony.",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "t|Subjonctif",
+        "f": "subj",
+        "s": "Je voudrais que le prêtre ___ lors du baptême de mon fils.",
+        "a": "officie",
+        "en": "I would like the priest to officiate at my son's baptism.",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "s|0",
+        "f": "sense",
+        "s": "Un ___ supérieur a pris la parole lors de la cérémonie commémorative.",
+        "a": "officier",
+        "en": "A senior officer gave a speech at the commemorative ceremony.",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "s|0",
+        "f": "sense",
+        "s": "Cet ___ de marine a servi pendant vingt ans.",
+        "a": "officier",
+        "en": "This naval officer served for twenty years.",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "s|1",
+        "f": "sense",
+        "s": "Le juge de paix va ___ lors de la cérémonie civile du mariage.",
+        "a": "officier",
+        "en": "The justice of the peace will officiate at the civil wedding ceremony.",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "s|1",
+        "f": "sense",
+        "s": "Le cardinal a été invité à ___ lors de la messe solennelle.",
+        "a": "officier",
+        "en": "The cardinal was invited to officiate at the solemn mass.",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "s|2",
+        "f": "sense",
+        "s": "L'arbitre doit ___ conformément au règlement en vigueur.",
+        "a": "officier",
+        "en": "The referee must carry out his duties in accordance with the applicable rules.",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "s|2",
+        "f": "sense",
+        "s": "Le notaire est habilité à ___ dans ce département.",
+        "a": "officier",
+        "en": "The notary is authorized to carry out his official duties in this department.",
+        "alts": [],
+        "form": ""
+      }
+    ]
+  }
+]

@@ -1,0 +1,311 @@
+[
+  {
+    "id": "1",
+    "qs": [
+      {"f": "usage", "s": "Je vois mon ami Marc tous les jours. Je ___ vois souvent au café.", "en": "I see my friend Marc every day. I see him often at the café.", "a": "le", "alts": [], "form": "direct object pronoun (masculine singular)"},
+      {"f": "usage", "s": "Tu connais ce livre de grammaire? Non, je ne ___ connais pas.", "en": "Do you know this grammar book? No, I don't know it.", "a": "le", "alts": [], "form": "direct object pronoun (masculine singular)"},
+      {"f": "usage", "s": "Mon père a acheté une voiture rouge. Il ___ a achetée hier matin.", "en": "My father bought a red car. He bought it yesterday morning.", "a": "l'", "alts": [], "form": "direct object pronoun before vowel (feminine, with agreement)"},
+      {"f": "usage", "s": "Je dois chercher mon ami Pierre à la gare. Je ___ chercherai demain.", "en": "I need to look for my friend Pierre at the station. I will look for him tomorrow.", "a": "le", "alts": [], "form": "direct object pronoun (masculine singular)"},
+      {"f": "usage", "s": "Vous avez promis d'aider Jean avec son déménagement. Vous ___ aiderez samedi, non?", "en": "You promised to help Jean with his move. You will help him on Saturday, right?", "a": "l'", "alts": [], "form": "direct object pronoun before vowel"},
+      {"f": "usage", "s": "Ma sœur adore ce film français. Elle ___ a regardé trois fois cette semaine!", "en": "My sister loves this French film. She watched it three times this week!", "a": "l'", "alts": [], "form": "direct object pronoun before vowel"},
+      {"f": "sense", "s": "Ce problème de mathématiques est clair pour moi maintenant. Oui, je ___ comprends enfin.", "en": "This math problem is clear to me now. Yes, I finally understand it.", "a": "le", "alts": [], "form": "direct object pronoun (abstract concept)"},
+      {"f": "sense", "s": "Tu es malade depuis hier. Oui, je ___ sais, et je vais voir le médecin.", "en": "You have been sick since yesterday. Yes, I know it, and I'm going to see the doctor.", "a": "le", "alts": [], "form": "neuter direct object pronoun (abstract fact)"},
+      {"f": "sense", "s": "Il m'a dit que tout était fini, mais je ne ___ crois pas vraiment.", "en": "He told me that everything was over, but I don't really believe it.", "a": "le", "alts": [], "form": "neuter direct object pronoun (abstract statement)"},
+      {"f": "sense", "s": "Ce n'est pas aussi difficile que les gens ___ disent souvent.", "en": "It's not as difficult as people often say.", "a": "le", "alts": [], "form": "neuter direct object pronoun (abstract/general reference)"},
+      {"f": "sense", "s": "Jean a besoin d'aide pour son examen. Je vais ___ aider immédiatement.", "en": "Jean needs help for his exam. I will help him immediately.", "a": "l'", "alts": [], "form": "direct object pronoun before vowel (specific person)"},
+      {"f": "sense", "s": "Cette chanson italienne est magnifique. Je ___ écoute tous les soirs.", "en": "This Italian song is magnificent. I listen to it every evening.", "a": "l'", "alts": [], "form": "direct object pronoun before vowel (thing, feminine noun)"}
+    ]
+  },
+  {
+    "id": "2",
+    "qs": [
+      {"f": "sense", "s": "Le livre ___ mon professeur est très intéressant.", "en": "My teacher's book is very interesting.", "a": "de", "alts": [], "form": "preposition - possession"},
+      {"f": "sense", "s": "La porte ___ la maison voisine est toujours fermée.", "en": "The door of the neighboring house is always closed.", "a": "de", "alts": [], "form": "preposition - possession"},
+      {"f": "sense", "s": "Elle vient ___ Paris et son mari vient de Lyon.", "en": "She comes from Paris and her husband comes from Lyon.", "a": "de", "alts": [], "form": "preposition - origin"},
+      {"f": "sense", "s": "Je suis parti ___ mon domicile à huit heures du matin.", "en": "I left from my home at eight o'clock in the morning.", "a": "de", "alts": [], "form": "preposition - origin"},
+      {"f": "sense", "s": "Le directeur ___ cette grande entreprise est très compétent.", "en": "The director of this big company is very competent.", "a": "de", "alts": [], "form": "preposition - possession"},
+      {"f": "sense", "s": "C'est une question ___ grande importance pour notre avenir.", "en": "It is a question of great importance for our future.", "a": "de", "alts": [], "form": "preposition - characteristic (de + abstract noun)"},
+      {"f": "sense", "s": "Le train ___ Marseille arrive sur le quai numéro trois.", "en": "The train from Marseille arrives on platform number three.", "a": "de", "alts": [], "form": "preposition - origin"}
+    ]
+  },
+  {
+    "id": "3",
+    "qs": [
+      {"f": "gender", "s": "Elle a ___ chat noir qui dort toujours sur le canapé.", "en": "She has a black cat that always sleeps on the couch.", "a": "un", "alts": [], "form": "indefinite article, masculine singular"},
+      {"f": "gender", "s": "Je cherche ___ stylo bleu pour écrire ma lettre.", "en": "I'm looking for a blue pen to write my letter.", "a": "un", "alts": [], "form": "indefinite article, masculine singular"},
+      {"f": "gender", "s": "C'est ___ excellent acteur que j'ai vu hier soir au théâtre.", "en": "He's an excellent actor whom I saw last night at the theater.", "a": "un", "alts": [], "form": "indefinite article, masculine singular before vowel"},
+      {"f": "gender", "s": "Elle a trouvé ___ belle maison près de la mer.", "en": "She found a beautiful house near the sea.", "a": "une", "alts": [], "form": "indefinite article, feminine singular"},
+      {"f": "gender", "s": "Nous cherchons ___ nouvelle voiture pour notre famille.", "en": "We are looking for a new car for our family.", "a": "une", "alts": [], "form": "indefinite article, feminine singular"},
+      {"f": "gender", "s": "Il a mangé ___ pomme rouge à midi.", "en": "He ate a red apple at noon.", "a": "une", "alts": [], "form": "indefinite article, feminine singular"},
+      {"f": "gender", "s": "J'ai acheté ___ livres intéressants pour mes enfants.", "en": "I bought some interesting books for my children.", "a": "des", "alts": [], "form": "indefinite article, plural"},
+      {"f": "gender", "s": "Nous avons cueilli ___ fleurs magnifiques dans le jardin.", "en": "We picked some magnificent flowers in the garden.", "a": "des", "alts": [], "form": "indefinite article, plural"},
+      {"f": "gender", "s": "Il y a ___ chaises confortables autour de la table.", "en": "There are some comfortable chairs around the table.", "a": "des", "alts": [], "form": "indefinite article, plural"},
+      {"f": "sense", "s": "Il n'y a qu'___ seule solution possible à ce problème.", "en": "There is only one single possible solution to this problem.", "a": "une", "alts": [], "form": "the number one (feminine)"},
+      {"f": "sense", "s": "Elle a attendu pendant ___ heure entière avant d'abandonner.", "en": "She waited for one whole hour before giving up.", "a": "une", "alts": [], "form": "the number one (feminine)"}
+    ]
+  },
+  {
+    "id": "5",
+    "qs": [
+      {"f": "tense", "s": "Je ___ heureux de te voir aujourd'hui.", "en": "I am happy to see you today.", "a": "suis", "alts": [], "form": "Présent (je)"},
+      {"f": "tense", "s": "Tu ___ toujours fatigué le soir après le travail?", "en": "Are you always tired in the evening after work?", "a": "es", "alts": [], "form": "Présent (tu)"},
+      {"f": "tense", "s": "Il ___ important de comprendre cette leçon.", "en": "It is important to understand this lesson.", "a": "est", "alts": [], "form": "Présent (il)"},
+      {"f": "tense", "s": "Nous ___ tous d'accord sur cette décision.", "en": "We are all in agreement about this decision.", "a": "sommes", "alts": [], "form": "Présent (nous)"},
+      {"f": "tense", "s": "Vous ___ invités à la cérémonie de demain.", "en": "You are invited to tomorrow's ceremony.", "a": "êtes", "alts": [], "form": "Présent (vous)"},
+      {"f": "tense", "s": "Elles ___ les meilleures étudiantes de la classe.", "en": "They (feminine) are the best students in the class.", "a": "sont", "alts": [], "form": "Présent (ils/elles)"},
+      {"f": "tense", "s": "Hier, j'___ très malade et je suis resté au lit.", "en": "Yesterday, I was very sick and I stayed in bed.", "a": "ai été", "alts": [], "form": "Passé composé (j')"},
+      {"f": "tense", "s": "Elle ___ très malade la semaine dernière, mais elle va mieux.", "en": "She was very sick last week, but she is better now.", "a": "a été", "alts": [], "form": "Passé composé (il/elle)"},
+      {"f": "tense", "s": "Nous ___ témoins de cet accident hier après-midi.", "en": "We were witnesses to this accident yesterday afternoon.", "a": "avons été", "alts": [], "form": "Passé composé (nous)"},
+      {"f": "tense", "s": "Ils ___ les premiers à arriver à l'événement.", "en": "They were the first to arrive at the event.", "a": "ont été", "alts": [], "form": "Passé composé (ils)"},
+      {"f": "tense", "s": "Autrefois, j'___ très occupé par mon travail.", "en": "In the past, I was very busy with my work.", "a": "étais", "alts": [], "form": "Imparfait (j')"},
+      {"f": "tense", "s": "Quand tu étais petit, tu ___ toujours très gentil.", "en": "When you were little, you were always very kind.", "a": "étais", "alts": [], "form": "Imparfait (tu)"},
+      {"f": "tense", "s": "Il ___ directeur de cette société pendant dix ans.", "en": "He was the director of this company for ten years.", "a": "était", "alts": [], "form": "Imparfait (il)"},
+      {"f": "tense", "s": "Nous ___ en vacances quand nous avons entendu la nouvelle.", "en": "We were on vacation when we heard the news.", "a": "étions", "alts": [], "form": "Imparfait (nous)"},
+      {"f": "tense", "s": "Elles ___ amies depuis l'école primaire.", "en": "They (feminine) were friends since primary school.", "a": "étaient", "alts": [], "form": "Imparfait (ils/elles)"},
+      {"f": "tense", "s": "Je ___ au musée demain après-midi avec ma classe.", "en": "I will be at the museum tomorrow afternoon with my class.", "a": "serai", "alts": [], "form": "Futur (je)"},
+      {"f": "tense", "s": "Tu ___ certainement heureux avec cette décision.", "en": "You will certainly be happy with this decision.", "a": "seras", "alts": [], "form": "Futur (tu)"},
+      {"f": "tense", "s": "Il ___ champion du monde l'année prochaine, c'est sûr.", "en": "He will be world champion next year, for sure.", "a": "sera", "alts": [], "form": "Futur (il)"},
+      {"f": "tense", "s": "Nous ___ les derniers à quitter la salle ce soir.", "en": "We will be the last to leave the hall tonight.", "a": "serons", "alts": [], "form": "Futur (nous)"},
+      {"f": "tense", "s": "Vous ___ prêts à partir dans une heure.", "en": "You will be ready to leave in an hour.", "a": "serez", "alts": [], "form": "Futur (vous)"},
+      {"f": "tense", "s": "Elles ___ mères de famille dans cinq ans.", "en": "They (feminine) will be mothers in five years.", "a": "seront", "alts": [], "form": "Futur (ils/elles)"},
+      {"f": "tense", "s": "Je ___ ravi si tu venais à ma fête samedi.", "en": "I would be delighted if you came to my party on Saturday.", "a": "serais", "alts": [], "form": "Conditionnel (je)"},
+      {"f": "tense", "s": "À ma place, tu ___ surpris de voir tout ce changement.", "en": "In my place, you would be surprised to see all this change.", "a": "serais", "alts": [], "form": "Conditionnel (tu)"},
+      {"f": "tense", "s": "Il ___ dommage de rater cette opportunité unique.", "en": "It would be a pity to miss this unique opportunity.", "a": "serait", "alts": [], "form": "Conditionnel (il)"},
+      {"f": "tense", "s": "Nous ___ en meilleure santé si nous mangions mieux.", "en": "We would be in better health if we ate better.", "a": "serions", "alts": [], "form": "Conditionnel (nous)"},
+      {"f": "tense", "s": "Ils ___ malheureux sans leurs amis proches.", "en": "They would be unhappy without their close friends.", "a": "seraient", "alts": [], "form": "Conditionnel (ils)"},
+      {"f": "tense", "s": "Il faut que je ___ honnête avec toi.", "en": "I must be honest with you.", "a": "sois", "alts": [], "form": "Subjonctif (je)"},
+      {"f": "tense", "s": "Je doute que tu ___ vraiment prêt pour l'examen.", "en": "I doubt that you are really ready for the exam.", "a": "sois", "alts": [], "form": "Subjonctif (tu)"},
+      {"f": "tense", "s": "Il est possible qu'il ___ malade aujourd'hui.", "en": "It is possible that he is sick today.", "a": "soit", "alts": [], "form": "Subjonctif (il)"},
+      {"f": "tense", "s": "Il faut que nous ___ ensemble pour cette aventure.", "en": "It is necessary that we be together for this adventure.", "a": "soyons", "alts": [], "form": "Subjonctif (nous)"},
+      {"f": "tense", "s": "Je souhaite que vous ___ heureux dans votre nouvelle maison.", "en": "I wish that you be happy in your new home.", "a": "soyez", "alts": [], "form": "Subjonctif (vous)"},
+      {"f": "tense", "s": "Il est essentiel qu'elles ___ respectueuses envers les aînés.", "en": "It is essential that they (feminine) be respectful toward the elders.", "a": "soient", "alts": [], "form": "Subjonctif (ils/elles)"},
+      {"f": "sense", "s": "Cette maison ___ très grande et spacieuse.", "en": "This house is very large and spacious.", "a": "est", "alts": [], "form": "Présent (état/qualité)"}
+    ]
+  },
+  {
+    "id": "6",
+    "qs": [
+      {"f": "sense", "s": "Il y a des chaises, des tables ___ des lampes dans le salon.", "en": "There are chairs, tables and lamps in the living room.", "a": "et", "alts": [], "form": "coordinating conjunction - enumeration"},
+      {"f": "sense", "s": "Marie aime la musique ___ la danse depuis son enfance.", "en": "Marie has liked music and dancing since her childhood.", "a": "et", "alts": [], "form": "coordinating conjunction - noun coordination"},
+      {"f": "sense", "s": "Le matin, je prends un café ___ je lis le journal.", "en": "In the morning, I have a coffee and I read the newspaper.", "a": "et", "alts": [], "form": "coordinating conjunction - sequential clauses"},
+      {"f": "sense", "s": "Mon frère ___ ma sœur habitent à Paris depuis deux ans.", "en": "My brother and my sister have lived in Paris for two years.", "a": "et", "alts": [], "form": "coordinating conjunction - subject coordination"},
+      {"f": "sense", "s": "J'aime les gâteaux ___ les bonbons, surtout au chocolat.", "en": "I like cakes and candies, especially chocolate ones.", "a": "et", "alts": [], "form": "coordinating conjunction - object coordination"},
+      {"f": "sense", "s": "Nous parlons français ___ anglais à la maison.", "en": "We speak French and English at home.", "a": "et", "alts": [], "form": "coordinating conjunction - language coordination"},
+      {"f": "sense", "s": "Elle est à la fois intelligente ___ généreuse.", "en": "She is both intelligent and generous.", "a": "et", "alts": [], "form": "coordinating conjunction - adjective coordination"},
+      {"f": "usage", "s": "Sept, huit, neuf ___ dix: voilà, j'ai fini de compter.", "en": "Seven, eight, nine and ten: there, I've finished counting.", "a": "et", "alts": [], "form": "coordinating conjunction - numbers"},
+      {"f": "usage", "s": "Le mardi ___ le mercredi, nous avons un cours de mathématiques.", "en": "On Tuesdays and Wednesdays, we have a math class.", "a": "et", "alts": [], "form": "coordinating conjunction - days of the week"},
+      {"f": "sense", "s": "Les enfants jouent dehors ___ les adultes discutent à l'intérieur.", "en": "The children play outside and the adults talk inside.", "a": "et", "alts": [], "form": "coordinating conjunction - parallel clauses"}
+    ]
+  },
+  {
+    "id": "7",
+    "qs": [
+      {"f": "usage", "s": "Je vais au marché ___ voiture tous les samedis.", "en": "I go to the market by car every Saturday.", "a": "en", "alts": [], "form": "means of transportation (enclosed vehicle)"},
+      {"f": "usage", "s": "Il est venu ___ train depuis Paris ce matin.", "en": "He came by train from Paris this morning.", "a": "en", "alts": [], "form": "means of transportation (enclosed vehicle)"},
+      {"f": "usage", "s": "Le trajet jusqu'à Lyon prend deux heures ___ voiture.", "en": "The trip to Lyon takes two hours by car.", "a": "en", "alts": [], "form": "means of transportation (enclosed vehicle)"},
+      {"f": "usage", "s": "Le nouveau film sortira ___ mars prochain au cinéma.", "en": "The new film will come out next March in theaters.", "a": "en", "alts": [], "form": "temporal marker (month)"},
+      {"f": "usage", "s": "Nous avons terminé tout le projet ___ une semaine seulement.", "en": "We finished the entire project in just one week.", "a": "en", "alts": [], "form": "duration needed to complete an action"},
+      {"f": "usage", "s": "Cette belle robe est faite ___ soie italienne.", "en": "This beautiful dress is made of Italian silk.", "a": "en", "alts": [], "form": "material composition"},
+      {"f": "usage", "s": "La vieille maison du village est construite ___ pierre.", "en": "The old house in the village is built of stone.", "a": "en", "alts": [], "form": "material composition"},
+      {"f": "usage", "s": "Les enfants attendaient sagement ___ silence devant la porte.", "en": "The children were waiting quietly in silence in front of the door.", "a": "en", "alts": [], "form": "state/condition"},
+      {"f": "usage", "s": "Les feuilles des arbres changent de couleur ___ automne.", "en": "The leaves of the trees change color in autumn.", "a": "en", "alts": [], "form": "temporal marker (season starting with vowel)"},
+      {"f": "usage", "s": "Nous nous reverrons ___ été prochain, près de la mer.", "en": "We will see each other again next summer, near the sea.", "a": "en", "alts": [], "form": "temporal marker (season starting with vowel)"},
+      {"f": "usage", "s": "Je l'ai rencontré ___ 2015 lors d'une conférence à Genève.", "en": "I met him in 2015 at a conference in Geneva.", "a": "en", "alts": [], "form": "temporal marker (year)"},
+      {"f": "usage", "s": "J'ai fait ce long voyage ___ 2020, juste avant la pandémie.", "en": "I made this long trip in 2020, just before the pandemic.", "a": "en", "alts": [], "form": "temporal marker (year)"},
+      {"f": "usage", "s": "Elle court très vite ___ short et en baskets dans le parc.", "en": "She runs very fast in shorts and sneakers in the park.", "a": "en", "alts": [], "form": "attire (clothing worn)"}
+    ]
+  },
+  {
+    "id": "8",
+    "qs": [
+      {"f": "tense", "s": "J'___ un problème avec mon ordinateur ce matin.", "en": "I have a problem with my computer this morning.", "a": "ai", "alts": [], "form": "Présent (je)"},
+      {"f": "tense", "s": "Tu ___ les clés de la maison dans ta poche?", "en": "Do you have the house keys in your pocket?", "a": "as", "alts": [], "form": "Présent (tu)"},
+      {"f": "tense", "s": "Il ___ une voiture rouge garée devant chez lui.", "en": "He has a red car parked in front of his house.", "a": "a", "alts": [], "form": "Présent (il)"},
+      {"f": "tense", "s": "Nous ___ une réunion importante demain matin.", "en": "We have an important meeting tomorrow morning.", "a": "avons", "alts": [], "form": "Présent (nous)"},
+      {"f": "tense", "s": "Vous ___ raison sur ce point précis.", "en": "You are right on this specific point.", "a": "avez", "alts": [], "form": "Présent (vous)"},
+      {"f": "tense", "s": "Ils ___ une petite maison à la campagne.", "en": "They have a small house in the countryside.", "a": "ont", "alts": [], "form": "Présent (ils)"},
+      {"f": "tense", "s": "Hier, j'___ visité le musée du Louvre avec ma classe.", "en": "Yesterday, I visited the Louvre museum with my class.", "a": "ai", "alts": [], "form": "Passé composé (je)"},
+      {"f": "tense", "s": "Il ___ gagné le match de tennis hier soir.", "en": "He won the tennis match last night.", "a": "a", "alts": [], "form": "Passé composé (il)"},
+      {"f": "tense", "s": "Nous ___ passé une excellente journée à la plage.", "en": "We spent an excellent day at the beach.", "a": "avons", "alts": [], "form": "Passé composé (nous)"},
+      {"f": "tense", "s": "Ils ___ découvert une nouvelle route plus rapide.", "en": "They discovered a new, faster road.", "a": "ont", "alts": [], "form": "Passé composé (ils)"},
+      {"f": "tense", "s": "Autrefois, j'___ beaucoup de travail au bureau.", "en": "In the past, I used to have a lot of work at the office.", "a": "avais", "alts": [], "form": "Imparfait (je)"},
+      {"f": "tense", "s": "Quand il était jeune, il ___ une grande maison.", "en": "When he was young, he had a large house.", "a": "avait", "alts": [], "form": "Imparfait (il)"},
+      {"f": "tense", "s": "À cette époque, nous ___ plusieurs amis dans ce quartier.", "en": "At that time, we used to have several friends in this neighborhood.", "a": "avions", "alts": [], "form": "Imparfait (nous)"},
+      {"f": "tense", "s": "Pendant leur enfance, ils ___ beaucoup de patience.", "en": "During their childhood, they had a lot of patience.", "a": "avaient", "alts": [], "form": "Imparfait (ils)"},
+      {"f": "tense", "s": "L'année prochaine, j'___ une voiture neuve.", "en": "Next year, I will have a new car.", "a": "aurai", "alts": [], "form": "Futur (je)"},
+      {"f": "tense", "s": "Nous ___ trois semaines de vacances cet été.", "en": "We will have three weeks of vacation this summer.", "a": "aurons", "alts": [], "form": "Futur (nous)"},
+      {"f": "tense", "s": "Vous ___ la réponse définitive bientôt.", "en": "You will have the definitive answer soon.", "a": "aurez", "alts": [], "form": "Futur (vous)"},
+      {"f": "tense", "s": "Ils ___ une maison avec un grand jardin un jour.", "en": "They will have a house with a big garden one day.", "a": "auront", "alts": [], "form": "Futur (ils)"},
+      {"f": "tense", "s": "Il ___ certainement l'air heureux s'il gagnait.", "en": "He would certainly look happy if he won.", "a": "aurait", "alts": [], "form": "Conditionnel (il)"},
+      {"f": "tense", "s": "Avec un meilleur salaire, nous ___ une plus grande maison.", "en": "With a better salary, we would have a bigger house.", "a": "aurions", "alts": [], "form": "Conditionnel (nous)"},
+      {"f": "tense", "s": "S'ils économisaient, ils ___ l'argent pour acheter.", "en": "If they saved, they would have the money to buy.", "a": "auraient", "alts": [], "form": "Conditionnel (ils)"},
+      {"f": "tense", "s": "Il faut que j'___ tous les documents avant lundi.", "en": "I must have all the documents before Monday.", "a": "aie", "alts": [], "form": "Subjonctif (je)"},
+      {"f": "tense", "s": "Je crains qu'il n'___ des ennuis avec son patron.", "en": "I'm afraid he may have trouble with his boss.", "a": "ait", "alts": [], "form": "Subjonctif (il)"},
+      {"f": "tense", "s": "Il est important que nous ___ une bonne communication.", "en": "It is important that we have good communication.", "a": "ayons", "alts": [], "form": "Subjonctif (nous)"},
+      {"f": "tense", "s": "Je souhaite que vous ___ une excellente expérience chez nous.", "en": "I wish that you have an excellent experience with us.", "a": "ayez", "alts": [], "form": "Subjonctif (vous)"},
+      {"f": "tense", "s": "Je ne suis pas sûr qu'ils ___ bien compris la consigne.", "en": "I'm not sure that they have understood the instructions well.", "a": "aient", "alts": [], "form": "Subjonctif (ils)"},
+      {"f": "sense", "s": "Cet homme riche ___ de nombreuses propriétés en France.", "en": "This rich man has many properties in France.", "a": "a", "alts": [], "form": "Présent - possession"},
+      {"f": "sense", "s": "Les enfants ___ faim, il faut préparer le dîner.", "en": "The children are hungry, we need to prepare dinner.", "a": "ont", "alts": [], "form": "Présent - expression avoir faim"}
+    ]
+  },
+  {
+    "id": "9",
+    "qs": [
+      {"f": "sense", "s": "Le professeur dit ___ tu dois rendre ton devoir demain.", "en": "The teacher says that you must hand in your homework tomorrow.", "a": "que", "alts": [], "form": "conjunction (declarative clause)"},
+      {"f": "sense", "s": "Je crois ___ c'est vraiment une bonne idée.", "en": "I believe that it is really a good idea.", "a": "que", "alts": [], "form": "conjunction (declarative clause)"},
+      {"f": "sense", "s": "Elle m'a expliqué ___ elle était malade ce jour-là.", "en": "She explained to me that she was sick that day.", "a": "que", "alts": [], "form": "conjunction (reported speech)"},
+      {"f": "sense", "s": "L'homme ___ j'ai rencontré hier est mon nouveau professeur.", "en": "The man whom I met yesterday is my new teacher.", "a": "que", "alts": [], "form": "relative pronoun (direct object)"},
+      {"f": "sense", "s": "Le livre ___ tu m'as offert est passionnant.", "en": "The book that you gave me is fascinating.", "a": "que", "alts": [], "form": "relative pronoun (direct object)"},
+      {"f": "sense", "s": "La maison ___ nous avons visitée était très ancienne.", "en": "The house that we visited was very old.", "a": "que", "alts": [], "form": "relative pronoun (direct object, feminine)"},
+      {"f": "sense", "s": "Les amis ___ j'ai invités sont arrivés très tôt.", "en": "The friends whom I invited arrived very early.", "a": "que", "alts": [], "form": "relative pronoun (direct object, plural)"},
+      {"f": "sense", "s": "Il n'y a ___ toi et moi dans cette grande maison.", "en": "There is only you and me in this big house.", "a": "que", "alts": [], "form": "restrictive adverb (ne...que)"},
+      {"f": "sense", "s": "Je n'ai ___ cinq euros dans ma poche aujourd'hui.", "en": "I have only five euros in my pocket today.", "a": "que", "alts": [], "form": "restrictive adverb (ne...que)"},
+      {"f": "sense", "s": "Elle ne mange ___ des fruits et des légumes frais.", "en": "She eats only fresh fruits and vegetables.", "a": "que", "alts": [], "form": "restrictive adverb (ne...que)"},
+      {"f": "sense", "s": "Il faut ___ tu sois à l'heure pour le rendez-vous.", "en": "It is necessary that you be on time for the appointment.", "a": "que", "alts": [], "form": "conjunction (subjunctive clause)"},
+      {"f": "sense", "s": "J'ai peur ___ il ne vienne pas à la fête ce soir.", "en": "I am afraid that he may not come to the party tonight.", "a": "que", "alts": [], "form": "conjunction (subjunctive clause)"}
+    ]
+  },
+  {
+    "id": "11",
+    "qs": [
+      {"f": "usage", "s": "Je suis assis ___ le salon avec mes amis.", "en": "I am sitting in the living room with my friends.", "a": "dans", "alts": [], "form": "spatial location (inside)"},
+      {"f": "usage", "s": "Il a plongé ___ l'eau froide du lac ce matin.", "en": "He dove into the cold water of the lake this morning.", "a": "dans", "alts": [], "form": "motion into"},
+      {"f": "usage", "s": "Elle a jeté la vieille clé ___ la poubelle par erreur.", "en": "She threw the old key into the trash by mistake.", "a": "dans", "alts": [], "form": "motion into a container"},
+      {"f": "usage", "s": "Nous nous reverrons ___ deux semaines, pas avant.", "en": "We will see each other again in two weeks, not before.", "a": "dans", "alts": [], "form": "temporal future (in X time from now)"},
+      {"f": "usage", "s": "Le film commencera ___ cinq minutes exactement.", "en": "The film will begin in exactly five minutes.", "a": "dans", "alts": [], "form": "temporal future (in X time from now)"},
+      {"f": "usage", "s": "Cette histoire se passe ___ un petit village de montagne.", "en": "This story takes place in a small mountain village.", "a": "dans", "alts": [], "form": "location (within a place)"},
+      {"f": "usage", "s": "J'ai lu cette nouvelle ___ le journal du matin.", "en": "I read this news in the morning newspaper.", "a": "dans", "alts": [], "form": "source/medium"},
+      {"f": "usage", "s": "Elle travaille ___ le secteur bancaire depuis dix ans.", "en": "She has been working in the banking sector for ten years.", "a": "dans", "alts": [], "form": "professional field/domain"},
+      {"f": "sense", "s": "Le bébé dort paisiblement ___ un berceau près de la fenêtre.", "en": "The baby sleeps peacefully in a cradle near the window.", "a": "dans", "alts": [], "form": "containment/enclosure"},
+      {"f": "sense", "s": "Je te raconterai tout ___ quelques jours, c'est promis.", "en": "I'll tell you everything in a few days, I promise.", "a": "dans", "alts": [], "form": "temporal future (in X time from now)"},
+      {"f": "sense", "s": "Il a découvert cette information ___ un vieux livre oublié.", "en": "He discovered this information in an old forgotten book.", "a": "dans", "alts": [], "form": "source/origin (inside a book)"}
+    ]
+  },
+  {
+    "id": "12",
+    "qs": [
+      {"f": "usage", "s": "___ livre de grammaire est très utile pour les débutants.", "en": "This grammar book is very useful for beginners.", "a": "Ce", "alts": [], "form": "demonstrative adjective, masculine singular before consonant"},
+      {"f": "usage", "s": "___ acteur joue très bien dans son nouveau film.", "en": "This actor plays very well in his new film.", "a": "Cet", "alts": [], "form": "demonstrative adjective, masculine singular before vowel"},
+      {"f": "usage", "s": "___ idée me semble vraiment brillante.", "en": "This idea seems really brilliant to me.", "a": "Cette", "alts": [], "form": "demonstrative adjective, feminine singular"},
+      {"f": "usage", "s": "___ enfants sont vraiment très bien élevés.", "en": "These children are really very well-behaved.", "a": "Ces", "alts": [], "form": "demonstrative adjective, plural"},
+      {"f": "sense", "s": "La situation est compliquée; ___ qui m'inquiète, c'est le délai.", "en": "The situation is complicated; what worries me is the deadline.", "a": "ce", "alts": [], "form": "demonstrative pronoun, antecedent of 'qui'"},
+      {"f": "sense", "s": "Je ne comprends pas ___ que tu essaies de me dire.", "en": "I don't understand what you are trying to tell me.", "a": "ce", "alts": [], "form": "demonstrative pronoun, antecedent of 'que'"},
+      {"f": "sense", "s": "Le projet ___ dont nous avons parlé hier a finalement réussi.", "en": "The project we spoke about yesterday finally succeeded.", "a": "ce", "alts": [], "form": "demonstrative pronoun, antecedent of 'dont'"},
+      {"f": "sense", "s": "___ été a été particulièrement chaud cette année.", "en": "This summer was particularly hot this year.", "a": "Cet", "alts": [], "form": "demonstrative adjective, temporal (before vowel)"}
+    ]
+  },
+  {
+    "id": "13",
+    "qs": [
+      {"f": "usage", "s": "Mon oncle est très occupé; ___ est médecin depuis dix ans.", "en": "My uncle is very busy; he has been a doctor for ten years.", "a": "il", "alts": [], "form": "subject pronoun (personal, masculine)"},
+      {"f": "usage", "s": "Mon cousin a déménagé; ___ habite à Paris avec sa famille.", "en": "My cousin moved; he lives in Paris with his family.", "a": "il", "alts": [], "form": "subject pronoun (personal, masculine)"},
+      {"f": "usage", "s": "Le chat? ___ dort toute la journée sur le canapé.", "en": "The cat? It sleeps all day long on the couch.", "a": "Il", "alts": [], "form": "subject pronoun (referring to masculine noun)"},
+      {"f": "usage", "s": "___ pleut beaucoup ce matin sur la ville.", "en": "It's raining a lot this morning over the city.", "a": "Il", "alts": [], "form": "impersonal pronoun (weather)"},
+      {"f": "usage", "s": "___ faut être patient pour apprendre une langue étrangère.", "en": "It is necessary to be patient in order to learn a foreign language.", "a": "Il", "alts": [], "form": "impersonal pronoun with falloir"},
+      {"f": "usage", "s": "___ y a trois étudiants absents dans la classe aujourd'hui.", "en": "There are three students absent in the class today.", "a": "Il", "alts": [], "form": "impersonal pronoun (il y a)"},
+      {"f": "sense", "s": "Mon frère vient de terminer ses études; ___ veut devenir ingénieur.", "en": "My brother just finished his studies; he wants to become an engineer.", "a": "il", "alts": [], "form": "personal pronoun (male person)"},
+      {"f": "sense", "s": "J'ai acheté ce roman hier; ___ est vraiment très intéressant.", "en": "I bought this novel yesterday; it is really very interesting.", "a": "il", "alts": [], "form": "personal pronoun (masculine thing)"}
+    ]
+  },
+  {
+    "id": "15",
+    "qs": [
+      {"f": "usage", "s": "Je ___ sais pas quoi faire ce week-end.", "en": "I don't know what to do this weekend.", "a": "ne", "alts": [], "form": "ne...pas construction (present)"},
+      {"f": "usage", "s": "Il ___ aime pas du tout les légumes verts.", "en": "He doesn't like green vegetables at all.", "a": "n'", "alts": [], "form": "ne...pas (elided before vowel)"},
+      {"f": "usage", "s": "Elles ___ vont jamais au cinéma le dimanche.", "en": "They never go to the cinema on Sundays.", "a": "ne", "alts": [], "form": "ne...jamais construction"},
+      {"f": "usage", "s": "Tu ___ fais rien d'utile de ta journée.", "en": "You do nothing useful with your day.", "a": "ne", "alts": [], "form": "ne...rien construction"},
+      {"f": "usage", "s": "Je ___ vois personne dans cette grande salle.", "en": "I see no one in this big room.", "a": "ne", "alts": [], "form": "ne...personne construction"},
+      {"f": "usage", "s": "Il ___ reste plus de pain dans la cuisine.", "en": "There is no more bread left in the kitchen.", "a": "ne", "alts": [], "form": "ne...plus construction"},
+      {"f": "usage", "s": "Nous ___ avons aucune raison de nous plaindre.", "en": "We have no reason to complain.", "a": "n'", "alts": [], "form": "ne...aucun (elided before vowel)"},
+      {"f": "usage", "s": "Elle ___ parle ni français ni anglais couramment.", "en": "She speaks neither French nor English fluently.", "a": "ne", "alts": [], "form": "ne...ni...ni construction"},
+      {"f": "usage", "s": "Il ___ travaillera pas demain car c'est un jour férié.", "en": "He won't work tomorrow because it's a public holiday.", "a": "ne", "alts": [], "form": "ne...pas construction (future)"},
+      {"f": "usage", "s": "Elle ___ avait pas compris l'importance de ce moment.", "en": "She hadn't understood the importance of that moment.", "a": "n'", "alts": [], "form": "ne...pas construction (pluperfect, elided)"},
+      {"f": "usage", "s": "___ t'inquiète pas, tout ira bien demain.", "en": "Don't worry, everything will be fine tomorrow.", "a": "Ne", "alts": [], "form": "imperative with ne...pas"},
+      {"f": "sense", "s": "Mon père ___ supporte pas le bruit des voisins.", "en": "My father cannot stand the neighbors' noise.", "a": "ne", "alts": [], "form": "ne...pas (strong negation)"}
+    ]
+  },
+  {
+    "id": "16",
+    "qs": [
+      {"f": "sense", "s": "Le livre de cuisine est posé ___ la table de la salle à manger.", "en": "The cookbook is lying on the dining room table.", "a": "sur", "alts": [], "form": "preposition - physical location (on top of)"},
+      {"f": "sense", "s": "Je pose mon verre vide ___ le comptoir de la cuisine.", "en": "I place my empty glass on the kitchen counter.", "a": "sur", "alts": [], "form": "preposition - physical location (on top of)"},
+      {"f": "sense", "s": "Le petit oiseau s'est posé ___ la branche de l'arbre.", "en": "The little bird perched on the branch of the tree.", "a": "sur", "alts": [], "form": "preposition - physical location (on top of)"},
+      {"f": "sense", "s": "Elle a écrit un long article ___ les changements climatiques.", "en": "She wrote a long article about climate change.", "a": "sur", "alts": [], "form": "preposition - topic/subject"},
+      {"f": "sense", "s": "Peux-tu me donner plus d'informations ___ ce nouveau produit?", "en": "Can you give me more information about this new product?", "a": "sur", "alts": [], "form": "preposition - topic/subject"},
+      {"f": "sense", "s": "Notre équipe a remporté huit matchs ___ douze cette saison.", "en": "Our team won eight matches out of twelve this season.", "a": "sur", "alts": [], "form": "preposition - ratio/proportion"},
+      {"f": "sense", "s": "Environ trois personnes ___ dix aiment vraiment ce film.", "en": "About three people out of ten really like this movie.", "a": "sur", "alts": [], "form": "preposition - ratio/proportion"},
+      {"f": "sense", "s": "La grande fenêtre du salon donne ___ la mer Méditerranée.", "en": "The big living room window overlooks the Mediterranean Sea.", "a": "sur", "alts": [], "form": "preposition - view/facing onto"}
+    ]
+  },
+  {
+    "id": "17",
+    "qs": [
+      {"f": "usage", "s": "Je ___ lève à six heures chaque matin.", "en": "I wake up at six o'clock every morning.", "a": "me", "alts": [], "form": "reflexive pronoun, présent (je)"},
+      {"f": "usage", "s": "Tu ___ habilles toujours rapidement avant de partir.", "en": "You always get dressed quickly before leaving.", "a": "t'", "alts": [], "form": "reflexive pronoun, présent (tu, elided before vowel)"},
+      {"f": "usage", "s": "Il ___ lave les mains avant chaque repas.", "en": "He washes his hands before every meal.", "a": "se", "alts": [], "form": "reflexive pronoun, présent (il)"},
+      {"f": "usage", "s": "Elle ___ endort facilement le soir après une longue journée.", "en": "She falls asleep easily in the evening after a long day.", "a": "s'", "alts": [], "form": "reflexive pronoun, présent (elle, elided before vowel)"},
+      {"f": "usage", "s": "Nous ___ levons tôt le matin pour faire du sport.", "en": "We wake up early in the morning to exercise.", "a": "nous", "alts": [], "form": "reflexive pronoun, présent (nous)"},
+      {"f": "usage", "s": "Vous ___ couchez très tard ce soir, n'est-ce pas?", "en": "You go to bed very late tonight, don't you?", "a": "vous", "alts": [], "form": "reflexive pronoun, présent (vous)"},
+      {"f": "usage", "s": "Ils ___ amusent beaucoup à jouer dans le parc.", "en": "They have a lot of fun playing in the park.", "a": "s'", "alts": [], "form": "reflexive pronoun, présent (ils, elided before vowel)"},
+      {"f": "tense", "s": "Ce matin, je ___ suis levé très tôt pour le train.", "en": "This morning, I got up very early for the train.", "a": "me", "alts": [], "form": "passé composé (je)"},
+      {"f": "tense", "s": "Tu ___ es habillé en cinq minutes seulement.", "en": "You got dressed in just five minutes.", "a": "t'", "alts": [], "form": "passé composé (tu, elided)"},
+      {"f": "tense", "s": "Il ___ est endormi pendant tout le film.", "en": "He fell asleep during the whole film.", "a": "s'", "alts": [], "form": "passé composé (il, elided)"},
+      {"f": "tense", "s": "Nous ___ sommes rencontrés à la gare par hasard.", "en": "We met at the station by chance.", "a": "nous", "alts": [], "form": "passé composé (nous)"},
+      {"f": "tense", "s": "Vous ___ êtes bien amusés hier soir à la fête.", "en": "You had a lot of fun last night at the party.", "a": "vous", "alts": [], "form": "passé composé (vous)"},
+      {"f": "tense", "s": "Autrefois, je ___ levais tous les jours à sept heures.", "en": "In the past, I used to wake up every day at seven o'clock.", "a": "me", "alts": [], "form": "imparfait (je)"},
+      {"f": "tense", "s": "Quand tu étais jeune, tu ___ habillais toujours élégamment.", "en": "When you were young, you always dressed elegantly.", "a": "t'", "alts": [], "form": "imparfait (tu, elided)"},
+      {"f": "tense", "s": "À cette époque, nous ___ promenions souvent dans ce quartier.", "en": "At that time, we often walked around in this neighborhood.", "a": "nous", "alts": [], "form": "imparfait (nous)"},
+      {"f": "tense", "s": "Demain matin, je ___ lèverai à l'aube pour partir.", "en": "Tomorrow morning, I will wake up at dawn to leave.", "a": "me", "alts": [], "form": "futur simple (je)"},
+      {"f": "tense", "s": "Ce soir, tu ___ habilleras élégamment pour la fête.", "en": "Tonight, you will get dressed elegantly for the party.", "a": "t'", "alts": [], "form": "futur simple (tu, elided)"},
+      {"f": "tense", "s": "Demain, nous ___ rencontrerons devant le cinéma à midi.", "en": "Tomorrow, we will meet in front of the cinema at noon.", "a": "nous", "alts": [], "form": "futur simple (nous)"},
+      {"f": "tense", "s": "Je ___ lèverais plus tôt si j'avais une bonne raison.", "en": "I would wake up earlier if I had a good reason.", "a": "me", "alts": [], "form": "conditionnel présent (je)"},
+      {"f": "tense", "s": "Avec plaisir, nous ___ rencontrerions pour discuter du projet.", "en": "Gladly, we would meet to discuss the project.", "a": "nous", "alts": [], "form": "conditionnel présent (nous)"},
+      {"f": "sense", "s": "Marie et Pierre ___ aiment beaucoup depuis leur rencontre.", "en": "Marie and Pierre love each other very much since they met.", "a": "s'", "alts": [], "form": "reciprocal action (3rd person plural, elided)"},
+      {"f": "sense", "s": "Au marché, les fruits frais ___ vendent très bien.", "en": "At the market, fresh fruits sell very well.", "a": "se", "alts": [], "form": "passive pronominal construction (3rd person plural)"},
+      {"f": "sense", "s": "Ils ___ souviennent encore de leur enfance heureuse.", "en": "They still remember their happy childhood.", "a": "se", "alts": [], "form": "pronominal verb of memory (3rd person plural)"}
+    ]
+  },
+  {
+    "id": "19",
+    "qs": [
+      {"f": "sense", "s": "Ce restaurant est beaucoup ___ cher que celui du coin.", "en": "This restaurant is much more expensive than the one on the corner.", "a": "plus", "alts": [], "form": "comparative of superiority (plus...que)"},
+      {"f": "sense", "s": "Le nouveau professeur est ___ patient avec les élèves que l'ancien.", "en": "The new teacher is more patient with the students than the old one.", "a": "plus", "alts": [], "form": "comparative of superiority (plus...que)"},
+      {"f": "sense", "s": "Je ne mange ___ de viande; je suis végétarien maintenant.", "en": "I don't eat meat anymore; I'm vegetarian now.", "a": "plus", "alts": [], "form": "negation ne...plus (no longer)"},
+      {"f": "sense", "s": "Elle ne travaille ___ ici; elle a démissionné le mois dernier.", "en": "She no longer works here; she quit last month.", "a": "plus", "alts": [], "form": "negation ne...plus (no longer)"},
+      {"f": "sense", "s": "C'est l'examen le ___ difficile que j'aie jamais passé.", "en": "That's the most difficult exam I've ever taken.", "a": "plus", "alts": [], "form": "superlative (le plus)"},
+      {"f": "sense", "s": "Elle est la musicienne la ___ talentueuse de tout l'orchestre.", "en": "She's the most talented musician in the whole orchestra.", "a": "plus", "alts": [], "form": "superlative (la plus)"},
+      {"f": "usage", "s": "Ce film est ___ intéressant que le précédent, à mon avis.", "en": "This film is more interesting than the previous one, in my opinion.", "a": "plus", "alts": [], "form": "comparative structure (plus...que)"},
+      {"f": "usage", "s": "Elle gagne ___ d'argent que ses collègues du même âge.", "en": "She earns more money than her colleagues of the same age.", "a": "plus", "alts": [], "form": "comparative of quantity (plus de...que)"},
+      {"f": "usage", "s": "L'usine ne fonctionne ___; elle a fermé il y a cinq ans.", "en": "The factory doesn't operate anymore; it closed five years ago.", "a": "plus", "alts": [], "form": "negation ne...plus (no longer)"}
+    ]
+  },
+  {
+    "id": "20",
+    "qs": [
+      {"f": "tense", "form": "Présent (je)", "s": "Je ___ venir demain si tu le souhaites vraiment.", "en": "I can come tomorrow if you really wish.", "a": "peux", "alts": []},
+      {"f": "tense", "form": "Présent (tu)", "s": "Tu ___ m'aider avec ce projet difficile ce soir?", "en": "Can you help me with this difficult project tonight?", "a": "peux", "alts": []},
+      {"f": "tense", "form": "Présent (il)", "s": "Il ___ parler trois langues couramment depuis l'enfance.", "en": "He can speak three languages fluently since childhood.", "a": "peut", "alts": []},
+      {"f": "tense", "form": "Présent (nous)", "s": "Nous ___ trouver une bonne solution ensemble.", "en": "We can find a good solution together.", "a": "pouvons", "alts": []},
+      {"f": "tense", "form": "Présent (vous)", "s": "Vous ___ rester ici aussi longtemps que vous le voulez.", "en": "You can stay here as long as you want.", "a": "pouvez", "alts": []},
+      {"f": "tense", "form": "Présent (ils)", "s": "Ils ___ accéder gratuitement à la bibliothèque municipale.", "en": "They can access the municipal library for free.", "a": "peuvent", "alts": []},
+      {"f": "tense", "form": "Passé composé (je)", "s": "Hier, j'___ résoudre l'équation en dix minutes seulement.", "en": "Yesterday, I was able to solve the equation in just ten minutes.", "a": "ai pu", "alts": []},
+      {"f": "tense", "form": "Passé composé (il)", "s": "Il ___ acheter cette maison malgré le prix très élevé.", "en": "He was able to buy this house despite the very high price.", "a": "a pu", "alts": []},
+      {"f": "tense", "form": "Passé composé (nous)", "s": "Nous ___ finir le projet avant la date limite.", "en": "We managed to finish the project before the deadline.", "a": "avons pu", "alts": []},
+      {"f": "tense", "form": "Passé composé (ils/elles)", "s": "Elles ___ trouver un appartement abordable dans ce quartier.", "en": "They managed to find an affordable apartment in this neighborhood.", "a": "ont pu", "alts": []},
+      {"f": "tense", "form": "Imparfait (je)", "s": "Quand j'étais jeune, je ___ danser pendant des heures.", "en": "When I was young, I could dance for hours.", "a": "pouvais", "alts": []},
+      {"f": "tense", "form": "Imparfait (elle)", "s": "À cette époque, elle ___ se permettre des vacances luxueuses.", "en": "At that time, she could afford luxurious vacations.", "a": "pouvait", "alts": []},
+      {"f": "tense", "form": "Imparfait (nous)", "s": "Autrefois, nous ___ jouer au football dans le parc chaque samedi.", "en": "In the past, we could play football in the park every Saturday.", "a": "pouvions", "alts": []},
+      {"f": "tense", "form": "Imparfait (ils/elles)", "s": "Avant, elles ___ utiliser le laboratoire après les cours.", "en": "Before, they could use the lab after classes.", "a": "pouvaient", "alts": []},
+      {"f": "tense", "form": "Futur (je)", "s": "Demain, je ___ te contacter dans l'après-midi.", "en": "Tomorrow, I will be able to contact you in the afternoon.", "a": "pourrai", "alts": []},
+      {"f": "tense", "form": "Futur (il)", "s": "Il ___ diriger l'entreprise après sa formation l'an prochain.", "en": "He will be able to manage the company after his training next year.", "a": "pourra", "alts": []},
+      {"f": "tense", "form": "Futur (nous)", "s": "Une fois à la retraite, nous ___ voyager partout dans le monde.", "en": "Once retired, we will be able to travel everywhere in the world.", "a": "pourrons", "alts": []},
+      {"f": "tense", "form": "Futur (vous)", "s": "Bientôt, vous ___ accéder à toutes les fonctionnalités du logiciel.", "en": "Soon, you will be able to access all the features of the software.", "a": "pourrez", "alts": []},
+      {"f": "tense", "form": "Futur (ils)", "s": "Dès le mois prochain, ils ___ travailler à distance.", "en": "Starting next month, they will be able to work remotely.", "a": "pourront", "alts": []},
+      {"f": "tense", "form": "Conditionnel (je)", "s": "Je ___ te prêter de l'argent si tu en avais vraiment besoin.", "en": "I could lend you money if you really needed it.", "a": "pourrais", "alts": []},
+      {"f": "tense", "form": "Conditionnel (il)", "s": "Il ___ obtenir une bourse s'il améliorait ses notes.", "en": "He could get a scholarship if he improved his grades.", "a": "pourrait", "alts": []},
+      {"f": "tense", "form": "Conditionnel (nous)", "s": "Avec un plus grand budget, nous ___ construire une maison à la campagne.", "en": "With a bigger budget, we could build a house in the countryside.", "a": "pourrions", "alts": []},
+      {"f": "tense", "form": "Conditionnel (vous)", "s": "Vous ___ améliorer votre français en travaillant davantage.", "en": "You could improve your French by working harder.", "a": "pourriez", "alts": []},
+      {"f": "tense", "form": "Conditionnel (ils/elles)", "s": "Avec un investissement, elles ___ ouvrir leur propre boutique.", "en": "With some investment, they could open their own shop.", "a": "pourraient", "alts": []}
+    ]
+  }
+]

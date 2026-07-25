@@ -1,0 +1,701 @@
+[
+  {
+    "id": 3914,
+    "qs": [
+      {
+        "slot": "s|0",
+        "f": "sense",
+        "s": "Dans cette ferme, le ___ broute tranquillement dans le pré avec les autres bovins.",
+        "a": "bœuf",
+        "en": "On this farm, the ox grazes quietly in the meadow with the other cattle.",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "s|0",
+        "f": "sense",
+        "s": "Le fermier surveille son ___ qui se repose à l'ombre de l'étable.",
+        "a": "bœuf",
+        "en": "The farmer watches his ox resting in the shade of the stable.",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "s|1",
+        "f": "sense",
+        "s": "Autrefois, les paysans utilisaient le ___ pour labourer les champs à la place du tracteur.",
+        "a": "bœuf",
+        "en": "In the past, peasants used the ox to plow the fields instead of a tractor.",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "s|1",
+        "f": "sense",
+        "s": "Le ___ castré est plus docile que le taureau et peut tirer de lourdes charges.",
+        "a": "bœuf",
+        "en": "The castrated ox is more docile than the bull and can pull heavy loads.",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "s|2",
+        "f": "sense",
+        "s": "Le cuisinier a préparé un ragoût de ___ mijoté pendant trois heures.",
+        "a": "bœuf",
+        "en": "The cook prepared a beef stew simmered for three hours.",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "s|2",
+        "f": "sense",
+        "s": "Au supermarché, ma mère a acheté cinq cents grammes de ___ haché pour faire des boulettes.",
+        "a": "bœuf",
+        "en": "At the supermarket, my mother bought five hundred grams of ground beef to make meatballs.",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "gender",
+        "f": "gender",
+        "s": "Il a commandé ___ bœuf bourguignon au restaurant.",
+        "a": "un",
+        "en": "He ordered a beef bourguignon at the restaurant.",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "gender",
+        "f": "gender",
+        "s": "___ bœuf de cette ferme est connu dans toute la région.",
+        "a": "Le",
+        "en": "The ox of this farm is known throughout the region.",
+        "alts": [],
+        "form": ""
+      }
+    ]
+  },
+  {
+    "id": 3915,
+    "qs": [
+      {
+        "slot": "t|Présent|0",
+        "f": "tense",
+        "s": "Je ___ mes amis autour du projet commun.",
+        "a": "rallie",
+        "en": "I rally my friends around the common project.",
+        "alts": [],
+        "form": "Présent"
+      },
+      {
+        "slot": "t|Présent|0",
+        "f": "tense",
+        "s": "Le chef ___ ses troupes avant la bataille.",
+        "a": "rallie",
+        "en": "The leader rallies his troops before the battle.",
+        "alts": [],
+        "form": "Présent"
+      },
+      {
+        "slot": "t|Présent|1",
+        "f": "tense",
+        "s": "Tu ___ facilement les indécis à ta cause.",
+        "a": "rallies",
+        "en": "You easily win over the undecided to your cause.",
+        "alts": [],
+        "form": "Présent"
+      },
+      {
+        "slot": "t|Présent|1",
+        "f": "tense",
+        "s": "Tu ___ tous les membres du groupe chaque matin.",
+        "a": "rallies",
+        "en": "You rally all the group members every morning.",
+        "alts": [],
+        "form": "Présent"
+      },
+      {
+        "slot": "t|Présent|2",
+        "f": "tense",
+        "s": "Nous ___ les volontaires autour de cette initiative.",
+        "a": "rallions",
+        "en": "We rally the volunteers around this initiative.",
+        "alts": [],
+        "form": "Présent"
+      },
+      {
+        "slot": "t|Présent|2",
+        "f": "tense",
+        "s": "Nous ___ nos forces pour défendre la ville.",
+        "a": "rallions",
+        "en": "We rally our forces to defend the city.",
+        "alts": [],
+        "form": "Présent"
+      },
+      {
+        "slot": "t|Présent|3",
+        "f": "tense",
+        "s": "Vous ___ de nombreux partisans à votre position.",
+        "a": "ralliez",
+        "en": "You win over many supporters to your position.",
+        "alts": [],
+        "form": "Présent"
+      },
+      {
+        "slot": "t|Présent|3",
+        "f": "tense",
+        "s": "Est-ce que vous ___ toute l'équipe avant la réunion ?",
+        "a": "ralliez",
+        "en": "Do you rally the whole team before the meeting?",
+        "alts": [],
+        "form": "Présent"
+      },
+      {
+        "slot": "t|Présent|4",
+        "f": "tense",
+        "s": "Les manifestants ___ de nouveaux soutiens chaque jour.",
+        "a": "rallient",
+        "en": "The protesters rally new supporters every day.",
+        "alts": [],
+        "form": "Présent"
+      },
+      {
+        "slot": "t|Présent|4",
+        "f": "tense",
+        "s": "Les soldats ___ leur camp au lever du jour.",
+        "a": "rallient",
+        "en": "The soldiers join their camp at dawn.",
+        "alts": [],
+        "form": "Présent"
+      },
+      {
+        "slot": "t|Passé composé|0",
+        "f": "tense",
+        "s": "J'___ plusieurs collègues à mon point de vue hier.",
+        "a": "ai rallié",
+        "en": "I won over several colleagues to my point of view yesterday.",
+        "alts": [],
+        "form": "Passé composé"
+      },
+      {
+        "slot": "t|Passé composé|0",
+        "f": "tense",
+        "s": "J'___ mes partisans en un seul endroit avant le vote.",
+        "a": "ai rallié",
+        "en": "I rallied my supporters in one place before the vote.",
+        "alts": [],
+        "form": "Passé composé"
+      },
+      {
+        "slot": "t|Passé composé|1",
+        "f": "tense",
+        "s": "Tu ___ beaucoup de monde à cette cause hier soir.",
+        "a": "as rallié",
+        "en": "You won over many people to this cause last night.",
+        "alts": [],
+        "form": "Passé composé"
+      },
+      {
+        "slot": "t|Passé composé|1",
+        "f": "tense",
+        "s": "Tu ___ l'ensemble de l'équipe avant la finale.",
+        "a": "as rallié",
+        "en": "You rallied the entire team before the final.",
+        "alts": [],
+        "form": "Passé composé"
+      },
+      {
+        "slot": "t|Passé composé|2",
+        "f": "tense",
+        "s": "Le discours du président ___ une majorité de citoyens.",
+        "a": "a rallié",
+        "en": "The president's speech won over a majority of citizens.",
+        "alts": [],
+        "form": "Passé composé"
+      },
+      {
+        "slot": "t|Passé composé|2",
+        "f": "tense",
+        "s": "Le général ___ ses troupes dispersées en moins d'une heure.",
+        "a": "a rallié",
+        "en": "The general rallied his scattered troops in less than an hour.",
+        "alts": [],
+        "form": "Passé composé"
+      },
+      {
+        "slot": "t|Passé composé|3",
+        "f": "tense",
+        "s": "Nous ___ tous les membres de l'association à notre projet.",
+        "a": "avons rallié",
+        "en": "We won over all the association members to our project.",
+        "alts": [],
+        "form": "Passé composé"
+      },
+      {
+        "slot": "t|Passé composé|3",
+        "f": "tense",
+        "s": "Nous ___ nos forces après la retraite.",
+        "a": "avons rallié",
+        "en": "We rallied our forces after the retreat.",
+        "alts": [],
+        "form": "Passé composé"
+      },
+      {
+        "slot": "t|Passé composé|4",
+        "f": "tense",
+        "s": "Vous ___ de nombreux électeurs à votre programme lors de la campagne.",
+        "a": "avez rallié",
+        "en": "You won over many voters to your programme during the campaign.",
+        "alts": [],
+        "form": "Passé composé"
+      },
+      {
+        "slot": "t|Passé composé|4",
+        "f": "tense",
+        "s": "Vous ___ toute la troupe au quartier général ce matin.",
+        "a": "avez rallié",
+        "en": "You rallied the whole troop at headquarters this morning.",
+        "alts": [],
+        "form": "Passé composé"
+      },
+      {
+        "slot": "t|Passé composé|5",
+        "f": "tense",
+        "s": "Les activistes ___ des milliers de personnes à leur mouvement.",
+        "a": "ont rallié",
+        "en": "The activists won thousands of people over to their movement.",
+        "alts": [],
+        "form": "Passé composé"
+      },
+      {
+        "slot": "t|Passé composé|5",
+        "f": "tense",
+        "s": "Les soldats ___ leur unité après l'offensive.",
+        "a": "ont rallié",
+        "en": "The soldiers rejoined their unit after the offensive.",
+        "alts": [],
+        "form": "Passé composé"
+      },
+      {
+        "slot": "t|Imparfait|0",
+        "f": "tense",
+        "s": "Chaque semaine, je ___ des bénévoles supplémentaires à l'association.",
+        "a": "ralliais",
+        "en": "Every week, I was winning over additional volunteers to the association.",
+        "alts": [],
+        "form": "Imparfait"
+      },
+      {
+        "slot": "t|Imparfait|0",
+        "f": "tense",
+        "s": "Autrefois, tu ___ toujours tes camarades autour de tes idées.",
+        "a": "ralliais",
+        "en": "Back then, you always rallied your classmates around your ideas.",
+        "alts": [],
+        "form": "Imparfait"
+      },
+      {
+        "slot": "t|Imparfait|1",
+        "f": "tense",
+        "s": "Le capitaine ___ ses hommes chaque soir pour faire le point.",
+        "a": "ralliait",
+        "en": "The captain was rallying his men every evening to take stock.",
+        "alts": [],
+        "form": "Imparfait"
+      },
+      {
+        "slot": "t|Imparfait|1",
+        "f": "tense",
+        "s": "On ___ les partisans dispersés dans les montagnes.",
+        "a": "ralliait",
+        "en": "People were rallying the dispersed partisans in the mountains.",
+        "alts": [],
+        "form": "Imparfait"
+      },
+      {
+        "slot": "t|Imparfait|2",
+        "f": "tense",
+        "s": "Nous ___ régulièrement des adhérents à notre parti.",
+        "a": "ralliions",
+        "en": "We were regularly winning over members to our party.",
+        "alts": [],
+        "form": "Imparfait"
+      },
+      {
+        "slot": "t|Imparfait|2",
+        "f": "tense",
+        "s": "À cette époque, nous ___ nos troupes à l'aube avant chaque marche.",
+        "a": "ralliions",
+        "en": "At that time, we were rallying our troops at dawn before each march.",
+        "alts": [],
+        "form": "Imparfait"
+      },
+      {
+        "slot": "t|Imparfait|3",
+        "f": "tense",
+        "s": "Vous ___ souvent des opposants à votre camp politique.",
+        "a": "ralliiez",
+        "en": "You were often winning over opponents to your political camp.",
+        "alts": [],
+        "form": "Imparfait"
+      },
+      {
+        "slot": "t|Imparfait|3",
+        "f": "tense",
+        "s": "À cette période, vous ___ tous les membres avant les grandes décisions.",
+        "a": "ralliiez",
+        "en": "During that period, you were rallying all members before major decisions.",
+        "alts": [],
+        "form": "Imparfait"
+      },
+      {
+        "slot": "t|Imparfait|4",
+        "f": "tense",
+        "s": "Les délégués ___ de nouveaux alliés à chaque conférence.",
+        "a": "ralliaient",
+        "en": "The delegates were winning over new allies at each conference.",
+        "alts": [],
+        "form": "Imparfait"
+      },
+      {
+        "slot": "t|Imparfait|4",
+        "f": "tense",
+        "s": "Les rebelles ___ progressivement le parti en exil.",
+        "a": "ralliaient",
+        "en": "The rebels were gradually joining the party in exile.",
+        "alts": [],
+        "form": "Imparfait"
+      },
+      {
+        "slot": "t|Futur|0",
+        "f": "tense",
+        "s": "Je ___ tous mes alliés avant la prochaine élection.",
+        "a": "rallierai",
+        "en": "I will rally all my allies before the next election.",
+        "alts": [],
+        "form": "Futur"
+      },
+      {
+        "slot": "t|Futur|0",
+        "f": "tense",
+        "s": "Demain, je ___ l'opposition à ma proposition de loi.",
+        "a": "rallierai",
+        "en": "Tomorrow, I will win over the opposition to my bill.",
+        "alts": [],
+        "form": "Futur"
+      },
+      {
+        "slot": "t|Futur|1",
+        "f": "tense",
+        "s": "Tu ___ nos partenaires à cette nouvelle stratégie lors de la réunion.",
+        "a": "rallieras",
+        "en": "You will win over our partners to this new strategy at the meeting.",
+        "alts": [],
+        "form": "Futur"
+      },
+      {
+        "slot": "t|Futur|1",
+        "f": "tense",
+        "s": "Tu ___ ton équipe autour de toi avant le grand match.",
+        "a": "rallieras",
+        "en": "You will rally your team around you before the big match.",
+        "alts": [],
+        "form": "Futur"
+      },
+      {
+        "slot": "t|Futur|2",
+        "f": "tense",
+        "s": "Ce discours ___ beaucoup d'électeurs indécis.",
+        "a": "ralliera",
+        "en": "This speech will win over many undecided voters.",
+        "alts": [],
+        "form": "Futur"
+      },
+      {
+        "slot": "t|Futur|2",
+        "f": "tense",
+        "s": "Elle ___ le camp adverse à sa cause grâce à ses arguments.",
+        "a": "ralliera",
+        "en": "She will win the opposing camp over to her cause thanks to her arguments.",
+        "alts": [],
+        "form": "Futur"
+      },
+      {
+        "slot": "t|Futur|3",
+        "f": "tense",
+        "s": "Nous ___ toutes nos forces au point de rendez-vous à midi.",
+        "a": "rallierons",
+        "en": "We will rally all our forces at the meeting point at noon.",
+        "alts": [],
+        "form": "Futur"
+      },
+      {
+        "slot": "t|Futur|3",
+        "f": "tense",
+        "s": "Nous ___ les partisans hésitants grâce à notre programme.",
+        "a": "rallierons",
+        "en": "We will win over the hesitant supporters thanks to our programme.",
+        "alts": [],
+        "form": "Futur"
+      },
+      {
+        "slot": "t|Futur|4",
+        "f": "tense",
+        "s": "Vous ___ vos troupes au camp de base demain matin.",
+        "a": "rallierez",
+        "en": "You will rally your troops at the base camp tomorrow morning.",
+        "alts": [],
+        "form": "Futur"
+      },
+      {
+        "slot": "t|Futur|4",
+        "f": "tense",
+        "s": "Vous ___ sûrement d'autres membres à votre association l'année prochaine.",
+        "a": "rallierez",
+        "en": "You will surely win over more members to your association next year.",
+        "alts": [],
+        "form": "Futur"
+      },
+      {
+        "slot": "t|Futur|5",
+        "f": "tense",
+        "s": "Les généraux ___ leurs divisions avant l'assaut final.",
+        "a": "rallieront",
+        "en": "The generals will rally their divisions before the final assault.",
+        "alts": [],
+        "form": "Futur"
+      },
+      {
+        "slot": "t|Futur|5",
+        "f": "tense",
+        "s": "Ils ___ de nombreux citoyens à leur cause lors de la marche.",
+        "a": "rallieront",
+        "en": "They will win over many citizens to their cause during the march.",
+        "alts": [],
+        "form": "Futur"
+      },
+      {
+        "slot": "t|Conditionnel|0",
+        "f": "tense",
+        "s": "Si tu avais plus de charisme, tu ___ plus de partisans.",
+        "a": "rallierais",
+        "en": "If you had more charisma, you would win over more supporters.",
+        "alts": [],
+        "form": "Conditionnel"
+      },
+      {
+        "slot": "t|Conditionnel|0",
+        "f": "tense",
+        "s": "Si j'avais plus de temps, je ___ davantage de bénévoles à notre projet.",
+        "a": "rallierais",
+        "en": "If I had more time, I would win over more volunteers to our project.",
+        "alts": [],
+        "form": "Conditionnel"
+      },
+      {
+        "slot": "t|Conditionnel|1",
+        "f": "tense",
+        "s": "Si le discours était mieux préparé, il ___ plus d'opposants.",
+        "a": "rallierait",
+        "en": "If the speech were better prepared, it would win over more opponents.",
+        "alts": [],
+        "form": "Conditionnel"
+      },
+      {
+        "slot": "t|Conditionnel|1",
+        "f": "tense",
+        "s": "Si la situation l'exigeait, on ___ toutes les troupes disponibles.",
+        "a": "rallierait",
+        "en": "If the situation required it, one would rally all available troops.",
+        "alts": [],
+        "form": "Conditionnel"
+      },
+      {
+        "slot": "t|Conditionnel|2",
+        "f": "tense",
+        "s": "Si nous avions de meilleures ressources, nous ___ beaucoup plus de membres.",
+        "a": "rallierions",
+        "en": "If we had better resources, we would win over many more members.",
+        "alts": [],
+        "form": "Conditionnel"
+      },
+      {
+        "slot": "t|Conditionnel|2",
+        "f": "tense",
+        "s": "Avec une meilleure stratégie, nous ___ nos forces plus rapidement.",
+        "a": "rallierions",
+        "en": "With a better strategy, we would rally our forces more quickly.",
+        "alts": [],
+        "form": "Conditionnel"
+      },
+      {
+        "slot": "t|Conditionnel|3",
+        "f": "tense",
+        "s": "Si vous expliquiez mieux votre projet, vous ___ plus de soutiens.",
+        "a": "rallieriez",
+        "en": "If you explained your project better, you would win over more supporters.",
+        "alts": [],
+        "form": "Conditionnel"
+      },
+      {
+        "slot": "t|Conditionnel|3",
+        "f": "tense",
+        "s": "Avec plus d'autorité, vous ___ vos hommes bien plus vite.",
+        "a": "rallieriez",
+        "en": "With more authority, you would rally your men much faster.",
+        "alts": [],
+        "form": "Conditionnel"
+      },
+      {
+        "slot": "t|Conditionnel|4",
+        "f": "tense",
+        "s": "Si les candidats faisaient campagne dans les villages, ils ___ plus de votes.",
+        "a": "rallieraient",
+        "en": "If the candidates campaigned in the villages, they would win over more votes.",
+        "alts": [],
+        "form": "Conditionnel"
+      },
+      {
+        "slot": "t|Conditionnel|4",
+        "f": "tense",
+        "s": "Si les officiers avaient l'ordre de marche, elles ___ les troupes immédiatement.",
+        "a": "rallieraient",
+        "en": "If the officers had the marching orders, they would rally the troops immediately.",
+        "alts": [],
+        "form": "Conditionnel"
+      },
+      {
+        "slot": "t|Subjonctif",
+        "f": "subj",
+        "s": "Il faut que tu ___ tes partisans avant le scrutin.",
+        "a": "rallies",
+        "en": "You need to rally your supporters before the vote.",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "t|Subjonctif",
+        "f": "subj",
+        "s": "Je veux que vous ___ les membres dispersés autour de ce projet.",
+        "a": "ralliiez",
+        "en": "I want you to rally the dispersed members around this project.",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "s|0",
+        "f": "sense",
+        "s": "Le commandant ordonne de ___ les soldats au point de rassemblement.",
+        "a": "rallier",
+        "en": "The commander orders to rally the soldiers at the assembly point.",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "s|0",
+        "f": "sense",
+        "s": "Après la débâcle, les officiers ont eu du mal à ___ leurs hommes éparpillés.",
+        "a": "rallier",
+        "en": "After the rout, the officers struggled to rally their scattered men.",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "s|1",
+        "f": "sense",
+        "s": "Le candidat espère ___ les électeurs indécis grâce à son programme social.",
+        "a": "rallier",
+        "en": "The candidate hopes to win over undecided voters with his social programme.",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "s|1",
+        "f": "sense",
+        "s": "Son discours convaincant a réussi à ___ de nombreux opposants à sa cause.",
+        "a": "rallier",
+        "en": "His convincing speech managed to win over many opponents to his cause.",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "s|2",
+        "f": "sense",
+        "s": "Après des années d'hésitation, il a décidé de ___ le parti écologiste.",
+        "a": "rallier",
+        "en": "After years of hesitation, he decided to join the ecologist party.",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "s|2",
+        "f": "sense",
+        "s": "Plusieurs dissidents ont choisi de ___ le camp des réformateurs.",
+        "a": "rallier",
+        "en": "Several dissidents chose to join the reformers' camp.",
+        "alts": [],
+        "form": ""
+      }
+    ]
+  },
+  {
+    "id": 3916,
+    "qs": [
+      {
+        "slot": "s|0",
+        "f": "sense",
+        "s": "L'ingénieur a expliqué comment la ___ dentée entraîne le mécanisme.",
+        "a": "roue",
+        "en": "The engineer explained how the toothed wheel drives the mechanism.",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "s|0",
+        "f": "sense",
+        "s": "La ___ de la fortune tourne pour tout le monde.",
+        "a": "roue",
+        "en": "The wheel of fortune turns for everyone.",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "s|1",
+        "f": "sense",
+        "s": "Le garagiste a changé la ___ arrière de la voiture après l'accident.",
+        "a": "roue",
+        "en": "The mechanic changed the rear wheel of the car after the accident.",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "s|1",
+        "f": "sense",
+        "s": "Mon père sait réparer une ___ de vélo quand elle est crevée.",
+        "a": "roue",
+        "en": "My father knows how to fix a bicycle wheel when it is flat.",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "gender",
+        "f": "gender",
+        "s": "Le mécanicien a remplacé ___ roue avant du camion.",
+        "a": "la",
+        "en": "The mechanic replaced the front wheel of the truck.",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "gender",
+        "f": "gender",
+        "s": "Elle a trouvé ___ roue de secours dans le coffre de la voiture.",
+        "a": "une",
+        "en": "She found a spare wheel in the car trunk.",
+        "alts": [],
+        "form": ""
+      }
+    ]
+  }
+]

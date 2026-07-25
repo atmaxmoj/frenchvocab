@@ -1,0 +1,35 @@
+[
+  {
+    "id": 6465,
+    "qs": [
+      {"slot":"s|0","f":"sense","s":"Le médecin a examiné chaque patient ___ avant de donner son diagnostic.","a":"individuellement","en":"The doctor examined each patient individually before giving his diagnosis.","alts":[]},
+      {"slot":"s|0","f":"sense","s":"Les colis ont été emballés ___ pour éviter tout mélange.","a":"individuellement","en":"The packages were wrapped individually to avoid any mixing.","alts":[]},
+      {"slot":"s|1","f":"sense","s":"Les salaires sont fixés ___ selon les compétences de chacun.","a":"individuellement","en":"Salaries are set individually according to each person's skills.","alts":[]},
+      {"slot":"s|1","f":"sense","s":"Chaque patient réagit ___ à ce médicament, certains guérissent plus vite que d'autres.","a":"individuellement","en":"Each patient reacts individually to this medication; some recover faster than others.","alts":[]}
+    ]
+  },
+  {
+    "id": 6466,
+    "qs": [
+      {"slot":"s|0","f":"sense","s":"Après l'accident, les médecins ont examiné le ___ cérébral pour détecter d'éventuelles lésions.","a":"cortex","en":"After the accident, the doctors examined the cerebral cortex to detect any possible damage.","alts":[],"form":""},
+      {"slot":"s|0","f":"sense","s":"L'épaisseur du ___ diminue naturellement avec l'âge.","a":"cortex","en":"The thickness of the cortex naturally decreases with age.","alts":[],"form":""},
+      {"slot":"gender","f":"gender","s":"___ cortex cérébral abrite les zones responsables du langage.","a":"Le","en":"The cerebral cortex houses the areas responsible for language.","alts":[],"form":""},
+      {"slot":"gender","f":"gender","s":"Le scanner a révélé ___ cortex anormalement fin chez ce patient.","a":"un","en":"The scan revealed an abnormally thin cortex in this patient.","alts":[],"form":""}
+    ]
+  },
+  {
+    "id": 6467,
+    "qs": [
+      {"slot":"s|0","f":"sense","s":"Malgré ses excuses, le fait est ___ : il a menti.","a":"incontestable","en":"Despite his apologies, the fact is indisputable: he lied.","alts":[],"form":""},
+      {"slot":"s|0","f":"sense","s":"Tout le monde s'accorde à dire que son talent est ___.","a":"incontestable","en":"Everyone agrees that his talent is undeniable.","alts":[],"form":""},
+      {"slot":"g|ms","f":"agree","s":"Le verdict rendu par le jury est ___.","a":"incontestable","en":"The verdict handed down by the jury is indisputable.","alts":[],"form":""},
+      {"slot":"g|ms","f":"agree","s":"Selon les experts, ce succès commercial est ___.","a":"incontestable","en":"According to experts, this commercial success is indisputable.","alts":[],"form":""},
+      {"slot":"g|mp","f":"agree","s":"Après ces analyses, les résultats sont ___.","a":"incontestables","en":"After these analyses, the results are indisputable.","alts":[],"form":""},
+      {"slot":"g|mp","f":"agree","s":"Dans ce débat, ses arguments se sont révélés ___.","a":"incontestables","en":"In this debate, his arguments turned out to be indisputable.","alts":[],"form":""},
+      {"slot":"g|f","f":"agree","s":"Face aux caméras, cette preuve est ___.","a":"incontestable","en":"In front of the cameras, this piece of evidence is indisputable.","alts":[],"form":""},
+      {"slot":"g|f","f":"agree","s":"Selon les journalistes, sa victoire électorale est ___.","a":"incontestable","en":"According to journalists, her electoral victory is undeniable.","alts":[],"form":""},
+      {"slot":"g|fp","f":"agree","s":"Après enquête, ces preuves sont ___.","a":"incontestables","en":"After investigation, these pieces of evidence are indisputable.","alts":[],"form":""},
+      {"slot":"g|fp","f":"agree","s":"Publiées par l'institut, les statistiques sont ___.","a":"incontestables","en":"Published by the institute, the statistics are indisputable.","alts":[],"form":""}
+    ]
+  }
+]

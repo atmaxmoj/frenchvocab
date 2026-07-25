@@ -1,0 +1,41 @@
+[
+  {
+    "id": 6762,
+    "qs": [
+      {"slot": "s|0", "f": "sense", "s": "Le ___ a fabriqué ces portes et ces fenêtres en bois massif.", "en": "The joiner made these solid wood doors and windows.", "a": "menuisier", "alts": []},
+      {"slot": "s|0", "f": "sense", "s": "Mon voisin est ___ ; il fabrique des escaliers en bois sur mesure.", "en": "My neighbor is a joiner; he makes custom wooden staircases.", "a": "menuisier", "alts": []},
+      {"slot": "s|1", "f": "sense", "s": "Le ___ fabrique des meubles en chêne dans son atelier.", "en": "The furniture carpenter makes oak furniture in his workshop.", "a": "menuisier", "alts": []},
+      {"slot": "s|1", "f": "sense", "s": "Cette table et ces chaises ont été fabriquées par un ___ local.", "en": "This table and these chairs were made by a local furniture carpenter.", "a": "menuisier", "alts": []},
+      {"slot": "gender", "f": "gender", "s": "Le meuble a été réparé par ___ menuisier très habile.", "en": "The piece of furniture was repaired by a very skilled carpenter.", "a": "un", "alts": []},
+      {"slot": "gender", "f": "gender", "s": "Nous avons enfin retrouvé ___ menuisier qui avait fabriqué nos placards l'année dernière.", "en": "We finally found again the carpenter who had made our cabinets last year.", "a": "le", "alts": []}
+    ]
+  },
+  {
+    "id": 6763,
+    "qs": [
+      {"slot": "s|0", "f": "sense", "s": "Ce savant restera dans la mémoire de la ___ pour ses inventions révolutionnaires.", "a": "postérité", "en": "This scientist will remain in the memory of posterity for his revolutionary inventions.", "alts": [], "form": ""},
+      {"slot": "s|0", "f": "sense", "s": "Grâce à ses tableaux, ce peintre est passé à la ___ .", "a": "postérité", "en": "Thanks to his paintings, this painter has gone down in posterity.", "alts": [], "form": ""},
+      {"slot": "s|1", "f": "sense", "s": "L'empereur mourut sans ___, ce qui provoqua une crise de succession.", "a": "postérité", "en": "The emperor died without descendants, which caused a succession crisis.", "alts": [], "form": ""},
+      {"slot": "s|1", "f": "sense", "s": "Ce patriarche a assuré sa ___ en ayant douze enfants.", "a": "postérité", "en": "This patriarch secured his line of descendants by having twelve children.", "alts": [], "form": ""},
+      {"slot": "gender", "f": "gender", "s": "___ postérité jugera cette décision politique avec le recul du temps.", "a": "La", "en": "Posterity will judge this political decision with the benefit of hindsight.", "alts": [], "form": ""},
+      {"slot": "gender", "f": "gender", "s": "Ce roi légendaire eut ___ postérité nombreuse, selon la légende.", "a": "une", "en": "This legendary king had numerous descendants, according to legend.", "alts": [], "form": ""}
+    ]
+  },
+  {
+    "id": 6764,
+    "qs": [
+      {"slot": "s|0", "f": "sense", "s": "Le temps est très ___ en montagne, on ne sait jamais s'il va pleuvoir ou faire soleil.", "a": "changeant", "alts": [], "en": "The weather is very changeable in the mountains, you never know if it's going to rain or be sunny.", "form": ""},
+      {"slot": "s|0", "f": "sense", "s": "Le marché boursier reste ___ depuis plusieurs mois, personne ne peut prévoir les prix.", "a": "changeant", "alts": [], "en": "The stock market has remained changeable for several months, nobody can predict prices.", "form": ""},
+      {"slot": "s|1", "f": "sense", "s": "Son caractère est ___ : il passe du rire aux larmes en un instant.", "a": "changeant", "alts": [], "en": "His character is fickle: he goes from laughing to crying in an instant.", "form": ""},
+      {"slot": "s|1", "f": "sense", "s": "Cet homme politique est ___, il change d'avis selon les sondages.", "a": "changeant", "alts": [], "en": "This politician is fickle, he changes his mind according to the polls.", "form": ""},
+      {"slot": "s|2", "f": "sense", "s": "Le plumage de ce paon est ___, il reflète des teintes différentes selon la lumière.", "a": "changeant", "alts": [], "en": "This peacock's plumage is shifting in color, it reflects different shades depending on the light.", "form": ""},
+      {"slot": "s|2", "f": "sense", "s": "Ce tissu de soie a un reflet ___ qui varie du bleu au vert selon l'angle.", "a": "changeant", "alts": [], "en": "This silk fabric has a shifting sheen that varies from blue to green depending on the angle.", "form": ""},
+      {"slot": "g|mp", "f": "agree", "s": "Les nuages sont ___ ce matin, ils changent constamment de forme.", "a": "changeants", "alts": [], "en": "The clouds are changeable this morning, they keep changing shape.", "form": ""},
+      {"slot": "g|mp", "f": "agree", "s": "Ses sentiments envers elle étaient ___, tantôt froids, tantôt passionnés.", "a": "changeants", "alts": [], "en": "His feelings for her were fickle, sometimes cold, sometimes passionate.", "form": ""},
+      {"slot": "g|f", "f": "agree", "s": "La météo est ___ cette semaine, il vaut mieux prendre un parapluie.", "a": "changeante", "alts": [], "en": "The weather is changeable this week, you'd better bring an umbrella.", "form": ""},
+      {"slot": "g|f", "f": "agree", "s": "Son humeur est ___, on ne sait jamais comment elle va réagir.", "a": "changeante", "alts": [], "en": "Her mood is fickle, you never know how she'll react.", "form": ""},
+      {"slot": "g|fp", "f": "agree", "s": "Les couleurs de cette pierre sont ___ selon la lumière.", "a": "changeantes", "alts": [], "en": "The colors of this stone are shifting depending on the light.", "form": ""},
+      {"slot": "g|fp", "f": "agree", "s": "Ses opinions politiques sont ___, elle change souvent d'avis.", "a": "changeantes", "alts": [], "en": "Her political opinions are fickle, she often changes her mind.", "form": ""}
+    ]
+  }
+]

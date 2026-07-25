@@ -1,0 +1,711 @@
+[
+  {
+    "id": 2154,
+    "qs": [
+      {
+        "slot": "s|0",
+        "f": "sense",
+        "s": "L'électricien a vérifié la ___ entre les deux câbles avant de démarrer le système.",
+        "a": "connexion",
+        "en": "The electrician checked the connection between the two cables before starting the system.",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "s|0",
+        "f": "sense",
+        "s": "Il faut établir une ___ solide entre le projecteur et l'ordinateur pour que l'image s'affiche.",
+        "a": "connexion",
+        "en": "A solid connection must be established between the projector and the computer for the image to display.",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "s|1",
+        "f": "sense",
+        "s": "Les enquêteurs ont trouvé une ___ évidente entre les deux affaires.",
+        "a": "connexion",
+        "en": "The investigators found an obvious connection between the two cases.",
+        "alts": ["lien"],
+        "form": ""
+      },
+      {
+        "slot": "s|1",
+        "f": "sense",
+        "s": "Il existe une ___ profonde entre le stress et les maladies cardiovasculaires.",
+        "a": "connexion",
+        "en": "There is a deep connection between stress and cardiovascular diseases.",
+        "alts": ["lien"],
+        "form": ""
+      },
+      {
+        "slot": "s|2",
+        "f": "sense",
+        "s": "La ___ internet est trop lente pour regarder des vidéos en haute définition.",
+        "a": "connexion",
+        "en": "The internet connection is too slow to watch high-definition videos.",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "s|2",
+        "f": "sense",
+        "s": "Mon téléphone perd souvent la ___ WiFi dans cette partie de la maison.",
+        "a": "connexion",
+        "en": "My phone often loses the WiFi connection in this part of the house.",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "gender",
+        "f": "gender",
+        "s": "Il a besoin d'___ connexion stable pour travailler à distance.",
+        "a": "une",
+        "en": "He needs a stable connection to work remotely.",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "gender",
+        "f": "gender",
+        "s": "___ connexion entre les deux réseaux a été interrompue à cause de la panne.",
+        "a": "La",
+        "en": "The connection between the two networks was interrupted because of the outage.",
+        "alts": [],
+        "form": ""
+      }
+    ]
+  },
+  {
+    "id": 2155,
+    "qs": [
+      {
+        "slot": "t|Présent|0",
+        "f": "tense",
+        "s": "Le magasin ___ ses stocks rapidement pendant les soldes.",
+        "a": "écoule",
+        "en": "The store sells off its stock quickly during the sales.",
+        "alts": [],
+        "form": "Présent"
+      },
+      {
+        "slot": "t|Présent|0",
+        "f": "tense",
+        "s": "J'___ mes anciens livres sur le marché d'occasion.",
+        "a": "écoule",
+        "en": "I sell off my old books at the second-hand market.",
+        "alts": [],
+        "form": "Présent"
+      },
+      {
+        "slot": "t|Présent|1",
+        "f": "tense",
+        "s": "Tu ___ tes produits trop lentement, il faut baisser les prix.",
+        "a": "écoules",
+        "en": "You are selling off your products too slowly; you need to lower the prices.",
+        "alts": [],
+        "form": "Présent"
+      },
+      {
+        "slot": "t|Présent|1",
+        "f": "tense",
+        "s": "Est-ce que tu ___ bien tes marchandises ce mois-ci ?",
+        "a": "écoules",
+        "en": "Are you selling off your goods well this month?",
+        "alts": [],
+        "form": "Présent"
+      },
+      {
+        "slot": "t|Présent|2",
+        "f": "tense",
+        "s": "Nous ___ nos invendus à prix réduit chaque fin de saison.",
+        "a": "écoulons",
+        "en": "We sell off our unsold items at a reduced price at the end of each season.",
+        "alts": [],
+        "form": "Présent"
+      },
+      {
+        "slot": "t|Présent|2",
+        "f": "tense",
+        "s": "Nous ___ le surplus de production avant la fermeture annuelle.",
+        "a": "écoulons",
+        "en": "We sell off the production surplus before the annual closure.",
+        "alts": [],
+        "form": "Présent"
+      },
+      {
+        "slot": "t|Présent|3",
+        "f": "tense",
+        "s": "Vous ___ rapidement vos stocks grâce aux promotions en ligne.",
+        "a": "écoulez",
+        "en": "You sell off your stock quickly thanks to online promotions.",
+        "alts": [],
+        "form": "Présent"
+      },
+      {
+        "slot": "t|Présent|3",
+        "f": "tense",
+        "s": "Comment ___ vous vos produits périmés avant la date limite ?",
+        "a": "écoulez",
+        "en": "How do you sell off your near-expiry products before the deadline?",
+        "alts": [],
+        "form": "Présent"
+      },
+      {
+        "slot": "t|Présent|4",
+        "f": "tense",
+        "s": "Ces commerçants ___ leurs marchandises lors du marché du samedi.",
+        "a": "écoulent",
+        "en": "These traders sell off their goods at the Saturday market.",
+        "alts": [],
+        "form": "Présent"
+      },
+      {
+        "slot": "t|Présent|4",
+        "f": "tense",
+        "s": "Les eaux de pluie ___ dans le caniveau après l'orage.",
+        "a": "écoulent",
+        "en": "Rainwater flows off into the gutter after the storm.",
+        "alts": [],
+        "form": "Présent"
+      },
+      {
+        "slot": "t|Passé composé|0",
+        "f": "tense",
+        "s": "J'___ tous mes anciens vêtements lors de la vente de garage.",
+        "a": "ai écoulé",
+        "en": "I sold off all my old clothes at the garage sale.",
+        "alts": [],
+        "form": "Passé composé"
+      },
+      {
+        "slot": "t|Passé composé|0",
+        "f": "tense",
+        "s": "En une semaine, j'___ tout le stock restant.",
+        "a": "ai écoulé",
+        "en": "In one week, I sold off all the remaining stock.",
+        "alts": [],
+        "form": "Passé composé"
+      },
+      {
+        "slot": "t|Passé composé|1",
+        "f": "tense",
+        "s": "Tu ___ tous tes billets en moins d'une heure, félicitations !",
+        "a": "as écoulé",
+        "en": "You sold off all your tickets in less than an hour, congratulations!",
+        "alts": [],
+        "form": "Passé composé"
+      },
+      {
+        "slot": "t|Passé composé|1",
+        "f": "tense",
+        "s": "Tu ___ ce lot de livres d'occasion lors du dernier salon.",
+        "a": "as écoulé",
+        "en": "You sold off that batch of second-hand books at the last fair.",
+        "alts": [],
+        "form": "Passé composé"
+      },
+      {
+        "slot": "t|Passé composé|2",
+        "f": "tense",
+        "s": "La boutique ___ tout son stock de Noël dès le 26 décembre.",
+        "a": "a écoulé",
+        "en": "The shop sold off all its Christmas stock from the 26th of December.",
+        "alts": [],
+        "form": "Passé composé"
+      },
+      {
+        "slot": "t|Passé composé|2",
+        "f": "tense",
+        "s": "On ___ les dernières unités grâce à la promotion du week-end.",
+        "a": "a écoulé",
+        "en": "They sold off the last units thanks to the weekend promotion.",
+        "alts": [],
+        "form": "Passé composé"
+      },
+      {
+        "slot": "t|Passé composé|3",
+        "f": "tense",
+        "s": "Nous ___ toute la collection printemps avant l'été.",
+        "a": "avons écoulé",
+        "en": "We sold off the entire spring collection before summer.",
+        "alts": [],
+        "form": "Passé composé"
+      },
+      {
+        "slot": "t|Passé composé|3",
+        "f": "tense",
+        "s": "Nous ___ les surplus de production en quelques jours seulement.",
+        "a": "avons écoulé",
+        "en": "We sold off the production surpluses in just a few days.",
+        "alts": [],
+        "form": "Passé composé"
+      },
+      {
+        "slot": "t|Passé composé|4",
+        "f": "tense",
+        "s": "Vous ___ toutes vos réserves lors de la braderie annuelle.",
+        "a": "avez écoulé",
+        "en": "You sold off all your reserves at the annual clearance sale.",
+        "alts": [],
+        "form": "Passé composé"
+      },
+      {
+        "slot": "t|Passé composé|4",
+        "f": "tense",
+        "s": "Est-ce que vous ___ les invendus du mois dernier ?",
+        "a": "avez écoulé",
+        "en": "Did you sell off last month's unsold items?",
+        "alts": [],
+        "form": "Passé composé"
+      },
+      {
+        "slot": "t|Passé composé|5",
+        "f": "tense",
+        "s": "Les vendeurs ___ toute la marchandise avant la fermeture du marché.",
+        "a": "ont écoulé",
+        "en": "The vendors sold off all the merchandise before the market closed.",
+        "alts": [],
+        "form": "Passé composé"
+      },
+      {
+        "slot": "t|Passé composé|5",
+        "f": "tense",
+        "s": "Elles ___ leurs billets de loterie en une matinée.",
+        "a": "ont écoulé",
+        "en": "They sold off their lottery tickets in one morning.",
+        "alts": [],
+        "form": "Passé composé"
+      },
+      {
+        "slot": "t|Imparfait|0",
+        "f": "tense",
+        "s": "Quand j'avais une boutique, j'___ mes invendus lors des soldes.",
+        "a": "écoulais",
+        "en": "When I had a shop, I used to sell off my unsold items during the sales.",
+        "alts": [],
+        "form": "Imparfait"
+      },
+      {
+        "slot": "t|Imparfait|0",
+        "f": "tense",
+        "s": "Avant, tu ___ toujours tes anciens livres sur un vide-grenier.",
+        "a": "écoulais",
+        "en": "Before, you always used to sell off your old books at a jumble sale.",
+        "alts": [],
+        "form": "Imparfait"
+      },
+      {
+        "slot": "t|Imparfait|1",
+        "f": "tense",
+        "s": "Le commerce ___ ses stocks lentement à cette époque-là.",
+        "a": "écoulait",
+        "en": "The shop used to sell off its stock slowly back then.",
+        "alts": [],
+        "form": "Imparfait"
+      },
+      {
+        "slot": "t|Imparfait|1",
+        "f": "tense",
+        "s": "L'eau ___ doucement le long du toit après la pluie.",
+        "a": "écoulait",
+        "en": "The water used to flow gently along the roof after the rain.",
+        "alts": [],
+        "form": "Imparfait"
+      },
+      {
+        "slot": "t|Imparfait|2",
+        "f": "tense",
+        "s": "Nous ___ nos surplus chaque trimestre lors d'une vente spéciale.",
+        "a": "écoulions",
+        "en": "We used to sell off our surpluses every quarter at a special sale.",
+        "alts": [],
+        "form": "Imparfait"
+      },
+      {
+        "slot": "t|Imparfait|2",
+        "f": "tense",
+        "s": "À l'époque, nous ___ nos marchandises dans plusieurs marchés régionaux.",
+        "a": "écoulions",
+        "en": "At the time, we used to sell off our goods at several regional markets.",
+        "alts": [],
+        "form": "Imparfait"
+      },
+      {
+        "slot": "t|Imparfait|3",
+        "f": "tense",
+        "s": "Vous ___ vos produits facilement grâce à votre réputation.",
+        "a": "écouliez",
+        "en": "You used to sell off your products easily thanks to your reputation.",
+        "alts": [],
+        "form": "Imparfait"
+      },
+      {
+        "slot": "t|Imparfait|3",
+        "f": "tense",
+        "s": "Comment ___ vous vos invendus avant l'essor d'internet ?",
+        "a": "écouliez",
+        "en": "How did you used to sell off your unsold items before the rise of the internet?",
+        "alts": [],
+        "form": "Imparfait"
+      },
+      {
+        "slot": "t|Imparfait|4",
+        "f": "tense",
+        "s": "Ces marchands ___ leurs marchandises dans plusieurs villes chaque semaine.",
+        "a": "écoulaient",
+        "en": "These merchants used to sell off their goods in several towns each week.",
+        "alts": [],
+        "form": "Imparfait"
+      },
+      {
+        "slot": "t|Imparfait|4",
+        "f": "tense",
+        "s": "Les années ___ lentement pour les prisonniers.",
+        "a": "écoulaient",
+        "en": "The years used to pass slowly for the prisoners.",
+        "alts": [],
+        "form": "Imparfait"
+      },
+      {
+        "slot": "t|Futur|0",
+        "f": "tense",
+        "s": "J'___ le reste de mes billets ce soir au concert.",
+        "a": "écoulerai",
+        "en": "I will sell off the rest of my tickets tonight at the concert.",
+        "alts": [],
+        "form": "Futur"
+      },
+      {
+        "slot": "t|Futur|0",
+        "f": "tense",
+        "s": "J'___ tous mes vieux meubles avant de déménager.",
+        "a": "écoulerai",
+        "en": "I will sell off all my old furniture before moving.",
+        "alts": [],
+        "form": "Futur"
+      },
+      {
+        "slot": "t|Futur|1",
+        "f": "tense",
+        "s": "Tu ___ ton stock plus facilement si tu baisses les prix.",
+        "a": "écouleras",
+        "en": "You will sell off your stock more easily if you lower the prices.",
+        "alts": [],
+        "form": "Futur"
+      },
+      {
+        "slot": "t|Futur|1",
+        "f": "tense",
+        "s": "Tu ___ ces produits lors du prochain marché, j'en suis sûr.",
+        "a": "écouleras",
+        "en": "You will sell off these products at the next market, I'm sure of it.",
+        "alts": [],
+        "form": "Futur"
+      },
+      {
+        "slot": "t|Futur|2",
+        "f": "tense",
+        "s": "Le temps ___ vite pendant les grandes vacances.",
+        "a": "écoulera",
+        "en": "Time will pass quickly during the summer holidays.",
+        "alts": [],
+        "form": "Futur"
+      },
+      {
+        "slot": "t|Futur|2",
+        "f": "tense",
+        "s": "Cette entreprise ___ ses dernières unités lors de la liquidation.",
+        "a": "écoulera",
+        "en": "This company will sell off its last units during the clearance.",
+        "alts": [],
+        "form": "Futur"
+      },
+      {
+        "slot": "t|Futur|3",
+        "f": "tense",
+        "s": "Nous ___ nos stocks d'hiver avant la fin du mois de janvier.",
+        "a": "écoulerons",
+        "en": "We will sell off our winter stock before the end of January.",
+        "alts": [],
+        "form": "Futur"
+      },
+      {
+        "slot": "t|Futur|3",
+        "f": "tense",
+        "s": "Nous ___ nos invendus lors de la grande braderie du printemps.",
+        "a": "écoulerons",
+        "en": "We will sell off our unsold items at the big spring clearance sale.",
+        "alts": [],
+        "form": "Futur"
+      },
+      {
+        "slot": "t|Futur|4",
+        "f": "tense",
+        "s": "Vous ___ facilement ces articles lors du salon commercial.",
+        "a": "écoulerez",
+        "en": "You will easily sell off these items at the trade fair.",
+        "alts": [],
+        "form": "Futur"
+      },
+      {
+        "slot": "t|Futur|4",
+        "f": "tense",
+        "s": "Vous ___ ces billets plus vite si vous proposez une réduction.",
+        "a": "écoulerez",
+        "en": "You will sell off these tickets faster if you offer a discount.",
+        "alts": [],
+        "form": "Futur"
+      },
+      {
+        "slot": "t|Futur|5",
+        "f": "tense",
+        "s": "Les revendeurs ___ leurs marchandises avant la fin de l'année.",
+        "a": "écouleront",
+        "en": "The resellers will sell off their goods before the end of the year.",
+        "alts": [],
+        "form": "Futur"
+      },
+      {
+        "slot": "t|Futur|5",
+        "f": "tense",
+        "s": "Les eaux de fonte ___ dans la rivière au printemps.",
+        "a": "écouleront",
+        "en": "Meltwater will flow into the river in spring.",
+        "alts": [],
+        "form": "Futur"
+      },
+      {
+        "slot": "t|Conditionnel|0",
+        "f": "tense",
+        "s": "Si tu baissais les prix, j'___ tout mon stock en un week-end.",
+        "a": "écoulerais",
+        "en": "If you lowered the prices, I would sell off all my stock in a weekend.",
+        "alts": [],
+        "form": "Conditionnel"
+      },
+      {
+        "slot": "t|Conditionnel|0",
+        "f": "tense",
+        "s": "Si tu faisais une promotion, tu ___ ces articles beaucoup plus vite.",
+        "a": "écoulerais",
+        "en": "If you ran a promotion, you would sell off these items much faster.",
+        "alts": [],
+        "form": "Conditionnel"
+      },
+      {
+        "slot": "t|Conditionnel|1",
+        "f": "tense",
+        "s": "Si l'entreprise baissait ses tarifs, elle ___ ses stocks plus rapidement.",
+        "a": "écoulerait",
+        "en": "If the company lowered its prices, it would sell off its stock more quickly.",
+        "alts": [],
+        "form": "Conditionnel"
+      },
+      {
+        "slot": "t|Conditionnel|1",
+        "f": "tense",
+        "s": "Si on organisait une braderie, on ___ les invendus en quelques heures.",
+        "a": "écoulerait",
+        "en": "If they organised a clearance sale, they would sell off the unsold items in a few hours.",
+        "alts": [],
+        "form": "Conditionnel"
+      },
+      {
+        "slot": "t|Conditionnel|2",
+        "f": "tense",
+        "s": "Si nous avions plus de clients, nous ___ nos produits bien plus vite.",
+        "a": "écoulerions",
+        "en": "If we had more customers, we would sell off our products much faster.",
+        "alts": [],
+        "form": "Conditionnel"
+      },
+      {
+        "slot": "t|Conditionnel|2",
+        "f": "tense",
+        "s": "Si nous participions au marché régional, nous ___ tous nos surplus.",
+        "a": "écoulerions",
+        "en": "If we took part in the regional market, we would sell off all our surplus.",
+        "alts": [],
+        "form": "Conditionnel"
+      },
+      {
+        "slot": "t|Conditionnel|3",
+        "f": "tense",
+        "s": "Si vous proposiez des réductions, vous ___ ces marchandises facilement.",
+        "a": "écouleriez",
+        "en": "If you offered discounts, you would sell off these goods easily.",
+        "alts": [],
+        "form": "Conditionnel"
+      },
+      {
+        "slot": "t|Conditionnel|3",
+        "f": "tense",
+        "s": "Si vous aviez une boutique en ligne, vous ___ vos stocks deux fois plus vite.",
+        "a": "écouleriez",
+        "en": "If you had an online shop, you would sell off your stock twice as fast.",
+        "alts": [],
+        "form": "Conditionnel"
+      },
+      {
+        "slot": "t|Conditionnel|4",
+        "f": "tense",
+        "s": "Si les vendeurs réduisaient leurs prix, ils ___ leurs articles en quelques jours.",
+        "a": "écouleraient",
+        "en": "If the sellers reduced their prices, they would sell off their items in a few days.",
+        "alts": [],
+        "form": "Conditionnel"
+      },
+      {
+        "slot": "t|Conditionnel|4",
+        "f": "tense",
+        "s": "Si les eaux avaient un débouché, elles ___ plus facilement vers la mer.",
+        "a": "écouleraient",
+        "en": "If the waters had an outlet, they would flow more easily toward the sea.",
+        "alts": [],
+        "form": "Conditionnel"
+      },
+      {
+        "slot": "t|Subjonctif",
+        "f": "subj",
+        "s": "Il faut que tu ___ tes stocks avant la fermeture annuelle.",
+        "a": "écoules",
+        "en": "You need to sell off your stock before the annual closure.",
+        "alts": [],
+        "form": "Subjonctif présent"
+      },
+      {
+        "slot": "t|Subjonctif",
+        "f": "subj",
+        "s": "Le patron veut que nous ___ tous les invendus avant la fin du mois.",
+        "a": "écoulions",
+        "en": "The boss wants us to sell off all the unsold items before the end of the month.",
+        "alts": [],
+        "form": "Subjonctif présent"
+      },
+      {
+        "slot": "s|0",
+        "f": "sense",
+        "s": "Le libraire cherche à ___ ses vieux exemplaires à prix réduit.",
+        "a": "écouler",
+        "en": "The bookseller is trying to sell off his old copies at a reduced price.",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "s|0",
+        "f": "sense",
+        "s": "La marque a décidé d'___ ses invendus de la saison précédente.",
+        "a": "écouler",
+        "en": "The brand decided to sell off its unsold items from the previous season.",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "s|1",
+        "f": "sense",
+        "s": "L'eau de pluie commence à ___ le long du mur après l'averse.",
+        "a": "écouler",
+        "en": "Rainwater begins to run off along the wall after the downpour.",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "s|1",
+        "f": "sense",
+        "s": "Le tuyau est percé et le liquide commence à ___ sur le sol.",
+        "a": "écouler",
+        "en": "The pipe has a hole and the liquid starts to flow out onto the floor.",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "s|2",
+        "f": "sense",
+        "s": "Les jours semblent ___ encore plus vite depuis que nous vieillissons.",
+        "a": "écouler",
+        "en": "The days seem to pass even faster since we have been getting older.",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "s|2",
+        "f": "sense",
+        "s": "Il regarde les heures ___ sans trouver de solution à son problème.",
+        "a": "écouler",
+        "en": "He watches the hours pass without finding a solution to his problem.",
+        "alts": [],
+        "form": ""
+      }
+    ]
+  },
+  {
+    "id": 2156,
+    "qs": [
+      {
+        "slot": "s|0",
+        "f": "sense",
+        "s": "Dans le formulaire, cochez la case qui correspond à l'___ que vous préférez.",
+        "a": "option",
+        "en": "In the form, check the box that corresponds to the option you prefer.",
+        "alts": []
+      },
+      {
+        "slot": "s|0",
+        "f": "sense",
+        "s": "Le menu déroulant propose plusieurs ___ : rouge, bleu ou vert.",
+        "a": "options",
+        "en": "The dropdown menu offers several options: red, blue, or green.",
+        "alts": []
+      },
+      {
+        "slot": "s|1",
+        "f": "sense",
+        "s": "Partir à l'étranger reste une ___ envisageable pour améliorer son niveau de langue.",
+        "a": "option",
+        "en": "Going abroad remains a viable option to improve one's language level.",
+        "alts": []
+      },
+      {
+        "slot": "s|1",
+        "f": "sense",
+        "s": "Faute de train disponible, ils n'avaient d'autre ___ que de louer une voiture.",
+        "a": "option",
+        "en": "With no train available, they had no other option but to rent a car.",
+        "alts": []
+      },
+      {
+        "slot": "s|2",
+        "f": "sense",
+        "s": "Il a acheté une ___ d'achat sur cette action avant la publication des résultats.",
+        "a": "option",
+        "en": "He bought a call option on this stock before the earnings release.",
+        "alts": []
+      },
+      {
+        "slot": "s|2",
+        "f": "sense",
+        "s": "La valeur de cette ___ financière dépend du cours du sous-jacent.",
+        "a": "option",
+        "en": "The value of this financial option depends on the price of the underlying asset.",
+        "alts": []
+      },
+      {
+        "slot": "gender",
+        "f": "gender",
+        "s": "C'est ___ option intéressante que nous devrions étudier sérieusement.",
+        "a": "une",
+        "en": "It is an interesting option that we should study seriously.",
+        "alts": []
+      },
+      {
+        "slot": "gender",
+        "f": "gender",
+        "s": "Ils ont finalement retenu ___ option plus économique pour le projet.",
+        "a": "une",
+        "en": "They finally chose a more economical option for the project.",
+        "alts": []
+      }
+    ]
+  }
+]

@@ -1,0 +1,1834 @@
+[
+  {
+    "id": 33,
+    "qs": [
+      {
+        "slot": "s|0",
+        "f": "sense",
+        "s": "Tu peux prendre le train ___ l'avion pour aller à Paris.",
+        "a": "ou",
+        "en": "You can take the train or the plane to go to Paris.",
+        "alts": []
+      },
+      {
+        "slot": "s|0",
+        "f": "sense",
+        "s": "On peut se retrouver lundi ___ mardi, comme tu veux.",
+        "a": "ou",
+        "en": "We can meet on Monday or Tuesday, as you like.",
+        "alts": []
+      },
+      {
+        "slot": "s|1",
+        "f": "sense",
+        "s": "Tu préfères le café ___ le thé ?",
+        "a": "ou",
+        "en": "Do you prefer coffee or tea?",
+        "alts": []
+      },
+      {
+        "slot": "s|1",
+        "f": "sense",
+        "s": "C'est toi ___ ta sœur qui a appelé ce matin ?",
+        "a": "ou",
+        "en": "Was it you or your sister who called this morning?",
+        "alts": []
+      }
+    ]
+  },
+  {
+    "id": 34,
+    "qs": [
+      {
+        "slot": "s|0",
+        "f": "sense",
+        "s": "___ tu viens ce soir, appelle-moi avant.",
+        "a": "Si",
+        "en": "If you come tonight, call me before.",
+        "alts": []
+      },
+      {
+        "slot": "s|0",
+        "f": "sense",
+        "s": "Je resterai à la maison ___ il pleut demain.",
+        "a": "si",
+        "en": "I will stay at home if it rains tomorrow.",
+        "alts": []
+      },
+      {
+        "slot": "s|1",
+        "f": "sense",
+        "s": "Je ne sais pas ___ elle a reçu mon message.",
+        "a": "si",
+        "en": "I don't know whether she received my message.",
+        "alts": []
+      },
+      {
+        "slot": "s|1",
+        "f": "sense",
+        "s": "Il m'a demandé ___ j'étais libre ce weekend.",
+        "a": "si",
+        "en": "He asked me whether I was free this weekend.",
+        "alts": []
+      },
+      {
+        "slot": "s|2",
+        "f": "sense",
+        "s": "Dans la gamme de do, le septième degré s'appelle ___.",
+        "a": "si",
+        "en": "In the C major scale, the seventh degree is called si.",
+        "alts": []
+      },
+      {
+        "slot": "s|2",
+        "f": "sense",
+        "s": "L'enfant chantait do, ré, mi, fa, sol, la, ___, do.",
+        "a": "si",
+        "en": "The child sang do, re, mi, fa, sol, la, si, do.",
+        "alts": []
+      },
+      {
+        "slot": "gender",
+        "f": "gender",
+        "s": "Le musicien chantait ___ si à voix haute pendant l'exercice.",
+        "a": "le",
+        "en": "The musician sang the si out loud during the exercise.",
+        "alts": []
+      },
+      {
+        "slot": "gender",
+        "f": "gender",
+        "s": "Elle a joué ___ si grave sur le piano.",
+        "a": "un",
+        "en": "She played a low si on the piano.",
+        "alts": []
+      }
+    ]
+  },
+  {
+    "id": 35,
+    "qs": [
+      {
+        "slot": "s|0",
+        "f": "sense",
+        "s": "Les enfants ont oublié ___ jouets au parc.",
+        "a": "leurs",
+        "en": "The children forgot their toys at the park.",
+        "alts": []
+      },
+      {
+        "slot": "s|0",
+        "f": "sense",
+        "s": "Mes voisins ont vendu ___ voiture hier.",
+        "a": "leur",
+        "en": "My neighbors sold their car yesterday.",
+        "alts": []
+      },
+      {
+        "slot": "s|1",
+        "f": "sense",
+        "s": "Ces femmes passent ___ vacances en Bretagne chaque été.",
+        "a": "leurs",
+        "en": "These women spend their holidays in Brittany every summer.",
+        "alts": []
+      },
+      {
+        "slot": "s|1",
+        "f": "sense",
+        "s": "Mes sœurs ont décoré ___ chambre ensemble.",
+        "a": "leur",
+        "en": "My sisters decorated their room together.",
+        "alts": []
+      },
+      {
+        "slot": "s|2",
+        "f": "sense",
+        "s": "Je ___ ai envoyé un message ce matin.",
+        "a": "leur",
+        "en": "I sent them a message this morning.",
+        "alts": []
+      },
+      {
+        "slot": "s|2",
+        "f": "sense",
+        "s": "Est-ce que tu ___ as expliqué le problème ?",
+        "a": "leur",
+        "en": "Did you explain the problem to them?",
+        "alts": []
+      },
+      {
+        "slot": "s|3",
+        "f": "sense",
+        "s": "Nous ___ avons offert des fleurs pour la fête.",
+        "a": "leur",
+        "en": "We offered them flowers for the celebration.",
+        "alts": []
+      },
+      {
+        "slot": "s|3",
+        "f": "sense",
+        "s": "Il ___ a demandé de rentrer plus tôt.",
+        "a": "leur",
+        "en": "He asked them to come home earlier.",
+        "alts": []
+      },
+      {
+        "slot": "g|mp",
+        "f": "agree",
+        "s": "Mes collègues ont rangé ___ bureaux avant de partir.",
+        "a": "leurs",
+        "en": "My colleagues tidied their desks before leaving.",
+        "alts": []
+      },
+      {
+        "slot": "g|mp",
+        "f": "agree",
+        "s": "Les garçons ont retrouvé ___ amis au café.",
+        "a": "leurs",
+        "en": "The boys met their friends at the café.",
+        "alts": []
+      },
+      {
+        "slot": "g|f",
+        "f": "agree",
+        "s": "Les étudiants ont rendu ___ copie avant midi.",
+        "a": "leur",
+        "en": "The students handed in their copy before noon.",
+        "alts": []
+      },
+      {
+        "slot": "g|f",
+        "f": "agree",
+        "s": "Mes parents ont vendu ___ maison l'année dernière.",
+        "a": "leur",
+        "en": "My parents sold their house last year.",
+        "alts": []
+      },
+      {
+        "slot": "g|fp",
+        "f": "agree",
+        "s": "Les enfants adorent ___ histoires du soir.",
+        "a": "leurs",
+        "en": "The children love their bedtime stories.",
+        "alts": []
+      },
+      {
+        "slot": "g|fp",
+        "f": "agree",
+        "s": "Les professeurs ont corrigé ___ erreurs dans le devoir.",
+        "a": "leurs",
+        "en": "The teachers corrected their mistakes in the homework.",
+        "alts": []
+      }
+    ]
+  },
+  {
+    "id": 36,
+    "qs": [
+      {
+        "slot": "s|0",
+        "f": "sense",
+        "s": "Tu connais ce café près de la gare ? Oui, j'___ vais souvent le matin.",
+        "a": "y",
+        "en": "Do you know that café near the station? Yes, I often go there in the morning.",
+        "alts": []
+      },
+      {
+        "slot": "s|0",
+        "f": "sense",
+        "s": "Ils habitaient à Lyon pendant cinq ans et ils ___ avaient beaucoup d'amis.",
+        "a": "y",
+        "en": "They lived in Lyon for five years and they had many friends there.",
+        "alts": []
+      },
+      {
+        "slot": "s|1",
+        "f": "sense",
+        "s": "Ce comité a plusieurs membres actifs ; je suis content d'en faire partie et de m'___ impliquer.",
+        "a": "y",
+        "en": "This committee has several active members; I am glad to be part of it and to get involved in it.",
+        "alts": []
+      },
+      {
+        "slot": "s|1",
+        "f": "sense",
+        "s": "Ces projets sont complexes, mais notre équipe ___ travaille depuis des mois.",
+        "a": "y",
+        "en": "These projects are complex, but our team has been working on them for months.",
+        "alts": []
+      },
+      {
+        "slot": "s|2",
+        "f": "sense",
+        "s": "Elle pense souvent à son avenir professionnel ; elle ___ pense même la nuit.",
+        "a": "y",
+        "en": "She often thinks about her professional future; she even thinks about it at night.",
+        "alts": []
+      },
+      {
+        "slot": "s|2",
+        "f": "sense",
+        "s": "Il s'intéresse beaucoup à la politique locale et il ___ consacre beaucoup de temps.",
+        "a": "y",
+        "en": "He is very interested in local politics and he devotes a lot of time to it.",
+        "alts": []
+      },
+      {
+        "slot": "gender",
+        "f": "gender",
+        "s": "Le bureau est au bout du couloir — tu ___ trouveras tous les formulaires.",
+        "a": "y",
+        "en": "The office is at the end of the hallway — you will find all the forms there.",
+        "alts": []
+      },
+      {
+        "slot": "gender",
+        "f": "gender",
+        "s": "Mon fils adore ___ jardin de ses grands-parents ; il y passe tout l'été.",
+        "a": "le",
+        "en": "My son loves his grandparents' garden; he spends the whole summer there.",
+        "alts": []
+      }
+    ]
+  },
+  {
+    "id": 37,
+    "qs": [
+      {
+        "slot": "t|Présent|0",
+        "f": "tense",
+        "s": "Chaque matin, ___ bonjour à mes voisins.",
+        "a": "je dis",
+        "en": "Every morning, I say hello to my neighbors.",
+        "alts": [],
+        "form": "Présent"
+      },
+      {
+        "slot": "t|Présent|0",
+        "f": "tense",
+        "s": "En général, ___ toujours la vérité.",
+        "a": "je dis",
+        "en": "Generally, I always tell the truth.",
+        "alts": [],
+        "form": "Présent"
+      },
+      {
+        "slot": "t|Présent|1",
+        "f": "tense",
+        "s": "Qu'est-ce que ___ à ce sujet ?",
+        "a": "tu dis",
+        "en": "What do you say about this topic?",
+        "alts": [],
+        "form": "Présent"
+      },
+      {
+        "slot": "t|Présent|1",
+        "f": "tense",
+        "s": "___ souvent des choses intéressantes en classe.",
+        "a": "Tu dis",
+        "en": "You often say interesting things in class.",
+        "alts": [],
+        "form": "Présent"
+      },
+      {
+        "slot": "t|Présent|2",
+        "f": "tense",
+        "s": "Mon père ___ toujours la même chose.",
+        "a": "il dit",
+        "en": "My father always says the same thing.",
+        "alts": [],
+        "form": "Présent"
+      },
+      {
+        "slot": "t|Présent|2",
+        "f": "tense",
+        "s": "Le médecin ___ qu'il faut se reposer.",
+        "a": "il dit",
+        "en": "The doctor says that one must rest.",
+        "alts": [],
+        "form": "Présent"
+      },
+      {
+        "slot": "t|Présent|3",
+        "f": "tense",
+        "s": "___ la même chose à tous nos clients.",
+        "a": "Nous disons",
+        "en": "We say the same thing to all our clients.",
+        "alts": [],
+        "form": "Présent"
+      },
+      {
+        "slot": "t|Présent|3",
+        "f": "tense",
+        "s": "En équipe, ___ toujours ce que nous pensons.",
+        "a": "nous disons",
+        "en": "As a team, we always say what we think.",
+        "alts": [],
+        "form": "Présent"
+      },
+      {
+        "slot": "t|Présent|4",
+        "f": "tense",
+        "s": "Que ___ -vous de cette nouvelle proposition ?",
+        "a": "vous dites",
+        "en": "What do you say about this new proposal?",
+        "alts": [],
+        "form": "Présent"
+      },
+      {
+        "slot": "t|Présent|4",
+        "f": "tense",
+        "s": "___ souvent des choses surprenantes, vous deux.",
+        "a": "Vous dites",
+        "en": "You two often say surprising things.",
+        "alts": [],
+        "form": "Présent"
+      },
+      {
+        "slot": "t|Présent|5",
+        "f": "tense",
+        "s": "Mes amis ___ que ce restaurant est excellent.",
+        "a": "ils disent",
+        "en": "My friends say that this restaurant is excellent.",
+        "alts": [],
+        "form": "Présent"
+      },
+      {
+        "slot": "t|Présent|5",
+        "f": "tense",
+        "s": "Les journaux ___ que la situation s'améliore.",
+        "a": "ils disent",
+        "en": "The newspapers say that the situation is improving.",
+        "alts": [],
+        "form": "Présent"
+      },
+      {
+        "slot": "t|Passé composé|0",
+        "f": "tense",
+        "s": "Hier soir, ___ au revoir à tout le monde.",
+        "a": "j'ai dit",
+        "en": "Last night, I said goodbye to everyone.",
+        "alts": [],
+        "form": "Passé composé"
+      },
+      {
+        "slot": "t|Passé composé|0",
+        "f": "tense",
+        "s": "Ce matin, ___ la vérité à mon patron.",
+        "a": "j'ai dit",
+        "en": "This morning, I told the truth to my boss.",
+        "alts": [],
+        "form": "Passé composé"
+      },
+      {
+        "slot": "t|Passé composé|1",
+        "f": "tense",
+        "s": "___ quelque chose d'important ce matin.",
+        "a": "Tu as dit",
+        "en": "You said something important this morning.",
+        "alts": [],
+        "form": "Passé composé"
+      },
+      {
+        "slot": "t|Passé composé|1",
+        "f": "tense",
+        "s": "Qu'est-ce que ___ à Marie hier ?",
+        "a": "tu as dit",
+        "en": "What did you say to Marie yesterday?",
+        "alts": [],
+        "form": "Passé composé"
+      },
+      {
+        "slot": "t|Passé composé|2",
+        "f": "tense",
+        "s": "Pierre ___ qu'il reviendrait demain.",
+        "a": "il a dit",
+        "en": "Pierre said he would come back tomorrow.",
+        "alts": [],
+        "form": "Passé composé"
+      },
+      {
+        "slot": "t|Passé composé|2",
+        "f": "tense",
+        "s": "Le professeur ___ que l'examen était difficile.",
+        "a": "il a dit",
+        "en": "The teacher said that the exam was difficult.",
+        "alts": [],
+        "form": "Passé composé"
+      },
+      {
+        "slot": "t|Passé composé|3",
+        "f": "tense",
+        "s": "___ la vérité pendant la réunion.",
+        "a": "Nous avons dit",
+        "en": "We told the truth during the meeting.",
+        "alts": [],
+        "form": "Passé composé"
+      },
+      {
+        "slot": "t|Passé composé|3",
+        "f": "tense",
+        "s": "À la conférence, ___ exactement ce que nous pensions.",
+        "a": "nous avons dit",
+        "en": "At the conference, we said exactly what we thought.",
+        "alts": [],
+        "form": "Passé composé"
+      },
+      {
+        "slot": "t|Passé composé|4",
+        "f": "tense",
+        "s": "___ clairement votre opinion lors de la réunion.",
+        "a": "Vous avez dit",
+        "en": "You clearly stated your opinion during the meeting.",
+        "alts": [],
+        "form": "Passé composé"
+      },
+      {
+        "slot": "t|Passé composé|4",
+        "f": "tense",
+        "s": "Qu'est-ce que ___ à la directrice hier matin ?",
+        "a": "vous avez dit",
+        "en": "What did you say to the director yesterday morning?",
+        "alts": [],
+        "form": "Passé composé"
+      },
+      {
+        "slot": "t|Passé composé|5",
+        "f": "tense",
+        "s": "Les témoins ___ qu'ils n'avaient rien vu.",
+        "a": "ils ont dit",
+        "en": "The witnesses said they had seen nothing.",
+        "alts": [],
+        "form": "Passé composé"
+      },
+      {
+        "slot": "t|Passé composé|5",
+        "f": "tense",
+        "s": "Mes collègues ___ que la réunion était annulée.",
+        "a": "ils ont dit",
+        "en": "My colleagues said that the meeting was cancelled.",
+        "alts": [],
+        "form": "Passé composé"
+      },
+      {
+        "slot": "t|Imparfait|0",
+        "f": "tense",
+        "s": "Quand j'étais petit, ___ toujours bonsoir à ma grand-mère.",
+        "a": "je disais",
+        "en": "When I was little, I always said goodnight to my grandmother.",
+        "alts": [],
+        "form": "Imparfait"
+      },
+      {
+        "slot": "t|Imparfait|0",
+        "f": "tense",
+        "s": "Avant, ___ ce que je pensais sans hésiter.",
+        "a": "je disais",
+        "en": "Before, I used to say what I thought without hesitating.",
+        "alts": [],
+        "form": "Imparfait"
+      },
+      {
+        "slot": "t|Imparfait|1",
+        "f": "tense",
+        "s": "Tu ___ toujours la même blague à l'école.",
+        "a": "tu disais",
+        "en": "You always used to tell the same joke at school.",
+        "alts": [],
+        "form": "Imparfait"
+      },
+      {
+        "slot": "t|Imparfait|1",
+        "f": "tense",
+        "s": "Avant, ___ que tu voulais devenir médecin.",
+        "a": "tu disais",
+        "en": "Before, you used to say that you wanted to become a doctor.",
+        "alts": [],
+        "form": "Imparfait"
+      },
+      {
+        "slot": "t|Imparfait|2",
+        "f": "tense",
+        "s": "Mon grand-père ___ souvent des proverbes anciens.",
+        "a": "il disait",
+        "en": "My grandfather used to often say old proverbs.",
+        "alts": [],
+        "form": "Imparfait"
+      },
+      {
+        "slot": "t|Imparfait|2",
+        "f": "tense",
+        "s": "Le vieux professeur ___ que lire était essentiel.",
+        "a": "il disait",
+        "en": "The old teacher used to say that reading was essential.",
+        "alts": [],
+        "form": "Imparfait"
+      },
+      {
+        "slot": "t|Imparfait|3",
+        "f": "tense",
+        "s": "Enfants, ___ toujours merci après les repas.",
+        "a": "nous disions",
+        "en": "As children, we always used to say thank you after meals.",
+        "alts": [],
+        "form": "Imparfait"
+      },
+      {
+        "slot": "t|Imparfait|3",
+        "f": "tense",
+        "s": "À cette époque, ___ que tout irait bien.",
+        "a": "nous disions",
+        "en": "At that time, we used to say that everything would be fine.",
+        "alts": [],
+        "form": "Imparfait"
+      },
+      {
+        "slot": "t|Imparfait|4",
+        "f": "tense",
+        "s": "___ toujours bonjour en entrant dans le bureau.",
+        "a": "Vous disiez",
+        "en": "You always used to say hello when entering the office.",
+        "alts": [],
+        "form": "Imparfait"
+      },
+      {
+        "slot": "t|Imparfait|4",
+        "f": "tense",
+        "s": "Avant, ___ que ce projet était impossible.",
+        "a": "vous disiez",
+        "en": "Before, you used to say that this project was impossible.",
+        "alts": [],
+        "form": "Imparfait"
+      },
+      {
+        "slot": "t|Imparfait|5",
+        "f": "tense",
+        "s": "Mes parents ___ que la patience est une vertu.",
+        "a": "ils disaient",
+        "en": "My parents used to say that patience is a virtue.",
+        "alts": [],
+        "form": "Imparfait"
+      },
+      {
+        "slot": "t|Imparfait|5",
+        "f": "tense",
+        "s": "Les anciens ___ que ce village était hanté.",
+        "a": "ils disaient",
+        "en": "The elders used to say that this village was haunted.",
+        "alts": [],
+        "form": "Imparfait"
+      },
+      {
+        "slot": "t|Futur|0",
+        "f": "tense",
+        "s": "Demain, ___ la vérité à mes parents.",
+        "a": "je dirai",
+        "en": "Tomorrow, I will tell the truth to my parents.",
+        "alts": [],
+        "form": "Futur"
+      },
+      {
+        "slot": "t|Futur|0",
+        "f": "tense",
+        "s": "Ce soir, ___ au revoir à tous mes amis.",
+        "a": "je dirai",
+        "en": "This evening, I will say goodbye to all my friends.",
+        "alts": [],
+        "form": "Futur"
+      },
+      {
+        "slot": "t|Futur|1",
+        "f": "tense",
+        "s": "Qu'est-ce que ___ quand tu le verras ?",
+        "a": "tu diras",
+        "en": "What will you say when you see him?",
+        "alts": [],
+        "form": "Futur"
+      },
+      {
+        "slot": "t|Futur|1",
+        "f": "tense",
+        "s": "Un jour, ___ merci pour tout ce que j'ai fait.",
+        "a": "tu diras",
+        "en": "One day, you will say thank you for everything I have done.",
+        "alts": [],
+        "form": "Futur"
+      },
+      {
+        "slot": "t|Futur|2",
+        "f": "tense",
+        "s": "Le juge ___ sa décision finale demain matin.",
+        "a": "il dira",
+        "en": "The judge will announce his final decision tomorrow morning.",
+        "alts": [],
+        "form": "Futur"
+      },
+      {
+        "slot": "t|Futur|2",
+        "f": "tense",
+        "s": "Mon ami ___ ce qu'il pense lors de la conférence.",
+        "a": "il dira",
+        "en": "My friend will say what he thinks at the conference.",
+        "alts": [],
+        "form": "Futur"
+      },
+      {
+        "slot": "t|Futur|3",
+        "f": "tense",
+        "s": "Lors du discours, ___ ce que nous avons préparé.",
+        "a": "nous dirons",
+        "en": "During the speech, we will say what we have prepared.",
+        "alts": [],
+        "form": "Futur"
+      },
+      {
+        "slot": "t|Futur|3",
+        "f": "tense",
+        "s": "Ensemble, ___ la vérité à toute la famille.",
+        "a": "nous dirons",
+        "en": "Together, we will tell the truth to the whole family.",
+        "alts": [],
+        "form": "Futur"
+      },
+      {
+        "slot": "t|Futur|4",
+        "f": "tense",
+        "s": "Qu'est-ce que ___ à l'assemblée la semaine prochaine ?",
+        "a": "vous direz",
+        "en": "What will you say at the assembly next week?",
+        "alts": [],
+        "form": "Futur"
+      },
+      {
+        "slot": "t|Futur|4",
+        "f": "tense",
+        "s": "Lors de la présentation, ___ exactement ce que vous pensez.",
+        "a": "vous direz",
+        "en": "During the presentation, you will say exactly what you think.",
+        "alts": [],
+        "form": "Futur"
+      },
+      {
+        "slot": "t|Futur|5",
+        "f": "tense",
+        "s": "Les experts ___ leur avis lors du colloque.",
+        "a": "ils diront",
+        "en": "The experts will give their opinion at the symposium.",
+        "alts": [],
+        "form": "Futur"
+      },
+      {
+        "slot": "t|Futur|5",
+        "f": "tense",
+        "s": "Mes parents ___ ce qu'ils pensent après avoir lu la lettre.",
+        "a": "ils diront",
+        "en": "My parents will say what they think after reading the letter.",
+        "alts": [],
+        "form": "Futur"
+      },
+      {
+        "slot": "t|Conditionnel|0",
+        "f": "tense",
+        "s": "À ta place, ___ la vérité sans hésiter.",
+        "a": "je dirais",
+        "en": "In your place, I would tell the truth without hesitating.",
+        "alts": [],
+        "form": "Conditionnel"
+      },
+      {
+        "slot": "t|Conditionnel|0",
+        "f": "tense",
+        "s": "Si j'étais courageux, ___ ce que je pense vraiment.",
+        "a": "je dirais",
+        "en": "If I were brave, I would say what I really think.",
+        "alts": [],
+        "form": "Conditionnel"
+      },
+      {
+        "slot": "t|Conditionnel|1",
+        "f": "tense",
+        "s": "Qu'est-ce que ___ si tu étais à ma place ?",
+        "a": "tu dirais",
+        "en": "What would you say if you were in my place?",
+        "alts": [],
+        "form": "Conditionnel"
+      },
+      {
+        "slot": "t|Conditionnel|1",
+        "f": "tense",
+        "s": "Si tu pouvais lui parler, ___ quelque chose d'important.",
+        "a": "tu dirais",
+        "en": "If you could speak to him, you would say something important.",
+        "alts": [],
+        "form": "Conditionnel"
+      },
+      {
+        "slot": "t|Conditionnel|2",
+        "f": "tense",
+        "s": "S'il était honnête, ___ la vérité.",
+        "a": "il dirait",
+        "en": "If he were honest, he would tell the truth.",
+        "alts": [],
+        "form": "Conditionnel"
+      },
+      {
+        "slot": "t|Conditionnel|2",
+        "f": "tense",
+        "s": "Mon ami ___ ce qu'il pense si on lui demandait.",
+        "a": "il dirait",
+        "en": "My friend would say what he thinks if asked.",
+        "alts": [],
+        "form": "Conditionnel"
+      },
+      {
+        "slot": "t|Conditionnel|3",
+        "f": "tense",
+        "s": "Si nous étions là, ___ ce que nous pensons.",
+        "a": "nous dirions",
+        "en": "If we were there, we would say what we think.",
+        "alts": [],
+        "form": "Conditionnel"
+      },
+      {
+        "slot": "t|Conditionnel|3",
+        "f": "tense",
+        "s": "À leur place, ___ la même chose.",
+        "a": "nous dirions",
+        "en": "In their place, we would say the same thing.",
+        "alts": [],
+        "form": "Conditionnel"
+      },
+      {
+        "slot": "t|Conditionnel|4",
+        "f": "tense",
+        "s": "Que ___ -vous si vous étiez témoins ?",
+        "a": "vous diriez",
+        "en": "What would you say if you were witnesses?",
+        "alts": [],
+        "form": "Conditionnel"
+      },
+      {
+        "slot": "t|Conditionnel|4",
+        "f": "tense",
+        "s": "Si vous pouviez choisir, ___ quoi à la presse ?",
+        "a": "vous diriez",
+        "en": "If you could choose, what would you say to the press?",
+        "alts": [],
+        "form": "Conditionnel"
+      },
+      {
+        "slot": "t|Conditionnel|5",
+        "f": "tense",
+        "s": "S'ils savaient la vérité, ___ quelque chose de différent.",
+        "a": "ils diraient",
+        "en": "If they knew the truth, they would say something different.",
+        "alts": [],
+        "form": "Conditionnel"
+      },
+      {
+        "slot": "t|Conditionnel|5",
+        "f": "tense",
+        "s": "Mes amis ___ la même chose si on leur posait la question.",
+        "a": "ils diraient",
+        "en": "My friends would say the same thing if asked.",
+        "alts": [],
+        "form": "Conditionnel"
+      },
+      {
+        "slot": "t|Subjonctif|0",
+        "f": "tense",
+        "s": "Il faut ___ la vérité à tout prix.",
+        "a": "que je dise",
+        "en": "It is necessary that I tell the truth at all costs.",
+        "alts": [],
+        "form": "Subjonctif"
+      },
+      {
+        "slot": "t|Subjonctif|0",
+        "f": "tense",
+        "s": "Ma mère veut ___ quelque chose d'important.",
+        "a": "que je dise",
+        "en": "My mother wants me to say something important.",
+        "alts": [],
+        "form": "Subjonctif"
+      },
+      {
+        "slot": "t|Subjonctif|1",
+        "f": "tense",
+        "s": "Je voudrais ___ exactement ce que tu penses.",
+        "a": "que tu dises",
+        "en": "I would like you to say exactly what you think.",
+        "alts": [],
+        "form": "Subjonctif"
+      },
+      {
+        "slot": "t|Subjonctif|1",
+        "f": "tense",
+        "s": "Il est important ___ la vérité à tes parents.",
+        "a": "que tu dises",
+        "en": "It is important that you tell the truth to your parents.",
+        "alts": [],
+        "form": "Subjonctif"
+      },
+      {
+        "slot": "t|Subjonctif|2",
+        "f": "tense",
+        "s": "Je veux ___ ce qu'il ressent vraiment.",
+        "a": "qu'il dise",
+        "en": "I want him to say what he truly feels.",
+        "alts": [],
+        "form": "Subjonctif"
+      },
+      {
+        "slot": "t|Subjonctif|2",
+        "f": "tense",
+        "s": "Il est nécessaire ___ la vérité devant le tribunal.",
+        "a": "qu'il dise",
+        "en": "It is necessary that he tell the truth before the court.",
+        "alts": [],
+        "form": "Subjonctif"
+      },
+      {
+        "slot": "t|Subjonctif|3",
+        "f": "tense",
+        "s": "Le directeur exige ___ clairement notre position.",
+        "a": "que nous disions",
+        "en": "The director requires that we clearly state our position.",
+        "alts": [],
+        "form": "Subjonctif"
+      },
+      {
+        "slot": "t|Subjonctif|3",
+        "f": "tense",
+        "s": "Il est essentiel ___ la vérité à nos clients.",
+        "a": "que nous disions",
+        "en": "It is essential that we tell the truth to our clients.",
+        "alts": [],
+        "form": "Subjonctif"
+      },
+      {
+        "slot": "t|Subjonctif|4",
+        "f": "tense",
+        "s": "Il faut ___ ce que vous pensez sincèrement.",
+        "a": "que vous disiez",
+        "en": "It is necessary that you say what you sincerely think.",
+        "alts": [],
+        "form": "Subjonctif"
+      },
+      {
+        "slot": "t|Subjonctif|4",
+        "f": "tense",
+        "s": "Je préfère ___ la vérité plutôt qu'un mensonge.",
+        "a": "que vous disiez",
+        "en": "I prefer that you say the truth rather than a lie.",
+        "alts": [],
+        "form": "Subjonctif"
+      },
+      {
+        "slot": "t|Subjonctif|5",
+        "f": "tense",
+        "s": "Il est important ___ ce qu'ils pensent réellement.",
+        "a": "qu'ils disent",
+        "en": "It is important that they say what they really think.",
+        "alts": [],
+        "form": "Subjonctif"
+      },
+      {
+        "slot": "t|Subjonctif|5",
+        "f": "tense",
+        "s": "Je veux ___ la vérité lors de l'audition.",
+        "a": "qu'ils disent",
+        "en": "I want them to tell the truth at the hearing.",
+        "alts": [],
+        "form": "Subjonctif"
+      },
+      {
+        "slot": "s|0",
+        "f": "sense",
+        "s": "Il ___ bonjour en entrant dans la pièce.",
+        "a": "dit",
+        "en": "He says hello upon entering the room.",
+        "alts": []
+      },
+      {
+        "slot": "s|0",
+        "f": "sense",
+        "s": "Elle ___ toujours ce qu'elle pense.",
+        "a": "dit",
+        "en": "She always says what she thinks.",
+        "alts": []
+      },
+      {
+        "slot": "s|1",
+        "f": "sense",
+        "s": "Je vais ___ à mes enfants qu'il est l'heure de dormir.",
+        "a": "dire",
+        "en": "I am going to tell my children that it is time to sleep.",
+        "alts": []
+      },
+      {
+        "slot": "s|1",
+        "f": "sense",
+        "s": "Il lui ___ la nouvelle avec beaucoup de douceur.",
+        "a": "dit",
+        "en": "He tells her the news very gently.",
+        "alts": []
+      },
+      {
+        "slot": "s|2",
+        "f": "sense",
+        "s": "Le conférencier ___ une longue histoire sur son voyage.",
+        "a": "dit",
+        "en": "The speaker tells a long story about his trip.",
+        "alts": []
+      },
+      {
+        "slot": "s|2",
+        "f": "sense",
+        "s": "Elle ___ une belle légende à ses petits-enfants chaque soir.",
+        "a": "dit",
+        "en": "She tells a beautiful legend to her grandchildren every evening.",
+        "alts": []
+      }
+    ]
+  },
+  {
+    "id": 38,
+    "qs": [
+      {
+        "slot": "s|0",
+        "f": "sense",
+        "s": "Marie est très intelligente ; ___ réussit toujours ses examens.",
+        "a": "elle",
+        "en": "Marie is very intelligent; she always passes her exams.",
+        "alts": []
+      },
+      {
+        "slot": "s|0",
+        "f": "sense",
+        "s": "Sophie a appelé ce matin, mais ___ n'a pas laissé de message.",
+        "a": "elle",
+        "en": "Sophie called this morning, but she didn't leave a message.",
+        "alts": []
+      },
+      {
+        "slot": "s|1",
+        "f": "sense",
+        "s": "J'aime beaucoup cette voiture ; ___ est rapide et confortable.",
+        "a": "elle",
+        "en": "I really like this car; it is fast and comfortable.",
+        "alts": []
+      },
+      {
+        "slot": "s|1",
+        "f": "sense",
+        "s": "La tour Eiffel est magnifique ; ___ attire des millions de touristes chaque année.",
+        "a": "elle",
+        "en": "The Eiffel Tower is magnificent; it attracts millions of tourists every year.",
+        "alts": []
+      }
+    ]
+  },
+  {
+    "id": 39,
+    "qs": [
+      {
+        "slot": "t|Présent|0",
+        "f": "tense",
+        "s": "___ partir avant midi pour éviter les embouteillages.",
+        "a": "je dois",
+        "en": "I have to leave before noon to avoid traffic jams.",
+        "alts": [],
+        "form": "Présent"
+      },
+      {
+        "slot": "t|Présent|0",
+        "f": "tense",
+        "s": "Ce soir, ___ finir ce rapport urgent.",
+        "a": "je dois",
+        "en": "Tonight, I have to finish this urgent report.",
+        "alts": [],
+        "form": "Présent"
+      },
+      {
+        "slot": "t|Présent|1",
+        "f": "tense",
+        "s": "___ rendre ce livre à la bibliothèque aujourd'hui.",
+        "a": "tu dois",
+        "en": "You have to return this book to the library today.",
+        "alts": [],
+        "form": "Présent"
+      },
+      {
+        "slot": "t|Présent|1",
+        "f": "tense",
+        "s": "Si tu veux réussir, ___ travailler sérieusement.",
+        "a": "tu dois",
+        "en": "If you want to succeed, you have to work seriously.",
+        "alts": [],
+        "form": "Présent"
+      },
+      {
+        "slot": "t|Présent|2",
+        "f": "tense",
+        "s": "Pierre ___ prendre le train à huit heures.",
+        "a": "il doit",
+        "en": "Pierre has to take the train at eight o'clock.",
+        "alts": [],
+        "form": "Présent"
+      },
+      {
+        "slot": "t|Présent|2",
+        "f": "tense",
+        "s": "On ___ respecter les règles de sécurité dans cette usine.",
+        "a": "on doit",
+        "en": "One has to respect the safety rules in this factory.",
+        "alts": ["il doit"],
+        "form": "Présent"
+      },
+      {
+        "slot": "t|Présent|3",
+        "f": "tense",
+        "s": "___ nous lever tôt demain matin pour prendre l'avion.",
+        "a": "nous devons",
+        "en": "We have to get up early tomorrow morning to catch the plane.",
+        "alts": [],
+        "form": "Présent"
+      },
+      {
+        "slot": "t|Présent|3",
+        "f": "tense",
+        "s": "En tant qu'équipe, ___ collaborer efficacement.",
+        "a": "nous devons",
+        "en": "As a team, we have to collaborate effectively.",
+        "alts": [],
+        "form": "Présent"
+      },
+      {
+        "slot": "t|Présent|4",
+        "f": "tense",
+        "s": "___ remettre vos copies avant la fin du cours.",
+        "a": "vous devez",
+        "en": "You must hand in your papers before the end of class.",
+        "alts": [],
+        "form": "Présent"
+      },
+      {
+        "slot": "t|Présent|4",
+        "f": "tense",
+        "s": "Pour entrer, ___ montrer votre carte d'identité.",
+        "a": "vous devez",
+        "en": "To enter, you must show your identity card.",
+        "alts": [],
+        "form": "Présent"
+      },
+      {
+        "slot": "t|Présent|5",
+        "f": "tense",
+        "s": "Les élèves ___ apprendre leurs leçons par cœur.",
+        "a": "ils doivent",
+        "en": "The pupils must learn their lessons by heart.",
+        "alts": [],
+        "form": "Présent"
+      },
+      {
+        "slot": "t|Présent|5",
+        "f": "tense",
+        "s": "Elles ___ arriver à l'aéroport trois heures à l'avance.",
+        "a": "elles doivent",
+        "en": "They must arrive at the airport three hours in advance.",
+        "alts": ["ils doivent"],
+        "form": "Présent"
+      },
+      {
+        "slot": "t|Passé composé|0",
+        "f": "tense",
+        "s": "Hier soir, ___ annuler mon rendez-vous à cause de la pluie.",
+        "a": "j'ai dû",
+        "en": "Last night, I had to cancel my appointment because of the rain.",
+        "alts": [],
+        "form": "Passé composé"
+      },
+      {
+        "slot": "t|Passé composé|0",
+        "f": "tense",
+        "s": "___ travailler tout le week-end pour terminer le projet.",
+        "a": "j'ai dû",
+        "en": "I had to work all weekend to finish the project.",
+        "alts": [],
+        "form": "Passé composé"
+      },
+      {
+        "slot": "t|Passé composé|1",
+        "f": "tense",
+        "s": "Est-ce que ___ attendre longtemps chez le médecin ?",
+        "a": "tu as dû",
+        "en": "Did you have to wait a long time at the doctor's?",
+        "alts": [],
+        "form": "Passé composé"
+      },
+      {
+        "slot": "t|Passé composé|1",
+        "f": "tense",
+        "s": "___ partir sans dire au revoir, c'est vraiment dommage.",
+        "a": "tu as dû",
+        "en": "You had to leave without saying goodbye, that's really a shame.",
+        "alts": [],
+        "form": "Passé composé"
+      },
+      {
+        "slot": "t|Passé composé|2",
+        "f": "tense",
+        "s": "Le médecin ___ opérer d'urgence le patient hier.",
+        "a": "il a dû",
+        "en": "The doctor had to operate on the patient urgently yesterday.",
+        "alts": [],
+        "form": "Passé composé"
+      },
+      {
+        "slot": "t|Passé composé|2",
+        "f": "tense",
+        "s": "Elle ___ recommencer l'exercice depuis le début.",
+        "a": "elle a dû",
+        "en": "She had to start the exercise again from the beginning.",
+        "alts": ["il a dû"],
+        "form": "Passé composé"
+      },
+      {
+        "slot": "t|Passé composé|3",
+        "f": "tense",
+        "s": "___ prendre un taxi car le dernier métro était parti.",
+        "a": "nous avons dû",
+        "en": "We had to take a taxi because the last metro had left.",
+        "alts": [],
+        "form": "Passé composé"
+      },
+      {
+        "slot": "t|Passé composé|3",
+        "f": "tense",
+        "s": "Pendant la panne d'électricité, ___ travailler à la bougie.",
+        "a": "nous avons dû",
+        "en": "During the power cut, we had to work by candlelight.",
+        "alts": [],
+        "form": "Passé composé"
+      },
+      {
+        "slot": "t|Passé composé|4",
+        "f": "tense",
+        "s": "___ signer le contrat avant de quitter le bureau.",
+        "a": "vous avez dû",
+        "en": "You had to sign the contract before leaving the office.",
+        "alts": [],
+        "form": "Passé composé"
+      },
+      {
+        "slot": "t|Passé composé|4",
+        "f": "tense",
+        "s": "Pourquoi ___ changer de vol au dernier moment ?",
+        "a": "vous avez dû",
+        "en": "Why did you have to change your flight at the last moment?",
+        "alts": [],
+        "form": "Passé composé"
+      },
+      {
+        "slot": "t|Passé composé|5",
+        "f": "tense",
+        "s": "Les pompiers ___ intervenir rapidement pour éteindre l'incendie.",
+        "a": "ils ont dû",
+        "en": "The firefighters had to intervene quickly to put out the fire.",
+        "alts": [],
+        "form": "Passé composé"
+      },
+      {
+        "slot": "t|Passé composé|5",
+        "f": "tense",
+        "s": "Les candidates ___ passer un entretien supplémentaire.",
+        "a": "elles ont dû",
+        "en": "The candidates had to go through an additional interview.",
+        "alts": ["ils ont dû"],
+        "form": "Passé composé"
+      },
+      {
+        "slot": "t|Imparfait|0",
+        "f": "tense",
+        "s": "Quand j'étais enfant, ___ aller au lit à vingt heures.",
+        "a": "je devais",
+        "en": "When I was a child, I had to go to bed at eight o'clock.",
+        "alts": [],
+        "form": "Imparfait"
+      },
+      {
+        "slot": "t|Imparfait|0",
+        "f": "tense",
+        "s": "Chaque matin, ___ préparer le petit-déjeuner pour toute la famille.",
+        "a": "je devais",
+        "en": "Every morning, I had to prepare breakfast for the whole family.",
+        "alts": [],
+        "form": "Imparfait"
+      },
+      {
+        "slot": "t|Imparfait|1",
+        "f": "tense",
+        "s": "Avant, ___ porter un uniforme à l'école.",
+        "a": "tu devais",
+        "en": "Before, you had to wear a uniform to school.",
+        "alts": [],
+        "form": "Imparfait"
+      },
+      {
+        "slot": "t|Imparfait|1",
+        "f": "tense",
+        "s": "___ rendre des comptes à ton supérieur chaque semaine.",
+        "a": "tu devais",
+        "en": "You had to report to your superior every week.",
+        "alts": [],
+        "form": "Imparfait"
+      },
+      {
+        "slot": "t|Imparfait|2",
+        "f": "tense",
+        "s": "Mon grand-père ___ travailler à la ferme dès l'âge de dix ans.",
+        "a": "il devait",
+        "en": "My grandfather had to work on the farm from the age of ten.",
+        "alts": [],
+        "form": "Imparfait"
+      },
+      {
+        "slot": "t|Imparfait|2",
+        "f": "tense",
+        "s": "Elle ___ s'occuper de ses frères et sœurs après l'école.",
+        "a": "elle devait",
+        "en": "She had to take care of her brothers and sisters after school.",
+        "alts": ["il devait"],
+        "form": "Imparfait"
+      },
+      {
+        "slot": "t|Imparfait|3",
+        "f": "tense",
+        "s": "___ économiser pendant des années pour acheter cette maison.",
+        "a": "nous devions",
+        "en": "We had to save up for years to buy this house.",
+        "alts": [],
+        "form": "Imparfait"
+      },
+      {
+        "slot": "t|Imparfait|3",
+        "f": "tense",
+        "s": "Dans notre entreprise, ___ pointer à l'arrivée et au départ.",
+        "a": "nous devions",
+        "en": "In our company, we had to clock in and out.",
+        "alts": [],
+        "form": "Imparfait"
+      },
+      {
+        "slot": "t|Imparfait|4",
+        "f": "tense",
+        "s": "À cette époque, ___ demander une autorisation spéciale pour sortir.",
+        "a": "vous deviez",
+        "en": "At that time, you had to request a special authorization to go out.",
+        "alts": [],
+        "form": "Imparfait"
+      },
+      {
+        "slot": "t|Imparfait|4",
+        "f": "tense",
+        "s": "___ souvent faire des heures supplémentaires dans ce poste.",
+        "a": "vous deviez",
+        "en": "You often had to work overtime in that position.",
+        "alts": [],
+        "form": "Imparfait"
+      },
+      {
+        "slot": "t|Imparfait|5",
+        "f": "tense",
+        "s": "Les ouvriers ___ travailler six jours par semaine autrefois.",
+        "a": "ils devaient",
+        "en": "The workers used to have to work six days a week in the past.",
+        "alts": [],
+        "form": "Imparfait"
+      },
+      {
+        "slot": "t|Imparfait|5",
+        "f": "tense",
+        "s": "Les étudiantes ___ mémoriser des centaines de règles de grammaire.",
+        "a": "elles devaient",
+        "en": "The students had to memorize hundreds of grammar rules.",
+        "alts": ["ils devaient"],
+        "form": "Imparfait"
+      },
+      {
+        "slot": "t|Futur|0",
+        "f": "tense",
+        "s": "Demain, ___ me lever à cinq heures du matin pour le vol.",
+        "a": "je devrai",
+        "en": "Tomorrow, I will have to get up at five in the morning for the flight.",
+        "alts": [],
+        "form": "Futur"
+      },
+      {
+        "slot": "t|Futur|0",
+        "f": "tense",
+        "s": "Si la réunion dure trop longtemps, ___ annuler mon dîner.",
+        "a": "je devrai",
+        "en": "If the meeting runs too long, I will have to cancel my dinner.",
+        "alts": [],
+        "form": "Futur"
+      },
+      {
+        "slot": "t|Futur|1",
+        "f": "tense",
+        "s": "L'année prochaine, ___ passer ton permis de conduire.",
+        "a": "tu devras",
+        "en": "Next year, you will have to take your driving test.",
+        "alts": [],
+        "form": "Futur"
+      },
+      {
+        "slot": "t|Futur|1",
+        "f": "tense",
+        "s": "Pour ce poste, ___ parler couramment trois langues.",
+        "a": "tu devras",
+        "en": "For this position, you will have to speak three languages fluently.",
+        "alts": [],
+        "form": "Futur"
+      },
+      {
+        "slot": "t|Futur|2",
+        "f": "tense",
+        "s": "Il ___ rembourser tout l'argent qu'il a emprunté.",
+        "a": "il devra",
+        "en": "He will have to pay back all the money he borrowed.",
+        "alts": [],
+        "form": "Futur"
+      },
+      {
+        "slot": "t|Futur|2",
+        "f": "tense",
+        "s": "Elle ___ choisir entre sa carrière et sa famille.",
+        "a": "elle devra",
+        "en": "She will have to choose between her career and her family.",
+        "alts": ["il devra"],
+        "form": "Futur"
+      },
+      {
+        "slot": "t|Futur|3",
+        "f": "tense",
+        "s": "___ redoubler d'efforts pour atteindre nos objectifs cette année.",
+        "a": "nous devrons",
+        "en": "We will have to redouble our efforts to reach our goals this year.",
+        "alts": [],
+        "form": "Futur"
+      },
+      {
+        "slot": "t|Futur|3",
+        "f": "tense",
+        "s": "Tôt ou tard, ___ prendre une décision importante.",
+        "a": "nous devrons",
+        "en": "Sooner or later, we will have to make an important decision.",
+        "alts": [],
+        "form": "Futur"
+      },
+      {
+        "slot": "t|Futur|4",
+        "f": "tense",
+        "s": "___ renouveler vos passeports avant le voyage.",
+        "a": "vous devrez",
+        "en": "You will have to renew your passports before the trip.",
+        "alts": [],
+        "form": "Futur"
+      },
+      {
+        "slot": "t|Futur|4",
+        "f": "tense",
+        "s": "Messieurs, ___ patienter encore quelques minutes.",
+        "a": "vous devrez",
+        "en": "Gentlemen, you will have to wait a few more minutes.",
+        "alts": [],
+        "form": "Futur"
+      },
+      {
+        "slot": "t|Futur|5",
+        "f": "tense",
+        "s": "Les participants ___ s'inscrire en ligne avant vendredi.",
+        "a": "ils devront",
+        "en": "The participants will have to register online before Friday.",
+        "alts": [],
+        "form": "Futur"
+      },
+      {
+        "slot": "t|Futur|5",
+        "f": "tense",
+        "s": "Elles ___ présenter un certificat médical pour participer.",
+        "a": "elles devront",
+        "en": "They will have to present a medical certificate to participate.",
+        "alts": ["ils devront"],
+        "form": "Futur"
+      },
+      {
+        "slot": "t|Conditionnel|0",
+        "f": "tense",
+        "s": "À ta place, ___ consulter un avocat immédiatement.",
+        "a": "je devrais",
+        "en": "In your place, I should consult a lawyer immediately.",
+        "alts": [],
+        "form": "Conditionnel"
+      },
+      {
+        "slot": "t|Conditionnel|0",
+        "f": "tense",
+        "s": "Si j'avais plus de temps, ___ lire davantage.",
+        "a": "je devrais",
+        "en": "If I had more time, I should read more.",
+        "alts": [],
+        "form": "Conditionnel"
+      },
+      {
+        "slot": "t|Conditionnel|1",
+        "f": "tense",
+        "s": "___ te reposer un peu, tu as l'air épuisé.",
+        "a": "tu devrais",
+        "en": "You should rest a little, you look exhausted.",
+        "alts": [],
+        "form": "Conditionnel"
+      },
+      {
+        "slot": "t|Conditionnel|1",
+        "f": "tense",
+        "s": "Avec ton talent, ___ postuler à cet emploi.",
+        "a": "tu devrais",
+        "en": "With your talent, you should apply for this job.",
+        "alts": [],
+        "form": "Conditionnel"
+      },
+      {
+        "slot": "t|Conditionnel|2",
+        "f": "tense",
+        "s": "Il ___ manger moins de sucre pour améliorer sa santé.",
+        "a": "il devrait",
+        "en": "He should eat less sugar to improve his health.",
+        "alts": [],
+        "form": "Conditionnel"
+      },
+      {
+        "slot": "t|Conditionnel|2",
+        "f": "tense",
+        "s": "Ce médicament ___ être pris avec un verre d'eau.",
+        "a": "il devrait",
+        "en": "This medication should be taken with a glass of water.",
+        "alts": [],
+        "form": "Conditionnel"
+      },
+      {
+        "slot": "t|Conditionnel|3",
+        "f": "tense",
+        "s": "___ partir plus tôt pour éviter les bouchons.",
+        "a": "nous devrions",
+        "en": "We should leave earlier to avoid the traffic jams.",
+        "alts": [],
+        "form": "Conditionnel"
+      },
+      {
+        "slot": "t|Conditionnel|3",
+        "f": "tense",
+        "s": "En tant que parents, ___ montrer l'exemple à nos enfants.",
+        "a": "nous devrions",
+        "en": "As parents, we should set an example for our children.",
+        "alts": [],
+        "form": "Conditionnel"
+      },
+      {
+        "slot": "t|Conditionnel|4",
+        "f": "tense",
+        "s": "___ faire plus attention à votre alimentation.",
+        "a": "vous devriez",
+        "en": "You should pay more attention to your diet.",
+        "alts": [],
+        "form": "Conditionnel"
+      },
+      {
+        "slot": "t|Conditionnel|4",
+        "f": "tense",
+        "s": "Pour progresser en français, ___ pratiquer chaque jour.",
+        "a": "vous devriez",
+        "en": "To make progress in French, you should practise every day.",
+        "alts": [],
+        "form": "Conditionnel"
+      },
+      {
+        "slot": "t|Conditionnel|5",
+        "f": "tense",
+        "s": "Les enfants ___ dormir au moins neuf heures par nuit.",
+        "a": "ils devraient",
+        "en": "Children should sleep at least nine hours a night.",
+        "alts": [],
+        "form": "Conditionnel"
+      },
+      {
+        "slot": "t|Conditionnel|5",
+        "f": "tense",
+        "s": "Elles ___ arrêter de fumer pour améliorer leur santé.",
+        "a": "elles devraient",
+        "en": "They should stop smoking to improve their health.",
+        "alts": ["ils devraient"],
+        "form": "Conditionnel"
+      },
+      {
+        "slot": "t|Subjonctif|0",
+        "f": "tense",
+        "s": "Il faut ___ remettre ce dossier avant demain matin.",
+        "a": "que je doive",
+        "en": "It is necessary that I must hand in this file before tomorrow morning.",
+        "alts": [],
+        "form": "Subjonctif"
+      },
+      {
+        "slot": "t|Subjonctif|0",
+        "f": "tense",
+        "s": "Elle est surprise ___ encore travailler le week-end.",
+        "a": "que je doive",
+        "en": "She is surprised that I have to work on weekends again.",
+        "alts": [],
+        "form": "Subjonctif"
+      },
+      {
+        "slot": "t|Subjonctif|1",
+        "f": "tense",
+        "s": "Je suis désolé ___ partir si tôt.",
+        "a": "que tu doives",
+        "en": "I am sorry that you have to leave so early.",
+        "alts": [],
+        "form": "Subjonctif"
+      },
+      {
+        "slot": "t|Subjonctif|1",
+        "f": "tense",
+        "s": "Il est normal ___ respecter les règles du jeu.",
+        "a": "que tu doives",
+        "en": "It is normal that you have to respect the rules of the game.",
+        "alts": [],
+        "form": "Subjonctif"
+      },
+      {
+        "slot": "t|Subjonctif|2",
+        "f": "tense",
+        "s": "Il est regrettable ___ abandonner ce projet.",
+        "a": "qu'il doive",
+        "en": "It is regrettable that he has to abandon this project.",
+        "alts": [],
+        "form": "Subjonctif"
+      },
+      {
+        "slot": "t|Subjonctif|2",
+        "f": "tense",
+        "s": "Je ne pense pas ___ travailler autant chaque soir.",
+        "a": "qu'il doive",
+        "en": "I don't think he has to work that much every evening.",
+        "alts": [],
+        "form": "Subjonctif"
+      },
+      {
+        "slot": "t|Subjonctif|3",
+        "f": "tense",
+        "s": "Il est important ___ rendre notre rapport à temps.",
+        "a": "que nous devions",
+        "en": "It is important that we submit our report on time.",
+        "alts": [],
+        "form": "Subjonctif"
+      },
+      {
+        "slot": "t|Subjonctif|3",
+        "f": "tense",
+        "s": "Nos parents s'inquiètent ___ voyager seuls à l'étranger.",
+        "a": "que nous devions",
+        "en": "Our parents worry that we have to travel abroad alone.",
+        "alts": [],
+        "form": "Subjonctif"
+      },
+      {
+        "slot": "t|Subjonctif|4",
+        "f": "tense",
+        "s": "Il est dommage ___ annuler la fête.",
+        "a": "que vous deviez",
+        "en": "It is a shame that you have to cancel the party.",
+        "alts": [],
+        "form": "Subjonctif"
+      },
+      {
+        "slot": "t|Subjonctif|4",
+        "f": "tense",
+        "s": "Je suis surpris ___ recommencer tout depuis le début.",
+        "a": "que vous deviez",
+        "en": "I am surprised that you have to start everything over from the beginning.",
+        "alts": [],
+        "form": "Subjonctif"
+      },
+      {
+        "slot": "t|Subjonctif|5",
+        "f": "tense",
+        "s": "Il est triste ___ quitter leur pays natal.",
+        "a": "qu'ils doivent",
+        "en": "It is sad that they have to leave their native country.",
+        "alts": [],
+        "form": "Subjonctif"
+      },
+      {
+        "slot": "t|Subjonctif|5",
+        "f": "tense",
+        "s": "Je suis surpris ___ travailler si dur pour si peu.",
+        "a": "qu'ils doivent",
+        "en": "I am surprised that they have to work so hard for so little.",
+        "alts": [],
+        "form": "Subjonctif"
+      },
+      {
+        "slot": "s|0",
+        "f": "sense",
+        "s": "Pour prendre l'avion, vous ___ arriver deux heures à l'avance — c'est obligatoire.",
+        "a": "devez",
+        "en": "To catch the plane, you must arrive two hours in advance — it is compulsory.",
+        "alts": []
+      },
+      {
+        "slot": "s|0",
+        "f": "sense",
+        "s": "Le règlement stipule qu'on ___ s'arrêter au feu rouge.",
+        "a": "doit",
+        "en": "The regulations state that one must stop at a red light.",
+        "alts": []
+      },
+      {
+        "slot": "s|1",
+        "f": "sense",
+        "s": "Tu as l'air fatigué — tu ___ te coucher plus tôt.",
+        "a": "devrais",
+        "en": "You look tired — you should go to bed earlier.",
+        "alts": []
+      },
+      {
+        "slot": "s|1",
+        "f": "sense",
+        "s": "On ___ toujours être poli avec les autres, c'est une question de respect.",
+        "a": "devrait",
+        "en": "One should always be polite to others; it is a matter of respect.",
+        "alts": []
+      },
+      {
+        "slot": "s|2",
+        "f": "sense",
+        "s": "Il me ___ encore cent euros depuis le mois dernier.",
+        "a": "doit",
+        "en": "He still owes me a hundred euros since last month.",
+        "alts": []
+      },
+      {
+        "slot": "s|2",
+        "f": "sense",
+        "s": "Combien est-ce que je te ___ pour ce service rendu ?",
+        "a": "dois",
+        "en": "How much do I owe you for this service?",
+        "alts": []
+      },
+      {
+        "slot": "s|3",
+        "f": "sense",
+        "s": "Faire la vaisselle est mon ___ dans la maison.",
+        "a": "devoir",
+        "en": "Doing the dishes is my duty in the household.",
+        "alts": []
+      },
+      {
+        "slot": "s|3",
+        "f": "sense",
+        "s": "Le soldat a accompli son ___ avec courage face à l'ennemi.",
+        "a": "devoir",
+        "en": "The soldier carried out his duty with courage facing the enemy.",
+        "alts": []
+      },
+      {
+        "slot": "s|4",
+        "f": "sense",
+        "s": "Rembourser ses dettes est une ___ morale envers ses créanciers.",
+        "a": "obligation",
+        "en": "Repaying one's debts is a moral obligation towards one's creditors.",
+        "alts": ["devoir"]
+      },
+      {
+        "slot": "s|4",
+        "f": "sense",
+        "s": "L'état a l'___ d'assurer la sécurité de ses citoyens.",
+        "a": "obligation",
+        "en": "The state has the obligation to ensure the safety of its citizens.",
+        "alts": ["devoir"]
+      }
+    ]
+  },
+  {
+    "id": 40,
+    "qs": [
+      {
+        "slot": "s|0",
+        "f": "sense",
+        "s": "Il faut finir ce travail ___ la réunion.",
+        "a": "avant",
+        "en": "We need to finish this work before the meeting.",
+        "alts": []
+      },
+      {
+        "slot": "s|0",
+        "f": "sense",
+        "s": "Elle a téléphoné ___ de partir.",
+        "a": "avant",
+        "en": "She called before leaving.",
+        "alts": []
+      },
+      {
+        "slot": "s|1",
+        "f": "sense",
+        "s": "Le jardin se trouve à l'___ de la maison.",
+        "a": "avant",
+        "en": "The garden is at the front of the house.",
+        "alts": []
+      },
+      {
+        "slot": "s|1",
+        "f": "sense",
+        "s": "Les passagers à l'___ du bus sont plus exposés au bruit.",
+        "a": "avant",
+        "en": "The passengers at the front of the bus are more exposed to noise.",
+        "alts": []
+      },
+      {
+        "slot": "s|2",
+        "f": "sense",
+        "s": "Le soldat fit un grand pas en ___.",
+        "a": "avant",
+        "en": "The soldier took a big step forward.",
+        "alts": []
+      },
+      {
+        "slot": "s|2",
+        "f": "sense",
+        "s": "Allez, tout le monde, en ___ !",
+        "a": "avant",
+        "en": "Come on, everyone, forward!",
+        "alts": []
+      },
+      {
+        "slot": "gender",
+        "f": "gender",
+        "s": "___ avant du navire est appelé la proue.",
+        "a": "L'",
+        "en": "The front of the ship is called the prow.",
+        "alts": ["l'"]
+      },
+      {
+        "slot": "gender",
+        "f": "gender",
+        "s": "Ils ont inspecté ___ avant du véhicule après l'accident.",
+        "a": "l'",
+        "en": "They inspected the front of the vehicle after the accident.",
+        "alts": ["L'"]
+      }
+    ]
+  }
+]

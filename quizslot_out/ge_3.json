@@ -1,0 +1,39 @@
+[
+  {
+    "id": 510,
+    "qs": [
+      {"slot":"s|0","f":"sense","s":"C'est ___ que je cherche, pas quelqu'un d'autre.","a":"toi","en":"It's you I'm looking for, not someone else.","alts":[],"form":""},
+      {"slot":"s|0","f":"sense","s":"___ et moi, nous partirons ensemble demain matin.","a":"Toi","en":"You and I will leave together tomorrow morning.","alts":[],"form":""},
+      {"slot":"s|1","f":"sense","s":"Tu dois te faire confiance à ___ pour réussir.","a":"toi","en":"You must trust yourself to succeed.","alts":[],"form":""},
+      {"slot":"s|1","f":"sense","s":"Occupe-___ de tes affaires et ne te mêle pas de celles des autres.","a":"toi","en":"Mind your own business and don't meddle in other people's affairs.","alts":[],"form":""},
+      {"slot":"gender","f":"gender","s":"Dans ce roman philosophique, l'auteur explore ___ profond qui sommeille en chacun de nous.","a":"le","en":"In this philosophical novel, the author explores the deep self that slumbers within each of us.","alts":[],"form":""},
+      {"slot":"gender","f":"gender","s":"Pour te retrouver vraiment, il faut apprendre à connaître ___ véritable.","a":"le","en":"To truly find yourself, you must learn to know the real you.","alts":[],"form":""}
+    ]
+  },
+  {
+    "id": 511,
+    "qs": [
+      {"slot":"s|0","f":"sense","s":"En tant que parent, tu es ___ de la sécurité de tes enfants.","a":"responsable","en":"As a parent, you are responsible for your children's safety.","alts":[],"form":""},
+      {"slot":"s|0","f":"sense","s":"Il est important d'être ___ de ses actes.","a":"responsable","en":"It is important to be responsible for one's actions.","alts":[],"form":""},
+      {"slot":"s|1","f":"sense","s":"Veuillez contacter le ___ du service clientèle pour toute réclamation.","a":"responsable","en":"Please contact the person in charge of customer service for any complaint.","alts":[],"form":""},
+      {"slot":"s|1","f":"sense","s":"Le ___ de l'équipe a annoncé les nouvelles règles lors de la réunion.","a":"responsable","en":"The person in charge of the team announced the new rules at the meeting.","alts":[],"form":""},
+      {"slot":"g|mp","f":"agree","s":"Les directeurs ___ de ce projet ont reçu une prime.","a":"responsables","en":"The managers responsible for this project received a bonus.","alts":[],"form":""},
+      {"slot":"g|mp","f":"agree","s":"Nous cherchons des collaborateurs sérieux et ___ pour ce poste.","a":"responsables","en":"We are looking for serious and responsible collaborators for this position.","alts":[],"form":""},
+      {"slot":"g|f","f":"agree","s":"Ma collègue est très ___ dans son travail.","a":"responsable","en":"My colleague is very responsible in her work.","alts":[],"form":""},
+      {"slot":"g|f","f":"agree","s":"La directrice ___ du département a signé le rapport.","a":"responsable","en":"The director responsible for the department signed the report.","alts":[],"form":""},
+      {"slot":"g|fp","f":"agree","s":"Ces infirmières sont ___ de la santé des patients.","a":"responsables","en":"These nurses are responsible for the patients' health.","alts":[],"form":""},
+      {"slot":"g|fp","f":"agree","s":"Nous avons nommé deux directrices ___ de la communication externe.","a":"responsables","en":"We appointed two female directors responsible for external communications.","alts":[],"form":""}
+    ]
+  },
+  {
+    "id": 512,
+    "qs": [
+      {"slot":"s|0","f":"sense","s":"Les enfants traversent ___ avec prudence devant l'école.","a":"la route","en":"The children cross the road carefully in front of the school.","alts":[],"form":""},
+      {"slot":"s|0","f":"sense","s":"___ est bloquée par des travaux depuis ce matin.","a":"La route","en":"The road has been blocked by roadworks since this morning.","alts":[],"form":""},
+      {"slot":"s|1","f":"sense","s":"Le GPS a calculé la ___ la plus rapide pour arriver à Paris.","a":"route","en":"The GPS calculated the fastest route to reach Paris.","alts":[],"form":""},
+      {"slot":"s|1","f":"sense","s":"Nous avons choisi une ___ différente pour éviter les embouteillages.","a":"route","en":"We chose a different route to avoid traffic jams.","alts":[],"form":""},
+      {"slot":"gender","f":"gender","s":"___ route nationale traverse plusieurs petites villes.","a":"La","en":"The national road passes through several small towns.","alts":[],"form":""},
+      {"slot":"gender","f":"gender","s":"Il a emprunté ___ route de montagne pour admirer le paysage.","a":"la","en":"He took the mountain road to admire the scenery.","alts":[],"form":""}
+    ]
+  }
+]

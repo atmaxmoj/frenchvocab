@@ -1,0 +1,215 @@
+[
+  {
+    "id": 263,
+    "qs": [
+      {
+        "slot": "s|0",
+        "f": "sense",
+        "s": "Mon professeur préféré enseigne ___ au collège.",
+        "a": "l'histoire",
+        "en": "My favorite teacher teaches history at middle school.",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "s|0",
+        "f": "sense",
+        "s": "L'___ de France remonte à des milliers d'années.",
+        "a": "histoire",
+        "en": "The history of France goes back thousands of years.",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "s|1",
+        "f": "sense",
+        "s": "Grand-père nous raconte toujours une ___ avant de nous endormir.",
+        "a": "histoire",
+        "en": "Grandpa always tells us a story before we fall asleep.",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "s|1",
+        "f": "sense",
+        "s": "Cette ___ m'a beaucoup ému : la fin est vraiment touchante.",
+        "a": "histoire",
+        "en": "This story moved me a lot: the ending is really touching.",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "s|2",
+        "f": "sense",
+        "s": "Ne te mêle pas de cette ___, ce n'est pas ton problème.",
+        "a": "histoire",
+        "en": "Don't get involved in this affair/matter, it's not your problem.",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "s|2",
+        "f": "sense",
+        "s": "Cette ___ de fraude a choqué tout le quartier.",
+        "a": "histoire",
+        "en": "This fraud affair/incident shocked the whole neighborhood.",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "gender",
+        "f": "gender",
+        "s": "C'est ___ histoire vraie qui s'est passée pendant la guerre.",
+        "a": "une",
+        "en": "It's a true story that happened during the war.",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "gender",
+        "f": "gender",
+        "s": "Il enseigne ___ histoire de l'art à l'université.",
+        "a": "l'",
+        "en": "He teaches art history at the university.",
+        "alts": [],
+        "form": ""
+      }
+    ]
+  },
+  {
+    "id": 264,
+    "qs": [
+      {
+        "slot": "s|0",
+        "f": "sense",
+        "s": "Ce bâtiment est très ___ , on le voit de loin.",
+        "a": "haut",
+        "en": "This building is very tall, you can see it from far away.",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "s|0",
+        "f": "sense",
+        "s": "Le son de cette note est trop ___ pour ma voix.",
+        "a": "haut",
+        "en": "The pitch of this note is too high for my voice.",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "s|1",
+        "f": "sense",
+        "s": "Les documents sont rangés dans le tiroir ___ du bureau.",
+        "a": "haut",
+        "en": "The documents are stored in the top drawer of the desk.",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "s|1",
+        "f": "sense",
+        "s": "Il a pris le livre posé sur l'étagère ___ .",
+        "a": "haute",
+        "en": "He took the book placed on the top shelf.",
+        "alts": ["haut"],
+        "form": ""
+      },
+      {
+        "slot": "g|mp",
+        "f": "agree",
+        "s": "Les murs de cette cathédrale sont vraiment ___ .",
+        "a": "hauts",
+        "en": "The walls of this cathedral are really high.",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "g|mp",
+        "f": "agree",
+        "s": "Ces immeubles ___ dominent toute la ville.",
+        "a": "hauts",
+        "en": "These tall buildings dominate the whole city.",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "g|f",
+        "f": "agree",
+        "s": "La montagne la plus ___ d'Europe est le mont Blanc.",
+        "a": "haute",
+        "en": "The highest mountain in Europe is Mont Blanc.",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "g|f",
+        "f": "agree",
+        "s": "Elle parle d'une voix ___ et claire.",
+        "a": "haute",
+        "en": "She speaks in a high and clear voice.",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "g|fp",
+        "f": "agree",
+        "s": "Ces ___ tours furent construites au siècle dernier.",
+        "a": "hautes",
+        "en": "These tall towers were built in the last century.",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "g|fp",
+        "f": "agree",
+        "s": "Nous avons traversé des régions montagneuses aux falaises très ___ .",
+        "a": "hautes",
+        "en": "We crossed mountainous regions with very high cliffs.",
+        "alts": [],
+        "form": ""
+      }
+    ]
+  },
+  {
+    "id": 265,
+    "qs": [
+      {
+        "slot": "s|0",
+        "f": "sense",
+        "s": "D'abord, il a préparé ses affaires, et ___ il est parti au travail.",
+        "a": "ensuite",
+        "en": "First, he prepared his things, and then he left for work.",
+        "alts": ["puis"],
+        "form": ""
+      },
+      {
+        "slot": "s|0",
+        "f": "sense",
+        "s": "Elle a terminé son repas, ___ elle a lavé la vaisselle.",
+        "a": "ensuite",
+        "en": "She finished her meal, then she washed the dishes.",
+        "alts": ["puis"],
+        "form": ""
+      },
+      {
+        "slot": "s|1",
+        "f": "sense",
+        "s": "Il a commencé à lire, ___ il a posé le livre et s'est endormi.",
+        "a": "ensuite",
+        "en": "He started reading, then continued on to put the book down and fell asleep.",
+        "alts": ["puis"],
+        "form": ""
+      },
+      {
+        "slot": "s|1",
+        "f": "sense",
+        "s": "La professeure a expliqué la règle, ___ elle a donné des exemples.",
+        "a": "ensuite",
+        "en": "The teacher explained the rule, then went on to give examples.",
+        "alts": ["puis"],
+        "form": ""
+      }
+    ]
+  }
+]

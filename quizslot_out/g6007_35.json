@@ -1,0 +1,149 @@
+[
+  {
+    "id": 6300,
+    "qs": [
+      {
+        "slot": "s|0",
+        "f": "sense",
+        "s": "Dans ses mémoires, elle raconte son ___ de réfugiée avec beaucoup d'émotion.",
+        "a": "vécu",
+        "en": "In her memoir, she recounts her lived experience as a refugee with great emotion.",
+        "alts": []
+      },
+      {
+        "slot": "s|0",
+        "f": "sense",
+        "s": "Ce psychologue s'appuie sur le ___ des patients pour adapter sa thérapie.",
+        "a": "vécu",
+        "en": "This psychologist relies on patients' lived experience to adapt his therapy.",
+        "alts": []
+      },
+      {
+        "slot": "gender",
+        "f": "gender",
+        "s": "Elle raconte ___ vécu douloureux dans son autobiographie.",
+        "a": "un",
+        "en": "She recounts a painful lived experience in her autobiography.",
+        "alts": []
+      },
+      {
+        "slot": "gender",
+        "f": "gender",
+        "s": "Les médecins doivent comprendre ___ vécu traumatisant de ces enfants.",
+        "a": "le",
+        "en": "Doctors must understand these children's traumatic lived experience.",
+        "alts": []
+      }
+    ]
+  },
+  {
+    "id": 6301,
+    "qs": [
+      {
+        "slot": "s|0",
+        "f": "sense",
+        "s": "Les experts ont vérifié l'___ du tableau avant de l'acheter.",
+        "a": "authenticité",
+        "en": "The experts verified the authenticity of the painting before buying it.",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "s|0",
+        "f": "sense",
+        "s": "Ce restaurant est très apprécié pour l'___ de sa cuisine traditionnelle.",
+        "a": "authenticité",
+        "en": "This restaurant is very appreciated for the authenticity of its traditional cuisine.",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "gender",
+        "f": "gender",
+        "s": "Ce vase ancien possède ___ authenticité rare qui séduit les collectionneurs.",
+        "a": "une",
+        "en": "This ancient vase has a rare authenticity that appeals to collectors.",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "gender",
+        "f": "gender",
+        "s": "Ce document présente ___ authenticité incontestable aux yeux des historiens.",
+        "a": "une",
+        "en": "This document presents an indisputable authenticity in the eyes of historians.",
+        "alts": [],
+        "form": ""
+      }
+    ]
+  },
+  {
+    "id": 6302,
+    "qs": [
+      {
+        "slot": "s|0",
+        "f": "sense",
+        "s": "Après l'inventaire, un seul article ___ a été signalé.",
+        "a": "manquant",
+        "en": "After the inventory, only one missing item was reported.",
+        "alts": []
+      },
+      {
+        "slot": "s|0",
+        "f": "sense",
+        "s": "Le paiement ___ doit être réglé avant vendredi.",
+        "a": "manquant",
+        "en": "The missing payment must be settled before Friday.",
+        "alts": []
+      },
+      {
+        "slot": "g|mp",
+        "f": "agree",
+        "s": "Plusieurs documents ___ ont été retrouvés hier.",
+        "a": "manquants",
+        "en": "Several missing documents were found yesterday.",
+        "alts": []
+      },
+      {
+        "slot": "g|mp",
+        "f": "agree",
+        "s": "Les livres ___ ont été commandés de nouveau.",
+        "a": "manquants",
+        "en": "The missing books were ordered again.",
+        "alts": []
+      },
+      {
+        "slot": "g|f",
+        "f": "agree",
+        "s": "La pièce ___ a été livrée ce matin.",
+        "a": "manquante",
+        "en": "The missing piece was delivered this morning.",
+        "alts": []
+      },
+      {
+        "slot": "g|f",
+        "f": "agree",
+        "s": "Une information ___ complique l'enquête.",
+        "a": "manquante",
+        "en": "A missing piece of information complicates the investigation.",
+        "alts": []
+      },
+      {
+        "slot": "g|fp",
+        "f": "agree",
+        "s": "Les pages ___ ont été photocopiées à la bibliothèque.",
+        "a": "manquantes",
+        "en": "The missing pages were photocopied at the library.",
+        "alts": []
+      },
+      {
+        "slot": "g|fp",
+        "f": "agree",
+        "s": "Plusieurs données ___ ont retardé le rapport.",
+        "a": "manquantes",
+        "en": "Several missing data points delayed the report.",
+        "alts": []
+      }
+    ]
+  }
+]

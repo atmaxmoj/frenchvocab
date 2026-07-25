@@ -1,0 +1,681 @@
+[
+  {
+    "id": 6228,
+    "qs": [
+      {
+        "slot": "s|0",
+        "f": "sense",
+        "s": "Le ___ s'est arrêté un instant avant de reprendre son discours.",
+        "a": "locuteur",
+        "en": "The speaker paused for a moment before resuming his speech.",
+        "alts": []
+      },
+      {
+        "slot": "s|0",
+        "f": "sense",
+        "s": "Dans cette conversation téléphonique, le ___ semblait hésiter sur chaque mot.",
+        "a": "locuteur",
+        "en": "In this phone conversation, the speaker seemed to hesitate over every word.",
+        "alts": []
+      },
+      {
+        "slot": "s|1",
+        "f": "sense",
+        "s": "Ce logiciel s'adresse à tout ___ du français souhaitant apprendre l'anglais.",
+        "a": "locuteur",
+        "en": "This software is aimed at any speaker of French wishing to learn English.",
+        "alts": []
+      },
+      {
+        "slot": "s|1",
+        "f": "sense",
+        "s": "En tant que ___ de l'espagnol, il comprenait facilement l'italien.",
+        "a": "locuteur",
+        "en": "As a speaker of Spanish, he easily understood Italian.",
+        "alts": []
+      },
+      {
+        "slot": "s|2",
+        "f": "sense",
+        "s": "Pour bien apprendre la prononciation, il vaut mieux discuter avec un ___ natif.",
+        "a": "locuteur",
+        "en": "To learn pronunciation well, it's better to talk with a native speaker.",
+        "alts": []
+      },
+      {
+        "slot": "s|2",
+        "f": "sense",
+        "s": "Même après dix ans d'études, il n'est toujours pas un ___ natif du japonais.",
+        "a": "locuteur",
+        "en": "Even after ten years of study, he is still not a native speaker of Japanese.",
+        "alts": []
+      },
+      {
+        "slot": "gender",
+        "f": "gender",
+        "s": "___ locuteur qui a posé la question n'a pas attendu de réponse.",
+        "a": "Le",
+        "en": "The speaker who asked the question didn't wait for an answer.",
+        "alts": []
+      },
+      {
+        "slot": "gender",
+        "f": "gender",
+        "s": "As-tu déjà rencontré ___ locuteur natif du russe ?",
+        "a": "un",
+        "en": "Have you ever met a native speaker of Russian?",
+        "alts": []
+      }
+    ]
+  },
+  {
+    "id": 6229,
+    "qs": [
+      {
+        "slot": "s|0",
+        "f": "sense",
+        "s": "Le ___ traverse le centre-ville toutes les dix minutes.",
+        "en": "The streetcar crosses downtown every ten minutes.",
+        "a": "tramway",
+        "alts": []
+      },
+      {
+        "slot": "s|0",
+        "f": "sense",
+        "s": "Nous avons pris le ___ pour aller à la gare.",
+        "en": "We took the streetcar to go to the station.",
+        "a": "tramway",
+        "alts": []
+      },
+      {
+        "slot": "gender",
+        "f": "gender",
+        "s": "Elle attend ___ tramway à l'arrêt.",
+        "en": "She is waiting for the streetcar at the stop.",
+        "a": "le",
+        "alts": []
+      },
+      {
+        "slot": "gender",
+        "f": "gender",
+        "s": "Il y a ___ tramway qui arrive à l'horizon.",
+        "en": "There is a streetcar arriving on the horizon.",
+        "a": "un",
+        "alts": []
+      }
+    ]
+  },
+  {
+    "id": 6230,
+    "qs": [
+      {
+        "slot": "t|Présent|0",
+        "f": "tense",
+        "s": "Je ___ avec mon copain depuis un an.",
+        "a": "cohabite",
+        "en": "I have been cohabiting with my boyfriend for a year.",
+        "alts": [],
+        "form": "Présent"
+      },
+      {
+        "slot": "t|Présent|0",
+        "f": "tense",
+        "s": "Mon frère ___ avec sa copine dans un petit appartement.",
+        "a": "cohabite",
+        "en": "My brother cohabits with his girlfriend in a small apartment.",
+        "alts": [],
+        "form": "Présent"
+      },
+      {
+        "slot": "t|Présent|1",
+        "f": "tense",
+        "s": "Tu ___ avec ta sœur cette année, non ?",
+        "a": "cohabites",
+        "en": "You're cohabiting with your sister this year, right?",
+        "alts": [],
+        "form": "Présent"
+      },
+      {
+        "slot": "t|Présent|1",
+        "f": "tense",
+        "s": "Toi aussi, tu ___ avec des colocataires ?",
+        "a": "cohabites",
+        "en": "You also cohabit with roommates?",
+        "alts": [],
+        "form": "Présent"
+      },
+      {
+        "slot": "t|Présent|2",
+        "f": "tense",
+        "s": "Nous ___ pacifiquement dans le même immeuble.",
+        "a": "cohabitons",
+        "en": "We coexist peacefully in the same building.",
+        "alts": [],
+        "form": "Présent"
+      },
+      {
+        "slot": "t|Présent|2",
+        "f": "tense",
+        "s": "En ce moment, nous ___ avec nos parents pour économiser.",
+        "a": "cohabitons",
+        "en": "Right now, we're living with our parents to save money.",
+        "alts": [],
+        "form": "Présent"
+      },
+      {
+        "slot": "t|Présent|3",
+        "f": "tense",
+        "s": "Vous ___ ensemble depuis combien de temps ?",
+        "a": "cohabitez",
+        "en": "How long have you been living together?",
+        "alts": [],
+        "form": "Présent"
+      },
+      {
+        "slot": "t|Présent|3",
+        "f": "tense",
+        "s": "Est-ce que vous ___ avec vos beaux-parents ?",
+        "a": "cohabitez",
+        "en": "Do you live with your in-laws?",
+        "alts": [],
+        "form": "Présent"
+      },
+      {
+        "slot": "t|Présent|4",
+        "f": "tense",
+        "s": "Ces deux espèces ___ dans la même forêt sans problème.",
+        "a": "cohabitent",
+        "en": "These two species coexist in the same forest without any problem.",
+        "alts": [],
+        "form": "Présent"
+      },
+      {
+        "slot": "t|Présent|4",
+        "f": "tense",
+        "s": "Ils ___ dans le même quartier depuis leur enfance.",
+        "a": "cohabitent",
+        "en": "They have lived together in the same neighborhood since childhood.",
+        "alts": [],
+        "form": "Présent"
+      },
+      {
+        "slot": "t|Passé composé|0",
+        "f": "tense",
+        "s": "L'année dernière, j'___ avec un étudiant étranger pendant six mois.",
+        "a": "ai cohabité",
+        "en": "Last year, I cohabited with a foreign student for six months.",
+        "alts": [],
+        "form": "Passé composé"
+      },
+      {
+        "slot": "t|Passé composé|0",
+        "f": "tense",
+        "s": "Avant de trouver mon propre appartement, j'___ un an chez ma tante.",
+        "a": "ai cohabité",
+        "en": "Before finding my own apartment, I lived with my aunt for a year.",
+        "alts": [],
+        "form": "Passé composé"
+      },
+      {
+        "slot": "t|Passé composé|1",
+        "f": "tense",
+        "s": "Tu ___ avec ton frère l'an dernier, si je me souviens bien.",
+        "a": "as cohabité",
+        "en": "You lived with your brother last year, if I remember correctly.",
+        "alts": [],
+        "form": "Passé composé"
+      },
+      {
+        "slot": "t|Passé composé|1",
+        "f": "tense",
+        "s": "Tu ___ combien de temps avec ton ex-copine ?",
+        "a": "as cohabité",
+        "en": "How long did you cohabit with your ex-girlfriend?",
+        "alts": [],
+        "form": "Passé composé"
+      },
+      {
+        "slot": "t|Passé composé|2",
+        "f": "tense",
+        "s": "Ma sœur ___ avec sa meilleure amie pendant deux ans.",
+        "a": "a cohabité",
+        "en": "My sister lived with her best friend for two years.",
+        "alts": [],
+        "form": "Passé composé"
+      },
+      {
+        "slot": "t|Passé composé|2",
+        "f": "tense",
+        "s": "On ___ dans le même appartement l'été dernier.",
+        "a": "a cohabité",
+        "en": "We lived together in the same apartment last summer.",
+        "alts": [],
+        "form": "Passé composé"
+      },
+      {
+        "slot": "t|Passé composé|3",
+        "f": "tense",
+        "s": "Nous ___ trois ans avant de nous marier.",
+        "a": "avons cohabité",
+        "en": "We cohabited for three years before getting married.",
+        "alts": [],
+        "form": "Passé composé"
+      },
+      {
+        "slot": "t|Passé composé|3",
+        "f": "tense",
+        "s": "Nous ___ avec nos cousins l'été dernier, le temps des travaux.",
+        "a": "avons cohabité",
+        "en": "We stayed with our cousins last summer, during the renovation work.",
+        "alts": [],
+        "form": "Passé composé"
+      },
+      {
+        "slot": "t|Passé composé|4",
+        "f": "tense",
+        "s": "Vous ___ avec vos parents jusqu'à vos trente ans ?",
+        "a": "avez cohabité",
+        "en": "Did you live with your parents until you were thirty?",
+        "alts": [],
+        "form": "Passé composé"
+      },
+      {
+        "slot": "t|Passé composé|4",
+        "f": "tense",
+        "s": "Vous ___ ensemble avant de vous marier, non ?",
+        "a": "avez cohabité",
+        "en": "You lived together before getting married, right?",
+        "alts": [],
+        "form": "Passé composé"
+      },
+      {
+        "slot": "t|Passé composé|5",
+        "f": "tense",
+        "s": "Ils ___ pendant cinq ans avant de se séparer.",
+        "a": "ont cohabité",
+        "en": "They cohabited for five years before separating.",
+        "alts": [],
+        "form": "Passé composé"
+      },
+      {
+        "slot": "t|Passé composé|5",
+        "f": "tense",
+        "s": "Elles ___ dans le même dortoir l'an dernier.",
+        "a": "ont cohabité",
+        "en": "They lived together in the same dorm last year.",
+        "alts": [],
+        "form": "Passé composé"
+      },
+      {
+        "slot": "t|Imparfait|0",
+        "f": "tense",
+        "s": "Quand j'étais étudiant, je ___ avec deux colocataires.",
+        "a": "cohabitais",
+        "en": "When I was a student, I lived with two roommates.",
+        "alts": [],
+        "form": "Imparfait"
+      },
+      {
+        "slot": "t|Imparfait|0",
+        "f": "tense",
+        "s": "À cette époque, tu ___ encore avec tes parents.",
+        "a": "cohabitais",
+        "en": "At that time, you were still living with your parents.",
+        "alts": [],
+        "form": "Imparfait"
+      },
+      {
+        "slot": "t|Imparfait|1",
+        "f": "tense",
+        "s": "Avant son mariage, elle ___ avec sa colocataire.",
+        "a": "cohabitait",
+        "en": "Before her marriage, she lived with her roommate.",
+        "alts": [],
+        "form": "Imparfait"
+      },
+      {
+        "slot": "t|Imparfait|1",
+        "f": "tense",
+        "s": "Quand on était jeunes, on ___ tous ensemble dans une grande maison.",
+        "a": "cohabitait",
+        "en": "When we were young, we all lived together in a big house.",
+        "alts": [],
+        "form": "Imparfait"
+      },
+      {
+        "slot": "t|Imparfait|2",
+        "f": "tense",
+        "s": "À l'université, nous ___ dans une petite chambre partagée.",
+        "a": "cohabitions",
+        "en": "At university, we lived together in a small shared room.",
+        "alts": [],
+        "form": "Imparfait"
+      },
+      {
+        "slot": "t|Imparfait|2",
+        "f": "tense",
+        "s": "Quand nous étions plus jeunes, nous ___ avec nos grands-parents.",
+        "a": "cohabitions",
+        "en": "When we were younger, we lived with our grandparents.",
+        "alts": [],
+        "form": "Imparfait"
+      },
+      {
+        "slot": "t|Imparfait|3",
+        "f": "tense",
+        "s": "Avant votre déménagement, vous ___ avec vos parents.",
+        "a": "cohabitiez",
+        "en": "Before your move, you lived with your parents.",
+        "alts": [],
+        "form": "Imparfait"
+      },
+      {
+        "slot": "t|Imparfait|3",
+        "f": "tense",
+        "s": "À l'époque, vous ___ tous les deux dans ce petit studio.",
+        "a": "cohabitiez",
+        "en": "At that time, you both lived together in that small studio.",
+        "alts": [],
+        "form": "Imparfait"
+      },
+      {
+        "slot": "t|Imparfait|4",
+        "f": "tense",
+        "s": "Autrefois, mes voisins ___ avec leurs beaux-parents.",
+        "a": "cohabitaient",
+        "en": "In the past, my neighbors lived with their in-laws.",
+        "alts": [],
+        "form": "Imparfait"
+      },
+      {
+        "slot": "t|Imparfait|4",
+        "f": "tense",
+        "s": "Ils ___ pacifiquement malgré leurs différences.",
+        "a": "cohabitaient",
+        "en": "They used to coexist peacefully despite their differences.",
+        "alts": [],
+        "form": "Imparfait"
+      },
+      {
+        "slot": "t|Futur|0",
+        "f": "tense",
+        "s": "L'an prochain, je ___ avec mon copain à Paris.",
+        "a": "cohabiterai",
+        "en": "Next year, I will cohabit with my boyfriend in Paris.",
+        "alts": [],
+        "form": "Futur"
+      },
+      {
+        "slot": "t|Futur|0",
+        "f": "tense",
+        "s": "Dès que j'aurai un travail, je ___ avec des amis.",
+        "a": "cohabiterai",
+        "en": "As soon as I have a job, I will live with friends.",
+        "alts": [],
+        "form": "Futur"
+      },
+      {
+        "slot": "t|Futur|1",
+        "f": "tense",
+        "s": "Bientôt, tu ___ avec ta petite amie.",
+        "a": "cohabiteras",
+        "en": "Soon, you will cohabit with your girlfriend.",
+        "alts": [],
+        "form": "Futur"
+      },
+      {
+        "slot": "t|Futur|1",
+        "f": "tense",
+        "s": "Tu ___ avec ton frère quand tu déménageras.",
+        "a": "cohabiteras",
+        "en": "You will live with your brother when you move.",
+        "alts": [],
+        "form": "Futur"
+      },
+      {
+        "slot": "t|Futur|2",
+        "f": "tense",
+        "s": "L'année prochaine, mon fils ___ avec sa fiancée.",
+        "a": "cohabitera",
+        "en": "Next year, my son will cohabit with his fiancée.",
+        "alts": [],
+        "form": "Futur"
+      },
+      {
+        "slot": "t|Futur|2",
+        "f": "tense",
+        "s": "On ___ ensemble dès que l'appartement sera prêt.",
+        "a": "cohabitera",
+        "en": "We will live together as soon as the apartment is ready.",
+        "alts": [],
+        "form": "Futur"
+      },
+      {
+        "slot": "t|Futur|3",
+        "f": "tense",
+        "s": "Nous ___ dans ce nouvel appartement à partir de septembre.",
+        "a": "cohabiterons",
+        "en": "We will live together in this new apartment starting in September.",
+        "alts": [],
+        "form": "Futur"
+      },
+      {
+        "slot": "t|Futur|3",
+        "f": "tense",
+        "s": "Dès la rentrée, nous ___ avec deux autres étudiants.",
+        "a": "cohabiterons",
+        "en": "Starting in the new school year, we will live with two other students.",
+        "alts": [],
+        "form": "Futur"
+      },
+      {
+        "slot": "t|Futur|4",
+        "f": "tense",
+        "s": "Vous ___ avec vos beaux-parents pendant les travaux.",
+        "a": "cohabiterez",
+        "en": "You will live with your in-laws during the renovation work.",
+        "alts": [],
+        "form": "Futur"
+      },
+      {
+        "slot": "t|Futur|4",
+        "f": "tense",
+        "s": "Après le mariage, vous ___ dans la maison familiale.",
+        "a": "cohabiterez",
+        "en": "After the wedding, you will live together in the family house.",
+        "alts": [],
+        "form": "Futur"
+      },
+      {
+        "slot": "t|Futur|5",
+        "f": "tense",
+        "s": "Mes parents ___ avec ma sœur l'an prochain.",
+        "a": "cohabiteront",
+        "en": "My parents will live with my sister next year.",
+        "alts": [],
+        "form": "Futur"
+      },
+      {
+        "slot": "t|Futur|5",
+        "f": "tense",
+        "s": "Elles ___ dans le même appartement dès leur arrivée.",
+        "a": "cohabiteront",
+        "en": "They will live together in the same apartment as soon as they arrive.",
+        "alts": [],
+        "form": "Futur"
+      },
+      {
+        "slot": "t|Conditionnel|0",
+        "f": "tense",
+        "s": "Si j'avais plus d'argent, je ne ___ pas avec des colocataires.",
+        "a": "cohabiterais",
+        "en": "If I had more money, I would not cohabit with roommates.",
+        "alts": [],
+        "form": "Conditionnel"
+      },
+      {
+        "slot": "t|Conditionnel|0",
+        "f": "tense",
+        "s": "Si tu déménageais, tu ___ avec des amis.",
+        "a": "cohabiterais",
+        "en": "If you moved, you would live with friends.",
+        "alts": [],
+        "form": "Conditionnel"
+      },
+      {
+        "slot": "t|Conditionnel|1",
+        "f": "tense",
+        "s": "Si elle perdait son travail, elle ___ chez ses parents.",
+        "a": "cohabiterait",
+        "en": "If she lost her job, she would live with her parents.",
+        "alts": [],
+        "form": "Conditionnel"
+      },
+      {
+        "slot": "t|Conditionnel|1",
+        "f": "tense",
+        "s": "Si on avait un grand appartement, on ___ volontiers avec nos amis.",
+        "a": "cohabiterait",
+        "en": "If we had a big apartment, we would gladly live with our friends.",
+        "alts": [],
+        "form": "Conditionnel"
+      },
+      {
+        "slot": "t|Conditionnel|2",
+        "f": "tense",
+        "s": "Si nous trouvions un logement assez grand, nous ___ tous ensemble.",
+        "a": "cohabiterions",
+        "en": "If we found a big enough place, we would all live together.",
+        "alts": [],
+        "form": "Conditionnel"
+      },
+      {
+        "slot": "t|Conditionnel|2",
+        "f": "tense",
+        "s": "Si nos horaires étaient compatibles, nous ___ sans problème.",
+        "a": "cohabiterions",
+        "en": "If our schedules were compatible, we would cohabit without any problem.",
+        "alts": [],
+        "form": "Conditionnel"
+      },
+      {
+        "slot": "t|Conditionnel|3",
+        "f": "tense",
+        "s": "Si vous acceptiez, vous ___ avec vos cousins.",
+        "a": "cohabiteriez",
+        "en": "If you agreed, you would live with your cousins.",
+        "alts": [],
+        "form": "Conditionnel"
+      },
+      {
+        "slot": "t|Conditionnel|3",
+        "f": "tense",
+        "s": "Si le loyer était moins cher, vous ___ ici plus longtemps.",
+        "a": "cohabiteriez",
+        "en": "If the rent were cheaper, you would live together here longer.",
+        "alts": [],
+        "form": "Conditionnel"
+      },
+      {
+        "slot": "t|Conditionnel|4",
+        "f": "tense",
+        "s": "Si les deux partis s'entendaient, ils ___ au pouvoir sans crise.",
+        "a": "cohabiteraient",
+        "en": "If the two parties got along, they would cohabit in power without a crisis.",
+        "alts": [],
+        "form": "Conditionnel"
+      },
+      {
+        "slot": "t|Conditionnel|4",
+        "f": "tense",
+        "s": "Si elles trouvaient un appartement, elles ___ volontiers ensemble.",
+        "a": "cohabiteraient",
+        "en": "If they found an apartment, they would gladly live together.",
+        "alts": [],
+        "form": "Conditionnel"
+      },
+      {
+        "slot": "t|Subjonctif",
+        "f": "subj",
+        "s": "Il faut que tu ___ avec quelqu'un pour partager le loyer.",
+        "a": "cohabites",
+        "en": "You need to cohabit with someone to share the rent.",
+        "alts": [],
+        "form": "Subjonctif présent"
+      },
+      {
+        "slot": "t|Subjonctif",
+        "f": "subj",
+        "s": "Je veux qu'elle ___ avec moi dès que possible.",
+        "a": "cohabite",
+        "en": "I want her to cohabit with me as soon as possible.",
+        "alts": [],
+        "form": "Subjonctif présent"
+      },
+      {
+        "slot": "s|0",
+        "f": "sense",
+        "s": "Ma sœur et son copain ___ depuis deux ans sans être mariés.",
+        "a": "cohabitent",
+        "en": "My sister and her boyfriend have been cohabiting for two years without being married.",
+        "alts": []
+      },
+      {
+        "slot": "s|0",
+        "f": "sense",
+        "s": "Beaucoup de jeunes couples préfèrent ___ avant de se marier.",
+        "a": "cohabiter",
+        "en": "Many young couples prefer to cohabit before getting married.",
+        "alts": []
+      },
+      {
+        "slot": "s|1",
+        "f": "sense",
+        "s": "Dans cette maison, trois générations ___ sous le même toit.",
+        "a": "cohabitent",
+        "en": "In this house, three generations live together under the same roof.",
+        "alts": []
+      },
+      {
+        "slot": "s|1",
+        "f": "sense",
+        "s": "Pour réduire les coûts, les étudiants choisissent souvent de ___ à plusieurs dans un même appartement.",
+        "a": "cohabiter",
+        "en": "To cut costs, students often choose to live together with several people in the same apartment.",
+        "alts": []
+      },
+      {
+        "slot": "s|2",
+        "f": "sense",
+        "s": "Quand la majorité parlementaire est opposée au président, celui-ci doit ___ avec un premier ministre rival.",
+        "a": "cohabiter",
+        "en": "When the parliamentary majority opposes the president, he must engage in cohabitation with a rival prime minister.",
+        "alts": []
+      },
+      {
+        "slot": "s|2",
+        "f": "sense",
+        "s": "En France, un président de gauche et un premier ministre de droite ont déjà dû ___ au pouvoir.",
+        "a": "cohabiter",
+        "en": "In France, a left-wing president and a right-wing prime minister have already had to cohabit in power.",
+        "alts": []
+      },
+      {
+        "slot": "s|3",
+        "f": "sense",
+        "s": "Après les élections, les deux partis rivaux devront ___ pour former un gouvernement stable.",
+        "a": "cohabiter",
+        "en": "After the elections, the two rival parties will have to co-govern in order to form a stable government.",
+        "alts": []
+      },
+      {
+        "slot": "s|3",
+        "f": "sense",
+        "s": "Malgré leurs divergences idéologiques, les deux dirigeants ont réussi à ___ pendant deux ans.",
+        "a": "cohabiter",
+        "en": "Despite their ideological differences, the two leaders managed to co-govern for two years.",
+        "alts": []
+      }
+    ]
+  }
+]

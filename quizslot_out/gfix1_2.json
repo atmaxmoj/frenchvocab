@@ -1,0 +1,1241 @@
+[
+  {
+    "id": 44,
+    "qs": [
+      {
+        "slot": "s|0",
+        "f": "sense",
+        "s": "Mon frère parle espagnol, et moi, je parle ___ espagnol.",
+        "en": "My brother speaks Spanish, and I speak Spanish too.",
+        "a": "aussi",
+        "alts": ["également"],
+        "form": ""
+      },
+      {
+        "slot": "s|0",
+        "f": "sense",
+        "s": "Elle aime le chocolat, et son mari l'aime ___ .",
+        "en": "She likes chocolate, and her husband likes it too.",
+        "a": "aussi",
+        "alts": ["également"],
+        "form": ""
+      },
+      {
+        "slot": "s|1",
+        "f": "sense",
+        "s": "Il travaille sérieusement ; ses collègues le font ___ .",
+        "en": "He works seriously; his colleagues do the same likewise.",
+        "a": "aussi",
+        "alts": ["également"],
+        "form": ""
+      },
+      {
+        "slot": "s|1",
+        "f": "sense",
+        "s": "La directrice a félicité les élèves, et ___ les parents qui les soutiennent.",
+        "en": "The principal congratulated the students, and likewise the parents who support them.",
+        "a": "aussi",
+        "alts": ["également"],
+        "form": ""
+      },
+      {
+        "slot": "s|2",
+        "f": "sense",
+        "s": "Ce film est ___ intéressant que le roman.",
+        "en": "This film is as interesting as the novel.",
+        "a": "aussi",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "s|2",
+        "f": "sense",
+        "s": "Ta sœur chante ___ bien que toi.",
+        "en": "Your sister sings as well as you.",
+        "a": "aussi",
+        "alts": [],
+        "form": ""
+      }
+    ]
+  },
+  {
+    "id": 8,
+    "qs": [
+      {
+        "slot": "t|Présent|0",
+        "f": "tense",
+        "s": "J'___ un rendez-vous à dix heures ce matin.",
+        "en": "I have an appointment at ten o'clock this morning.",
+        "a": "ai",
+        "alts": [],
+        "form": "Présent"
+      },
+      {
+        "slot": "t|Présent|0",
+        "f": "tense",
+        "s": "J'___ faim après ce long trajet.",
+        "en": "I am hungry after this long journey.",
+        "a": "ai",
+        "alts": [],
+        "form": "Présent"
+      },
+      {
+        "slot": "t|Présent|1",
+        "f": "tense",
+        "s": "Tu ___ beaucoup de chance d'habiter près de la mer.",
+        "en": "You are very lucky to live near the sea.",
+        "a": "as",
+        "alts": [],
+        "form": "Présent"
+      },
+      {
+        "slot": "t|Présent|1",
+        "f": "tense",
+        "s": "Est-ce que tu ___ le temps de m'aider ce soir ?",
+        "en": "Do you have time to help me tonight?",
+        "a": "as",
+        "alts": [],
+        "form": "Présent"
+      },
+      {
+        "slot": "t|Présent|2",
+        "f": "tense",
+        "s": "Mon frère ___ un appartement en plein centre-ville.",
+        "en": "My brother has an apartment right in the city center.",
+        "a": "a",
+        "alts": [],
+        "form": "Présent"
+      },
+      {
+        "slot": "t|Présent|2",
+        "f": "tense",
+        "s": "Elle ___ les yeux bleus et les cheveux longs.",
+        "en": "She has blue eyes and long hair.",
+        "a": "a",
+        "alts": [],
+        "form": "Présent"
+      },
+      {
+        "slot": "t|Présent|3",
+        "f": "tense",
+        "s": "Nous ___ une réunion importante demain matin.",
+        "en": "We have an important meeting tomorrow morning.",
+        "a": "avons",
+        "alts": [],
+        "form": "Présent"
+      },
+      {
+        "slot": "t|Présent|3",
+        "f": "tense",
+        "s": "Nous ___ besoin de plus de temps pour finir ce projet.",
+        "en": "We need more time to finish this project.",
+        "a": "avons",
+        "alts": [],
+        "form": "Présent"
+      },
+      {
+        "slot": "t|Présent|4",
+        "f": "tense",
+        "s": "Vous ___ l'air fatigué après cette longue journée.",
+        "en": "You look tired after this long day.",
+        "a": "avez",
+        "alts": [],
+        "form": "Présent"
+      },
+      {
+        "slot": "t|Présent|4",
+        "f": "tense",
+        "s": "Vous ___ de la chance de voyager si souvent.",
+        "en": "You are lucky to travel so often.",
+        "a": "avez",
+        "alts": [],
+        "form": "Présent"
+      },
+      {
+        "slot": "t|Présent|5",
+        "f": "tense",
+        "s": "Les étudiants ___ cours tous les matins sauf le mercredi.",
+        "en": "The students have classes every morning except Wednesday.",
+        "a": "ont",
+        "alts": [],
+        "form": "Présent"
+      },
+      {
+        "slot": "t|Présent|5",
+        "f": "tense",
+        "s": "Ils ___ envie de partir en vacances au bord de la mer.",
+        "en": "They feel like going on holiday by the sea.",
+        "a": "ont",
+        "alts": [],
+        "form": "Présent"
+      },
+      {
+        "slot": "t|Passé composé|0",
+        "f": "tense",
+        "s": "Hier soir, j'___ une surprise en ouvrant la porte.",
+        "en": "Last night, I had a surprise when I opened the door.",
+        "a": "ai eu",
+        "alts": [],
+        "form": "Passé composé"
+      },
+      {
+        "slot": "t|Passé composé|0",
+        "f": "tense",
+        "s": "J'___ une bonne note à l'examen de la semaine dernière.",
+        "en": "I got a good grade on last week's exam.",
+        "a": "ai eu",
+        "alts": [],
+        "form": "Passé composé"
+      },
+      {
+        "slot": "t|Passé composé|1",
+        "f": "tense",
+        "s": "Tu ___ de la chance de trouver une place de parking si vite.",
+        "en": "You were lucky to find a parking spot so quickly.",
+        "a": "as eu",
+        "alts": [],
+        "form": "Passé composé"
+      },
+      {
+        "slot": "t|Passé composé|1",
+        "f": "tense",
+        "s": "Tu ___ un accident avec ton vélo ce matin ?",
+        "en": "Did you have an accident with your bike this morning?",
+        "a": "as eu",
+        "alts": [],
+        "form": "Passé composé"
+      },
+      {
+        "slot": "t|Passé composé|2",
+        "f": "tense",
+        "s": "La directrice ___ une réunion d'urgence vendredi dernier.",
+        "en": "The director had an emergency meeting last Friday.",
+        "a": "a eu",
+        "alts": [],
+        "form": "Passé composé"
+      },
+      {
+        "slot": "t|Passé composé|2",
+        "f": "tense",
+        "s": "Mon fils ___ de la fièvre pendant deux jours la semaine passée.",
+        "en": "My son had a fever for two days last week.",
+        "a": "a eu",
+        "alts": [],
+        "form": "Passé composé"
+      },
+      {
+        "slot": "t|Passé composé|3",
+        "f": "tense",
+        "s": "Nous ___ un problème technique lors de la présentation.",
+        "en": "We had a technical problem during the presentation.",
+        "a": "avons eu",
+        "alts": [],
+        "form": "Passé composé"
+      },
+      {
+        "slot": "t|Passé composé|3",
+        "f": "tense",
+        "s": "Nous ___ une très bonne idée pour améliorer le produit.",
+        "en": "We had a very good idea to improve the product.",
+        "a": "avons eu",
+        "alts": [],
+        "form": "Passé composé"
+      },
+      {
+        "slot": "t|Passé composé|4",
+        "f": "tense",
+        "s": "Vous ___ beaucoup de questions pendant la conférence.",
+        "en": "You had many questions during the conference.",
+        "a": "avez eu",
+        "alts": [],
+        "form": "Passé composé"
+      },
+      {
+        "slot": "t|Passé composé|4",
+        "f": "tense",
+        "s": "Vous ___ tort de refuser cette offre d'emploi.",
+        "en": "You were wrong to refuse this job offer.",
+        "a": "avez eu",
+        "alts": [],
+        "form": "Passé composé"
+      },
+      {
+        "slot": "t|Passé composé|5",
+        "f": "tense",
+        "s": "Les participants ___ du mal à comprendre les consignes.",
+        "en": "The participants had difficulty understanding the instructions.",
+        "a": "ont eu",
+        "alts": [],
+        "form": "Passé composé"
+      },
+      {
+        "slot": "t|Passé composé|5",
+        "f": "tense",
+        "s": "Mes parents ___ une belle surprise à leur anniversaire de mariage.",
+        "en": "My parents had a lovely surprise on their wedding anniversary.",
+        "a": "ont eu",
+        "alts": [],
+        "form": "Passé composé"
+      },
+      {
+        "slot": "t|Imparfait|0",
+        "f": "tense",
+        "s": "Quand j'étais enfant, j'___ un grand jardin pour jouer.",
+        "en": "When I was a child, I had a big garden to play in.",
+        "a": "avais",
+        "alts": [],
+        "form": "Imparfait"
+      },
+      {
+        "slot": "t|Imparfait|0",
+        "f": "tense",
+        "s": "Tu ___ toujours un sourire accueillant pour tout le monde.",
+        "en": "You always had a welcoming smile for everyone.",
+        "a": "avais",
+        "alts": [],
+        "form": "Imparfait"
+      },
+      {
+        "slot": "t|Imparfait|1",
+        "f": "tense",
+        "s": "Le vieux professeur ___ une voix douce et rassurante.",
+        "en": "The old teacher had a soft and reassuring voice.",
+        "a": "avait",
+        "alts": [],
+        "form": "Imparfait"
+      },
+      {
+        "slot": "t|Imparfait|1",
+        "f": "tense",
+        "s": "On ___ peu d'argent à cette époque, mais on était heureux.",
+        "en": "We had little money at that time, but we were happy.",
+        "a": "avait",
+        "alts": [],
+        "form": "Imparfait"
+      },
+      {
+        "slot": "t|Imparfait|2",
+        "f": "tense",
+        "s": "Nous ___ l'habitude de dîner en famille le dimanche soir.",
+        "en": "We used to have dinner with the family on Sunday evenings.",
+        "a": "avions",
+        "alts": [],
+        "form": "Imparfait"
+      },
+      {
+        "slot": "t|Imparfait|2",
+        "f": "tense",
+        "s": "Nous ___ un chien quand nous vivions à la campagne.",
+        "en": "We had a dog when we lived in the countryside.",
+        "a": "avions",
+        "alts": [],
+        "form": "Imparfait"
+      },
+      {
+        "slot": "t|Imparfait|3",
+        "f": "tense",
+        "s": "Vous ___ toujours les bons arguments pour convaincre le jury.",
+        "en": "You always had the right arguments to convince the jury.",
+        "a": "aviez",
+        "alts": [],
+        "form": "Imparfait"
+      },
+      {
+        "slot": "t|Imparfait|3",
+        "f": "tense",
+        "s": "Quand vous travailliez ici, vous ___ plus de responsabilités.",
+        "en": "When you worked here, you had more responsibilities.",
+        "a": "aviez",
+        "alts": [],
+        "form": "Imparfait"
+      },
+      {
+        "slot": "t|Imparfait|4",
+        "f": "tense",
+        "s": "Les enfants ___ peur du tonnerre chaque fois qu'il y avait un orage.",
+        "en": "The children were afraid of thunder every time there was a storm.",
+        "a": "avaient",
+        "alts": [],
+        "form": "Imparfait"
+      },
+      {
+        "slot": "t|Imparfait|4",
+        "f": "tense",
+        "s": "Ses collègues ___ du mal à suivre ses explications trop rapides.",
+        "en": "His colleagues had trouble following his explanations, which were too fast.",
+        "a": "avaient",
+        "alts": [],
+        "form": "Imparfait"
+      },
+      {
+        "slot": "t|Futur|0",
+        "f": "tense",
+        "s": "L'année prochaine, j'___ enfin mon propre appartement.",
+        "en": "Next year, I will finally have my own apartment.",
+        "a": "aurai",
+        "alts": [],
+        "form": "Futur"
+      },
+      {
+        "slot": "t|Futur|0",
+        "f": "tense",
+        "s": "J'___ trente ans en juillet prochain.",
+        "en": "I will turn thirty next July.",
+        "a": "aurai",
+        "alts": [],
+        "form": "Futur"
+      },
+      {
+        "slot": "t|Futur|1",
+        "f": "tense",
+        "s": "Tu ___ le temps de réviser avant l'examen de demain.",
+        "en": "You will have time to review before tomorrow's exam.",
+        "a": "auras",
+        "alts": [],
+        "form": "Futur"
+      },
+      {
+        "slot": "t|Futur|1",
+        "f": "tense",
+        "s": "Tu ___ besoin d'un bon manteau quand tu iras en Scandinavie.",
+        "en": "You will need a good coat when you go to Scandinavia.",
+        "a": "auras",
+        "alts": [],
+        "form": "Futur"
+      },
+      {
+        "slot": "t|Futur|2",
+        "f": "tense",
+        "s": "Le nouveau directeur ___ plus de pouvoirs que l'ancien.",
+        "en": "The new director will have more authority than the previous one.",
+        "a": "aura",
+        "alts": [],
+        "form": "Futur"
+      },
+      {
+        "slot": "t|Futur|2",
+        "f": "tense",
+        "s": "Elle ___ bientôt les résultats de ses analyses médicales.",
+        "en": "She will soon have the results of her medical tests.",
+        "a": "aura",
+        "alts": [],
+        "form": "Futur"
+      },
+      {
+        "slot": "t|Futur|3",
+        "f": "tense",
+        "s": "Nous ___ davantage de ressources après la fusion des deux équipes.",
+        "en": "We will have more resources after the merger of the two teams.",
+        "a": "aurons",
+        "alts": [],
+        "form": "Futur"
+      },
+      {
+        "slot": "t|Futur|3",
+        "f": "tense",
+        "s": "Nous ___ notre réponse définitive d'ici la fin de la semaine.",
+        "en": "We will have our final answer by the end of the week.",
+        "a": "aurons",
+        "alts": [],
+        "form": "Futur"
+      },
+      {
+        "slot": "t|Futur|4",
+        "f": "tense",
+        "s": "Vous ___ accès à toutes les données dès que votre compte sera activé.",
+        "en": "You will have access to all the data as soon as your account is activated.",
+        "a": "aurez",
+        "alts": [],
+        "form": "Futur"
+      },
+      {
+        "slot": "t|Futur|4",
+        "f": "tense",
+        "s": "Vous ___ vingt minutes pour répondre à toutes les questions.",
+        "en": "You will have twenty minutes to answer all the questions.",
+        "a": "aurez",
+        "alts": [],
+        "form": "Futur"
+      },
+      {
+        "slot": "t|Futur|5",
+        "f": "tense",
+        "s": "Les employés ___ droit à une prime de fin d'année.",
+        "en": "The employees will be entitled to a year-end bonus.",
+        "a": "auront",
+        "alts": [],
+        "form": "Futur"
+      },
+      {
+        "slot": "t|Futur|5",
+        "f": "tense",
+        "s": "Les élèves ___ leurs résultats vendredi prochain.",
+        "en": "The students will have their results next Friday.",
+        "a": "auront",
+        "alts": [],
+        "form": "Futur"
+      },
+      {
+        "slot": "t|Conditionnel|0",
+        "f": "tense",
+        "s": "Si tu me prêtais ta voiture, j'___ plus facile pour aller au travail.",
+        "en": "If you lent me your car, I would find it easier to get to work.",
+        "a": "aurais",
+        "alts": [],
+        "form": "Conditionnel"
+      },
+      {
+        "slot": "t|Conditionnel|0",
+        "f": "tense",
+        "s": "Si tu habitais plus près, tu ___ moins de temps de trajet.",
+        "en": "If you lived closer, you would have less commute time.",
+        "a": "aurais",
+        "alts": [],
+        "form": "Conditionnel"
+      },
+      {
+        "slot": "t|Conditionnel|1",
+        "f": "tense",
+        "s": "Si elle acceptait ce poste, elle ___ un meilleur salaire.",
+        "en": "If she accepted this position, she would have a better salary.",
+        "a": "aurait",
+        "alts": [],
+        "form": "Conditionnel"
+      },
+      {
+        "slot": "t|Conditionnel|1",
+        "f": "tense",
+        "s": "Avec plus d'entraînement, il ___ de meilleures chances de gagner.",
+        "en": "With more training, he would have better chances of winning.",
+        "a": "aurait",
+        "alts": [],
+        "form": "Conditionnel"
+      },
+      {
+        "slot": "t|Conditionnel|2",
+        "f": "tense",
+        "s": "Si nous travaillions ensemble, nous ___ plus de résultats rapidement.",
+        "en": "If we worked together, we would get results more quickly.",
+        "a": "aurions",
+        "alts": [],
+        "form": "Conditionnel"
+      },
+      {
+        "slot": "t|Conditionnel|2",
+        "f": "tense",
+        "s": "Nous ___ plus de liberté si nous prenions nos propres décisions.",
+        "en": "We would have more freedom if we made our own decisions.",
+        "a": "aurions",
+        "alts": [],
+        "form": "Conditionnel"
+      },
+      {
+        "slot": "t|Conditionnel|3",
+        "f": "tense",
+        "s": "Si vous partiez plus tôt, vous ___ assez de temps pour visiter le musée.",
+        "en": "If you left earlier, you would have enough time to visit the museum.",
+        "a": "auriez",
+        "alts": [],
+        "form": "Conditionnel"
+      },
+      {
+        "slot": "t|Conditionnel|3",
+        "f": "tense",
+        "s": "Vous ___ de meilleures conditions si vous négociiez votre contrat.",
+        "en": "You would have better conditions if you negotiated your contract.",
+        "a": "auriez",
+        "alts": [],
+        "form": "Conditionnel"
+      },
+      {
+        "slot": "t|Conditionnel|4",
+        "f": "tense",
+        "s": "Si les ingénieurs adoptaient cette méthode, ils ___ moins de pannes.",
+        "en": "If the engineers adopted this method, they would have fewer breakdowns.",
+        "a": "auraient",
+        "alts": [],
+        "form": "Conditionnel"
+      },
+      {
+        "slot": "t|Conditionnel|4",
+        "f": "tense",
+        "s": "Les habitants ___ une meilleure qualité de vie si la pollution diminuait.",
+        "en": "The residents would have a better quality of life if pollution decreased.",
+        "a": "auraient",
+        "alts": [],
+        "form": "Conditionnel"
+      },
+      {
+        "slot": "t|Subjonctif",
+        "f": "subj",
+        "s": "Il faut que tu ___ la patience d'attendre le bon moment.",
+        "en": "You need to have the patience to wait for the right moment.",
+        "a": "aies",
+        "alts": [],
+        "form": "Subjonctif"
+      },
+      {
+        "slot": "t|Subjonctif",
+        "f": "subj",
+        "s": "Je veux qu'elle ___ confiance en ses propres capacités.",
+        "en": "I want her to have confidence in her own abilities.",
+        "a": "ait",
+        "alts": [],
+        "form": "Subjonctif"
+      },
+      {
+        "slot": "s|0",
+        "f": "sense",
+        "s": "Est-ce que vous ___ du lait dans votre réfrigérateur en ce moment ?",
+        "en": "Do you have any milk in your refrigerator right now?",
+        "a": "avez",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "s|0",
+        "f": "sense",
+        "s": "Nous ___ encore quelques places disponibles pour le spectacle de samedi.",
+        "en": "We still have a few spots available for Saturday's show.",
+        "a": "avons",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "s|1",
+        "f": "sense",
+        "s": "Cette famille ___ plusieurs maisons de luxe dans le monde entier.",
+        "en": "This family owns several luxury homes around the world.",
+        "a": "a",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "s|1",
+        "f": "sense",
+        "s": "Il ___ une collection de montres anciennes très précieuses.",
+        "en": "He owns a collection of very precious antique watches.",
+        "a": "a",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "s|2",
+        "f": "sense",
+        "s": "Nous ___ terminé notre rapport avant la réunion de ce matin.",
+        "en": "We had finished our report before this morning's meeting.",
+        "a": "avons",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "s|2",
+        "f": "sense",
+        "s": "Ils ___ commandé les fournitures nécessaires pour l'atelier.",
+        "en": "They have ordered the necessary supplies for the workshop.",
+        "a": "ont",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "s|3",
+        "f": "sense",
+        "s": "Il a transmis tout son ___ à ses enfants avant de mourir.",
+        "en": "He transferred all his assets to his children before he died.",
+        "a": "avoir",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "s|3",
+        "f": "sense",
+        "s": "Son ___ comprenait une villa, des tableaux et un vignoble.",
+        "en": "His estate included a villa, paintings, and a vineyard.",
+        "a": "avoir",
+        "alts": ["patrimoine"],
+        "form": ""
+      },
+      {
+        "slot": "s|4",
+        "f": "sense",
+        "s": "Les ___ de l'entreprise ont augmenté grâce aux nouveaux investissements.",
+        "en": "The company's assets increased thanks to new investments.",
+        "a": "avoirs",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "s|4",
+        "f": "sense",
+        "s": "La banque a gelé tous ses ___ en raison de l'enquête judiciaire.",
+        "en": "The bank froze all his assets due to the judicial investigation.",
+        "a": "avoirs",
+        "alts": [],
+        "form": ""
+      }
+    ]
+  },
+  {
+    "id": 283,
+    "qs": [
+      {
+        "slot": "t|Présent|0",
+        "f": "tense",
+        "s": "Je ___ d'avis très souvent.",
+        "en": "I change my mind very often.",
+        "a": "change",
+        "alts": [],
+        "form": "Présent"
+      },
+      {
+        "slot": "t|Présent|0",
+        "f": "tense",
+        "s": "Je ___ souvent de sujet quand je suis nerveux.",
+        "en": "I often change the subject when I am nervous.",
+        "a": "change",
+        "alts": [],
+        "form": "Présent"
+      },
+      {
+        "slot": "t|Présent|1",
+        "f": "tense",
+        "s": "Tu ___ souvent de coiffure.",
+        "en": "You change your hairstyle often.",
+        "a": "changes",
+        "alts": [],
+        "form": "Présent"
+      },
+      {
+        "slot": "t|Présent|1",
+        "f": "tense",
+        "s": "Est-ce que tu ___ de téléphone cette année ?",
+        "en": "Are you changing your phone this year?",
+        "a": "changes",
+        "alts": [],
+        "form": "Présent"
+      },
+      {
+        "slot": "t|Présent|2",
+        "f": "tense",
+        "s": "Nous ___ de stratégie pour ce projet.",
+        "en": "We are changing strategy for this project.",
+        "a": "changeons",
+        "alts": [],
+        "form": "Présent"
+      },
+      {
+        "slot": "t|Présent|2",
+        "f": "tense",
+        "s": "Nous ___ de train à Lyon.",
+        "en": "We change trains in Lyon.",
+        "a": "changeons",
+        "alts": [],
+        "form": "Présent"
+      },
+      {
+        "slot": "t|Présent|3",
+        "f": "tense",
+        "s": "Vous ___ souvent de route pour aller au bureau ?",
+        "en": "Do you often change your route to go to the office?",
+        "a": "changez",
+        "alts": [],
+        "form": "Présent"
+      },
+      {
+        "slot": "t|Présent|3",
+        "f": "tense",
+        "s": "Vous ___ d'appartement chaque année.",
+        "en": "You change apartments every year.",
+        "a": "changez",
+        "alts": [],
+        "form": "Présent"
+      },
+      {
+        "slot": "t|Présent|4",
+        "f": "tense",
+        "s": "Les saisons ___ les paysages de façon spectaculaire.",
+        "en": "The seasons change the landscapes in a spectacular way.",
+        "a": "changent",
+        "alts": [],
+        "form": "Présent"
+      },
+      {
+        "slot": "t|Présent|4",
+        "f": "tense",
+        "s": "Mes amis ___ toujours d'idée au dernier moment.",
+        "en": "My friends always change their minds at the last minute.",
+        "a": "changent",
+        "alts": [],
+        "form": "Présent"
+      },
+      {
+        "slot": "t|Passé composé|0",
+        "f": "tense",
+        "s": "J'___ d'avis après avoir réfléchi.",
+        "en": "I changed my mind after thinking it over.",
+        "a": "ai changé",
+        "alts": [],
+        "form": "Passé composé"
+      },
+      {
+        "slot": "t|Passé composé|0",
+        "f": "tense",
+        "s": "J'___ ma chambre le mois dernier.",
+        "en": "I redecorated my room last month.",
+        "a": "ai changé",
+        "alts": [],
+        "form": "Passé composé"
+      },
+      {
+        "slot": "t|Passé composé|1",
+        "f": "tense",
+        "s": "Tu ___ de travail deux fois cette année.",
+        "en": "You changed jobs twice this year.",
+        "a": "as changé",
+        "alts": [],
+        "form": "Passé composé"
+      },
+      {
+        "slot": "t|Passé composé|1",
+        "f": "tense",
+        "s": "Tu ___ les piles de la télécommande ce matin.",
+        "en": "You changed the batteries in the remote control this morning.",
+        "a": "as changé",
+        "alts": [],
+        "form": "Passé composé"
+      },
+      {
+        "slot": "t|Passé composé|2",
+        "f": "tense",
+        "s": "Mon père ___ de voiture l'année dernière.",
+        "en": "My father changed his car last year.",
+        "a": "a changé",
+        "alts": [],
+        "form": "Passé composé"
+      },
+      {
+        "slot": "t|Passé composé|2",
+        "f": "tense",
+        "s": "Le directeur ___ les règles du bureau en janvier.",
+        "en": "The manager changed the office rules in January.",
+        "a": "a changé",
+        "alts": [],
+        "form": "Passé composé"
+      },
+      {
+        "slot": "t|Passé composé|3",
+        "f": "tense",
+        "s": "Nous ___ nos plans à la dernière minute.",
+        "en": "We changed our plans at the last minute.",
+        "a": "avons changé",
+        "alts": [],
+        "form": "Passé composé"
+      },
+      {
+        "slot": "t|Passé composé|3",
+        "f": "tense",
+        "s": "Nous ___ de fournisseur pour réduire les coûts.",
+        "en": "We changed suppliers to reduce costs.",
+        "a": "avons changé",
+        "alts": [],
+        "form": "Passé composé"
+      },
+      {
+        "slot": "t|Passé composé|4",
+        "f": "tense",
+        "s": "Vous ___ d'adresse sans nous prévenir.",
+        "en": "You changed your address without notifying us.",
+        "a": "avez changé",
+        "alts": [],
+        "form": "Passé composé"
+      },
+      {
+        "slot": "t|Passé composé|4",
+        "f": "tense",
+        "s": "Vous ___ le mot de passe hier soir.",
+        "en": "You changed the password last night.",
+        "a": "avez changé",
+        "alts": [],
+        "form": "Passé composé"
+      },
+      {
+        "slot": "t|Passé composé|5",
+        "f": "tense",
+        "s": "Les étudiants ___ de salle à la dernière minute.",
+        "en": "The students changed rooms at the last minute.",
+        "a": "ont changé",
+        "alts": [],
+        "form": "Passé composé"
+      },
+      {
+        "slot": "t|Passé composé|5",
+        "f": "tense",
+        "s": "Elles ___ de coiffure pour la cérémonie.",
+        "en": "They changed their hairstyle for the ceremony.",
+        "a": "ont changé",
+        "alts": [],
+        "form": "Passé composé"
+      },
+      {
+        "slot": "t|Imparfait|0",
+        "f": "tense",
+        "s": "Quand j'étais jeune, je ___ souvent d'école.",
+        "en": "When I was young, I often changed schools.",
+        "a": "changeais",
+        "alts": [],
+        "form": "Imparfait"
+      },
+      {
+        "slot": "t|Imparfait|0",
+        "f": "tense",
+        "s": "Je ___ souvent de livre avant de trouver le bon.",
+        "en": "I often changed books before finding the right one.",
+        "a": "changeais",
+        "alts": [],
+        "form": "Imparfait"
+      },
+      {
+        "slot": "t|Imparfait|1",
+        "f": "tense",
+        "s": "Le paysage ___ à chaque tournant de la route.",
+        "en": "The landscape changed at every bend in the road.",
+        "a": "changeait",
+        "alts": [],
+        "form": "Imparfait"
+      },
+      {
+        "slot": "t|Imparfait|1",
+        "f": "tense",
+        "s": "Elle ___ toujours de sujet quand on parlait de ses problèmes.",
+        "en": "She always changed the subject when we talked about her problems.",
+        "a": "changeait",
+        "alts": [],
+        "form": "Imparfait"
+      },
+      {
+        "slot": "t|Imparfait|2",
+        "f": "tense",
+        "s": "Nous ___ de place régulièrement dans la classe.",
+        "en": "We regularly changed seats in class.",
+        "a": "changions",
+        "alts": [],
+        "form": "Imparfait"
+      },
+      {
+        "slot": "t|Imparfait|2",
+        "f": "tense",
+        "s": "Nous ___ de destination chaque été.",
+        "en": "We changed our holiday destination every summer.",
+        "a": "changions",
+        "alts": [],
+        "form": "Imparfait"
+      },
+      {
+        "slot": "t|Imparfait|3",
+        "f": "tense",
+        "s": "Vous ___ d'avis à chaque réunion.",
+        "en": "You changed your mind at every meeting.",
+        "a": "changiez",
+        "alts": [],
+        "form": "Imparfait"
+      },
+      {
+        "slot": "t|Imparfait|3",
+        "f": "tense",
+        "s": "Vous ___ de méthode selon les circonstances.",
+        "en": "You changed your method depending on the circumstances.",
+        "a": "changiez",
+        "alts": [],
+        "form": "Imparfait"
+      },
+      {
+        "slot": "t|Imparfait|4",
+        "f": "tense",
+        "s": "Mes parents ___ de voiture tous les trois ans.",
+        "en": "My parents changed their car every three years.",
+        "a": "changeaient",
+        "alts": [],
+        "form": "Imparfait"
+      },
+      {
+        "slot": "t|Imparfait|4",
+        "f": "tense",
+        "s": "Les ministres ___ de position selon les sondages.",
+        "en": "The ministers changed their position according to the polls.",
+        "a": "changeaient",
+        "alts": [],
+        "form": "Imparfait"
+      },
+      {
+        "slot": "t|Futur|0",
+        "f": "tense",
+        "s": "Je ___ de travail l'année prochaine.",
+        "en": "I will change jobs next year.",
+        "a": "changerai",
+        "alts": [],
+        "form": "Futur"
+      },
+      {
+        "slot": "t|Futur|0",
+        "f": "tense",
+        "s": "Je ___ d'avis si tu me donnes de bons arguments.",
+        "en": "I will change my mind if you give me good arguments.",
+        "a": "changerai",
+        "alts": [],
+        "form": "Futur"
+      },
+      {
+        "slot": "t|Futur|1",
+        "f": "tense",
+        "s": "Tu ___ de comportement si tu veux réussir.",
+        "en": "You will change your behaviour if you want to succeed.",
+        "a": "changeras",
+        "alts": [],
+        "form": "Futur"
+      },
+      {
+        "slot": "t|Futur|1",
+        "f": "tense",
+        "s": "Tu ___ de portable dès que l'écran sera réparé.",
+        "en": "You will change your phone as soon as the screen is repaired.",
+        "a": "changeras",
+        "alts": [],
+        "form": "Futur"
+      },
+      {
+        "slot": "t|Futur|2",
+        "f": "tense",
+        "s": "Le nouveau directeur ___ les règles dès son arrivée.",
+        "en": "The new director will change the rules as soon as he arrives.",
+        "a": "changera",
+        "alts": [],
+        "form": "Futur"
+      },
+      {
+        "slot": "t|Futur|2",
+        "f": "tense",
+        "s": "Elle ___ de coiffure pour la fête.",
+        "en": "She will change her hairstyle for the party.",
+        "a": "changera",
+        "alts": [],
+        "form": "Futur"
+      },
+      {
+        "slot": "t|Futur|3",
+        "f": "tense",
+        "s": "Nous ___ de fournisseur le mois prochain.",
+        "en": "We will change suppliers next month.",
+        "a": "changerons",
+        "alts": [],
+        "form": "Futur"
+      },
+      {
+        "slot": "t|Futur|3",
+        "f": "tense",
+        "s": "Nous ___ de route demain pour éviter les bouchons.",
+        "en": "We will change our route tomorrow to avoid traffic jams.",
+        "a": "changerons",
+        "alts": [],
+        "form": "Futur"
+      },
+      {
+        "slot": "t|Futur|4",
+        "f": "tense",
+        "s": "Vous ___ d'approche si la situation l'exige.",
+        "en": "You will change your approach if the situation demands it.",
+        "a": "changerez",
+        "alts": [],
+        "form": "Futur"
+      },
+      {
+        "slot": "t|Futur|4",
+        "f": "tense",
+        "s": "Vous ___ d'adresse quand vous déménagerez.",
+        "en": "You will change your address when you move.",
+        "a": "changerez",
+        "alts": [],
+        "form": "Futur"
+      },
+      {
+        "slot": "t|Futur|5",
+        "f": "tense",
+        "s": "Les voyageurs ___ de train à Paris.",
+        "en": "The travellers will change trains in Paris.",
+        "a": "changeront",
+        "alts": [],
+        "form": "Futur"
+      },
+      {
+        "slot": "t|Futur|5",
+        "f": "tense",
+        "s": "Mes collègues ___ de bureau l'année prochaine.",
+        "en": "My colleagues will change offices next year.",
+        "a": "changeront",
+        "alts": [],
+        "form": "Futur"
+      },
+      {
+        "slot": "t|Conditionnel|0",
+        "f": "tense",
+        "s": "Si j'avais plus d'argent, je ___ de voiture.",
+        "en": "If I had more money, I would change my car.",
+        "a": "changerais",
+        "alts": [],
+        "form": "Conditionnel"
+      },
+      {
+        "slot": "t|Conditionnel|0",
+        "f": "tense",
+        "s": "Si j'avais le choix, je ___ de ville sans hésiter.",
+        "en": "If I had the choice, I would change cities without hesitation.",
+        "a": "changerais",
+        "alts": [],
+        "form": "Conditionnel"
+      },
+      {
+        "slot": "t|Conditionnel|1",
+        "f": "tense",
+        "s": "Si le gouvernement prenait cette décision, cela ___ beaucoup de choses.",
+        "en": "If the government made that decision, it would change many things.",
+        "a": "changerait",
+        "alts": [],
+        "form": "Conditionnel"
+      },
+      {
+        "slot": "t|Conditionnel|1",
+        "f": "tense",
+        "s": "Mon frère ___ de métier s'il en avait l'occasion.",
+        "en": "My brother would change careers if he had the opportunity.",
+        "a": "changerait",
+        "alts": [],
+        "form": "Conditionnel"
+      },
+      {
+        "slot": "t|Conditionnel|2",
+        "f": "tense",
+        "s": "Si nous avions le choix, nous ___ de ville.",
+        "en": "If we had the choice, we would change cities.",
+        "a": "changerions",
+        "alts": [],
+        "form": "Conditionnel"
+      },
+      {
+        "slot": "t|Conditionnel|2",
+        "f": "tense",
+        "s": "Nous ___ volontiers de méthode si cela améliorait les résultats.",
+        "en": "We would willingly change our method if it improved the results.",
+        "a": "changerions",
+        "alts": [],
+        "form": "Conditionnel"
+      },
+      {
+        "slot": "t|Conditionnel|3",
+        "f": "tense",
+        "s": "Si vous étiez à ma place, vous ___ d'avis ?",
+        "en": "If you were in my position, would you change your mind?",
+        "a": "changeriez",
+        "alts": [],
+        "form": "Conditionnel"
+      },
+      {
+        "slot": "t|Conditionnel|3",
+        "f": "tense",
+        "s": "Vous ___ de stratégie si vous receviez de meilleures données.",
+        "en": "You would change your strategy if you received better data.",
+        "a": "changeriez",
+        "alts": [],
+        "form": "Conditionnel"
+      },
+      {
+        "slot": "t|Conditionnel|4",
+        "f": "tense",
+        "s": "Si les conditions s'amélioraient, les entreprises ___ de politique.",
+        "en": "If conditions improved, the companies would change their policy.",
+        "a": "changeraient",
+        "alts": [],
+        "form": "Conditionnel"
+      },
+      {
+        "slot": "t|Conditionnel|4",
+        "f": "tense",
+        "s": "Mes amis ___ de restaurant si le service était mauvais.",
+        "en": "My friends would change restaurants if the service were poor.",
+        "a": "changeraient",
+        "alts": [],
+        "form": "Conditionnel"
+      },
+      {
+        "slot": "t|Subjonctif",
+        "f": "subj",
+        "s": "Il faut que tu ___ d'attitude si tu veux progresser.",
+        "en": "You must change your attitude if you want to improve.",
+        "a": "changes",
+        "alts": [],
+        "form": "Subjonctif"
+      },
+      {
+        "slot": "t|Subjonctif",
+        "f": "subj",
+        "s": "Je souhaite que nous ___ de méthode avant la prochaine réunion.",
+        "en": "I wish that we change our method before the next meeting.",
+        "a": "changions",
+        "alts": [],
+        "form": "Subjonctif"
+      },
+      {
+        "slot": "s|0",
+        "f": "sense",
+        "s": "La vie en ville peut ___ votre façon de penser.",
+        "en": "City life can change the way you think.",
+        "a": "changer",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "s|0",
+        "f": "sense",
+        "s": "Il est difficile de ___ ses habitudes alimentaires.",
+        "en": "It is difficult to change one's eating habits.",
+        "a": "changer",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "s|1",
+        "f": "sense",
+        "s": "Il faut ___ les pneus de la voiture avant l'hiver.",
+        "en": "The car tyres need to be replaced before winter.",
+        "a": "changer",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "s|1",
+        "f": "sense",
+        "s": "Je dois ___ l'ampoule qui est grillée dans le couloir.",
+        "en": "I need to replace the burnt-out bulb in the hallway.",
+        "a": "changer",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "s|2",
+        "f": "sense",
+        "s": "Les deux enfants ont décidé de ___ leurs jouets.",
+        "en": "The two children decided to swap their toys.",
+        "a": "changer",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "s|2",
+        "f": "sense",
+        "s": "Les touristes ont voulu ___ des euros contre des livres sterling.",
+        "en": "The tourists wanted to exchange euros for pounds sterling.",
+        "a": "changer",
+        "alts": [],
+        "form": ""
+      }
+    ]
+  }
+]

@@ -1,0 +1,33 @@
+[
+  {
+    "id": 5340,
+    "qs": [
+      {"slot":"s|0","f":"sense","s":"Le ___ a terminé la course en tête, sous les applaudissements de la foule.","en":"The cyclist finished the race in the lead, to the cheers of the crowd.","a":"cycliste","alts":[],"form":""},
+      {"slot":"s|0","f":"sense","s":"Chaque matin, ce ___ traverse la ville à vélo pour aller au travail.","en":"Every morning, this cyclist rides across the city by bike to get to work.","a":"cycliste","alts":[],"form":""},
+      {"slot":"gender","f":"gender","s":"Mon voisin est ___ cycliste passionné qui roule chaque week-end.","en":"My neighbor is a passionate cyclist who rides every weekend.","a":"un","alts":[],"form":""},
+      {"slot":"gender","f":"gender","s":"Sur cette photo, on voit ___ cycliste qui grimpe la montagne.","en":"In this photo, we see the cyclist climbing the mountain.","a":"le","alts":[],"form":""}
+    ]
+  },
+  {
+    "id": 5341,
+    "qs": [
+      {"slot":"s|0","f":"sense","s":"Il a acheté un pull ___ pour l'hiver.","en":"He bought a purple sweater for winter.","a":"violet","alts":[]},
+      {"slot":"s|0","f":"sense","s":"Le ciel est devenu ___ au coucher du soleil.","en":"The sky turned purple at sunset.","a":"violet","alts":[]},
+      {"slot":"g|mp","f":"agree","s":"Les rideaux du salon sont ___.","en":"The living room curtains are purple.","a":"violets","alts":[]},
+      {"slot":"g|mp","f":"agree","s":"J'ai trouvé deux crayons ___ dans son sac.","en":"I found two purple pencils in her bag.","a":"violets","alts":[]},
+      {"slot":"g|f","f":"agree","s":"Elle porte une robe ___ pour la soirée.","en":"She is wearing a purple dress for the party.","a":"violette","alts":[]},
+      {"slot":"g|f","f":"agree","s":"Cette fleur sauvage est ___.","en":"This wildflower is purple.","a":"violette","alts":[]},
+      {"slot":"g|fp","f":"agree","s":"Les fleurs du jardin sont ___ au printemps.","en":"The garden flowers are purple in spring.","a":"violettes","alts":[]},
+      {"slot":"g|fp","f":"agree","s":"Elle a les mains ___ à cause de la peinture.","en":"Her hands are purple because of the paint.","a":"violettes","alts":[]}
+    ]
+  },
+  {
+    "id": 5342,
+    "qs": [
+      {"slot":"s|0","f":"sense","s":"Ce jeune ___ a présenté sa première collection lors de la Fashion Week de Paris.","en":"This young fashion designer presented his first collection at Paris Fashion Week.","a":"couturier","alts":[]},
+      {"slot":"s|0","f":"sense","s":"Le ___ a passé des heures à ajuster la robe sur le mannequin.","en":"The dressmaker spent hours adjusting the dress on the mannequin.","a":"couturier","alts":[]},
+      {"slot":"gender","f":"gender","s":"___ couturier a ouvert sa propre maison de couture à Milan.","en":"The fashion designer opened his own fashion house in Milan.","a":"Le","alts":["le"]},
+      {"slot":"gender","f":"gender","s":"Elle rêve de devenir ___ couturier renommé.","en":"She dreams of becoming a renowned fashion designer.","a":"un","alts":[]}
+    ]
+  }
+]

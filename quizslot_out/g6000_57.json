@@ -1,0 +1,29 @@
+[
+  {
+    "id": 5172,
+    "qs": [
+      {"slot":"s|0","f":"sense","s":"Je dois aller à la ___ pour acheter des médicaments contre le rhume.","a":"pharmacie","en":"I need to go to the pharmacy to buy some cold medicine.","alts":[]},
+      {"slot":"s|0","f":"sense","s":"La ___ du quartier ferme à vingt heures ce soir.","a":"pharmacie","en":"The neighborhood pharmacy closes at eight pm tonight.","alts":[]},
+      {"slot":"s|1","f":"sense","s":"Les pansements sont rangés dans la ___ de la salle de bain.","a":"pharmacie","en":"The bandages are stored in the bathroom medicine cabinet.","alts":[]},
+      {"slot":"s|1","f":"sense","s":"Vérifie la ___ familiale, il ne reste plus d'aspirine.","a":"pharmacie","en":"Check the family medicine cabinet, there's no more aspirin left.","alts":[]},
+      {"slot":"gender","f":"gender","s":"Il y a ___ pharmacie juste en face de chez moi.","a":"une","en":"There is a pharmacy right across from my place.","alts":[]},
+      {"slot":"gender","f":"gender","s":"___ pharmacie du village est ouverte tous les jours sauf le dimanche.","a":"La","en":"The village pharmacy is open every day except Sunday.","alts":[]}
+    ]
+  },
+  {
+    "id": 5173,
+    "qs": [
+      {"slot":"s|0","f":"sense","s":"Le serveur a plongé une ___ verte dans mon verre de martini.","en":"The waiter dropped a green olive into my martini glass.","a":"olive","alts":[],"form":""},
+      {"slot":"s|0","f":"sense","s":"Elle a cueilli une ___ noire directement sur l'arbre.","en":"She picked a black olive directly from the tree.","a":"olive","alts":[],"form":""},
+      {"slot":"gender","f":"gender","s":"Il reste ___ olive dans le bocal.","en":"There is one olive left in the jar.","a":"une","alts":[],"form":""},
+      {"slot":"gender","f":"gender","s":"Elle a pris ___ olive pour goûter la sauce.","en":"She took an olive to taste the sauce.","a":"une","alts":[],"form":""}
+    ]
+  },
+  {
+    "id": 5174,
+    "qs": [
+      {"slot":"s|0","f":"sense","s":"J'en ai ___ de ce bruit tous les jours.","a":"marre","en":"I'm sick of this noise every day.","alts":["assez"],"form":""},
+      {"slot":"s|0","f":"sense","s":"Il en a ___ de toujours faire la vaisselle.","a":"marre","en":"He's fed up with always doing the dishes.","alts":["assez"],"form":""}
+    ]
+  }
+]

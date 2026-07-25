@@ -1,0 +1,20 @@
+[
+  {
+    "id": "3973",
+    "fix": {
+      "examples": [
+        {
+          "fr": "Ils ont entretenu une correspondance suivie pendant plus de dix ans.",
+          "en": "They kept up a steady correspondence for more than ten years.",
+          "target": "suivie"
+        },
+        {
+          "fr": "Son travail est de qualité mais peu suivi dans le temps.",
+          "en": "His work is of good quality but not very consistent over time.",
+          "target": "suivi"
+        }
+      ]
+    },
+    "reasons": ["pos is adj but first example used 'suivi' as a noun (un suivi médical); replaced with an adjectival use (correspondance suivie)"]
+  }
+]

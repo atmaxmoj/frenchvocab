@@ -1,0 +1,35 @@
+[
+  {
+    "id": 6000,
+    "qs": [
+      {"slot": "s|0", "f": "sense", "s": "Au restaurant, j'ai commandé une ___ fraîche avec un peu de citron.", "en": "At the restaurant, I ordered a fresh oyster with a bit of lemon.", "a": "huître", "alts": []},
+      {"slot": "s|0", "f": "sense", "s": "Le pêcheur a trouvé une petite perle à l'intérieur de l'___.", "en": "The fisherman found a small pearl inside the oyster.", "a": "huître", "alts": []},
+      {"slot": "gender", "f": "gender", "s": "Elle a soigneusement ouvert ___ huître avant de la servir.", "en": "She carefully opened an oyster before serving it.", "a": "une", "alts": []},
+      {"slot": "gender", "f": "gender", "s": "Le chef a préparé ___ huître farcie pour l'entrée.", "en": "The chef prepared a stuffed oyster for the starter.", "a": "une", "alts": []}
+    ]
+  },
+  {
+    "id": 6001,
+    "qs": [
+      {"slot": "s|0", "f": "sense", "s": "Mon frère a un sourire ___ qui agace tout le monde.", "en": "My brother has a mocking smile that annoys everyone.", "a": "moqueur", "alts": []},
+      {"slot": "s|0", "f": "sense", "s": "Ce garçon est très ___ avec ses camarades de classe.", "en": "This boy is very mocking towards his classmates.", "a": "moqueur", "alts": []},
+      {"slot": "g|mp", "f": "agree", "s": "Les élèves ___ se sont moqués du nouveau professeur.", "en": "The mocking students made fun of the new teacher.", "a": "moqueurs", "alts": []},
+      {"slot": "g|mp", "f": "agree", "s": "Ces commentaires ___ ont blessé l'artiste.", "en": "These mocking comments hurt the artist.", "a": "moqueurs", "alts": []},
+      {"slot": "g|f", "f": "agree", "s": "Elle a une attitude ___ envers ses collègues.", "en": "She has a mocking attitude towards her colleagues.", "a": "moqueuse", "alts": []},
+      {"slot": "g|f", "f": "agree", "s": "Sa remarque ___ a vexé son ami.", "en": "Her mocking remark upset her friend.", "a": "moqueuse", "alts": []},
+      {"slot": "g|fp", "f": "agree", "s": "Ses paroles ___ ont blessé sa sœur.", "en": "Her mocking words hurt her sister.", "a": "moqueuses", "alts": []},
+      {"slot": "g|fp", "f": "agree", "s": "Les filles étaient ___ envers la nouvelle élève.", "en": "The girls were mocking towards the new student.", "a": "moqueuses", "alts": []}
+    ]
+  },
+  {
+    "id": 6002,
+    "qs": [
+      {"slot": "s|0", "f": "sense", "s": "Pour allumer le feu, il a frotté une ___ contre la boîte.", "en": "To light the fire, he struck a match against the box.", "a": "allumette", "alts": []},
+      {"slot": "s|0", "f": "sense", "s": "Elle a soufflé l'___ après avoir allumé la bougie.", "en": "She blew out the match after lighting the candle.", "a": "allumette", "alts": []},
+      {"slot": "s|1", "f": "sense", "s": "Au restaurant, j'ai commandé des pommes ___ bien croustillantes.", "en": "At the restaurant, I ordered some nice crispy matchstick fries.", "a": "allumettes", "alts": []},
+      {"slot": "s|1", "f": "sense", "s": "Le chef coupe les carottes en ___ pour la salade.", "en": "The chef cuts the carrots into matchsticks for the salad.", "a": "allumettes", "alts": []},
+      {"slot": "gender", "f": "gender", "s": "Il cherche ___ allumette pour allumer sa cigarette.", "en": "He is looking for a match to light his cigarette.", "a": "une", "alts": []},
+      {"slot": "gender", "f": "gender", "s": "Dans le tiroir, il y avait ___ allumette qui n'avait pas encore servi.", "en": "In the drawer, there was a match that had not yet been used.", "a": "une", "alts": []}
+    ]
+  }
+]

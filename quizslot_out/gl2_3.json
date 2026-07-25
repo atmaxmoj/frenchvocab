@@ -1,0 +1,251 @@
+[
+  {
+    "id": 1860,
+    "qs": [
+      {
+        "slot": "s|0",
+        "f": "sense",
+        "s": "Mon père est membre d'un ___ de golf depuis dix ans.",
+        "a": "club",
+        "en": "My father has been a member of a golf club for ten years.",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "s|0",
+        "f": "sense",
+        "s": "Ce ___ accueille des joueurs professionnels du monde entier.",
+        "a": "club",
+        "en": "This club welcomes professional players from around the world.",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "s|1",
+        "f": "sense",
+        "s": "Elle a créé un ___ de lecture à l'université pour partager ses livres préférés.",
+        "a": "club",
+        "en": "She created a reading club at the university to share her favourite books.",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "s|1",
+        "f": "sense",
+        "s": "Le ___ des jeunes naturalistes organise des sorties en forêt chaque samedi.",
+        "a": "club",
+        "en": "The young naturalists' club organises outings in the forest every Saturday.",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "s|2",
+        "f": "sense",
+        "s": "Le joueur a frappé la balle avec son ___ et l'a envoyée très loin.",
+        "a": "club",
+        "en": "The player hit the ball with his club and sent it very far.",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "s|2",
+        "f": "sense",
+        "s": "Il a choisi le bon ___ pour ce coup difficile sur le fairway.",
+        "a": "club",
+        "en": "He chose the right club for this difficult shot on the fairway.",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "gender",
+        "f": "gender",
+        "s": "Elle est membre d'___ club très sélect dans le centre-ville.",
+        "a": "un",
+        "en": "She is a member of a very exclusive club in the city centre.",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "gender",
+        "f": "gender",
+        "s": "___ club sportif de notre quartier propose des cours de tennis pour les débutants.",
+        "a": "Le",
+        "en": "The sports club in our neighbourhood offers tennis lessons for beginners.",
+        "alts": [],
+        "form": ""
+      }
+    ]
+  },
+  {
+    "id": 1861,
+    "qs": [
+      {
+        "slot": "s|0",
+        "f": "sense",
+        "s": "Ce quartier a une longue tradition ___ : beaucoup de familles y travaillaient dans les usines.",
+        "a": "ouvrière",
+        "en": "This neighborhood has a long worker tradition: many families worked in the factories there.",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "s|0",
+        "f": "sense",
+        "s": "Mon grand-père venait d'un milieu ___ et passait ses journées à l'atelier.",
+        "a": "ouvrier",
+        "en": "My grandfather came from a worker background and spent his days in the workshop.",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "s|1",
+        "f": "sense",
+        "s": "Le mouvement ___ a obtenu des droits importants pour les salariés au XXᵉ siècle.",
+        "a": "ouvrier",
+        "en": "The labor movement obtained important rights for workers in the 20th century.",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "s|1",
+        "f": "sense",
+        "s": "Les syndicats défendent la cause ___ face au patronat.",
+        "a": "ouvrière",
+        "en": "The unions defend the labor cause against employers.",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "g|mp",
+        "f": "agree",
+        "s": "Les délégués ___ ont voté en faveur de la grève.",
+        "a": "ouvriers",
+        "en": "The worker delegates voted in favor of the strike.",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "g|mp",
+        "f": "agree",
+        "s": "Ces logements ___ construits dans les années 1950 sont aujourd'hui rénovés.",
+        "a": "ouvriers",
+        "en": "These worker housing units built in the 1950s are now renovated.",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "g|f",
+        "f": "agree",
+        "s": "Sa mère avait une vie ___ , travaillant douze heures par jour à l'usine.",
+        "a": "ouvrière",
+        "en": "His mother had a worker's life, working twelve hours a day at the factory.",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "g|f",
+        "f": "agree",
+        "s": "Cette ville a une identité ___ profondément ancrée dans son histoire industrielle.",
+        "a": "ouvrière",
+        "en": "This city has a worker identity deeply rooted in its industrial history.",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "g|fp",
+        "f": "agree",
+        "s": "Les familles ___ de cette région ont souffert de la fermeture des mines.",
+        "a": "ouvrières",
+        "en": "The worker families of this region suffered from the closure of the mines.",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "g|fp",
+        "f": "agree",
+        "s": "Les revendications ___ portent notamment sur l'amélioration des conditions de travail.",
+        "a": "ouvrières",
+        "en": "The labor demands concern notably the improvement of working conditions.",
+        "alts": [],
+        "form": ""
+      }
+    ]
+  },
+  {
+    "id": 1862,
+    "qs": [
+      {
+        "slot": "s|0",
+        "f": "sense",
+        "s": "Après l'accident, il a enduré une ___ intense pendant plusieurs semaines.",
+        "a": "souffrance",
+        "en": "After the accident, he endured intense suffering for several weeks.",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "s|0",
+        "f": "sense",
+        "s": "Elle cachait sa ___ intérieure derrière un sourire.",
+        "a": "souffrance",
+        "en": "She hid her inner suffering behind a smile.",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "s|1",
+        "f": "sense",
+        "s": "La guerre a causé une ___ immense à toute la population.",
+        "a": "souffrance",
+        "en": "The war caused immense suffering to the entire population.",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "s|1",
+        "f": "sense",
+        "s": "Ces familles ont traversé des années de ___ et de privations.",
+        "a": "souffrance",
+        "en": "These families went through years of suffering and deprivation.",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "s|2",
+        "f": "sense",
+        "s": "Les longues nuits d'insomnie étaient une véritable ___ pour lui.",
+        "a": "souffrance",
+        "en": "The long sleepless nights were a real torment for him.",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "s|2",
+        "f": "sense",
+        "s": "Attendre sans nouvelles de son fils était une ___ quotidienne.",
+        "a": "souffrance",
+        "en": "Waiting with no news of her son was a daily torment.",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "gender",
+        "f": "gender",
+        "s": "Il faut reconnaître ___ souffrance de ceux qui ont tout perdu.",
+        "a": "la",
+        "en": "We must acknowledge the suffering of those who have lost everything.",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "gender",
+        "f": "gender",
+        "s": "Perdre un enfant est ___ souffrance que peu de mots peuvent décrire.",
+        "a": "une",
+        "en": "Losing a child is a suffering that few words can describe.",
+        "alts": [],
+        "form": ""
+      }
+    ]
+  }
+]

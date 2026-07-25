@@ -1,0 +1,41 @@
+[
+  {
+    "id": 272,
+    "qs": [
+      {"slot":"s|0","f":"sense","s":"J'aimerais ___ rester à la maison que de sortir sous cette pluie froide.","en":"I would rather stay home than go out in this cold rain.","a":"plutôt","alts":[],"form":""},
+      {"slot":"s|0","f":"sense","s":"Tu devrais ___ lui parler en face que de lui envoyer un simple message.","en":"You should rather talk to him in person than send him a simple message.","a":"plutôt","alts":[],"form":""},
+      {"slot":"s|1","f":"sense","s":"Ce restaurant est ___ bon, je le recommande sans hésitation.","en":"This restaurant is quite good, I recommend it without hesitation.","a":"plutôt","alts":["assez"],"form":""},
+      {"slot":"s|1","f":"sense","s":"Elle parle ___ bien le français pour quelqu'un qui n'a commencé à l'apprendre qu'il y a six mois.","en":"She speaks French rather well for someone who only started learning it six months ago.","a":"plutôt","alts":["assez"],"form":""},
+      {"slot":"s|2","f":"sense","s":"Ne prends pas ta voiture, prends ___ le métro, c'est beaucoup plus rapide.","en":"Don't take your car; take the metro instead, it's much faster.","a":"plutôt","alts":[],"form":""},
+      {"slot":"s|2","f":"sense","s":"Arrête de regarder des séries et lis ___ ce livre que je t'ai prêté.","en":"Stop watching series and read this book I lent you instead.","a":"plutôt","alts":[],"form":""}
+    ]
+  },
+  {
+    "id": 273,
+    "qs": [
+      {"slot":"s|0","f":"sense","s":"Elle travaille dans un grand ___ au centre-ville.","en":"She works in a large office in the city center.","a":"bureau","alts":[],"form":""},
+      {"slot":"s|0","f":"sense","s":"Mon père quitte le ___ à dix-huit heures chaque soir.","en":"My father leaves the office at six o'clock every evening.","a":"bureau","alts":[],"form":""},
+      {"slot":"s|1","f":"sense","s":"Il pose son cahier sur le ___ et commence à écrire.","en":"He puts his notebook on the desk and starts writing.","a":"bureau","alts":[],"form":""},
+      {"slot":"s|1","f":"sense","s":"Elle range ses crayons dans le tiroir du ___.","en":"She puts her pencils away in the desk drawer.","a":"bureau","alts":[],"form":""},
+      {"slot":"gender","f":"gender","s":"Elle dépose ses documents sur ___ bureau en bois.","en":"She places her documents on the wooden desk.","a":"le","alts":[],"form":""},
+      {"slot":"gender","f":"gender","s":"Il cherche ___ bureau calme pour travailler.","en":"He is looking for a quiet office to work in.","a":"un","alts":[],"form":""}
+    ]
+  },
+  {
+    "id": 274,
+    "qs": [
+      {"slot":"s|0","f":"sense","s":"Ce film est vraiment ___ ; je ne le recommande à personne.","en":"This film is really bad; I wouldn't recommend it to anyone.","a":"mauvais","alts":[],"form":""},
+      {"slot":"s|0","f":"sense","s":"Il a eu une ___ note à son examen de maths.","en":"He got a bad grade on his maths exam.","a":"mauvaise","alts":[],"form":""},
+      {"slot":"s|1","f":"sense","s":"Tu as pris la ___ direction ; il fallait tourner à gauche.","en":"You took the wrong direction; you should have turned left.","a":"mauvaise","alts":[],"form":""},
+      {"slot":"s|1","f":"sense","s":"Il a répondu au ___ numéro de téléphone.","en":"He called the wrong phone number.","a":"mauvais","alts":[],"form":""},
+      {"slot":"s|2","f":"sense","s":"À cause du ___ temps, le match a été annulé.","en":"Because of the harsh weather, the match was cancelled.","a":"mauvais","alts":[],"form":""},
+      {"slot":"s|2","f":"sense","s":"Les conditions de travail dans cette usine sont ___ ; les employés souffrent.","en":"The working conditions in this factory are harsh; the employees are suffering.","a":"mauvaises","alts":[],"form":""},
+      {"slot":"g|mp","f":"agree","s":"Ces résultats sont ___ pour l'équipe.","en":"These results are bad for the team.","a":"mauvais","alts":[],"form":""},
+      {"slot":"g|mp","f":"agree","s":"Il a pris de ___ médicaments périmés sans le savoir.","en":"He unknowingly took bad (expired) medicines.","a":"mauvais","alts":[],"form":""},
+      {"slot":"g|f","f":"agree","s":"C'est une ___ idée de sortir sans manteau en hiver.","en":"It is a bad idea to go out without a coat in winter.","a":"mauvaise","alts":[],"form":""},
+      {"slot":"g|f","f":"agree","s":"Elle a eu une ___ surprise en voyant la facture.","en":"She had a bad surprise when she saw the bill.","a":"mauvaise","alts":[],"form":""},
+      {"slot":"g|fp","f":"agree","s":"Il a de ___ habitudes alimentaires depuis l'enfance.","en":"He has had bad eating habits since childhood.","a":"mauvaises","alts":[],"form":""},
+      {"slot":"g|fp","f":"agree","s":"Les ___ nouvelles se répandent vite dans le village.","en":"Bad news spreads quickly in the village.","a":"mauvaises","alts":[],"form":""}
+    ]
+  }
+]

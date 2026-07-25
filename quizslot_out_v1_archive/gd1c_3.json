@@ -1,0 +1,570 @@
+[
+  {
+    "id": 125,
+    "qs": [
+      {
+        "slot": "s|0",
+        "f": "sense",
+        "s": "Le temps est une ___ précieuse qu'on ne peut pas récupérer.",
+        "en": "Time is a precious thing that cannot be recovered.",
+        "a": "chose",
+        "alts": []
+      },
+      {
+        "slot": "s|0",
+        "f": "sense",
+        "s": "La beauté est une ___ difficile à définir avec des mots.",
+        "en": "Beauty is a thing that is difficult to define with words.",
+        "a": "chose",
+        "alts": []
+      },
+      {
+        "slot": "s|1",
+        "f": "sense",
+        "s": "Tu as oublié quelque ___ dans la voiture.",
+        "en": "You forgot something in the car.",
+        "a": "chose",
+        "alts": []
+      },
+      {
+        "slot": "s|1",
+        "f": "sense",
+        "s": "Il y a une ___ sur la table, mais je ne sais pas ce que c'est.",
+        "en": "There is something on the table, but I don't know what it is.",
+        "a": "chose",
+        "alts": []
+      },
+      {
+        "slot": "s|2",
+        "f": "sense",
+        "s": "C'est une ___ sérieuse dont nous devons parler tout de suite.",
+        "en": "It is a serious matter that we need to talk about right away.",
+        "a": "chose",
+        "alts": []
+      },
+      {
+        "slot": "s|2",
+        "f": "sense",
+        "s": "Cette ___ ne me concerne pas, c'est votre problème.",
+        "en": "This matter does not concern me, it is your problem.",
+        "a": "chose",
+        "alts": []
+      },
+      {
+        "slot": "gender",
+        "f": "gender",
+        "s": "___ chose la plus importante, c'est d'être honnête.",
+        "en": "The most important thing is to be honest.",
+        "a": "La",
+        "alts": []
+      },
+      {
+        "slot": "gender",
+        "f": "gender",
+        "s": "Il cherche ___ chose à offrir à sa mère pour son anniversaire.",
+        "en": "He is looking for a thing to give his mother for her birthday.",
+        "a": "une",
+        "alts": []
+      }
+    ]
+  },
+  {
+    "id": 126,
+    "qs": [
+      {
+        "slot": "s|0",
+        "f": "sense",
+        "s": "Elle tient son ___ dans les bras avec tendresse.",
+        "en": "She holds her child in her arms tenderly.",
+        "a": "enfant",
+        "alts": []
+      },
+      {
+        "slot": "s|0",
+        "f": "sense",
+        "s": "Mon ___ a besoin de soins et d'amour au quotidien.",
+        "en": "My child needs care and love every day.",
+        "a": "enfant",
+        "alts": []
+      },
+      {
+        "slot": "s|1",
+        "f": "sense",
+        "s": "La loi protège chaque ___ contre toute forme de violence.",
+        "en": "The law protects every child against all forms of violence.",
+        "a": "enfant",
+        "alts": []
+      },
+      {
+        "slot": "s|1",
+        "f": "sense",
+        "s": "Ce musée propose des activités adaptées à chaque ___.",
+        "en": "This museum offers activities adapted for every child.",
+        "a": "enfant",
+        "alts": []
+      },
+      {
+        "slot": "gender",
+        "f": "gender",
+        "s": "___ enfant que nous avons adopté est très courageux.",
+        "en": "The child we adopted is very brave.",
+        "a": "L'",
+        "alts": []
+      },
+      {
+        "slot": "gender",
+        "f": "gender",
+        "s": "Elle rêve d'avoir ___ enfant un jour.",
+        "en": "She dreams of having a child one day.",
+        "a": "un",
+        "alts": []
+      }
+    ]
+  },
+  {
+    "id": 127,
+    "qs": [
+      {
+        "slot": "s|0",
+        "f": "sense",
+        "s": "Nous cherchons la ___ de cet accident.",
+        "en": "We are looking for the cause of this accident.",
+        "a": "cause",
+        "alts": []
+      },
+      {
+        "slot": "s|0",
+        "f": "sense",
+        "s": "Quelle est la ___ de ton retard ?",
+        "en": "What is the cause of your delay?",
+        "a": "cause",
+        "alts": []
+      },
+      {
+        "slot": "s|1",
+        "f": "sense",
+        "s": "Il a consacré sa vie à la ___ de la paix.",
+        "en": "He devoted his life to the cause of peace.",
+        "a": "cause",
+        "alts": []
+      },
+      {
+        "slot": "s|1",
+        "f": "sense",
+        "s": "Elle milite pour une ___ juste et noble.",
+        "en": "She fights for a just and noble cause.",
+        "a": "cause",
+        "alts": []
+      },
+      {
+        "slot": "s|2",
+        "f": "sense",
+        "s": "Il n'a fourni aucune ___ valable pour son absence.",
+        "en": "He gave no valid reason for his absence.",
+        "a": "cause",
+        "alts": []
+      },
+      {
+        "slot": "s|2",
+        "f": "sense",
+        "s": "Y a-t-il une ___ suffisante pour annuler la réunion ?",
+        "en": "Is there a sufficient reason to cancel the meeting?",
+        "a": "cause",
+        "alts": []
+      },
+      {
+        "slot": "gender",
+        "f": "gender",
+        "s": "Il défend ___ cause perdue depuis des années.",
+        "en": "He has been defending a lost cause for years.",
+        "a": "une",
+        "alts": []
+      },
+      {
+        "slot": "gender",
+        "f": "gender",
+        "s": "Je comprends enfin ___ cause de ce problème.",
+        "en": "I finally understand the cause of this problem.",
+        "a": "la",
+        "alts": ["l'"]
+      }
+    ]
+  },
+  {
+    "id": 128,
+    "qs": [
+      {
+        "slot": "s|0",
+        "f": "sense",
+        "s": "Le gouvernement a annoncé une nouvelle décision ___ concernant les élections.",
+        "en": "The government announced a new political decision concerning the elections.",
+        "a": "politique",
+        "alts": []
+      },
+      {
+        "slot": "s|0",
+        "f": "sense",
+        "s": "Les partis s'affrontent sur des questions ___ très importantes pour le pays.",
+        "en": "The parties clash over very important political questions for the country.",
+        "a": "politiques",
+        "alts": []
+      },
+      {
+        "slot": "s|1",
+        "f": "sense",
+        "s": "Elle est très ___ : elle sait toujours quoi dire pour ne froisser personne.",
+        "en": "She is very politically astute: she always knows what to say so as not to offend anyone.",
+        "a": "politique",
+        "alts": []
+      },
+      {
+        "slot": "s|1",
+        "f": "sense",
+        "s": "Il a répondu de façon ___ pour éviter de s'aliéner ses alliés.",
+        "en": "He replied in a politically savvy way to avoid alienating his allies.",
+        "a": "politique",
+        "alts": []
+      },
+      {
+        "slot": "s|2",
+        "f": "sense",
+        "s": "La ___ est un sujet qui passionne beaucoup de citoyens.",
+        "en": "Politics is a subject that fascinates many citizens.",
+        "a": "politique",
+        "alts": []
+      },
+      {
+        "slot": "s|2",
+        "f": "sense",
+        "s": "Il s'intéresse à la ___ depuis son adolescence.",
+        "en": "He has been interested in politics since his adolescence.",
+        "a": "politique",
+        "alts": []
+      },
+      {
+        "slot": "g|mp",
+        "f": "agree",
+        "s": "Ces dirigeants sont connus pour leurs discours ___ enflammés.",
+        "en": "These leaders are known for their fiery political speeches.",
+        "a": "politiques",
+        "alts": []
+      },
+      {
+        "slot": "g|mp",
+        "f": "agree",
+        "s": "Les débats ___ entre les deux candidats ont duré plusieurs heures.",
+        "en": "The political debates between the two candidates lasted several hours.",
+        "a": "politiques",
+        "alts": []
+      },
+      {
+        "slot": "g|f",
+        "f": "agree",
+        "s": "La situation ___ dans ce pays est très instable en ce moment.",
+        "en": "The political situation in this country is very unstable at the moment.",
+        "a": "politique",
+        "alts": []
+      },
+      {
+        "slot": "g|f",
+        "f": "agree",
+        "s": "Une réforme ___ ambitieuse a été proposée par le premier ministre.",
+        "en": "An ambitious political reform was proposed by the prime minister.",
+        "a": "politique",
+        "alts": []
+      },
+      {
+        "slot": "g|fp",
+        "f": "agree",
+        "s": "Ces décisions ___ ont été critiquées par l'opposition.",
+        "en": "These political decisions were criticized by the opposition.",
+        "a": "politiques",
+        "alts": []
+      },
+      {
+        "slot": "g|fp",
+        "f": "agree",
+        "s": "Les aspirations ___ des femmes dans ce pays méritent d'être entendues.",
+        "en": "The political aspirations of women in this country deserve to be heard.",
+        "a": "politiques",
+        "alts": []
+      }
+    ]
+  },
+  {
+    "id": 129,
+    "qs": [
+      {
+        "slot": "s|0",
+        "f": "sense",
+        "s": "C'est la ___ idéale pour se retrouver entre amis.",
+        "en": "It's the ideal place to meet up with friends.",
+        "a": "place",
+        "alts": []
+      },
+      {
+        "slot": "s|0",
+        "f": "sense",
+        "s": "Je connais une ___ tranquille où nous pouvons parler.",
+        "en": "I know a quiet place where we can talk.",
+        "a": "place",
+        "alts": []
+      },
+      {
+        "slot": "s|1",
+        "f": "sense",
+        "s": "Nous nous sommes promenés sur la ___ du village.",
+        "en": "We walked around the village square.",
+        "a": "place",
+        "alts": []
+      },
+      {
+        "slot": "s|1",
+        "f": "sense",
+        "s": "Il y a un marché chaque dimanche sur la ___ centrale.",
+        "en": "There is a market every Sunday on the central square.",
+        "a": "place",
+        "alts": []
+      },
+      {
+        "slot": "s|2",
+        "f": "sense",
+        "s": "Est-ce que cette ___ est libre dans le train ?",
+        "en": "Is this seat available on the train?",
+        "a": "place",
+        "alts": []
+      },
+      {
+        "slot": "s|2",
+        "f": "sense",
+        "s": "J'ai réservé une ___ au premier rang pour le concert.",
+        "en": "I reserved a seat in the front row for the concert.",
+        "a": "place",
+        "alts": []
+      },
+      {
+        "slot": "s|3",
+        "f": "sense",
+        "s": "Il n'y a plus de ___ dans le coffre de la voiture.",
+        "en": "There is no more space in the car trunk.",
+        "a": "place",
+        "alts": []
+      },
+      {
+        "slot": "s|3",
+        "f": "sense",
+        "s": "Fais de la ___ sur l'étagère pour ces nouveaux livres.",
+        "en": "Make space on the shelf for these new books.",
+        "a": "place",
+        "alts": []
+      },
+      {
+        "slot": "gender",
+        "f": "gender",
+        "s": "Ils ont rénové ___ place principale du quartier.",
+        "en": "They renovated the main square in the neighborhood.",
+        "a": "la",
+        "alts": []
+      },
+      {
+        "slot": "gender",
+        "f": "gender",
+        "s": "J'ai trouvé ___ place parfaite pour ranger mes affaires.",
+        "en": "I found a perfect place to store my things.",
+        "a": "une",
+        "alts": []
+      }
+    ]
+  },
+  {
+    "id": 130,
+    "qs": [
+      {
+        "slot": "s|0",
+        "f": "sense",
+        "s": "Il reste ___ trois places disponibles dans le train.",
+        "en": "There are only three seats left available on the train.",
+        "a": "seulement",
+        "alts": []
+      },
+      {
+        "slot": "s|0",
+        "f": "sense",
+        "s": "Elle avait ___ dix ans quand elle a commencé à jouer du piano.",
+        "en": "She was only ten years old when she started playing the piano.",
+        "a": "seulement",
+        "alts": []
+      },
+      {
+        "slot": "s|1",
+        "f": "sense",
+        "s": "J'ai ___ voulu t'aider, je ne savais pas que ça te dérangerait.",
+        "en": "I merely wanted to help you, I didn't know it would bother you.",
+        "a": "seulement",
+        "alts": []
+      },
+      {
+        "slot": "s|1",
+        "f": "sense",
+        "s": "Ce n'est pas grave, il s'agit ___ d'un petit malentendu.",
+        "en": "It's not serious, it's merely a small misunderstanding.",
+        "a": "seulement",
+        "alts": []
+      },
+      {
+        "slot": "s|2",
+        "f": "sense",
+        "s": "Le film était bien, ___ la fin m'a un peu déçu.",
+        "en": "The film was good, but the ending disappointed me a little.",
+        "a": "seulement",
+        "alts": ["mais"]
+      },
+      {
+        "slot": "s|2",
+        "f": "sense",
+        "s": "Je voudrais partir en vacances, ___ je n'ai pas assez d'argent.",
+        "en": "I would like to go on holiday, but I don't have enough money.",
+        "a": "seulement",
+        "alts": ["mais"]
+      }
+    ]
+  },
+  {
+    "id": 131,
+    "qs": [
+      {
+        "slot": "s|0",
+        "f": "sense",
+        "s": "C'est ___, qui ai fait ça, pas lui.",
+        "en": "It was me who did that, not him.",
+        "a": "moi",
+        "alts": []
+      },
+      {
+        "slot": "s|0",
+        "f": "sense",
+        "s": "Dis-___ où tu vas ce soir.",
+        "en": "Tell me where you are going tonight.",
+        "a": "moi",
+        "alts": []
+      },
+      {
+        "slot": "s|1",
+        "f": "sense",
+        "s": "Il faut cultiver son ___ intérieur pour trouver la paix.",
+        "en": "One must cultivate one's inner self to find peace.",
+        "a": "moi",
+        "alts": []
+      },
+      {
+        "slot": "s|1",
+        "f": "sense",
+        "s": "Le ___ et le surmoi sont des concepts freudiens fondamentaux.",
+        "en": "The ego and the superego are fundamental Freudian concepts.",
+        "a": "moi",
+        "alts": []
+      },
+      {
+        "slot": "s|2",
+        "f": "sense",
+        "s": "Elle ne pense qu'à ___, sans se soucier des autres.",
+        "en": "She thinks only of me, without caring about others.",
+        "a": "moi",
+        "alts": []
+      },
+      {
+        "slot": "s|2",
+        "f": "sense",
+        "s": "Prendre soin de ___ est essentiel avant d'aider les autres.",
+        "en": "Taking care of myself is essential before helping others.",
+        "a": "moi",
+        "alts": []
+      },
+      {
+        "slot": "gender",
+        "f": "gender",
+        "s": "___ moi profond d'une personne se révèle dans ses choix difficiles.",
+        "en": "The deep self of a person is revealed in their difficult choices.",
+        "a": "Le",
+        "alts": []
+      },
+      {
+        "slot": "gender",
+        "f": "gender",
+        "s": "Il cherche à développer ___ moi stable et épanoui.",
+        "en": "He seeks to develop a stable and fulfilled self.",
+        "a": "un",
+        "alts": []
+      }
+    ]
+  },
+  {
+    "id": 132,
+    "qs": [
+      {
+        "slot": "s|0",
+        "f": "sense",
+        "s": "Les médecins ont tout fait pour sauver sa ___ après l'accident.",
+        "en": "The doctors did everything to save his life after the accident.",
+        "a": "vie",
+        "alts": []
+      },
+      {
+        "slot": "s|0",
+        "f": "sense",
+        "s": "Ce médicament lui a redonné une ___ normale après la maladie grave.",
+        "en": "This medication gave him back a normal life after the serious illness.",
+        "a": "vie",
+        "alts": []
+      },
+      {
+        "slot": "s|1",
+        "f": "sense",
+        "s": "Il mène une ___ simple à la campagne, loin du bruit de la ville.",
+        "en": "He leads a simple life in the countryside, far from the noise of the city.",
+        "a": "vie",
+        "alts": []
+      },
+      {
+        "slot": "s|1",
+        "f": "sense",
+        "s": "La ___ quotidienne à Paris peut être très agitée et stressante.",
+        "en": "Daily life in Paris can be very hectic and stressful.",
+        "a": "vie",
+        "alts": []
+      },
+      {
+        "slot": "s|2",
+        "f": "sense",
+        "s": "Il a consacré toute sa ___ à aider les autres sans rien attendre en retour.",
+        "en": "He devoted his entire life to helping others without expecting anything in return.",
+        "a": "vie",
+        "alts": []
+      },
+      {
+        "slot": "s|2",
+        "f": "sense",
+        "s": "Regarder en arrière et comprendre le sens de sa ___ est une sagesse rare.",
+        "en": "Looking back and understanding the meaning of one's life is a rare wisdom.",
+        "a": "vie",
+        "alts": []
+      },
+      {
+        "slot": "gender",
+        "f": "gender",
+        "s": "C'est ___ vie qu'il avait toujours rêvé de vivre.",
+        "en": "It is the life he had always dreamed of living.",
+        "a": "la",
+        "alts": []
+      },
+      {
+        "slot": "gender",
+        "f": "gender",
+        "s": "Elle veut mener ___ vie aventureuse et pleine de voyages.",
+        "en": "She wants to lead an adventurous life full of travel.",
+        "a": "une",
+        "alts": []
+      }
+    ]
+  }
+]

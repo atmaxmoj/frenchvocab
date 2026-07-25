@@ -1,0 +1,683 @@
+[
+  {
+    "id": 3234,
+    "qs": [
+      {
+        "slot": "s|0",
+        "f": "sense",
+        "s": "La ___ de guerre a quitté le port à l'aube pour rejoindre la bataille.",
+        "a": "flotte",
+        "en": "The war fleet left the port at dawn to join the battle.",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "s|0",
+        "f": "sense",
+        "s": "L'ennemi a tenté de détruire notre ___ en rade.",
+        "a": "flotte",
+        "en": "The enemy tried to destroy our fleet in the harbor.",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "s|1",
+        "f": "sense",
+        "s": "Cette compagnie maritime possède une ___ de navires marchands répartis dans le monde entier.",
+        "a": "flotte",
+        "en": "This shipping company owns a fleet of merchant ships spread around the world.",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "s|1",
+        "f": "sense",
+        "s": "La ___ de pêche est rentrée au port avec une bonne prise ce matin.",
+        "a": "flotte",
+        "en": "The fishing fleet returned to port with a good catch this morning.",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "gender",
+        "f": "gender",
+        "s": "___ flotte ennemie a été repoussée loin des côtes.",
+        "a": "La",
+        "en": "The enemy fleet was driven far from the coast.",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "gender",
+        "f": "gender",
+        "s": "La France dispose d'___ flotte puissante pour défendre ses intérêts maritimes.",
+        "a": "une",
+        "en": "France has a powerful fleet to defend its maritime interests.",
+        "alts": [],
+        "form": ""
+      }
+    ]
+  },
+  {
+    "id": 3235,
+    "qs": [
+      {
+        "slot": "t|Présent|0",
+        "f": "tense",
+        "s": "Cet échec me ___ beaucoup.",
+        "a": "décourage",
+        "en": "This failure discourages me a lot.",
+        "alts": [],
+        "form": "Présent"
+      },
+      {
+        "slot": "t|Présent|0",
+        "f": "tense",
+        "s": "Le professeur ne ___ jamais ses élèves.",
+        "a": "décourage",
+        "en": "The teacher never discourages his students.",
+        "alts": [],
+        "form": "Présent"
+      },
+      {
+        "slot": "t|Présent|1",
+        "f": "tense",
+        "s": "Tu ___ tes amis avec tes critiques constantes.",
+        "a": "décourages",
+        "en": "You discourage your friends with your constant criticism.",
+        "alts": [],
+        "form": "Présent"
+      },
+      {
+        "slot": "t|Présent|1",
+        "f": "tense",
+        "s": "Pourquoi tu ___ les nouveaux membres de l'équipe ?",
+        "a": "décourages",
+        "en": "Why do you discourage the new team members?",
+        "alts": [],
+        "form": "Présent"
+      },
+      {
+        "slot": "t|Présent|2",
+        "f": "tense",
+        "s": "Nous ne ___ pas les candidats par nos remarques.",
+        "a": "décourageons",
+        "en": "We do not discourage the candidates with our remarks.",
+        "alts": [],
+        "form": "Présent"
+      },
+      {
+        "slot": "t|Présent|2",
+        "f": "tense",
+        "s": "En tant qu'entraîneurs, nous ___ rarement nos joueurs.",
+        "a": "décourageons",
+        "en": "As coaches, we rarely discourage our players.",
+        "alts": [],
+        "form": "Présent"
+      },
+      {
+        "slot": "t|Présent|3",
+        "f": "tense",
+        "s": "Vous ___ vos enfants en les critiquant sans cesse.",
+        "a": "découragez",
+        "en": "You discourage your children by criticizing them constantly.",
+        "alts": [],
+        "form": "Présent"
+      },
+      {
+        "slot": "t|Présent|3",
+        "f": "tense",
+        "s": "Est-ce que vous ___ vraiment les bénévoles avec ces règles strictes ?",
+        "a": "découragez",
+        "en": "Do you really discourage the volunteers with these strict rules?",
+        "alts": [],
+        "form": "Présent"
+      },
+      {
+        "slot": "t|Présent|4",
+        "f": "tense",
+        "s": "Ces obstacles ___ les étudiants les plus fragiles.",
+        "a": "découragent",
+        "en": "These obstacles discourage the most vulnerable students.",
+        "alts": [],
+        "form": "Présent"
+      },
+      {
+        "slot": "t|Présent|4",
+        "f": "tense",
+        "s": "Ces professeurs ne ___ pas leurs élèves, même quand c'est difficile.",
+        "a": "découragent",
+        "en": "These teachers do not discourage their students, even when it is difficult.",
+        "alts": [],
+        "form": "Présent"
+      },
+      {
+        "slot": "t|Passé composé|0",
+        "f": "tense",
+        "s": "J'___ mon coéquipier avec mes doutes.",
+        "a": "ai découragé",
+        "en": "I discouraged my teammate with my doubts.",
+        "alts": [],
+        "form": "Passé composé"
+      },
+      {
+        "slot": "t|Passé composé|0",
+        "f": "tense",
+        "s": "Hier, j'___ sans le vouloir le nouveau stagiaire.",
+        "a": "ai découragé",
+        "en": "Yesterday, I unintentionally discouraged the new intern.",
+        "alts": [],
+        "form": "Passé composé"
+      },
+      {
+        "slot": "t|Passé composé|1",
+        "f": "tense",
+        "s": "Tu ___ ton frère avec tes commentaires négatifs.",
+        "a": "as découragé",
+        "en": "You discouraged your brother with your negative comments.",
+        "alts": [],
+        "form": "Passé composé"
+      },
+      {
+        "slot": "t|Passé composé|1",
+        "f": "tense",
+        "s": "Est-ce que tu ___ Luc en lui disant que c'était impossible ?",
+        "a": "as découragé",
+        "en": "Did you discourage Luc by telling him it was impossible?",
+        "alts": [],
+        "form": "Passé composé"
+      },
+      {
+        "slot": "t|Passé composé|2",
+        "f": "tense",
+        "s": "Ce refus ___ le jeune artiste.",
+        "a": "a découragé",
+        "en": "This rejection discouraged the young artist.",
+        "alts": [],
+        "form": "Passé composé"
+      },
+      {
+        "slot": "t|Passé composé|2",
+        "f": "tense",
+        "s": "La mauvaise note ___ Marie lors de sa première semaine.",
+        "a": "a découragé",
+        "en": "The bad grade discouraged Marie during her first week.",
+        "alts": [],
+        "form": "Passé composé"
+      },
+      {
+        "slot": "t|Passé composé|3",
+        "f": "tense",
+        "s": "Nous ___ involontairement les participants avec nos exigences.",
+        "a": "avons découragé",
+        "en": "We unintentionally discouraged the participants with our demands.",
+        "alts": [],
+        "form": "Passé composé"
+      },
+      {
+        "slot": "t|Passé composé|3",
+        "f": "tense",
+        "s": "Cette année-là, nous ___ plusieurs bons candidats.",
+        "a": "avons découragé",
+        "en": "That year, we discouraged several good candidates.",
+        "alts": [],
+        "form": "Passé composé"
+      },
+      {
+        "slot": "t|Passé composé|4",
+        "f": "tense",
+        "s": "Vous ___ toute l'équipe avec vos critiques ce matin.",
+        "a": "avez découragé",
+        "en": "You discouraged the whole team with your criticism this morning.",
+        "alts": [],
+        "form": "Passé composé"
+      },
+      {
+        "slot": "t|Passé composé|4",
+        "f": "tense",
+        "s": "Est-ce que vous ___ les élèves en annonçant un examen surprise ?",
+        "a": "avez découragé",
+        "en": "Did you discourage the students by announcing a surprise exam?",
+        "alts": [],
+        "form": "Passé composé"
+      },
+      {
+        "slot": "t|Passé composé|5",
+        "f": "tense",
+        "s": "Les mauvaises conditions météo ___ les randonneurs.",
+        "a": "ont découragé",
+        "en": "The bad weather conditions discouraged the hikers.",
+        "alts": [],
+        "form": "Passé composé"
+      },
+      {
+        "slot": "t|Passé composé|5",
+        "f": "tense",
+        "s": "Ses paroles dures ___ les volontaires qui voulaient aider.",
+        "a": "ont découragé",
+        "en": "His harsh words discouraged the volunteers who wanted to help.",
+        "alts": [],
+        "form": "Passé composé"
+      },
+      {
+        "slot": "t|Imparfait|0",
+        "f": "tense",
+        "s": "Quand j'étais enfant, je me ___ vite face aux problèmes de maths.",
+        "a": "décourageais",
+        "en": "When I was a child, I quickly became disheartened by math problems.",
+        "alts": [],
+        "form": "Imparfait"
+      },
+      {
+        "slot": "t|Imparfait|0",
+        "f": "tense",
+        "s": "Tu ne te ___ jamais, même quand tout allait mal.",
+        "a": "décourageais",
+        "en": "You never lost heart, even when everything was going wrong.",
+        "alts": [],
+        "form": "Imparfait"
+      },
+      {
+        "slot": "t|Imparfait|1",
+        "f": "tense",
+        "s": "Ce professeur sévère ___ ses étudiants chaque semaine.",
+        "a": "décourageait",
+        "en": "That strict teacher used to discourage his students every week.",
+        "alts": [],
+        "form": "Imparfait"
+      },
+      {
+        "slot": "t|Imparfait|1",
+        "f": "tense",
+        "s": "La longueur du parcours ___ même les coureurs les plus expérimentés.",
+        "a": "décourageait",
+        "en": "The length of the course used to dishearten even the most experienced runners.",
+        "alts": [],
+        "form": "Imparfait"
+      },
+      {
+        "slot": "t|Imparfait|2",
+        "f": "tense",
+        "s": "Nous ne ___ jamais les jeunes talents dans notre club.",
+        "a": "découragions",
+        "en": "We never discouraged young talents in our club.",
+        "alts": [],
+        "form": "Imparfait"
+      },
+      {
+        "slot": "t|Imparfait|2",
+        "f": "tense",
+        "s": "À cette époque, nous ___ souvent les candidats trop ambitieux.",
+        "a": "découragions",
+        "en": "At that time, we often discouraged overly ambitious candidates.",
+        "alts": [],
+        "form": "Imparfait"
+      },
+      {
+        "slot": "t|Imparfait|3",
+        "f": "tense",
+        "s": "Vous ___ les nouvelles recrues avec vos exigences trop élevées.",
+        "a": "découragiez",
+        "en": "You used to discourage the new recruits with your excessively high demands.",
+        "alts": [],
+        "form": "Imparfait"
+      },
+      {
+        "slot": "t|Imparfait|3",
+        "f": "tense",
+        "s": "Est-ce que vous ___ les bénévoles par manque de reconnaissance ?",
+        "a": "découragiez",
+        "en": "Were you discouraging the volunteers through lack of recognition?",
+        "alts": [],
+        "form": "Imparfait"
+      },
+      {
+        "slot": "t|Imparfait|4",
+        "f": "tense",
+        "s": "Ses remarques ___ tous ceux qui essayaient de progresser.",
+        "a": "décourageaient",
+        "en": "His remarks used to discourage all those who were trying to improve.",
+        "alts": [],
+        "form": "Imparfait"
+      },
+      {
+        "slot": "t|Imparfait|4",
+        "f": "tense",
+        "s": "Ces résultats médiocres ___ les chercheurs de l'équipe.",
+        "a": "décourageaient",
+        "en": "These mediocre results used to dishearten the team's researchers.",
+        "alts": [],
+        "form": "Imparfait"
+      },
+      {
+        "slot": "t|Futur|0",
+        "f": "tense",
+        "s": "Je ne ___ pas mon fils, quoi qu'il arrive.",
+        "a": "découragerai",
+        "en": "I will not discourage my son, whatever happens.",
+        "alts": [],
+        "form": "Futur"
+      },
+      {
+        "slot": "t|Futur|0",
+        "f": "tense",
+        "s": "Si je dois critiquer, je ne ___ jamais les efforts de mes collègues.",
+        "a": "découragerai",
+        "en": "If I must criticize, I will never discourage the efforts of my colleagues.",
+        "alts": [],
+        "form": "Futur"
+      },
+      {
+        "slot": "t|Futur|1",
+        "f": "tense",
+        "s": "Tu ___ encore tes camarades si tu continues à te plaindre.",
+        "a": "décourageras",
+        "en": "You will discourage your classmates again if you keep complaining.",
+        "alts": [],
+        "form": "Futur"
+      },
+      {
+        "slot": "t|Futur|1",
+        "f": "tense",
+        "s": "Je suis sûr que tu ne te ___ pas avant d'avoir atteint ton objectif.",
+        "a": "décourageras",
+        "en": "I am sure you will not lose heart before reaching your goal.",
+        "alts": [],
+        "form": "Futur"
+      },
+      {
+        "slot": "t|Futur|2",
+        "f": "tense",
+        "s": "Cette mauvaise nouvelle ___ les investisseurs potentiels.",
+        "a": "découragera",
+        "en": "This bad news will discourage potential investors.",
+        "alts": [],
+        "form": "Futur"
+      },
+      {
+        "slot": "t|Futur|2",
+        "f": "tense",
+        "s": "Le directeur ne ___ pas les initiatives des employés.",
+        "a": "découragera",
+        "en": "The director will not discourage employee initiatives.",
+        "alts": [],
+        "form": "Futur"
+      },
+      {
+        "slot": "t|Futur|3",
+        "f": "tense",
+        "s": "Nous ne ___ pas les jeunes qui veulent se lancer dans ce domaine.",
+        "a": "découragerons",
+        "en": "We will not discourage young people who want to enter this field.",
+        "alts": [],
+        "form": "Futur"
+      },
+      {
+        "slot": "t|Futur|3",
+        "f": "tense",
+        "s": "Ensemble, nous ___ toute tentative de triche.",
+        "a": "découragerons",
+        "en": "Together, we will discourage any attempt at cheating.",
+        "alts": [],
+        "form": "Futur"
+      },
+      {
+        "slot": "t|Futur|4",
+        "f": "tense",
+        "s": "Vous ___ les candidats si vous rendez le processus trop complexe.",
+        "a": "découragerez",
+        "en": "You will discourage the candidates if you make the process too complex.",
+        "alts": [],
+        "form": "Futur"
+      },
+      {
+        "slot": "t|Futur|4",
+        "f": "tense",
+        "s": "Vous ne ___ plus vos étudiants avec vos nouvelles méthodes pédagogiques.",
+        "a": "découragerez",
+        "en": "You will no longer discourage your students with your new teaching methods.",
+        "alts": [],
+        "form": "Futur"
+      },
+      {
+        "slot": "t|Futur|5",
+        "f": "tense",
+        "s": "Ces contraintes supplémentaires ___ les participants.",
+        "a": "décourageront",
+        "en": "These additional constraints will discourage the participants.",
+        "alts": [],
+        "form": "Futur"
+      },
+      {
+        "slot": "t|Futur|5",
+        "f": "tense",
+        "s": "Les critiques ___ les artistes débutants si elles sont trop sévères.",
+        "a": "décourageront",
+        "en": "The critics will discourage beginner artists if they are too harsh.",
+        "alts": [],
+        "form": "Futur"
+      },
+      {
+        "slot": "t|Conditionnel|0",
+        "f": "tense",
+        "s": "Si j'étais à ta place, je ne ___ pas les bénévoles.",
+        "a": "découragerais",
+        "en": "If I were in your place, I would not discourage the volunteers.",
+        "alts": [],
+        "form": "Conditionnel"
+      },
+      {
+        "slot": "t|Conditionnel|0",
+        "f": "tense",
+        "s": "Si tu avais plus de patience, tu ne ___ pas si souvent les autres.",
+        "a": "découragerais",
+        "en": "If you had more patience, you would not discourage others so often.",
+        "alts": [],
+        "form": "Conditionnel"
+      },
+      {
+        "slot": "t|Conditionnel|1",
+        "f": "tense",
+        "s": "Un refus brutal ___ même les candidats les plus motivés.",
+        "a": "découragerait",
+        "en": "A blunt refusal would discourage even the most motivated candidates.",
+        "alts": [],
+        "form": "Conditionnel"
+      },
+      {
+        "slot": "t|Conditionnel|1",
+        "f": "tense",
+        "s": "Si elle parlait moins durement, elle ne ___ pas autant ses élèves.",
+        "a": "découragerait",
+        "en": "If she spoke less harshly, she would not discourage her students so much.",
+        "alts": [],
+        "form": "Conditionnel"
+      },
+      {
+        "slot": "t|Conditionnel|2",
+        "f": "tense",
+        "s": "Nous ne ___ jamais un joueur talentueux.",
+        "a": "découragerions",
+        "en": "We would never discourage a talented player.",
+        "alts": [],
+        "form": "Conditionnel"
+      },
+      {
+        "slot": "t|Conditionnel|2",
+        "f": "tense",
+        "s": "Si nous agissions ainsi, nous ___ toute l'équipe.",
+        "a": "découragerions",
+        "en": "If we acted that way, we would discourage the whole team.",
+        "alts": [],
+        "form": "Conditionnel"
+      },
+      {
+        "slot": "t|Conditionnel|3",
+        "f": "tense",
+        "s": "Vous ___ vos employés en refusant toutes leurs idées.",
+        "a": "décourageriez",
+        "en": "You would discourage your employees by rejecting all their ideas.",
+        "alts": [],
+        "form": "Conditionnel"
+      },
+      {
+        "slot": "t|Conditionnel|3",
+        "f": "tense",
+        "s": "Si vous étiez moins rigides, vous ne ___ pas autant les apprenants.",
+        "a": "décourageriez",
+        "en": "If you were less rigid, you would not discourage the learners so much.",
+        "alts": [],
+        "form": "Conditionnel"
+      },
+      {
+        "slot": "t|Conditionnel|4",
+        "f": "tense",
+        "s": "De telles règles ___ les meilleurs candidats.",
+        "a": "décourageraient",
+        "en": "Such rules would discourage the best candidates.",
+        "alts": [],
+        "form": "Conditionnel"
+      },
+      {
+        "slot": "t|Conditionnel|4",
+        "f": "tense",
+        "s": "Si les dirigeants agissaient ainsi, ils ___ tous les bénévoles.",
+        "a": "décourageraient",
+        "en": "If the leaders acted this way, they would discourage all the volunteers.",
+        "alts": [],
+        "form": "Conditionnel"
+      },
+      {
+        "slot": "t|Subjonctif",
+        "f": "subj",
+        "s": "Il ne faut pas que tu te ___ après un seul échec.",
+        "a": "décourages",
+        "en": "You must not lose heart after a single failure.",
+        "alts": [],
+        "form": "Subjonctif présent"
+      },
+      {
+        "slot": "t|Subjonctif",
+        "f": "subj",
+        "s": "Je tiens à ce qu'il ne ___ pas ses étudiants par ses remarques.",
+        "a": "décourage",
+        "en": "I insist that he not discourage his students with his remarks.",
+        "alts": [],
+        "form": "Subjonctif présent"
+      },
+      {
+        "slot": "s|0",
+        "f": "sense",
+        "s": "Les critiques répétées finissent par ___ même les plus persévérants.",
+        "a": "décourager",
+        "en": "Repeated criticism ends up discouraging even the most persevering people.",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "s|0",
+        "f": "sense",
+        "s": "Ce long refus a fini par ___ Paul dans sa recherche d'emploi.",
+        "a": "décourager",
+        "en": "This long series of rejections ended up discouraging Paul in his job search.",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "s|1",
+        "f": "sense",
+        "s": "Cette nouvelle inattendue a suffi à ___ toute l'équipe.",
+        "a": "décourager",
+        "en": "This unexpected news was enough to dishearten the entire team.",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "s|1",
+        "f": "sense",
+        "s": "Les résultats du premier trimestre ont profondément ___ les investisseurs.",
+        "a": "découragé",
+        "en": "The first quarter results deeply disheartened the investors.",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "s|2",
+        "f": "sense",
+        "s": "Face aux obstacles, il ne faut pas ___ et continuer à avancer.",
+        "a": "se décourager",
+        "en": "Faced with obstacles, one must not lose heart and must keep moving forward.",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "s|2",
+        "f": "sense",
+        "s": "Malgré les difficultés, Marie refuse de ___ et poursuit ses efforts.",
+        "a": "se décourager",
+        "en": "Despite the difficulties, Marie refuses to lose heart and continues her efforts.",
+        "alts": [],
+        "form": ""
+      }
+    ]
+  },
+  {
+    "id": 3236,
+    "qs": [
+      {
+        "slot": "s|0",
+        "f": "sense",
+        "s": "Elle passe un chiffon sur les meubles pour enlever la ___ .",
+        "a": "poussière",
+        "en": "She wipes the furniture with a cloth to remove the dust.",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "s|0",
+        "f": "sense",
+        "s": "Il y a de la ___ partout dans la pièce parce qu'on n'a pas fait le ménage depuis des semaines.",
+        "a": "poussière",
+        "en": "There is dust everywhere in the room because we haven't cleaned in weeks.",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "s|1",
+        "f": "sense",
+        "s": "Les étoiles se sont formées à partir de la ___ cosmique il y a des milliards d'années.",
+        "a": "poussière",
+        "en": "The stars formed from cosmic dust billions of years ago.",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "s|1",
+        "f": "sense",
+        "s": "Ce grand empire n'est plus que ___ aujourd'hui.",
+        "a": "poussière",
+        "en": "This great empire is nothing but dust today.",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "gender",
+        "f": "gender",
+        "s": "Il faut essuyer ___ poussière sur cette étagère.",
+        "a": "la",
+        "en": "We need to wipe the dust off this shelf.",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "gender",
+        "f": "gender",
+        "s": "J'ai trouvé ___ poussière blanche sur le sol après les travaux.",
+        "a": "une",
+        "en": "I found a white dust on the floor after the construction work.",
+        "alts": [],
+        "form": ""
+      }
+    ]
+  }
+]

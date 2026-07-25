@@ -1,0 +1,659 @@
+[
+  {
+    "id": 1007,
+    "qs": [
+      {
+        "slot": "t|Présent|0",
+        "f": "tense",
+        "s": "Chaque matin, je ___ mes collègues au bureau à neuf heures.",
+        "a": "rejoins",
+        "en": "Every morning, I rejoin my colleagues at the office at nine o'clock.",
+        "alts": [],
+        "form": "Présent"
+      },
+      {
+        "slot": "t|Présent|0",
+        "f": "tense",
+        "s": "Tu ___ le groupe après ta pause, n'est-ce pas ?",
+        "a": "rejoins",
+        "en": "You rejoin the group after your break, don't you?",
+        "alts": [],
+        "form": "Présent"
+      },
+      {
+        "slot": "t|Présent|1",
+        "f": "tense",
+        "s": "Mon ami ___ l'équipe dès qu'il arrive au stade.",
+        "a": "rejoint",
+        "en": "My friend rejoins the team as soon as he arrives at the stadium.",
+        "alts": [],
+        "form": "Présent"
+      },
+      {
+        "slot": "t|Présent|1",
+        "f": "tense",
+        "s": "La rivière ___ la mer à cet endroit.",
+        "a": "rejoint",
+        "en": "The river meets the sea at this point.",
+        "alts": [],
+        "form": "Présent"
+      },
+      {
+        "slot": "t|Présent|2",
+        "f": "tense",
+        "s": "Nous ___ nos amis au restaurant ce soir.",
+        "a": "rejoignons",
+        "en": "We are joining our friends at the restaurant this evening.",
+        "alts": [],
+        "form": "Présent"
+      },
+      {
+        "slot": "t|Présent|2",
+        "f": "tense",
+        "s": "Nous ___ le groupe de randonnée chaque dimanche matin.",
+        "a": "rejoignons",
+        "en": "We join the hiking group every Sunday morning.",
+        "alts": [],
+        "form": "Présent"
+      },
+      {
+        "slot": "t|Présent|3",
+        "f": "tense",
+        "s": "Vous ___ votre équipe après la réunion ?",
+        "a": "rejoignez",
+        "en": "Are you rejoining your team after the meeting?",
+        "alts": [],
+        "form": "Présent"
+      },
+      {
+        "slot": "t|Présent|3",
+        "f": "tense",
+        "s": "À quelle heure vous ___ les autres participants ?",
+        "a": "rejoignez",
+        "en": "At what time do you join the other participants?",
+        "alts": [],
+        "form": "Présent"
+      },
+      {
+        "slot": "t|Présent|4",
+        "f": "tense",
+        "s": "Les enfants ___ leurs parents dans le jardin après l'école.",
+        "a": "rejoignent",
+        "en": "The children join their parents in the garden after school.",
+        "alts": [],
+        "form": "Présent"
+      },
+      {
+        "slot": "t|Présent|4",
+        "f": "tense",
+        "s": "Les deux chemins ___ le village principal après deux kilomètres.",
+        "a": "rejoignent",
+        "en": "The two paths meet the main village after two kilometres.",
+        "alts": [],
+        "form": "Présent"
+      },
+      {
+        "slot": "t|Passé composé|0",
+        "f": "tense",
+        "s": "Hier soir, j'___ mes amis au café après le travail.",
+        "a": "ai rejoint",
+        "en": "Yesterday evening, I joined my friends at the café after work.",
+        "alts": [],
+        "form": "Passé composé"
+      },
+      {
+        "slot": "t|Passé composé|0",
+        "f": "tense",
+        "s": "J'___ l'association sportive le mois dernier.",
+        "a": "ai rejoint",
+        "en": "I rejoined the sports association last month.",
+        "alts": [],
+        "form": "Passé composé"
+      },
+      {
+        "slot": "t|Passé composé|1",
+        "f": "tense",
+        "s": "Tu ___ ton groupe à temps pour le début du concert.",
+        "a": "as rejoint",
+        "en": "You rejoined your group in time for the start of the concert.",
+        "alts": [],
+        "form": "Passé composé"
+      },
+      {
+        "slot": "t|Passé composé|1",
+        "f": "tense",
+        "s": "Tu ___ l'équipe en courant pour ne pas être en retard.",
+        "a": "as rejoint",
+        "en": "You caught up with the team by running so as not to be late.",
+        "alts": [],
+        "form": "Passé composé"
+      },
+      {
+        "slot": "t|Passé composé|2",
+        "f": "tense",
+        "s": "Le coureur ___ le peloton après sa chute.",
+        "a": "a rejoint",
+        "en": "The cyclist rejoined the peloton after his fall.",
+        "alts": [],
+        "form": "Passé composé"
+      },
+      {
+        "slot": "t|Passé composé|2",
+        "f": "tense",
+        "s": "Mon frère ___ son régiment après sa convalescence.",
+        "a": "a rejoint",
+        "en": "My brother rejoined his regiment after his convalescence.",
+        "alts": [],
+        "form": "Passé composé"
+      },
+      {
+        "slot": "t|Passé composé|3",
+        "f": "tense",
+        "s": "Nous ___ nos collègues à la conférence juste avant le déjeuner.",
+        "a": "avons rejoint",
+        "en": "We joined our colleagues at the conference just before lunch.",
+        "alts": [],
+        "form": "Passé composé"
+      },
+      {
+        "slot": "t|Passé composé|3",
+        "f": "tense",
+        "s": "Nous ___ le groupe principal au sommet de la colline.",
+        "a": "avons rejoint",
+        "en": "We caught up with the main group at the top of the hill.",
+        "alts": [],
+        "form": "Passé composé"
+      },
+      {
+        "slot": "t|Passé composé|4",
+        "f": "tense",
+        "s": "Vous ___ vos camarades après la pause déjeuner.",
+        "a": "avez rejoint",
+        "en": "You rejoined your classmates after the lunch break.",
+        "alts": [],
+        "form": "Passé composé"
+      },
+      {
+        "slot": "t|Passé composé|4",
+        "f": "tense",
+        "s": "Vous ___ l'équipe de bénévoles pour la fête du village.",
+        "a": "avez rejoint",
+        "en": "You joined the team of volunteers for the village festival.",
+        "alts": [],
+        "form": "Passé composé"
+      },
+      {
+        "slot": "t|Passé composé|5",
+        "f": "tense",
+        "s": "Les retardataires ___ le groupe en taxi.",
+        "a": "ont rejoint",
+        "en": "The latecomers caught up with the group by taxi.",
+        "alts": [],
+        "form": "Passé composé"
+      },
+      {
+        "slot": "t|Passé composé|5",
+        "f": "tense",
+        "s": "Les deux routes ___ l'autoroute à la hauteur de Lyon.",
+        "a": "ont rejoint",
+        "en": "The two roads merged with the motorway near Lyon.",
+        "alts": [],
+        "form": "Passé composé"
+      },
+      {
+        "slot": "t|Imparfait|0",
+        "f": "tense",
+        "s": "Autrefois, je ___ mes amis chaque vendredi au café du coin.",
+        "a": "rejoignais",
+        "en": "In the past, I used to join my friends every Friday at the local café.",
+        "alts": [],
+        "form": "Imparfait"
+      },
+      {
+        "slot": "t|Imparfait|0",
+        "f": "tense",
+        "s": "Quand tu habitais en ville, tu ___ tes collègues à pied.",
+        "a": "rejoignais",
+        "en": "When you lived in the city, you used to join your colleagues on foot.",
+        "alts": [],
+        "form": "Imparfait"
+      },
+      {
+        "slot": "t|Imparfait|1",
+        "f": "tense",
+        "s": "Chaque soir, mon père ___ ma mère dans la cuisine pour préparer le dîner.",
+        "a": "rejoignait",
+        "en": "Every evening, my father used to join my mother in the kitchen to prepare dinner.",
+        "alts": [],
+        "form": "Imparfait"
+      },
+      {
+        "slot": "t|Imparfait|1",
+        "f": "tense",
+        "s": "Le petit ruisseau ___ la rivière principale au bout du champ.",
+        "a": "rejoignait",
+        "en": "The small stream used to meet the main river at the end of the field.",
+        "alts": [],
+        "form": "Imparfait"
+      },
+      {
+        "slot": "t|Imparfait|2",
+        "f": "tense",
+        "s": "Nous ___ souvent nos cousins à la campagne pendant les vacances.",
+        "a": "rejoignions",
+        "en": "We often used to join our cousins in the countryside during the holidays.",
+        "alts": [],
+        "form": "Imparfait"
+      },
+      {
+        "slot": "t|Imparfait|2",
+        "f": "tense",
+        "s": "Quand nous travaillions ensemble, nous ___ les autres membres de l'équipe à midi.",
+        "a": "rejoignions",
+        "en": "When we worked together, we used to join the other team members at noon.",
+        "alts": [],
+        "form": "Imparfait"
+      },
+      {
+        "slot": "t|Imparfait|3",
+        "f": "tense",
+        "s": "Vous ___ vos amis au gymnase tous les lundis après-midi.",
+        "a": "rejoigniez",
+        "en": "You used to join your friends at the gym every Monday afternoon.",
+        "alts": [],
+        "form": "Imparfait"
+      },
+      {
+        "slot": "t|Imparfait|3",
+        "f": "tense",
+        "s": "À cette époque, vous ___ votre groupe de musique chaque samedi soir.",
+        "a": "rejoigniez",
+        "en": "At that time, you used to join your music group every Saturday evening.",
+        "alts": [],
+        "form": "Imparfait"
+      },
+      {
+        "slot": "t|Imparfait|4",
+        "f": "tense",
+        "s": "Les étudiants ___ leurs professeurs dans la salle commune après les cours.",
+        "a": "rejoignaient",
+        "en": "The students used to join their teachers in the common room after class.",
+        "alts": [],
+        "form": "Imparfait"
+      },
+      {
+        "slot": "t|Imparfait|4",
+        "f": "tense",
+        "s": "Les randonneurs ___ le sentier principal après chaque détour.",
+        "a": "rejoignaient",
+        "en": "The hikers used to rejoin the main path after each detour.",
+        "alts": [],
+        "form": "Imparfait"
+      },
+      {
+        "slot": "t|Futur|0",
+        "f": "tense",
+        "s": "Demain matin, je ___ mon équipe à l'aéroport.",
+        "a": "rejoindrai",
+        "en": "Tomorrow morning, I will join my team at the airport.",
+        "alts": [],
+        "form": "Futur"
+      },
+      {
+        "slot": "t|Futur|0",
+        "f": "tense",
+        "s": "Je ___ le groupe dès que j'aurai terminé cette réunion.",
+        "a": "rejoindrai",
+        "en": "I will join the group as soon as I have finished this meeting.",
+        "alts": [],
+        "form": "Futur"
+      },
+      {
+        "slot": "t|Futur|1",
+        "f": "tense",
+        "s": "Tu ___ tes camarades sur le terrain de sport à quinze heures.",
+        "a": "rejoindras",
+        "en": "You will join your teammates on the sports field at three o'clock.",
+        "alts": [],
+        "form": "Futur"
+      },
+      {
+        "slot": "t|Futur|1",
+        "f": "tense",
+        "s": "Tu ___ l'autoroute après le prochain carrefour.",
+        "a": "rejoindras",
+        "en": "You will reach the motorway after the next junction.",
+        "alts": [],
+        "form": "Futur"
+      },
+      {
+        "slot": "t|Futur|2",
+        "f": "tense",
+        "s": "Il ___ son poste à Paris le mois prochain.",
+        "a": "rejoindra",
+        "en": "He will rejoin his post in Paris next month.",
+        "alts": [],
+        "form": "Futur"
+      },
+      {
+        "slot": "t|Futur|2",
+        "f": "tense",
+        "s": "La nouvelle recrue ___ l'équipe dès lundi.",
+        "a": "rejoindra",
+        "en": "The new recruit will join the team from Monday onwards.",
+        "alts": [],
+        "form": "Futur"
+      },
+      {
+        "slot": "t|Futur|3",
+        "f": "tense",
+        "s": "Nous ___ nos parents à la gare dans une heure.",
+        "a": "rejoindrons",
+        "en": "We will join our parents at the station in an hour.",
+        "alts": [],
+        "form": "Futur"
+      },
+      {
+        "slot": "t|Futur|3",
+        "f": "tense",
+        "s": "Nous ___ le peloton de tête avant la fin de la course.",
+        "a": "rejoindrons",
+        "en": "We will catch up with the leading group before the end of the race.",
+        "alts": [],
+        "form": "Futur"
+      },
+      {
+        "slot": "t|Futur|4",
+        "f": "tense",
+        "s": "Vous ___ le groupe de touristes devant le musée à dix heures.",
+        "a": "rejoindrez",
+        "en": "You will join the group of tourists in front of the museum at ten o'clock.",
+        "alts": [],
+        "form": "Futur"
+      },
+      {
+        "slot": "t|Futur|4",
+        "f": "tense",
+        "s": "Vous ___ votre équipe dès que le problème sera résolu.",
+        "a": "rejoindrez",
+        "en": "You will rejoin your team as soon as the problem is solved.",
+        "alts": [],
+        "form": "Futur"
+      },
+      {
+        "slot": "t|Futur|5",
+        "f": "tense",
+        "s": "Les soldats ___ leur unité après leur permission.",
+        "a": "rejoindront",
+        "en": "The soldiers will rejoin their unit after their leave.",
+        "alts": [],
+        "form": "Futur"
+      },
+      {
+        "slot": "t|Futur|5",
+        "f": "tense",
+        "s": "Les deux brigades ___ le quartier général demain soir.",
+        "a": "rejoindront",
+        "en": "The two brigades will rejoin the headquarters tomorrow evening.",
+        "alts": [],
+        "form": "Futur"
+      },
+      {
+        "slot": "t|Conditionnel|0",
+        "f": "tense",
+        "s": "Si j'avais le temps, je ___ mes amis au bord de la mer.",
+        "a": "rejoindrais",
+        "en": "If I had the time, I would join my friends by the sea.",
+        "alts": [],
+        "form": "Conditionnel"
+      },
+      {
+        "slot": "t|Conditionnel|0",
+        "f": "tense",
+        "s": "Si tu pouvais, tu ___ l'équipe nationale sans hésiter.",
+        "a": "rejoindrais",
+        "en": "If you could, you would join the national team without hesitation.",
+        "alts": [],
+        "form": "Conditionnel"
+      },
+      {
+        "slot": "t|Conditionnel|1",
+        "f": "tense",
+        "s": "Si elle travaillait en ville, elle ___ ses collègues pour le déjeuner.",
+        "a": "rejoindrait",
+        "en": "If she worked in the city, she would join her colleagues for lunch.",
+        "alts": [],
+        "form": "Conditionnel"
+      },
+      {
+        "slot": "t|Conditionnel|1",
+        "f": "tense",
+        "s": "Si le coureur avait plus d'énergie, il ___ le groupe de tête.",
+        "a": "rejoindrait",
+        "en": "If the runner had more energy, he would catch up with the leading group.",
+        "alts": [],
+        "form": "Conditionnel"
+      },
+      {
+        "slot": "t|Conditionnel|2",
+        "f": "tense",
+        "s": "Si nous avions une voiture, nous ___ nos amis à la campagne.",
+        "a": "rejoindrions",
+        "en": "If we had a car, we would join our friends in the countryside.",
+        "alts": [],
+        "form": "Conditionnel"
+      },
+      {
+        "slot": "t|Conditionnel|2",
+        "f": "tense",
+        "s": "Si nous partions plus tôt, nous ___ le groupe avant midi.",
+        "a": "rejoindrions",
+        "en": "If we left earlier, we would catch up with the group before noon.",
+        "alts": [],
+        "form": "Conditionnel"
+      },
+      {
+        "slot": "t|Conditionnel|3",
+        "f": "tense",
+        "s": "Si vous aviez le temps, vous ___ vos anciens camarades de classe.",
+        "a": "rejoindriez",
+        "en": "If you had the time, you would rejoin your former classmates.",
+        "alts": [],
+        "form": "Conditionnel"
+      },
+      {
+        "slot": "t|Conditionnel|3",
+        "f": "tense",
+        "s": "Si vous étiez disponibles, vous ___ l'équipe de bénévoles.",
+        "a": "rejoindriez",
+        "en": "If you were available, you would join the volunteer team.",
+        "alts": [],
+        "form": "Conditionnel"
+      },
+      {
+        "slot": "t|Conditionnel|4",
+        "f": "tense",
+        "s": "Si les retardataires avaient un taxi, ils ___ le groupe à temps.",
+        "a": "rejoindraient",
+        "en": "If the latecomers had a taxi, they would catch up with the group in time.",
+        "alts": [],
+        "form": "Conditionnel"
+      },
+      {
+        "slot": "t|Conditionnel|4",
+        "f": "tense",
+        "s": "Si elles habitaient plus près, elles ___ leurs amies plus souvent.",
+        "a": "rejoindraient",
+        "en": "If they lived closer, they would join their friends more often.",
+        "alts": [],
+        "form": "Conditionnel"
+      },
+      {
+        "slot": "t|Subjonctif",
+        "f": "subj",
+        "s": "Il faut que tu ___ l'équipe avant le début du match.",
+        "a": "rejoignes",
+        "en": "You need to join the team before the match begins.",
+        "alts": [],
+        "form": "Subjonctif"
+      },
+      {
+        "slot": "t|Subjonctif",
+        "f": "subj",
+        "s": "Je souhaite qu'elle ___ notre groupe de travail dès que possible.",
+        "a": "rejoigne",
+        "en": "I wish she would join our working group as soon as possible.",
+        "alts": [],
+        "form": "Subjonctif"
+      },
+      {
+        "slot": "s|0",
+        "f": "sense",
+        "s": "Après une longue absence, il a décidé de ___ son ancien parti politique.",
+        "a": "rejoindre",
+        "en": "After a long absence, he decided to rejoin his former political party.",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "s|0",
+        "f": "sense",
+        "s": "Elle a quitté l'entreprise il y a deux ans et elle vient de la ___ .",
+        "a": "rejoindre",
+        "en": "She left the company two years ago and she has just rejoined it.",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "s|1",
+        "f": "sense",
+        "s": "Il a couru vite pour ___ le groupe qui partait sans lui.",
+        "a": "rejoindre",
+        "en": "He ran fast to catch up with the group that was leaving without him.",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "s|1",
+        "f": "sense",
+        "s": "Elle a pris un raccourci pour ___ son ami qui marchait beaucoup plus vite.",
+        "a": "rejoindre",
+        "en": "She took a shortcut to catch up with her friend who was walking much faster.",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "s|2",
+        "f": "sense",
+        "s": "Les deux groupes de randonneurs vont ___ au sommet de la montagne.",
+        "a": "se rejoindre",
+        "en": "The two groups of hikers will meet up at the mountain summit.",
+        "alts": ["rejoindre"],
+        "form": ""
+      },
+      {
+        "slot": "s|2",
+        "f": "sense",
+        "s": "Ce sentier va ___ l'autre chemin après le pont.",
+        "a": "rejoindre",
+        "en": "This path will meet the other trail after the bridge.",
+        "alts": [],
+        "form": ""
+      }
+    ]
+  },
+  {
+    "id": 1008,
+    "qs": [
+      {
+        "slot": "s|0",
+        "f": "sense",
+        "s": "Il y avait exactement ___ personnes dans la salle.",
+        "a": "mille",
+        "en": "There were exactly a thousand people in the room.",
+        "alts": []
+      },
+      {
+        "slot": "s|0",
+        "f": "sense",
+        "s": "Ce village compte ___ habitants.",
+        "a": "mille",
+        "en": "This village has a thousand inhabitants.",
+        "alts": []
+      },
+      {
+        "slot": "s|1",
+        "f": "sense",
+        "s": "Ce bâtiment a été construit il y a deux ___ ans.",
+        "a": "mille",
+        "en": "This building was built two thousand years ago.",
+        "alts": []
+      },
+      {
+        "slot": "s|1",
+        "f": "sense",
+        "s": "Elle a vendu cinq ___ billets pour le concert.",
+        "a": "mille",
+        "en": "She sold five thousand tickets for the concert.",
+        "alts": []
+      },
+      {
+        "slot": "gender",
+        "f": "gender",
+        "s": "Le bateau a parcouru ___ mille nautique en une heure.",
+        "a": "un",
+        "en": "The boat covered one nautical mile in an hour.",
+        "alts": []
+      },
+      {
+        "slot": "gender",
+        "f": "gender",
+        "s": "La distance entre les deux ports est d'environ ___ mille marin.",
+        "a": "un",
+        "en": "The distance between the two ports is about one nautical mile.",
+        "alts": []
+      }
+    ]
+  },
+  {
+    "id": 1009,
+    "qs": [
+      {
+        "slot": "s|0",
+        "f": "sense",
+        "s": "Tu dois ___ respecter les règles de sécurité, sans aucune exception.",
+        "a": "absolument",
+        "en": "You must absolutely follow the safety rules, without any exception.",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "s|0",
+        "f": "sense",
+        "s": "Il est ___ interdit de fumer dans cet établissement.",
+        "a": "absolument",
+        "en": "It is absolutely forbidden to smoke in this establishment.",
+        "alts": ["strictement", "formellement"],
+        "form": ""
+      },
+      {
+        "slot": "s|1",
+        "f": "sense",
+        "s": "Après le déménagement, la maison était ___ vide.",
+        "a": "absolument",
+        "en": "After the move, the house was completely empty.",
+        "alts": ["totalement", "entièrement"],
+        "form": ""
+      },
+      {
+        "slot": "s|1",
+        "f": "sense",
+        "s": "Je suis ___ d'accord avec toi sur ce point.",
+        "a": "absolument",
+        "en": "I completely agree with you on this point.",
+        "alts": ["totalement", "entièrement", "tout à fait"],
+        "form": ""
+      }
+    ]
+  }
+]

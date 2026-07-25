@@ -1,0 +1,43 @@
+[
+  {
+    "id": 16,
+    "qs": [
+      {"slot":"s|0","f":"sense","s":"Le chat dort ___ le canapé.","en":"The cat is sleeping on the sofa.","a":"sur","alts":[]},
+      {"slot":"s|0","f":"sense","s":"Elle a posé son sac ___ la table.","en":"She placed her bag on the table.","a":"sur","alts":[]},
+      {"slot":"s|1","f":"sense","s":"Il a écrit un livre ___ la Révolution française.","en":"He wrote a book about the French Revolution.","a":"sur","alts":[]},
+      {"slot":"s|1","f":"sense","s":"Nous avons eu une longue discussion ___ ce sujet.","en":"We had a long discussion about this topic.","a":"sur","alts":[]},
+      {"slot":"s|2","f":"sense","s":"___ les conseils du médecin, elle a arrêté de fumer.","en":"Based on the doctor's advice, she stopped smoking.","a":"Sur","alts":[]},
+      {"slot":"s|2","f":"sense","s":"Il a agi ___ recommandation de son avocat.","en":"He acted on the recommendation of his lawyer.","a":"sur","alts":[]},
+      {"slot":"g|mp","f":"agree","s":"Ces fruits sont trop ___ pour être mangés tels quels.","en":"These fruits are too sour to be eaten as they are.","a":"surs","alts":[]},
+      {"slot":"g|mp","f":"agree","s":"Les cornichons de ce bocal sont vraiment très ___ .","en":"The pickles in this jar are really very sour.","a":"surs","alts":[]},
+      {"slot":"g|f","f":"agree","s":"Cette pomme est un peu ___ ; elle n'est pas encore mûre.","en":"This apple is a bit sour; it is not ripe yet.","a":"sure","alts":[]},
+      {"slot":"g|f","f":"agree","s":"La crème fraîche a une légère saveur ___ qui relève les plats.","en":"Crème fraîche has a slight sour flavour that enhances dishes.","a":"sure","alts":[]},
+      {"slot":"g|fp","f":"agree","s":"Les cerises de cet arbre sont encore ___ ; attendons quelques jours.","en":"The cherries on this tree are still sour; let's wait a few days.","a":"sures","alts":[]},
+      {"slot":"g|fp","f":"agree","s":"Ces oranges sont ___ ; elles ont besoin de plus de soleil.","en":"These oranges are sour; they need more sunshine.","a":"sures","alts":[]}
+    ]
+  },
+  {
+    "id": 17,
+    "qs": [
+      {"slot":"s|0","f":"sense","s":"Le miroir sert à ___ voir soi-même.","en":"The mirror is used to see oneself.","a":"se","alts":[],"form":""},
+      {"slot":"s|0","f":"sense","s":"Il est important de ___ connaître soi-même avant de juger les autres.","en":"It is important to know oneself before judging others.","a":"se","alts":[],"form":""},
+      {"slot":"s|1","f":"sense","s":"Mon frère ___ lève toujours tôt le matin.","en":"My brother always gets himself up early in the morning.","a":"se","alts":[],"form":""},
+      {"slot":"s|1","f":"sense","s":"Le chien ___ gratte l'oreille avec la patte.","en":"The dog scratches his own ear with his paw.","a":"se","alts":[],"form":""},
+      {"slot":"s|2","f":"sense","s":"Ma sœur ___ regarde dans le miroir avant de sortir.","en":"My sister looks at herself in the mirror before going out.","a":"se","alts":[],"form":""},
+      {"slot":"s|2","f":"sense","s":"Elle ___ souvient bien de cette journée d'été.","en":"She remembers that summer day well.","a":"se","alts":[],"form":""},
+      {"slot":"s|3","f":"sense","s":"Les enfants ___ lavent les mains avant chaque repas.","en":"The children wash their own hands before each meal.","a":"se","alts":[],"form":""},
+      {"slot":"s|3","f":"sense","s":"Mes amis ___ retrouvent tous les vendredis soir au café.","en":"My friends meet up with each other every Friday evening at the café.","a":"se","alts":[],"form":""}
+    ]
+  },
+  {
+    "id": 18,
+    "qs": [
+      {"slot":"s|0","f":"sense","s":"Elle n'est ___ encore arrivée ; attendons-la un peu.","en":"She has not arrived yet; let's wait for her a little.","a":"pas","alts":[],"form":""},
+      {"slot":"s|0","f":"sense","s":"Je ne comprends ___ ce qu'il veut dire.","en":"I don't understand what he means.","a":"pas","alts":[],"form":""},
+      {"slot":"s|1","f":"sense","s":"J'entendais ses ___ résonner dans le couloir silencieux.","en":"I could hear his/her footsteps echoing in the silent corridor.","a":"pas","alts":[],"form":""},
+      {"slot":"s|1","f":"sense","s":"Elle avançait à petits ___, les yeux fixés sur le sol.","en":"She moved forward with small steps, her eyes fixed on the ground.","a":"pas","alts":[],"form":""},
+      {"slot":"gender","f":"gender","s":"Il a franchi ___ pas décisif en acceptant ce nouveau poste.","en":"He took a decisive step by accepting this new position.","a":"un","alts":[],"form":""},
+      {"slot":"gender","f":"gender","s":"Chaque matin, il entend ___ pas de son voisin dans l'escalier.","en":"Every morning, he hears his neighbor's footstep on the staircase.","a":"le","alts":["les"],"form":""}
+    ]
+  }
+]

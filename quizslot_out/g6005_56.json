@@ -1,0 +1,45 @@
+[
+  {
+    "id": 6063,
+    "qs": [
+      {"slot":"s|0","f":"sense","s":"Le suspect a subi un ___ éprouvant de six heures au commissariat avant d'avouer.","en":"The suspect underwent a grueling six-hour interrogation at the police station before confessing.","a":"interrogatoire","alts":[]},
+      {"slot":"s|0","f":"sense","s":"Le juge d'instruction a mené lui-même l'___ de l'accusé dans son bureau.","en":"The investigating judge personally conducted the interrogation of the defendant in his office.","a":"interrogatoire","alts":[]},
+      {"slot":"s|1","f":"sense","s":"À l'aéroport, les douaniers ont soumis le voyageur à un bref ___ sur le contenu de sa valise.","en":"At the airport, customs officers subjected the traveler to a brief questioning about the contents of his suitcase.","a":"interrogatoire","alts":[]},
+      {"slot":"s|1","f":"sense","s":"Un policier a arrêté le passant pour un rapide ___ sur les événements de la soirée.","en":"A police officer stopped the passerby for a quick questioning about the evening's events.","a":"interrogatoire","alts":[]},
+      {"slot":"gender","f":"gender","s":"___ interrogatoire aura lieu dès l'aube, a annoncé le commissaire.","en":"An interrogation will take place at dawn, the police captain announced.","a":"Un","alts":["un"]},
+      {"slot":"gender","f":"gender","s":"Selon l'avocat, ___ interrogatoire aussi long était totalement injustifié.","en":"According to the lawyer, such a long interrogation was completely unjustified.","a":"un","alts":[]}
+    ]
+  },
+  {
+    "id": 6064,
+    "qs": [
+      {"slot":"s|0","f":"sense","s":"Autrefois, un profond fossé entourait le ___ qui protégeait la cité médiévale.","a":"rempart","en":"In the old days, a deep moat surrounded the wall that protected the medieval city.","alts":[]},
+      {"slot":"s|0","f":"sense","s":"Chaque nuit, les archers montaient la garde sur les ___ de la ville pour surveiller les environs.","a":"remparts","en":"Every night, the archers stood guard on the city walls to watch over the surroundings.","alts":[]},
+      {"slot":"s|1","f":"sense","s":"Pendant le siège, les défenseurs ont dressé un ___ de fortune avec des charrettes et des tonneaux.","a":"rempart","en":"During the siege, the defenders threw up a makeshift bulwark with carts and barrels.","alts":[]},
+      {"slot":"s|1","f":"sense","s":"Les soldats ont renforcé leur ___ de terre avant l'assaut ennemi.","a":"rempart","en":"The soldiers reinforced their earthen rampart before the enemy assault.","alts":[]},
+      {"slot":"s|2","f":"sense","s":"Cette forêt dense sert de ___ naturel contre les vents violents de l'hiver.","a":"rempart","en":"This dense forest serves as a natural barrier against the violent winter winds.","alts":[]},
+      {"slot":"s|2","f":"sense","s":"Une presse libre constitue un véritable ___ contre la désinformation.","a":"rempart","en":"A free press constitutes a real bulwark against disinformation.","alts":[]},
+      {"slot":"s|3","f":"sense","s":"Ce vieux général est considéré comme le dernier ___ de la liberté de son pays.","a":"rempart","en":"This old general is regarded as the last bulwark of his country's freedom.","alts":[]},
+      {"slot":"s|3","f":"sense","s":"Ce syndicat reste le principal ___ des travailleurs contre les licenciements abusifs.","a":"rempart","en":"This union remains the main bulwark protecting workers against unfair layoffs.","alts":[]},
+      {"slot":"gender","f":"gender","s":"___ rempart entourait toute la ville pendant l'Antiquité et empêchait toute invasion.","a":"Le","en":"The rampart surrounded the entire city in antiquity and prevented any invasion.","alts":[]},
+      {"slot":"gender","f":"gender","s":"Ils ont découvert ___ rempart oublié caché sous les broussailles depuis des siècles.","a":"un","en":"They discovered a forgotten rampart hidden under the bushes for centuries.","alts":[]}
+    ]
+  },
+  {
+    "id": 6065,
+    "qs": [
+      {"slot":"s|0","f":"sense","s":"Le sol du delta est très ___ grâce aux inondations régulières du fleuve.","a":"fertile","en":"The soil of the delta is very fertile thanks to the regular flooding of the river.","alts":[],"form":""},
+      {"slot":"s|0","f":"sense","s":"Cette région agricole possède une terre ___ qui donne d'excellentes récoltes.","a":"fertile","en":"This farming region has fertile land that yields excellent harvests.","alts":[],"form":""},
+      {"slot":"s|1","f":"sense","s":"Après plusieurs traitements, le médecin a confirmé qu'elle était de nouveau ___.","a":"fertile","en":"After several treatments, the doctor confirmed that she was fertile again.","alts":[],"form":""},
+      {"slot":"s|1","f":"sense","s":"Ce couple très ___ a déjà eu six enfants en dix ans.","a":"fertile","en":"This very prolific couple has already had six children in ten years.","alts":[],"form":""},
+      {"slot":"s|2","f":"sense","s":"Cet écrivain possède une imagination ___ qui lui permet d'inventer des mondes fascinants.","a":"fertile","en":"This writer has a fertile imagination that allows him to invent fascinating worlds.","alts":[],"form":""},
+      {"slot":"s|2","f":"sense","s":"L'esprit ___ de cet enfant produit sans cesse de nouvelles histoires.","a":"fertile","en":"This child's fertile mind constantly produces new stories.","alts":[],"form":""},
+      {"slot":"g|mp","f":"agree","s":"Les champs de cette vallée sont particulièrement ___ cette année.","a":"fertiles","en":"The fields of this valley are particularly fertile this year.","alts":[],"form":""},
+      {"slot":"g|mp","f":"agree","s":"Ces terrains autrefois arides sont devenus ___ grâce à l'irrigation.","a":"fertiles","en":"These once-arid grounds have become fertile thanks to irrigation.","alts":[],"form":""},
+      {"slot":"g|f","f":"agree","s":"La terre de cette plaine est ___ depuis des siècles.","a":"fertile","en":"The land of this plain has been fertile for centuries.","alts":[],"form":""},
+      {"slot":"g|f","f":"agree","s":"Cette vallée est réputée pour être très ___.","a":"fertile","en":"This valley is known for being very fertile.","alts":[],"form":""},
+      {"slot":"g|fp","f":"agree","s":"Les terres qui bordent le fleuve sont extrêmement ___.","a":"fertiles","en":"The lands bordering the river are extremely fertile.","alts":[],"form":""},
+      {"slot":"g|fp","f":"agree","s":"Ces plaines sont ___ et produisent d'abondantes récoltes.","a":"fertiles","en":"These plains are fertile and produce abundant harvests.","alts":[],"form":""}
+    ]
+  }
+]

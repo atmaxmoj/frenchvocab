@@ -1,0 +1,1601 @@
+[
+  {
+    "id": 68,
+    "qs": [
+      {
+        "slot": "t|Présent|0",
+        "f": "tense",
+        "s": "Pour réussir cet examen, ___ travailler sérieusement.",
+        "a": "il faut",
+        "en": "To pass this exam, one must work seriously.",
+        "alts": [],
+        "form": "Présent"
+      },
+      {
+        "slot": "t|Présent|0",
+        "f": "tense",
+        "s": "___ du temps pour apprendre une nouvelle langue.",
+        "a": "Il faut",
+        "en": "It takes time to learn a new language.",
+        "alts": [],
+        "form": "Présent"
+      },
+      {
+        "slot": "t|Passé composé|0",
+        "f": "tense",
+        "s": "___ deux heures pour réparer la voiture hier.",
+        "a": "Il a fallu",
+        "en": "It took two hours to repair the car yesterday.",
+        "alts": [],
+        "form": "Passé composé"
+      },
+      {
+        "slot": "t|Passé composé|0",
+        "f": "tense",
+        "s": "Quand le train est tombé en panne, ___ attendre sur le quai.",
+        "a": "il a fallu",
+        "en": "When the train broke down, we had to wait on the platform.",
+        "alts": [],
+        "form": "Passé composé"
+      },
+      {
+        "slot": "t|Imparfait|0",
+        "f": "tense",
+        "s": "Quand j'étais enfant, ___ aller à l'école à pied chaque jour.",
+        "a": "il fallait",
+        "en": "When I was a child, one had to walk to school every day.",
+        "alts": [],
+        "form": "Imparfait"
+      },
+      {
+        "slot": "t|Imparfait|0",
+        "f": "tense",
+        "s": "Avant l'invention du téléphone, ___ écrire des lettres pour communiquer.",
+        "a": "il fallait",
+        "en": "Before the invention of the telephone, one had to write letters to communicate.",
+        "alts": [],
+        "form": "Imparfait"
+      },
+      {
+        "slot": "t|Futur|0",
+        "f": "tense",
+        "s": "Pour ce projet, ___ recruter au moins dix ingénieurs.",
+        "a": "il faudra",
+        "en": "For this project, it will be necessary to hire at least ten engineers.",
+        "alts": [],
+        "form": "Futur"
+      },
+      {
+        "slot": "t|Futur|0",
+        "f": "tense",
+        "s": "Demain matin, ___ partir avant sept heures pour éviter les embouteillages.",
+        "a": "il faudra",
+        "en": "Tomorrow morning, we will have to leave before seven o'clock to avoid traffic jams.",
+        "alts": [],
+        "form": "Futur"
+      },
+      {
+        "slot": "t|Conditionnel|0",
+        "f": "tense",
+        "s": "Pour vivre à Paris confortablement, ___ un salaire plus élevé.",
+        "a": "il faudrait",
+        "en": "To live comfortably in Paris, one would need a higher salary.",
+        "alts": [],
+        "form": "Conditionnel"
+      },
+      {
+        "slot": "t|Conditionnel|0",
+        "f": "tense",
+        "s": "Si tu voulais devenir médecin, ___ étudier pendant de nombreuses années.",
+        "a": "il faudrait",
+        "en": "If you wanted to become a doctor, you would have to study for many years.",
+        "alts": [],
+        "form": "Conditionnel"
+      },
+      {
+        "slot": "t|Subjonctif|0",
+        "f": "tense",
+        "s": "Je suis désolé ___ attendre si longtemps.",
+        "a": "qu'il faille",
+        "en": "I am sorry that it is necessary to wait so long.",
+        "alts": [],
+        "form": "Subjonctif"
+      },
+      {
+        "slot": "t|Subjonctif|0",
+        "f": "tense",
+        "s": "C'est dommage ___ partir si tôt.",
+        "a": "qu'il faille",
+        "en": "It is a pity that one has to leave so early.",
+        "alts": [],
+        "form": "Subjonctif"
+      },
+      {
+        "slot": "s|0",
+        "f": "sense",
+        "s": "Pour entrer dans ce club, ___ présenter une carte de membre.",
+        "a": "il faut",
+        "en": "To enter this club, one must present a membership card.",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "s|0",
+        "f": "sense",
+        "s": "Pour prendre cet avion, ___ arriver à l'aéroport deux heures à l'avance.",
+        "a": "il faut",
+        "en": "To catch this flight, one must arrive at the airport two hours in advance.",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "s|1",
+        "f": "sense",
+        "s": "Pour faire ce gâteau, ___ trois œufs et deux cents grammes de farine.",
+        "a": "il faut",
+        "en": "To make this cake, three eggs and two hundred grams of flour are needed.",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "s|1",
+        "f": "sense",
+        "s": "Pour rénover cet appartement, ___ environ six mois de travaux.",
+        "a": "il a fallu",
+        "en": "To renovate this apartment, about six months of work were needed.",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "s|2",
+        "f": "sense",
+        "s": "Tu as l'air fatigué ; ___ te reposer un peu.",
+        "a": "il faudrait",
+        "en": "You look tired; you ought to rest a little.",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "s|2",
+        "f": "sense",
+        "s": "Il fait très froid dehors ; ___ mettre un manteau avant de sortir.",
+        "a": "il faudrait",
+        "en": "It is very cold outside; one should put on a coat before going out.",
+        "alts": [],
+        "form": ""
+      }
+    ]
+  },
+  {
+    "id": 80,
+    "qs": [
+      {
+        "slot": "t|Présent|0",
+        "f": "tense",
+        "s": "Quand j'ai besoin d'aide, ___ de l'aide à mes collègues.",
+        "a": "je demande",
+        "en": "When I need help, I ask my colleagues for help.",
+        "alts": [],
+        "form": "Présent"
+      },
+      {
+        "slot": "t|Présent|0",
+        "f": "tense",
+        "s": "Chaque matin, ___ un café au bar du coin.",
+        "a": "je demande",
+        "en": "Every morning, I ask for a coffee at the corner bar.",
+        "alts": [],
+        "form": "Présent"
+      },
+      {
+        "slot": "t|Présent|1",
+        "f": "tense",
+        "s": "Tu ___ toujours la permission avant de sortir.",
+        "a": "tu demandes",
+        "en": "You always ask for permission before going out.",
+        "alts": [],
+        "form": "Présent"
+      },
+      {
+        "slot": "t|Présent|1",
+        "f": "tense",
+        "s": "Pourquoi ___ encore de l'argent à tes parents ?",
+        "a": "tu demandes",
+        "en": "Why do you keep asking your parents for money?",
+        "alts": [],
+        "form": "Présent"
+      },
+      {
+        "slot": "t|Présent|2",
+        "f": "tense",
+        "s": "Il ___ la direction à un passant dans la rue.",
+        "a": "il demande",
+        "en": "He asks a passerby for directions on the street.",
+        "alts": [],
+        "form": "Présent"
+      },
+      {
+        "slot": "t|Présent|2",
+        "f": "tense",
+        "s": "Elle ___ une explication à son professeur après le cours.",
+        "a": "elle demande",
+        "en": "She asks her teacher for an explanation after class.",
+        "alts": ["il demande"],
+        "form": "Présent"
+      },
+      {
+        "slot": "t|Présent|3",
+        "f": "tense",
+        "s": "Nous ___ un devis à plusieurs entreprises avant de choisir.",
+        "a": "nous demandons",
+        "en": "We ask several companies for a quote before choosing.",
+        "alts": [],
+        "form": "Présent"
+      },
+      {
+        "slot": "t|Présent|3",
+        "f": "tense",
+        "s": "Nous ___ rarement des faveurs à nos amis.",
+        "a": "nous demandons",
+        "en": "We rarely ask our friends for favors.",
+        "alts": [],
+        "form": "Présent"
+      },
+      {
+        "slot": "t|Présent|4",
+        "f": "tense",
+        "s": "Vous ___ trop souvent des prolongations pour vos projets.",
+        "a": "vous demandez",
+        "en": "You ask for extensions on your projects too often.",
+        "alts": [],
+        "form": "Présent"
+      },
+      {
+        "slot": "t|Présent|4",
+        "f": "tense",
+        "s": "Vous ___ l'addition au serveur à la fin du repas.",
+        "a": "vous demandez",
+        "en": "You ask the waiter for the bill at the end of the meal.",
+        "alts": [],
+        "form": "Présent"
+      },
+      {
+        "slot": "t|Présent|5",
+        "f": "tense",
+        "s": "Les étudiants ___ des précisions sur la date de l'examen.",
+        "a": "ils demandent",
+        "en": "The students ask for clarification on the exam date.",
+        "alts": ["elles demandent"],
+        "form": "Présent"
+      },
+      {
+        "slot": "t|Présent|5",
+        "f": "tense",
+        "s": "Mes enfants ___ un chien pour Noël chaque année.",
+        "a": "ils demandent",
+        "en": "My children ask for a dog for Christmas every year.",
+        "alts": ["elles demandent"],
+        "form": "Présent"
+      },
+      {
+        "slot": "t|Passé composé|0",
+        "f": "tense",
+        "s": "___ un rendez-vous chez le médecin hier matin.",
+        "a": "j'ai demandé",
+        "en": "I asked for an appointment at the doctor's yesterday morning.",
+        "alts": [],
+        "form": "Passé composé"
+      },
+      {
+        "slot": "t|Passé composé|0",
+        "f": "tense",
+        "s": "___ une augmentation à mon patron la semaine dernière.",
+        "a": "j'ai demandé",
+        "en": "I asked my boss for a raise last week.",
+        "alts": [],
+        "form": "Passé composé"
+      },
+      {
+        "slot": "t|Passé composé|1",
+        "f": "tense",
+        "s": "___ à la réceptionniste où se trouvait la salle de conférence.",
+        "a": "tu as demandé",
+        "en": "You asked the receptionist where the conference room was.",
+        "alts": [],
+        "form": "Passé composé"
+      },
+      {
+        "slot": "t|Passé composé|1",
+        "f": "tense",
+        "s": "Est-ce que ___ son numéro de téléphone quand tu l'as rencontré ?",
+        "a": "tu as demandé",
+        "en": "Did you ask for his phone number when you met him?",
+        "alts": [],
+        "form": "Passé composé"
+      },
+      {
+        "slot": "t|Passé composé|2",
+        "f": "tense",
+        "s": "___ la parole pendant la réunion pour poser une question.",
+        "a": "il a demandé",
+        "en": "He asked to speak during the meeting to ask a question.",
+        "alts": ["elle a demandé"],
+        "form": "Passé composé"
+      },
+      {
+        "slot": "t|Passé composé|2",
+        "f": "tense",
+        "s": "Le client ___ un remboursement après avoir reçu un article défectueux.",
+        "a": "il a demandé",
+        "en": "The customer asked for a refund after receiving a defective item.",
+        "alts": ["elle a demandé"],
+        "form": "Passé composé"
+      },
+      {
+        "slot": "t|Passé composé|3",
+        "f": "tense",
+        "s": "___ des renseignements à l'office de tourisme à notre arrivée.",
+        "a": "nous avons demandé",
+        "en": "We asked the tourist office for information upon our arrival.",
+        "alts": [],
+        "form": "Passé composé"
+      },
+      {
+        "slot": "t|Passé composé|3",
+        "f": "tense",
+        "s": "___ à être transférés dans un autre département l'an dernier.",
+        "a": "nous avons demandé",
+        "en": "We asked to be transferred to another department last year.",
+        "alts": [],
+        "form": "Passé composé"
+      },
+      {
+        "slot": "t|Passé composé|4",
+        "f": "tense",
+        "s": "___ l'avis d'un expert avant de signer le contrat.",
+        "a": "vous avez demandé",
+        "en": "You asked for an expert's opinion before signing the contract.",
+        "alts": [],
+        "form": "Passé composé"
+      },
+      {
+        "slot": "t|Passé composé|4",
+        "f": "tense",
+        "s": "___ un délai supplémentaire pour remettre votre rapport.",
+        "a": "vous avez demandé",
+        "en": "You asked for extra time to submit your report.",
+        "alts": [],
+        "form": "Passé composé"
+      },
+      {
+        "slot": "t|Passé composé|5",
+        "f": "tense",
+        "s": "Les voisins ___ à la mairie l'autorisation de construire une terrasse.",
+        "a": "ils ont demandé",
+        "en": "The neighbors asked the town hall for permission to build a terrace.",
+        "alts": ["elles ont demandé"],
+        "form": "Passé composé"
+      },
+      {
+        "slot": "t|Passé composé|5",
+        "f": "tense",
+        "s": "Les participants ___ des explications supplémentaires à la fin de la conférence.",
+        "a": "ils ont demandé",
+        "en": "The participants asked for additional explanations at the end of the conference.",
+        "alts": ["elles ont demandé"],
+        "form": "Passé composé"
+      },
+      {
+        "slot": "t|Imparfait|0",
+        "f": "tense",
+        "s": "Quand j'étais enfant, ___ souvent des histoires à ma grand-mère.",
+        "a": "je demandais",
+        "en": "When I was a child, I often asked my grandmother for stories.",
+        "alts": [],
+        "form": "Imparfait"
+      },
+      {
+        "slot": "t|Imparfait|0",
+        "f": "tense",
+        "s": "Dans mon ancien travail, ___ toujours la validation de mon chef avant d'agir.",
+        "a": "je demandais",
+        "en": "In my old job, I always asked my boss for approval before acting.",
+        "alts": [],
+        "form": "Imparfait"
+      },
+      {
+        "slot": "t|Imparfait|1",
+        "f": "tense",
+        "s": "Avant, ___ l'heure à des inconnus parce que tu n'avais pas de montre.",
+        "a": "tu demandais",
+        "en": "Before, you used to ask strangers for the time because you had no watch.",
+        "alts": [],
+        "form": "Imparfait"
+      },
+      {
+        "slot": "t|Imparfait|1",
+        "f": "tense",
+        "s": "Chaque fois que tu avais un doute, ___ conseil à ton mentor.",
+        "a": "tu demandais",
+        "en": "Every time you had a doubt, you asked your mentor for advice.",
+        "alts": [],
+        "form": "Imparfait"
+      },
+      {
+        "slot": "t|Imparfait|2",
+        "f": "tense",
+        "s": "Le directeur ___ des rapports hebdomadaires à toutes les équipes.",
+        "a": "il demandait",
+        "en": "The director used to ask all the teams for weekly reports.",
+        "alts": ["elle demandait"],
+        "form": "Imparfait"
+      },
+      {
+        "slot": "t|Imparfait|2",
+        "f": "tense",
+        "s": "Chaque soir, il ___ la même chose à sa femme : de la tranquillité.",
+        "a": "il demandait",
+        "en": "Every evening, he used to ask his wife for the same thing: peace and quiet.",
+        "alts": [],
+        "form": "Imparfait"
+      },
+      {
+        "slot": "t|Imparfait|3",
+        "f": "tense",
+        "s": "Nous ___ régulièrement de l'aide à nos professeurs pendant les révisions.",
+        "a": "nous demandions",
+        "en": "We regularly asked our teachers for help during revision sessions.",
+        "alts": [],
+        "form": "Imparfait"
+      },
+      {
+        "slot": "t|Imparfait|3",
+        "f": "tense",
+        "s": "À cette époque, ___ rarement la permission avant de prendre des décisions.",
+        "a": "nous demandions",
+        "en": "At that time, we rarely asked for permission before making decisions.",
+        "alts": [],
+        "form": "Imparfait"
+      },
+      {
+        "slot": "t|Imparfait|4",
+        "f": "tense",
+        "s": "Vous ___ toujours un reçu après chaque achat, c'était une bonne habitude.",
+        "a": "vous demandiez",
+        "en": "You always asked for a receipt after each purchase, it was a good habit.",
+        "alts": [],
+        "form": "Imparfait"
+      },
+      {
+        "slot": "t|Imparfait|4",
+        "f": "tense",
+        "s": "Vous ___ des précisions chaque fois que les instructions n'étaient pas claires.",
+        "a": "vous demandiez",
+        "en": "You used to ask for clarification whenever the instructions were not clear.",
+        "alts": [],
+        "form": "Imparfait"
+      },
+      {
+        "slot": "t|Imparfait|5",
+        "f": "tense",
+        "s": "Les clients ___ souvent une réduction lors de leurs achats en gros.",
+        "a": "ils demandaient",
+        "en": "Customers often asked for a discount when buying in bulk.",
+        "alts": ["elles demandaient"],
+        "form": "Imparfait"
+      },
+      {
+        "slot": "t|Imparfait|5",
+        "f": "tense",
+        "s": "Les enfants ___ toujours la même chanson au coucher.",
+        "a": "ils demandaient",
+        "en": "The children always asked for the same song at bedtime.",
+        "alts": ["elles demandaient"],
+        "form": "Imparfait"
+      },
+      {
+        "slot": "t|Futur|0",
+        "f": "tense",
+        "s": "La prochaine fois que je verrai mon patron, ___ une augmentation.",
+        "a": "je demanderai",
+        "en": "The next time I see my boss, I will ask for a raise.",
+        "alts": [],
+        "form": "Futur"
+      },
+      {
+        "slot": "t|Futur|0",
+        "f": "tense",
+        "s": "Demain matin, ___ les résultats de mes analyses au médecin.",
+        "a": "je demanderai",
+        "en": "Tomorrow morning, I will ask the doctor for my test results.",
+        "alts": [],
+        "form": "Futur"
+      },
+      {
+        "slot": "t|Futur|1",
+        "f": "tense",
+        "s": "Quand tu arriveras à la gare, ___ où se trouve le quai numéro cinq.",
+        "a": "tu demanderas",
+        "en": "When you arrive at the station, you will ask where platform five is.",
+        "alts": [],
+        "form": "Futur"
+      },
+      {
+        "slot": "t|Futur|1",
+        "f": "tense",
+        "s": "Si tu ne comprends pas, ___ des explications au formateur.",
+        "a": "tu demanderas",
+        "en": "If you don't understand, you will ask the trainer for explanations.",
+        "alts": [],
+        "form": "Futur"
+      },
+      {
+        "slot": "t|Futur|2",
+        "f": "tense",
+        "s": "Il ___ une confirmation écrite avant de signer l'accord.",
+        "a": "il demandera",
+        "en": "He will ask for written confirmation before signing the agreement.",
+        "alts": ["elle demandera"],
+        "form": "Futur"
+      },
+      {
+        "slot": "t|Futur|2",
+        "f": "tense",
+        "s": "Le juge ___ des preuves supplémentaires lors de la prochaine audience.",
+        "a": "il demandera",
+        "en": "The judge will ask for additional evidence at the next hearing.",
+        "alts": ["elle demandera"],
+        "form": "Futur"
+      },
+      {
+        "slot": "t|Futur|3",
+        "f": "tense",
+        "s": "Nous ___ un délai de réflexion avant de donner notre réponse définitive.",
+        "a": "nous demanderons",
+        "en": "We will ask for time to think before giving our final answer.",
+        "alts": [],
+        "form": "Futur"
+      },
+      {
+        "slot": "t|Futur|3",
+        "f": "tense",
+        "s": "Au bureau, ___ un nouveau matériel informatique dès la prochaine réunion.",
+        "a": "nous demanderons",
+        "en": "At the office, we will ask for new computer equipment at the next meeting.",
+        "alts": [],
+        "form": "Futur"
+      },
+      {
+        "slot": "t|Futur|4",
+        "f": "tense",
+        "s": "Vous ___ des informations complémentaires à l'agence immobilière avant de visiter.",
+        "a": "vous demanderez",
+        "en": "You will ask the real estate agency for additional information before visiting.",
+        "alts": [],
+        "form": "Futur"
+      },
+      {
+        "slot": "t|Futur|4",
+        "f": "tense",
+        "s": "Lors du prochain entretien, vous ___ des précisions sur le poste et les conditions.",
+        "a": "vous demanderez",
+        "en": "At the next interview, you will ask for details about the position and the conditions.",
+        "alts": [],
+        "form": "Futur"
+      },
+      {
+        "slot": "t|Futur|5",
+        "f": "tense",
+        "s": "Les syndicats ___ de meilleures conditions de travail lors des prochaines négociations.",
+        "a": "ils demanderont",
+        "en": "The unions will ask for better working conditions in the next negotiations.",
+        "alts": ["elles demanderont"],
+        "form": "Futur"
+      },
+      {
+        "slot": "t|Futur|5",
+        "f": "tense",
+        "s": "Les invités ___ sans doute des précisions sur le lieu de la fête.",
+        "a": "ils demanderont",
+        "en": "The guests will no doubt ask for details about the venue of the party.",
+        "alts": ["elles demanderont"],
+        "form": "Futur"
+      },
+      {
+        "slot": "t|Conditionnel|0",
+        "f": "tense",
+        "s": "Si j'avais le courage, ___ une augmentation à mon employeur.",
+        "a": "je demanderais",
+        "en": "If I had the courage, I would ask my employer for a raise.",
+        "alts": [],
+        "form": "Conditionnel"
+      },
+      {
+        "slot": "t|Conditionnel|0",
+        "f": "tense",
+        "s": "À ta place, ___ des excuses à la personne que j'ai blessée.",
+        "a": "je demanderais",
+        "en": "If I were you, I would ask for an apology from the person I hurt.",
+        "alts": [],
+        "form": "Conditionnel"
+      },
+      {
+        "slot": "t|Conditionnel|1",
+        "f": "tense",
+        "s": "Si tu avais besoin d'argent, ___ un prêt à ta banque ?",
+        "a": "tu demanderais",
+        "en": "If you needed money, would you ask your bank for a loan?",
+        "alts": [],
+        "form": "Conditionnel"
+      },
+      {
+        "slot": "t|Conditionnel|1",
+        "f": "tense",
+        "s": "Tu ___ de l'aide à quelqu'un si tu étais perdu en forêt ?",
+        "a": "tu demanderais",
+        "en": "Would you ask someone for help if you were lost in the forest?",
+        "alts": [],
+        "form": "Conditionnel"
+      },
+      {
+        "slot": "t|Conditionnel|2",
+        "f": "tense",
+        "s": "Il ___ volontiers un avis médical s'il avait les moyens.",
+        "a": "il demanderait",
+        "en": "He would willingly ask for a medical opinion if he had the means.",
+        "alts": ["elle demanderait"],
+        "form": "Conditionnel"
+      },
+      {
+        "slot": "t|Conditionnel|2",
+        "f": "tense",
+        "s": "Dans une telle situation, il ___ l'intervention des autorités sans hésiter.",
+        "a": "il demanderait",
+        "en": "In such a situation, he would ask for the authorities' intervention without hesitation.",
+        "alts": ["elle demanderait"],
+        "form": "Conditionnel"
+      },
+      {
+        "slot": "t|Conditionnel|3",
+        "f": "tense",
+        "s": "Si nous avions plus de temps, ___ des conseils juridiques avant de signer.",
+        "a": "nous demanderions",
+        "en": "If we had more time, we would ask for legal advice before signing.",
+        "alts": [],
+        "form": "Conditionnel"
+      },
+      {
+        "slot": "t|Conditionnel|3",
+        "f": "tense",
+        "s": "Avec un budget plus grand, ___ un devis à plusieurs prestataires.",
+        "a": "nous demanderions",
+        "en": "With a larger budget, we would ask several providers for a quote.",
+        "alts": [],
+        "form": "Conditionnel"
+      },
+      {
+        "slot": "t|Conditionnel|4",
+        "f": "tense",
+        "s": "Vous ___ une chambre avec vue sur la mer si le prix était raisonnable.",
+        "a": "vous demanderiez",
+        "en": "You would ask for a room with a sea view if the price were reasonable.",
+        "alts": [],
+        "form": "Conditionnel"
+      },
+      {
+        "slot": "t|Conditionnel|4",
+        "f": "tense",
+        "s": "Si vous étiez à ma place, ___ une seconde opinion à un autre médecin ?",
+        "a": "vous demanderiez",
+        "en": "If you were in my position, would you ask another doctor for a second opinion?",
+        "alts": [],
+        "form": "Conditionnel"
+      },
+      {
+        "slot": "t|Conditionnel|5",
+        "f": "tense",
+        "s": "Mes enfants ___ une tablette pour leur anniversaire s'ils en avaient le choix.",
+        "a": "ils demanderaient",
+        "en": "My children would ask for a tablet for their birthday if they had the choice.",
+        "alts": ["elles demanderaient"],
+        "form": "Conditionnel"
+      },
+      {
+        "slot": "t|Conditionnel|5",
+        "f": "tense",
+        "s": "Les employés ___ une prime si leurs résultats dépassaient les objectifs.",
+        "a": "ils demanderaient",
+        "en": "The employees would ask for a bonus if their results exceeded the targets.",
+        "alts": ["elles demanderaient"],
+        "form": "Conditionnel"
+      },
+      {
+        "slot": "t|Subjonctif|0",
+        "f": "tense",
+        "s": "Mon chef préfère ___ moi-même de l'aide plutôt que d'échouer seul.",
+        "a": "que je demande",
+        "en": "My boss prefers that I ask for help myself rather than fail alone.",
+        "alts": [],
+        "form": "Subjonctif"
+      },
+      {
+        "slot": "t|Subjonctif|0",
+        "f": "tense",
+        "s": "Il est important ___ la permission avant d'entrer dans ce bureau.",
+        "a": "que je demande",
+        "en": "It is important that I ask for permission before entering this office.",
+        "alts": [],
+        "form": "Subjonctif"
+      },
+      {
+        "slot": "t|Subjonctif|1",
+        "f": "tense",
+        "s": "Le médecin veut ___ un deuxième avis médical avant l'opération.",
+        "a": "que tu demandes",
+        "en": "The doctor wants you to ask for a second medical opinion before the operation.",
+        "alts": [],
+        "form": "Subjonctif"
+      },
+      {
+        "slot": "t|Subjonctif|1",
+        "f": "tense",
+        "s": "Il faut ___ l'autorisation à l'administration avant de prendre ces jours de congé.",
+        "a": "que tu demandes",
+        "en": "You must ask the administration for permission before taking those days off.",
+        "alts": [],
+        "form": "Subjonctif"
+      },
+      {
+        "slot": "t|Subjonctif|2",
+        "f": "tense",
+        "s": "Je souhaite ___ des explications sur ce point lors de la réunion.",
+        "a": "qu'il demande",
+        "en": "I wish he would ask for explanations on this point during the meeting.",
+        "alts": ["qu'elle demande"],
+        "form": "Subjonctif"
+      },
+      {
+        "slot": "t|Subjonctif|2",
+        "f": "tense",
+        "s": "Il est nécessaire ___ un remboursement dans les 30 jours suivant l'achat.",
+        "a": "qu'il demande",
+        "en": "It is necessary that he ask for a refund within 30 days of purchase.",
+        "alts": ["qu'elle demande"],
+        "form": "Subjonctif"
+      },
+      {
+        "slot": "t|Subjonctif|3",
+        "f": "tense",
+        "s": "Le directeur exige ___ une validation officielle avant de lancer le projet.",
+        "a": "que nous demandions",
+        "en": "The director requires that we ask for official approval before launching the project.",
+        "alts": [],
+        "form": "Subjonctif"
+      },
+      {
+        "slot": "t|Subjonctif|3",
+        "f": "tense",
+        "s": "Il vaut mieux ___ des précisions plutôt que de faire des erreurs.",
+        "a": "que nous demandions",
+        "en": "It is better that we ask for clarification rather than make mistakes.",
+        "alts": [],
+        "form": "Subjonctif"
+      },
+      {
+        "slot": "t|Subjonctif|4",
+        "f": "tense",
+        "s": "Le règlement exige ___ une autorisation écrite pour chaque sortie.",
+        "a": "que vous demandiez",
+        "en": "The rules require that you ask for written authorization for each outing.",
+        "alts": [],
+        "form": "Subjonctif"
+      },
+      {
+        "slot": "t|Subjonctif|4",
+        "f": "tense",
+        "s": "Je tiens à ___ l'avis de l'équipe avant de prendre une décision.",
+        "a": "que vous demandiez",
+        "en": "I insist that you ask the team for their opinion before making a decision.",
+        "alts": [],
+        "form": "Subjonctif"
+      },
+      {
+        "slot": "t|Subjonctif|5",
+        "f": "tense",
+        "s": "La direction préfère ___ eux-mêmes les ressources nécessaires.",
+        "a": "qu'ils demandent",
+        "en": "Management prefers that they ask for the necessary resources themselves.",
+        "alts": ["qu'elles demandent"],
+        "form": "Subjonctif"
+      },
+      {
+        "slot": "t|Subjonctif|5",
+        "f": "tense",
+        "s": "Il est indispensable ___ une aide professionnelle dans cette situation grave.",
+        "a": "qu'ils demandent",
+        "en": "It is essential that they ask for professional help in this serious situation.",
+        "alts": ["qu'elles demandent"],
+        "form": "Subjonctif"
+      },
+      {
+        "slot": "s|0",
+        "f": "sense",
+        "s": "Elle lui ___ une faveur : garder ses enfants pour la soirée.",
+        "a": "demande",
+        "en": "She asks him a favor: to look after her children for the evening. (sense: to request)",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "s|0",
+        "f": "sense",
+        "s": "Je lui ai ___ de m'aider à porter les cartons.",
+        "a": "demandé",
+        "en": "I asked him to help me carry the boxes. (sense: to request)",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "s|1",
+        "f": "sense",
+        "s": "Il m'a ___ mon prénom pour remplir le formulaire.",
+        "a": "demandé",
+        "en": "He asked me for my first name to fill in the form. (sense: to inquire / ask for information)",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "s|1",
+        "f": "sense",
+        "s": "Elle ___ au guide l'heure d'ouverture du musée.",
+        "a": "demande",
+        "en": "She asks the guide what time the museum opens. (sense: to inquire)",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "s|2",
+        "f": "sense",
+        "s": "Le syndicat ___ de meilleures conditions de travail et un salaire plus élevé.",
+        "a": "demande",
+        "en": "The union demands better working conditions and a higher salary. (sense: to demand / require)",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "s|2",
+        "f": "sense",
+        "s": "La loi ___ que chaque employé soit couvert par une assurance professionnelle.",
+        "a": "demande",
+        "en": "The law requires that every employee be covered by professional insurance. (sense: to require / demand)",
+        "alts": [],
+        "form": ""
+      }
+    ]
+  },
+  {
+    "id": 95,
+    "qs": [
+      {
+        "slot": "t|Présent|0",
+        "f": "tense",
+        "s": "Quand tu m'expliques lentement, ___ mieux la leçon.",
+        "a": "je comprends",
+        "en": "When you explain slowly to me, I understand the lesson better.",
+        "alts": [],
+        "form": "Présent"
+      },
+      {
+        "slot": "t|Présent|0",
+        "f": "tense",
+        "s": "___ pourquoi tu es en colère, mais je ne suis pas d'accord.",
+        "a": "je comprends",
+        "en": "I understand why you are angry, but I don't agree.",
+        "alts": [],
+        "form": "Présent"
+      },
+      {
+        "slot": "t|Présent|1",
+        "f": "tense",
+        "s": "Est-ce que ___ ce que je veux dire ?",
+        "a": "tu comprends",
+        "en": "Do you understand what I mean?",
+        "alts": [],
+        "form": "Présent"
+      },
+      {
+        "slot": "t|Présent|1",
+        "f": "tense",
+        "s": "___ le français quand on parle vite ?",
+        "a": "tu comprends",
+        "en": "Do you understand French when people speak fast?",
+        "alts": [],
+        "form": "Présent"
+      },
+      {
+        "slot": "t|Présent|2",
+        "f": "tense",
+        "s": "Mon fils ___ les mathématiques très facilement.",
+        "a": "il comprend",
+        "en": "My son understands mathematics very easily.",
+        "alts": [],
+        "form": "Présent"
+      },
+      {
+        "slot": "t|Présent|2",
+        "f": "tense",
+        "s": "Ce tarif ___ le petit-déjeuner.",
+        "a": "il comprend",
+        "en": "This rate includes breakfast.",
+        "alts": [],
+        "form": "Présent"
+      },
+      {
+        "slot": "t|Présent|3",
+        "f": "tense",
+        "s": "Nous ___ maintenant pourquoi ce projet a échoué.",
+        "a": "nous comprenons",
+        "en": "We now understand why this project failed.",
+        "alts": [],
+        "form": "Présent"
+      },
+      {
+        "slot": "t|Présent|3",
+        "f": "tense",
+        "s": "Nous ___ ta décision et nous la respectons.",
+        "a": "nous comprenons",
+        "en": "We understand your decision and we respect it.",
+        "alts": [],
+        "form": "Présent"
+      },
+      {
+        "slot": "t|Présent|4",
+        "f": "tense",
+        "s": "Est-ce que ___ les instructions sur cette page ?",
+        "a": "vous comprenez",
+        "en": "Do you understand the instructions on this page?",
+        "alts": [],
+        "form": "Présent"
+      },
+      {
+        "slot": "t|Présent|4",
+        "f": "tense",
+        "s": "Je vois que ___ bien la situation.",
+        "a": "vous comprenez",
+        "en": "I can see that you understand the situation well.",
+        "alts": [],
+        "form": "Présent"
+      },
+      {
+        "slot": "t|Présent|5",
+        "f": "tense",
+        "s": "Les étudiants ___ rapidement les nouvelles règles.",
+        "a": "ils comprennent",
+        "en": "The students understand the new rules quickly.",
+        "alts": [],
+        "form": "Présent"
+      },
+      {
+        "slot": "t|Présent|5",
+        "f": "tense",
+        "s": "Mes parents ___ mes inquiétudes.",
+        "a": "ils comprennent",
+        "en": "My parents understand my worries.",
+        "alts": [],
+        "form": "Présent"
+      },
+      {
+        "slot": "t|Passé composé|0",
+        "f": "tense",
+        "s": "Après la deuxième explication, ___ enfin la règle.",
+        "a": "j'ai compris",
+        "en": "After the second explanation, I finally understood the rule.",
+        "alts": [],
+        "form": "Passé composé"
+      },
+      {
+        "slot": "t|Passé composé|0",
+        "f": "tense",
+        "s": "___ ce qu'il voulait dire dès la première phrase.",
+        "a": "j'ai compris",
+        "en": "I understood what he meant from the very first sentence.",
+        "alts": [],
+        "form": "Passé composé"
+      },
+      {
+        "slot": "t|Passé composé|1",
+        "f": "tense",
+        "s": "Est-ce que ___ la question du professeur ?",
+        "a": "tu as compris",
+        "en": "Did you understand the teacher's question?",
+        "alts": [],
+        "form": "Passé composé"
+      },
+      {
+        "slot": "t|Passé composé|1",
+        "f": "tense",
+        "s": "Hier, lors de l'entretien, ___ toutes les questions du jury.",
+        "a": "tu as compris",
+        "en": "Yesterday, during the interview, you understood all the questions from the panel.",
+        "alts": [],
+        "form": "Passé composé"
+      },
+      {
+        "slot": "t|Passé composé|2",
+        "f": "tense",
+        "s": "Le mécanicien ___ le problème du moteur tout de suite.",
+        "a": "il a compris",
+        "en": "The mechanic understood the engine problem right away.",
+        "alts": [],
+        "form": "Passé composé"
+      },
+      {
+        "slot": "t|Passé composé|2",
+        "f": "tense",
+        "s": "Ce contrat ___ toutes les conditions de livraison.",
+        "a": "il a compris",
+        "en": "This contract included all the delivery conditions.",
+        "alts": [],
+        "form": "Passé composé"
+      },
+      {
+        "slot": "t|Passé composé|3",
+        "f": "tense",
+        "s": "Nous ___ enfin le sens de cette expression idiomatique.",
+        "a": "nous avons compris",
+        "en": "We finally understood the meaning of this idiomatic expression.",
+        "alts": [],
+        "form": "Passé composé"
+      },
+      {
+        "slot": "t|Passé composé|3",
+        "f": "tense",
+        "s": "Heureusement, ___ les directives avant la réunion.",
+        "a": "nous avons compris",
+        "en": "Fortunately, we understood the guidelines before the meeting.",
+        "alts": [],
+        "form": "Passé composé"
+      },
+      {
+        "slot": "t|Passé composé|4",
+        "f": "tense",
+        "s": "Est-ce que ___ pourquoi la livraison a été retardée ?",
+        "a": "vous avez compris",
+        "en": "Did you understand why the delivery was delayed?",
+        "alts": [],
+        "form": "Passé composé"
+      },
+      {
+        "slot": "t|Passé composé|4",
+        "f": "tense",
+        "s": "Je suppose que ___ les conditions du contrat.",
+        "a": "vous avez compris",
+        "en": "I assume you understood the terms of the contract.",
+        "alts": [],
+        "form": "Passé composé"
+      },
+      {
+        "slot": "t|Passé composé|5",
+        "f": "tense",
+        "s": "Les enfants ___ l'histoire racontée par leur grand-mère.",
+        "a": "ils ont compris",
+        "en": "The children understood the story told by their grandmother.",
+        "alts": [],
+        "form": "Passé composé"
+      },
+      {
+        "slot": "t|Passé composé|5",
+        "f": "tense",
+        "s": "Tous les participants ___ les règles du jeu.",
+        "a": "ils ont compris",
+        "en": "All the participants understood the rules of the game.",
+        "alts": [],
+        "form": "Passé composé"
+      },
+      {
+        "slot": "t|Imparfait|0",
+        "f": "tense",
+        "s": "Quand j'étais enfant, ___ difficilement les blagues des adultes.",
+        "a": "je comprenais",
+        "en": "When I was a child, I understood adults' jokes with difficulty.",
+        "alts": [],
+        "form": "Imparfait"
+      },
+      {
+        "slot": "t|Imparfait|0",
+        "f": "tense",
+        "s": "À l'époque, ___ très peu l'anglais.",
+        "a": "je comprenais",
+        "en": "At that time, I understood very little English.",
+        "alts": [],
+        "form": "Imparfait"
+      },
+      {
+        "slot": "t|Imparfait|1",
+        "f": "tense",
+        "s": "Tu ___ mieux le cours quand tu lisais le livre en avance.",
+        "a": "tu comprenais",
+        "en": "You understood the class better when you read the book in advance.",
+        "alts": [],
+        "form": "Imparfait"
+      },
+      {
+        "slot": "t|Imparfait|1",
+        "f": "tense",
+        "s": "Avant, ___ ses intentions, mais maintenant tu en doutes.",
+        "a": "tu comprenais",
+        "en": "Before, you understood his intentions, but now you doubt them.",
+        "alts": [],
+        "form": "Imparfait"
+      },
+      {
+        "slot": "t|Imparfait|2",
+        "f": "tense",
+        "s": "Mon grand-père ne ___ pas les nouvelles technologies.",
+        "a": "il comprenait",
+        "en": "My grandfather did not understand new technologies.",
+        "alts": [],
+        "form": "Imparfait"
+      },
+      {
+        "slot": "t|Imparfait|2",
+        "f": "tense",
+        "s": "Ce forfait ___ l'accès illimité à Internet.",
+        "a": "il comprenait",
+        "en": "This package included unlimited Internet access.",
+        "alts": [],
+        "form": "Imparfait"
+      },
+      {
+        "slot": "t|Imparfait|3",
+        "f": "tense",
+        "s": "Nous ___ mal le dialecte local au début de notre séjour.",
+        "a": "nous comprenions",
+        "en": "We understood the local dialect poorly at the start of our stay.",
+        "alts": [],
+        "form": "Imparfait"
+      },
+      {
+        "slot": "t|Imparfait|3",
+        "f": "tense",
+        "s": "Autrefois, ___ davantage les traditions de ce village.",
+        "a": "nous comprenions",
+        "en": "In the past, we understood the traditions of this village better.",
+        "alts": [],
+        "form": "Imparfait"
+      },
+      {
+        "slot": "t|Imparfait|4",
+        "f": "tense",
+        "s": "Vous ___ instinctivement ce que l'on attendait de vous.",
+        "a": "vous compreniez",
+        "en": "You instinctively understood what was expected of you.",
+        "alts": [],
+        "form": "Imparfait"
+      },
+      {
+        "slot": "t|Imparfait|4",
+        "f": "tense",
+        "s": "À cette époque, ___ les enjeux de la situation mieux que nous.",
+        "a": "vous compreniez",
+        "en": "At that time, you understood the stakes of the situation better than us.",
+        "alts": [],
+        "form": "Imparfait"
+      },
+      {
+        "slot": "t|Imparfait|5",
+        "f": "tense",
+        "s": "Les élèves ___ mieux quand le professeur donnait des exemples.",
+        "a": "ils comprenaient",
+        "en": "The pupils understood better when the teacher gave examples.",
+        "alts": [],
+        "form": "Imparfait"
+      },
+      {
+        "slot": "t|Imparfait|5",
+        "f": "tense",
+        "s": "Mes collègues ne ___ pas toujours les décisions du directeur.",
+        "a": "ils comprenaient",
+        "en": "My colleagues did not always understand the director's decisions.",
+        "alts": [],
+        "form": "Imparfait"
+      },
+      {
+        "slot": "t|Futur|0",
+        "f": "tense",
+        "s": "Avec de la pratique, ___ mieux l'accent québécois.",
+        "a": "je comprendrai",
+        "en": "With practice, I will understand the Quebec accent better.",
+        "alts": [],
+        "form": "Futur"
+      },
+      {
+        "slot": "t|Futur|0",
+        "f": "tense",
+        "s": "Un jour, ___ la raison de son silence.",
+        "a": "je comprendrai",
+        "en": "One day, I will understand the reason for his silence.",
+        "alts": [],
+        "form": "Futur"
+      },
+      {
+        "slot": "t|Futur|1",
+        "f": "tense",
+        "s": "Quand tu seras plus grand, ___ pourquoi c'était important.",
+        "a": "tu comprendras",
+        "en": "When you are older, you will understand why it was important.",
+        "alts": [],
+        "form": "Futur"
+      },
+      {
+        "slot": "t|Futur|1",
+        "f": "tense",
+        "s": "Après avoir lu ce livre, ___ mieux la culture japonaise.",
+        "a": "tu comprendras",
+        "en": "After reading this book, you will understand Japanese culture better.",
+        "alts": [],
+        "form": "Futur"
+      },
+      {
+        "slot": "t|Futur|2",
+        "f": "tense",
+        "s": "Ce nouveau manuel ___ des exercices pratiques.",
+        "a": "il comprendra",
+        "en": "This new textbook will include practical exercises.",
+        "alts": [],
+        "form": "Futur"
+      },
+      {
+        "slot": "t|Futur|2",
+        "f": "tense",
+        "s": "Pierre ___ vite de quoi il s'agit.",
+        "a": "il comprendra",
+        "en": "Pierre will quickly understand what it is about.",
+        "alts": [],
+        "form": "Futur"
+      },
+      {
+        "slot": "t|Futur|3",
+        "f": "tense",
+        "s": "Nous ___ la décision du jury après la délibération.",
+        "a": "nous comprendrons",
+        "en": "We will understand the jury's decision after the deliberation.",
+        "alts": [],
+        "form": "Futur"
+      },
+      {
+        "slot": "t|Futur|3",
+        "f": "tense",
+        "s": "Je pense que ___ mieux le problème après la présentation.",
+        "a": "nous comprendrons",
+        "en": "I think we will understand the problem better after the presentation.",
+        "alts": [],
+        "form": "Futur"
+      },
+      {
+        "slot": "t|Futur|4",
+        "f": "tense",
+        "s": "Avec cette formation, ___ toutes les fonctionnalités du logiciel.",
+        "a": "vous comprendrez",
+        "en": "With this training, you will understand all the features of the software.",
+        "alts": [],
+        "form": "Futur"
+      },
+      {
+        "slot": "t|Futur|4",
+        "f": "tense",
+        "s": "Demain, après ma lettre, ___ pourquoi j'ai pris cette décision.",
+        "a": "vous comprendrez",
+        "en": "Tomorrow, after my letter, you will understand why I made this decision.",
+        "alts": [],
+        "form": "Futur"
+      },
+      {
+        "slot": "t|Futur|5",
+        "f": "tense",
+        "s": "Les ingénieurs ___ les résultats des tests la semaine prochaine.",
+        "a": "ils comprendront",
+        "en": "The engineers will understand the test results next week.",
+        "alts": [],
+        "form": "Futur"
+      },
+      {
+        "slot": "t|Futur|5",
+        "f": "tense",
+        "s": "Dès qu'ils liront le rapport, ils ___ la gravité du problème.",
+        "a": "ils comprendront",
+        "en": "As soon as they read the report, they will understand the severity of the problem.",
+        "alts": [],
+        "form": "Futur"
+      },
+      {
+        "slot": "t|Conditionnel|0",
+        "f": "tense",
+        "s": "Avec un dictionnaire, ___ mieux le texte.",
+        "a": "je comprendrais",
+        "en": "With a dictionary, I would understand the text better.",
+        "alts": [],
+        "form": "Conditionnel"
+      },
+      {
+        "slot": "t|Conditionnel|0",
+        "f": "tense",
+        "s": "Si tu m'expliquais clairement, ___ ta position.",
+        "a": "je comprendrais",
+        "en": "If you explained clearly to me, I would understand your position.",
+        "alts": [],
+        "form": "Conditionnel"
+      },
+      {
+        "slot": "t|Conditionnel|1",
+        "f": "tense",
+        "s": "Si tu lisais les instructions, ___ comment faire.",
+        "a": "tu comprendrais",
+        "en": "If you read the instructions, you would understand how to do it.",
+        "alts": [],
+        "form": "Conditionnel"
+      },
+      {
+        "slot": "t|Conditionnel|1",
+        "f": "tense",
+        "s": "En écoutant plus attentivement, ___ mieux les nuances.",
+        "a": "tu comprendrais",
+        "en": "By listening more carefully, you would understand the nuances better.",
+        "alts": [],
+        "form": "Conditionnel"
+      },
+      {
+        "slot": "t|Conditionnel|2",
+        "f": "tense",
+        "s": "Si Paul était là, ___ immédiatement le problème.",
+        "a": "il comprendrait",
+        "en": "If Paul were here, he would understand the problem immediately.",
+        "alts": [],
+        "form": "Conditionnel"
+      },
+      {
+        "slot": "t|Conditionnel|2",
+        "f": "tense",
+        "s": "Ce billet ___ le transport depuis l'aéroport.",
+        "a": "il comprendrait",
+        "en": "This ticket would include transport from the airport.",
+        "alts": [],
+        "form": "Conditionnel"
+      },
+      {
+        "slot": "t|Conditionnel|3",
+        "f": "tense",
+        "s": "Avec plus de contexte, ___ mieux la situation.",
+        "a": "nous comprendrions",
+        "en": "With more context, we would understand the situation better.",
+        "alts": [],
+        "form": "Conditionnel"
+      },
+      {
+        "slot": "t|Conditionnel|3",
+        "f": "tense",
+        "s": "Si on nous expliquait les raisons, ___ votre refus.",
+        "a": "nous comprendrions",
+        "en": "If you explained the reasons to us, we would understand your refusal.",
+        "alts": [],
+        "form": "Conditionnel"
+      },
+      {
+        "slot": "t|Conditionnel|4",
+        "f": "tense",
+        "s": "Si vous parliez plus lentement, ___ chaque mot.",
+        "a": "vous comprendriez",
+        "en": "If you spoke more slowly, you would understand every word.",
+        "alts": [],
+        "form": "Conditionnel"
+      },
+      {
+        "slot": "t|Conditionnel|4",
+        "f": "tense",
+        "s": "En lisant ce manuel, ___ toutes les procédures.",
+        "a": "vous comprendriez",
+        "en": "By reading this manual, you would understand all the procedures.",
+        "alts": [],
+        "form": "Conditionnel"
+      },
+      {
+        "slot": "t|Conditionnel|5",
+        "f": "tense",
+        "s": "Si on leur montrait les données, ils ___ l'ampleur du phénomène.",
+        "a": "ils comprendraient",
+        "en": "If they were shown the data, they would understand the scale of the phenomenon.",
+        "alts": [],
+        "form": "Conditionnel"
+      },
+      {
+        "slot": "t|Conditionnel|5",
+        "f": "tense",
+        "s": "Avec une bonne traduction, ils ___ ce texte ancien.",
+        "a": "ils comprendraient",
+        "en": "With a good translation, they would understand this ancient text.",
+        "alts": [],
+        "form": "Conditionnel"
+      },
+      {
+        "slot": "t|Subjonctif|0",
+        "f": "tense",
+        "s": "Il est essentiel ___ les consignes de sécurité.",
+        "a": "que je comprenne",
+        "en": "It is essential that I understand the safety instructions.",
+        "alts": [],
+        "form": "Subjonctif"
+      },
+      {
+        "slot": "t|Subjonctif|0",
+        "f": "tense",
+        "s": "Mon professeur souhaite ___ mieux la grammaire française.",
+        "a": "que je comprenne",
+        "en": "My teacher wishes that I understand French grammar better.",
+        "alts": [],
+        "form": "Subjonctif"
+      },
+      {
+        "slot": "t|Subjonctif|1",
+        "f": "tense",
+        "s": "Je veux ___ l'importance de cette décision.",
+        "a": "que tu comprennes",
+        "en": "I want you to understand the importance of this decision.",
+        "alts": [],
+        "form": "Subjonctif"
+      },
+      {
+        "slot": "t|Subjonctif|1",
+        "f": "tense",
+        "s": "Il est important ___ les risques avant de signer.",
+        "a": "que tu comprennes",
+        "en": "It is important that you understand the risks before signing.",
+        "alts": [],
+        "form": "Subjonctif"
+      },
+      {
+        "slot": "t|Subjonctif|2",
+        "f": "tense",
+        "s": "Nous souhaitons ___ la valeur de cet héritage culturel.",
+        "a": "qu'il comprenne",
+        "en": "We wish that he understands the value of this cultural heritage.",
+        "alts": [],
+        "form": "Subjonctif"
+      },
+      {
+        "slot": "t|Subjonctif|2",
+        "f": "tense",
+        "s": "Il faut ___ les conséquences de ses actes.",
+        "a": "qu'il comprenne",
+        "en": "It is necessary that he understands the consequences of his actions.",
+        "alts": [],
+        "form": "Subjonctif"
+      },
+      {
+        "slot": "t|Subjonctif|3",
+        "f": "tense",
+        "s": "Le directeur exige ___ ce changement de politique.",
+        "a": "que nous comprenions",
+        "en": "The director requires that we understand this policy change.",
+        "alts": [],
+        "form": "Subjonctif"
+      },
+      {
+        "slot": "t|Subjonctif|3",
+        "f": "tense",
+        "s": "Il vaut mieux ___ les règles avant de jouer.",
+        "a": "que nous comprenions",
+        "en": "It is better that we understand the rules before playing.",
+        "alts": [],
+        "form": "Subjonctif"
+      },
+      {
+        "slot": "t|Subjonctif|4",
+        "f": "tense",
+        "s": "Il est indispensable ___ les termes de ce contrat.",
+        "a": "que vous compreniez",
+        "en": "It is indispensable that you understand the terms of this contract.",
+        "alts": [],
+        "form": "Subjonctif"
+      },
+      {
+        "slot": "t|Subjonctif|4",
+        "f": "tense",
+        "s": "Je tiens à ___ l'urgence de la situation.",
+        "a": "que vous compreniez",
+        "en": "I insist that you understand the urgency of the situation.",
+        "alts": [],
+        "form": "Subjonctif"
+      },
+      {
+        "slot": "t|Subjonctif|5",
+        "f": "tense",
+        "s": "Nous espérons ___ l'intérêt de notre proposition.",
+        "a": "qu'ils comprennent",
+        "en": "We hope that they understand the interest of our proposal.",
+        "alts": [],
+        "form": "Subjonctif"
+      },
+      {
+        "slot": "t|Subjonctif|5",
+        "f": "tense",
+        "s": "Il est dommage ___ si mal les instructions.",
+        "a": "qu'ils comprennent",
+        "en": "It is a pity that they understand the instructions so poorly.",
+        "alts": [],
+        "form": "Subjonctif"
+      },
+      {
+        "slot": "s|0",
+        "f": "sense",
+        "s": "Je lis beaucoup de philosophie pour mieux ___ la pensée humaine.",
+        "a": "comprendre",
+        "en": "I read a lot of philosophy to better understand human thought.",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "s|0",
+        "f": "sense",
+        "s": "Il est difficile de vraiment ___ une culture étrangère sans y vivre.",
+        "a": "comprendre",
+        "en": "It is difficult to truly understand a foreign culture without living there.",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "s|1",
+        "f": "sense",
+        "s": "Tu n'as pas besoin de me répéter cela, j'ai bien ___ ce que tu m'as dit.",
+        "a": "compris",
+        "en": "You don't need to repeat that; I clearly got what you told me.",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "s|1",
+        "f": "sense",
+        "s": "Maintenant je ___ : tu voulais dire tout le contraire !",
+        "a": "comprends",
+        "en": "Now I get it: you meant the exact opposite!",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "s|2",
+        "f": "sense",
+        "s": "Le prix du voyage ___ les vols, l'hébergement et les repas.",
+        "a": "comprend",
+        "en": "The price of the trip includes flights, accommodation, and meals.",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "s|2",
+        "f": "sense",
+        "s": "Le programme de la conférence ___ plusieurs ateliers pratiques.",
+        "a": "comprend",
+        "en": "The conference programme includes several practical workshops.",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "s|3",
+        "f": "sense",
+        "s": "Cet ensemble de données ___ plus de dix mille entrées.",
+        "a": "comprend",
+        "en": "This dataset contains more than ten thousand entries.",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "s|3",
+        "f": "sense",
+        "s": "La bibliothèque ___ une rare collection de manuscrits médiévaux.",
+        "a": "comprend",
+        "en": "The library contains a rare collection of medieval manuscripts.",
+        "alts": [],
+        "form": ""
+      }
+    ]
+  }
+]

@@ -1,0 +1,29 @@
+[
+  {
+    "id": 5586,
+    "qs": [
+      {"slot":"s|0","f":"sense","s":"Nous avons organisé notre ___ pour le mois prochain.","en":"We organized our move for next month.","a":"déménagement","alts":[],"form":""},
+      {"slot":"s|0","f":"sense","s":"Le ___ s'est bien passé, malgré la pluie.","en":"The move went well, despite the rain.","a":"déménagement","alts":[],"form":""},
+      {"slot":"gender","f":"gender","s":"___ déménagement approche à grands pas.","en":"The move is fast approaching.","a":"Le","alts":[],"form":""},
+      {"slot":"gender","f":"gender","s":"Elle a organisé ___ déménagement rapide en un week-end.","en":"She organized a quick move in one weekend.","a":"un","alts":[],"form":""}
+    ]
+  },
+  {
+    "id": 5587,
+    "qs": [
+      {"slot":"s|0","f":"sense","s":"Je vais acheter du lait et des œufs à l'___ du coin.","a":"épicerie","en":"I'm going to buy milk and eggs at the corner grocery store.","alts":[]},
+      {"slot":"s|0","f":"sense","s":"Le samedi matin, ma grand-mère fait ses courses à la petite ___ du village.","a":"épicerie","en":"On Saturday mornings, my grandmother does her shopping at the village's little grocery store.","alts":[]},
+      {"slot":"gender","f":"gender","s":"Il y a ___ épicerie juste en bas de mon immeuble.","a":"une","en":"There is a grocery store right below my building.","alts":[]},
+      {"slot":"gender","f":"gender","s":"___ épicerie de mon quartier vend d'excellents fromages.","a":"L'","en":"The grocery store in my neighborhood sells excellent cheeses.","alts":[]}
+    ]
+  },
+  {
+    "id": 5588,
+    "qs": [
+      {"slot":"s|0","f":"sense","s":"Tout le monde sait que Paul est un ___ ; il invente toujours des histoires pour se faire remarquer.","a":"menteur","en":"Everyone knows Paul is a liar; he always makes up stories to get attention.","alts":[]},
+      {"slot":"s|0","f":"sense","s":"Ne fais pas confiance à ce ___, il ne dit jamais la vérité.","a":"menteur","en":"Don't trust that liar, he never tells the truth.","alts":[]},
+      {"slot":"gender","f":"gender","s":"___ menteur a fini par être démasqué devant tout le monde.","a":"Le","en":"The liar was eventually unmasked in front of everyone.","alts":["le"]},
+      {"slot":"gender","f":"gender","s":"C'est ___ menteur invétéré, on ne peut rien croire de ce qu'il raconte.","a":"un","en":"He's an inveterate liar, you can't believe anything he says.","alts":[]}
+    ]
+  }
+]

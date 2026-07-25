@@ -1,0 +1,273 @@
+[
+  {
+    "id": 1226,
+    "qs": [
+      {
+        "slot": "s|0",
+        "f": "sense",
+        "s": "Ce dirigeant a pris une décision ___ pour respecter les droits de chacun.",
+        "a": "morale",
+        "en": "This leader made a moral decision to respect everyone's rights.",
+        "alts": []
+      },
+      {
+        "slot": "s|0",
+        "f": "sense",
+        "s": "Il est ___ de dire la vérité même quand c'est difficile.",
+        "a": "moral",
+        "en": "It is moral to tell the truth even when it is difficult.",
+        "alts": []
+      },
+      {
+        "slot": "s|1",
+        "f": "sense",
+        "s": "Après la catastrophe, les victimes ont reçu un soutien ___ de la part des psychologues.",
+        "a": "moral",
+        "en": "After the disaster, the victims received psychological support from psychologists.",
+        "alts": []
+      },
+      {
+        "slot": "s|1",
+        "f": "sense",
+        "s": "Il souffrait d'une douleur ___ intense après la perte de son emploi.",
+        "a": "morale",
+        "en": "He suffered intense mental/psychological pain after losing his job.",
+        "alts": []
+      },
+      {
+        "slot": "s|2",
+        "f": "sense",
+        "s": "La ___ de cette histoire, c'est qu'il ne faut jamais mentir.",
+        "a": "morale",
+        "en": "The moral of this story is that one should never lie.",
+        "alts": []
+      },
+      {
+        "slot": "s|2",
+        "f": "sense",
+        "s": "Ses parents lui ont enseigné la ___ dès son plus jeune âge.",
+        "a": "morale",
+        "en": "His parents taught him ethics/morals from a very young age.",
+        "alts": []
+      },
+      {
+        "slot": "s|3",
+        "f": "sense",
+        "s": "Après la défaite, le ___ des soldats était très bas.",
+        "a": "moral",
+        "en": "After the defeat, the soldiers' morale was very low.",
+        "alts": []
+      },
+      {
+        "slot": "s|3",
+        "f": "sense",
+        "s": "Le capitaine a fait un discours pour remonter le ___ de son équipe.",
+        "a": "moral",
+        "en": "The captain gave a speech to boost his team's morale.",
+        "alts": []
+      },
+      {
+        "slot": "g|mp",
+        "f": "agree",
+        "s": "Les philosophes ont débattu des principes ___ fondamentaux de la société.",
+        "a": "moraux",
+        "en": "The philosophers debated the fundamental moral principles of society.",
+        "alts": []
+      },
+      {
+        "slot": "g|mp",
+        "f": "agree",
+        "s": "Ces comportements ___ sont condamnés par la communauté.",
+        "a": "moraux",
+        "en": "These moral behaviors are condemned by the community.",
+        "alts": []
+      },
+      {
+        "slot": "g|f",
+        "f": "agree",
+        "s": "C'est une obligation ___ que nous ne pouvons pas ignorer.",
+        "a": "morale",
+        "en": "It is a moral obligation that we cannot ignore.",
+        "alts": []
+      },
+      {
+        "slot": "g|f",
+        "f": "agree",
+        "s": "Elle a traversé une crise ___ profonde après cet événement.",
+        "a": "morale",
+        "en": "She went through a deep moral/psychological crisis after that event.",
+        "alts": []
+      },
+      {
+        "slot": "g|fp",
+        "f": "agree",
+        "s": "Il défend des valeurs ___ auxquelles il croit fermement.",
+        "a": "morales",
+        "en": "He defends moral values in which he firmly believes.",
+        "alts": []
+      },
+      {
+        "slot": "g|fp",
+        "f": "agree",
+        "s": "Ces questions ___ méritent une réflexion sérieuse.",
+        "a": "morales",
+        "en": "These moral questions deserve serious reflection.",
+        "alts": []
+      }
+    ]
+  },
+  {
+    "id": 1227,
+    "qs": [
+      {
+        "slot": "s|0",
+        "f": "sense",
+        "s": "Il y a eu un grave ___ sur l'autoroute ce matin : deux voitures se sont percutées.",
+        "a": "accident",
+        "en": "There was a serious accident on the highway this morning: two cars collided.",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "s|0",
+        "f": "sense",
+        "s": "Un ouvrier a été blessé dans un ___ de travail hier après-midi.",
+        "a": "accident",
+        "en": "A worker was injured in a workplace accident yesterday afternoon.",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "s|1",
+        "f": "sense",
+        "s": "Je t'ai appelé par ___ : je voulais joindre quelqu'un d'autre.",
+        "a": "accident",
+        "en": "I called you by accident: I meant to reach someone else.",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "s|1",
+        "f": "sense",
+        "s": "Si nous nous sommes rencontrés, c'est par ___ — je n'avais pas prévu de venir à cette fête.",
+        "a": "accident",
+        "en": "If we met, it was by accident — I hadn't planned to come to that party.",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "gender",
+        "f": "gender",
+        "s": "Elle a eu ___ accident de voiture la semaine dernière, heureusement sans blessés.",
+        "a": "un",
+        "en": "She had a car accident last week, fortunately with no injuries.",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "gender",
+        "f": "gender",
+        "s": "___ accident s'est produit à cause du verglas sur la route.",
+        "a": "L'",
+        "en": "The accident happened because of the ice on the road.",
+        "alts": [],
+        "form": ""
+      }
+    ]
+  },
+  {
+    "id": 1228,
+    "qs": [
+      {
+        "slot": "s|0",
+        "f": "sense",
+        "s": "Le développeur a trouvé une erreur dans le ___ de son programme.",
+        "a": "code",
+        "en": "The developer found an error in the code of his program.",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "s|0",
+        "f": "sense",
+        "s": "Elle passe ses journées à écrire du ___ pour des applications mobiles.",
+        "a": "code",
+        "en": "She spends her days writing code for mobile applications.",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "s|1",
+        "f": "sense",
+        "s": "Entre le ___ secret et appuyez sur la touche « OK ».",
+        "a": "code",
+        "en": "Enter the secret code and press the 'OK' key.",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "s|1",
+        "f": "sense",
+        "s": "J'ai oublié le ___ de ma carte bancaire et je ne peux plus retirer d'argent.",
+        "a": "code",
+        "en": "I forgot the PIN of my bank card and I can no longer withdraw money.",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "s|2",
+        "f": "sense",
+        "s": "L'avocat a cité un article du ___ civil pour défendre son client.",
+        "a": "code",
+        "en": "The lawyer cited an article from the Civil Code to defend his client.",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "s|2",
+        "f": "sense",
+        "s": "Le ___ pénal prévoit des sanctions sévères pour ce type d'infraction.",
+        "a": "code",
+        "en": "The Penal Code provides for severe penalties for this type of offense.",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "s|3",
+        "f": "sense",
+        "s": "Les employés doivent respecter le ___ de conduite de l'entreprise.",
+        "a": "code",
+        "en": "Employees must follow the company's code of conduct.",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "s|3",
+        "f": "sense",
+        "s": "Ce métier exige de suivre un strict ___ d'éthique professionnelle.",
+        "a": "code",
+        "en": "This profession requires following a strict professional ethics code.",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "gender",
+        "f": "gender",
+        "s": "Il a mémorisé ___ code de la porte avant de partir.",
+        "a": "le",
+        "en": "He memorized the door code before leaving.",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "gender",
+        "f": "gender",
+        "s": "Elle a téléchargé ___ nouveau code source depuis le dépôt en ligne.",
+        "a": "un",
+        "en": "She downloaded a new source code from the online repository.",
+        "alts": [],
+        "form": ""
+      }
+    ]
+  }
+]

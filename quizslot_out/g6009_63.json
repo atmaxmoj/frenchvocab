@@ -1,0 +1,653 @@
+[
+ {
+  "id": 6684,
+  "qs": [
+   {
+    "slot": "s|0",
+    "f": "sense",
+    "s": "Dès qu'elle a ouvert la porte du restaurant, elle a été accueillie par un joyeux ___ de voix.",
+    "en": "As soon as she opened the restaurant door, she was greeted by a cheerful hubbub of voices.",
+    "a": "brouhaha",
+    "alts": [],
+    "form": ""
+   },
+   {
+    "slot": "s|0",
+    "f": "sense",
+    "s": "Le ___ de la cour de récréation rendait toute conversation impossible.",
+    "en": "The hubbub of the playground made any conversation impossible.",
+    "a": "brouhaha",
+    "alts": [],
+    "form": ""
+   },
+   {
+    "slot": "gender",
+    "f": "gender",
+    "s": "On entendait au loin ___ brouhaha confus monter de la place du marché.",
+    "en": "In the distance, a confused hubbub could be heard rising from the market square.",
+    "a": "un",
+    "alts": [],
+    "form": ""
+   },
+   {
+    "slot": "gender",
+    "f": "gender",
+    "s": "Malgré ___ brouhaha général, le professeur a réussi à se faire entendre.",
+    "en": "Despite the general hubbub, the teacher managed to make himself heard.",
+    "a": "le",
+    "alts": [],
+    "form": ""
+   }
+  ]
+ },
+ {
+  "id": 6685,
+  "qs": [
+   {
+    "slot": "s|0",
+    "f": "sense",
+    "s": "Le sprinteur a une ___ puissante qui lui permet de gagner des mètres à chaque appui.",
+    "en": "The sprinter has a powerful stride that lets him gain meters with every step.",
+    "a": "foulée",
+    "alts": []
+   },
+   {
+    "slot": "s|0",
+    "f": "sense",
+    "s": "Pour courir plus vite sans se fatiguer, il faut allonger sa ___.",
+    "en": "To run faster without getting tired, you need to lengthen your stride.",
+    "a": "foulée",
+    "alts": []
+   },
+   {
+    "slot": "s|1",
+    "f": "sense",
+    "s": "Il a rendu son rapport et, dans la ___, a préparé la présentation pour demain.",
+    "en": "He submitted his report and, right after that, prepared tomorrow's presentation.",
+    "a": "foulée",
+    "alts": []
+   },
+   {
+    "slot": "s|1",
+    "f": "sense",
+    "s": "Nous avons visité le musée et, dans la ___, nous sommes passés au marché voisin.",
+    "en": "We visited the museum and, right afterward, stopped by the nearby market.",
+    "a": "foulée",
+    "alts": []
+   },
+   {
+    "slot": "gender",
+    "f": "gender",
+    "s": "___ foulée est un critère essentiel en course à pied.",
+    "en": "Stride is an essential criterion in running.",
+    "a": "La",
+    "alts": []
+   },
+   {
+    "slot": "gender",
+    "f": "gender",
+    "s": "Le coach a remarqué ___ foulée légèrement asymétrique chez son athlète.",
+    "en": "The coach noticed a slightly asymmetrical stride in his athlete.",
+    "a": "une",
+    "alts": []
+   }
+  ]
+ },
+ {
+  "id": 6686,
+  "qs": [
+   {
+    "slot": "t|Présent|0",
+    "f": "tense",
+    "s": "Chaque matin, je ___ un peu quand je démarre la voiture froide.",
+    "en": "Every morning, I stall a bit when I start the cold car.",
+    "a": "cale",
+    "alts": [],
+    "form": "Présent"
+   },
+   {
+    "slot": "t|Présent|0",
+    "f": "tense",
+    "s": "Le vieux moteur ___ dès qu'on ralentit trop.",
+    "en": "The old engine stalls as soon as you slow down too much.",
+    "a": "cale",
+    "alts": [],
+    "form": "Présent"
+   },
+   {
+    "slot": "t|Présent|1",
+    "f": "tense",
+    "s": "Tu ___ toujours la porte avec une cale en bois.",
+    "en": "You always wedge the door with a wooden block.",
+    "a": "cales",
+    "alts": [],
+    "form": "Présent"
+   },
+   {
+    "slot": "t|Présent|1",
+    "f": "tense",
+    "s": "Pourquoi tu ___ dès que le prof te pose une question difficile ?",
+    "en": "Why do you freeze up as soon as the teacher asks you a hard question?",
+    "a": "cales",
+    "alts": [],
+    "form": "Présent"
+   },
+   {
+    "slot": "t|Présent|2",
+    "f": "tense",
+    "s": "Nous ___ la table avec un morceau de carton pour qu'elle ne bouge plus.",
+    "en": "We wedge the table with a piece of cardboard so it doesn't move anymore.",
+    "a": "calons",
+    "alts": [],
+    "form": "Présent"
+   },
+   {
+    "slot": "t|Présent|2",
+    "f": "tense",
+    "s": "Nous ___ souvent en pleine côte avec cette vieille voiture.",
+    "en": "We often stall halfway up the hill with this old car.",
+    "a": "calons",
+    "alts": [],
+    "form": "Présent"
+   },
+   {
+    "slot": "t|Présent|3",
+    "f": "tense",
+    "s": "Vous ___ le meuble avant de le peindre.",
+    "en": "You prop up the piece of furniture before painting it.",
+    "a": "calez",
+    "alts": [],
+    "form": "Présent"
+   },
+   {
+    "slot": "t|Présent|3",
+    "f": "tense",
+    "s": "Vous ___ chaque fois qu'on vous pose une question piège.",
+    "en": "You get stumped every time someone asks you a trick question.",
+    "a": "calez",
+    "alts": [],
+    "form": "Présent"
+   },
+   {
+    "slot": "t|Présent|4",
+    "f": "tense",
+    "s": "Les ouvriers ___ les planches avant de couler le béton.",
+    "en": "The workers wedge the boards before pouring the concrete.",
+    "a": "calent",
+    "alts": [],
+    "form": "Présent"
+   },
+   {
+    "slot": "t|Présent|4",
+    "f": "tense",
+    "s": "Les moteurs anciens ___ facilement par temps froid.",
+    "en": "Old engines stall easily in cold weather.",
+    "a": "calent",
+    "alts": [],
+    "form": "Présent"
+   },
+   {
+    "slot": "t|Passé composé|0",
+    "f": "tense",
+    "s": "Hier, j'___ en pleine intersection et tout le monde klaxonnait.",
+    "en": "Yesterday, I stalled right in the middle of the intersection and everyone was honking.",
+    "a": "ai calé",
+    "alts": [],
+    "form": "Passé composé"
+   },
+   {
+    "slot": "t|Passé composé|0",
+    "f": "tense",
+    "s": "Ce matin, j'___ la bibliothèque avec un livre pour qu'elle ne penche plus.",
+    "en": "This morning, I wedged the bookshelf with a book so it wouldn't lean anymore.",
+    "a": "ai calé",
+    "alts": [],
+    "form": "Passé composé"
+   },
+   {
+    "slot": "t|Passé composé|1",
+    "f": "tense",
+    "s": "Hier soir, tu ___ devant tout le monde en essayant de répondre.",
+    "en": "Last night, you froze up in front of everyone trying to answer.",
+    "a": "as calé",
+    "alts": [],
+    "form": "Passé composé"
+   },
+   {
+    "slot": "t|Passé composé|1",
+    "f": "tense",
+    "s": "Tu ___ la roue de secours sous la voiture avant de la changer.",
+    "en": "You wedged the spare wheel under the car before changing it.",
+    "a": "as calé",
+    "alts": [],
+    "form": "Passé composé"
+   },
+   {
+    "slot": "t|Passé composé|2",
+    "f": "tense",
+    "s": "Le camion ___ au milieu de la côte hier.",
+    "en": "The truck stalled halfway up the hill yesterday.",
+    "a": "a calé",
+    "alts": [],
+    "form": "Passé composé"
+   },
+   {
+    "slot": "t|Passé composé|2",
+    "f": "tense",
+    "s": "Elle ___ le vase avec un peu de mousse pour qu'il tienne debout.",
+    "en": "She propped the vase with some foam so it would stand up.",
+    "a": "a calé",
+    "alts": [],
+    "form": "Passé composé"
+   },
+   {
+    "slot": "t|Passé composé|3",
+    "f": "tense",
+    "s": "Nous ___ deux fois en montant cette route de montagne.",
+    "en": "We stalled twice going up this mountain road.",
+    "a": "avons calé",
+    "alts": [],
+    "form": "Passé composé"
+   },
+   {
+    "slot": "t|Passé composé|3",
+    "f": "tense",
+    "s": "Nous ___ l'armoire avec des cales en bois avant de la transporter.",
+    "en": "We wedged the wardrobe with wooden blocks before moving it.",
+    "a": "avons calé",
+    "alts": [],
+    "form": "Passé composé"
+   },
+   {
+    "slot": "t|Passé composé|4",
+    "f": "tense",
+    "s": "Vous ___ devant la question du jury, n'est-ce pas ?",
+    "en": "You froze up in front of the jury's question, didn't you?",
+    "a": "avez calé",
+    "alts": [],
+    "form": "Passé composé"
+   },
+   {
+    "slot": "t|Passé composé|4",
+    "f": "tense",
+    "s": "Vous ___ les étagères avant de poser les livres dessus.",
+    "en": "You propped the shelves before putting the books on them.",
+    "a": "avez calé",
+    "alts": [],
+    "form": "Passé composé"
+   },
+   {
+    "slot": "t|Passé composé|5",
+    "f": "tense",
+    "s": "Les moteurs des deux voitures ___ en même temps au feu rouge.",
+    "en": "Both cars' engines stalled at the same time at the red light.",
+    "a": "ont calé",
+    "alts": [],
+    "form": "Passé composé"
+   },
+   {
+    "slot": "t|Passé composé|5",
+    "f": "tense",
+    "s": "Elles ___ le canapé avec des livres pour l'empêcher de bouger.",
+    "en": "They wedged the sofa with books to keep it from moving.",
+    "a": "ont calé",
+    "alts": [],
+    "form": "Passé composé"
+   },
+   {
+    "slot": "t|Imparfait|0",
+    "f": "tense",
+    "s": "Quand j'étais jeune, je ___ toujours mon vélo contre le mur avec une pierre.",
+    "en": "When I was young, I always used to prop my bike against the wall with a stone.",
+    "a": "calais",
+    "alts": [],
+    "form": "Imparfait"
+   },
+   {
+    "slot": "t|Imparfait|0",
+    "f": "tense",
+    "s": "À l'époque, tu ___ souvent en conduisant la voiture de ton père.",
+    "en": "Back then, you often used to stall while driving your father's car.",
+    "a": "calais",
+    "alts": [],
+    "form": "Imparfait"
+   },
+   {
+    "slot": "t|Imparfait|1",
+    "f": "tense",
+    "s": "Chaque hiver, le vieux tracteur ___ au démarrage.",
+    "en": "Every winter, the old tractor used to stall at startup.",
+    "a": "calait",
+    "alts": [],
+    "form": "Imparfait"
+   },
+   {
+    "slot": "t|Imparfait|1",
+    "f": "tense",
+    "s": "Elle ___ toujours la fenêtre avec un vieux journal plié.",
+    "en": "She always used to wedge the window with an old folded newspaper.",
+    "a": "calait",
+    "alts": [],
+    "form": "Imparfait"
+   },
+   {
+    "slot": "t|Imparfait|2",
+    "f": "tense",
+    "s": "Nous ___ la porte du garage avec une brique tous les soirs.",
+    "en": "We used to wedge the garage door with a brick every evening.",
+    "a": "calions",
+    "alts": [],
+    "form": "Imparfait"
+   },
+   {
+    "slot": "t|Imparfait|2",
+    "f": "tense",
+    "s": "À l'époque, nous ___ souvent au démarrage avec cette vieille camionnette.",
+    "en": "Back then, we often used to stall at startup with that old van.",
+    "a": "calions",
+    "alts": [],
+    "form": "Imparfait"
+   },
+   {
+    "slot": "t|Imparfait|3",
+    "f": "tense",
+    "s": "Vous ___ toujours devant les questions de mathématiques, enfant.",
+    "en": "As a child, you always used to freeze up in front of math questions.",
+    "a": "caliez",
+    "alts": [],
+    "form": "Imparfait"
+   },
+   {
+    "slot": "t|Imparfait|3",
+    "f": "tense",
+    "s": "Vous ___ l'échelle contre le mur avant d'y grimper.",
+    "en": "You used to prop the ladder against the wall before climbing it.",
+    "a": "caliez",
+    "alts": [],
+    "form": "Imparfait"
+   },
+   {
+    "slot": "t|Imparfait|4",
+    "f": "tense",
+    "s": "Les vieilles voitures ___ souvent dans les côtes raides.",
+    "en": "Old cars often used to stall on steep hills.",
+    "a": "calaient",
+    "alts": [],
+    "form": "Imparfait"
+   },
+   {
+    "slot": "t|Imparfait|4",
+    "f": "tense",
+    "s": "Mes grands-parents ___ toujours les meubles bancals avec du carton.",
+    "en": "My grandparents always used to wedge wobbly furniture with cardboard.",
+    "a": "calaient",
+    "alts": [],
+    "form": "Imparfait"
+   },
+   {
+    "slot": "t|Futur|0",
+    "f": "tense",
+    "s": "Demain, je ___ l'étagère avant d'y ranger les livres.",
+    "en": "Tomorrow, I will prop the shelf before putting the books on it.",
+    "a": "calerai",
+    "alts": [],
+    "form": "Futur"
+   },
+   {
+    "slot": "t|Futur|0",
+    "f": "tense",
+    "s": "Je pense que je ___ si je conduis cette voiture manuelle.",
+    "en": "I think I will stall if I drive this manual car.",
+    "a": "calerai",
+    "alts": [],
+    "form": "Futur"
+   },
+   {
+    "slot": "t|Futur|1",
+    "f": "tense",
+    "s": "Tu ___ la table avant que les invités n'arrivent.",
+    "en": "You will prop up the table before the guests arrive.",
+    "a": "caleras",
+    "alts": [],
+    "form": "Futur"
+   },
+   {
+    "slot": "t|Futur|1",
+    "f": "tense",
+    "s": "Si tu ne t'entraînes pas, tu ___ devant l'examinateur.",
+    "en": "If you don't practice, you'll freeze up in front of the examiner.",
+    "a": "caleras",
+    "alts": [],
+    "form": "Futur"
+   },
+   {
+    "slot": "t|Futur|2",
+    "f": "tense",
+    "s": "Ce vieux moteur ___ sûrement dans la montée.",
+    "en": "That old engine will surely stall on the climb.",
+    "a": "calera",
+    "alts": [],
+    "form": "Futur"
+   },
+   {
+    "slot": "t|Futur|2",
+    "f": "tense",
+    "s": "Le menuisier ___ le bureau avant de le livrer.",
+    "en": "The carpenter will wedge the desk before delivering it.",
+    "a": "calera",
+    "alts": [],
+    "form": "Futur"
+   },
+   {
+    "slot": "t|Futur|3",
+    "f": "tense",
+    "s": "Nous ___ les planches avant de commencer les travaux.",
+    "en": "We will wedge the boards before starting the work.",
+    "a": "calerons",
+    "alts": [],
+    "form": "Futur"
+   },
+   {
+    "slot": "t|Futur|3",
+    "f": "tense",
+    "s": "Nous ___ sans doute en pleine côte avec ce camion chargé.",
+    "en": "We will probably stall halfway up the hill with this loaded truck.",
+    "a": "calerons",
+    "alts": [],
+    "form": "Futur"
+   },
+   {
+    "slot": "t|Futur|4",
+    "f": "tense",
+    "s": "Vous ___ le canapé pour qu'il ne glisse plus.",
+    "en": "You will wedge the sofa so it doesn't slide anymore.",
+    "a": "calerez",
+    "alts": [],
+    "form": "Futur"
+   },
+   {
+    "slot": "t|Futur|4",
+    "f": "tense",
+    "s": "Vous ___ si on vous pose trop de questions d'un coup.",
+    "en": "You'll freeze up if too many questions are asked at once.",
+    "a": "calerez",
+    "alts": [],
+    "form": "Futur"
+   },
+   {
+    "slot": "t|Futur|5",
+    "f": "tense",
+    "s": "Les ouvriers ___ les poutres avant de poser le toit.",
+    "en": "The workers will wedge the beams before putting up the roof.",
+    "a": "caleront",
+    "alts": [],
+    "form": "Futur"
+   },
+   {
+    "slot": "t|Futur|5",
+    "f": "tense",
+    "s": "Ces vieux camions ___ à coup sûr dans cette montée.",
+    "en": "These old trucks will definitely stall on this climb.",
+    "a": "caleront",
+    "alts": [],
+    "form": "Futur"
+   },
+   {
+    "slot": "t|Conditionnel|0",
+    "f": "tense",
+    "s": "Si j'avais un tournevis, je ___ cette porte qui grince.",
+    "en": "If I had a screwdriver, I would wedge this creaky door.",
+    "a": "calerais",
+    "alts": [],
+    "form": "Conditionnel"
+   },
+   {
+    "slot": "t|Conditionnel|0",
+    "f": "tense",
+    "s": "Si tu conduisais cette vieille voiture, tu ___ à chaque feu rouge.",
+    "en": "If you drove this old car, you'd stall at every red light.",
+    "a": "calerais",
+    "alts": [],
+    "form": "Conditionnel"
+   },
+   {
+    "slot": "t|Conditionnel|1",
+    "f": "tense",
+    "s": "Si on n'entretenait pas ce moteur, il ___ constamment.",
+    "en": "If we didn't maintain this engine, it would stall constantly.",
+    "a": "calerait",
+    "alts": [],
+    "form": "Conditionnel"
+   },
+   {
+    "slot": "t|Conditionnel|1",
+    "f": "tense",
+    "s": "Elle ___ l'armoire si elle avait une cale sous la main.",
+    "en": "She would wedge the wardrobe if she had a shim on hand.",
+    "a": "calerait",
+    "alts": [],
+    "form": "Conditionnel"
+   },
+   {
+    "slot": "t|Conditionnel|2",
+    "f": "tense",
+    "s": "Si nous avions plus de bois, nous ___ toutes les étagères.",
+    "en": "If we had more wood, we would wedge all the shelves.",
+    "a": "calerions",
+    "alts": [],
+    "form": "Conditionnel"
+   },
+   {
+    "slot": "t|Conditionnel|2",
+    "f": "tense",
+    "s": "Si nous conduisions ce vieux tracteur, nous ___ sans arrêt.",
+    "en": "If we drove this old tractor, we would stall constantly.",
+    "a": "calerions",
+    "alts": [],
+    "form": "Conditionnel"
+   },
+   {
+    "slot": "t|Conditionnel|3",
+    "f": "tense",
+    "s": "Si vous aviez une cale, vous ___ ce meuble bancal.",
+    "en": "If you had a shim, you would wedge this wobbly piece of furniture.",
+    "a": "caleriez",
+    "alts": [],
+    "form": "Conditionnel"
+   },
+   {
+    "slot": "t|Conditionnel|3",
+    "f": "tense",
+    "s": "Sans entraînement, vous ___ devant les questions du jury.",
+    "en": "Without training, you'd freeze up in front of the jury's questions.",
+    "a": "caleriez",
+    "alts": [],
+    "form": "Conditionnel"
+   },
+   {
+    "slot": "t|Conditionnel|4",
+    "f": "tense",
+    "s": "Si les charpentiers avaient plus de temps, ils ___ chaque poutre soigneusement.",
+    "en": "If the carpenters had more time, they would wedge each beam carefully.",
+    "a": "caleraient",
+    "alts": [],
+    "form": "Conditionnel"
+   },
+   {
+    "slot": "t|Conditionnel|4",
+    "f": "tense",
+    "s": "Ces vieux moteurs ___ souvent si on ne les réparait pas.",
+    "en": "These old engines would often stall if they weren't repaired.",
+    "a": "caleraient",
+    "alts": [],
+    "form": "Conditionnel"
+   },
+   {
+    "slot": "t|Subjonctif",
+    "f": "subj",
+    "s": "Il faut que tu ___ cette étagère avant qu'elle ne tombe.",
+    "en": "You need to wedge this shelf before it falls.",
+    "a": "cales",
+    "alts": [],
+    "form": "Subjonctif"
+   },
+   {
+    "slot": "t|Subjonctif",
+    "f": "subj",
+    "s": "Je crains qu'elle ne ___ face à cette question difficile.",
+    "en": "I'm afraid she'll freeze up when faced with this difficult question.",
+    "a": "cale",
+    "alts": [],
+    "form": "Subjonctif"
+   },
+   {
+    "slot": "s|0",
+    "f": "sense",
+    "s": "Il a mis une pierre sous la roue pour ___ la brouette sur la pente.",
+    "en": "He put a stone under the wheel to wedge/steady the wheelbarrow on the slope.",
+    "a": "caler",
+    "alts": []
+   },
+   {
+    "slot": "s|0",
+    "f": "sense",
+    "s": "Peux-tu ___ cette armoire avec un bout de carton ? Elle penche.",
+    "en": "Can you wedge this wardrobe with a piece of cardboard? It's leaning.",
+    "a": "caler",
+    "alts": []
+   },
+   {
+    "slot": "s|1",
+    "f": "sense",
+    "s": "La voiture a fait un bruit bizarre puis le moteur a fini par ___.",
+    "en": "The car made a strange noise and then the engine ended up stalling.",
+    "a": "caler",
+    "alts": []
+   },
+   {
+    "slot": "s|1",
+    "f": "sense",
+    "s": "Sur cette côte trop raide, le moteur risque de ___.",
+    "en": "On this too-steep hill, the engine risks stalling.",
+    "a": "caler",
+    "alts": []
+   },
+   {
+    "slot": "s|2",
+    "f": "sense",
+    "s": "Face à une question aussi difficile, l'élève a fini par ___ complètement.",
+    "en": "Faced with such a difficult question, the student ended up completely freezing up.",
+    "a": "caler",
+    "alts": []
+   },
+   {
+    "slot": "s|2",
+    "f": "sense",
+    "s": "Après trois heures d'effort sans manger, il a commencé à ___.",
+    "en": "After three hours of effort without eating, he started to run out of steam.",
+    "a": "caler",
+    "alts": []
+   }
+  ]
+ }
+]

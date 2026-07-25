@@ -1,0 +1,737 @@
+[
+  {
+    "id": 3622,
+    "qs": [
+      {
+        "slot": "s|0",
+        "f": "sense",
+        "s": "Dans ce conte de fées, la ___ dort dans son château depuis cent ans.",
+        "a": "princesse",
+        "en": "In this fairy tale, the princess has been sleeping in her castle for a hundred years.",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "s|0",
+        "f": "sense",
+        "s": "La ___ est la fille du roi et de la reine.",
+        "a": "princesse",
+        "en": "The princess is the daughter of the king and the queen.",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "s|1",
+        "f": "sense",
+        "s": "La ___ a accompagné son mari, le prince, lors de la visite officielle.",
+        "a": "princesse",
+        "en": "The princess accompanied her husband, the prince, during the official visit.",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "s|1",
+        "f": "sense",
+        "s": "Après son mariage avec le prince héritier, elle est devenue ___ du royaume.",
+        "a": "princesse",
+        "en": "After her marriage to the crown prince, she became princess of the kingdom.",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "gender",
+        "f": "gender",
+        "s": "Il était une fois ___ princesse qui vivait dans un grand palais.",
+        "a": "une",
+        "en": "Once upon a time, there was a princess who lived in a grand palace.",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "gender",
+        "f": "gender",
+        "s": "___ princesse a salué la foule depuis le balcon du palais.",
+        "a": "La",
+        "en": "The princess waved to the crowd from the palace balcony.",
+        "alts": [],
+        "form": ""
+      }
+    ]
+  },
+  {
+    "id": 3623,
+    "qs": [
+      {
+        "slot": "t|Présent|0",
+        "f": "tense",
+        "s": "La voiture ___ à gauche au carrefour.",
+        "a": "vire",
+        "en": "The car turns left at the intersection.",
+        "alts": [],
+        "form": "Présent"
+      },
+      {
+        "slot": "t|Présent|0",
+        "f": "tense",
+        "s": "Je ___ à droite pour éviter le camion.",
+        "a": "vire",
+        "en": "I turn right to avoid the truck.",
+        "alts": [],
+        "form": "Présent"
+      },
+      {
+        "slot": "t|Présent|1",
+        "f": "tense",
+        "s": "Tu ___ trop vite dans ce virage.",
+        "a": "vires",
+        "en": "You turn too fast in this bend.",
+        "alts": [],
+        "form": "Présent"
+      },
+      {
+        "slot": "t|Présent|1",
+        "f": "tense",
+        "s": "Est-ce que tu ___ le stagiaire demain ?",
+        "a": "vires",
+        "en": "Are you firing the intern tomorrow?",
+        "alts": [],
+        "form": "Présent"
+      },
+      {
+        "slot": "t|Présent|2",
+        "f": "tense",
+        "s": "Nous ___ les fonds sur votre compte aujourd'hui.",
+        "a": "virons",
+        "en": "We transfer the funds to your account today.",
+        "alts": [],
+        "form": "Présent"
+      },
+      {
+        "slot": "t|Présent|2",
+        "f": "tense",
+        "s": "Nous ___ brusquement sur la route de montagne.",
+        "a": "virons",
+        "en": "We turn sharply on the mountain road.",
+        "alts": [],
+        "form": "Présent"
+      },
+      {
+        "slot": "t|Présent|3",
+        "f": "tense",
+        "s": "Vous ___ ce collaborateur sans raison valable.",
+        "a": "virez",
+        "en": "You fire this employee without valid reason.",
+        "alts": [],
+        "form": "Présent"
+      },
+      {
+        "slot": "t|Présent|3",
+        "f": "tense",
+        "s": "Vous ___ la somme sur le compte du client.",
+        "a": "virez",
+        "en": "You transfer the sum to the client's account.",
+        "alts": [],
+        "form": "Présent"
+      },
+      {
+        "slot": "t|Présent|4",
+        "f": "tense",
+        "s": "Les feuilles ___ au rouge en automne.",
+        "a": "virent",
+        "en": "The leaves turn red in autumn.",
+        "alts": [],
+        "form": "Présent"
+      },
+      {
+        "slot": "t|Présent|4",
+        "f": "tense",
+        "s": "Ils ___ plusieurs employés chaque mois.",
+        "a": "virent",
+        "en": "They fire several employees every month.",
+        "alts": [],
+        "form": "Présent"
+      },
+      {
+        "slot": "t|Passé composé|0",
+        "f": "tense",
+        "s": "J'___ brusquement pour éviter un obstacle.",
+        "a": "ai viré",
+        "en": "I turned sharply to avoid an obstacle.",
+        "alts": [],
+        "form": "Passé composé"
+      },
+      {
+        "slot": "t|Passé composé|0",
+        "f": "tense",
+        "s": "Hier, j'___ mille euros sur ton compte.",
+        "a": "ai viré",
+        "en": "Yesterday, I transferred a thousand euros to your account.",
+        "alts": [],
+        "form": "Passé composé"
+      },
+      {
+        "slot": "t|Passé composé|1",
+        "f": "tense",
+        "s": "Tu ___ à gauche trop tard et tu as failli rater la sortie.",
+        "a": "as viré",
+        "en": "You turned left too late and almost missed the exit.",
+        "alts": [],
+        "form": "Passé composé"
+      },
+      {
+        "slot": "t|Passé composé|1",
+        "f": "tense",
+        "s": "Tu ___ ton assistant sans lui donner d'explication.",
+        "a": "as viré",
+        "en": "You fired your assistant without giving any explanation.",
+        "alts": [],
+        "form": "Passé composé"
+      },
+      {
+        "slot": "t|Passé composé|2",
+        "f": "tense",
+        "s": "La direction ___ le responsable commercial hier.",
+        "a": "a viré",
+        "en": "Management fired the sales manager yesterday.",
+        "alts": [],
+        "form": "Passé composé"
+      },
+      {
+        "slot": "t|Passé composé|2",
+        "f": "tense",
+        "s": "Le chauffeur ___ soudainement pour éviter un enfant.",
+        "a": "a viré",
+        "en": "The driver turned suddenly to avoid a child.",
+        "alts": [],
+        "form": "Passé composé"
+      },
+      {
+        "slot": "t|Passé composé|3",
+        "f": "tense",
+        "s": "Nous ___ le loyer en début de mois.",
+        "a": "avons viré",
+        "en": "We transferred the rent at the beginning of the month.",
+        "alts": [],
+        "form": "Passé composé"
+      },
+      {
+        "slot": "t|Passé composé|3",
+        "f": "tense",
+        "s": "Nous ___ cet employé après sa troisième faute.",
+        "a": "avons viré",
+        "en": "We fired this employee after his third mistake.",
+        "alts": [],
+        "form": "Passé composé"
+      },
+      {
+        "slot": "t|Passé composé|4",
+        "f": "tense",
+        "s": "Vous ___ les fonds vers la filiale étrangère ce matin.",
+        "a": "avez viré",
+        "en": "You transferred the funds to the foreign subsidiary this morning.",
+        "alts": [],
+        "form": "Passé composé"
+      },
+      {
+        "slot": "t|Passé composé|4",
+        "f": "tense",
+        "s": "Vous ___ le nouveau stagiaire dès sa première semaine.",
+        "a": "avez viré",
+        "en": "You fired the new intern in his very first week.",
+        "alts": [],
+        "form": "Passé composé"
+      },
+      {
+        "slot": "t|Passé composé|5",
+        "f": "tense",
+        "s": "Ils ___ trois cadres lors de la restructuration.",
+        "a": "ont viré",
+        "en": "They fired three executives during the restructuring.",
+        "alts": [],
+        "form": "Passé composé"
+      },
+      {
+        "slot": "t|Passé composé|5",
+        "f": "tense",
+        "s": "Les motards ___ à pleine vitesse dans le col.",
+        "a": "ont viré",
+        "en": "The bikers turned at full speed through the mountain pass.",
+        "alts": [],
+        "form": "Passé composé"
+      },
+      {
+        "slot": "t|Imparfait|0",
+        "f": "tense",
+        "s": "Quand j'étais jeune, je ___ souvent trop vite dans les virages.",
+        "a": "virais",
+        "en": "When I was young, I often turned too fast in the bends.",
+        "alts": [],
+        "form": "Imparfait"
+      },
+      {
+        "slot": "t|Imparfait|0",
+        "f": "tense",
+        "s": "Tu ___ régulièrement de l'argent à ta famille.",
+        "a": "virais",
+        "en": "You used to transfer money to your family regularly.",
+        "alts": [],
+        "form": "Imparfait"
+      },
+      {
+        "slot": "t|Imparfait|1",
+        "f": "tense",
+        "s": "Le patron ___ ses employés dès qu'il n'était pas content.",
+        "a": "virait",
+        "en": "The boss used to fire his employees as soon as he was unhappy.",
+        "alts": [],
+        "form": "Imparfait"
+      },
+      {
+        "slot": "t|Imparfait|1",
+        "f": "tense",
+        "s": "La moto ___ toujours à grande vitesse dans ce tournant.",
+        "a": "virait",
+        "en": "The motorcycle always turned at high speed in that corner.",
+        "alts": [],
+        "form": "Imparfait"
+      },
+      {
+        "slot": "t|Imparfait|2",
+        "f": "tense",
+        "s": "Avant, nous ___ les salaires le dernier jour du mois.",
+        "a": "virions",
+        "en": "Before, we used to transfer salaries on the last day of the month.",
+        "alts": [],
+        "form": "Imparfait"
+      },
+      {
+        "slot": "t|Imparfait|2",
+        "f": "tense",
+        "s": "Nous ___ à droite pour rentrer au garage.",
+        "a": "virions",
+        "en": "We used to turn right to get back to the garage.",
+        "alts": [],
+        "form": "Imparfait"
+      },
+      {
+        "slot": "t|Imparfait|3",
+        "f": "tense",
+        "s": "Vous ___ sans prévenir chaque fois qu'un projet échouait.",
+        "a": "viriez",
+        "en": "You used to fire without warning every time a project failed.",
+        "alts": [],
+        "form": "Imparfait"
+      },
+      {
+        "slot": "t|Imparfait|3",
+        "f": "tense",
+        "s": "Vous ___ à droite avant d'arriver au rond-point.",
+        "a": "viriez",
+        "en": "You used to turn right before reaching the roundabout.",
+        "alts": [],
+        "form": "Imparfait"
+      },
+      {
+        "slot": "t|Imparfait|4",
+        "f": "tense",
+        "s": "Les teintures ___ au bleu avec le temps.",
+        "a": "viraient",
+        "en": "The dyes used to turn blue over time.",
+        "alts": [],
+        "form": "Imparfait"
+      },
+      {
+        "slot": "t|Imparfait|4",
+        "f": "tense",
+        "s": "Les cyclistes ___ prudemment dans les descentes.",
+        "a": "viraient",
+        "en": "The cyclists used to turn carefully on the descents.",
+        "alts": [],
+        "form": "Imparfait"
+      },
+      {
+        "slot": "t|Futur|0",
+        "f": "tense",
+        "s": "Je ___ la somme dès réception de la facture.",
+        "a": "virerai",
+        "en": "I will transfer the amount upon receipt of the invoice.",
+        "alts": [],
+        "form": "Futur"
+      },
+      {
+        "slot": "t|Futur|0",
+        "f": "tense",
+        "s": "Je ___ au prochain croisement à gauche.",
+        "a": "virerai",
+        "en": "I will turn left at the next intersection.",
+        "alts": [],
+        "form": "Futur"
+      },
+      {
+        "slot": "t|Futur|1",
+        "f": "tense",
+        "s": "Tu ___ l'argent avant la fin de la semaine.",
+        "a": "vireras",
+        "en": "You will transfer the money before the end of the week.",
+        "alts": [],
+        "form": "Futur"
+      },
+      {
+        "slot": "t|Futur|1",
+        "f": "tense",
+        "s": "Si tu n'es pas satisfait de ses performances, tu ___ cet employé sans hésiter.",
+        "a": "vireras",
+        "en": "If you are not satisfied with his performance, you will fire this employee without hesitation.",
+        "alts": [],
+        "form": "Futur"
+      },
+      {
+        "slot": "t|Futur|2",
+        "f": "tense",
+        "s": "La société ___ les bénéfices sur le compte principal vendredi.",
+        "a": "virera",
+        "en": "The company will transfer the profits to the main account on Friday.",
+        "alts": [],
+        "form": "Futur"
+      },
+      {
+        "slot": "t|Futur|2",
+        "f": "tense",
+        "s": "Le directeur ___ ce technicien s'il rate encore son travail.",
+        "a": "virera",
+        "en": "The manager will fire this technician if he messes up again.",
+        "alts": [],
+        "form": "Futur"
+      },
+      {
+        "slot": "t|Futur|3",
+        "f": "tense",
+        "s": "Nous ___ à gauche au prochain carrefour.",
+        "a": "virerons",
+        "en": "We will turn left at the next crossroads.",
+        "alts": [],
+        "form": "Futur"
+      },
+      {
+        "slot": "t|Futur|3",
+        "f": "tense",
+        "s": "Nous ___ les fonds demain matin.",
+        "a": "virerons",
+        "en": "We will transfer the funds tomorrow morning.",
+        "alts": [],
+        "form": "Futur"
+      },
+      {
+        "slot": "t|Futur|4",
+        "f": "tense",
+        "s": "Vous ___ le montant total d'ici lundi.",
+        "a": "virerez",
+        "en": "You will transfer the total amount by Monday.",
+        "alts": [],
+        "form": "Futur"
+      },
+      {
+        "slot": "t|Futur|4",
+        "f": "tense",
+        "s": "Vous ___ ce responsable si ses résultats ne s'améliorent pas.",
+        "a": "virerez",
+        "en": "You will fire this manager if his results don't improve.",
+        "alts": [],
+        "form": "Futur"
+      },
+      {
+        "slot": "t|Futur|5",
+        "f": "tense",
+        "s": "Les coureurs ___ sur la droite avant la ligne d'arrivée.",
+        "a": "vireront",
+        "en": "The racers will turn right before the finish line.",
+        "alts": [],
+        "form": "Futur"
+      },
+      {
+        "slot": "t|Futur|5",
+        "f": "tense",
+        "s": "Elles ___ les fonds dès que le contrat sera signé.",
+        "a": "vireront",
+        "en": "They will transfer the funds as soon as the contract is signed.",
+        "alts": [],
+        "form": "Futur"
+      },
+      {
+        "slot": "t|Conditionnel|0",
+        "f": "tense",
+        "s": "Si j'avais assez d'argent, je le ___ sur un compte épargne.",
+        "a": "virerais",
+        "en": "If I had enough money, I would transfer it to a savings account.",
+        "alts": [],
+        "form": "Conditionnel"
+      },
+      {
+        "slot": "t|Conditionnel|0",
+        "f": "tense",
+        "s": "Si tu étais le patron, tu ___ cet employé sans hésiter.",
+        "a": "virerais",
+        "en": "If you were the boss, you would fire this employee without hesitation.",
+        "alts": [],
+        "form": "Conditionnel"
+      },
+      {
+        "slot": "t|Conditionnel|1",
+        "f": "tense",
+        "s": "Le banquier ___ les fonds si le dossier était complet.",
+        "a": "virerait",
+        "en": "The banker would transfer the funds if the file were complete.",
+        "alts": [],
+        "form": "Conditionnel"
+      },
+      {
+        "slot": "t|Conditionnel|1",
+        "f": "tense",
+        "s": "La patronne ___ cet employé si elle découvrait sa fraude.",
+        "a": "virerait",
+        "en": "The boss would fire this employee if she discovered his fraud.",
+        "alts": [],
+        "form": "Conditionnel"
+      },
+      {
+        "slot": "t|Conditionnel|2",
+        "f": "tense",
+        "s": "Si nous avions un meilleur budget, nous ___ davantage de fonds.",
+        "a": "virerions",
+        "en": "If we had a better budget, we would transfer more funds.",
+        "alts": [],
+        "form": "Conditionnel"
+      },
+      {
+        "slot": "t|Conditionnel|2",
+        "f": "tense",
+        "s": "Si nous étions à ta place, nous ___ dans l'autre sens.",
+        "a": "virerions",
+        "en": "If we were in your position, we would turn the other way.",
+        "alts": [],
+        "form": "Conditionnel"
+      },
+      {
+        "slot": "t|Conditionnel|3",
+        "f": "tense",
+        "s": "Si vous aviez le pouvoir, vous ___ tous les mauvais élèves ?",
+        "a": "vireriez",
+        "en": "If you had the power, would you fire all the poor performers?",
+        "alts": [],
+        "form": "Conditionnel"
+      },
+      {
+        "slot": "t|Conditionnel|3",
+        "f": "tense",
+        "s": "Vous ___ plus tôt si la route était moins glissante.",
+        "a": "vireriez",
+        "en": "You would turn earlier if the road were less slippery.",
+        "alts": [],
+        "form": "Conditionnel"
+      },
+      {
+        "slot": "t|Conditionnel|4",
+        "f": "tense",
+        "s": "Ils ___ davantage d'argent si les taux étaient meilleurs.",
+        "a": "vireraient",
+        "en": "They would transfer more money if the rates were better.",
+        "alts": [],
+        "form": "Conditionnel"
+      },
+      {
+        "slot": "t|Conditionnel|4",
+        "f": "tense",
+        "s": "Les pilotes ___ plus tôt si la piste était plus large.",
+        "a": "vireraient",
+        "en": "The pilots would turn earlier if the track were wider.",
+        "alts": [],
+        "form": "Conditionnel"
+      },
+      {
+        "slot": "t|Subjonctif",
+        "f": "subj",
+        "s": "Il faut que tu ___ à gauche avant le pont.",
+        "a": "vires",
+        "en": "You need to turn left before the bridge.",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "t|Subjonctif",
+        "f": "subj",
+        "s": "Le directeur exige qu'on ___ cet employé immédiatement.",
+        "a": "vire",
+        "en": "The manager demands that this employee be fired immediately.",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "s|0",
+        "f": "sense",
+        "s": "Le conducteur ___ brusquement pour éviter le piéton.",
+        "a": "vire",
+        "en": "The driver turns sharply to avoid the pedestrian.",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "s|0",
+        "f": "sense",
+        "s": "La voiture a ___ à droite au dernier moment.",
+        "a": "viré",
+        "en": "The car turned right at the last moment.",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "s|1",
+        "f": "sense",
+        "s": "Le tissu ___ au jaune après plusieurs lavages.",
+        "a": "vire",
+        "en": "The fabric turns yellow after several washes.",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "s|1",
+        "f": "sense",
+        "s": "La solution chimique a ___ au rouge sous l'effet de l'acide.",
+        "a": "viré",
+        "en": "The chemical solution turned red under the effect of the acid.",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "s|2",
+        "f": "sense",
+        "s": "Je vais ___ cinq cents euros sur ton compte ce soir.",
+        "a": "virer",
+        "en": "I'll transfer five hundred euros to your account tonight.",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "s|2",
+        "f": "sense",
+        "s": "L'entreprise lui a ___ son salaire avec trois jours de retard.",
+        "a": "viré",
+        "en": "The company transferred his salary three days late.",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "s|3",
+        "f": "sense",
+        "s": "Le patron l'a ___ après sa troisième erreur.",
+        "a": "viré",
+        "en": "The boss fired him after his third mistake.",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "s|3",
+        "f": "sense",
+        "s": "Elle risque de se faire ___ si elle arrive encore en retard.",
+        "a": "virer",
+        "en": "She risks getting fired if she is late again.",
+        "alts": [],
+        "form": ""
+      }
+    ]
+  },
+  {
+    "id": 3624,
+    "qs": [
+      {
+        "slot": "s|0",
+        "f": "sense",
+        "s": "Il a résolu ce problème de mathématiques avec une ___ déconcertante.",
+        "a": "facilité",
+        "en": "He solved this math problem with a disconcerting ease.",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "s|0",
+        "f": "sense",
+        "s": "La ___ de cet exercice m'a surpris ; je m'attendais à quelque chose de beaucoup plus difficile.",
+        "a": "facilité",
+        "en": "The easiness of this exercise surprised me; I was expecting something much harder.",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "s|1",
+        "f": "sense",
+        "s": "La ___ d'accès à internet dans cette région a attiré de nombreuses entreprises.",
+        "a": "facilité",
+        "en": "The ease of internet access in this region has attracted many companies.",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "s|1",
+        "f": "sense",
+        "s": "Ce logiciel est apprécié pour sa ___ d'utilisation, même pour les débutants.",
+        "a": "facilité",
+        "en": "This software is appreciated for its ease of use, even for beginners.",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "s|2",
+        "f": "sense",
+        "s": "Cet enfant a une ___ naturelle pour les langues étrangères.",
+        "a": "facilité",
+        "en": "This child has a natural aptitude for foreign languages.",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "s|2",
+        "f": "sense",
+        "s": "Sa ___ à retenir les noms et les dates étonne ses camarades de classe.",
+        "a": "facilité",
+        "en": "His aptitude for remembering names and dates astonishes his classmates.",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "s|3",
+        "f": "sense",
+        "s": "Ce magasin propose des ___ de paiement pour les achats supérieurs à cinq cents euros.",
+        "a": "facilités",
+        "en": "This store offers installment payment options for purchases over five hundred euros.",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "s|3",
+        "f": "sense",
+        "s": "La banque lui a accordé des ___ de crédit pour financer la rénovation de sa maison.",
+        "a": "facilités",
+        "en": "The bank granted him credit facilities to finance the renovation of his house.",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "gender",
+        "f": "gender",
+        "s": "Tout le monde admire ___ facilité avec laquelle elle parle en public.",
+        "a": "la",
+        "en": "Everyone admires the ease with which she speaks in public.",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "gender",
+        "f": "gender",
+        "s": "C'est ___ facilité de ce parcours qui attire les randonneurs débutants.",
+        "a": "la",
+        "en": "It is the easiness of this trail that attracts beginner hikers.",
+        "alts": [],
+        "form": ""
+      }
+    ]
+  }
+]

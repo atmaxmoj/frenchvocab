@@ -1,0 +1,675 @@
+[
+  {
+    "id": 4535,
+    "qs": [
+      {
+        "slot": "s|0",
+        "f": "sense",
+        "s": "— Tu penses que ce film vaut la peine d'être vu ? — ___, c'est une œuvre magnifique.",
+        "a": "Assurément",
+        "en": "— Do you think this film is worth watching? — Certainly, it's a magnificent work.",
+        "alts": ["Certainement", "Absolument"],
+        "form": ""
+      },
+      {
+        "slot": "s|0",
+        "f": "sense",
+        "s": "— Est-ce que tu reviendras l'année prochaine ? — ___, je n'ai aucune raison de partir définitivement.",
+        "a": "Assurément",
+        "en": "— Will you come back next year? — Certainly, I have no reason to leave for good.",
+        "alts": ["Certainement"],
+        "form": ""
+      },
+      {
+        "slot": "s|1",
+        "f": "sense",
+        "s": "C'est ___ l'un des plus grands défis de notre époque.",
+        "a": "assurément",
+        "en": "It is without a doubt one of the greatest challenges of our time.",
+        "alts": ["sans aucun doute", "indubitablement"],
+        "form": ""
+      },
+      {
+        "slot": "s|1",
+        "f": "sense",
+        "s": "Elle est ___ la candidate la mieux qualifiée pour ce poste.",
+        "a": "assurément",
+        "en": "She is undoubtedly the best-qualified candidate for this position.",
+        "alts": ["indéniablement", "sans conteste"],
+        "form": ""
+      }
+    ]
+  },
+  {
+    "id": 4536,
+    "qs": [
+      {
+        "slot": "s|0",
+        "f": "sense",
+        "s": "Avant l'hiver, il faut faire une ___ de bois pour ne pas avoir froid.",
+        "a": "provision",
+        "en": "Before winter, you need to stock up on wood so as not to be cold.",
+        "alts": []
+      },
+      {
+        "slot": "s|0",
+        "f": "sense",
+        "s": "Le magasin a une grande ___ de conserves en cas de pénurie.",
+        "a": "provision",
+        "en": "The store has a large stock of canned goods in case of a shortage.",
+        "alts": []
+      },
+      {
+        "slot": "s|1",
+        "f": "sense",
+        "s": "Le tribunal a ordonné le versement d'une ___ sur les honoraires de l'avocat.",
+        "a": "provision",
+        "en": "The court ordered the payment of a retainer for the lawyer's fees.",
+        "alts": []
+      },
+      {
+        "slot": "s|1",
+        "f": "sense",
+        "s": "Le client a versé une ___ de cinq cents euros à son notaire avant la signature.",
+        "a": "provision",
+        "en": "The client paid a retainer of five hundred euros to his notary before signing.",
+        "alts": []
+      },
+      {
+        "slot": "s|2",
+        "f": "sense",
+        "s": "Le juge a accordé une ___ alimentaire à la mère dans l'attente du jugement définitif.",
+        "a": "provision",
+        "en": "The judge granted an interim maintenance allowance to the mother pending the final judgment.",
+        "alts": []
+      },
+      {
+        "slot": "s|2",
+        "f": "sense",
+        "s": "Le tribunal a fixé une ___ pour couvrir les frais du procès jusqu'à la décision finale.",
+        "a": "provision",
+        "en": "The court set an interim measure to cover the legal costs until the final decision.",
+        "alts": []
+      },
+      {
+        "slot": "gender",
+        "f": "gender",
+        "s": "Il a constitué ___ provision de médicaments avant son départ en expédition.",
+        "a": "une",
+        "en": "He built up a supply of medicines before his expedition departure.",
+        "alts": []
+      },
+      {
+        "slot": "gender",
+        "f": "gender",
+        "s": "Le notaire a demandé ___ provision avant d'ouvrir le dossier.",
+        "a": "une",
+        "en": "The notary asked for a retainer before opening the case.",
+        "alts": []
+      }
+    ]
+  },
+  {
+    "id": 4537,
+    "qs": [
+      {
+        "slot": "t|Présent|0",
+        "f": "tense",
+        "s": "Ce microphone ___ le son de ta voix.",
+        "a": "amplifie",
+        "en": "This microphone amplifies the sound of your voice.",
+        "alts": [],
+        "form": "Présent"
+      },
+      {
+        "slot": "t|Présent|0",
+        "f": "tense",
+        "s": "J'___ le volume pour que tout le monde entende.",
+        "a": "amplifie",
+        "en": "I amplify the volume so that everyone can hear.",
+        "alts": [],
+        "form": "Présent"
+      },
+      {
+        "slot": "t|Présent|1",
+        "f": "tense",
+        "s": "Tu ___ ta voix avec ce système sonore.",
+        "a": "amplifies",
+        "en": "You amplify your voice with this sound system.",
+        "alts": [],
+        "form": "Présent"
+      },
+      {
+        "slot": "t|Présent|1",
+        "f": "tense",
+        "s": "Est-ce que tu ___ vraiment le signal avec ce dispositif ?",
+        "a": "amplifies",
+        "en": "Do you really amplify the signal with this device?",
+        "alts": [],
+        "form": "Présent"
+      },
+      {
+        "slot": "t|Présent|2",
+        "f": "tense",
+        "s": "Nous ___ les effets du son dans ce studio d'enregistrement.",
+        "a": "amplifions",
+        "en": "We amplify the sound effects in this recording studio.",
+        "alts": [],
+        "form": "Présent"
+      },
+      {
+        "slot": "t|Présent|2",
+        "f": "tense",
+        "s": "En travaillant ensemble, nous ___ notre impact sur la communauté.",
+        "a": "amplifions",
+        "en": "By working together, we amplify our impact on the community.",
+        "alts": [],
+        "form": "Présent"
+      },
+      {
+        "slot": "t|Présent|3",
+        "f": "tense",
+        "s": "Vous ___ le message en le diffusant sur toutes les plateformes.",
+        "a": "amplifiez",
+        "en": "You amplify the message by broadcasting it on all platforms.",
+        "alts": [],
+        "form": "Présent"
+      },
+      {
+        "slot": "t|Présent|3",
+        "f": "tense",
+        "s": "Avec cet appareil, vous ___ les sons trop faibles pour être entendus.",
+        "a": "amplifiez",
+        "en": "With this device, you amplify sounds that are too weak to be heard.",
+        "alts": [],
+        "form": "Présent"
+      },
+      {
+        "slot": "t|Présent|4",
+        "f": "tense",
+        "s": "Les haut-parleurs ___ la musique dans toute la salle.",
+        "a": "amplifient",
+        "en": "The speakers amplify the music throughout the hall.",
+        "alts": [],
+        "form": "Présent"
+      },
+      {
+        "slot": "t|Présent|4",
+        "f": "tense",
+        "s": "Ces lunettes spéciales ___ les images pour les personnes malvoyantes.",
+        "a": "amplifient",
+        "en": "These special glasses amplify images for visually impaired people.",
+        "alts": [],
+        "form": "Présent"
+      },
+      {
+        "slot": "t|Passé composé|0",
+        "f": "tense",
+        "s": "J'___ le signal avant de l'envoyer.",
+        "a": "ai amplifié",
+        "en": "I amplified the signal before sending it.",
+        "alts": [],
+        "form": "Passé composé"
+      },
+      {
+        "slot": "t|Passé composé|0",
+        "f": "tense",
+        "s": "Ce matin, j'___ le volume de ma guitare pour le concert.",
+        "a": "ai amplifié",
+        "en": "This morning, I amplified the volume of my guitar for the concert.",
+        "alts": [],
+        "form": "Passé composé"
+      },
+      {
+        "slot": "t|Passé composé|1",
+        "f": "tense",
+        "s": "Tu ___ le son trop fort et les voisins se sont plaints.",
+        "a": "as amplifié",
+        "en": "You amplified the sound too loud and the neighbors complained.",
+        "alts": [],
+        "form": "Passé composé"
+      },
+      {
+        "slot": "t|Passé composé|1",
+        "f": "tense",
+        "s": "Est-ce que tu ___ correctement le signal radio cette nuit ?",
+        "a": "as amplifié",
+        "en": "Did you correctly amplify the radio signal last night?",
+        "alts": [],
+        "form": "Passé composé"
+      },
+      {
+        "slot": "t|Passé composé|2",
+        "f": "tense",
+        "s": "Le technicien ___ le signal pour améliorer la réception.",
+        "a": "a amplifié",
+        "en": "The technician amplified the signal to improve reception.",
+        "alts": [],
+        "form": "Passé composé"
+      },
+      {
+        "slot": "t|Passé composé|2",
+        "f": "tense",
+        "s": "Cette découverte ___ l'intérêt des chercheurs pour ce domaine.",
+        "a": "a amplifié",
+        "en": "This discovery amplified the researchers' interest in this field.",
+        "alts": [],
+        "form": "Passé composé"
+      },
+      {
+        "slot": "t|Passé composé|3",
+        "f": "tense",
+        "s": "Nous ___ notre présence sur les réseaux sociaux l'année dernière.",
+        "a": "avons amplifié",
+        "en": "We amplified our presence on social media last year.",
+        "alts": [],
+        "form": "Passé composé"
+      },
+      {
+        "slot": "t|Passé composé|3",
+        "f": "tense",
+        "s": "En ajoutant des instruments, nous ___ la puissance sonore de l'orchestre.",
+        "a": "avons amplifié",
+        "en": "By adding instruments, we amplified the sound power of the orchestra.",
+        "alts": [],
+        "form": "Passé composé"
+      },
+      {
+        "slot": "t|Passé composé|4",
+        "f": "tense",
+        "s": "Vous ___ le problème en en parlant partout.",
+        "a": "avez amplifié",
+        "en": "You amplified the problem by talking about it everywhere.",
+        "alts": [],
+        "form": "Passé composé"
+      },
+      {
+        "slot": "t|Passé composé|4",
+        "f": "tense",
+        "s": "Avez-vous ___ le son avant la répétition générale ?",
+        "a": "amplifié",
+        "en": "Did you amplify the sound before the dress rehearsal?",
+        "alts": [],
+        "form": "Passé composé"
+      },
+      {
+        "slot": "t|Passé composé|5",
+        "f": "tense",
+        "s": "Les médias ___ l'événement au-delà de toute proportion.",
+        "a": "ont amplifié",
+        "en": "The media amplified the event beyond all proportion.",
+        "alts": [],
+        "form": "Passé composé"
+      },
+      {
+        "slot": "t|Passé composé|5",
+        "f": "tense",
+        "s": "Les ingénieurs ___ les vibrations pour détecter des failles dans la structure.",
+        "a": "ont amplifié",
+        "en": "The engineers amplified the vibrations to detect faults in the structure.",
+        "alts": [],
+        "form": "Passé composé"
+      },
+      {
+        "slot": "t|Imparfait|0",
+        "f": "tense",
+        "s": "Quand j'étais ingénieur du son, j'___ les signaux faibles chaque soir.",
+        "a": "amplifiais",
+        "en": "When I was a sound engineer, I used to amplify weak signals every evening.",
+        "alts": [],
+        "form": "Imparfait"
+      },
+      {
+        "slot": "t|Imparfait|0",
+        "f": "tense",
+        "s": "Tu ___ toujours le son avant chaque représentation.",
+        "a": "amplifiais",
+        "en": "You always used to amplify the sound before each performance.",
+        "alts": [],
+        "form": "Imparfait"
+      },
+      {
+        "slot": "t|Imparfait|1",
+        "f": "tense",
+        "s": "Le mur rocheux ___ l'écho de nos voix dans la grotte.",
+        "a": "amplifiait",
+        "en": "The rock wall used to amplify the echo of our voices in the cave.",
+        "alts": [],
+        "form": "Imparfait"
+      },
+      {
+        "slot": "t|Imparfait|1",
+        "f": "tense",
+        "s": "Ce vieux transistor ___ le son de manière surprenante.",
+        "a": "amplifiait",
+        "en": "That old transistor used to amplify the sound in a surprising way.",
+        "alts": [],
+        "form": "Imparfait"
+      },
+      {
+        "slot": "t|Imparfait|2",
+        "f": "tense",
+        "s": "Nous ___ la portée de nos émissions radio chaque semaine.",
+        "a": "amplifiions",
+        "en": "We used to amplify the range of our radio broadcasts each week.",
+        "alts": [],
+        "form": "Imparfait"
+      },
+      {
+        "slot": "t|Imparfait|2",
+        "f": "tense",
+        "s": "À l'époque, nous ___ les signaux manuellement avec de vieux équipements.",
+        "a": "amplifiions",
+        "en": "Back then, we used to amplify signals manually with old equipment.",
+        "alts": [],
+        "form": "Imparfait"
+      },
+      {
+        "slot": "t|Imparfait|3",
+        "f": "tense",
+        "s": "Vous ___ le son de la salle avec des enceintes artisanales à cette époque.",
+        "a": "amplifiiez",
+        "en": "You used to amplify the room's sound with handmade speakers at that time.",
+        "alts": [],
+        "form": "Imparfait"
+      },
+      {
+        "slot": "t|Imparfait|3",
+        "f": "tense",
+        "s": "Est-ce que vous ___ les effets spéciaux sonores pour chaque scène ?",
+        "a": "amplifiiez",
+        "en": "Did you use to amplify the special sound effects for each scene?",
+        "alts": [],
+        "form": "Imparfait"
+      },
+      {
+        "slot": "t|Imparfait|4",
+        "f": "tense",
+        "s": "Les antennes ___ les signaux de télévision dans les zones rurales.",
+        "a": "amplifiaient",
+        "en": "The antennas used to amplify television signals in rural areas.",
+        "alts": [],
+        "form": "Imparfait"
+      },
+      {
+        "slot": "t|Imparfait|4",
+        "f": "tense",
+        "s": "Ces dispositifs ___ les vibrations pour rendre les défauts visibles.",
+        "a": "amplifiaient",
+        "en": "These devices used to amplify vibrations to make defects visible.",
+        "alts": [],
+        "form": "Imparfait"
+      },
+      {
+        "slot": "t|Futur|0",
+        "f": "tense",
+        "s": "J'___ le signal dès que j'aurai installé le nouveau matériel.",
+        "a": "amplifierai",
+        "en": "I will amplify the signal as soon as I have installed the new equipment.",
+        "alts": [],
+        "form": "Futur"
+      },
+      {
+        "slot": "t|Futur|0",
+        "f": "tense",
+        "s": "Demain, j'___ le volume pour la grande présentation.",
+        "a": "amplifierai",
+        "en": "Tomorrow, I will amplify the volume for the big presentation.",
+        "alts": [],
+        "form": "Futur"
+      },
+      {
+        "slot": "t|Futur|1",
+        "f": "tense",
+        "s": "Tu ___ ta voix avec ce micro sans fil lors du discours.",
+        "a": "amplifieras",
+        "en": "You will amplify your voice with this wireless microphone during the speech.",
+        "alts": [],
+        "form": "Futur"
+      },
+      {
+        "slot": "t|Futur|1",
+        "f": "tense",
+        "s": "Si tu apportes ton amplificateur, tu ___ le son de la guitare.",
+        "a": "amplifieras",
+        "en": "If you bring your amplifier, you will amplify the guitar sound.",
+        "alts": [],
+        "form": "Futur"
+      },
+      {
+        "slot": "t|Futur|2",
+        "f": "tense",
+        "s": "Ce nouveau système ___ automatiquement les sons trop faibles.",
+        "a": "amplifiera",
+        "en": "This new system will automatically amplify sounds that are too weak.",
+        "alts": [],
+        "form": "Futur"
+      },
+      {
+        "slot": "t|Futur|2",
+        "f": "tense",
+        "s": "La réforme ___ l'impact des politiques sociales dans les régions défavorisées.",
+        "a": "amplifiera",
+        "en": "The reform will amplify the impact of social policies in disadvantaged regions.",
+        "alts": [],
+        "form": "Futur"
+      },
+      {
+        "slot": "t|Futur|3",
+        "f": "tense",
+        "s": "Nous ___ nos efforts pour atteindre un public plus large.",
+        "a": "amplifierons",
+        "en": "We will amplify our efforts to reach a wider audience.",
+        "alts": [],
+        "form": "Futur"
+      },
+      {
+        "slot": "t|Futur|3",
+        "f": "tense",
+        "s": "L'année prochaine, nous ___ la puissance de notre émetteur radio.",
+        "a": "amplifierons",
+        "en": "Next year, we will amplify the power of our radio transmitter.",
+        "alts": [],
+        "form": "Futur"
+      },
+      {
+        "slot": "t|Futur|4",
+        "f": "tense",
+        "s": "Vous ___ le signal grâce au nouveau relais installé en montagne.",
+        "a": "amplifierez",
+        "en": "You will amplify the signal thanks to the new relay installed in the mountains.",
+        "alts": [],
+        "form": "Futur"
+      },
+      {
+        "slot": "t|Futur|4",
+        "f": "tense",
+        "s": "Avec cette formation, vous ___ vos compétences professionnelles.",
+        "a": "amplifierez",
+        "en": "With this training, you will amplify your professional skills.",
+        "alts": [],
+        "form": "Futur"
+      },
+      {
+        "slot": "t|Futur|5",
+        "f": "tense",
+        "s": "Ces nouvelles mesures ___ les inégalités si on n'y prend pas garde.",
+        "a": "amplifieront",
+        "en": "These new measures will amplify inequalities if we are not careful.",
+        "alts": [],
+        "form": "Futur"
+      },
+      {
+        "slot": "t|Futur|5",
+        "f": "tense",
+        "s": "Les scientifiques ___ le signal capté par le télescope spatial.",
+        "a": "amplifieront",
+        "en": "The scientists will amplify the signal captured by the space telescope.",
+        "alts": [],
+        "form": "Futur"
+      },
+      {
+        "slot": "t|Conditionnel|0",
+        "f": "tense",
+        "s": "J'___ le son si j'avais un meilleur amplificateur.",
+        "a": "amplifierais",
+        "en": "I would amplify the sound if I had a better amplifier.",
+        "alts": [],
+        "form": "Conditionnel"
+      },
+      {
+        "slot": "t|Conditionnel|0",
+        "f": "tense",
+        "s": "Si tu avais plus de ressources, tu ___ ta capacité de diffusion.",
+        "a": "amplifierais",
+        "en": "If you had more resources, you would amplify your broadcasting capacity.",
+        "alts": [],
+        "form": "Conditionnel"
+      },
+      {
+        "slot": "t|Conditionnel|1",
+        "f": "tense",
+        "s": "Ce dispositif ___ le signal bien mieux si on l'installait correctement.",
+        "a": "amplifierait",
+        "en": "This device would amplify the signal much better if it were installed correctly.",
+        "alts": [],
+        "form": "Conditionnel"
+      },
+      {
+        "slot": "t|Conditionnel|1",
+        "f": "tense",
+        "s": "Une meilleure antenne ___ la portée du réseau sans fil.",
+        "a": "amplifierait",
+        "en": "A better antenna would amplify the range of the wireless network.",
+        "alts": [],
+        "form": "Conditionnel"
+      },
+      {
+        "slot": "t|Conditionnel|2",
+        "f": "tense",
+        "s": "Nous ___ notre portée si nous avions davantage de relais.",
+        "a": "amplifierions",
+        "en": "We would amplify our reach if we had more relay stations.",
+        "alts": [],
+        "form": "Conditionnel"
+      },
+      {
+        "slot": "t|Conditionnel|2",
+        "f": "tense",
+        "s": "Avec plus de budget, nous ___ notre campagne de communication.",
+        "a": "amplifierions",
+        "en": "With more budget, we would amplify our communication campaign.",
+        "alts": [],
+        "form": "Conditionnel"
+      },
+      {
+        "slot": "t|Conditionnel|3",
+        "f": "tense",
+        "s": "Vous ___ l'effet si vous utilisiez deux microphones au lieu d'un.",
+        "a": "amplifieriez",
+        "en": "You would amplify the effect if you used two microphones instead of one.",
+        "alts": [],
+        "form": "Conditionnel"
+      },
+      {
+        "slot": "t|Conditionnel|3",
+        "f": "tense",
+        "s": "Avec cet équipement professionnel, vous ___ le son de façon remarquable.",
+        "a": "amplifieriez",
+        "en": "With this professional equipment, you would amplify the sound remarkably.",
+        "alts": [],
+        "form": "Conditionnel"
+      },
+      {
+        "slot": "t|Conditionnel|4",
+        "f": "tense",
+        "s": "Ces antennes ___ mieux le signal si elles étaient orientées correctement.",
+        "a": "amplifieraient",
+        "en": "These antennas would amplify the signal better if they were oriented correctly.",
+        "alts": [],
+        "form": "Conditionnel"
+      },
+      {
+        "slot": "t|Conditionnel|4",
+        "f": "tense",
+        "s": "Les médias ___ encore plus la nouvelle s'ils en avaient connaissance.",
+        "a": "amplifieraient",
+        "en": "The media would amplify the news even more if they were aware of it.",
+        "alts": [],
+        "form": "Conditionnel"
+      },
+      {
+        "slot": "t|Subjonctif",
+        "f": "subj",
+        "s": "Il faut que tu ___ le son avant que le concert commence.",
+        "a": "amplifies",
+        "en": "It is necessary that you amplify the sound before the concert starts.",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "t|Subjonctif",
+        "f": "subj",
+        "s": "Je souhaite que nous ___ notre impact sur le public cible.",
+        "a": "amplifiions",
+        "en": "I wish that we amplify our impact on the target audience.",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "s|0",
+        "f": "sense",
+        "s": "Ce microscope optique ___ les images jusqu'à mille fois leur taille réelle.",
+        "a": "amplifie",
+        "en": "This optical microscope magnifies images up to a thousand times their actual size.",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "s|0",
+        "f": "sense",
+        "s": "La loupe ___ les détails trop petits pour être vus à l'œil nu.",
+        "a": "amplifie",
+        "en": "The magnifying glass magnifies details too small to be seen with the naked eye.",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "s|1",
+        "f": "sense",
+        "s": "Le gouvernement cherche à ___ son programme de logement social.",
+        "a": "amplifier",
+        "en": "The government seeks to expand its social housing program.",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "s|1",
+        "f": "sense",
+        "s": "La crise a contribué à ___ les inégalités entre les régions.",
+        "a": "amplifier",
+        "en": "The crisis has contributed to expanding inequalities between regions.",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "s|2",
+        "f": "sense",
+        "s": "Le café ___ les effets du médicament sur le système nerveux.",
+        "a": "amplifie",
+        "en": "Coffee strengthens the effects of the medication on the nervous system.",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "s|2",
+        "f": "sense",
+        "s": "La pratique régulière du sport ___ les capacités physiques des athlètes.",
+        "a": "amplifie",
+        "en": "Regular sports practice strengthens the physical capacities of athletes.",
+        "alts": [],
+        "form": ""
+      }
+    ]
+  }
+]

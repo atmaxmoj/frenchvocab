@@ -1,0 +1,701 @@
+[
+  {
+    "id": 1055,
+    "qs": [
+      {
+        "slot": "s|0",
+        "f": "sense",
+        "s": "L'avocat a demandé au ___ de raconter ce qu'il avait vu lors du procès.",
+        "a": "témoin",
+        "en": "The lawyer asked the witness to recount what he had seen during the trial.",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "s|0",
+        "f": "sense",
+        "s": "Le ___ a prêté serment avant de déposer devant le tribunal.",
+        "a": "témoin",
+        "en": "The witness took an oath before testifying before the court.",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "s|1",
+        "f": "sense",
+        "s": "La police a interrogé le seul ___ de l'accident de voiture.",
+        "a": "témoin",
+        "en": "The police questioned the only eyewitness to the car accident.",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "s|1",
+        "f": "sense",
+        "s": "Un ___ oculaire a affirmé avoir vu l'homme s'enfuir après l'explosion.",
+        "a": "témoin",
+        "en": "An eyewitness stated that he had seen the man flee after the explosion.",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "s|2",
+        "f": "sense",
+        "s": "Il a été choisi comme ___ de mariage par son meilleur ami.",
+        "a": "témoin",
+        "en": "He was chosen as a wedding witness by his best friend.",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "s|2",
+        "f": "sense",
+        "s": "Ces vieilles pierres sont les ___ silencieux de siècles d'histoire.",
+        "a": "témoins",
+        "en": "These old stones are the silent witnesses of centuries of history.",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "gender",
+        "f": "gender",
+        "s": "Elle a rencontré ___ témoin clé de l'affaire lors de son enquête.",
+        "a": "un",
+        "en": "She met a key witness in the case during her investigation.",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "gender",
+        "f": "gender",
+        "s": "___ témoin principal a refusé de parler aux journalistes.",
+        "a": "Le",
+        "en": "The main witness refused to speak to the journalists.",
+        "alts": [],
+        "form": ""
+      }
+    ]
+  },
+  {
+    "id": 1056,
+    "qs": [
+      {
+        "slot": "t|Présent|0",
+        "f": "tense",
+        "s": "J'___ mes notes de vocabulaire chaque soir.",
+        "a": "améliore",
+        "en": "I improve my vocabulary notes every evening.",
+        "alts": [],
+        "form": "Présent"
+      },
+      {
+        "slot": "t|Présent|0",
+        "f": "tense",
+        "s": "Ce programme ___ la qualité de vie des patients.",
+        "a": "améliore",
+        "en": "This program improves the patients' quality of life.",
+        "alts": [],
+        "form": "Présent"
+      },
+      {
+        "slot": "t|Présent|1",
+        "f": "tense",
+        "s": "Tu ___ ta prononciation grâce à ces exercices.",
+        "a": "améliores",
+        "en": "You are improving your pronunciation thanks to these exercises.",
+        "alts": [],
+        "form": "Présent"
+      },
+      {
+        "slot": "t|Présent|1",
+        "f": "tense",
+        "s": "Est-ce que tu ___ tes résultats cette année ?",
+        "a": "améliores",
+        "en": "Are you improving your results this year?",
+        "alts": [],
+        "form": "Présent"
+      },
+      {
+        "slot": "t|Présent|2",
+        "f": "tense",
+        "s": "Nous ___ constamment notre service clientèle.",
+        "a": "améliorons",
+        "en": "We are constantly improving our customer service.",
+        "alts": [],
+        "form": "Présent"
+      },
+      {
+        "slot": "t|Présent|2",
+        "f": "tense",
+        "s": "Ensemble, nous ___ les conditions de travail.",
+        "a": "améliorons",
+        "en": "Together, we are improving working conditions.",
+        "alts": [],
+        "form": "Présent"
+      },
+      {
+        "slot": "t|Présent|3",
+        "f": "tense",
+        "s": "Vous ___ vraiment votre niveau de français !",
+        "a": "améliorez",
+        "en": "You are really improving your French level!",
+        "alts": [],
+        "form": "Présent"
+      },
+      {
+        "slot": "t|Présent|3",
+        "f": "tense",
+        "s": "Comment est-ce que vous ___ votre méthode de travail ?",
+        "a": "améliorez",
+        "en": "How are you improving your working method?",
+        "alts": [],
+        "form": "Présent"
+      },
+      {
+        "slot": "t|Présent|4",
+        "f": "tense",
+        "s": "Les ingénieurs ___ le logiciel chaque semaine.",
+        "a": "améliorent",
+        "en": "The engineers improve the software every week.",
+        "alts": [],
+        "form": "Présent"
+      },
+      {
+        "slot": "t|Présent|4",
+        "f": "tense",
+        "s": "Ces nouvelles mesures ___ la sécurité routière.",
+        "a": "améliorent",
+        "en": "These new measures improve road safety.",
+        "alts": [],
+        "form": "Présent"
+      },
+      {
+        "slot": "t|Passé composé|0",
+        "f": "tense",
+        "s": "J'___ mon score au test de la semaine dernière.",
+        "a": "ai amélioré",
+        "en": "I improved my test score last week.",
+        "alts": [],
+        "form": "Passé composé"
+      },
+      {
+        "slot": "t|Passé composé|0",
+        "f": "tense",
+        "s": "Cette année, j'___ ma technique de natation.",
+        "a": "ai amélioré",
+        "en": "This year, I improved my swimming technique.",
+        "alts": [],
+        "form": "Passé composé"
+      },
+      {
+        "slot": "t|Passé composé|1",
+        "f": "tense",
+        "s": "Tu ___ considérablement ton accent en six mois.",
+        "a": "as amélioré",
+        "en": "You considerably improved your accent in six months.",
+        "alts": [],
+        "form": "Passé composé"
+      },
+      {
+        "slot": "t|Passé composé|1",
+        "f": "tense",
+        "s": "Tu ___ tes habitudes alimentaires depuis janvier.",
+        "a": "as amélioré",
+        "en": "You improved your eating habits since January.",
+        "alts": [],
+        "form": "Passé composé"
+      },
+      {
+        "slot": "t|Passé composé|2",
+        "f": "tense",
+        "s": "Le maire ___ les infrastructures de la ville.",
+        "a": "a amélioré",
+        "en": "The mayor improved the city's infrastructure.",
+        "alts": [],
+        "form": "Passé composé"
+      },
+      {
+        "slot": "t|Passé composé|2",
+        "f": "tense",
+        "s": "Cette décision ___ la situation économique du pays.",
+        "a": "a amélioré",
+        "en": "This decision improved the country's economic situation.",
+        "alts": [],
+        "form": "Passé composé"
+      },
+      {
+        "slot": "t|Passé composé|3",
+        "f": "tense",
+        "s": "Nous ___ notre protocole de sécurité après l'incident.",
+        "a": "avons amélioré",
+        "en": "We improved our safety protocol after the incident.",
+        "alts": [],
+        "form": "Passé composé"
+      },
+      {
+        "slot": "t|Passé composé|3",
+        "f": "tense",
+        "s": "Nous ___ nos performances lors du dernier championnat.",
+        "a": "avons amélioré",
+        "en": "We improved our performance during the last championship.",
+        "alts": [],
+        "form": "Passé composé"
+      },
+      {
+        "slot": "t|Passé composé|4",
+        "f": "tense",
+        "s": "Vous ___ votre présentation avant la réunion.",
+        "a": "avez amélioré",
+        "en": "You improved your presentation before the meeting.",
+        "alts": [],
+        "form": "Passé composé"
+      },
+      {
+        "slot": "t|Passé composé|4",
+        "f": "tense",
+        "s": "Vous ___ le design du site web le mois dernier.",
+        "a": "avez amélioré",
+        "en": "You improved the website design last month.",
+        "alts": [],
+        "form": "Passé composé"
+      },
+      {
+        "slot": "t|Passé composé|5",
+        "f": "tense",
+        "s": "Les chercheurs ___ le vaccin après de nouveaux essais.",
+        "a": "ont amélioré",
+        "en": "The researchers improved the vaccine after new trials.",
+        "alts": [],
+        "form": "Passé composé"
+      },
+      {
+        "slot": "t|Passé composé|5",
+        "f": "tense",
+        "s": "Elles ___ leurs relations grâce à une meilleure communication.",
+        "a": "ont amélioré",
+        "en": "They improved their relationship thanks to better communication.",
+        "alts": [],
+        "form": "Passé composé"
+      },
+      {
+        "slot": "t|Imparfait|0",
+        "f": "tense",
+        "s": "Quand j'étais étudiant, j'___ mon vocabulaire avec des fiches.",
+        "a": "améliorais",
+        "en": "When I was a student, I used to improve my vocabulary with flashcards.",
+        "alts": [],
+        "form": "Imparfait"
+      },
+      {
+        "slot": "t|Imparfait|0",
+        "f": "tense",
+        "s": "Tu ___ chaque jour ton niveau en pratiquant avec des natifs.",
+        "a": "améliorais",
+        "en": "You used to improve your level every day by practising with native speakers.",
+        "alts": [],
+        "form": "Imparfait"
+      },
+      {
+        "slot": "t|Imparfait|1",
+        "f": "tense",
+        "s": "L'équipe ___ sans cesse ses résultats saison après saison.",
+        "a": "améliorait",
+        "en": "The team kept improving its results season after season.",
+        "alts": [],
+        "form": "Imparfait"
+      },
+      {
+        "slot": "t|Imparfait|1",
+        "f": "tense",
+        "s": "Ce médicament ___ lentement l'état du patient.",
+        "a": "améliorait",
+        "en": "This medication was slowly improving the patient's condition.",
+        "alts": [],
+        "form": "Imparfait"
+      },
+      {
+        "slot": "t|Imparfait|2",
+        "f": "tense",
+        "s": "Nous ___ notre technique chaque semaine à l'entraînement.",
+        "a": "améliorions",
+        "en": "We used to improve our technique every week at training.",
+        "alts": [],
+        "form": "Imparfait"
+      },
+      {
+        "slot": "t|Imparfait|2",
+        "f": "tense",
+        "s": "Nous ___ peu à peu les conditions de vie dans ce quartier.",
+        "a": "améliorions",
+        "en": "We were gradually improving living conditions in that neighbourhood.",
+        "alts": [],
+        "form": "Imparfait"
+      },
+      {
+        "slot": "t|Imparfait|3",
+        "f": "tense",
+        "s": "Vous ___ vos recettes à chaque fois que vous cuisiniez.",
+        "a": "amélioriez",
+        "en": "You used to improve your recipes each time you cooked.",
+        "alts": [],
+        "form": "Imparfait"
+      },
+      {
+        "slot": "t|Imparfait|3",
+        "f": "tense",
+        "s": "Vous ___ régulièrement votre programme de formation.",
+        "a": "amélioriez",
+        "en": "You were regularly improving your training programme.",
+        "alts": [],
+        "form": "Imparfait"
+      },
+      {
+        "slot": "t|Imparfait|4",
+        "f": "tense",
+        "s": "Les ouvriers ___ progressivement le processus de fabrication.",
+        "a": "amélioraient",
+        "en": "The workers were gradually improving the manufacturing process.",
+        "alts": [],
+        "form": "Imparfait"
+      },
+      {
+        "slot": "t|Imparfait|4",
+        "f": "tense",
+        "s": "Elles ___ constamment leurs stratégies de vente.",
+        "a": "amélioraient",
+        "en": "They were constantly improving their sales strategies.",
+        "alts": [],
+        "form": "Imparfait"
+      },
+      {
+        "slot": "t|Futur|0",
+        "f": "tense",
+        "s": "L'année prochaine, j'___ mon niveau d'anglais.",
+        "a": "améliorerai",
+        "en": "Next year, I will improve my English level.",
+        "alts": [],
+        "form": "Futur simple"
+      },
+      {
+        "slot": "t|Futur|0",
+        "f": "tense",
+        "s": "Je te promets que j'___ ma ponctualité.",
+        "a": "améliorerai",
+        "en": "I promise you I will improve my punctuality.",
+        "alts": [],
+        "form": "Futur simple"
+      },
+      {
+        "slot": "t|Futur|1",
+        "f": "tense",
+        "s": "Tu ___ tes résultats si tu travailles régulièrement.",
+        "a": "amélioreras",
+        "en": "You will improve your results if you work regularly.",
+        "alts": [],
+        "form": "Futur simple"
+      },
+      {
+        "slot": "t|Futur|1",
+        "f": "tense",
+        "s": "Avec ce cours, tu ___ ta compréhension écrite.",
+        "a": "amélioreras",
+        "en": "With this course, you will improve your reading comprehension.",
+        "alts": [],
+        "form": "Futur simple"
+      },
+      {
+        "slot": "t|Futur|2",
+        "f": "tense",
+        "s": "Ce nouvel outil ___ la productivité de l'équipe.",
+        "a": "améliorera",
+        "en": "This new tool will improve the team's productivity.",
+        "alts": [],
+        "form": "Futur simple"
+      },
+      {
+        "slot": "t|Futur|2",
+        "f": "tense",
+        "s": "La réforme ___ l'accès aux soins médicaux.",
+        "a": "améliorera",
+        "en": "The reform will improve access to medical care.",
+        "alts": [],
+        "form": "Futur simple"
+      },
+      {
+        "slot": "t|Futur|3",
+        "f": "tense",
+        "s": "Nous ___ notre offre de produits dès le mois prochain.",
+        "a": "améliorerons",
+        "en": "We will improve our product range from next month.",
+        "alts": [],
+        "form": "Futur simple"
+      },
+      {
+        "slot": "t|Futur|3",
+        "f": "tense",
+        "s": "Nous ___ nos méthodes grâce aux retours des clients.",
+        "a": "améliorerons",
+        "en": "We will improve our methods thanks to customer feedback.",
+        "alts": [],
+        "form": "Futur simple"
+      },
+      {
+        "slot": "t|Futur|4",
+        "f": "tense",
+        "s": "Vous ___ votre technique si vous pratiquez chaque jour.",
+        "a": "améliorerez",
+        "en": "You will improve your technique if you practise every day.",
+        "alts": [],
+        "form": "Futur simple"
+      },
+      {
+        "slot": "t|Futur|4",
+        "f": "tense",
+        "s": "Demain, vous ___ votre discours avant la conférence.",
+        "a": "améliorerez",
+        "en": "Tomorrow, you will improve your speech before the conference.",
+        "alts": [],
+        "form": "Futur simple"
+      },
+      {
+        "slot": "t|Futur|5",
+        "f": "tense",
+        "s": "Les scientifiques ___ ce traitement dans les années à venir.",
+        "a": "amélioreront",
+        "en": "Scientists will improve this treatment in the coming years.",
+        "alts": [],
+        "form": "Futur simple"
+      },
+      {
+        "slot": "t|Futur|5",
+        "f": "tense",
+        "s": "Elles ___ leurs conditions de vie grâce à cette aide.",
+        "a": "amélioreront",
+        "en": "They will improve their living conditions thanks to this assistance.",
+        "alts": [],
+        "form": "Futur simple"
+      },
+      {
+        "slot": "t|Conditionnel|0",
+        "f": "tense",
+        "s": "Si j'avais plus de temps, j'___ mon alimentation.",
+        "a": "améliorerais",
+        "en": "If I had more time, I would improve my diet.",
+        "alts": [],
+        "form": "Conditionnel présent"
+      },
+      {
+        "slot": "t|Conditionnel|0",
+        "f": "tense",
+        "s": "Si tu avais un coach, tu ___ tes performances sportives.",
+        "a": "améliorerais",
+        "en": "If you had a coach, you would improve your athletic performance.",
+        "alts": [],
+        "form": "Conditionnel présent"
+      },
+      {
+        "slot": "t|Conditionnel|1",
+        "f": "tense",
+        "s": "Un investissement supplémentaire ___ la situation.",
+        "a": "améliorerait",
+        "en": "Additional investment would improve the situation.",
+        "alts": [],
+        "form": "Conditionnel présent"
+      },
+      {
+        "slot": "t|Conditionnel|1",
+        "f": "tense",
+        "s": "Cette mesure ___ la qualité de l'air dans nos villes.",
+        "a": "améliorerait",
+        "en": "This measure would improve air quality in our cities.",
+        "alts": [],
+        "form": "Conditionnel présent"
+      },
+      {
+        "slot": "t|Conditionnel|2",
+        "f": "tense",
+        "s": "Si nous avions plus de budget, nous ___ nos équipements.",
+        "a": "améliorerions",
+        "en": "If we had a bigger budget, we would improve our equipment.",
+        "alts": [],
+        "form": "Conditionnel présent"
+      },
+      {
+        "slot": "t|Conditionnel|2",
+        "f": "tense",
+        "s": "Nous ___ volontiers ce rapport si vous nous donniez plus de données.",
+        "a": "améliorerions",
+        "en": "We would gladly improve this report if you gave us more data.",
+        "alts": [],
+        "form": "Conditionnel présent"
+      },
+      {
+        "slot": "t|Conditionnel|3",
+        "f": "tense",
+        "s": "Si vous pratiquiez davantage, vous ___ votre niveau rapidement.",
+        "a": "amélioreriez",
+        "en": "If you practised more, you would improve your level quickly.",
+        "alts": [],
+        "form": "Conditionnel présent"
+      },
+      {
+        "slot": "t|Conditionnel|3",
+        "f": "tense",
+        "s": "Vous ___ vos résultats si vous révisiez régulièrement.",
+        "a": "amélioreriez",
+        "en": "You would improve your results if you revised regularly.",
+        "alts": [],
+        "form": "Conditionnel présent"
+      },
+      {
+        "slot": "t|Conditionnel|4",
+        "f": "tense",
+        "s": "Les élèves ___ leurs notes s'ils étudiaient plus sérieusement.",
+        "a": "amélioreraient",
+        "en": "The students would improve their grades if they studied more seriously.",
+        "alts": [],
+        "form": "Conditionnel présent"
+      },
+      {
+        "slot": "t|Conditionnel|4",
+        "f": "tense",
+        "s": "Elles ___ leurs conditions de travail si elles négociaient mieux.",
+        "a": "amélioreraient",
+        "en": "They would improve their working conditions if they negotiated better.",
+        "alts": [],
+        "form": "Conditionnel présent"
+      },
+      {
+        "slot": "t|Subjonctif",
+        "f": "subj",
+        "s": "Il faut que tu ___ ton attitude au travail.",
+        "a": "améliores",
+        "en": "You need to improve your attitude at work.",
+        "alts": [],
+        "form": "Subjonctif présent"
+      },
+      {
+        "slot": "t|Subjonctif",
+        "f": "subj",
+        "s": "Je veux qu'il ___ ses méthodes d'enseignement.",
+        "a": "améliore",
+        "en": "I want him to improve his teaching methods.",
+        "alts": [],
+        "form": "Subjonctif présent"
+      },
+      {
+        "slot": "s|0",
+        "f": "sense",
+        "s": "Ces travaux ont permis d'___ les conditions de vie dans le quartier.",
+        "a": "améliorer",
+        "en": "These works made it possible to improve living conditions in the neighbourhood. (sense: 改善)",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "s|0",
+        "f": "sense",
+        "s": "Le gouvernement cherche à ___ la qualité de l'air dans les grandes villes.",
+        "a": "améliorer",
+        "en": "The government is trying to improve air quality in major cities. (sense: 改善)",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "s|1",
+        "f": "sense",
+        "s": "Elle s'entraîne tous les jours pour ___ ses performances sportives.",
+        "a": "améliorer",
+        "en": "She trains every day to improve her athletic performance. (sense: 提高)",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "s|1",
+        "f": "sense",
+        "s": "Ce stage l'a aidé à ___ son niveau de compétence professionnelle.",
+        "a": "améliorer",
+        "en": "This internship helped him improve his level of professional competence. (sense: 提高)",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "s|2",
+        "f": "sense",
+        "s": "L'ingénieur a proposé des idées pour ___ le processus de fabrication.",
+        "a": "améliorer",
+        "en": "The engineer proposed ideas to improve the manufacturing process. (sense: 改进)",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "s|2",
+        "f": "sense",
+        "s": "Nous devons ___ notre méthode de travail pour gagner en efficacité.",
+        "a": "améliorer",
+        "en": "We need to improve our work method to gain efficiency. (sense: 改进)",
+        "alts": [],
+        "form": ""
+      }
+    ]
+  },
+  {
+    "id": 1057,
+    "qs": [
+      {
+        "slot": "s|0",
+        "f": "sense",
+        "s": "La réforme de ___ publique est au cœur du débat politique.",
+        "a": "l'administration",
+        "en": "The reform of public administration is at the heart of the political debate.",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "s|0",
+        "f": "sense",
+        "s": "Il travaille dans ___ depuis vingt ans et connaît bien les procédures.",
+        "a": "l'administration",
+        "en": "He has worked in administration for twenty years and knows the procedures well.",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "s|1",
+        "f": "sense",
+        "s": "___ municipale a publié un communiqué pour informer les habitants.",
+        "a": "L'administration",
+        "en": "The municipal administration published a press release to inform residents.",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "s|1",
+        "f": "sense",
+        "s": "Il a envoyé sa demande directement à ___ compétente.",
+        "a": "l'administration",
+        "en": "He sent his request directly to the competent administrative body.",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "gender",
+        "f": "gender",
+        "s": "C'est ___ administration très efficace qui gère ce département.",
+        "a": "une",
+        "en": "It is a very efficient administration that manages this department.",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "gender",
+        "f": "gender",
+        "s": "Elle travaille dans ___ administration locale depuis plusieurs années.",
+        "a": "une",
+        "en": "She has been working in a local administration for several years.",
+        "alts": [],
+        "form": ""
+      }
+    ]
+  }
+]

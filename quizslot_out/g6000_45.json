@@ -1,0 +1,185 @@
+[
+  {
+    "id": 5136,
+    "qs": [
+      {
+        "slot": "s|0",
+        "f": "sense",
+        "s": "Il pleut fort, prends ton ___ avant de sortir.",
+        "en": "It's raining hard, take your umbrella before going out.",
+        "a": "parapluie",
+        "alts": []
+      },
+      {
+        "slot": "s|0",
+        "f": "sense",
+        "s": "J'ai oublié mon ___ dans le bus ce matin.",
+        "en": "I forgot my umbrella on the bus this morning.",
+        "a": "parapluie",
+        "alts": []
+      },
+      {
+        "slot": "gender",
+        "f": "gender",
+        "s": "___ parapluie de Marie est tout neuf.",
+        "en": "Marie's umbrella is brand new.",
+        "a": "Le",
+        "alts": []
+      },
+      {
+        "slot": "gender",
+        "f": "gender",
+        "s": "Elle a acheté ___ parapluie noir hier soir.",
+        "en": "She bought a black umbrella yesterday evening.",
+        "a": "un",
+        "alts": []
+      }
+    ]
+  },
+  {
+    "id": 5137,
+    "qs": [
+      {
+        "slot": "s|0",
+        "f": "sense",
+        "s": "Ce pont est réservé au trafic ___.",
+        "a": "piéton",
+        "en": "This bridge is reserved for pedestrian traffic.",
+        "alts": []
+      },
+      {
+        "slot": "s|0",
+        "f": "sense",
+        "s": "L'accès ___ est très pratique près de la gare.",
+        "a": "piéton",
+        "en": "The pedestrian access is very convenient near the station.",
+        "alts": []
+      },
+      {
+        "slot": "g|mp",
+        "f": "agree",
+        "s": "Ces chemins ___ traversent toute la forêt.",
+        "a": "piétons",
+        "en": "These pedestrian paths cross the whole forest.",
+        "alts": []
+      },
+      {
+        "slot": "g|mp",
+        "f": "agree",
+        "s": "Les passages ___ permettent de traverser la rue en sécurité.",
+        "a": "piétons",
+        "en": "The pedestrian crossings allow people to cross the street safely.",
+        "alts": []
+      },
+      {
+        "slot": "g|f",
+        "f": "agree",
+        "s": "Cette rue ___ est fermée à la circulation le dimanche.",
+        "a": "piétonne",
+        "en": "This pedestrian street is closed to traffic on Sundays.",
+        "alts": []
+      },
+      {
+        "slot": "g|f",
+        "f": "agree",
+        "s": "La zone ___ du centre-ville attire de nombreux touristes.",
+        "a": "piétonne",
+        "en": "The pedestrian zone in the city center attracts many tourists.",
+        "alts": []
+      },
+      {
+        "slot": "g|fp",
+        "f": "agree",
+        "s": "Ces rues ___ sont bordées de terrasses de café.",
+        "a": "piétonnes",
+        "en": "These pedestrian streets are lined with café terraces.",
+        "alts": []
+      },
+      {
+        "slot": "g|fp",
+        "f": "agree",
+        "s": "Les zones ___ se multiplient dans les grandes villes.",
+        "a": "piétonnes",
+        "en": "Pedestrian zones are multiplying in big cities.",
+        "alts": []
+      }
+    ]
+  },
+  {
+    "id": 5138,
+    "qs": [
+      {
+        "slot": "s|0",
+        "f": "sense",
+        "s": "Ce travail est très ___, je suis épuisé le soir.",
+        "a": "fatigant",
+        "en": "This work is very tiring; I'm exhausted in the evening.",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "s|0",
+        "f": "sense",
+        "s": "Ce voyage en train était long et ___.",
+        "a": "fatigant",
+        "en": "This train journey was long and tiring.",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "g|mp",
+        "f": "agree",
+        "s": "Ces exercices sont ___ pour les débutants.",
+        "a": "fatigants",
+        "en": "These exercises are tiring for beginners.",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "g|mp",
+        "f": "agree",
+        "s": "Les trajets quotidiens sont ___.",
+        "a": "fatigants",
+        "en": "The daily commutes are tiring.",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "g|f",
+        "f": "agree",
+        "s": "Cette réunion était ___.",
+        "a": "fatigante",
+        "en": "This meeting was tiring.",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "g|f",
+        "f": "agree",
+        "s": "La randonnée d'hier était ___.",
+        "a": "fatigante",
+        "en": "Yesterday's hike was tiring.",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "g|fp",
+        "f": "agree",
+        "s": "Ces journées de travail sont ___.",
+        "a": "fatigantes",
+        "en": "These work days are tiring.",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "g|fp",
+        "f": "agree",
+        "s": "Les négociations ont été ___.",
+        "a": "fatigantes",
+        "en": "The negotiations were tiring.",
+        "alts": [],
+        "form": ""
+      }
+    ]
+  }
+]

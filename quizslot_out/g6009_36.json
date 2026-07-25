@@ -1,0 +1,83 @@
+[
+  {
+    "id": 6603,
+    "qs": [
+      {"slot":"s|0","f":"sense","s":"La ___ transforme les minerais en métaux utilisables dans l'industrie.","en":"Metallurgy transforms ores into metals usable in industry.","a":"métallurgie","alts":[]},
+      {"slot":"s|0","f":"sense","s":"Il a étudié la ___ à l'université pour devenir ingénieur dans une usine sidérurgique.","en":"He studied metallurgy at university to become an engineer at a steel plant.","a":"métallurgie","alts":[]},
+      {"slot":"gender","f":"gender","s":"___ métallurgie est un secteur clé de l'industrie française.","en":"Metallurgy is a key sector of French industry.","a":"La","alts":[]},
+      {"slot":"gender","f":"gender","s":"Cette entreprise développe ___ métallurgie de précision pour l'aéronautique.","en":"This company is developing precision metallurgy for the aerospace industry.","a":"une","alts":[]}
+    ]
+  },
+  {
+    "id": 6604,
+    "qs": [
+      {"slot":"s|0","f":"sense","s":"Ce célèbre ___ étudie les causes psychologiques du comportement criminel depuis vingt ans.","en":"This famous criminologist has been studying the psychological causes of criminal behavior for twenty years.","a":"criminologue","alts":[],"form":""},
+      {"slot":"s|0","f":"sense","s":"La police a fait appel à un ___ pour établir le profil du tueur en série.","en":"The police called in a criminologist to establish the serial killer's profile.","a":"criminologue","alts":[],"form":""},
+      {"slot":"gender","f":"gender","s":"Le tribunal a demandé l'avis d'___ criminologue reconnu avant de rendre son jugement.","en":"The court asked for the opinion of a recognized criminologist before delivering its verdict.","a":"un","alts":[],"form":""},
+      {"slot":"gender","f":"gender","s":"Dans cette affaire, ___ criminologue chargé de l'enquête a interrogé plusieurs témoins.","en":"In this case, the criminologist in charge of the investigation questioned several witnesses.","a":"le","alts":[],"form":""}
+    ]
+  },
+  {
+    "id": 6605,
+    "qs": [
+      {"slot":"t|Présent|0","f":"tense","s":"Je ___ mon ami de faire cet investissement risqué.","en":"I dissuade my friend from making this risky investment.","a":"dissuade","alts":[],"form":"Présent"},
+      {"slot":"t|Présent|0","f":"tense","s":"Le professeur ___ toujours ses élèves d'abandonner leurs études.","en":"The teacher always dissuades his students from dropping out of their studies.","a":"dissuade","alts":[],"form":"Présent"},
+      {"slot":"t|Présent|1","f":"tense","s":"Tu ___ ton frère de partir seul en pleine nuit.","en":"You dissuade your brother from leaving alone in the middle of the night.","a":"dissuades","alts":[],"form":"Présent"},
+      {"slot":"t|Présent|1","f":"tense","s":"Tu ___ souvent tes amis de sortir tard le soir.","en":"You often dissuade your friends from going out late at night.","a":"dissuades","alts":[],"form":"Présent"},
+      {"slot":"t|Présent|2","f":"tense","s":"Nous ___ les nouveaux employés de démissionner trop vite.","en":"We dissuade new employees from resigning too quickly.","a":"dissuadons","alts":[],"form":"Présent"},
+      {"slot":"t|Présent|2","f":"tense","s":"Chaque année, nous ___ plusieurs étudiants de quitter l'université.","en":"Each year, we dissuade several students from leaving the university.","a":"dissuadons","alts":[],"form":"Présent"},
+      {"slot":"t|Présent|3","f":"tense","s":"Vous ___ vos clients d'investir dans ce projet douteux.","en":"You dissuade your clients from investing in this dubious project.","a":"dissuadez","alts":[],"form":"Présent"},
+      {"slot":"t|Présent|3","f":"tense","s":"Vous ___ toujours vos patients de fumer.","en":"You always dissuade your patients from smoking.","a":"dissuadez","alts":[],"form":"Présent"},
+      {"slot":"t|Présent|4","f":"tense","s":"Ses parents ___ le jeune homme de partir à l'étranger.","en":"His parents dissuade the young man from going abroad.","a":"dissuadent","alts":[],"form":"Présent"},
+      {"slot":"t|Présent|4","f":"tense","s":"Les avocats ___ souvent leurs clients de témoigner sans préparation.","en":"Lawyers often dissuade their clients from testifying without preparation.","a":"dissuadent","alts":[],"form":"Présent"},
+      {"slot":"t|Passé composé|0","f":"tense","s":"Hier, j'___ mon collègue de démissionner sur un coup de tête.","en":"Yesterday, I dissuaded my colleague from resigning on a whim.","a":"ai dissuadé","alts":[],"form":"Passé composé"},
+      {"slot":"t|Passé composé|0","f":"tense","s":"La semaine dernière, j'___ mon frère d'acheter cette voiture d'occasion.","en":"Last week, I dissuaded my brother from buying that used car.","a":"ai dissuadé","alts":[],"form":"Passé composé"},
+      {"slot":"t|Passé composé|1","f":"tense","s":"Tu ___ ton ami de faire ce voyage dangereux.","en":"You dissuaded your friend from taking that dangerous trip.","a":"as dissuadé","alts":[],"form":"Passé composé"},
+      {"slot":"t|Passé composé|1","f":"tense","s":"Hier soir, tu ___ ta sœur de sortir seule si tard.","en":"Last night, you dissuaded your sister from going out alone so late.","a":"as dissuadé","alts":[],"form":"Passé composé"},
+      {"slot":"t|Passé composé|2","f":"tense","s":"Le directeur ___ l'employé de démissionner ce matin.","en":"The director dissuaded the employee from resigning this morning.","a":"a dissuadé","alts":[],"form":"Passé composé"},
+      {"slot":"t|Passé composé|2","f":"tense","s":"Elle ___ son mari d'accepter ce poste risqué.","en":"She dissuaded her husband from accepting that risky position.","a":"a dissuadé","alts":[],"form":"Passé composé"},
+      {"slot":"t|Passé composé|3","f":"tense","s":"Nous ___ nos voisins de vendre leur maison trop vite.","en":"We dissuaded our neighbors from selling their house too quickly.","a":"avons dissuadé","alts":[],"form":"Passé composé"},
+      {"slot":"t|Passé composé|3","f":"tense","s":"Hier, nous ___ notre client de signer ce contrat douteux.","en":"Yesterday, we dissuaded our client from signing that dubious contract.","a":"avons dissuadé","alts":[],"form":"Passé composé"},
+      {"slot":"t|Passé composé|4","f":"tense","s":"Vous ___ vos étudiants d'abandonner leurs études trop tôt.","en":"You dissuaded your students from giving up their studies too early.","a":"avez dissuadé","alts":[],"form":"Passé composé"},
+      {"slot":"t|Passé composé|4","f":"tense","s":"L'année dernière, vous ___ ce jeune homme de partir sans diplôme.","en":"Last year, you dissuaded that young man from leaving without a diploma.","a":"avez dissuadé","alts":[],"form":"Passé composé"},
+      {"slot":"t|Passé composé|5","f":"tense","s":"Ses amis ___ Marc de démissionner sur un coup de colère.","en":"His friends dissuaded Marc from resigning in a fit of anger.","a":"ont dissuadé","alts":[],"form":"Passé composé"},
+      {"slot":"t|Passé composé|5","f":"tense","s":"Les médecins ___ le patient de reprendre le travail trop tôt.","en":"The doctors dissuaded the patient from returning to work too soon.","a":"ont dissuadé","alts":[],"form":"Passé composé"},
+      {"slot":"t|Imparfait|0","f":"tense","s":"Quand j'étais enfant, je ___ toujours mes camarades de sécher les cours.","en":"When I was a child, I always used to dissuade my classmates from skipping class.","a":"dissuadais","alts":[],"form":"Imparfait"},
+      {"slot":"t|Imparfait|0","f":"tense","s":"À cette époque, tu ___ souvent tes collègues de prendre des risques inutiles.","en":"At that time, you often used to dissuade your colleagues from taking unnecessary risks.","a":"dissuadais","alts":[],"form":"Imparfait"},
+      {"slot":"t|Imparfait|1","f":"tense","s":"Chaque fois qu'il pouvait, il ___ ses amis de conduire après avoir bu.","en":"Whenever he could, he used to dissuade his friends from driving after drinking.","a":"dissuadait","alts":[],"form":"Imparfait"},
+      {"slot":"t|Imparfait|1","f":"tense","s":"Ma grand-mère ___ toujours ses petits-enfants de fumer.","en":"My grandmother always used to dissuade her grandchildren from smoking.","a":"dissuadait","alts":[],"form":"Imparfait"},
+      {"slot":"t|Imparfait|2","f":"tense","s":"À l'époque, nous ___ régulièrement nos clients d'investir sans réfléchir.","en":"At that time, we regularly used to dissuade our clients from investing without thinking.","a":"dissuadions","alts":[],"form":"Imparfait"},
+      {"slot":"t|Imparfait|2","f":"tense","s":"Quand nous étions professeurs, nous ___ souvent les élèves de tricher aux examens.","en":"When we were teachers, we often used to dissuade students from cheating on exams.","a":"dissuadions","alts":[],"form":"Imparfait"},
+      {"slot":"t|Imparfait|3","f":"tense","s":"Autrefois, vous ___ toujours vos patients de négliger leur santé.","en":"In the past, you always used to dissuade your patients from neglecting their health.","a":"dissuadiez","alts":[],"form":"Imparfait"},
+      {"slot":"t|Imparfait|3","f":"tense","s":"Quand vous étiez avocat, vous ___ souvent vos clients de mentir au tribunal.","en":"When you were a lawyer, you often used to dissuade your clients from lying to the court.","a":"dissuadiez","alts":[],"form":"Imparfait"},
+      {"slot":"t|Imparfait|4","f":"tense","s":"Ses parents ___ constamment le garçon de quitter l'école.","en":"His parents constantly used to dissuade the boy from leaving school.","a":"dissuadaient","alts":[],"form":"Imparfait"},
+      {"slot":"t|Imparfait|4","f":"tense","s":"Les anciens du village ___ souvent les jeunes de partir en ville.","en":"The village elders often used to dissuade the young people from leaving for the city.","a":"dissuadaient","alts":[],"form":"Imparfait"},
+      {"slot":"t|Futur|0","f":"tense","s":"Demain, je ___ mon fils de conduire sans permis.","en":"Tomorrow, I will dissuade my son from driving without a license.","a":"dissuaderai","alts":[],"form":"Futur"},
+      {"slot":"t|Futur|0","f":"tense","s":"La semaine prochaine, je ___ mon associé de signer ce contrat trop vite.","en":"Next week, I will dissuade my partner from signing that contract too quickly.","a":"dissuaderai","alts":[],"form":"Futur"},
+      {"slot":"t|Futur|1","f":"tense","s":"Demain, tu ___ ton cousin de partir sans plan précis.","en":"Tomorrow, you will dissuade your cousin from leaving without a clear plan.","a":"dissuaderas","alts":[],"form":"Futur"},
+      {"slot":"t|Futur|1","f":"tense","s":"Si tu le vois, tu ___ Paul de démissionner sur un coup de tête.","en":"If you see him, you will dissuade Paul from resigning on a whim.","a":"dissuaderas","alts":[],"form":"Futur"},
+      {"slot":"t|Futur|2","f":"tense","s":"Le médecin ___ certainement le patient de reprendre le sport trop tôt.","en":"The doctor will certainly dissuade the patient from returning to sport too soon.","a":"dissuadera","alts":[],"form":"Futur"},
+      {"slot":"t|Futur|2","f":"tense","s":"On ___ sans doute les investisseurs de se précipiter.","en":"They will probably dissuade the investors from rushing in.","a":"dissuadera","alts":[],"form":"Futur"},
+      {"slot":"t|Futur|3","f":"tense","s":"Demain, nous ___ nos partenaires de rompre le contrat trop vite.","en":"Tomorrow, we will dissuade our partners from breaking the contract too quickly.","a":"dissuaderons","alts":[],"form":"Futur"},
+      {"slot":"t|Futur|3","f":"tense","s":"La prochaine fois, nous ___ nos amis de voyager sans assurance.","en":"Next time, we will dissuade our friends from traveling without insurance.","a":"dissuaderons","alts":[],"form":"Futur"},
+      {"slot":"t|Futur|4","f":"tense","s":"Vous ___ sans doute vos employés de démissionner en pleine crise.","en":"You will probably dissuade your employees from resigning in the middle of a crisis.","a":"dissuaderez","alts":[],"form":"Futur"},
+      {"slot":"t|Futur|4","f":"tense","s":"Demain matin, vous ___ le client d'annuler sa commande.","en":"Tomorrow morning, you will dissuade the client from cancelling his order.","a":"dissuaderez","alts":[],"form":"Futur"},
+      {"slot":"t|Futur|5","f":"tense","s":"Ses collègues ___ certainement Marc de quitter l'entreprise.","en":"His colleagues will certainly dissuade Marc from leaving the company.","a":"dissuaderont","alts":[],"form":"Futur"},
+      {"slot":"t|Futur|5","f":"tense","s":"Les experts ___ sans doute le gouvernement d'agir trop vite.","en":"The experts will probably dissuade the government from acting too quickly.","a":"dissuaderont","alts":[],"form":"Futur"},
+      {"slot":"t|Conditionnel|0","f":"tense","s":"Si j'avais plus de temps, je ___ mon frère de partir si vite.","en":"If I had more time, I would dissuade my brother from leaving so quickly.","a":"dissuaderais","alts":[],"form":"Conditionnel"},
+      {"slot":"t|Conditionnel|0","f":"tense","s":"Si tu étais son ami, tu ___ Paul de faire ce choix risqué.","en":"If you were his friend, you would dissuade Paul from making that risky choice.","a":"dissuaderais","alts":[],"form":"Conditionnel"},
+      {"slot":"t|Conditionnel|1","f":"tense","s":"Si elle le pouvait, elle ___ son fils d'abandonner ses études.","en":"If she could, she would dissuade her son from giving up his studies.","a":"dissuaderait","alts":[],"form":"Conditionnel"},
+      {"slot":"t|Conditionnel|1","f":"tense","s":"Si on avait plus d'autorité, on ___ facilement les jeunes de fumer.","en":"If we had more authority, we would easily dissuade young people from smoking.","a":"dissuaderait","alts":[],"form":"Conditionnel"},
+      {"slot":"t|Conditionnel|2","f":"tense","s":"Si nous avions plus d'influence, nous ___ nos clients de prendre ce risque.","en":"If we had more influence, we would dissuade our clients from taking that risk.","a":"dissuaderions","alts":[],"form":"Conditionnel"},
+      {"slot":"t|Conditionnel|2","f":"tense","s":"Si nous étions ses parents, nous ___ notre fille de partir seule.","en":"If we were her parents, we would dissuade our daughter from leaving alone.","a":"dissuaderions","alts":[],"form":"Conditionnel"},
+      {"slot":"t|Conditionnel|3","f":"tense","s":"Si vous connaissiez les risques, vous ___ vos clients d'investir maintenant.","en":"If you knew the risks, you would dissuade your clients from investing now.","a":"dissuaderiez","alts":[],"form":"Conditionnel"},
+      {"slot":"t|Conditionnel|3","f":"tense","s":"Si vous étiez son professeur, vous ___ cet élève de redoubler.","en":"If you were his teacher, you would dissuade this student from repeating the year.","a":"dissuaderiez","alts":[],"form":"Conditionnel"},
+      {"slot":"t|Conditionnel|4","f":"tense","s":"Si ses parents le savaient, ils ___ Marc de partir sans argent.","en":"If his parents knew, they would dissuade Marc from leaving without money.","a":"dissuaderaient","alts":[],"form":"Conditionnel"},
+      {"slot":"t|Conditionnel|4","f":"tense","s":"Si les autorités avaient plus de moyens, elles ___ les gens de conduire trop vite.","en":"If the authorities had more resources, they would dissuade people from driving too fast.","a":"dissuaderaient","alts":[],"form":"Conditionnel"},
+      {"slot":"t|Subjonctif","f":"subj","s":"Il faut que tu ___ ton ami de faire cette bêtise.","en":"You must dissuade your friend from doing that foolish thing.","a":"dissuades","alts":[],"form":"Subjonctif"},
+      {"slot":"t|Subjonctif","f":"subj","s":"Je veux qu'elle ___ son frère de partir seul en montagne.","en":"I want her to dissuade her brother from going into the mountains alone.","a":"dissuade","alts":[],"form":"Subjonctif"},
+      {"slot":"s|0","f":"sense","s":"Le gouvernement a lancé une campagne pour ___ les jeunes de conduire après avoir bu.","en":"The government launched a campaign to dissuade young people from driving after drinking.","a":"dissuader","alts":[],"form":""},
+      {"slot":"s|0","f":"sense","s":"Rien ne pouvait la ___ de partir vivre à l'étranger.","en":"Nothing could dissuade her from going to live abroad.","a":"dissuader","alts":[],"form":""}
+    ]
+  }
+]

@@ -1,0 +1,39 @@
+[
+  {
+    "id": 296,
+    "qs": [
+      {"slot":"s|0","f":"sense","s":"Cet exercice est vraiment ___ ; beaucoup d'élèves ont du mal à le finir.","a":"difficile","en":"This exercise is really difficult; many students struggle to finish it.","alts":[],"form":""},
+      {"slot":"s|0","f":"sense","s":"Trouver un logement abordable dans cette ville est devenu très ___.","a":"difficile","en":"Finding affordable housing in this city has become very difficult.","alts":[],"form":""},
+      {"slot":"s|1","f":"sense","s":"Mon nouveau collègue est vraiment ___ : il critique tout le monde et refuse de coopérer.","a":"difficile","en":"My new colleague is really difficult: he criticizes everyone and refuses to cooperate.","alts":[],"form":""},
+      {"slot":"s|1","f":"sense","s":"Les enfants peuvent parfois être ___ à la maison, surtout quand ils sont fatigués.","a":"difficiles","en":"Children can sometimes be difficult at home, especially when they are tired.","alts":[],"form":""},
+      {"slot":"g|mp","f":"agree","s":"Ces problèmes mathématiques sont très ___ pour les élèves de primaire.","a":"difficiles","en":"These math problems are very difficult for primary school students.","alts":[],"form":""},
+      {"slot":"g|mp","f":"agree","s":"Ses voisins sont ___ : ils font du bruit chaque soir et refusent de discuter.","a":"difficiles","en":"His neighbors are difficult: they make noise every evening and refuse to talk.","alts":[],"form":""},
+      {"slot":"g|f","f":"agree","s":"La situation économique est ___ en ce moment pour de nombreuses familles.","a":"difficile","en":"The economic situation is difficult right now for many families.","alts":[],"form":""},
+      {"slot":"g|f","f":"agree","s":"Marie est une personne ___ ; elle n'accepte jamais les idées des autres.","a":"difficile","en":"Marie is a difficult person; she never accepts other people's ideas.","alts":[],"form":""},
+      {"slot":"g|fp","f":"agree","s":"Ces décisions sont ___ à prendre, car elles affectent toute l'équipe.","a":"difficiles","en":"These decisions are difficult to make, as they affect the whole team.","alts":[],"form":""},
+      {"slot":"g|fp","f":"agree","s":"Les négociations ont été longues et ___ , mais elles ont finalement abouti.","a":"difficiles","en":"The negotiations were long and difficult, but they finally succeeded.","alts":[],"form":""}
+    ]
+  },
+  {
+    "id": 297,
+    "qs": [
+      {"slot":"s|0","f":"sense","s":"À ___ pensais-tu en ce moment-là ?","a":"quoi","en":"What were you thinking about at that moment?","alts":[]},
+      {"slot":"s|0","f":"sense","s":"De ___ as-tu besoin pour finir ce projet ?","a":"quoi","en":"What do you need to finish this project?","alts":[]},
+      {"slot":"s|1","f":"sense","s":"___ ! Tu as osé lui dire ça en face ?","a":"Quoi","en":"What! You dared to say that to his face?","alts":[]},
+      {"slot":"s|1","f":"sense","s":"___ ! Ils ont annulé le concert à la dernière minute ?","a":"Quoi","en":"What! They cancelled the concert at the last minute?","alts":[]}
+    ]
+  },
+  {
+    "id": 298,
+    "qs": [
+      {"slot":"s|0","f":"sense","s":"Cette ___ emploie plus de cinq cents salariés dans la région.","a":"entreprise","en":"This enterprise employs more than five hundred employees in the region.","alts":[]},
+      {"slot":"s|0","f":"sense","s":"Le gouvernement soutient les ___ qui investissent dans les énergies renouvelables.","a":"entreprises","en":"The government supports enterprises that invest in renewable energy.","alts":[]},
+      {"slot":"s|1","f":"sense","s":"Il a fondé son ___ il y a dix ans et elle est devenue très prospère.","a":"entreprise","en":"He founded his company ten years ago and it has become very prosperous.","alts":[]},
+      {"slot":"s|1","f":"sense","s":"Elle travaille dans une ___ spécialisée dans le développement de logiciels.","a":"entreprise","en":"She works in a company specializing in software development.","alts":[]},
+      {"slot":"s|2","f":"sense","s":"Construire cette bibliothèque en pleine montagne était une ___ ambitieuse.","a":"entreprise","en":"Building this library deep in the mountains was an ambitious undertaking.","alts":[]},
+      {"slot":"s|2","f":"sense","s":"Réformer tout le système éducatif est une ___ difficile mais nécessaire.","a":"entreprise","en":"Reforming the entire education system is a difficult but necessary undertaking.","alts":[]},
+      {"slot":"gender","f":"gender","s":"Mon père dirige ___ entreprise familiale depuis trente ans.","a":"une","en":"My father has been running a family business for thirty years.","alts":[]},
+      {"slot":"gender","f":"gender","s":"___ entreprise a annoncé de nouveaux recrutements ce matin.","a":"L'","en":"The company announced new hiring this morning.","alts":[]}
+    ]
+  }
+]

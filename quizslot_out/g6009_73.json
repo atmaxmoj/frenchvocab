@@ -1,0 +1,625 @@
+[
+  {
+    "id": 6714,
+    "qs": [
+      {
+        "slot": "t|Présent|0",
+        "f": "tense",
+        "s": "Chaque matin, j'___ la fenêtre pour aérer la chambre.",
+        "a": "entrouvre",
+        "en": "Every morning, I open the window slightly to air out the room.",
+        "alts": [],
+        "form": "Présent"
+      },
+      {
+        "slot": "t|Présent|0",
+        "f": "tense",
+        "s": "Le soir, elle ___ toujours la porte pour surveiller le bébé.",
+        "a": "entrouvre",
+        "en": "In the evening, she always leaves the door slightly open to keep an eye on the baby.",
+        "alts": [],
+        "form": "Présent"
+      },
+      {
+        "slot": "t|Présent|1",
+        "f": "tense",
+        "s": "Tu ___ la porte quand tu entends du bruit.",
+        "a": "entrouvres",
+        "en": "You open the door slightly when you hear a noise.",
+        "alts": [],
+        "form": "Présent"
+      },
+      {
+        "slot": "t|Présent|1",
+        "f": "tense",
+        "s": "Le matin, tu ___ les rideaux pour laisser entrer la lumière.",
+        "a": "entrouvres",
+        "en": "In the morning, you open the curtains slightly to let in the light.",
+        "alts": [],
+        "form": "Présent"
+      },
+      {
+        "slot": "t|Présent|2",
+        "f": "tense",
+        "s": "Nous ___ la fenêtre du salon en été.",
+        "a": "entrouvrons",
+        "en": "We open the living room window slightly in summer.",
+        "alts": [],
+        "form": "Présent"
+      },
+      {
+        "slot": "t|Présent|2",
+        "f": "tense",
+        "s": "Nous ___ toujours la porte du garage avant de sortir la voiture.",
+        "a": "entrouvrons",
+        "en": "We always open the garage door slightly before taking out the car.",
+        "alts": [],
+        "form": "Présent"
+      },
+      {
+        "slot": "t|Présent|3",
+        "f": "tense",
+        "s": "Vous ___ la porte avec précaution.",
+        "a": "entrouvrez",
+        "en": "You open the door slightly with caution.",
+        "alts": [],
+        "form": "Présent"
+      },
+      {
+        "slot": "t|Présent|3",
+        "f": "tense",
+        "s": "Vous ___ les volets chaque matin pour vérifier le temps.",
+        "a": "entrouvrez",
+        "en": "You open the shutters slightly every morning to check the weather.",
+        "alts": [],
+        "form": "Présent"
+      },
+      {
+        "slot": "t|Présent|4",
+        "f": "tense",
+        "s": "Les enfants ___ la porte pour espionner leurs parents.",
+        "a": "entrouvrent",
+        "en": "The children open the door slightly to spy on their parents.",
+        "alts": [],
+        "form": "Présent"
+      },
+      {
+        "slot": "t|Présent|4",
+        "f": "tense",
+        "s": "Elles ___ les fenêtres dès le printemps.",
+        "a": "entrouvrent",
+        "en": "They open the windows slightly as soon as spring arrives.",
+        "alts": [],
+        "form": "Présent"
+      },
+      {
+        "slot": "t|Passé composé|0",
+        "f": "tense",
+        "s": "Hier soir, j'___ la fenêtre pour laisser entrer un peu d'air.",
+        "a": "ai entrouvert",
+        "en": "Last night, I opened the window slightly to let in some air.",
+        "alts": [],
+        "form": "Passé composé"
+      },
+      {
+        "slot": "t|Passé composé|0",
+        "f": "tense",
+        "s": "Ce matin, j'___ la porte pour jeter un coup d'œil dans le couloir.",
+        "a": "ai entrouvert",
+        "en": "This morning, I opened the door slightly to glance into the hallway.",
+        "alts": [],
+        "form": "Passé composé"
+      },
+      {
+        "slot": "t|Passé composé|1",
+        "f": "tense",
+        "s": "Tu ___ la porte hier soir sans faire de bruit.",
+        "a": "as entrouvert",
+        "en": "You opened the door slightly last night without making a sound.",
+        "alts": [],
+        "form": "Passé composé"
+      },
+      {
+        "slot": "t|Passé composé|1",
+        "f": "tense",
+        "s": "Ce matin-là, tu ___ les rideaux avant que tout le monde se réveille.",
+        "a": "as entrouvert",
+        "en": "That morning, you opened the curtains slightly before everyone woke up.",
+        "alts": [],
+        "form": "Passé composé"
+      },
+      {
+        "slot": "t|Passé composé|2",
+        "f": "tense",
+        "s": "Mon frère ___ la porte pour vérifier que tout allait bien.",
+        "a": "a entrouvert",
+        "en": "My brother opened the door slightly to check that everything was fine.",
+        "alts": [],
+        "form": "Passé composé"
+      },
+      {
+        "slot": "t|Passé composé|2",
+        "f": "tense",
+        "s": "Elle ___ les yeux un instant avant de se rendormir.",
+        "a": "a entrouvert",
+        "en": "She opened her eyes slightly for a moment before falling back asleep.",
+        "alts": [],
+        "form": "Passé composé"
+      },
+      {
+        "slot": "t|Passé composé|3",
+        "f": "tense",
+        "s": "Nous ___ la fenêtre pour évacuer la fumée.",
+        "a": "avons entrouvert",
+        "en": "We opened the window slightly to let the smoke out.",
+        "alts": [],
+        "form": "Passé composé"
+      },
+      {
+        "slot": "t|Passé composé|3",
+        "f": "tense",
+        "s": "Hier, nous ___ le coffre pour vérifier son contenu.",
+        "a": "avons entrouvert",
+        "en": "Yesterday, we opened the trunk slightly to check its contents.",
+        "alts": [],
+        "form": "Passé composé"
+      },
+      {
+        "slot": "t|Passé composé|4",
+        "f": "tense",
+        "s": "Vous ___ la porte du bureau avant la réunion.",
+        "a": "avez entrouvert",
+        "en": "You opened the office door slightly before the meeting.",
+        "alts": [],
+        "form": "Passé composé"
+      },
+      {
+        "slot": "t|Passé composé|4",
+        "f": "tense",
+        "s": "Pendant la nuit, vous ___ la fenêtre à cause de la chaleur.",
+        "a": "avez entrouvert",
+        "en": "During the night, you opened the window slightly because of the heat.",
+        "alts": [],
+        "form": "Passé composé"
+      },
+      {
+        "slot": "t|Passé composé|5",
+        "f": "tense",
+        "s": "Les voisins ___ leurs volets ce matin.",
+        "a": "ont entrouvert",
+        "en": "The neighbors opened their shutters slightly this morning.",
+        "alts": [],
+        "form": "Passé composé"
+      },
+      {
+        "slot": "t|Passé composé|5",
+        "f": "tense",
+        "s": "Elles ___ la porte du placard pour chercher une couverture.",
+        "a": "ont entrouvert",
+        "en": "They opened the closet door slightly to look for a blanket.",
+        "alts": [],
+        "form": "Passé composé"
+      },
+      {
+        "slot": "t|Imparfait|0",
+        "f": "tense",
+        "s": "Quand j'étais petit, j'___ toujours la porte de ma chambre la nuit.",
+        "a": "entrouvrais",
+        "en": "When I was little, I always left my bedroom door slightly open at night.",
+        "alts": [],
+        "form": "Imparfait"
+      },
+      {
+        "slot": "t|Imparfait|0",
+        "f": "tense",
+        "s": "Autrefois, tu ___ souvent la fenêtre pour écouter les oiseaux.",
+        "a": "entrouvrais",
+        "en": "In the old days, you often used to open the window slightly to listen to the birds.",
+        "alts": [],
+        "form": "Imparfait"
+      },
+      {
+        "slot": "t|Imparfait|1",
+        "f": "tense",
+        "s": "Chaque soir, mon grand-père ___ la porte pour vérifier que nous dormions.",
+        "a": "entrouvrait",
+        "en": "Every evening, my grandfather would open the door slightly to check that we were asleep.",
+        "alts": [],
+        "form": "Imparfait"
+      },
+      {
+        "slot": "t|Imparfait|1",
+        "f": "tense",
+        "s": "Elle ___ les yeux de temps en temps pendant la sieste.",
+        "a": "entrouvrait",
+        "en": "She would open her eyes slightly from time to time during the nap.",
+        "alts": [],
+        "form": "Imparfait"
+      },
+      {
+        "slot": "t|Imparfait|2",
+        "f": "tense",
+        "s": "À cette époque, nous ___ la fenêtre chaque matin.",
+        "a": "entrouvrions",
+        "en": "At that time, we used to open the window slightly every morning.",
+        "alts": [],
+        "form": "Imparfait"
+      },
+      {
+        "slot": "t|Imparfait|2",
+        "f": "tense",
+        "s": "Nous ___ toujours la porte de la cuisine pour laisser sortir les odeurs.",
+        "a": "entrouvrions",
+        "en": "We always used to open the kitchen door slightly to let the smells out.",
+        "alts": [],
+        "form": "Imparfait"
+      },
+      {
+        "slot": "t|Imparfait|3",
+        "f": "tense",
+        "s": "Quand vous habitiez là-bas, vous ___ les volets dès le lever du soleil.",
+        "a": "entrouvriez",
+        "en": "When you lived there, you would open the shutters slightly at sunrise.",
+        "alts": [],
+        "form": "Imparfait"
+      },
+      {
+        "slot": "t|Imparfait|3",
+        "f": "tense",
+        "s": "Vous ___ la porte du bureau pendant les pauses.",
+        "a": "entrouvriez",
+        "en": "You used to open the office door slightly during breaks.",
+        "alts": [],
+        "form": "Imparfait"
+      },
+      {
+        "slot": "t|Imparfait|4",
+        "f": "tense",
+        "s": "Les enfants ___ la porte pour regarder les invités arriver.",
+        "a": "entrouvraient",
+        "en": "The children would open the door slightly to watch the guests arrive.",
+        "alts": [],
+        "form": "Imparfait"
+      },
+      {
+        "slot": "t|Imparfait|4",
+        "f": "tense",
+        "s": "Elles ___ toujours les rideaux avant de partir travailler.",
+        "a": "entrouvraient",
+        "en": "They always used to open the curtains slightly before leaving for work.",
+        "alts": [],
+        "form": "Imparfait"
+      },
+      {
+        "slot": "t|Futur|0",
+        "f": "tense",
+        "s": "Demain matin, j'___ la fenêtre pour aérer la pièce.",
+        "a": "entrouvrirai",
+        "en": "Tomorrow morning, I will open the window slightly to air out the room.",
+        "alts": [],
+        "form": "Futur"
+      },
+      {
+        "slot": "t|Futur|0",
+        "f": "tense",
+        "s": "Ce soir, j'___ la porte pour laisser entrer le chat.",
+        "a": "entrouvrirai",
+        "en": "Tonight, I will open the door slightly to let the cat in.",
+        "alts": [],
+        "form": "Futur"
+      },
+      {
+        "slot": "t|Futur|1",
+        "f": "tense",
+        "s": "Tu ___ les volets dès que le soleil se lèvera.",
+        "a": "entrouvriras",
+        "en": "You will open the shutters slightly as soon as the sun rises.",
+        "alts": [],
+        "form": "Futur"
+      },
+      {
+        "slot": "t|Futur|1",
+        "f": "tense",
+        "s": "Demain, tu ___ la porte avec précaution avant d'entrer.",
+        "a": "entrouvriras",
+        "en": "Tomorrow, you will open the door slightly with caution before entering.",
+        "alts": [],
+        "form": "Futur"
+      },
+      {
+        "slot": "t|Futur|2",
+        "f": "tense",
+        "s": "Le gardien ___ la grille à l'aube.",
+        "a": "entrouvrira",
+        "en": "The guard will open the gate slightly at dawn.",
+        "alts": [],
+        "form": "Futur"
+      },
+      {
+        "slot": "t|Futur|2",
+        "f": "tense",
+        "s": "On ___ la fenêtre du train pour respirer l'air frais.",
+        "a": "entrouvrira",
+        "en": "We will open the train window slightly to breathe some fresh air.",
+        "alts": [],
+        "form": "Futur"
+      },
+      {
+        "slot": "t|Futur|3",
+        "f": "tense",
+        "s": "Nous ___ la porte du salon pour la cérémonie.",
+        "a": "entrouvrirons",
+        "en": "We will open the living room door slightly for the ceremony.",
+        "alts": [],
+        "form": "Futur"
+      },
+      {
+        "slot": "t|Futur|3",
+        "f": "tense",
+        "s": "Demain, nous ___ les rideaux avant l'arrivée des invités.",
+        "a": "entrouvrirons",
+        "en": "Tomorrow, we will open the curtains slightly before the guests arrive.",
+        "alts": [],
+        "form": "Futur"
+      },
+      {
+        "slot": "t|Futur|4",
+        "f": "tense",
+        "s": "Vous ___ la fenêtre si la salle devient trop chaude.",
+        "a": "entrouvrirez",
+        "en": "You will open the window slightly if the room gets too hot.",
+        "alts": [],
+        "form": "Futur"
+      },
+      {
+        "slot": "t|Futur|4",
+        "f": "tense",
+        "s": "Vous ___ la porte du grenier pour montrer les vieux meubles.",
+        "a": "entrouvrirez",
+        "en": "You will open the attic door slightly to show the old furniture.",
+        "alts": [],
+        "form": "Futur"
+      },
+      {
+        "slot": "t|Futur|5",
+        "f": "tense",
+        "s": "Les employés ___ les portes du magasin à neuf heures.",
+        "a": "entrouvriront",
+        "en": "The employees will open the store doors slightly at nine o'clock.",
+        "alts": [],
+        "form": "Futur"
+      },
+      {
+        "slot": "t|Futur|5",
+        "f": "tense",
+        "s": "Elles ___ les volets pour laisser entrer un peu de lumière.",
+        "a": "entrouvriront",
+        "en": "They will open the shutters slightly to let in a bit of light.",
+        "alts": [],
+        "form": "Futur"
+      },
+      {
+        "slot": "t|Conditionnel|0",
+        "f": "tense",
+        "s": "Si j'avais plus chaud, j'___ la fenêtre.",
+        "a": "entrouvrirais",
+        "en": "If I were hotter, I would open the window slightly.",
+        "alts": [],
+        "form": "Conditionnel"
+      },
+      {
+        "slot": "t|Conditionnel|0",
+        "f": "tense",
+        "s": "Si tu avais peur du noir, tu ___ la porte pour laisser passer la lumière.",
+        "a": "entrouvrirais",
+        "en": "If you were afraid of the dark, you would open the door slightly to let the light in.",
+        "alts": [],
+        "form": "Conditionnel"
+      },
+      {
+        "slot": "t|Conditionnel|1",
+        "f": "tense",
+        "s": "Si elle entendait un bruit, elle ___ la porte pour vérifier.",
+        "a": "entrouvrirait",
+        "en": "If she heard a noise, she would open the door slightly to check.",
+        "alts": [],
+        "form": "Conditionnel"
+      },
+      {
+        "slot": "t|Conditionnel|1",
+        "f": "tense",
+        "s": "Si on avait besoin d'air, on ___ la fenêtre du train.",
+        "a": "entrouvrirait",
+        "en": "If we needed air, we would open the train window slightly.",
+        "alts": [],
+        "form": "Conditionnel"
+      },
+      {
+        "slot": "t|Conditionnel|2",
+        "f": "tense",
+        "s": "Si nous avions trop chaud la nuit, nous ___ la fenêtre.",
+        "a": "entrouvririons",
+        "en": "If we were too hot at night, we would open the window slightly.",
+        "alts": [],
+        "form": "Conditionnel"
+      },
+      {
+        "slot": "t|Conditionnel|2",
+        "f": "tense",
+        "s": "Si nous étions curieux, nous ___ la porte pour regarder.",
+        "a": "entrouvririons",
+        "en": "If we were curious, we would open the door slightly to look.",
+        "alts": [],
+        "form": "Conditionnel"
+      },
+      {
+        "slot": "t|Conditionnel|3",
+        "f": "tense",
+        "s": "Si vous aviez besoin d'air frais, vous ___ la fenêtre du bureau.",
+        "a": "entrouvririez",
+        "en": "If you needed fresh air, you would open the office window slightly.",
+        "alts": [],
+        "form": "Conditionnel"
+      },
+      {
+        "slot": "t|Conditionnel|3",
+        "f": "tense",
+        "s": "Si vous vouliez surveiller les enfants, vous ___ la porte de leur chambre.",
+        "a": "entrouvririez",
+        "en": "If you wanted to keep an eye on the children, you would open their bedroom door slightly.",
+        "alts": [],
+        "form": "Conditionnel"
+      },
+      {
+        "slot": "t|Conditionnel|4",
+        "f": "tense",
+        "s": "Si les gardiens avaient un doute, ils ___ la grille pour vérifier.",
+        "a": "entrouvriraient",
+        "en": "If the guards had a doubt, they would open the gate slightly to check.",
+        "alts": [],
+        "form": "Conditionnel"
+      },
+      {
+        "slot": "t|Conditionnel|4",
+        "f": "tense",
+        "s": "Si elles avaient trop chaud, elles ___ les fenêtres de la salle.",
+        "a": "entrouvriraient",
+        "en": "If they were too hot, they would open the room's windows slightly.",
+        "alts": [],
+        "form": "Conditionnel"
+      },
+      {
+        "slot": "t|Subjonctif",
+        "f": "subj",
+        "s": "Il faut que tu ___ la fenêtre pour aérer la pièce.",
+        "a": "entrouvres",
+        "en": "You need to open the window slightly to air out the room.",
+        "alts": [],
+        "form": "Subjonctif"
+      },
+      {
+        "slot": "t|Subjonctif",
+        "f": "subj",
+        "s": "Je veux qu'elle ___ la porte pour que le chat puisse entrer.",
+        "a": "entrouvre",
+        "en": "I want her to open the door slightly so the cat can come in.",
+        "alts": [],
+        "form": "Subjonctif"
+      },
+      {
+        "slot": "s|0",
+        "f": "sense",
+        "s": "Pour ne pas réveiller le bébé, elle a préféré ___ la porte plutôt que de la fermer complètement.",
+        "a": "entrouvrir",
+        "en": "So as not to wake the baby, she preferred to leave the door half-open rather than close it completely.",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "s|0",
+        "f": "sense",
+        "s": "Par cette chaleur, il vaut mieux ___ la fenêtre toute la nuit plutôt que de la fermer.",
+        "a": "entrouvrir",
+        "en": "In this heat, it's better to leave the window half-open all night rather than close it.",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "s|1",
+        "f": "sense",
+        "s": "Le vieil homme se contenta d'___ un œil avant de se rendormir.",
+        "a": "entrouvrir",
+        "en": "The old man merely opened one eye slightly before falling back asleep.",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "s|1",
+        "f": "sense",
+        "s": "Curieuse, elle a fini par ___ légèrement les rideaux pour regarder dehors.",
+        "a": "entrouvrir",
+        "en": "Out of curiosity, she ended up opening the curtains slightly to look outside.",
+        "alts": [],
+        "form": ""
+      }
+    ]
+  },
+  {
+    "id": 6715,
+    "qs": [
+      {
+        "slot": "s|0",
+        "f": "sense",
+        "s": "Chaque année, des milliers de touristes viennent en Espagne pour assister à un spectacle de ___.",
+        "a": "tauromachie",
+        "en": "Every year, thousands of tourists come to Spain to watch a bullfighting show.",
+        "alts": []
+      },
+      {
+        "slot": "s|0",
+        "f": "sense",
+        "s": "Ce documentaire critique la violence de la ___ envers les taureaux.",
+        "a": "tauromachie",
+        "en": "This documentary criticizes the violence of bullfighting toward bulls.",
+        "alts": []
+      },
+      {
+        "slot": "gender",
+        "f": "gender",
+        "s": "En Espagne, ___ tauromachie suscite de vifs débats.",
+        "a": "la",
+        "en": "In Spain, bullfighting sparks heated debates.",
+        "alts": []
+      },
+      {
+        "slot": "gender",
+        "f": "gender",
+        "s": "Certains pays interdisent ___ tauromachie pour des raisons éthiques.",
+        "a": "la",
+        "en": "Some countries ban bullfighting for ethical reasons.",
+        "alts": []
+      }
+    ]
+  },
+  {
+    "id": 6716,
+    "qs": [
+      {
+        "slot": "s|0",
+        "f": "sense",
+        "s": "La foule a accueilli les champions ___ à leur retour au pays.",
+        "en": "The crowd welcomed the champions warmly when they returned home.",
+        "a": "chaleureusement",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "s|0",
+        "f": "sense",
+        "s": "Le directeur nous a remerciés ___ pour tout notre travail.",
+        "en": "The director thanked us warmly for all our work.",
+        "a": "chaleureusement",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "s|1",
+        "f": "sense",
+        "s": "Elle m'a salué ___ en souriant.",
+        "en": "She greeted me cordially while smiling.",
+        "a": "chaleureusement",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "s|1",
+        "f": "sense",
+        "s": "Mon voisin m'a invité ___ à prendre un café.",
+        "en": "My neighbor invited me cordially for a coffee.",
+        "a": "chaleureusement",
+        "alts": [],
+        "form": ""
+      }
+    ]
+  }
+]

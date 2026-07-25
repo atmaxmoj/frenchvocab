@@ -1,0 +1,743 @@
+[
+  {
+    "id": 3872,
+    "qs": [
+      {
+        "slot": "s|0",
+        "f": "sense",
+        "s": "Einstein était un homme vraiment ___, capable de comprendre l'univers comme personne.",
+        "a": "génial",
+        "en": "Einstein was a truly inspired man, capable of understanding the universe like no one else.",
+        "alts": []
+      },
+      {
+        "slot": "s|0",
+        "f": "sense",
+        "s": "Ce compositeur ___ a écrit sa première symphonie à l'âge de douze ans.",
+        "a": "génial",
+        "en": "This inspired composer wrote his first symphony at the age of twelve.",
+        "alts": []
+      },
+      {
+        "slot": "s|1",
+        "f": "sense",
+        "s": "Il a eu une idée ___ pour résoudre ce problème difficile en une heure.",
+        "a": "géniale",
+        "en": "He had a brilliant idea to solve this difficult problem in one hour.",
+        "alts": []
+      },
+      {
+        "slot": "s|1",
+        "f": "sense",
+        "s": "Ce plan est vraiment ___ ; je n'aurais jamais pensé à ça.",
+        "a": "génial",
+        "en": "This plan is truly brilliant; I would never have thought of that.",
+        "alts": []
+      },
+      {
+        "slot": "s|2",
+        "f": "sense",
+        "s": "Ce film est ___ ! Je le recommande à tout le monde.",
+        "a": "génial",
+        "en": "This film is great! I recommend it to everyone.",
+        "alts": []
+      },
+      {
+        "slot": "s|2",
+        "f": "sense",
+        "s": "On a passé un week-end ___ à la montagne avec toute la famille.",
+        "a": "génial",
+        "en": "We had a great weekend in the mountains with the whole family.",
+        "alts": []
+      },
+      {
+        "slot": "g|mp",
+        "f": "agree",
+        "s": "Ces deux inventeurs ___ ont changé le monde au XIXe siècle.",
+        "a": "géniaux",
+        "en": "These two inspired inventors changed the world in the 19th century.",
+        "alts": []
+      },
+      {
+        "slot": "g|mp",
+        "f": "agree",
+        "s": "Ses arguments étaient ___ et ont convaincu tout l'auditoire.",
+        "a": "géniaux",
+        "en": "His arguments were brilliant and convinced the entire audience.",
+        "alts": []
+      },
+      {
+        "slot": "g|f",
+        "f": "agree",
+        "s": "C'est une solution ___ que personne d'autre n'avait envisagée.",
+        "a": "géniale",
+        "en": "It is a brilliant solution that no one else had considered.",
+        "alts": []
+      },
+      {
+        "slot": "g|f",
+        "f": "agree",
+        "s": "Marie Curie était une scientifique ___ qui a reçu deux prix Nobel.",
+        "a": "géniale",
+        "en": "Marie Curie was an inspired scientist who received two Nobel prizes.",
+        "alts": []
+      },
+      {
+        "slot": "g|fp",
+        "f": "agree",
+        "s": "Ces actrices sont vraiment ___ ; leur jeu est toujours parfait.",
+        "a": "géniales",
+        "en": "These actresses are truly great; their acting is always perfect.",
+        "alts": []
+      },
+      {
+        "slot": "g|fp",
+        "f": "agree",
+        "s": "Les idées ___ de cette équipe ont permis de créer un produit révolutionnaire.",
+        "a": "géniales",
+        "en": "The brilliant ideas of this team made it possible to create a revolutionary product.",
+        "alts": []
+      }
+    ]
+  },
+  {
+    "id": 3873,
+    "qs": [
+      {
+        "slot": "s|0",
+        "f": "sense",
+        "s": "Le modèle ___ de la tour Eiffel mesure trente centimètres de hauteur.",
+        "a": "réduit",
+        "en": "The scaled-down model of the Eiffel Tower measures thirty centimeters in height.",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "s|0",
+        "f": "sense",
+        "s": "Nous travaillons avec un budget ___ depuis le début de la crise économique.",
+        "a": "réduit",
+        "en": "We have been working with a reduced budget since the start of the economic crisis.",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "s|1",
+        "f": "sense",
+        "s": "Il dormait dans un ___ sous l'escalier, à peine assez grand pour un lit.",
+        "a": "réduit",
+        "en": "He slept in a tiny room under the stairs, barely big enough for a bed.",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "s|1",
+        "f": "sense",
+        "s": "La gardienne rangeait ses outils dans un ___ au fond du couloir.",
+        "a": "réduit",
+        "en": "The caretaker kept her tools in a cramped little room at the end of the corridor.",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "s|2",
+        "f": "sense",
+        "s": "Les résistants se retrouvaient dans leur ___ secret pour planifier leurs actions.",
+        "a": "réduit",
+        "en": "The resistance fighters met in their secret hideout to plan their operations.",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "s|2",
+        "f": "sense",
+        "s": "Le fugitif avait aménagé un ___ dans la forêt pour échapper aux recherches.",
+        "a": "réduit",
+        "en": "The fugitive had set up a hideout in the forest to escape the search.",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "gender",
+        "f": "gender",
+        "s": "Le gardien a fermé ___ réduit à clé avant de quitter le bâtiment.",
+        "a": "le",
+        "en": "The security guard locked the tiny room before leaving the building.",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "gender",
+        "f": "gender",
+        "s": "Ils ont découvert ___ réduit caché derrière une étagère dans le sous-sol.",
+        "a": "un",
+        "en": "They discovered a tiny hidden room behind a shelf in the basement.",
+        "alts": [],
+        "form": ""
+      }
+    ]
+  },
+  {
+    "id": 3874,
+    "qs": [
+      {
+        "slot": "t|Présent|0",
+        "f": "tense",
+        "s": "Ce médicament ___ les douleurs musculaires rapidement.",
+        "a": "allège",
+        "en": "This medication lightens muscle pain quickly.",
+        "alts": [],
+        "form": "Présent"
+      },
+      {
+        "slot": "t|Présent|0",
+        "f": "tense",
+        "s": "J'___ mon sac avant de partir en randonnée.",
+        "a": "allège",
+        "en": "I lighten my bag before going hiking.",
+        "alts": [],
+        "form": "Présent"
+      },
+      {
+        "slot": "t|Présent|1",
+        "f": "tense",
+        "s": "Tu ___ bien ton programme de travail cette semaine.",
+        "a": "allèges",
+        "en": "You lighten your work schedule well this week.",
+        "alts": [],
+        "form": "Présent"
+      },
+      {
+        "slot": "t|Présent|1",
+        "f": "tense",
+        "s": "Est-ce que tu ___ vraiment ta valise avant chaque voyage ?",
+        "a": "allèges",
+        "en": "Do you really lighten your suitcase before each trip?",
+        "alts": [],
+        "form": "Présent"
+      },
+      {
+        "slot": "t|Présent|2",
+        "f": "tense",
+        "s": "Nous ___ les procédures administratives pour les nouveaux employés.",
+        "a": "allégeons",
+        "en": "We streamline the administrative procedures for new employees.",
+        "alts": [],
+        "form": "Présent"
+      },
+      {
+        "slot": "t|Présent|2",
+        "f": "tense",
+        "s": "Ensemble, nous ___ la charge de travail de notre collègue malade.",
+        "a": "allégeons",
+        "en": "Together, we lighten the workload of our sick colleague.",
+        "alts": [],
+        "form": "Présent"
+      },
+      {
+        "slot": "t|Présent|3",
+        "f": "tense",
+        "s": "Vous ___ vos bagages avant de prendre l'avion ?",
+        "a": "allégez",
+        "en": "Are you lightening your luggage before taking the plane?",
+        "alts": [],
+        "form": "Présent"
+      },
+      {
+        "slot": "t|Présent|3",
+        "f": "tense",
+        "s": "Vous ___ vraiment les contraintes fiscales de cette région.",
+        "a": "allégez",
+        "en": "You really reduce the tax constraints of this region.",
+        "alts": [],
+        "form": "Présent"
+      },
+      {
+        "slot": "t|Présent|4",
+        "f": "tense",
+        "s": "Ces nouvelles mesures ___ la peine des condamnés.",
+        "a": "allègent",
+        "en": "These new measures alleviate the sentence of the convicts.",
+        "alts": [],
+        "form": "Présent"
+      },
+      {
+        "slot": "t|Présent|4",
+        "f": "tense",
+        "s": "Les ingénieurs ___ la structure du pont pour réduire les coûts.",
+        "a": "allègent",
+        "en": "The engineers lighten the structure of the bridge to reduce costs.",
+        "alts": [],
+        "form": "Présent"
+      },
+      {
+        "slot": "t|Passé composé|0",
+        "f": "tense",
+        "s": "J'___ mon cartable en laissant les livres inutiles à la maison.",
+        "a": "ai allégé",
+        "en": "I lightened my schoolbag by leaving unnecessary books at home.",
+        "alts": [],
+        "form": "Passé composé"
+      },
+      {
+        "slot": "t|Passé composé|0",
+        "f": "tense",
+        "s": "J'___ ma conscience en lui disant la vérité.",
+        "a": "ai allégé",
+        "en": "I eased my conscience by telling him the truth.",
+        "alts": [],
+        "form": "Passé composé"
+      },
+      {
+        "slot": "t|Passé composé|1",
+        "f": "tense",
+        "s": "Tu ___ le programme scolaire cette année.",
+        "a": "as allégé",
+        "en": "You streamlined the school curriculum this year.",
+        "alts": [],
+        "form": "Passé composé"
+      },
+      {
+        "slot": "t|Passé composé|1",
+        "f": "tense",
+        "s": "Tu ___ la sauce en retirant la crème.",
+        "a": "as allégé",
+        "en": "You lightened the sauce by removing the cream.",
+        "alts": [],
+        "form": "Passé composé"
+      },
+      {
+        "slot": "t|Passé composé|2",
+        "f": "tense",
+        "s": "Le gouvernement ___ les taxes sur les petites entreprises l'année dernière.",
+        "a": "a allégé",
+        "en": "The government reduced taxes on small businesses last year.",
+        "alts": [],
+        "form": "Passé composé"
+      },
+      {
+        "slot": "t|Passé composé|2",
+        "f": "tense",
+        "s": "Ce traitement ___ nettement la douleur du patient après l'opération.",
+        "a": "a allégé",
+        "en": "This treatment clearly alleviated the patient's pain after the operation.",
+        "alts": [],
+        "form": "Passé composé"
+      },
+      {
+        "slot": "t|Passé composé|3",
+        "f": "tense",
+        "s": "Nous ___ notre emploi du temps en supprimant deux réunions inutiles.",
+        "a": "avons allégé",
+        "en": "We lightened our schedule by removing two unnecessary meetings.",
+        "alts": [],
+        "form": "Passé composé"
+      },
+      {
+        "slot": "t|Passé composé|3",
+        "f": "tense",
+        "s": "Nous ___ les procédures douanières lors de la réforme de l'an dernier.",
+        "a": "avons allégé",
+        "en": "We streamlined customs procedures during last year's reform.",
+        "alts": [],
+        "form": "Passé composé"
+      },
+      {
+        "slot": "t|Passé composé|4",
+        "f": "tense",
+        "s": "Vous ___ considérablement la charge administrative de notre service.",
+        "a": "avez allégé",
+        "en": "You considerably reduced the administrative burden of our department.",
+        "alts": [],
+        "form": "Passé composé"
+      },
+      {
+        "slot": "t|Passé composé|4",
+        "f": "tense",
+        "s": "Vous ___ vos bagages avant de monter dans le train.",
+        "a": "avez allégé",
+        "en": "You lightened your luggage before getting on the train.",
+        "alts": [],
+        "form": "Passé composé"
+      },
+      {
+        "slot": "t|Passé composé|5",
+        "f": "tense",
+        "s": "Les autorités ___ les restrictions sanitaires après la pandémie.",
+        "a": "ont allégé",
+        "en": "The authorities eased the health restrictions after the pandemic.",
+        "alts": [],
+        "form": "Passé composé"
+      },
+      {
+        "slot": "t|Passé composé|5",
+        "f": "tense",
+        "s": "Mes amis ___ l'ambiance en racontant des blagues.",
+        "a": "ont allégé",
+        "en": "My friends lightened the atmosphere by telling jokes.",
+        "alts": [],
+        "form": "Passé composé"
+      },
+      {
+        "slot": "t|Imparfait|0",
+        "f": "tense",
+        "s": "Quand j'étais enfant, j'___ toujours mon cartable avant les vacances.",
+        "a": "allégeais",
+        "en": "When I was a child, I always lightened my schoolbag before the holidays.",
+        "alts": [],
+        "form": "Imparfait"
+      },
+      {
+        "slot": "t|Imparfait|0",
+        "f": "tense",
+        "s": "Tu ___ ta souffrance en parlant à tes amis.",
+        "a": "allégeais",
+        "en": "You alleviated your suffering by talking to your friends.",
+        "alts": [],
+        "form": "Imparfait"
+      },
+      {
+        "slot": "t|Imparfait|1",
+        "f": "tense",
+        "s": "Cette musique ___ l'atmosphère pesante de la réunion.",
+        "a": "allégeait",
+        "en": "This music was lightening the heavy atmosphere of the meeting.",
+        "alts": [],
+        "form": "Imparfait"
+      },
+      {
+        "slot": "t|Imparfait|1",
+        "f": "tense",
+        "s": "Le médecin ___ les symptômes de la maladie avec ce remède.",
+        "a": "allégeait",
+        "en": "The doctor was alleviating the symptoms of the illness with this remedy.",
+        "alts": [],
+        "form": "Imparfait"
+      },
+      {
+        "slot": "t|Imparfait|2",
+        "f": "tense",
+        "s": "Nous ___ progressivement notre programme chargé semaine après semaine.",
+        "a": "allégions",
+        "en": "We were gradually lightening our packed schedule week after week.",
+        "alts": [],
+        "form": "Imparfait"
+      },
+      {
+        "slot": "t|Imparfait|2",
+        "f": "tense",
+        "s": "Chaque soir, nous ___ nos bagages pour le lendemain.",
+        "a": "allégions",
+        "en": "Every evening, we were lightening our luggage for the next day.",
+        "alts": [],
+        "form": "Imparfait"
+      },
+      {
+        "slot": "t|Imparfait|3",
+        "f": "tense",
+        "s": "Vous ___ toujours la peine des étudiants avec votre humour.",
+        "a": "allégiez",
+        "en": "You always alleviated the students' burden with your humor.",
+        "alts": [],
+        "form": "Imparfait"
+      },
+      {
+        "slot": "t|Imparfait|3",
+        "f": "tense",
+        "s": "Vous ___ les contraintes réglementaires pour faciliter les investissements.",
+        "a": "allégiez",
+        "en": "You were easing the regulatory constraints to facilitate investments.",
+        "alts": [],
+        "form": "Imparfait"
+      },
+      {
+        "slot": "t|Imparfait|4",
+        "f": "tense",
+        "s": "Les infirmières ___ les souffrances des malades avec beaucoup de douceur.",
+        "a": "allégeaient",
+        "en": "The nurses were alleviating the patients' suffering with great gentleness.",
+        "alts": [],
+        "form": "Imparfait"
+      },
+      {
+        "slot": "t|Imparfait|4",
+        "f": "tense",
+        "s": "Ces réformes ___ peu à peu le fardeau fiscal des citoyens.",
+        "a": "allégeaient",
+        "en": "These reforms were gradually easing the tax burden on citizens.",
+        "alts": [],
+        "form": "Imparfait"
+      },
+      {
+        "slot": "t|Futur|0",
+        "f": "tense",
+        "s": "J'___ mon sac à dos avant de partir en montagne demain.",
+        "a": "allègerai",
+        "en": "I will lighten my backpack before leaving for the mountains tomorrow.",
+        "alts": [],
+        "form": "Futur"
+      },
+      {
+        "slot": "t|Futur|0",
+        "f": "tense",
+        "s": "J'___ la peine de ma mère en lui annonçant cette bonne nouvelle.",
+        "a": "allègerai",
+        "en": "I will ease my mother's sorrow by announcing this good news to her.",
+        "alts": [],
+        "form": "Futur"
+      },
+      {
+        "slot": "t|Futur|1",
+        "f": "tense",
+        "s": "Tu ___ ton emploi du temps si tu délègues certaines tâches.",
+        "a": "allègeras",
+        "en": "You will lighten your schedule if you delegate certain tasks.",
+        "alts": [],
+        "form": "Futur"
+      },
+      {
+        "slot": "t|Futur|1",
+        "f": "tense",
+        "s": "Tu ___ ta charge de travail en prenant un assistant.",
+        "a": "allègeras",
+        "en": "You will lighten your workload by taking an assistant.",
+        "alts": [],
+        "form": "Futur"
+      },
+      {
+        "slot": "t|Futur|2",
+        "f": "tense",
+        "s": "Ce nouveau traitement ___ les douleurs chroniques des patients.",
+        "a": "allègera",
+        "en": "This new treatment will alleviate chronic pain in patients.",
+        "alts": [],
+        "form": "Futur"
+      },
+      {
+        "slot": "t|Futur|2",
+        "f": "tense",
+        "s": "La réforme ___ les procédures administratives dès l'année prochaine.",
+        "a": "allègera",
+        "en": "The reform will streamline administrative procedures starting next year.",
+        "alts": [],
+        "form": "Futur"
+      },
+      {
+        "slot": "t|Futur|3",
+        "f": "tense",
+        "s": "Nous ___ notre programme de formation pour le rendre plus accessible.",
+        "a": "allègerons",
+        "en": "We will streamline our training program to make it more accessible.",
+        "alts": [],
+        "form": "Futur"
+      },
+      {
+        "slot": "t|Futur|3",
+        "f": "tense",
+        "s": "Nous ___ les contraintes budgétaires grâce aux nouvelles subventions.",
+        "a": "allègerons",
+        "en": "We will ease the budget constraints thanks to the new subsidies.",
+        "alts": [],
+        "form": "Futur"
+      },
+      {
+        "slot": "t|Futur|4",
+        "f": "tense",
+        "s": "Vous ___ vos tâches en utilisant ce logiciel.",
+        "a": "allègerez",
+        "en": "You will lighten your tasks by using this software.",
+        "alts": [],
+        "form": "Futur"
+      },
+      {
+        "slot": "t|Futur|4",
+        "f": "tense",
+        "s": "Vous ___ la souffrance des patients grâce à ce nouveau protocole.",
+        "a": "allègerez",
+        "en": "You will alleviate the patients' suffering thanks to this new protocol.",
+        "alts": [],
+        "form": "Futur"
+      },
+      {
+        "slot": "t|Futur|5",
+        "f": "tense",
+        "s": "Ces mesures ___ la dette publique dans les prochaines années.",
+        "a": "allègeront",
+        "en": "These measures will reduce the public debt in the coming years.",
+        "alts": [],
+        "form": "Futur"
+      },
+      {
+        "slot": "t|Futur|5",
+        "f": "tense",
+        "s": "Les nouvelles technologies ___ le travail des chirurgiens.",
+        "a": "allègeront",
+        "en": "New technologies will lighten the work of surgeons.",
+        "alts": [],
+        "form": "Futur"
+      },
+      {
+        "slot": "t|Conditionnel|0",
+        "f": "tense",
+        "s": "Si tu avais besoin d'aide, j'___ ta charge de travail avec plaisir.",
+        "a": "allègerais",
+        "en": "If you needed help, I would gladly lighten your workload.",
+        "alts": [],
+        "form": "Conditionnel"
+      },
+      {
+        "slot": "t|Conditionnel|0",
+        "f": "tense",
+        "s": "Si la situation le permettait, tu ___ ton programme sans hésiter.",
+        "a": "allègerais",
+        "en": "If the situation allowed it, you would lighten your schedule without hesitation.",
+        "alts": [],
+        "form": "Conditionnel"
+      },
+      {
+        "slot": "t|Conditionnel|1",
+        "f": "tense",
+        "s": "Un bon massage ___ les tensions musculaires après une longue journée.",
+        "a": "allègerait",
+        "en": "A good massage would alleviate muscle tension after a long day.",
+        "alts": [],
+        "form": "Conditionnel"
+      },
+      {
+        "slot": "t|Conditionnel|1",
+        "f": "tense",
+        "s": "Si elle avait plus de temps, elle ___ ses obligations professionnelles.",
+        "a": "allègerait",
+        "en": "If she had more time, she would lighten her professional obligations.",
+        "alts": [],
+        "form": "Conditionnel"
+      },
+      {
+        "slot": "t|Conditionnel|2",
+        "f": "tense",
+        "s": "Avec plus de ressources, nous ___ les tâches de l'équipe.",
+        "a": "allègerions",
+        "en": "With more resources, we would lighten the team's tasks.",
+        "alts": [],
+        "form": "Conditionnel"
+      },
+      {
+        "slot": "t|Conditionnel|2",
+        "f": "tense",
+        "s": "Si nous avions un budget plus important, nous ___ les procédures.",
+        "a": "allègerions",
+        "en": "If we had a larger budget, we would streamline the procedures.",
+        "alts": [],
+        "form": "Conditionnel"
+      },
+      {
+        "slot": "t|Conditionnel|3",
+        "f": "tense",
+        "s": "Vous ___ vos obligations si vous acceptiez cette aide.",
+        "a": "allègeriez",
+        "en": "You would lighten your obligations if you accepted this help.",
+        "alts": [],
+        "form": "Conditionnel"
+      },
+      {
+        "slot": "t|Conditionnel|3",
+        "f": "tense",
+        "s": "Avec un assistant, vous ___ votre emploi du temps facilement.",
+        "a": "allègeriez",
+        "en": "With an assistant, you would easily lighten your schedule.",
+        "alts": [],
+        "form": "Conditionnel"
+      },
+      {
+        "slot": "t|Conditionnel|4",
+        "f": "tense",
+        "s": "Ces nouvelles lois ___ les charges des petites entreprises.",
+        "a": "allègeraient",
+        "en": "These new laws would lighten the burden on small businesses.",
+        "alts": [],
+        "form": "Conditionnel"
+      },
+      {
+        "slot": "t|Conditionnel|4",
+        "f": "tense",
+        "s": "Si les médecins avaient ce médicament, ils ___ la souffrance des malades.",
+        "a": "allègeraient",
+        "en": "If the doctors had this medication, they would alleviate the patients' suffering.",
+        "alts": [],
+        "form": "Conditionnel"
+      },
+      {
+        "slot": "t|Subjonctif",
+        "f": "subj",
+        "s": "Il faut que tu ___ ton programme avant les examens.",
+        "a": "allèges",
+        "en": "You need to lighten your schedule before the exams.",
+        "alts": [],
+        "form": "Subjonctif"
+      },
+      {
+        "slot": "t|Subjonctif",
+        "f": "subj",
+        "s": "Je souhaite que le gouvernement ___ les contraintes administratives pour les PME.",
+        "a": "allège",
+        "en": "I wish the government would ease the administrative constraints for SMEs.",
+        "alts": [],
+        "form": "Subjonctif"
+      },
+      {
+        "slot": "s|0",
+        "f": "sense",
+        "s": "Ces comprimés ___ les douleurs dorsales en quelques heures.",
+        "a": "allègent",
+        "en": "These tablets lighten back pain within a few hours.",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "s|0",
+        "f": "sense",
+        "s": "Il a ___ son sac en enlevant les livres qu'il n'utiliserait pas.",
+        "a": "allégé",
+        "en": "He lightened his bag by removing books he would not use.",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "s|1",
+        "f": "sense",
+        "s": "Ce remède ___ efficacement les symptômes de la grippe.",
+        "a": "allège",
+        "en": "This remedy effectively alleviates the symptoms of the flu.",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "s|1",
+        "f": "sense",
+        "s": "Parler à un psychologue ___ souvent l'anxiété des patients.",
+        "a": "allège",
+        "en": "Talking to a psychologist often alleviates patients' anxiety.",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "s|2",
+        "f": "sense",
+        "s": "Le directeur a décidé d'___ l'organigramme de l'entreprise pour gagner en efficacité.",
+        "a": "alléger",
+        "en": "The director decided to streamline the company's organizational chart to gain efficiency.",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "s|2",
+        "f": "sense",
+        "s": "La réforme vise à ___ les procédures judiciaires trop complexes.",
+        "a": "alléger",
+        "en": "The reform aims to streamline overly complex judicial procedures.",
+        "alts": [],
+        "form": ""
+      }
+    ]
+  }
+]

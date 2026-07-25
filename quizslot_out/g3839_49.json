@@ -1,0 +1,791 @@
+[
+  {
+    "id": 3986,
+    "qs": [
+      {
+        "slot": "s|0",
+        "f": "sense",
+        "s": "La manifestation était ___ : personne ne l'avait organisée à l'avance.",
+        "en": "The demonstration was spontaneous: nobody had organized it in advance.",
+        "a": "spontanée",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "s|0",
+        "f": "sense",
+        "s": "Des applaudissements ___ ont éclaté dans la salle dès la fin du discours.",
+        "en": "Spontaneous applause broke out in the room at the end of the speech.",
+        "a": "spontanés",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "s|1",
+        "f": "sense",
+        "s": "J'aime sa façon d'être ___ : elle parle sans chercher ses mots ni jouer un rôle.",
+        "en": "I love how natural she is: she speaks without searching for words or playing a role.",
+        "a": "spontanée",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "s|1",
+        "f": "sense",
+        "s": "Son sourire était tellement ___ qu'il mettait tout le monde à l'aise.",
+        "en": "His smile was so natural that it put everyone at ease.",
+        "a": "spontané",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "s|2",
+        "f": "sense",
+        "s": "Sa réaction de recul face au danger était purement ___ , sans aucune réflexion.",
+        "en": "Her recoil in the face of danger was purely instinctive, without any reflection.",
+        "a": "spontanée",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "s|2",
+        "f": "sense",
+        "s": "Ce geste de protection envers l'enfant était ___ , dicté par l'instinct.",
+        "en": "This protective gesture toward the child was instinctive, dictated by instinct.",
+        "a": "spontané",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "g|mp",
+        "f": "agree",
+        "s": "Leurs gestes étaient ___ et chaleureux, sans aucune retenue.",
+        "en": "Their gestures were spontaneous and warm, without any restraint.",
+        "a": "spontanés",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "g|mp",
+        "f": "agree",
+        "s": "Les commentaires ___ des enfants ont fait rire toute la classe.",
+        "en": "The children's spontaneous comments made the whole class laugh.",
+        "a": "spontanés",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "g|f",
+        "f": "agree",
+        "s": "Sa réponse ___ m'a surpris : il n'avait pourtant pas eu le temps de réfléchir.",
+        "en": "His spontaneous response surprised me: he hadn't had time to think.",
+        "a": "spontanée",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "g|f",
+        "f": "agree",
+        "s": "Elle a une personnalité très ___ qui plaît à tout le monde.",
+        "en": "She has a very spontaneous personality that everyone likes.",
+        "a": "spontanée",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "g|fp",
+        "f": "agree",
+        "s": "Ces décisions ___ ont été prises sans consulter personne.",
+        "en": "These spontaneous decisions were made without consulting anyone.",
+        "a": "spontanées",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "g|fp",
+        "f": "agree",
+        "s": "Les réactions ___ des spectateurs ont montré que le film les touchait vraiment.",
+        "en": "The spontaneous reactions of the audience showed that the film truly moved them.",
+        "a": "spontanées",
+        "alts": [],
+        "form": ""
+      }
+    ]
+  },
+  {
+    "id": 3987,
+    "qs": [
+      {
+        "slot": "s|0",
+        "f": "sense",
+        "s": "La musique ___ de la fanfare a animé toute la place du village.",
+        "en": "The merry/lively music of the brass band enlivened the whole village square.",
+        "a": "joyeuse",
+        "alts": ["gaie"],
+        "form": ""
+      },
+      {
+        "slot": "s|0",
+        "f": "sense",
+        "s": "Les enfants poussaient des cris ___ en jouant dans la neige.",
+        "en": "The children let out merry/lively shouts while playing in the snow.",
+        "a": "joyeux",
+        "alts": ["gais"],
+        "form": ""
+      },
+      {
+        "slot": "s|1",
+        "f": "sense",
+        "s": "Je vous souhaite un ___ anniversaire et plein de bonheur !",
+        "en": "I wish you a happy birthday and lots of happiness!",
+        "a": "joyeux",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "s|1",
+        "f": "sense",
+        "s": "Toute la famille se réunit pour passer de ___ fêtes de fin d'année.",
+        "en": "The whole family gathers to spend a happy holiday season.",
+        "a": "joyeuses",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "s|2",
+        "f": "sense",
+        "s": "Il était ___ d'apprendre qu'il avait réussi son examen.",
+        "en": "He was glad/pleased to learn that he had passed his exam.",
+        "a": "joyeux",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "s|2",
+        "f": "sense",
+        "s": "Elle semblait ___ de retrouver ses amis après si longtemps.",
+        "en": "She seemed glad/pleased to see her friends again after so long.",
+        "a": "joyeuse",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "g|mp",
+        "f": "agree",
+        "s": "Les ___ lurons chantaient et riaient sans s'arrêter.",
+        "en": "The merry fellows sang and laughed without stopping.",
+        "a": "joyeux",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "g|mp",
+        "f": "agree",
+        "s": "Ses souvenirs d'enfance sont restés ___ malgré les années.",
+        "en": "His childhood memories have remained joyful despite the years.",
+        "a": "joyeux",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "g|f",
+        "f": "agree",
+        "s": "Ma cousine est toujours ___ et pleine d'énergie.",
+        "en": "My cousin is always joyful and full of energy.",
+        "a": "joyeuse",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "g|f",
+        "f": "agree",
+        "s": "C'est une atmosphère vraiment ___ qui règne dans cette maison.",
+        "en": "It is a truly joyful atmosphere that reigns in this house.",
+        "a": "joyeuse",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "g|fp",
+        "f": "agree",
+        "s": "Les deux sœurs étaient ___ de voir leur père rentrer à la maison.",
+        "en": "The two sisters were joyful to see their father come home.",
+        "a": "joyeuses",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "g|fp",
+        "f": "agree",
+        "s": "Nous avons passé des soirées ___ autour du feu de camp.",
+        "en": "We spent joyful evenings around the campfire.",
+        "a": "joyeuses",
+        "alts": [],
+        "form": ""
+      }
+    ]
+  },
+  {
+    "id": 3988,
+    "qs": [
+      {
+        "slot": "t|Présent|0",
+        "f": "tense",
+        "s": "Je ___ mes obligations professionnelles et mes loisirs du mieux que je peux.",
+        "en": "I reconcile my professional obligations and my leisure activities as best I can.",
+        "a": "concilie",
+        "alts": [],
+        "form": "Présent"
+      },
+      {
+        "slot": "t|Présent|0",
+        "f": "tense",
+        "s": "Ce médiateur ___ les deux parties en conflit avec beaucoup de patience.",
+        "en": "This mediator reconciles the two conflicting parties with a lot of patience.",
+        "a": "concilie",
+        "alts": [],
+        "form": "Présent"
+      },
+      {
+        "slot": "t|Présent|1",
+        "f": "tense",
+        "s": "Comment tu ___ ta vie familiale et ta carrière exigeante ?",
+        "en": "How do you reconcile your family life and your demanding career?",
+        "a": "concilies",
+        "alts": [],
+        "form": "Présent"
+      },
+      {
+        "slot": "t|Présent|1",
+        "f": "tense",
+        "s": "Tu ___ difficilement tes envies de voyager et tes responsabilités à la maison.",
+        "en": "You have difficulty reconciling your desire to travel and your responsibilities at home.",
+        "a": "concilies",
+        "alts": [],
+        "form": "Présent"
+      },
+      {
+        "slot": "t|Présent|2",
+        "f": "tense",
+        "s": "Nous ___ nos intérêts divergents grâce à un dialogue ouvert.",
+        "en": "We reconcile our diverging interests through open dialogue.",
+        "a": "concilions",
+        "alts": [],
+        "form": "Présent"
+      },
+      {
+        "slot": "t|Présent|2",
+        "f": "tense",
+        "s": "En équipe, nous ___ les différentes opinions pour trouver un consensus.",
+        "en": "As a team, we reconcile the different opinions to reach a consensus.",
+        "a": "concilions",
+        "alts": [],
+        "form": "Présent"
+      },
+      {
+        "slot": "t|Présent|3",
+        "f": "tense",
+        "s": "Vous ___ vos ambitions personnelles et les attentes de votre famille ?",
+        "en": "Do you reconcile your personal ambitions and your family's expectations?",
+        "a": "conciliez",
+        "alts": [],
+        "form": "Présent"
+      },
+      {
+        "slot": "t|Présent|3",
+        "f": "tense",
+        "s": "En tant que managers, vous ___ les besoins des employés et les objectifs de l'entreprise.",
+        "en": "As managers, you reconcile the employees' needs and the company's objectives.",
+        "a": "conciliez",
+        "alts": [],
+        "form": "Présent"
+      },
+      {
+        "slot": "t|Présent|4",
+        "f": "tense",
+        "s": "Ces deux philosophies ___ des valeurs qui semblaient incompatibles.",
+        "en": "These two philosophies reconcile values that seemed incompatible.",
+        "a": "concilient",
+        "alts": [],
+        "form": "Présent"
+      },
+      {
+        "slot": "t|Présent|4",
+        "f": "tense",
+        "s": "Les deux associés ___ leurs visions différentes lors de chaque réunion.",
+        "en": "The two partners reconcile their different visions at each meeting.",
+        "a": "concilient",
+        "alts": [],
+        "form": "Présent"
+      },
+      {
+        "slot": "t|Passé composé|0",
+        "f": "tense",
+        "s": "Cette année, j' ___ mes études et mon travail à temps partiel.",
+        "en": "This year, I reconciled my studies and my part-time job.",
+        "a": "ai concilié",
+        "alts": [],
+        "form": "Passé composé"
+      },
+      {
+        "slot": "t|Passé composé|0",
+        "f": "tense",
+        "s": "J' ___ mes deux passions en créant un projet qui les réunit.",
+        "en": "I reconciled my two passions by creating a project that brings them together.",
+        "a": "ai concilié",
+        "alts": [],
+        "form": "Passé composé"
+      },
+      {
+        "slot": "t|Passé composé|1",
+        "f": "tense",
+        "s": "Tu ___ habilement les exigences de tes deux employeurs la semaine dernière.",
+        "en": "You skillfully reconciled the demands of your two employers last week.",
+        "a": "as concilié",
+        "alts": [],
+        "form": "Passé composé"
+      },
+      {
+        "slot": "t|Passé composé|1",
+        "f": "tense",
+        "s": "Tu ___ ta passion pour l'art et tes obligations professionnelles pendant ce projet.",
+        "en": "You reconciled your passion for art and your professional obligations during that project.",
+        "a": "as concilié",
+        "alts": [],
+        "form": "Passé composé"
+      },
+      {
+        "slot": "t|Passé composé|2",
+        "f": "tense",
+        "s": "Le directeur ___ les demandes contradictoires des deux départements.",
+        "en": "The director reconciled the contradictory demands of the two departments.",
+        "a": "a concilié",
+        "alts": [],
+        "form": "Passé composé"
+      },
+      {
+        "slot": "t|Passé composé|2",
+        "f": "tense",
+        "s": "Cette loi ___ les intérêts des entrepreneurs et ceux des salariés.",
+        "en": "This law reconciled the interests of entrepreneurs and those of employees.",
+        "a": "a concilié",
+        "alts": [],
+        "form": "Passé composé"
+      },
+      {
+        "slot": "t|Passé composé|3",
+        "f": "tense",
+        "s": "Nous ___ nos points de vue opposés lors de la réunion d'hier.",
+        "en": "We reconciled our opposing viewpoints at yesterday's meeting.",
+        "a": "avons concilié",
+        "alts": [],
+        "form": "Passé composé"
+      },
+      {
+        "slot": "t|Passé composé|3",
+        "f": "tense",
+        "s": "Nous ___ nos agendas chargés pour organiser cette conférence commune.",
+        "en": "We reconciled our busy schedules to organize this joint conference.",
+        "a": "avons concilié",
+        "alts": [],
+        "form": "Passé composé"
+      },
+      {
+        "slot": "t|Passé composé|4",
+        "f": "tense",
+        "s": "Vous ___ vos différends et signé un accord la semaine passée.",
+        "en": "You reconciled your differences and signed an agreement last week.",
+        "a": "avez concilié",
+        "alts": [],
+        "form": "Passé composé"
+      },
+      {
+        "slot": "t|Passé composé|4",
+        "f": "tense",
+        "s": "Est-ce que vous ___ les exigences du client et les contraintes techniques du projet ?",
+        "en": "Did you reconcile the client's requirements and the technical constraints of the project?",
+        "a": "avez concilié",
+        "alts": [],
+        "form": "Passé composé"
+      },
+      {
+        "slot": "t|Passé composé|5",
+        "f": "tense",
+        "s": "Les négociateurs ___ les positions des deux camps en quelques heures.",
+        "en": "The negotiators reconciled the positions of the two sides in a few hours.",
+        "a": "ont concilié",
+        "alts": [],
+        "form": "Passé composé"
+      },
+      {
+        "slot": "t|Passé composé|5",
+        "f": "tense",
+        "s": "Les deux pays ___ leurs intérêts économiques lors du sommet international.",
+        "en": "The two countries reconciled their economic interests at the international summit.",
+        "a": "ont concilié",
+        "alts": [],
+        "form": "Passé composé"
+      },
+      {
+        "slot": "t|Imparfait|0",
+        "f": "tense",
+        "s": "Quand j'étais étudiant, je ___ mes cours et mon emploi de serveur sans trop de difficulté.",
+        "en": "When I was a student, I reconciled my studies and my waiter job without too much difficulty.",
+        "a": "conciliais",
+        "alts": [],
+        "form": "Imparfait"
+      },
+      {
+        "slot": "t|Imparfait|0",
+        "f": "tense",
+        "s": "Avant, tu ___ facilement ta vie sociale et tes obligations universitaires.",
+        "en": "Before, you easily reconciled your social life and your university obligations.",
+        "a": "conciliais",
+        "alts": [],
+        "form": "Imparfait"
+      },
+      {
+        "slot": "t|Imparfait|1",
+        "f": "tense",
+        "s": "Ce médiateur ___ les intérêts des deux parties avec une grande habileté.",
+        "en": "This mediator reconciled the interests of both parties with great skill.",
+        "a": "conciliait",
+        "alts": [],
+        "form": "Imparfait"
+      },
+      {
+        "slot": "t|Imparfait|1",
+        "f": "tense",
+        "s": "La nouvelle politique ___ l'efficacité économique et la justice sociale.",
+        "en": "The new policy reconciled economic efficiency and social justice.",
+        "a": "conciliait",
+        "alts": [],
+        "form": "Imparfait"
+      },
+      {
+        "slot": "t|Imparfait|2",
+        "f": "tense",
+        "s": "Nous ___ nos envies différentes en choisissant des activités communes qui plaisaient à tous.",
+        "en": "We reconciled our different desires by choosing common activities that everyone enjoyed.",
+        "a": "conciliions",
+        "alts": [],
+        "form": "Imparfait"
+      },
+      {
+        "slot": "t|Imparfait|2",
+        "f": "tense",
+        "s": "À cette époque, nous ___ les revendications des syndicats et les impératifs de production.",
+        "en": "At that time, we reconciled the unions' demands and the production imperatives.",
+        "a": "conciliions",
+        "alts": [],
+        "form": "Imparfait"
+      },
+      {
+        "slot": "t|Imparfait|3",
+        "f": "tense",
+        "s": "Vous ___ toujours les besoins individuels et les règles collectives dans votre classe.",
+        "en": "You always reconciled individual needs and collective rules in your classroom.",
+        "a": "conciliiez",
+        "alts": [],
+        "form": "Imparfait"
+      },
+      {
+        "slot": "t|Imparfait|3",
+        "f": "tense",
+        "s": "Comment vous ___ vos responsabilités parentales et votre travail à l'époque ?",
+        "en": "How did you reconcile your parental responsibilities and your work back then?",
+        "a": "conciliiez",
+        "alts": [],
+        "form": "Imparfait"
+      },
+      {
+        "slot": "t|Imparfait|4",
+        "f": "tense",
+        "s": "Les anciens dirigeants ___ mal les intérêts des actionnaires et ceux des employés.",
+        "en": "The former leaders poorly reconciled the interests of shareholders and those of employees.",
+        "a": "conciliaient",
+        "alts": [],
+        "form": "Imparfait"
+      },
+      {
+        "slot": "t|Imparfait|4",
+        "f": "tense",
+        "s": "Ces deux théories ___ difficilement leurs postulats contradictoires.",
+        "en": "These two theories had difficulty reconciling their contradictory postulates.",
+        "a": "conciliaient",
+        "alts": [],
+        "form": "Imparfait"
+      },
+      {
+        "slot": "t|Futur|0",
+        "f": "tense",
+        "s": "Je ___ mon désir de voyager et mes engagements familiaux l'année prochaine.",
+        "en": "I will reconcile my desire to travel and my family commitments next year.",
+        "a": "concilierai",
+        "alts": [],
+        "form": "Futur"
+      },
+      {
+        "slot": "t|Futur|0",
+        "f": "tense",
+        "s": "Après cette formation, je ___ plus facilement mes compétences et les besoins du marché.",
+        "en": "After this training, I will more easily reconcile my skills and the market's needs.",
+        "a": "concilierai",
+        "alts": [],
+        "form": "Futur"
+      },
+      {
+        "slot": "t|Futur|1",
+        "f": "tense",
+        "s": "Tu ___ tes principes et les contraintes de ce nouveau poste, j'en suis sûr.",
+        "en": "You will reconcile your principles and the constraints of this new position, I'm sure.",
+        "a": "concilieras",
+        "alts": [],
+        "form": "Futur"
+      },
+      {
+        "slot": "t|Futur|1",
+        "f": "tense",
+        "s": "Est-ce que tu ___ tes aspirations artistiques et la stabilité financière dont tu as besoin ?",
+        "en": "Will you reconcile your artistic aspirations and the financial stability you need?",
+        "a": "concilieras",
+        "alts": [],
+        "form": "Futur"
+      },
+      {
+        "slot": "t|Futur|2",
+        "f": "tense",
+        "s": "Ce nouveau règlement ___ les exigences environnementales et les besoins industriels.",
+        "en": "This new regulation will reconcile environmental requirements and industrial needs.",
+        "a": "conciliera",
+        "alts": [],
+        "form": "Futur"
+      },
+      {
+        "slot": "t|Futur|2",
+        "f": "tense",
+        "s": "La présidente ___ les factions opposées du parti lors du prochain congrès.",
+        "en": "The president will reconcile the opposing factions of the party at the next congress.",
+        "a": "conciliera",
+        "alts": [],
+        "form": "Futur"
+      },
+      {
+        "slot": "t|Futur|3",
+        "f": "tense",
+        "s": "Ensemble, nous ___ nos idées pour élaborer un projet commun solide.",
+        "en": "Together, we will reconcile our ideas to develop a solid joint project.",
+        "a": "concilierons",
+        "alts": [],
+        "form": "Futur"
+      },
+      {
+        "slot": "t|Futur|3",
+        "f": "tense",
+        "s": "Nous ___ les demandes de chaque service lors de la prochaine réunion de direction.",
+        "en": "We will reconcile the requests from each department at the next management meeting.",
+        "a": "concilierons",
+        "alts": [],
+        "form": "Futur"
+      },
+      {
+        "slot": "t|Futur|4",
+        "f": "tense",
+        "s": "Comment vous ___ vos objectifs personnels et les priorités de l'équipe ?",
+        "en": "How will you reconcile your personal objectives and the team's priorities?",
+        "a": "concilierez",
+        "alts": [],
+        "form": "Futur"
+      },
+      {
+        "slot": "t|Futur|4",
+        "f": "tense",
+        "s": "Vous ___ vos avis divergents avant la fin des négociations, j'en suis convaincu.",
+        "en": "You will reconcile your diverging opinions before the end of the negotiations, I am convinced.",
+        "a": "concilierez",
+        "alts": [],
+        "form": "Futur"
+      },
+      {
+        "slot": "t|Futur|5",
+        "f": "tense",
+        "s": "Les deux équipes ___ leurs méthodes de travail pour gagner en efficacité.",
+        "en": "The two teams will reconcile their working methods to gain efficiency.",
+        "a": "concilieront",
+        "alts": [],
+        "form": "Futur"
+      },
+      {
+        "slot": "t|Futur|5",
+        "f": "tense",
+        "s": "Les partenaires ___ leurs désaccords lors de la prochaine session de médiation.",
+        "en": "The partners will reconcile their disagreements at the next mediation session.",
+        "a": "concilieront",
+        "alts": [],
+        "form": "Futur"
+      },
+      {
+        "slot": "t|Conditionnel|0",
+        "f": "tense",
+        "s": "Si j'avais plus de temps, je ___ plus facilement mon travail et ma vie personnelle.",
+        "en": "If I had more time, I would reconcile my work and my personal life more easily.",
+        "a": "concilierais",
+        "alts": [],
+        "form": "Conditionnel"
+      },
+      {
+        "slot": "t|Conditionnel|0",
+        "f": "tense",
+        "s": "Si tu avais plus de flexibilité, tu ___ tes obligations et tes loisirs sans effort.",
+        "en": "If you had more flexibility, you would reconcile your obligations and your leisure without effort.",
+        "a": "concilierais",
+        "alts": [],
+        "form": "Conditionnel"
+      },
+      {
+        "slot": "t|Conditionnel|1",
+        "f": "tense",
+        "s": "Si ce médiateur intervenait, il ___ les deux parties en quelques séances.",
+        "en": "If this mediator intervened, he would reconcile the two parties in a few sessions.",
+        "a": "concilierait",
+        "alts": [],
+        "form": "Conditionnel"
+      },
+      {
+        "slot": "t|Conditionnel|1",
+        "f": "tense",
+        "s": "Une telle réforme ___ les intérêts économiques et les impératifs écologiques.",
+        "en": "Such a reform would reconcile economic interests and ecological imperatives.",
+        "a": "concilierait",
+        "alts": [],
+        "form": "Conditionnel"
+      },
+      {
+        "slot": "t|Conditionnel|2",
+        "f": "tense",
+        "s": "Si nous avions plus de ressources, nous ___ les besoins de tous les départements.",
+        "en": "If we had more resources, we would reconcile the needs of all departments.",
+        "a": "concilierions",
+        "alts": [],
+        "form": "Conditionnel"
+      },
+      {
+        "slot": "t|Conditionnel|2",
+        "f": "tense",
+        "s": "Avec un meilleur budget, nous ___ les revendications sociales et les contraintes financières.",
+        "en": "With a better budget, we would reconcile the social demands and the financial constraints.",
+        "a": "concilierions",
+        "alts": [],
+        "form": "Conditionnel"
+      },
+      {
+        "slot": "t|Conditionnel|3",
+        "f": "tense",
+        "s": "Si vous étiez plus ouverts au compromis, vous ___ vos positions en peu de temps.",
+        "en": "If you were more open to compromise, you would reconcile your positions in little time.",
+        "a": "concilieriez",
+        "alts": [],
+        "form": "Conditionnel"
+      },
+      {
+        "slot": "t|Conditionnel|3",
+        "f": "tense",
+        "s": "Avec un peu de bonne volonté, vous ___ facilement vos opinions divergentes.",
+        "en": "With a little goodwill, you would easily reconcile your diverging opinions.",
+        "a": "concilieriez",
+        "alts": [],
+        "form": "Conditionnel"
+      },
+      {
+        "slot": "t|Conditionnel|4",
+        "f": "tense",
+        "s": "Si les deux syndicats négociaient de bonne foi, ils ___ leurs positions.",
+        "en": "If the two unions negotiated in good faith, they would reconcile their positions.",
+        "a": "concilieraient",
+        "alts": [],
+        "form": "Conditionnel"
+      },
+      {
+        "slot": "t|Conditionnel|4",
+        "f": "tense",
+        "s": "Avec plus de dialogue, ces nations ___ leurs intérêts géopolitiques divergents.",
+        "en": "With more dialogue, these nations would reconcile their diverging geopolitical interests.",
+        "a": "concilieraient",
+        "alts": [],
+        "form": "Conditionnel"
+      },
+      {
+        "slot": "t|Subjonctif",
+        "f": "subj",
+        "s": "Il est essentiel que tu ___ tes ambitions et tes limites réelles.",
+        "en": "It is essential that you reconcile your ambitions and your real limits.",
+        "a": "concilies",
+        "alts": [],
+        "form": "Subjonctif présent"
+      },
+      {
+        "slot": "t|Subjonctif",
+        "f": "subj",
+        "s": "Je souhaite que notre équipe ___ ces deux approches contradictoires.",
+        "en": "I wish that our team would reconcile these two contradictory approaches.",
+        "a": "concilie",
+        "alts": [],
+        "form": "Subjonctif présent"
+      },
+      {
+        "slot": "s|0",
+        "f": "sense",
+        "s": "Ce mélange de couleurs ___ le rouge et le bleu pour créer une teinte harmonieuse.",
+        "en": "This colour mixture harmonises red and blue to create a harmonious shade.",
+        "a": "concilie",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "s|0",
+        "f": "sense",
+        "s": "L'architecte a ___ l'esthétique moderne et les éléments traditionnels dans sa conception.",
+        "en": "The architect harmonised modern aesthetics and traditional elements in their design.",
+        "a": "concilié",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "s|1",
+        "f": "sense",
+        "s": "Le juge a réussi à ___ les deux voisins après des années de disputes.",
+        "en": "The judge managed to reconcile the two neighbours after years of disputes.",
+        "a": "concilier",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "s|1",
+        "f": "sense",
+        "s": "Ce conseiller ___ les membres de la famille qui s'étaient brouillés.",
+        "en": "This counsellor reconciles the family members who had fallen out.",
+        "a": "concilie",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "s|2",
+        "f": "sense",
+        "s": "Il est difficile de ___ une carrière internationale et une vie de famille épanouie.",
+        "en": "It is difficult to balance an international career and a fulfilling family life.",
+        "a": "concilier",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "s|2",
+        "f": "sense",
+        "s": "Elle ___ ses responsabilités de mère et ses ambitions professionnelles avec beaucoup d'énergie.",
+        "en": "She balances her responsibilities as a mother and her professional ambitions with a lot of energy.",
+        "a": "concilie",
+        "alts": [],
+        "form": ""
+      }
+    ]
+  }
+]

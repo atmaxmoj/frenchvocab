@@ -1,0 +1,30 @@
+[
+  {
+    "id": "3925",
+    "fix": {
+      "etym": {
+        "from": "lat.",
+        "text": "du latin 'flagrantem', brûlant, participe présent de 'flagrare', brûler, d'où l'idée d'évidence criante"
+      }
+    },
+    "reasons": ["etym: 'présent participe' is wrong French; correct term is 'participe présent'"]
+  },
+  {
+    "id": "3926",
+    "fix": {
+      "examples": [
+        {
+          "fr": "Elle a acheté une paire de chaussures élégantes pour la cérémonie.",
+          "en": "She bought a pair of elegant shoes for the ceremony.",
+          "target": "paire"
+        },
+        {
+          "fr": "Il a enfilé une paire de gants avant de manipuler les produits chimiques.",
+          "en": "He put on a pair of gloves before handling the chemicals.",
+          "target": "paire"
+        }
+      ]
+    },
+    "reasons": ["example 2: 'une paire de billets' is unnatural in French ('paire' denotes a matched set of two); replaced with a natural collocation"]
+  }
+]

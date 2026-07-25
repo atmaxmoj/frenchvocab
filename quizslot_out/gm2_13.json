@@ -1,0 +1,743 @@
+[
+  {
+    "id": 2040,
+    "qs": [
+      {
+        "slot": "s|0",
+        "f": "sense",
+        "s": "Sa mémoire est ___ : elle se souvient de chaque détail avec une précision extraordinaire.",
+        "en": "Her memory is remarkable — she remembers every detail with extraordinary precision.",
+        "a": "remarquable",
+        "alts": []
+      },
+      {
+        "slot": "s|0",
+        "f": "sense",
+        "s": "Ce phénomène naturel est ___ par son ampleur hors du commun.",
+        "en": "This natural phenomenon is remarkable for its extraordinary scale.",
+        "a": "remarquable",
+        "alts": []
+      },
+      {
+        "slot": "s|1",
+        "f": "sense",
+        "s": "Marie Curie est une scientifique ___ qui a révolutionné la physique et la chimie.",
+        "en": "Marie Curie is an outstanding scientist who revolutionized physics and chemistry.",
+        "a": "remarquable",
+        "alts": []
+      },
+      {
+        "slot": "s|1",
+        "f": "sense",
+        "s": "Son parcours professionnel est ___ : il est devenu directeur général à trente ans.",
+        "en": "His professional career is outstanding — he became CEO at thirty.",
+        "a": "remarquable",
+        "alts": []
+      },
+      {
+        "slot": "s|2",
+        "f": "sense",
+        "s": "Les chercheurs ont observé une tendance ___ dans les données : les ventes baissent chaque hiver.",
+        "en": "The researchers observed a noteworthy trend in the data: sales drop every winter.",
+        "a": "remarquable",
+        "alts": []
+      },
+      {
+        "slot": "s|2",
+        "f": "sense",
+        "s": "Il y a un fait ___ à signaler : le nombre d'inscrits a doublé en six mois.",
+        "en": "There is a noteworthy fact to point out: the number of registrations doubled in six months.",
+        "a": "remarquable",
+        "alts": []
+      },
+      {
+        "slot": "g|mp",
+        "f": "agree",
+        "s": "Ces deux athlètes ont accompli des exploits ___ tout au long de leur carrière.",
+        "en": "These two athletes achieved remarkable feats throughout their careers.",
+        "a": "remarquables",
+        "alts": []
+      },
+      {
+        "slot": "g|mp",
+        "f": "agree",
+        "s": "Les progrès réalisés cette année sont ___ et méritent d'être salués.",
+        "en": "The progress made this year is remarkable and deserves to be acknowledged.",
+        "a": "remarquables",
+        "alts": []
+      },
+      {
+        "slot": "g|f",
+        "f": "agree",
+        "s": "Cette pianiste possède une technique ___ qui impressionne tous les critiques.",
+        "en": "This pianist has a remarkable technique that impresses all the critics.",
+        "a": "remarquable",
+        "alts": []
+      },
+      {
+        "slot": "g|f",
+        "f": "agree",
+        "s": "C'est une œuvre ___ qui a marqué l'histoire de la littérature française.",
+        "en": "It is a remarkable work that has marked the history of French literature.",
+        "a": "remarquable",
+        "alts": []
+      },
+      {
+        "slot": "g|fp",
+        "f": "agree",
+        "s": "Les découvertes scientifiques de cette décennie sont ___ à bien des égards.",
+        "en": "The scientific discoveries of this decade are remarkable in many respects.",
+        "a": "remarquables",
+        "alts": []
+      },
+      {
+        "slot": "g|fp",
+        "f": "agree",
+        "s": "Ces initiatives locales sont ___ et constituent un modèle pour d'autres villes.",
+        "en": "These local initiatives are remarkable and serve as a model for other cities.",
+        "a": "remarquables",
+        "alts": []
+      }
+    ]
+  },
+  {
+    "id": 2041,
+    "qs": [
+      {
+        "slot": "t|Présent|0",
+        "f": "tense",
+        "s": "Je m'___ de rester calme pendant la réunion.",
+        "en": "I endeavor to stay calm during the meeting.",
+        "a": "efforce",
+        "alts": [],
+        "form": "Présent"
+      },
+      {
+        "slot": "t|Présent|0",
+        "f": "tense",
+        "s": "Le professeur s'___ d'expliquer clairement chaque leçon.",
+        "en": "The teacher endeavors to explain each lesson clearly.",
+        "a": "efforce",
+        "alts": [],
+        "form": "Présent"
+      },
+      {
+        "slot": "t|Présent|1",
+        "f": "tense",
+        "s": "Tu t'___ de terminer ton travail avant la deadline.",
+        "en": "You endeavor to finish your work before the deadline.",
+        "a": "efforces",
+        "alts": [],
+        "form": "Présent"
+      },
+      {
+        "slot": "t|Présent|1",
+        "f": "tense",
+        "s": "Est-ce que tu t'___ vraiment de comprendre ce texte ?",
+        "en": "Do you really endeavor to understand this text?",
+        "a": "efforces",
+        "alts": [],
+        "form": "Présent"
+      },
+      {
+        "slot": "t|Présent|2",
+        "f": "tense",
+        "s": "Nous nous ___ de respecter les règles du jeu.",
+        "en": "We endeavor to respect the rules of the game.",
+        "a": "efforçons",
+        "alts": [],
+        "form": "Présent"
+      },
+      {
+        "slot": "t|Présent|2",
+        "f": "tense",
+        "s": "Chaque jour, nous nous ___ de progresser un peu plus.",
+        "en": "Every day, we endeavor to make a little more progress.",
+        "a": "efforçons",
+        "alts": [],
+        "form": "Présent"
+      },
+      {
+        "slot": "t|Présent|3",
+        "f": "tense",
+        "s": "Vous vous ___ de parler français sans accent.",
+        "en": "You endeavor to speak French without an accent.",
+        "a": "efforcez",
+        "alts": [],
+        "form": "Présent"
+      },
+      {
+        "slot": "t|Présent|3",
+        "f": "tense",
+        "s": "Mes collègues, vous vous ___ de trouver une solution ensemble.",
+        "en": "My colleagues, you endeavor to find a solution together.",
+        "a": "efforcez",
+        "alts": [],
+        "form": "Présent"
+      },
+      {
+        "slot": "t|Présent|4",
+        "f": "tense",
+        "s": "Les élèves s'___ de rendre leurs devoirs à l'heure.",
+        "en": "The students endeavor to hand in their homework on time.",
+        "a": "efforcent",
+        "alts": [],
+        "form": "Présent"
+      },
+      {
+        "slot": "t|Présent|4",
+        "f": "tense",
+        "s": "Elles s'___ de sourire malgré les difficultés.",
+        "en": "They endeavor to smile despite the difficulties.",
+        "a": "efforcent",
+        "alts": [],
+        "form": "Présent"
+      },
+      {
+        "slot": "t|Passé composé|0",
+        "f": "tense",
+        "s": "Hier soir, je m'___ de finir ce rapport avant minuit.",
+        "en": "Last night, I endeavored to finish this report before midnight.",
+        "a": "suis efforcé",
+        "alts": [],
+        "form": "Passé composé"
+      },
+      {
+        "slot": "t|Passé composé|0",
+        "f": "tense",
+        "s": "Ce matin, je m'___ d'arriver à l'heure à la réunion.",
+        "en": "This morning, I endeavored to arrive on time to the meeting.",
+        "a": "suis efforcé",
+        "alts": [],
+        "form": "Passé composé"
+      },
+      {
+        "slot": "t|Passé composé|1",
+        "f": "tense",
+        "s": "Tu t'___ de comprendre ses explications, n'est-ce pas ?",
+        "en": "You endeavored to understand his explanations, didn't you?",
+        "a": "es efforcé",
+        "alts": [],
+        "form": "Passé composé"
+      },
+      {
+        "slot": "t|Passé composé|1",
+        "f": "tense",
+        "s": "Pendant l'examen, tu t'___ de répondre à toutes les questions.",
+        "en": "During the exam, you endeavored to answer all the questions.",
+        "a": "es efforcé",
+        "alts": [],
+        "form": "Passé composé"
+      },
+      {
+        "slot": "t|Passé composé|2",
+        "f": "tense",
+        "s": "Mon frère s'___ de garder son sang-froid lors du débat.",
+        "en": "My brother endeavored to keep his composure during the debate.",
+        "a": "est efforcé",
+        "alts": [],
+        "form": "Passé composé"
+      },
+      {
+        "slot": "t|Passé composé|2",
+        "f": "tense",
+        "s": "Elle s'___ de sourire pendant toute la cérémonie.",
+        "en": "She endeavored to smile throughout the ceremony.",
+        "a": "est efforcée",
+        "alts": [],
+        "form": "Passé composé"
+      },
+      {
+        "slot": "t|Passé composé|3",
+        "f": "tense",
+        "s": "Nous nous ___ de respecter les délais fixés par le client.",
+        "en": "We endeavored to respect the deadlines set by the client.",
+        "a": "sommes efforcés",
+        "alts": [],
+        "form": "Passé composé"
+      },
+      {
+        "slot": "t|Passé composé|3",
+        "f": "tense",
+        "s": "Lors du projet, nous nous ___ de collaborer efficacement.",
+        "en": "During the project, we endeavored to collaborate effectively.",
+        "a": "sommes efforcés",
+        "alts": [],
+        "form": "Passé composé"
+      },
+      {
+        "slot": "t|Passé composé|4",
+        "f": "tense",
+        "s": "Vous vous ___ de réduire les coûts de production ce trimestre.",
+        "en": "You endeavored to reduce production costs this quarter.",
+        "a": "êtes efforcés",
+        "alts": [],
+        "form": "Passé composé"
+      },
+      {
+        "slot": "t|Passé composé|4",
+        "f": "tense",
+        "s": "Durant la négociation, vous vous ___ de rester neutres.",
+        "en": "During the negotiation, you endeavored to remain neutral.",
+        "a": "êtes efforcés",
+        "alts": [],
+        "form": "Passé composé"
+      },
+      {
+        "slot": "t|Passé composé|5",
+        "f": "tense",
+        "s": "Les bénévoles se sont ___ de répondre à toutes les demandes.",
+        "en": "The volunteers endeavored to respond to all requests.",
+        "a": "efforcés",
+        "alts": [],
+        "form": "Passé composé"
+      },
+      {
+        "slot": "t|Passé composé|5",
+        "f": "tense",
+        "s": "Ils s'___ de terminer le chantier avant l'hiver.",
+        "en": "They endeavored to finish the construction site before winter.",
+        "a": "sont efforcés",
+        "alts": [],
+        "form": "Passé composé"
+      },
+      {
+        "slot": "t|Imparfait|0",
+        "f": "tense",
+        "s": "Quand j'étais enfant, je m'___ d'obéir à mes parents.",
+        "en": "When I was a child, I used to endeavor to obey my parents.",
+        "a": "efforçais",
+        "alts": [],
+        "form": "Imparfait"
+      },
+      {
+        "slot": "t|Imparfait|0",
+        "f": "tense",
+        "s": "Tu t'___ de parler sans faire de fautes, mais c'était difficile.",
+        "en": "You used to endeavor to speak without making mistakes, but it was difficult.",
+        "a": "efforçais",
+        "alts": [],
+        "form": "Imparfait"
+      },
+      {
+        "slot": "t|Imparfait|1",
+        "f": "tense",
+        "s": "Le directeur s'___ de maintenir un bon climat dans l'équipe.",
+        "en": "The director used to endeavor to maintain a good atmosphere in the team.",
+        "a": "efforçait",
+        "alts": [],
+        "form": "Imparfait"
+      },
+      {
+        "slot": "t|Imparfait|1",
+        "f": "tense",
+        "s": "Elle s'___ de ne pas montrer sa fatigue devant les enfants.",
+        "en": "She used to endeavor not to show her tiredness in front of the children.",
+        "a": "efforçait",
+        "alts": [],
+        "form": "Imparfait"
+      },
+      {
+        "slot": "t|Imparfait|2",
+        "f": "tense",
+        "s": "Nous nous ___ de garder le silence pendant les cours.",
+        "en": "We used to endeavor to keep silent during classes.",
+        "a": "efforcions",
+        "alts": [],
+        "form": "Imparfait"
+      },
+      {
+        "slot": "t|Imparfait|2",
+        "f": "tense",
+        "s": "Chaque soir, nous nous ___ de finir nos devoirs avant le dîner.",
+        "en": "Every evening, we used to endeavor to finish our homework before dinner.",
+        "a": "efforcions",
+        "alts": [],
+        "form": "Imparfait"
+      },
+      {
+        "slot": "t|Imparfait|3",
+        "f": "tense",
+        "s": "Vous vous ___ de ne jamais arriver en retard aux réunions.",
+        "en": "You used to endeavor never to arrive late to meetings.",
+        "a": "efforciez",
+        "alts": [],
+        "form": "Imparfait"
+      },
+      {
+        "slot": "t|Imparfait|3",
+        "f": "tense",
+        "s": "À cette époque, vous vous ___ d'apprendre une langue étrangère.",
+        "en": "At that time, you used to endeavor to learn a foreign language.",
+        "a": "efforciez",
+        "alts": [],
+        "form": "Imparfait"
+      },
+      {
+        "slot": "t|Imparfait|4",
+        "f": "tense",
+        "s": "Les infirmiers s'___ de rassurer les patients chaque nuit.",
+        "en": "The nurses used to endeavor to reassure the patients every night.",
+        "a": "efforçaient",
+        "alts": [],
+        "form": "Imparfait"
+      },
+      {
+        "slot": "t|Imparfait|4",
+        "f": "tense",
+        "s": "Elles s'___ de maintenir l'ordre pendant les manifestations.",
+        "en": "They used to endeavor to maintain order during the demonstrations.",
+        "a": "efforçaient",
+        "alts": [],
+        "form": "Imparfait"
+      },
+      {
+        "slot": "t|Futur|0",
+        "f": "tense",
+        "s": "Demain, je m'___ de mieux écouter mes collègues.",
+        "en": "Tomorrow, I will endeavor to listen to my colleagues better.",
+        "a": "efforcerai",
+        "alts": [],
+        "form": "Futur"
+      },
+      {
+        "slot": "t|Futur|0",
+        "f": "tense",
+        "s": "L'année prochaine, je m'___ d'économiser davantage.",
+        "en": "Next year, I will endeavor to save more money.",
+        "a": "efforcerai",
+        "alts": [],
+        "form": "Futur"
+      },
+      {
+        "slot": "t|Futur|1",
+        "f": "tense",
+        "s": "Tu t'___ de corriger tes erreurs dans le prochain rapport.",
+        "en": "You will endeavor to correct your mistakes in the next report.",
+        "a": "efforceras",
+        "alts": [],
+        "form": "Futur"
+      },
+      {
+        "slot": "t|Futur|1",
+        "f": "tense",
+        "s": "Si tu viens ici, tu t'___ de respecter les règles locales.",
+        "en": "If you come here, you will endeavor to respect the local rules.",
+        "a": "efforceras",
+        "alts": [],
+        "form": "Futur"
+      },
+      {
+        "slot": "t|Futur|2",
+        "f": "tense",
+        "s": "Le nouveau directeur s'___ d'améliorer les conditions de travail.",
+        "en": "The new director will endeavor to improve working conditions.",
+        "a": "efforcera",
+        "alts": [],
+        "form": "Futur"
+      },
+      {
+        "slot": "t|Futur|2",
+        "f": "tense",
+        "s": "Elle s'___ de répondre à toutes les lettres reçues.",
+        "en": "She will endeavor to respond to all the letters received.",
+        "a": "efforcera",
+        "alts": [],
+        "form": "Futur"
+      },
+      {
+        "slot": "t|Futur|3",
+        "f": "tense",
+        "s": "Nous nous ___ de livrer la commande avant vendredi.",
+        "en": "We will endeavor to deliver the order before Friday.",
+        "a": "efforcerons",
+        "alts": [],
+        "form": "Futur"
+      },
+      {
+        "slot": "t|Futur|3",
+        "f": "tense",
+        "s": "Dans notre prochain mandat, nous nous ___ de réduire les inégalités.",
+        "en": "In our next term, we will endeavor to reduce inequalities.",
+        "a": "efforcerons",
+        "alts": [],
+        "form": "Futur"
+      },
+      {
+        "slot": "t|Futur|4",
+        "f": "tense",
+        "s": "Vous vous ___ de respecter tous les engagements pris lors du contrat.",
+        "en": "You will endeavor to honor all commitments made in the contract.",
+        "a": "efforcerez",
+        "alts": [],
+        "form": "Futur"
+      },
+      {
+        "slot": "t|Futur|4",
+        "f": "tense",
+        "s": "En tant que responsables, vous vous ___ de donner l'exemple.",
+        "en": "As managers, you will endeavor to set an example.",
+        "a": "efforcerez",
+        "alts": [],
+        "form": "Futur"
+      },
+      {
+        "slot": "t|Futur|5",
+        "f": "tense",
+        "s": "Les ambassadeurs s'___ de défendre les intérêts nationaux.",
+        "en": "The ambassadors will endeavor to defend national interests.",
+        "a": "efforceront",
+        "alts": [],
+        "form": "Futur"
+      },
+      {
+        "slot": "t|Futur|5",
+        "f": "tense",
+        "s": "Ils s'___ de terminer le projet dans les délais impartis.",
+        "en": "They will endeavor to complete the project within the allotted time.",
+        "a": "efforceront",
+        "alts": [],
+        "form": "Futur"
+      },
+      {
+        "slot": "t|Conditionnel|0",
+        "f": "tense",
+        "s": "Si j'avais plus de temps, je m'___ de lire davantage.",
+        "en": "If I had more time, I would endeavor to read more.",
+        "a": "efforcerais",
+        "alts": [],
+        "form": "Conditionnel"
+      },
+      {
+        "slot": "t|Conditionnel|0",
+        "f": "tense",
+        "s": "Si tu avais l'occasion, tu t'___ d'apprendre le piano.",
+        "en": "If you had the opportunity, you would endeavor to learn the piano.",
+        "a": "efforcerais",
+        "alts": [],
+        "form": "Conditionnel"
+      },
+      {
+        "slot": "t|Conditionnel|1",
+        "f": "tense",
+        "s": "Si elle avait plus d'énergie, elle s'___ de faire du sport chaque matin.",
+        "en": "If she had more energy, she would endeavor to exercise every morning.",
+        "a": "efforcerait",
+        "alts": [],
+        "form": "Conditionnel"
+      },
+      {
+        "slot": "t|Conditionnel|1",
+        "f": "tense",
+        "s": "Si le patron avait confiance en lui, il s'___ de prendre plus d'initiatives.",
+        "en": "If the boss trusted him, he would endeavor to take more initiative.",
+        "a": "efforcerait",
+        "alts": [],
+        "form": "Conditionnel"
+      },
+      {
+        "slot": "t|Conditionnel|2",
+        "f": "tense",
+        "s": "Si nous avions plus de ressources, nous nous ___ de mieux servir nos clients.",
+        "en": "If we had more resources, we would endeavor to serve our clients better.",
+        "a": "efforcerions",
+        "alts": [],
+        "form": "Conditionnel"
+      },
+      {
+        "slot": "t|Conditionnel|2",
+        "f": "tense",
+        "s": "Si nous avions plus de personnel, nous nous ___ de raccourcir les délais.",
+        "en": "If we had more staff, we would endeavor to shorten the deadlines.",
+        "a": "efforcerions",
+        "alts": [],
+        "form": "Conditionnel"
+      },
+      {
+        "slot": "t|Conditionnel|3",
+        "f": "tense",
+        "s": "Si vous aviez plus de liberté, vous vous ___ d'innover davantage.",
+        "en": "If you had more freedom, you would endeavor to innovate more.",
+        "a": "efforceriez",
+        "alts": [],
+        "form": "Conditionnel"
+      },
+      {
+        "slot": "t|Conditionnel|3",
+        "f": "tense",
+        "s": "Si vous étiez dans ma situation, vous vous ___ de trouver une solution.",
+        "en": "If you were in my situation, you would endeavor to find a solution.",
+        "a": "efforceriez",
+        "alts": [],
+        "form": "Conditionnel"
+      },
+      {
+        "slot": "t|Conditionnel|4",
+        "f": "tense",
+        "s": "Si les employés avaient de meilleures conditions, ils s'___ de travailler plus efficacement.",
+        "en": "If the employees had better conditions, they would endeavor to work more efficiently.",
+        "a": "efforceraient",
+        "alts": [],
+        "form": "Conditionnel"
+      },
+      {
+        "slot": "t|Conditionnel|4",
+        "f": "tense",
+        "s": "Si elles avaient du soutien, elles s'___ de réussir leur reconversion.",
+        "en": "If they had support, they would endeavor to succeed in their career change.",
+        "a": "efforceraient",
+        "alts": [],
+        "form": "Conditionnel"
+      },
+      {
+        "slot": "t|Subjonctif",
+        "f": "subj",
+        "s": "Il faut que tu t'___ de parler plus lentement.",
+        "en": "It is necessary that you endeavor to speak more slowly.",
+        "a": "efforces",
+        "alts": [],
+        "form": "Subjonctif"
+      },
+      {
+        "slot": "t|Subjonctif",
+        "f": "subj",
+        "s": "Je souhaite qu'elle s'___ de comprendre notre point de vue.",
+        "en": "I wish that she endeavors to understand our point of view.",
+        "a": "efforce",
+        "alts": [],
+        "form": "Subjonctif"
+      },
+      {
+        "slot": "s|0",
+        "f": "sense",
+        "s": "Malgré les obstacles, il s'efforce de progresser chaque jour — il ___ vraiment.",
+        "en": "Despite the obstacles, he truly endeavors to progress every day.",
+        "a": "s'efforce",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "s|0",
+        "f": "sense",
+        "s": "Elle ___ d'améliorer sa prononciation en répétant les exercices.",
+        "en": "She endeavors to improve her pronunciation by repeating the exercises.",
+        "a": "s'efforce",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "s|1",
+        "f": "sense",
+        "s": "Je ___ de faire de mon mieux, même quand la tâche est difficile.",
+        "en": "I endeavor to do my best, even when the task is difficult.",
+        "a": "m'efforce",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "s|1",
+        "f": "sense",
+        "s": "Nous nous ___ de répondre à chaque demande dans les plus brefs délais.",
+        "en": "We endeavor to respond to every request as quickly as possible.",
+        "a": "efforçons",
+        "alts": [],
+        "form": ""
+      }
+    ]
+  },
+  {
+    "id": 2042,
+    "qs": [
+      {
+        "slot": "s|0",
+        "f": "sense",
+        "s": "Le destin du héros grec est profondément ___, car il est condamné par les dieux.",
+        "en": "The fate of the Greek hero is deeply tragic (in the dramatic/literary sense), as he is condemned by the gods.",
+        "a": "tragique",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "s|0",
+        "f": "sense",
+        "s": "Cette pièce de théâtre a une dimension ___ qui rappelle les grandes œuvres de Sophocle.",
+        "en": "This play has a tragic dimension that recalls the great works of Sophocles.",
+        "a": "tragique",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "s|1",
+        "f": "sense",
+        "s": "L'accident de voiture a eu des conséquences ___ pour toute la famille.",
+        "en": "The car accident had tragic (dreadful/pitiful) consequences for the whole family.",
+        "a": "tragique",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "s|1",
+        "f": "sense",
+        "s": "La mort de ce jeune enfant est vraiment ___ ; personne ne comprend pourquoi cela est arrivé.",
+        "en": "The death of this young child is truly tragic (pitiful/dreadful); nobody understands why it happened.",
+        "a": "tragique",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "g|mp",
+        "f": "agree",
+        "s": "Les événements ___ de la guerre ont marqué toute une génération.",
+        "en": "The tragic events of the war marked an entire generation.",
+        "a": "tragiques",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "g|mp",
+        "f": "agree",
+        "s": "Ces personnages ___ finissent toujours par mourir à la fin de la pièce.",
+        "en": "These tragic characters always end up dying at the end of the play.",
+        "a": "tragiques",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "g|f",
+        "f": "agree",
+        "s": "La fin de cette histoire d'amour est vraiment ___.",
+        "en": "The end of this love story is truly tragic.",
+        "a": "tragique",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "g|f",
+        "f": "agree",
+        "s": "La disparition de cette espèce animale est une perte ___ pour la biodiversité.",
+        "en": "The disappearance of this animal species is a tragic loss for biodiversity.",
+        "a": "tragique",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "g|fp",
+        "f": "agree",
+        "s": "Les scènes ___ du film ont ému tous les spectateurs jusqu'aux larmes.",
+        "en": "The tragic scenes of the film moved all the viewers to tears.",
+        "a": "tragiques",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "g|fp",
+        "f": "agree",
+        "s": "Ces nouvelles ___ nous ont plongés dans une profonde tristesse.",
+        "en": "These tragic news items plunged us into deep sadness.",
+        "a": "tragiques",
+        "alts": [],
+        "form": ""
+      }
+    ]
+  }
+]

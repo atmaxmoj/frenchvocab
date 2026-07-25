@@ -1,0 +1,1602 @@
+[
+  {
+    "id": 336,
+    "qs": [
+      {
+        "slot": "t|Présent|0",
+        "f": "tense",
+        "s": "Tous les soirs, ___ mes clés pendant dix minutes avant de les trouver.",
+        "a": "je cherche",
+        "en": "Every evening, I look for my keys for ten minutes before finding them.",
+        "alts": [],
+        "form": "Présent"
+      },
+      {
+        "slot": "t|Présent|0",
+        "f": "tense",
+        "s": "En ce moment, ___ un appartement à louer près du centre-ville.",
+        "a": "je cherche",
+        "en": "Right now, I am looking for an apartment to rent near the city center.",
+        "alts": [],
+        "form": "Présent"
+      },
+      {
+        "slot": "t|Présent|1",
+        "f": "tense",
+        "s": "Qu'est-ce que ___ dans ce tiroir ?",
+        "a": "tu cherches",
+        "en": "What are you looking for in this drawer?",
+        "alts": [],
+        "form": "Présent"
+      },
+      {
+        "slot": "t|Présent|1",
+        "f": "tense",
+        "s": "___ un emploi depuis combien de temps ?",
+        "a": "tu cherches",
+        "en": "How long have you been looking for a job?",
+        "alts": [],
+        "form": "Présent"
+      },
+      {
+        "slot": "t|Présent|2",
+        "f": "tense",
+        "s": "Mon chien ___ toujours son jouet sous le canapé.",
+        "a": "il cherche",
+        "en": "My dog always looks for his toy under the sofa.",
+        "alts": [],
+        "form": "Présent"
+      },
+      {
+        "slot": "t|Présent|2",
+        "f": "tense",
+        "s": "On ___ une solution depuis ce matin.",
+        "a": "on cherche",
+        "en": "We have been looking for a solution since this morning.",
+        "alts": [],
+        "form": "Présent"
+      },
+      {
+        "slot": "t|Présent|3",
+        "f": "tense",
+        "s": "___ la sortie depuis un moment, mais les couloirs sont tous identiques.",
+        "a": "nous cherchons",
+        "en": "We have been looking for the exit for a while, but all the corridors look the same.",
+        "alts": [],
+        "form": "Présent"
+      },
+      {
+        "slot": "t|Présent|3",
+        "f": "tense",
+        "s": "En équipe, ___ toujours la meilleure approche avant de commencer.",
+        "a": "nous cherchons",
+        "en": "As a team, we always look for the best approach before starting.",
+        "alts": [],
+        "form": "Présent"
+      },
+      {
+        "slot": "t|Présent|4",
+        "f": "tense",
+        "s": "Que ___ -vous exactement dans ce document ?",
+        "a": "vous cherchez",
+        "en": "What exactly are you looking for in this document?",
+        "alts": [],
+        "form": "Présent"
+      },
+      {
+        "slot": "t|Présent|4",
+        "f": "tense",
+        "s": "Si ___ un bon restaurant, je peux vous recommander celui-ci.",
+        "a": "vous cherchez",
+        "en": "If you are looking for a good restaurant, I can recommend this one.",
+        "alts": [],
+        "form": "Présent"
+      },
+      {
+        "slot": "t|Présent|5",
+        "f": "tense",
+        "s": "Les enfants ___ leurs cadeaux cachés partout dans la maison.",
+        "a": "ils cherchent",
+        "en": "The children are looking for their hidden presents all over the house.",
+        "alts": [],
+        "form": "Présent"
+      },
+      {
+        "slot": "t|Présent|5",
+        "f": "tense",
+        "s": "Ces scientifiques ___ un remède contre cette maladie rare.",
+        "a": "ils cherchent",
+        "en": "These scientists are looking for a cure for this rare disease.",
+        "alts": [],
+        "form": "Présent"
+      },
+      {
+        "slot": "t|Passé composé|0",
+        "f": "tense",
+        "s": "___ mes lunettes pendant une heure avant de les retrouver sur ma tête.",
+        "a": "j'ai cherché",
+        "en": "I looked for my glasses for an hour before finding them on my head.",
+        "alts": [],
+        "form": "Passé composé"
+      },
+      {
+        "slot": "t|Passé composé|0",
+        "f": "tense",
+        "s": "Hier soir, ___ en vain une place de parking.",
+        "a": "j'ai cherché",
+        "en": "Last night, I looked in vain for a parking space.",
+        "alts": [],
+        "form": "Passé composé"
+      },
+      {
+        "slot": "t|Passé composé|1",
+        "f": "tense",
+        "s": "Est-ce que ___ le numéro de téléphone de Marie ?",
+        "a": "tu as cherché",
+        "en": "Did you look for Marie's phone number?",
+        "alts": [],
+        "form": "Passé composé"
+      },
+      {
+        "slot": "t|Passé composé|1",
+        "f": "tense",
+        "s": "___ partout mais tu n'as pas trouvé le contrat.",
+        "a": "tu as cherché",
+        "en": "You looked everywhere but you did not find the contract.",
+        "alts": [],
+        "form": "Passé composé"
+      },
+      {
+        "slot": "t|Passé composé|2",
+        "f": "tense",
+        "s": "___ un nouveau travail après son licenciement.",
+        "a": "il a cherché",
+        "en": "He looked for a new job after being laid off.",
+        "alts": [],
+        "form": "Passé composé"
+      },
+      {
+        "slot": "t|Passé composé|2",
+        "f": "tense",
+        "s": "Le détective ___ des indices toute la nuit.",
+        "a": "il a cherché",
+        "en": "The detective looked for clues all night.",
+        "alts": [],
+        "form": "Passé composé"
+      },
+      {
+        "slot": "t|Passé composé|3",
+        "f": "tense",
+        "s": "___ une salle de réunion disponible mais il n'y en avait aucune.",
+        "a": "nous avons cherché",
+        "en": "We looked for an available meeting room but there was none.",
+        "alts": [],
+        "form": "Passé composé"
+      },
+      {
+        "slot": "t|Passé composé|3",
+        "f": "tense",
+        "s": "Ensemble, ___ la meilleure offre et nous l'avons trouvée.",
+        "a": "nous avons cherché",
+        "en": "Together, we looked for the best deal and we found it.",
+        "alts": [],
+        "form": "Passé composé"
+      },
+      {
+        "slot": "t|Passé composé|4",
+        "f": "tense",
+        "s": "___ longtemps avant de choisir ce prestataire.",
+        "a": "vous avez cherché",
+        "en": "You looked for a long time before choosing this service provider.",
+        "alts": [],
+        "form": "Passé composé"
+      },
+      {
+        "slot": "t|Passé composé|4",
+        "f": "tense",
+        "s": "Avez-vous confirmé que ___ au bon endroit ?",
+        "a": "vous avez cherché",
+        "en": "Have you confirmed that you looked in the right place?",
+        "alts": [],
+        "form": "Passé composé"
+      },
+      {
+        "slot": "t|Passé composé|5",
+        "f": "tense",
+        "s": "___ leurs bagages perdus pendant deux heures à l'aéroport.",
+        "a": "ils ont cherché",
+        "en": "They looked for their lost luggage for two hours at the airport.",
+        "alts": [],
+        "form": "Passé composé"
+      },
+      {
+        "slot": "t|Passé composé|5",
+        "f": "tense",
+        "s": "Après l'incendie, ___ des survivants toute la nuit.",
+        "a": "ils ont cherché",
+        "en": "After the fire, they looked for survivors all night.",
+        "alts": [],
+        "form": "Passé composé"
+      },
+      {
+        "slot": "t|Imparfait|0",
+        "f": "tense",
+        "s": "Quand j'étais enfant, ___ souvent des trésors dans le jardin.",
+        "a": "je cherchais",
+        "en": "When I was a child, I often looked for treasure in the garden.",
+        "alts": [],
+        "form": "Imparfait"
+      },
+      {
+        "slot": "t|Imparfait|0",
+        "f": "tense",
+        "s": "___ mes mots pour lui expliquer la situation délicate.",
+        "a": "je cherchais",
+        "en": "I was searching for the right words to explain the delicate situation to him.",
+        "alts": [],
+        "form": "Imparfait"
+      },
+      {
+        "slot": "t|Imparfait|1",
+        "f": "tense",
+        "s": "À cette époque, ___ déjà un appartement à Paris ?",
+        "a": "tu cherchais",
+        "en": "At that time, were you already looking for an apartment in Paris?",
+        "alts": [],
+        "form": "Imparfait"
+      },
+      {
+        "slot": "t|Imparfait|1",
+        "f": "tense",
+        "s": "Tu semblais perdu ; ___ quelque chose de particulier ?",
+        "a": "tu cherchais",
+        "en": "You seemed lost; were you looking for something in particular?",
+        "alts": [],
+        "form": "Imparfait"
+      },
+      {
+        "slot": "t|Imparfait|2",
+        "f": "tense",
+        "s": "Il ne disait rien, mais ___ clairement une sortie de secours.",
+        "a": "il cherchait",
+        "en": "He said nothing, but he was clearly looking for an emergency exit.",
+        "alts": [],
+        "form": "Imparfait"
+      },
+      {
+        "slot": "t|Imparfait|2",
+        "f": "tense",
+        "s": "Chaque matin, le voisin ___ son journal dans la boîte aux lettres.",
+        "a": "il cherchait",
+        "en": "Every morning, the neighbour looked for his newspaper in the letterbox.",
+        "alts": [],
+        "form": "Imparfait"
+      },
+      {
+        "slot": "t|Imparfait|3",
+        "f": "tense",
+        "s": "___ un compromis acceptable pour les deux parties.",
+        "a": "nous cherchions",
+        "en": "We were looking for a compromise acceptable to both parties.",
+        "alts": [],
+        "form": "Imparfait"
+      },
+      {
+        "slot": "t|Imparfait|3",
+        "f": "tense",
+        "s": "Pendant les vacances, ___ toujours de petits restaurants typiques.",
+        "a": "nous cherchions",
+        "en": "During the holidays, we always looked for small typical restaurants.",
+        "alts": [],
+        "form": "Imparfait"
+      },
+      {
+        "slot": "t|Imparfait|4",
+        "f": "tense",
+        "s": "Vous sembliez absorbés ; ___ quelque chose dans ces archives ?",
+        "a": "vous cherchiez",
+        "en": "You seemed absorbed; were you looking for something in these archives?",
+        "alts": [],
+        "form": "Imparfait"
+      },
+      {
+        "slot": "t|Imparfait|4",
+        "f": "tense",
+        "s": "À l'époque, ___ constamment à améliorer vos méthodes.",
+        "a": "vous cherchiez",
+        "en": "At the time, you were constantly looking to improve your methods.",
+        "alts": [],
+        "form": "Imparfait"
+      },
+      {
+        "slot": "t|Imparfait|5",
+        "f": "tense",
+        "s": "Les pompiers ___ des victimes dans les décombres.",
+        "a": "ils cherchaient",
+        "en": "The firefighters were looking for victims in the rubble.",
+        "alts": [],
+        "form": "Imparfait"
+      },
+      {
+        "slot": "t|Imparfait|5",
+        "f": "tense",
+        "s": "Les étudiants ___ la réponse dans leurs notes.",
+        "a": "ils cherchaient",
+        "en": "The students were looking for the answer in their notes.",
+        "alts": [],
+        "form": "Imparfait"
+      },
+      {
+        "slot": "t|Futur|0",
+        "f": "tense",
+        "s": "Demain matin, ___ un billet de train pour Lyon.",
+        "a": "je chercherai",
+        "en": "Tomorrow morning, I will look for a train ticket to Lyon.",
+        "alts": [],
+        "form": "Futur"
+      },
+      {
+        "slot": "t|Futur|0",
+        "f": "tense",
+        "s": "S'il le faut, ___ un autre prestataire plus fiable.",
+        "a": "je chercherai",
+        "en": "If necessary, I will look for another more reliable provider.",
+        "alts": [],
+        "form": "Futur"
+      },
+      {
+        "slot": "t|Futur|1",
+        "f": "tense",
+        "s": "___ un emploi dès que tu auras terminé tes études.",
+        "a": "tu chercheras",
+        "en": "You will look for a job as soon as you have finished your studies.",
+        "alts": [],
+        "form": "Futur"
+      },
+      {
+        "slot": "t|Futur|1",
+        "f": "tense",
+        "s": "Est-ce que ___ encore cette information demain ?",
+        "a": "tu chercheras",
+        "en": "Will you still be looking for this information tomorrow?",
+        "alts": [],
+        "form": "Futur"
+      },
+      {
+        "slot": "t|Futur|2",
+        "f": "tense",
+        "s": "Il ___ sûrement une explication à ce phénomène bizarre.",
+        "a": "il cherchera",
+        "en": "He will surely look for an explanation for this strange phenomenon.",
+        "alts": [],
+        "form": "Futur"
+      },
+      {
+        "slot": "t|Futur|2",
+        "f": "tense",
+        "s": "La prochaine fois, ___ une solution plus créative.",
+        "a": "il cherchera",
+        "en": "Next time, he will look for a more creative solution.",
+        "alts": [],
+        "form": "Futur"
+      },
+      {
+        "slot": "t|Futur|3",
+        "f": "tense",
+        "s": "___ un logement adapté avant de déménager.",
+        "a": "nous chercherons",
+        "en": "We will look for suitable accommodation before moving.",
+        "alts": [],
+        "form": "Futur"
+      },
+      {
+        "slot": "t|Futur|3",
+        "f": "tense",
+        "s": "L'année prochaine, ___ de nouveaux partenaires commerciaux.",
+        "a": "nous chercherons",
+        "en": "Next year, we will look for new business partners.",
+        "alts": [],
+        "form": "Futur"
+      },
+      {
+        "slot": "t|Futur|4",
+        "f": "tense",
+        "s": "___ une date qui convient à tout le monde, j'espère.",
+        "a": "vous chercherez",
+        "en": "You will look for a date that suits everyone, I hope.",
+        "alts": [],
+        "form": "Futur"
+      },
+      {
+        "slot": "t|Futur|4",
+        "f": "tense",
+        "s": "Si vous avez un problème, ___ la solution ensemble.",
+        "a": "vous chercherez",
+        "en": "If you have a problem, you will look for the solution together.",
+        "alts": [],
+        "form": "Futur"
+      },
+      {
+        "slot": "t|Futur|5",
+        "f": "tense",
+        "s": "Ils ___ un terrain d'entente lors de la prochaine réunion.",
+        "a": "ils chercheront",
+        "en": "They will look for common ground at the next meeting.",
+        "alts": [],
+        "form": "Futur"
+      },
+      {
+        "slot": "t|Futur|5",
+        "f": "tense",
+        "s": "Les chercheurs ___ de nouvelles preuves dans les archives.",
+        "a": "ils chercheront",
+        "en": "The researchers will look for new evidence in the archives.",
+        "alts": [],
+        "form": "Futur"
+      },
+      {
+        "slot": "t|Conditionnel|0",
+        "f": "tense",
+        "s": "À ta place, ___ un médecin spécialiste immédiatement.",
+        "a": "je chercherais",
+        "en": "In your place, I would look for a specialist doctor immediately.",
+        "alts": [],
+        "form": "Conditionnel"
+      },
+      {
+        "slot": "t|Conditionnel|0",
+        "f": "tense",
+        "s": "Si j'avais plus de temps, ___ une meilleure offre.",
+        "a": "je chercherais",
+        "en": "If I had more time, I would look for a better deal.",
+        "alts": [],
+        "form": "Conditionnel"
+      },
+      {
+        "slot": "t|Conditionnel|1",
+        "f": "tense",
+        "s": "Si tu étais à ma place, ___ -tu un autre appartement ?",
+        "a": "tu chercherais",
+        "en": "If you were in my place, would you look for another apartment?",
+        "alts": [],
+        "form": "Conditionnel"
+      },
+      {
+        "slot": "t|Conditionnel|1",
+        "f": "tense",
+        "s": "Avec plus d'argent, ___ sans doute un logement plus spacieux.",
+        "a": "tu chercherais",
+        "en": "With more money, you would no doubt look for more spacious accommodation.",
+        "alts": [],
+        "form": "Conditionnel"
+      },
+      {
+        "slot": "t|Conditionnel|2",
+        "f": "tense",
+        "s": "Dans ce cas, ___ certainement une autre issue.",
+        "a": "il chercherait",
+        "en": "In that case, he would certainly look for another way out.",
+        "alts": [],
+        "form": "Conditionnel"
+      },
+      {
+        "slot": "t|Conditionnel|2",
+        "f": "tense",
+        "s": "Un bon chef ___ toujours des ingrédients de qualité.",
+        "a": "il chercherait",
+        "en": "A good chef would always look for quality ingredients.",
+        "alts": [],
+        "form": "Conditionnel"
+      },
+      {
+        "slot": "t|Conditionnel|3",
+        "f": "tense",
+        "s": "Si nous avions plus de ressources, ___ une solution plus complète.",
+        "a": "nous chercherions",
+        "en": "If we had more resources, we would look for a more complete solution.",
+        "alts": [],
+        "form": "Conditionnel"
+      },
+      {
+        "slot": "t|Conditionnel|3",
+        "f": "tense",
+        "s": "___ volontiers un autre fournisseur si les prix augmentent encore.",
+        "a": "nous chercherions",
+        "en": "We would willingly look for another supplier if prices rise further.",
+        "alts": [],
+        "form": "Conditionnel"
+      },
+      {
+        "slot": "t|Conditionnel|4",
+        "f": "tense",
+        "s": "___ -vous un autre emploi si votre salaire n'augmentait pas ?",
+        "a": "vous chercheriez",
+        "en": "Would you look for another job if your salary did not increase?",
+        "alts": [],
+        "form": "Conditionnel"
+      },
+      {
+        "slot": "t|Conditionnel|4",
+        "f": "tense",
+        "s": "Dans cette situation, ___ assurément une meilleure offre.",
+        "a": "vous chercheriez",
+        "en": "In this situation, you would certainly look for a better offer.",
+        "alts": [],
+        "form": "Conditionnel"
+      },
+      {
+        "slot": "t|Conditionnel|5",
+        "f": "tense",
+        "s": "Sans budget, ___ des sponsors pour financer le projet.",
+        "a": "ils chercheraient",
+        "en": "Without a budget, they would look for sponsors to fund the project.",
+        "alts": [],
+        "form": "Conditionnel"
+      },
+      {
+        "slot": "t|Conditionnel|5",
+        "f": "tense",
+        "s": "S'ils étaient libres, ___ un appartement en centre-ville.",
+        "a": "ils chercheraient",
+        "en": "If they were free, they would look for an apartment in the city centre.",
+        "alts": [],
+        "form": "Conditionnel"
+      },
+      {
+        "slot": "t|Subjonctif|0",
+        "f": "tense",
+        "s": "Il faut ___ la sortie avant que la lumière ne s'éteigne.",
+        "a": "que je cherche",
+        "en": "I must look for the exit before the light goes out.",
+        "alts": [],
+        "form": "Subjonctif"
+      },
+      {
+        "slot": "t|Subjonctif|0",
+        "f": "tense",
+        "s": "Mon patron veut ___ une alternative moins coûteuse.",
+        "a": "que je cherche",
+        "en": "My boss wants me to look for a less costly alternative.",
+        "alts": [],
+        "form": "Subjonctif"
+      },
+      {
+        "slot": "t|Subjonctif|1",
+        "f": "tense",
+        "s": "Je préfère ___ toi-même la réponse plutôt que de la copier.",
+        "a": "que tu cherches",
+        "en": "I prefer that you look for the answer yourself rather than copying it.",
+        "alts": [],
+        "form": "Subjonctif"
+      },
+      {
+        "slot": "t|Subjonctif|1",
+        "f": "tense",
+        "s": "Il est important ___ un médecin si tu te sens mal.",
+        "a": "que tu cherches",
+        "en": "It is important that you look for a doctor if you feel unwell.",
+        "alts": [],
+        "form": "Subjonctif"
+      },
+      {
+        "slot": "t|Subjonctif|2",
+        "f": "tense",
+        "s": "Il est essentiel ___ une solution avant la réunion.",
+        "a": "qu'il cherche",
+        "en": "It is essential that he look for a solution before the meeting.",
+        "alts": [],
+        "form": "Subjonctif"
+      },
+      {
+        "slot": "t|Subjonctif|2",
+        "f": "tense",
+        "s": "Le directeur exige ___ un autre fournisseur.",
+        "a": "qu'il cherche",
+        "en": "The director demands that he look for another supplier.",
+        "alts": [],
+        "form": "Subjonctif"
+      },
+      {
+        "slot": "t|Subjonctif|3",
+        "f": "tense",
+        "s": "Il vaut mieux ___ un autre hôtel avant la saison haute.",
+        "a": "que nous cherchions",
+        "en": "It is better that we look for another hotel before the high season.",
+        "alts": [],
+        "form": "Subjonctif"
+      },
+      {
+        "slot": "t|Subjonctif|3",
+        "f": "tense",
+        "s": "Elle souhaite ___ ensemble une meilleure stratégie.",
+        "a": "que nous cherchions",
+        "en": "She wishes that we look for a better strategy together.",
+        "alts": [],
+        "form": "Subjonctif"
+      },
+      {
+        "slot": "t|Subjonctif|4",
+        "f": "tense",
+        "s": "Il est nécessaire ___ une date avant la fin du mois.",
+        "a": "que vous cherchiez",
+        "en": "It is necessary that you look for a date before the end of the month.",
+        "alts": [],
+        "form": "Subjonctif"
+      },
+      {
+        "slot": "t|Subjonctif|4",
+        "f": "tense",
+        "s": "Je doute ___ la bonne personne pour ce poste.",
+        "a": "que vous cherchiez",
+        "en": "I doubt that you are looking for the right person for this position.",
+        "alts": [],
+        "form": "Subjonctif"
+      },
+      {
+        "slot": "t|Subjonctif|5",
+        "f": "tense",
+        "s": "Il est urgent ___ une solution avant demain matin.",
+        "a": "qu'ils cherchent",
+        "en": "It is urgent that they look for a solution before tomorrow morning.",
+        "alts": [],
+        "form": "Subjonctif"
+      },
+      {
+        "slot": "t|Subjonctif|5",
+        "f": "tense",
+        "s": "Nous voulons ___ un accord avant la fin des négociations.",
+        "a": "qu'ils cherchent",
+        "en": "We want them to look for an agreement before the end of the negotiations.",
+        "alts": [],
+        "form": "Subjonctif"
+      },
+      {
+        "slot": "s|0",
+        "f": "sense",
+        "s": "Elle ___ ses lunettes depuis ce matin sans succès.",
+        "a": "cherche",
+        "en": "She has been looking for her glasses since this morning without success.",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "s|0",
+        "f": "sense",
+        "s": "Le chien ___ son maître partout dans le parc.",
+        "a": "cherche",
+        "en": "The dog is looking for its owner everywhere in the park.",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "s|1",
+        "f": "sense",
+        "s": "Ce politicien ___ le soutien des électeurs avec ses discours.",
+        "a": "cherche",
+        "en": "This politician is seeking the support of voters with his speeches.",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "s|1",
+        "f": "sense",
+        "s": "Elle ___ la perfection dans chacun de ses tableaux.",
+        "a": "cherche",
+        "en": "She is seeking perfection in each of her paintings.",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "s|2",
+        "f": "sense",
+        "s": "Tu peux ___ ce mot dans le dictionnaire en ligne.",
+        "a": "chercher",
+        "en": "You can look up this word in the online dictionary.",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "s|2",
+        "f": "sense",
+        "s": "Je dois ___ l'adresse de cette boutique sur Internet.",
+        "a": "chercher",
+        "en": "I need to look up the address of this shop on the Internet.",
+        "alts": [],
+        "form": ""
+      }
+    ]
+  },
+  {
+    "id": 106,
+    "qs": [
+      {
+        "slot": "t|Présent|0",
+        "f": "tense",
+        "s": "Chaque matin, ___ avec ma mère avant de partir au travail.",
+        "a": "je parle",
+        "en": "Every morning, I speak with my mother before leaving for work.",
+        "alts": [],
+        "form": "Présent"
+      },
+      {
+        "slot": "t|Présent|0",
+        "f": "tense",
+        "s": "Quand ___ trop vite, les gens ne me comprennent pas.",
+        "a": "je parle",
+        "en": "When I speak too fast, people don't understand me.",
+        "alts": [],
+        "form": "Présent"
+      },
+      {
+        "slot": "t|Présent|1",
+        "f": "tense",
+        "s": "Est-ce que ___ français à la maison ?",
+        "a": "tu parles",
+        "en": "Do you speak French at home?",
+        "alts": [],
+        "form": "Présent"
+      },
+      {
+        "slot": "t|Présent|1",
+        "f": "tense",
+        "s": "___ toujours de politique avec tes collègues.",
+        "a": "Tu parles",
+        "en": "You always talk about politics with your colleagues.",
+        "alts": [],
+        "form": "Présent"
+      },
+      {
+        "slot": "t|Présent|2",
+        "f": "tense",
+        "s": "Mon professeur ___ toujours très clairement.",
+        "a": "il parle",
+        "en": "My teacher always speaks very clearly.",
+        "alts": [],
+        "form": "Présent"
+      },
+      {
+        "slot": "t|Présent|2",
+        "f": "tense",
+        "s": "On ne ___ pas la bouche pleine à table.",
+        "a": "on parle",
+        "en": "One does not speak with a full mouth at the table.",
+        "alts": [],
+        "form": "Présent"
+      },
+      {
+        "slot": "t|Présent|3",
+        "f": "tense",
+        "s": "___ souvent de nos projets lors des réunions.",
+        "a": "nous parlons",
+        "en": "We often talk about our projects during meetings.",
+        "alts": [],
+        "form": "Présent"
+      },
+      {
+        "slot": "t|Présent|3",
+        "f": "tense",
+        "s": "Ce soir, ___ de nos vacances avec les enfants.",
+        "a": "nous parlons",
+        "en": "Tonight, we are talking about our vacation with the children.",
+        "alts": [],
+        "form": "Présent"
+      },
+      {
+        "slot": "t|Présent|4",
+        "f": "tense",
+        "s": "Est-ce que ___ anglais dans votre entreprise ?",
+        "a": "vous parlez",
+        "en": "Do you speak English in your company?",
+        "alts": [],
+        "form": "Présent"
+      },
+      {
+        "slot": "t|Présent|4",
+        "f": "tense",
+        "s": "___ trop fort, les enfants dorment déjà.",
+        "a": "Vous parlez",
+        "en": "You are speaking too loudly, the children are already sleeping.",
+        "alts": [],
+        "form": "Présent"
+      },
+      {
+        "slot": "t|Présent|5",
+        "f": "tense",
+        "s": "Ces deux amis ___ toujours de cinéma.",
+        "a": "ils parlent",
+        "en": "These two friends always talk about cinema.",
+        "alts": [],
+        "form": "Présent"
+      },
+      {
+        "slot": "t|Présent|5",
+        "f": "tense",
+        "s": "Les élèves ___ entre eux pendant la récréation.",
+        "a": "ils parlent",
+        "en": "The students talk among themselves during recess.",
+        "alts": [],
+        "form": "Présent"
+      },
+      {
+        "slot": "t|Passé composé|0",
+        "f": "tense",
+        "s": "Hier soir, ___ à mon directeur de ce problème.",
+        "a": "j'ai parlé",
+        "en": "Last night, I spoke to my director about this problem.",
+        "alts": [],
+        "form": "Passé composé"
+      },
+      {
+        "slot": "t|Passé composé|0",
+        "f": "tense",
+        "s": "___ trop longtemps au téléphone ce matin.",
+        "a": "j'ai parlé",
+        "en": "I spoke too long on the phone this morning.",
+        "alts": [],
+        "form": "Passé composé"
+      },
+      {
+        "slot": "t|Passé composé|1",
+        "f": "tense",
+        "s": "Est-ce que ___ à ta mère de cette décision ?",
+        "a": "tu as parlé",
+        "en": "Did you speak to your mother about this decision?",
+        "alts": [],
+        "form": "Passé composé"
+      },
+      {
+        "slot": "t|Passé composé|1",
+        "f": "tense",
+        "s": "Je vois que ___ de moi à tes amis.",
+        "a": "tu as parlé",
+        "en": "I see that you talked about me to your friends.",
+        "alts": [],
+        "form": "Passé composé"
+      },
+      {
+        "slot": "t|Passé composé|2",
+        "f": "tense",
+        "s": "Le ministre ___ à la télévision hier soir.",
+        "a": "il a parlé",
+        "en": "The minister spoke on television last night.",
+        "alts": [],
+        "form": "Passé composé"
+      },
+      {
+        "slot": "t|Passé composé|2",
+        "f": "tense",
+        "s": "Mon fils ___ français pour la première fois aujourd'hui.",
+        "a": "il a parlé",
+        "en": "My son spoke French for the first time today.",
+        "alts": [],
+        "form": "Passé composé"
+      },
+      {
+        "slot": "t|Passé composé|3",
+        "f": "tense",
+        "s": "___ de ce sujet pendant deux heures.",
+        "a": "nous avons parlé",
+        "en": "We talked about this topic for two hours.",
+        "alts": [],
+        "form": "Passé composé"
+      },
+      {
+        "slot": "t|Passé composé|3",
+        "f": "tense",
+        "s": "Au dîner, ___ de notre voyage en France.",
+        "a": "nous avons parlé",
+        "en": "At dinner, we talked about our trip to France.",
+        "alts": [],
+        "form": "Passé composé"
+      },
+      {
+        "slot": "t|Passé composé|4",
+        "f": "tense",
+        "s": "___ très bien devant tout le jury.",
+        "a": "vous avez parlé",
+        "en": "You spoke very well in front of the entire jury.",
+        "alts": [],
+        "form": "Passé composé"
+      },
+      {
+        "slot": "t|Passé composé|4",
+        "f": "tense",
+        "s": "Je sais que ___ de notre projet à la direction.",
+        "a": "vous avez parlé",
+        "en": "I know that you talked about our project to management.",
+        "alts": [],
+        "form": "Passé composé"
+      },
+      {
+        "slot": "t|Passé composé|5",
+        "f": "tense",
+        "s": "Les témoins ___ pendant toute la matinée.",
+        "a": "ils ont parlé",
+        "en": "The witnesses spoke throughout the entire morning.",
+        "alts": [],
+        "form": "Passé composé"
+      },
+      {
+        "slot": "t|Passé composé|5",
+        "f": "tense",
+        "s": "Mes parents ___ de mes résultats scolaires.",
+        "a": "ils ont parlé",
+        "en": "My parents talked about my academic results.",
+        "alts": [],
+        "form": "Passé composé"
+      },
+      {
+        "slot": "t|Imparfait|0",
+        "f": "tense",
+        "s": "Quand j'étais enfant, ___ souvent avec mes grands-parents.",
+        "a": "je parlais",
+        "en": "When I was a child, I used to speak often with my grandparents.",
+        "alts": [],
+        "form": "Imparfait"
+      },
+      {
+        "slot": "t|Imparfait|0",
+        "f": "tense",
+        "s": "Avant, ___ couramment l'espagnol.",
+        "a": "je parlais",
+        "en": "Before, I used to speak Spanish fluently.",
+        "alts": [],
+        "form": "Imparfait"
+      },
+      {
+        "slot": "t|Imparfait|1",
+        "f": "tense",
+        "s": "Autrefois, ___ souvent de tes rêves.",
+        "a": "tu parlais",
+        "en": "In the past, you used to talk about your dreams often.",
+        "alts": [],
+        "form": "Imparfait"
+      },
+      {
+        "slot": "t|Imparfait|1",
+        "f": "tense",
+        "s": "Quand tu étais petit, ___ avec un léger accent.",
+        "a": "tu parlais",
+        "en": "When you were little, you used to speak with a slight accent.",
+        "alts": [],
+        "form": "Imparfait"
+      },
+      {
+        "slot": "t|Imparfait|2",
+        "f": "tense",
+        "s": "Mon grand-père ___ toujours à voix basse.",
+        "a": "il parlait",
+        "en": "My grandfather always used to speak in a low voice.",
+        "alts": [],
+        "form": "Imparfait"
+      },
+      {
+        "slot": "t|Imparfait|2",
+        "f": "tense",
+        "s": "Le vieux professeur ___ de la guerre avec émotion.",
+        "a": "il parlait",
+        "en": "The old professor used to talk about the war with emotion.",
+        "alts": [],
+        "form": "Imparfait"
+      },
+      {
+        "slot": "t|Imparfait|3",
+        "f": "tense",
+        "s": "Quand nous étions étudiants, ___ français entre nous.",
+        "a": "nous parlions",
+        "en": "When we were students, we used to speak French among ourselves.",
+        "alts": [],
+        "form": "Imparfait"
+      },
+      {
+        "slot": "t|Imparfait|3",
+        "f": "tense",
+        "s": "Nous ___ toujours de l'avenir avec enthousiasme.",
+        "a": "nous parlions",
+        "en": "We always used to talk about the future with enthusiasm.",
+        "alts": [],
+        "form": "Imparfait"
+      },
+      {
+        "slot": "t|Imparfait|4",
+        "f": "tense",
+        "s": "___ souvent de vos voyages à cette époque.",
+        "a": "vous parliez",
+        "en": "You used to talk about your travels often at that time.",
+        "alts": [],
+        "form": "Imparfait"
+      },
+      {
+        "slot": "t|Imparfait|4",
+        "f": "tense",
+        "s": "Quand vous étiez enfants, ___ toujours en même temps.",
+        "a": "vous parliez",
+        "en": "When you were children, you always used to talk at the same time.",
+        "alts": [],
+        "form": "Imparfait"
+      },
+      {
+        "slot": "t|Imparfait|5",
+        "f": "tense",
+        "s": "Les anciens voisins ___ toujours très fort dans le couloir.",
+        "a": "ils parlaient",
+        "en": "The former neighbors always used to speak very loudly in the hallway.",
+        "alts": [],
+        "form": "Imparfait"
+      },
+      {
+        "slot": "t|Imparfait|5",
+        "f": "tense",
+        "s": "Les deux amis ___ de leur enfance pendant des heures.",
+        "a": "ils parlaient",
+        "en": "The two friends used to talk about their childhood for hours.",
+        "alts": [],
+        "form": "Imparfait"
+      },
+      {
+        "slot": "t|Futur|0",
+        "f": "tense",
+        "s": "Demain, ___ à mon patron de cette promotion.",
+        "a": "je parlerai",
+        "en": "Tomorrow, I will speak to my boss about this promotion.",
+        "alts": [],
+        "form": "Futur"
+      },
+      {
+        "slot": "t|Futur|0",
+        "f": "tense",
+        "s": "Lors de la conférence, ___ pendant vingt minutes.",
+        "a": "je parlerai",
+        "en": "At the conference, I will speak for twenty minutes.",
+        "alts": [],
+        "form": "Futur"
+      },
+      {
+        "slot": "t|Futur|1",
+        "f": "tense",
+        "s": "___ à tes parents de ce problème ce week-end ?",
+        "a": "tu parleras",
+        "en": "Will you speak to your parents about this problem this weekend?",
+        "alts": [],
+        "form": "Futur"
+      },
+      {
+        "slot": "t|Futur|1",
+        "f": "tense",
+        "s": "Si tu continues tes études, ___ couramment le français.",
+        "a": "tu parleras",
+        "en": "If you continue your studies, you will speak French fluently.",
+        "alts": [],
+        "form": "Futur"
+      },
+      {
+        "slot": "t|Futur|2",
+        "f": "tense",
+        "s": "Le président ___ à la nation ce soir à vingt heures.",
+        "a": "il parlera",
+        "en": "The president will speak to the nation tonight at eight o'clock.",
+        "alts": [],
+        "form": "Futur"
+      },
+      {
+        "slot": "t|Futur|2",
+        "f": "tense",
+        "s": "Mon avocat ___ en mon nom lors du procès.",
+        "a": "il parlera",
+        "en": "My lawyer will speak on my behalf during the trial.",
+        "alts": [],
+        "form": "Futur"
+      },
+      {
+        "slot": "t|Futur|3",
+        "f": "tense",
+        "s": "La semaine prochaine, ___ de ce dossier en réunion.",
+        "a": "nous parlerons",
+        "en": "Next week, we will talk about this file in the meeting.",
+        "alts": [],
+        "form": "Futur"
+      },
+      {
+        "slot": "t|Futur|3",
+        "f": "tense",
+        "s": "___ de ce projet dès que possible.",
+        "a": "nous parlerons",
+        "en": "We will talk about this project as soon as possible.",
+        "alts": [],
+        "form": "Futur"
+      },
+      {
+        "slot": "t|Futur|4",
+        "f": "tense",
+        "s": "___ à l'équipe de cette nouvelle stratégie vendredi.",
+        "a": "vous parlerez",
+        "en": "You will speak to the team about this new strategy on Friday.",
+        "alts": [],
+        "form": "Futur"
+      },
+      {
+        "slot": "t|Futur|4",
+        "f": "tense",
+        "s": "J'espère que ___ plus doucement la prochaine fois.",
+        "a": "vous parlerez",
+        "en": "I hope that you will speak more softly next time.",
+        "alts": [],
+        "form": "Futur"
+      },
+      {
+        "slot": "t|Futur|5",
+        "f": "tense",
+        "s": "Les candidats ___ chacun pendant cinq minutes.",
+        "a": "ils parleront",
+        "en": "The candidates will each speak for five minutes.",
+        "alts": [],
+        "form": "Futur"
+      },
+      {
+        "slot": "t|Futur|5",
+        "f": "tense",
+        "s": "Mes enfants ___ plusieurs langues quand ils seront grands.",
+        "a": "ils parleront",
+        "en": "My children will speak several languages when they are grown up.",
+        "alts": [],
+        "form": "Futur"
+      },
+      {
+        "slot": "t|Conditionnel|0",
+        "f": "tense",
+        "s": "Si j'avais le courage, ___ à mon chef de ce problème.",
+        "a": "je parlerais",
+        "en": "If I had the courage, I would speak to my boss about this problem.",
+        "alts": [],
+        "form": "Conditionnel"
+      },
+      {
+        "slot": "t|Conditionnel|0",
+        "f": "tense",
+        "s": "À ta place, ___ moins et j'agirais davantage.",
+        "a": "je parlerais",
+        "en": "In your place, I would speak less and act more.",
+        "alts": [],
+        "form": "Conditionnel"
+      },
+      {
+        "slot": "t|Conditionnel|1",
+        "f": "tense",
+        "s": "Si tu étais à l'étranger, ___ quelle langue ?",
+        "a": "tu parlerais",
+        "en": "If you were abroad, what language would you speak?",
+        "alts": [],
+        "form": "Conditionnel"
+      },
+      {
+        "slot": "t|Conditionnel|1",
+        "f": "tense",
+        "s": "Avec un peu plus de confiance, ___ bien mieux en public.",
+        "a": "tu parlerais",
+        "en": "With a bit more confidence, you would speak much better in public.",
+        "alts": [],
+        "form": "Conditionnel"
+      },
+      {
+        "slot": "t|Conditionnel|2",
+        "f": "tense",
+        "s": "Si l'occasion se présentait, ___ directement au directeur.",
+        "a": "il parlerait",
+        "en": "If the opportunity arose, he would speak directly to the director.",
+        "alts": [],
+        "form": "Conditionnel"
+      },
+      {
+        "slot": "t|Conditionnel|2",
+        "f": "tense",
+        "s": "Mon père ___ avec toi si tu lui donnais une chance.",
+        "a": "il parlerait",
+        "en": "My father would speak with you if you gave him a chance.",
+        "alts": [],
+        "form": "Conditionnel"
+      },
+      {
+        "slot": "t|Conditionnel|3",
+        "f": "tense",
+        "s": "Si nous avions plus de temps, ___ de ce sujet plus en détail.",
+        "a": "nous parlerions",
+        "en": "If we had more time, we would talk about this topic in more detail.",
+        "alts": [],
+        "form": "Conditionnel"
+      },
+      {
+        "slot": "t|Conditionnel|3",
+        "f": "tense",
+        "s": "___ plus souvent si nous habitions dans la même ville.",
+        "a": "nous parlerions",
+        "en": "We would speak more often if we lived in the same city.",
+        "alts": [],
+        "form": "Conditionnel"
+      },
+      {
+        "slot": "t|Conditionnel|4",
+        "f": "tense",
+        "s": "___ différemment si vous connaissiez toute l'histoire.",
+        "a": "vous parleriez",
+        "en": "You would speak differently if you knew the whole story.",
+        "alts": [],
+        "form": "Conditionnel"
+      },
+      {
+        "slot": "t|Conditionnel|4",
+        "f": "tense",
+        "s": "À votre place, ___ à un avocat avant de signer.",
+        "a": "vous parleriez",
+        "en": "In your position, you would speak to a lawyer before signing.",
+        "alts": [],
+        "form": "Conditionnel"
+      },
+      {
+        "slot": "t|Conditionnel|5",
+        "f": "tense",
+        "s": "Si les élèves travaillaient plus, ___ mieux français.",
+        "a": "ils parleraient",
+        "en": "If the students worked harder, they would speak French better.",
+        "alts": [],
+        "form": "Conditionnel"
+      },
+      {
+        "slot": "t|Conditionnel|5",
+        "f": "tense",
+        "s": "Mes collègues ___ plus souvent s'ils avaient le temps.",
+        "a": "ils parleraient",
+        "en": "My colleagues would speak more often if they had the time.",
+        "alts": [],
+        "form": "Conditionnel"
+      },
+      {
+        "slot": "t|Subjonctif|0",
+        "f": "tense",
+        "s": "Il faut ___ à voix haute lors de la présentation.",
+        "a": "que je parle",
+        "en": "It is necessary that I speak aloud during the presentation.",
+        "alts": [],
+        "form": "Subjonctif"
+      },
+      {
+        "slot": "t|Subjonctif|0",
+        "f": "tense",
+        "s": "Ma mère veut ___ à son médecin aujourd'hui.",
+        "a": "que je parle",
+        "en": "My mother wants me to speak to her doctor today.",
+        "alts": [],
+        "form": "Subjonctif"
+      },
+      {
+        "slot": "t|Subjonctif|1",
+        "f": "tense",
+        "s": "Je suis content ___ avec tes camarades.",
+        "a": "que tu parles",
+        "en": "I am glad that you speak with your classmates.",
+        "alts": [],
+        "form": "Subjonctif"
+      },
+      {
+        "slot": "t|Subjonctif|1",
+        "f": "tense",
+        "s": "Il est important ___ plus doucement à ta sœur.",
+        "a": "que tu parles",
+        "en": "It is important that you speak more gently to your sister.",
+        "alts": [],
+        "form": "Subjonctif"
+      },
+      {
+        "slot": "t|Subjonctif|2",
+        "f": "tense",
+        "s": "Je doute ___ sincèrement dans cette situation.",
+        "a": "qu'il parle",
+        "en": "I doubt that he speaks sincerely in this situation.",
+        "alts": [],
+        "form": "Subjonctif"
+      },
+      {
+        "slot": "t|Subjonctif|2",
+        "f": "tense",
+        "s": "Il vaut mieux ___ directement plutôt que d'écrire.",
+        "a": "qu'il parle",
+        "en": "It is better that he speak directly rather than write.",
+        "alts": [],
+        "form": "Subjonctif"
+      },
+      {
+        "slot": "t|Subjonctif|3",
+        "f": "tense",
+        "s": "Notre professeur exige ___ français en classe.",
+        "a": "que nous parlions",
+        "en": "Our teacher requires that we speak French in class.",
+        "alts": [],
+        "form": "Subjonctif"
+      },
+      {
+        "slot": "t|Subjonctif|3",
+        "f": "tense",
+        "s": "Il est essentiel ___ de ce problème avant la réunion.",
+        "a": "que nous parlions",
+        "en": "It is essential that we speak about this problem before the meeting.",
+        "alts": [],
+        "form": "Subjonctif"
+      },
+      {
+        "slot": "t|Subjonctif|4",
+        "f": "tense",
+        "s": "Le directeur préfère ___ moins fort dans les couloirs.",
+        "a": "que vous parliez",
+        "en": "The director prefers that you speak less loudly in the hallways.",
+        "alts": [],
+        "form": "Subjonctif"
+      },
+      {
+        "slot": "t|Subjonctif|4",
+        "f": "tense",
+        "s": "Il faut ___ à vos clients avec respect.",
+        "a": "que vous parliez",
+        "en": "It is necessary that you speak to your clients with respect.",
+        "alts": [],
+        "form": "Subjonctif"
+      },
+      {
+        "slot": "t|Subjonctif|5",
+        "f": "tense",
+        "s": "Je souhaite ___ plus souvent dans les conférences.",
+        "a": "qu'ils parlent",
+        "en": "I wish that they speak more often at conferences.",
+        "alts": [],
+        "form": "Subjonctif"
+      },
+      {
+        "slot": "t|Subjonctif|5",
+        "f": "tense",
+        "s": "Il est dommage ___ aussi rarement de ces sujets.",
+        "a": "qu'ils parlent",
+        "en": "It is a pity that they speak so rarely about these topics.",
+        "alts": [],
+        "form": "Subjonctif"
+      },
+      {
+        "slot": "s|0",
+        "f": "sense",
+        "s": "Les enfants apprennent à ___ très tôt dans leur vie.",
+        "a": "parler",
+        "en": "Children learn to speak very early in their lives.",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "s|0",
+        "f": "sense",
+        "s": "Elle est timide et n'ose pas ___ devant tout le monde.",
+        "a": "parler",
+        "en": "She is shy and does not dare to speak in front of everyone.",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "s|1",
+        "f": "sense",
+        "s": "Nous aimons ___ de nos voyages avec nos amis.",
+        "a": "parler",
+        "en": "We like to talk about our travels with our friends.",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "s|1",
+        "f": "sense",
+        "s": "Il ne faut pas ___ des autres dans leur dos.",
+        "a": "parler",
+        "en": "One should not talk about others behind their backs.",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "s|2",
+        "f": "sense",
+        "s": "Mon fils de huit ans commence à ___ anglais à l'école.",
+        "a": "parler",
+        "en": "My eight-year-old son is starting to speak English at school.",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "s|2",
+        "f": "sense",
+        "s": "Elle a vécu en Espagne et sait ___ espagnol couramment.",
+        "a": "parler",
+        "en": "She lived in Spain and knows how to speak Spanish fluently.",
+        "alts": [],
+        "form": ""
+      }
+    ]
+  },
+  {
+    "id": 318,
+    "qs": [
+      {
+        "slot": "s|0",
+        "f": "sense",
+        "s": "Il a décrit chaque ___ de la scène avec précision.",
+        "a": "détail",
+        "en": "He described every detail of the scene with precision.",
+        "alts": []
+      },
+      {
+        "slot": "s|0",
+        "f": "sense",
+        "s": "Ne néglige aucun ___ si tu veux que le travail soit parfait.",
+        "a": "détail",
+        "en": "Don't overlook any detail if you want the work to be perfect.",
+        "alts": []
+      },
+      {
+        "slot": "s|1",
+        "f": "sense",
+        "s": "Pouvez-vous me donner les ___ de votre commande, s'il vous plaît ?",
+        "a": "détails",
+        "en": "Could you give me the details of your order, please?",
+        "alts": []
+      },
+      {
+        "slot": "s|1",
+        "f": "sense",
+        "s": "Je vous enverrai tous les ___ par e-mail dès que possible.",
+        "a": "détails",
+        "en": "I will send you all the details by email as soon as possible.",
+        "alts": []
+      },
+      {
+        "slot": "s|2",
+        "f": "sense",
+        "s": "Ce magasin vend des produits au ___, pas en gros.",
+        "a": "détail",
+        "en": "This shop sells products at retail, not wholesale.",
+        "alts": []
+      },
+      {
+        "slot": "s|2",
+        "f": "sense",
+        "s": "Le commerce de ___ a beaucoup évolué avec l'essor du numérique.",
+        "a": "détail",
+        "en": "The retail trade has changed a lot with the rise of the digital era.",
+        "alts": []
+      },
+      {
+        "slot": "gender",
+        "f": "gender",
+        "s": "___ détail que tu as ajouté rend le dessin beaucoup plus vivant.",
+        "a": "Le",
+        "en": "The detail you added makes the drawing much more vivid.",
+        "alts": []
+      },
+      {
+        "slot": "gender",
+        "f": "gender",
+        "s": "C'est ___ détail qui fait toute la différence.",
+        "a": "un",
+        "en": "It is a detail that makes all the difference.",
+        "alts": []
+      }
+    ]
+  },
+  {
+    "id": 59,
+    "qs": [
+      {
+        "slot": "s|0",
+        "f": "sense",
+        "s": "Il a acheté un ___ appartement au centre-ville.",
+        "a": "grand",
+        "en": "He bought a big apartment in the city center.",
+        "alts": []
+      },
+      {
+        "slot": "s|0",
+        "f": "sense",
+        "s": "Ce ___ sac ne rentre pas dans le coffre de la voiture.",
+        "a": "grand",
+        "en": "This big bag doesn't fit in the car trunk.",
+        "alts": []
+      },
+      {
+        "slot": "s|1",
+        "f": "sense",
+        "s": "Mon père est très ___ ; il mesure un mètre quatre-vingt-dix.",
+        "a": "grand",
+        "en": "My father is very tall; he is one meter ninety.",
+        "alts": []
+      },
+      {
+        "slot": "s|1",
+        "f": "sense",
+        "s": "Elle est trop ___ pour porter ces chaussures plates.",
+        "a": "grande",
+        "en": "She is too tall to wear flat shoes.",
+        "alts": []
+      },
+      {
+        "slot": "s|2",
+        "f": "sense",
+        "s": "Napoléon est considéré comme un ___ homme de l'histoire de France.",
+        "a": "grand",
+        "en": "Napoleon is considered a great man in the history of France.",
+        "alts": []
+      },
+      {
+        "slot": "s|2",
+        "f": "sense",
+        "s": "C'est une ___ artiste qui a marqué le monde de la peinture.",
+        "a": "grande",
+        "en": "She is a great artist who left her mark on the world of painting.",
+        "alts": []
+      },
+      {
+        "slot": "s|3",
+        "f": "sense",
+        "s": "La réunion de demain est un ___ événement pour toute la société.",
+        "a": "grand",
+        "en": "Tomorrow's meeting is an important event for the whole company.",
+        "alts": []
+      },
+      {
+        "slot": "s|3",
+        "f": "sense",
+        "s": "Ce projet représente une ___ opportunité pour notre équipe.",
+        "a": "grande",
+        "en": "This project represents an important opportunity for our team.",
+        "alts": []
+      },
+      {
+        "slot": "g|mp",
+        "f": "agree",
+        "s": "Ces bâtiments sont très ___ et impressionnent tous les visiteurs.",
+        "a": "grands",
+        "en": "These buildings are very big and impress all visitors.",
+        "alts": []
+      },
+      {
+        "slot": "g|mp",
+        "f": "agree",
+        "s": "Les ___ hommes de la littérature ont tous traversé des épreuves difficiles.",
+        "a": "grands",
+        "en": "The great men of literature all went through difficult trials.",
+        "alts": []
+      },
+      {
+        "slot": "g|f",
+        "f": "agree",
+        "s": "Sa ___ sœur habite à Lyon depuis cinq ans.",
+        "a": "grande",
+        "en": "His big sister has been living in Lyon for five years.",
+        "alts": []
+      },
+      {
+        "slot": "g|f",
+        "f": "agree",
+        "s": "C'est une ___ décision qui va changer sa vie.",
+        "a": "grande",
+        "en": "It is an important decision that will change her life.",
+        "alts": []
+      },
+      {
+        "slot": "g|fp",
+        "f": "agree",
+        "s": "Les ___ villes européennes attirent des millions de touristes chaque année.",
+        "a": "grandes",
+        "en": "The big European cities attract millions of tourists every year.",
+        "alts": []
+      },
+      {
+        "slot": "g|fp",
+        "f": "agree",
+        "s": "Ces ___ figures féminines ont marqué l'histoire de la science.",
+        "a": "grandes",
+        "en": "These great female figures have left their mark on the history of science.",
+        "alts": []
+      }
+    ]
+  }
+]

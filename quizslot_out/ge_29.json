@@ -1,0 +1,1223 @@
+[
+  {
+    "id": 588,
+    "qs": [
+      {
+        "slot": "s|0",
+        "f": "sense",
+        "s": "Ce restaurant est excellent. ___, il est ouvert le dimanche.",
+        "en": "This restaurant is excellent. Moreover, it is open on Sundays.",
+        "a": "D'ailleurs",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "s|0",
+        "f": "sense",
+        "s": "Elle parle couramment l'anglais et, ___, elle maîtrise aussi l'espagnol.",
+        "en": "She speaks English fluently and, moreover, she also masters Spanish.",
+        "a": "d'ailleurs",
+        "alts": ["en outre", "de plus"],
+        "form": ""
+      },
+      {
+        "slot": "s|1",
+        "f": "sense",
+        "s": "Je ne peux pas venir ce soir ; ___, j'ai déjà promis à ma mère de la retrouver.",
+        "en": "I can't come tonight; besides, I have already promised my mother to meet her.",
+        "a": "d'ailleurs",
+        "alts": ["de toute façon"],
+        "form": ""
+      },
+      {
+        "slot": "s|1",
+        "f": "sense",
+        "s": "Tu ne devrais pas acheter cette voiture ; elle est trop chère et, ___, tu n'as même pas le permis.",
+        "en": "You shouldn't buy that car; it's too expensive and, besides, you don't even have a driver's licence.",
+        "a": "d'ailleurs",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "s|2",
+        "f": "sense",
+        "s": "Il est très travailleur — ___, c'est ce que tout le monde dit de lui.",
+        "en": "He is very hardworking — for that matter, that's what everyone says about him.",
+        "a": "d'ailleurs",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "s|2",
+        "f": "sense",
+        "s": "Ce projet avance bien ; ___, j'en ai parlé au directeur hier.",
+        "en": "This project is progressing well; incidentally, I mentioned it to the director yesterday.",
+        "a": "d'ailleurs",
+        "alts": [],
+        "form": ""
+      }
+    ]
+  },
+  {
+    "id": 589,
+    "qs": [
+      {
+        "slot": "t|Présent|0",
+        "f": "tense",
+        "s": "Ce médecin ___ chaque patient avec beaucoup de soin.",
+        "en": "This doctor treats each patient with great care.",
+        "a": "traite",
+        "alts": [],
+        "form": "Présent"
+      },
+      {
+        "slot": "t|Présent|0",
+        "f": "tense",
+        "s": "Je ___ ce dossier en priorité ce matin.",
+        "en": "I am handling this file as a priority this morning.",
+        "a": "traite",
+        "alts": [],
+        "form": "Présent"
+      },
+      {
+        "slot": "t|Présent|1",
+        "f": "tense",
+        "s": "Tu ___ souvent tes amis avec beaucoup de gentillesse.",
+        "en": "You often treat your friends with a lot of kindness.",
+        "a": "traites",
+        "alts": [],
+        "form": "Présent"
+      },
+      {
+        "slot": "t|Présent|1",
+        "f": "tense",
+        "s": "Comment tu ___ ce genre de problème dans ton travail ?",
+        "en": "How do you handle this kind of problem at work?",
+        "a": "traites",
+        "alts": [],
+        "form": "Présent"
+      },
+      {
+        "slot": "t|Présent|2",
+        "f": "tense",
+        "s": "Nous ___ ces questions lors de nos réunions hebdomadaires.",
+        "en": "We deal with these questions during our weekly meetings.",
+        "a": "traitons",
+        "alts": [],
+        "form": "Présent"
+      },
+      {
+        "slot": "t|Présent|2",
+        "f": "tense",
+        "s": "Dans notre service, nous ___ les réclamations des clients chaque jour.",
+        "en": "In our department, we handle customer complaints every day.",
+        "a": "traitons",
+        "alts": [],
+        "form": "Présent"
+      },
+      {
+        "slot": "t|Présent|3",
+        "f": "tense",
+        "s": "Vous ___ ce sujet de façon très professionnelle.",
+        "en": "You are handling this subject in a very professional manner.",
+        "a": "traitez",
+        "alts": [],
+        "form": "Présent"
+      },
+      {
+        "slot": "t|Présent|3",
+        "f": "tense",
+        "s": "Est-ce que vous ___ également les cas d'urgence dans votre clinique ?",
+        "en": "Do you also handle emergency cases in your clinic?",
+        "a": "traitez",
+        "alts": [],
+        "form": "Présent"
+      },
+      {
+        "slot": "t|Présent|4",
+        "f": "tense",
+        "s": "Ces ingénieurs ___ les données avant de les envoyer au serveur.",
+        "en": "These engineers process the data before sending it to the server.",
+        "a": "traitent",
+        "alts": [],
+        "form": "Présent"
+      },
+      {
+        "slot": "t|Présent|4",
+        "f": "tense",
+        "s": "Mes collègues ___ les nouveaux employés avec respect.",
+        "en": "My colleagues treat the new employees with respect.",
+        "a": "traitent",
+        "alts": [],
+        "form": "Présent"
+      },
+      {
+        "slot": "t|Passé composé|0",
+        "f": "tense",
+        "s": "J'___ cette affaire avec beaucoup de discrétion hier.",
+        "en": "I handled this matter with great discretion yesterday.",
+        "a": "ai traité",
+        "alts": [],
+        "form": "Passé composé"
+      },
+      {
+        "slot": "t|Passé composé|0",
+        "f": "tense",
+        "s": "Ce matin, j'___ dix dossiers avant midi.",
+        "en": "This morning, I processed ten files before noon.",
+        "a": "ai traité",
+        "alts": [],
+        "form": "Passé composé"
+      },
+      {
+        "slot": "t|Passé composé|1",
+        "f": "tense",
+        "s": "Tu ___ ce patient hier, non ?",
+        "en": "You treated this patient yesterday, didn't you?",
+        "a": "as traité",
+        "alts": [],
+        "form": "Passé composé"
+      },
+      {
+        "slot": "t|Passé composé|1",
+        "f": "tense",
+        "s": "Tu ___ cette réclamation rapidement, c'est bien.",
+        "en": "You handled this complaint quickly, well done.",
+        "a": "as traité",
+        "alts": [],
+        "form": "Passé composé"
+      },
+      {
+        "slot": "t|Passé composé|2",
+        "f": "tense",
+        "s": "Le docteur ___ la blessure immédiatement après l'accident.",
+        "en": "The doctor treated the injury immediately after the accident.",
+        "a": "a traité",
+        "alts": [],
+        "form": "Passé composé"
+      },
+      {
+        "slot": "t|Passé composé|2",
+        "f": "tense",
+        "s": "Le directeur ___ cette plainte en personne la semaine dernière.",
+        "en": "The director handled this complaint in person last week.",
+        "a": "a traité",
+        "alts": [],
+        "form": "Passé composé"
+      },
+      {
+        "slot": "t|Passé composé|3",
+        "f": "tense",
+        "s": "Nous ___ toutes les demandes reçues ce mois-ci.",
+        "en": "We processed all the requests received this month.",
+        "a": "avons traité",
+        "alts": [],
+        "form": "Passé composé"
+      },
+      {
+        "slot": "t|Passé composé|3",
+        "f": "tense",
+        "s": "Hier, nous ___ ce sujet délicat lors de la réunion.",
+        "en": "Yesterday, we dealt with this sensitive topic during the meeting.",
+        "a": "avons traité",
+        "alts": [],
+        "form": "Passé composé"
+      },
+      {
+        "slot": "t|Passé composé|4",
+        "f": "tense",
+        "s": "Vous ___ ce cas en moins d'une heure, bravo.",
+        "en": "You handled this case in less than an hour, well done.",
+        "a": "avez traité",
+        "alts": [],
+        "form": "Passé composé"
+      },
+      {
+        "slot": "t|Passé composé|4",
+        "f": "tense",
+        "s": "Avez-vous ___ la question de la sécurité lors de la conférence ?",
+        "en": "Did you deal with the security issue at the conference?",
+        "a": "traité",
+        "alts": [],
+        "form": "Passé composé"
+      },
+      {
+        "slot": "t|Passé composé|5",
+        "f": "tense",
+        "s": "Les spécialistes ___ plus de cent patients lors de cette épidémie.",
+        "en": "The specialists treated more than a hundred patients during that epidemic.",
+        "a": "ont traité",
+        "alts": [],
+        "form": "Passé composé"
+      },
+      {
+        "slot": "t|Passé composé|5",
+        "f": "tense",
+        "s": "Les équipes techniques ___ les données en quelques minutes.",
+        "en": "The technical teams processed the data in a few minutes.",
+        "a": "ont traité",
+        "alts": [],
+        "form": "Passé composé"
+      },
+      {
+        "slot": "t|Imparfait|0",
+        "f": "tense",
+        "s": "Quand j'étais enfant, mon père me ___ toujours avec douceur.",
+        "en": "When I was a child, my father always treated me gently.",
+        "a": "traitait",
+        "alts": [],
+        "form": "Imparfait"
+      },
+      {
+        "slot": "t|Imparfait|0",
+        "f": "tense",
+        "s": "Tu ___ ce dossier chaque semaine à cette époque.",
+        "en": "You used to handle this file every week at that time.",
+        "a": "traitais",
+        "alts": [],
+        "form": "Imparfait"
+      },
+      {
+        "slot": "t|Imparfait|1",
+        "f": "tense",
+        "s": "L'ancien directeur ___ chaque demande avec la même rigueur.",
+        "en": "The former director used to handle each request with the same rigor.",
+        "a": "traitait",
+        "alts": [],
+        "form": "Imparfait"
+      },
+      {
+        "slot": "t|Imparfait|1",
+        "f": "tense",
+        "s": "Ce médecin ___ des centaines de malades par mois dans cet hôpital.",
+        "en": "This doctor used to treat hundreds of patients per month in that hospital.",
+        "a": "traitait",
+        "alts": [],
+        "form": "Imparfait"
+      },
+      {
+        "slot": "t|Imparfait|2",
+        "f": "tense",
+        "s": "Nous ___ ces sujets en groupe lors de nos cours du soir.",
+        "en": "We used to deal with these topics in groups during our evening classes.",
+        "a": "traitions",
+        "alts": [],
+        "form": "Imparfait"
+      },
+      {
+        "slot": "t|Imparfait|2",
+        "f": "tense",
+        "s": "À l'époque, nous ___ les réclamations par courrier postal.",
+        "en": "At the time, we used to handle complaints by post.",
+        "a": "traitions",
+        "alts": [],
+        "form": "Imparfait"
+      },
+      {
+        "slot": "t|Imparfait|3",
+        "f": "tense",
+        "s": "Vous ___ les urgences différemment avant la réforme.",
+        "en": "You used to handle emergencies differently before the reform.",
+        "a": "traitiez",
+        "alts": [],
+        "form": "Imparfait"
+      },
+      {
+        "slot": "t|Imparfait|3",
+        "f": "tense",
+        "s": "Comment vous ___ ce type de dossier dans votre ancienne entreprise ?",
+        "en": "How did you used to handle this type of file at your previous company?",
+        "a": "traitiez",
+        "alts": [],
+        "form": "Imparfait"
+      },
+      {
+        "slot": "t|Imparfait|4",
+        "f": "tense",
+        "s": "Les chirurgiens ___ les blessés dans un hôpital de campagne.",
+        "en": "The surgeons used to treat the wounded in a field hospital.",
+        "a": "traitaient",
+        "alts": [],
+        "form": "Imparfait"
+      },
+      {
+        "slot": "t|Imparfait|4",
+        "f": "tense",
+        "s": "Les diplomates ___ cette question lors de longues séances de négociation.",
+        "en": "The diplomats used to deal with this issue during long negotiation sessions.",
+        "a": "traitaient",
+        "alts": [],
+        "form": "Imparfait"
+      },
+      {
+        "slot": "t|Futur|0",
+        "f": "tense",
+        "s": "Je ___ ce problème dès mon retour au bureau.",
+        "en": "I will handle this problem as soon as I return to the office.",
+        "a": "traiterai",
+        "alts": [],
+        "form": "Futur"
+      },
+      {
+        "slot": "t|Futur|0",
+        "f": "tense",
+        "s": "Demain, je ___ les commandes en attente en premier.",
+        "en": "Tomorrow, I will process the pending orders first.",
+        "a": "traiterai",
+        "alts": [],
+        "form": "Futur"
+      },
+      {
+        "slot": "t|Futur|1",
+        "f": "tense",
+        "s": "Tu ___ ce patient en consultation la semaine prochaine.",
+        "en": "You will treat this patient in consultation next week.",
+        "a": "traiteras",
+        "alts": [],
+        "form": "Futur"
+      },
+      {
+        "slot": "t|Futur|1",
+        "f": "tense",
+        "s": "Tu ___ cette affaire toi-même quand tu seras prêt.",
+        "en": "You will handle this matter yourself when you are ready.",
+        "a": "traiteras",
+        "alts": [],
+        "form": "Futur"
+      },
+      {
+        "slot": "t|Futur|2",
+        "f": "tense",
+        "s": "Le nouveau logiciel ___ les données automatiquement.",
+        "en": "The new software will process the data automatically.",
+        "a": "traitera",
+        "alts": [],
+        "form": "Futur"
+      },
+      {
+        "slot": "t|Futur|2",
+        "f": "tense",
+        "s": "La conférence ___ plusieurs thèmes liés à la santé publique.",
+        "en": "The conference will deal with several topics related to public health.",
+        "a": "traitera",
+        "alts": [],
+        "form": "Futur"
+      },
+      {
+        "slot": "t|Futur|3",
+        "f": "tense",
+        "s": "Nous ___ votre demande dans les plus brefs délais.",
+        "en": "We will handle your request as soon as possible.",
+        "a": "traiterons",
+        "alts": [],
+        "form": "Futur"
+      },
+      {
+        "slot": "t|Futur|3",
+        "f": "tense",
+        "s": "L'année prochaine, nous ___ ces sujets dans le troisième chapitre.",
+        "en": "Next year, we will deal with these topics in the third chapter.",
+        "a": "traiterons",
+        "alts": [],
+        "form": "Futur"
+      },
+      {
+        "slot": "t|Futur|4",
+        "f": "tense",
+        "s": "Vous ___ ce dossier urgent dès lundi matin.",
+        "en": "You will handle this urgent file starting Monday morning.",
+        "a": "traiterez",
+        "alts": [],
+        "form": "Futur"
+      },
+      {
+        "slot": "t|Futur|4",
+        "f": "tense",
+        "s": "Si vous venez à la réunion, vous ___ ces questions directement avec le chef.",
+        "en": "If you come to the meeting, you will deal with these questions directly with the boss.",
+        "a": "traiterez",
+        "alts": [],
+        "form": "Futur"
+      },
+      {
+        "slot": "t|Futur|5",
+        "f": "tense",
+        "s": "Les médecins ___ les cas les plus graves en priorité.",
+        "en": "The doctors will treat the most serious cases as a priority.",
+        "a": "traiteront",
+        "alts": [],
+        "form": "Futur"
+      },
+      {
+        "slot": "t|Futur|5",
+        "f": "tense",
+        "s": "Les deux pays ___ bientôt cette question lors d'un sommet.",
+        "en": "The two countries will soon deal with this issue at a summit.",
+        "a": "traiteront",
+        "alts": [],
+        "form": "Futur"
+      },
+      {
+        "slot": "t|Conditionnel|0",
+        "f": "tense",
+        "s": "Si j'étais directeur, je ___ chaque employé avec équité.",
+        "en": "If I were director, I would treat every employee fairly.",
+        "a": "traiterais",
+        "alts": [],
+        "form": "Conditionnel"
+      },
+      {
+        "slot": "t|Conditionnel|0",
+        "f": "tense",
+        "s": "Si tu avais plus de temps, tu ___ ce dossier avec plus de soin.",
+        "en": "If you had more time, you would handle this file with more care.",
+        "a": "traiterais",
+        "alts": [],
+        "form": "Conditionnel"
+      },
+      {
+        "slot": "t|Conditionnel|1",
+        "f": "tense",
+        "s": "Si ce médecin était disponible, il ___ ce patient tout de suite.",
+        "en": "If this doctor were available, he would treat this patient right away.",
+        "a": "traiterait",
+        "alts": [],
+        "form": "Conditionnel"
+      },
+      {
+        "slot": "t|Conditionnel|1",
+        "f": "tense",
+        "s": "Un tel logiciel ___ ces données beaucoup plus vite.",
+        "en": "Such software would process this data much faster.",
+        "a": "traiterait",
+        "alts": [],
+        "form": "Conditionnel"
+      },
+      {
+        "slot": "t|Conditionnel|2",
+        "f": "tense",
+        "s": "Si nous avions plus de personnel, nous ___ davantage de dossiers par jour.",
+        "en": "If we had more staff, we would handle more files per day.",
+        "a": "traiterions",
+        "alts": [],
+        "form": "Conditionnel"
+      },
+      {
+        "slot": "t|Conditionnel|2",
+        "f": "tense",
+        "s": "Nous ___ ce sujet différemment si le contexte changeait.",
+        "en": "We would deal with this topic differently if the context changed.",
+        "a": "traiterions",
+        "alts": [],
+        "form": "Conditionnel"
+      },
+      {
+        "slot": "t|Conditionnel|3",
+        "f": "tense",
+        "s": "Vous ___ ce problème autrement si vous connaissiez tous les faits.",
+        "en": "You would handle this problem differently if you knew all the facts.",
+        "a": "traiteriez",
+        "alts": [],
+        "form": "Conditionnel"
+      },
+      {
+        "slot": "t|Conditionnel|3",
+        "f": "tense",
+        "s": "Si vous aviez plus d'expérience, vous ___ ces patients avec plus d'assurance.",
+        "en": "If you had more experience, you would treat these patients with more confidence.",
+        "a": "traiteriez",
+        "alts": [],
+        "form": "Conditionnel"
+      },
+      {
+        "slot": "t|Conditionnel|4",
+        "f": "tense",
+        "s": "Si les négociateurs avaient plus de flexibilité, ils ___ ce sujet plus rapidement.",
+        "en": "If the negotiators had more flexibility, they would deal with this subject more quickly.",
+        "a": "traiteraient",
+        "alts": [],
+        "form": "Conditionnel"
+      },
+      {
+        "slot": "t|Conditionnel|4",
+        "f": "tense",
+        "s": "Les médecins ___ davantage de patients s'ils avaient plus de ressources.",
+        "en": "The doctors would treat more patients if they had more resources.",
+        "a": "traiteraient",
+        "alts": [],
+        "form": "Conditionnel"
+      },
+      {
+        "slot": "t|Subjonctif",
+        "f": "subj",
+        "s": "Il faut que tu ___ tous tes patients avec respect.",
+        "en": "It is necessary that you treat all your patients with respect.",
+        "a": "traites",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "t|Subjonctif",
+        "f": "subj",
+        "s": "Je veux que nous ___ ce dossier avant la fin de la semaine.",
+        "en": "I want us to deal with this file before the end of the week.",
+        "a": "traitions",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "s|0",
+        "f": "sense",
+        "s": "Les professeurs doivent ___ tous les élèves de manière égale.",
+        "en": "Teachers must treat all students equally.",
+        "a": "traiter",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "s|0",
+        "f": "sense",
+        "s": "Il est important de ___ les autres avec dignité.",
+        "en": "It is important to treat others with dignity.",
+        "a": "traiter",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "s|1",
+        "f": "sense",
+        "s": "Ce logiciel permet de ___ des milliers de commandes en quelques secondes.",
+        "en": "This software makes it possible to process thousands of orders in a few seconds.",
+        "a": "traiter",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "s|1",
+        "f": "sense",
+        "s": "Le service administratif doit ___ chaque demande dans un délai raisonnable.",
+        "en": "The administrative department must handle each request within a reasonable time.",
+        "a": "traiter",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "s|2",
+        "f": "sense",
+        "s": "Le médecin a décidé de ___ la maladie avec des antibiotiques.",
+        "en": "The doctor decided to treat the illness with antibiotics.",
+        "a": "traiter",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "s|2",
+        "f": "sense",
+        "s": "Il est difficile de ___ cette infection sans les bons médicaments.",
+        "en": "It is difficult to treat this infection without the right medication.",
+        "a": "traiter",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "s|3",
+        "f": "sense",
+        "s": "Les deux pays ont accepté de ___ directement sans intermédiaire.",
+        "en": "The two countries agreed to negotiate directly without an intermediary.",
+        "a": "traiter",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "s|3",
+        "f": "sense",
+        "s": "Il est temps de ___ avec l'autre parti pour trouver un accord.",
+        "en": "It is time to negotiate with the other party to reach an agreement.",
+        "a": "traiter",
+        "alts": [],
+        "form": ""
+      }
+    ]
+  },
+  {
+    "id": 590,
+    "qs": [
+      {
+        "slot": "t|Présent|0",
+        "f": "tense",
+        "s": "J'___ la sortie aux visiteurs.",
+        "en": "I indicate the exit to the visitors.",
+        "a": "indique",
+        "alts": [],
+        "form": "Présent"
+      },
+      {
+        "slot": "t|Présent|0",
+        "f": "tense",
+        "s": "Le panneau ___ la direction de la gare.",
+        "en": "The sign indicates the direction of the train station.",
+        "a": "indique",
+        "alts": [],
+        "form": "Présent"
+      },
+      {
+        "slot": "t|Présent|1",
+        "f": "tense",
+        "s": "Tu ___ ton adresse sur le formulaire.",
+        "en": "You indicate your address on the form.",
+        "a": "indiques",
+        "alts": [],
+        "form": "Présent"
+      },
+      {
+        "slot": "t|Présent|1",
+        "f": "tense",
+        "s": "Tu ___ toujours le bon chemin à tes amis.",
+        "en": "You always indicate the right path to your friends.",
+        "a": "indiques",
+        "alts": [],
+        "form": "Présent"
+      },
+      {
+        "slot": "t|Présent|2",
+        "f": "tense",
+        "s": "Nous ___ la route à prendre sur la carte.",
+        "en": "We indicate the route to take on the map.",
+        "a": "indiquons",
+        "alts": [],
+        "form": "Présent"
+      },
+      {
+        "slot": "t|Présent|2",
+        "f": "tense",
+        "s": "Nous ___ clairement nos préférences.",
+        "en": "We clearly indicate our preferences.",
+        "a": "indiquons",
+        "alts": [],
+        "form": "Présent"
+      },
+      {
+        "slot": "t|Présent|3",
+        "f": "tense",
+        "s": "Vous ___ l'heure d'arrivée dans votre rapport.",
+        "en": "You indicate the arrival time in your report.",
+        "a": "indiquez",
+        "alts": [],
+        "form": "Présent"
+      },
+      {
+        "slot": "t|Présent|3",
+        "f": "tense",
+        "s": "Vous ___ le numéro de chambre à la réception.",
+        "en": "You indicate the room number at the reception.",
+        "a": "indiquez",
+        "alts": [],
+        "form": "Présent"
+      },
+      {
+        "slot": "t|Présent|4",
+        "f": "tense",
+        "s": "Les flèches ___ la direction à suivre.",
+        "en": "The arrows indicate the direction to follow.",
+        "a": "indiquent",
+        "alts": [],
+        "form": "Présent"
+      },
+      {
+        "slot": "t|Présent|4",
+        "f": "tense",
+        "s": "Ils ___ leur nom sur la liste.",
+        "en": "They indicate their name on the list.",
+        "a": "indiquent",
+        "alts": [],
+        "form": "Présent"
+      },
+      {
+        "slot": "t|Passé composé|0",
+        "f": "tense",
+        "s": "J'___ le chemin le plus court à nos invités.",
+        "en": "I indicated the shortest route to our guests.",
+        "a": "ai indiqué",
+        "alts": [],
+        "form": "Passé composé"
+      },
+      {
+        "slot": "t|Passé composé|0",
+        "f": "tense",
+        "s": "Hier matin, j'___ mon numéro de téléphone sur la fiche.",
+        "en": "Yesterday morning, I indicated my phone number on the form.",
+        "a": "ai indiqué",
+        "alts": [],
+        "form": "Passé composé"
+      },
+      {
+        "slot": "t|Passé composé|1",
+        "f": "tense",
+        "s": "Tu ___ la bonne réponse sans hésiter.",
+        "en": "You indicated the correct answer without hesitating.",
+        "a": "as indiqué",
+        "alts": [],
+        "form": "Passé composé"
+      },
+      {
+        "slot": "t|Passé composé|1",
+        "f": "tense",
+        "s": "Tu nous ___ l'entrée du musée ce matin.",
+        "en": "You indicated the museum entrance to us this morning.",
+        "a": "as indiqué",
+        "alts": [],
+        "form": "Passé composé"
+      },
+      {
+        "slot": "t|Passé composé|2",
+        "f": "tense",
+        "s": "Le médecin ___ la posologie sur l'ordonnance.",
+        "en": "The doctor indicated the dosage on the prescription.",
+        "a": "a indiqué",
+        "alts": [],
+        "form": "Passé composé"
+      },
+      {
+        "slot": "t|Passé composé|2",
+        "f": "tense",
+        "s": "Elle ___ la date limite sur le tableau.",
+        "en": "She indicated the deadline on the board.",
+        "a": "a indiqué",
+        "alts": [],
+        "form": "Passé composé"
+      },
+      {
+        "slot": "t|Passé composé|3",
+        "f": "tense",
+        "s": "Nous ___ nos coordonnées dans le dossier.",
+        "en": "We indicated our contact details in the file.",
+        "a": "avons indiqué",
+        "alts": [],
+        "form": "Passé composé"
+      },
+      {
+        "slot": "t|Passé composé|3",
+        "f": "tense",
+        "s": "Nous leur ___ la sortie de secours lors de l'exercice.",
+        "en": "We indicated the emergency exit to them during the drill.",
+        "a": "avons indiqué",
+        "alts": [],
+        "form": "Passé composé"
+      },
+      {
+        "slot": "t|Passé composé|4",
+        "f": "tense",
+        "s": "Vous ___ votre disponibilité par écrit.",
+        "en": "You indicated your availability in writing.",
+        "a": "avez indiqué",
+        "alts": [],
+        "form": "Passé composé"
+      },
+      {
+        "slot": "t|Passé composé|4",
+        "f": "tense",
+        "s": "Vous ___ clairement les conditions du contrat.",
+        "en": "You clearly indicated the terms of the contract.",
+        "a": "avez indiqué",
+        "alts": [],
+        "form": "Passé composé"
+      },
+      {
+        "slot": "t|Passé composé|5",
+        "f": "tense",
+        "s": "Les témoins ___ l'endroit exact de l'accident.",
+        "en": "The witnesses indicated the exact location of the accident.",
+        "a": "ont indiqué",
+        "alts": [],
+        "form": "Passé composé"
+      },
+      {
+        "slot": "t|Passé composé|5",
+        "f": "tense",
+        "s": "Elles ___ leurs noms sur le registre.",
+        "en": "They indicated their names on the register.",
+        "a": "ont indiqué",
+        "alts": [],
+        "form": "Passé composé"
+      },
+      {
+        "slot": "t|Imparfait|0",
+        "f": "tense",
+        "s": "Quand j'étais guide, j'___ toujours le chemin aux touristes.",
+        "en": "When I was a guide, I always indicated the way to tourists.",
+        "a": "indiquais",
+        "alts": [],
+        "form": "Imparfait"
+      },
+      {
+        "slot": "t|Imparfait|0",
+        "f": "tense",
+        "s": "Tu ___ ton adresse sans problème avant le déménagement.",
+        "en": "You used to indicate your address without any problem before the move.",
+        "a": "indiquais",
+        "alts": [],
+        "form": "Imparfait"
+      },
+      {
+        "slot": "t|Imparfait|1",
+        "f": "tense",
+        "s": "La boussole ___ toujours le nord dans cette région.",
+        "en": "The compass always indicated north in that region.",
+        "a": "indiquait",
+        "alts": [],
+        "form": "Imparfait"
+      },
+      {
+        "slot": "t|Imparfait|1",
+        "f": "tense",
+        "s": "Le panneau ___ la vitesse maximale autorisée.",
+        "en": "The sign indicated the maximum allowed speed.",
+        "a": "indiquait",
+        "alts": [],
+        "form": "Imparfait"
+      },
+      {
+        "slot": "t|Imparfait|2",
+        "f": "tense",
+        "s": "Chaque semaine, nous ___ les résultats sur le tableau de bord.",
+        "en": "Each week, we indicated the results on the dashboard.",
+        "a": "indiquions",
+        "alts": [],
+        "form": "Imparfait"
+      },
+      {
+        "slot": "t|Imparfait|2",
+        "f": "tense",
+        "s": "Nous ___ toujours nos sources dans les rapports.",
+        "en": "We always indicated our sources in the reports.",
+        "a": "indiquions",
+        "alts": [],
+        "form": "Imparfait"
+      },
+      {
+        "slot": "t|Imparfait|3",
+        "f": "tense",
+        "s": "Vous ___ souvent la marche à suivre aux nouveaux employés.",
+        "en": "You often indicated the procedure to the new employees.",
+        "a": "indiquiez",
+        "alts": [],
+        "form": "Imparfait"
+      },
+      {
+        "slot": "t|Imparfait|3",
+        "f": "tense",
+        "s": "Vous ___ l'heure de départ à chaque réunion.",
+        "en": "You indicated the departure time at each meeting.",
+        "a": "indiquiez",
+        "alts": [],
+        "form": "Imparfait"
+      },
+      {
+        "slot": "t|Imparfait|4",
+        "f": "tense",
+        "s": "Les panneaux ___ la direction du centre-ville.",
+        "en": "The signs indicated the direction to the city center.",
+        "a": "indiquaient",
+        "alts": [],
+        "form": "Imparfait"
+      },
+      {
+        "slot": "t|Imparfait|4",
+        "f": "tense",
+        "s": "Ils ___ toujours leurs coordonnées au bas des lettres.",
+        "en": "They always indicated their contact details at the bottom of letters.",
+        "a": "indiquaient",
+        "alts": [],
+        "form": "Imparfait"
+      },
+      {
+        "slot": "t|Futur|0",
+        "f": "tense",
+        "s": "J'___ le lieu de rendez-vous dès que possible.",
+        "en": "I will indicate the meeting place as soon as possible.",
+        "a": "indiquerai",
+        "alts": [],
+        "form": "Futur"
+      },
+      {
+        "slot": "t|Futur|0",
+        "f": "tense",
+        "s": "J'___ mon choix sur le formulaire demain.",
+        "en": "I will indicate my choice on the form tomorrow.",
+        "a": "indiquerai",
+        "alts": [],
+        "form": "Futur"
+      },
+      {
+        "slot": "t|Futur|1",
+        "f": "tense",
+        "s": "Tu ___ la bonne voie à tes coéquipiers.",
+        "en": "You will indicate the right path to your teammates.",
+        "a": "indiqueras",
+        "alts": [],
+        "form": "Futur"
+      },
+      {
+        "slot": "t|Futur|1",
+        "f": "tense",
+        "s": "Tu ___ ton numéro de passeport à l'aéroport.",
+        "en": "You will indicate your passport number at the airport.",
+        "a": "indiqueras",
+        "alts": [],
+        "form": "Futur"
+      },
+      {
+        "slot": "t|Futur|2",
+        "f": "tense",
+        "s": "Le guide ___ les monuments à visiter en priorité.",
+        "en": "The guide will indicate the monuments to visit first.",
+        "a": "indiquera",
+        "alts": [],
+        "form": "Futur"
+      },
+      {
+        "slot": "t|Futur|2",
+        "f": "tense",
+        "s": "Elle ___ la date de livraison dans son courriel.",
+        "en": "She will indicate the delivery date in her email.",
+        "a": "indiquera",
+        "alts": [],
+        "form": "Futur"
+      },
+      {
+        "slot": "t|Futur|3",
+        "f": "tense",
+        "s": "Nous ___ nos disponibilités à l'avance.",
+        "en": "We will indicate our availability in advance.",
+        "a": "indiquerons",
+        "alts": [],
+        "form": "Futur"
+      },
+      {
+        "slot": "t|Futur|3",
+        "f": "tense",
+        "s": "Nous ___ le montant total sur la facture.",
+        "en": "We will indicate the total amount on the invoice.",
+        "a": "indiquerons",
+        "alts": [],
+        "form": "Futur"
+      },
+      {
+        "slot": "t|Futur|4",
+        "f": "tense",
+        "s": "Vous ___ le code d'accès à l'entrée.",
+        "en": "You will indicate the access code at the entrance.",
+        "a": "indiquerez",
+        "alts": [],
+        "form": "Futur"
+      },
+      {
+        "slot": "t|Futur|4",
+        "f": "tense",
+        "s": "Vous ___ vos coordonnées bancaires lors de l'inscription.",
+        "en": "You will indicate your banking details during registration.",
+        "a": "indiquerez",
+        "alts": [],
+        "form": "Futur"
+      },
+      {
+        "slot": "t|Futur|5",
+        "f": "tense",
+        "s": "Les résultats ___ si l'expérience a réussi.",
+        "en": "The results will indicate whether the experiment succeeded.",
+        "a": "indiqueront",
+        "alts": [],
+        "form": "Futur"
+      },
+      {
+        "slot": "t|Futur|5",
+        "f": "tense",
+        "s": "Ils ___ la direction à suivre sur le plan.",
+        "en": "They will indicate the direction to follow on the map.",
+        "a": "indiqueront",
+        "alts": [],
+        "form": "Futur"
+      },
+      {
+        "slot": "t|Conditionnel|0",
+        "f": "tense",
+        "s": "Si tu me le demandais, je t'___ le chemin.",
+        "en": "If you asked me, I would indicate the way to you.",
+        "a": "indiquerais",
+        "alts": [],
+        "form": "Conditionnel"
+      },
+      {
+        "slot": "t|Conditionnel|0",
+        "f": "tense",
+        "s": "Tu ___ tes préférences si tu remplissais le sondage.",
+        "en": "You would indicate your preferences if you filled out the survey.",
+        "a": "indiquerais",
+        "alts": [],
+        "form": "Conditionnel"
+      },
+      {
+        "slot": "t|Conditionnel|1",
+        "f": "tense",
+        "s": "Le médecin ___ la dose exacte si le patient le lui demandait.",
+        "en": "The doctor would indicate the exact dose if the patient asked him.",
+        "a": "indiquerait",
+        "alts": [],
+        "form": "Conditionnel"
+      },
+      {
+        "slot": "t|Conditionnel|1",
+        "f": "tense",
+        "s": "Elle ___ la sortie si elle connaissait les lieux.",
+        "en": "She would indicate the exit if she knew the place.",
+        "a": "indiquerait",
+        "alts": [],
+        "form": "Conditionnel"
+      },
+      {
+        "slot": "t|Conditionnel|2",
+        "f": "tense",
+        "s": "Nous ___ notre position si nous avions un GPS.",
+        "en": "We would indicate our position if we had a GPS.",
+        "a": "indiquerions",
+        "alts": [],
+        "form": "Conditionnel"
+      },
+      {
+        "slot": "t|Conditionnel|2",
+        "f": "tense",
+        "s": "Nous ___ les étapes à suivre si on nous le demandait.",
+        "en": "We would indicate the steps to follow if we were asked.",
+        "a": "indiquerions",
+        "alts": [],
+        "form": "Conditionnel"
+      },
+      {
+        "slot": "t|Conditionnel|3",
+        "f": "tense",
+        "s": "Vous ___ votre accord en signant le document.",
+        "en": "You would indicate your agreement by signing the document.",
+        "a": "indiqueriez",
+        "alts": [],
+        "form": "Conditionnel"
+      },
+      {
+        "slot": "t|Conditionnel|3",
+        "f": "tense",
+        "s": "Vous ___ les détails si vous aviez plus d'informations.",
+        "en": "You would indicate the details if you had more information.",
+        "a": "indiqueriez",
+        "alts": [],
+        "form": "Conditionnel"
+      },
+      {
+        "slot": "t|Conditionnel|4",
+        "f": "tense",
+        "s": "Les panneaux ___ mieux le chemin si on les réparait.",
+        "en": "The signs would indicate the way better if they were repaired.",
+        "a": "indiqueraient",
+        "alts": [],
+        "form": "Conditionnel"
+      },
+      {
+        "slot": "t|Conditionnel|4",
+        "f": "tense",
+        "s": "Ils ___ leurs sources si on les en priait.",
+        "en": "They would indicate their sources if asked to do so.",
+        "a": "indiqueraient",
+        "alts": [],
+        "form": "Conditionnel"
+      },
+      {
+        "slot": "t|Subjonctif",
+        "f": "subj",
+        "s": "Il faut que tu ___ clairement ton adresse sur le formulaire.",
+        "en": "You must clearly indicate your address on the form.",
+        "a": "indiques",
+        "alts": [],
+        "form": "Subjonctif présent"
+      },
+      {
+        "slot": "t|Subjonctif",
+        "f": "subj",
+        "s": "Je veux qu'elle ___ la direction de la salle de réunion.",
+        "en": "I want her to indicate the direction of the meeting room.",
+        "a": "indique",
+        "alts": [],
+        "form": "Subjonctif présent"
+      },
+      {
+        "slot": "s|0",
+        "f": "sense",
+        "s": "Le policier ___ la route à suivre aux conducteurs.",
+        "en": "The police officer indicates the route to follow to the drivers.",
+        "a": "indique",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "s|0",
+        "f": "sense",
+        "s": "La flèche ___ la sortie du bâtiment.",
+        "en": "The arrow indicates the exit of the building.",
+        "a": "indique",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "s|1",
+        "f": "sense",
+        "s": "Cette hausse des prix ___ que l'économie est en difficulté.",
+        "en": "This price rise indicates that the economy is struggling.",
+        "a": "indique",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "s|1",
+        "f": "sense",
+        "s": "Ses résultats ___ qu'il a fait de grands progrès.",
+        "en": "His results indicate that he has made great progress.",
+        "a": "indiquent",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "s|2",
+        "f": "sense",
+        "s": "Le professeur ___ une faute dans ma rédaction.",
+        "en": "The teacher points out a mistake in my essay.",
+        "a": "indique",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "s|2",
+        "f": "sense",
+        "s": "Elle m'a ___ les points à améliorer dans mon travail.",
+        "en": "She pointed out the points to improve in my work.",
+        "a": "indiqué",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "s|3",
+        "f": "sense",
+        "s": "Pouvez-vous m'___ un bon restaurant dans le quartier ?",
+        "en": "Can you recommend a good restaurant in the neighborhood?",
+        "a": "indiquer",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "s|3",
+        "f": "sense",
+        "s": "Mon collègue m'a ___ un excellent mécanicien.",
+        "en": "My colleague recommended an excellent mechanic to me.",
+        "a": "indiqué",
+        "alts": [],
+        "form": ""
+      }
+    ]
+  }
+]

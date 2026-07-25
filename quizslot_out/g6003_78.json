@@ -1,0 +1,137 @@
+[
+  {
+    "id": 5830,
+    "qs": [
+      {
+        "slot": "s|0",
+        "f": "sense",
+        "s": "Le sommelier a retiré le ___ avant de servir le vin.",
+        "en": "The sommelier removed the cork before serving the wine.",
+        "a": "bouchon",
+        "alts": []
+      },
+      {
+        "slot": "s|0",
+        "f": "sense",
+        "s": "Elle a remis le ___ sur la bouteille de parfum pour éviter qu'il ne s'évapore.",
+        "en": "She put the stopper back on the perfume bottle to keep it from evaporating.",
+        "a": "bouchon",
+        "alts": []
+      },
+      {
+        "slot": "s|1",
+        "f": "sense",
+        "s": "Il y a un ___ terrible sur l'autoroute A6 ce matin.",
+        "en": "There is a terrible traffic jam on the A6 highway this morning.",
+        "a": "bouchon",
+        "alts": ["embouteillage"]
+      },
+      {
+        "slot": "s|1",
+        "f": "sense",
+        "s": "À cause d'un ___, nous sommes arrivés une heure en retard à la réunion.",
+        "en": "Because of a traffic jam, we arrived an hour late to the meeting.",
+        "a": "bouchon",
+        "alts": ["embouteillage"]
+      },
+      {
+        "slot": "gender",
+        "f": "gender",
+        "s": "___ bouchon de la bouteille est tombé par terre.",
+        "en": "The cork of the bottle fell on the floor.",
+        "a": "Le",
+        "alts": []
+      },
+      {
+        "slot": "gender",
+        "f": "gender",
+        "s": "Peux-tu m'acheter ___ bouchon en liège pour cette carafe ?",
+        "en": "Can you buy me a cork stopper for this carafe?",
+        "a": "un",
+        "alts": []
+      }
+    ]
+  },
+  {
+    "id": 5831,
+    "qs": [
+      {
+        "slot": "s|0",
+        "f": "sense",
+        "s": "L'___ est une période de transition entre l'enfance et l'âge adulte.",
+        "en": "Adolescence is a transitional period between childhood and adulthood.",
+        "a": "adolescence",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "s|0",
+        "f": "sense",
+        "s": "Pendant son ___, elle a beaucoup voyagé avec sa famille.",
+        "en": "During her adolescence, she traveled a lot with her family.",
+        "a": "adolescence",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "gender",
+        "f": "gender",
+        "s": "Il a connu ___ adolescence difficile, marquée par de nombreux conflits familiaux.",
+        "en": "He had a difficult adolescence, marked by many family conflicts.",
+        "a": "une",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "gender",
+        "f": "gender",
+        "s": "On dit souvent que ___ adolescence est une période de grands changements physiques et psychologiques.",
+        "en": "It is often said that adolescence is a period of great physical and psychological changes.",
+        "a": "l'",
+        "alts": [],
+        "form": ""
+      }
+    ]
+  },
+  {
+    "id": 5832,
+    "qs": [
+      {
+        "slot": "s|0",
+        "f": "sense",
+        "s": "Après le marathon, son tee-shirt était trempé de ___.",
+        "en": "After the marathon, his T-shirt was soaked with sweat.",
+        "a": "sueur",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "s|0",
+        "f": "sense",
+        "s": "La chaleur était si forte que des gouttes de ___ perlaient sur son front.",
+        "en": "The heat was so intense that drops of sweat were beading on his forehead.",
+        "a": "sueur",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "gender",
+        "f": "gender",
+        "s": "Après l'effort, il sentait ___ sueur couler le long de son dos.",
+        "en": "After the effort, he felt the sweat running down his back.",
+        "a": "la",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "gender",
+        "f": "gender",
+        "s": "Après cet exercice intense, il y avait ___ sueur sur tout son corps.",
+        "en": "After that intense exercise, there was sweat all over his body.",
+        "a": "de la",
+        "alts": [],
+        "form": ""
+      }
+    ]
+  }
+]

@@ -1,0 +1,173 @@
+[
+  {
+    "id": 5755,
+    "qs": [
+      {
+        "slot": "s|0",
+        "f": "sense",
+        "s": "Son cousin, un homme ___, vient d'ouvrir un restaurant.",
+        "en": "His cousin, a man in his thirties, has just opened a restaurant.",
+        "a": "trentenaire",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "s|0",
+        "f": "sense",
+        "s": "Il a rencontré sa femme quand il était encore ___.",
+        "en": "He met his wife when he was still in his thirties.",
+        "a": "trentenaire",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "g|mp",
+        "f": "agree",
+        "s": "Dans ce quartier, on croise surtout des hommes ___ qui travaillent en freelance.",
+        "en": "In this neighborhood, you mostly see men in their thirties working freelance.",
+        "a": "trentenaires",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "g|mp",
+        "f": "agree",
+        "s": "Ces acteurs ___ commencent à décrocher des rôles principaux.",
+        "en": "These actors in their thirties are starting to land leading roles.",
+        "a": "trentenaires",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "g|f",
+        "f": "agree",
+        "s": "Ma sœur est une femme ___ qui vient de créer sa propre entreprise.",
+        "en": "My sister is a woman in her thirties who has just started her own business.",
+        "a": "trentenaire",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "g|f",
+        "f": "agree",
+        "s": "Cette chanteuse ___ prépare son troisième album.",
+        "en": "This singer in her thirties is preparing her third album.",
+        "a": "trentenaire",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "g|fp",
+        "f": "agree",
+        "s": "Beaucoup de femmes ___ choisissent de reprendre leurs études.",
+        "en": "Many women in their thirties choose to go back to school.",
+        "a": "trentenaires",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "g|fp",
+        "f": "agree",
+        "s": "Ces athlètes ___ dominent encore la compétition.",
+        "en": "These female athletes in their thirties still dominate the competition.",
+        "a": "trentenaires",
+        "alts": [],
+        "form": ""
+      }
+    ]
+  },
+  {
+    "id": 5756,
+    "qs": [
+      {
+        "slot": "s|0",
+        "f": "sense",
+        "s": "Il a rendez-vous chez son ___ pour renouveler son ordonnance d'antidépresseurs.",
+        "en": "He has an appointment with his psychiatrist to renew his antidepressant prescription.",
+        "a": "psychiatre",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "s|0",
+        "f": "sense",
+        "s": "Le ___ lui a prescrit un traitement contre l'anxiété.",
+        "en": "The psychiatrist prescribed him a treatment for anxiety.",
+        "a": "psychiatre",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "gender",
+        "f": "gender",
+        "s": "___ psychiatre, fatigué après une longue journée, a reçu son dernier patient.",
+        "en": "The psychiatrist, tired after a long day, saw his last patient.",
+        "a": "Le",
+        "alts": ["le"],
+        "form": ""
+      },
+      {
+        "slot": "gender",
+        "f": "gender",
+        "s": "Mon oncle est ___ psychiatre reconnu dans la région.",
+        "en": "My uncle is a renowned psychiatrist in the region.",
+        "a": "un",
+        "alts": [],
+        "form": ""
+      }
+    ]
+  },
+  {
+    "id": 5757,
+    "qs": [
+      {
+        "slot": "s|0",
+        "f": "sense",
+        "s": "Il a laissé sa montre en ___ pour obtenir un prêt.",
+        "a": "gage",
+        "en": "He left his watch as a pledge to get a loan.",
+        "alts": []
+      },
+      {
+        "slot": "s|0",
+        "f": "sense",
+        "s": "Cette bague est un ___ de mon amour pour toi.",
+        "a": "gage",
+        "en": "This ring is a token of my love for you.",
+        "alts": []
+      },
+      {
+        "slot": "s|1",
+        "f": "sense",
+        "s": "Dans ce jeu, celui qui perd doit exécuter un ___ devant tout le monde.",
+        "a": "gage",
+        "en": "In this game, whoever loses must perform a forfeit in front of everyone.",
+        "alts": []
+      },
+      {
+        "slot": "s|1",
+        "f": "sense",
+        "s": "Pour avoir perdu au jeu, il a dû payer un ___ : imiter un canard.",
+        "a": "gage",
+        "en": "For losing the game, he had to pay a forfeit: imitate a duck.",
+        "alts": []
+      },
+      {
+        "slot": "gender",
+        "f": "gender",
+        "s": "Le prêteur exigeait ___ gage avant d'accorder le prêt.",
+        "a": "un",
+        "en": "The lender required a deposit before granting the loan.",
+        "alts": []
+      },
+      {
+        "slot": "gender",
+        "f": "gender",
+        "s": "Il a repris ___ gage qu'il avait laissé à la banque.",
+        "a": "le",
+        "en": "He took back the pledge he had left at the bank.",
+        "alts": []
+      }
+    ]
+  }
+]

@@ -1,0 +1,133 @@
+[
+  {
+    "id": 5043,
+    "qs": [
+      {
+        "slot": "s|0",
+        "f": "sense",
+        "s": "Mon cousin est ___ dans une entreprise de logiciels à Paris.",
+        "a": "informaticien",
+        "en": "My cousin is a computer scientist at a software company in Paris.",
+        "alts": []
+      },
+      {
+        "slot": "s|0",
+        "f": "sense",
+        "s": "Il a suivi une formation pour devenir ___ spécialisé en cybersécurité.",
+        "a": "informaticien",
+        "en": "He took training to become an IT specialist specialized in cybersecurity.",
+        "alts": []
+      },
+      {
+        "slot": "gender",
+        "f": "gender",
+        "s": "Notre société recherche ___ informaticien expérimenté pour renforcer son équipe technique.",
+        "a": "un",
+        "en": "Our company is looking for an experienced computer scientist to strengthen its technical team.",
+        "alts": []
+      },
+      {
+        "slot": "gender",
+        "f": "gender",
+        "s": "___ informaticien de notre équipe a corrigé le bug avant la réunion.",
+        "a": "l'",
+        "en": "The computer scientist on our team fixed the bug before the meeting.",
+        "alts": []
+      }
+    ]
+  },
+  {
+    "id": 5044,
+    "qs": [
+      {
+        "slot": "s|0",
+        "f": "sense",
+        "s": "Les touristes visitent souvent la grande ___ de Gizeh en Égypte.",
+        "en": "Tourists often visit the great pyramid of Giza in Egypt.",
+        "a": "pyramide",
+        "alts": []
+      },
+      {
+        "slot": "s|0",
+        "f": "sense",
+        "s": "Cette ___ égyptienne a été construite il y a plus de quatre mille ans.",
+        "en": "This Egyptian pyramid was built more than four thousand years ago.",
+        "a": "pyramide",
+        "alts": []
+      },
+      {
+        "slot": "s|1",
+        "f": "sense",
+        "s": "En géométrie, une ___ a une base et des faces triangulaires qui se rejoignent au sommet.",
+        "en": "In geometry, a pyramid has a base and triangular faces that meet at the apex.",
+        "a": "pyramide",
+        "alts": []
+      },
+      {
+        "slot": "s|1",
+        "f": "sense",
+        "s": "Le professeur a demandé aux élèves de calculer le volume d'une ___ à base carrée.",
+        "en": "The teacher asked the students to calculate the volume of a pyramid with a square base.",
+        "a": "pyramide",
+        "alts": []
+      },
+      {
+        "slot": "gender",
+        "f": "gender",
+        "s": "Devant nous se dressait ___ pyramide immense, illuminée par le soleil couchant.",
+        "en": "Before us stood the immense pyramid, illuminated by the setting sun.",
+        "a": "la",
+        "alts": []
+      },
+      {
+        "slot": "gender",
+        "f": "gender",
+        "s": "Il a construit ___ pyramide miniature avec des cartes à jouer.",
+        "en": "He built a miniature pyramid with playing cards.",
+        "a": "une",
+        "alts": []
+      }
+    ]
+  },
+  {
+    "id": 5045,
+    "qs": [
+      {
+        "slot": "s|0",
+        "f": "sense",
+        "s": "Le week-end, il joue au ___ avec ses copains.",
+        "a": "foot",
+        "en": "On weekends, he plays soccer with his friends.",
+        "alts": ["football"],
+        "form": ""
+      },
+      {
+        "slot": "s|0",
+        "f": "sense",
+        "s": "Elle adore regarder un match de ___ à la télévision.",
+        "a": "foot",
+        "en": "She loves watching a soccer match on TV.",
+        "alts": ["football"],
+        "form": ""
+      },
+      {
+        "slot": "gender",
+        "f": "gender",
+        "s": "___ foot est un sport très populaire en France.",
+        "a": "Le",
+        "en": "Soccer is a very popular sport in France.",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "gender",
+        "f": "gender",
+        "s": "Après l'école, les enfants font ___ foot dans la cour.",
+        "a": "du",
+        "en": "After school, the kids play soccer in the yard.",
+        "alts": [],
+        "form": ""
+      }
+    ]
+  }
+]

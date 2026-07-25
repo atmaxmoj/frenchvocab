@@ -1,0 +1,701 @@
+[
+  {
+    "id": 119,
+    "qs": [
+      {
+        "slot": "s|0",
+        "f": "sense",
+        "s": "___ il pleut, je reste à la maison.",
+        "en": "When it rains, I stay at home.",
+        "a": "quand",
+        "alts": ["lorsque"],
+        "form": ""
+      },
+      {
+        "slot": "s|0",
+        "f": "sense",
+        "s": "Elle était très heureuse ___ elle était enfant.",
+        "en": "She was very happy when she was a child.",
+        "a": "quand",
+        "alts": ["lorsque"],
+        "form": ""
+      },
+      {
+        "slot": "s|1",
+        "f": "sense",
+        "s": "___ est-ce que tu rentres ce soir ?",
+        "en": "When are you coming home tonight?",
+        "a": "quand",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "s|1",
+        "f": "sense",
+        "s": "Je ne sais pas ___ il va arriver.",
+        "en": "I don't know when he will arrive.",
+        "a": "quand",
+        "alts": [],
+        "form": ""
+      }
+    ]
+  },
+  {
+    "id": 120,
+    "qs": [
+      {
+        "slot": "t|Présent|0",
+        "f": "tense",
+        "s": "Je ___ le même chemin que toi chaque matin.",
+        "en": "I follow the same path as you every morning.",
+        "a": "suis",
+        "alts": [],
+        "form": "Présent"
+      },
+      {
+        "slot": "t|Présent|0",
+        "f": "tense",
+        "s": "Tu ___ des cours de français en ligne cette année.",
+        "en": "You are taking French classes online this year.",
+        "a": "suis",
+        "alts": [],
+        "form": "Présent"
+      },
+      {
+        "slot": "t|Présent|1",
+        "f": "tense",
+        "s": "Le chien ___ son maître partout dans le jardin.",
+        "en": "The dog follows its owner everywhere in the garden.",
+        "a": "suit",
+        "alts": [],
+        "form": "Présent"
+      },
+      {
+        "slot": "t|Présent|1",
+        "f": "tense",
+        "s": "Elle ___ un régime strict depuis le début du mois.",
+        "en": "She is following a strict diet since the beginning of the month.",
+        "a": "suit",
+        "alts": [],
+        "form": "Présent"
+      },
+      {
+        "slot": "t|Présent|2",
+        "f": "tense",
+        "s": "Nous ___ les instructions données par le professeur.",
+        "en": "We follow the instructions given by the teacher.",
+        "a": "suivons",
+        "alts": [],
+        "form": "Présent"
+      },
+      {
+        "slot": "t|Présent|2",
+        "f": "tense",
+        "s": "Nous ___ le même itinéraire que l'année dernière.",
+        "en": "We are following the same itinerary as last year.",
+        "a": "suivons",
+        "alts": [],
+        "form": "Présent"
+      },
+      {
+        "slot": "t|Présent|3",
+        "f": "tense",
+        "s": "Vous ___ les nouvelles locales chaque soir à la radio.",
+        "en": "You follow the local news every evening on the radio.",
+        "a": "suivez",
+        "alts": [],
+        "form": "Présent"
+      },
+      {
+        "slot": "t|Présent|3",
+        "f": "tense",
+        "s": "Vous ___ bien le cours, n'est-ce pas ?",
+        "en": "You are following the lesson well, aren't you?",
+        "a": "suivez",
+        "alts": [],
+        "form": "Présent"
+      },
+      {
+        "slot": "t|Présent|4",
+        "f": "tense",
+        "s": "Les élèves ___ le guide pendant la visite du musée.",
+        "en": "The students follow the guide during the museum visit.",
+        "a": "suivent",
+        "alts": [],
+        "form": "Présent"
+      },
+      {
+        "slot": "t|Présent|4",
+        "f": "tense",
+        "s": "Elles ___ des formations professionnelles chaque semaine.",
+        "en": "They are taking professional training courses every week.",
+        "a": "suivent",
+        "alts": [],
+        "form": "Présent"
+      },
+      {
+        "slot": "t|Passé composé|0",
+        "f": "tense",
+        "s": "Hier, j'___ le conseil de mon médecin et je me sens mieux.",
+        "en": "Yesterday, I followed my doctor's advice and I feel better.",
+        "a": "ai suivi",
+        "alts": [],
+        "form": "Passé composé"
+      },
+      {
+        "slot": "t|Passé composé|0",
+        "f": "tense",
+        "s": "J'___ un cours de cuisine pendant trois mois l'an passé.",
+        "en": "I took a cooking class for three months last year.",
+        "a": "ai suivi",
+        "alts": [],
+        "form": "Passé composé"
+      },
+      {
+        "slot": "t|Passé composé|1",
+        "f": "tense",
+        "s": "Tu ___ le mauvais chemin et tu t'es perdu en forêt.",
+        "en": "You followed the wrong path and got lost in the forest.",
+        "a": "as suivi",
+        "alts": [],
+        "form": "Passé composé"
+      },
+      {
+        "slot": "t|Passé composé|1",
+        "f": "tense",
+        "s": "Tu ___ toutes les étapes de la procédure correctement cette fois ?",
+        "en": "Did you follow all the steps of the procedure correctly this time?",
+        "a": "as suivi",
+        "alts": [],
+        "form": "Passé composé"
+      },
+      {
+        "slot": "t|Passé composé|2",
+        "f": "tense",
+        "s": "Mon père ___ un traitement médical pendant six mois.",
+        "en": "My father followed a medical treatment for six months.",
+        "a": "a suivi",
+        "alts": [],
+        "form": "Passé composé"
+      },
+      {
+        "slot": "t|Passé composé|2",
+        "f": "tense",
+        "s": "Le suspect ___ la victime jusqu'à sa voiture.",
+        "en": "The suspect followed the victim to her car.",
+        "a": "a suivi",
+        "alts": [],
+        "form": "Passé composé"
+      },
+      {
+        "slot": "t|Passé composé|3",
+        "f": "tense",
+        "s": "Nous ___ les débats politiques avec beaucoup d'intérêt.",
+        "en": "We followed the political debates with great interest.",
+        "a": "avons suivi",
+        "alts": [],
+        "form": "Passé composé"
+      },
+      {
+        "slot": "t|Passé composé|3",
+        "f": "tense",
+        "s": "Nous ___ le même programme de sport pendant toute la saison.",
+        "en": "We followed the same sports programme throughout the season.",
+        "a": "avons suivi",
+        "alts": [],
+        "form": "Passé composé"
+      },
+      {
+        "slot": "t|Passé composé|4",
+        "f": "tense",
+        "s": "Vous ___ la formation obligatoire la semaine dernière.",
+        "en": "You followed the mandatory training last week.",
+        "a": "avez suivi",
+        "alts": [],
+        "form": "Passé composé"
+      },
+      {
+        "slot": "t|Passé composé|4",
+        "f": "tense",
+        "s": "Vous ___ les directives envoyées par le directeur sans problème.",
+        "en": "You followed the directives sent by the director without any problem.",
+        "a": "avez suivi",
+        "alts": [],
+        "form": "Passé composé"
+      },
+      {
+        "slot": "t|Passé composé|5",
+        "f": "tense",
+        "s": "Les journalistes ___ l'affaire de près pendant plusieurs semaines.",
+        "en": "The journalists followed the case closely for several weeks.",
+        "a": "ont suivi",
+        "alts": [],
+        "form": "Passé composé"
+      },
+      {
+        "slot": "t|Passé composé|5",
+        "f": "tense",
+        "s": "Ils ___ les ordres sans poser de questions.",
+        "en": "They followed the orders without asking any questions.",
+        "a": "ont suivi",
+        "alts": [],
+        "form": "Passé composé"
+      },
+      {
+        "slot": "t|Imparfait|0",
+        "f": "tense",
+        "s": "Quand j'étais enfant, je ___ mon grand-père partout au marché.",
+        "en": "When I was a child, I used to follow my grandfather everywhere at the market.",
+        "a": "suivais",
+        "alts": [],
+        "form": "Imparfait"
+      },
+      {
+        "slot": "t|Imparfait|0",
+        "f": "tense",
+        "s": "Tu ___ toujours les conseils de ta mère sans discuter.",
+        "en": "You always used to follow your mother's advice without arguing.",
+        "a": "suivais",
+        "alts": [],
+        "form": "Imparfait"
+      },
+      {
+        "slot": "t|Imparfait|1",
+        "f": "tense",
+        "s": "Le chat ___ chaque mouvement de la souris avec attention.",
+        "en": "The cat was following every movement of the mouse attentively.",
+        "a": "suivait",
+        "alts": [],
+        "form": "Imparfait"
+      },
+      {
+        "slot": "t|Imparfait|1",
+        "f": "tense",
+        "s": "Il ___ un cours du soir pour apprendre la comptabilité.",
+        "en": "He was taking an evening class to learn accounting.",
+        "a": "suivait",
+        "alts": [],
+        "form": "Imparfait"
+      },
+      {
+        "slot": "t|Imparfait|2",
+        "f": "tense",
+        "s": "Nous ___ l'actualité internationale avec beaucoup d'inquiétude.",
+        "en": "We were following the international news with great concern.",
+        "a": "suivions",
+        "alts": [],
+        "form": "Imparfait"
+      },
+      {
+        "slot": "t|Imparfait|2",
+        "f": "tense",
+        "s": "Nous ___ la même route que d'habitude pour rentrer chez nous.",
+        "en": "We used to take the same route as usual to go home.",
+        "a": "suivions",
+        "alts": [],
+        "form": "Imparfait"
+      },
+      {
+        "slot": "t|Imparfait|3",
+        "f": "tense",
+        "s": "Vous ___ attentivement les explications du conférencier.",
+        "en": "You were attentively following the speaker's explanations.",
+        "a": "suiviez",
+        "alts": [],
+        "form": "Imparfait"
+      },
+      {
+        "slot": "t|Imparfait|3",
+        "f": "tense",
+        "s": "Vous ___ un régime alimentaire très strict à l'époque.",
+        "en": "You were following a very strict diet at that time.",
+        "a": "suiviez",
+        "alts": [],
+        "form": "Imparfait"
+      },
+      {
+        "slot": "t|Imparfait|4",
+        "f": "tense",
+        "s": "Les étudiants ___ les cours magistraux sans trop y comprendre.",
+        "en": "The students were attending the lectures without understanding much.",
+        "a": "suivaient",
+        "alts": [],
+        "form": "Imparfait"
+      },
+      {
+        "slot": "t|Imparfait|4",
+        "f": "tense",
+        "s": "Elles ___ le guide touristique d'un pas rapide.",
+        "en": "They were following the tour guide at a quick pace.",
+        "a": "suivaient",
+        "alts": [],
+        "form": "Imparfait"
+      },
+      {
+        "slot": "t|Futur|0",
+        "f": "tense",
+        "s": "Demain, je ___ la procédure indiquée dans le manuel.",
+        "en": "Tomorrow, I will follow the procedure indicated in the manual.",
+        "a": "suivrai",
+        "alts": [],
+        "form": "Futur"
+      },
+      {
+        "slot": "t|Futur|0",
+        "f": "tense",
+        "s": "L'année prochaine, je ___ une formation en informatique.",
+        "en": "Next year, I will take a computer science training course.",
+        "a": "suivrai",
+        "alts": [],
+        "form": "Futur"
+      },
+      {
+        "slot": "t|Futur|1",
+        "f": "tense",
+        "s": "Tu ___ les indications du GPS pour ne pas te perdre.",
+        "en": "You will follow the GPS directions so as not to get lost.",
+        "a": "suivras",
+        "alts": [],
+        "form": "Futur"
+      },
+      {
+        "slot": "t|Futur|1",
+        "f": "tense",
+        "s": "Si tu n'es pas sûr, tu ___ les conseils de l'expert.",
+        "en": "If you are not sure, you will follow the expert's advice.",
+        "a": "suivras",
+        "alts": [],
+        "form": "Futur"
+      },
+      {
+        "slot": "t|Futur|2",
+        "f": "tense",
+        "s": "Le nouveau stagiaire ___ une période d'adaptation d'un mois.",
+        "en": "The new intern will undergo a one-month adaptation period.",
+        "a": "suivra",
+        "alts": [],
+        "form": "Futur"
+      },
+      {
+        "slot": "t|Futur|2",
+        "f": "tense",
+        "s": "Elle ___ son mari dans cette nouvelle ville avec enthousiasme.",
+        "en": "She will follow her husband to this new city with enthusiasm.",
+        "a": "suivra",
+        "alts": [],
+        "form": "Futur"
+      },
+      {
+        "slot": "t|Futur|3",
+        "f": "tense",
+        "s": "Nous ___ l'évolution de la situation de près.",
+        "en": "We will follow the evolution of the situation closely.",
+        "a": "suivrons",
+        "alts": [],
+        "form": "Futur"
+      },
+      {
+        "slot": "t|Futur|3",
+        "f": "tense",
+        "s": "Nous ___ le même programme que nos collègues du bureau voisin.",
+        "en": "We will follow the same programme as our colleagues from the neighbouring office.",
+        "a": "suivrons",
+        "alts": [],
+        "form": "Futur"
+      },
+      {
+        "slot": "t|Futur|4",
+        "f": "tense",
+        "s": "Vous ___ une thérapie hebdomadaire à partir du mois prochain.",
+        "en": "You will attend weekly therapy starting next month.",
+        "a": "suivrez",
+        "alts": [],
+        "form": "Futur"
+      },
+      {
+        "slot": "t|Futur|4",
+        "f": "tense",
+        "s": "Vous ___ le groupe principal lors de la randonnée de samedi.",
+        "en": "You will follow the main group during Saturday's hike.",
+        "a": "suivrez",
+        "alts": [],
+        "form": "Futur"
+      },
+      {
+        "slot": "t|Futur|5",
+        "f": "tense",
+        "s": "Les reporters ___ l'athlète tout au long de la compétition.",
+        "en": "The reporters will follow the athlete throughout the competition.",
+        "a": "suivront",
+        "alts": [],
+        "form": "Futur"
+      },
+      {
+        "slot": "t|Futur|5",
+        "f": "tense",
+        "s": "Ils ___ les nouvelles règles de sécurité dès la semaine prochaine.",
+        "en": "They will follow the new safety rules from next week.",
+        "a": "suivront",
+        "alts": [],
+        "form": "Futur"
+      },
+      {
+        "slot": "t|Conditionnel|0",
+        "f": "tense",
+        "s": "À ta place, je ___ l'avis du spécialiste sans hésiter.",
+        "en": "In your position, I would follow the specialist's opinion without hesitation.",
+        "a": "suivrais",
+        "alts": [],
+        "form": "Conditionnel"
+      },
+      {
+        "slot": "t|Conditionnel|0",
+        "f": "tense",
+        "s": "Si tu avais plus de temps libre, tu ___ des cours de musique.",
+        "en": "If you had more free time, you would take music lessons.",
+        "a": "suivrais",
+        "alts": [],
+        "form": "Conditionnel"
+      },
+      {
+        "slot": "t|Conditionnel|1",
+        "f": "tense",
+        "s": "Il ___ un autre chemin s'il connaissait mieux la région.",
+        "en": "He would follow a different path if he knew the region better.",
+        "a": "suivrait",
+        "alts": [],
+        "form": "Conditionnel"
+      },
+      {
+        "slot": "t|Conditionnel|1",
+        "f": "tense",
+        "s": "La directrice ___ ces recommandations si elle avait les moyens nécessaires.",
+        "en": "The director would follow these recommendations if she had the necessary means.",
+        "a": "suivrait",
+        "alts": [],
+        "form": "Conditionnel"
+      },
+      {
+        "slot": "t|Conditionnel|2",
+        "f": "tense",
+        "s": "Nous ___ votre exemple si vous nous montriez la voie.",
+        "en": "We would follow your example if you showed us the way.",
+        "a": "suivrions",
+        "alts": [],
+        "form": "Conditionnel"
+      },
+      {
+        "slot": "t|Conditionnel|2",
+        "f": "tense",
+        "s": "Nous ___ les débats avec plus d'attention si le sujet nous intéressait.",
+        "en": "We would follow the debates more attentively if the topic interested us.",
+        "a": "suivrions",
+        "alts": [],
+        "form": "Conditionnel"
+      },
+      {
+        "slot": "t|Conditionnel|3",
+        "f": "tense",
+        "s": "Vous ___ les conseils du nutritionniste si vous vouliez vraiment maigrir.",
+        "en": "You would follow the nutritionist's advice if you really wanted to lose weight.",
+        "a": "suivriez",
+        "alts": [],
+        "form": "Conditionnel"
+      },
+      {
+        "slot": "t|Conditionnel|3",
+        "f": "tense",
+        "s": "Vous ___ un traitement plus efficace si le médecin vous le prescrivait.",
+        "en": "You would follow a more effective treatment if the doctor prescribed it.",
+        "a": "suivriez",
+        "alts": [],
+        "form": "Conditionnel"
+      },
+      {
+        "slot": "t|Conditionnel|4",
+        "f": "tense",
+        "s": "Ils ___ un entraînement intensif s'ils voulaient gagner le tournoi.",
+        "en": "They would follow an intensive training if they wanted to win the tournament.",
+        "a": "suivraient",
+        "alts": [],
+        "form": "Conditionnel"
+      },
+      {
+        "slot": "t|Conditionnel|4",
+        "f": "tense",
+        "s": "Les bénévoles ___ le guide plus facilement s'ils avaient une carte.",
+        "en": "The volunteers would follow the guide more easily if they had a map.",
+        "a": "suivraient",
+        "alts": [],
+        "form": "Conditionnel"
+      },
+      {
+        "slot": "t|Subjonctif",
+        "f": "subj",
+        "s": "Il faut que tu ___ les règles du jeu pour participer.",
+        "en": "You need to follow the rules of the game to participate.",
+        "a": "suives",
+        "alts": [],
+        "form": "Subjonctif"
+      },
+      {
+        "slot": "t|Subjonctif",
+        "f": "subj",
+        "s": "Je souhaite que vous ___ une formation avant de prendre ce poste.",
+        "en": "I wish that you would take a training course before taking this position.",
+        "a": "suiviez",
+        "alts": [],
+        "form": "Subjonctif"
+      },
+      {
+        "slot": "s|0",
+        "f": "sense",
+        "s": "Le petit garçon ___ sa sœur partout dans la maison.",
+        "en": "The little boy follows his sister everywhere in the house.",
+        "a": "suit",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "s|0",
+        "f": "sense",
+        "s": "Le chiot ___ sa maîtresse jusqu'à la porte du jardin.",
+        "en": "The puppy follows its owner to the garden gate.",
+        "a": "suit",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "s|1",
+        "f": "sense",
+        "s": "Pour réussir ce gâteau, il faut ___ la recette à la lettre.",
+        "en": "To make this cake successfully, one must follow the recipe to the letter.",
+        "a": "suivre",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "s|1",
+        "f": "sense",
+        "s": "L'entreprise ___ des normes environnementales très strictes.",
+        "en": "The company follows very strict environmental standards.",
+        "a": "suit",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "s|2",
+        "f": "sense",
+        "s": "Les enfants doivent ___ les instructions de leurs parents.",
+        "en": "Children must follow their parents' instructions.",
+        "a": "suivre",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "s|2",
+        "f": "sense",
+        "s": "Le soldat ___ les ordres de son supérieur sans discuter.",
+        "en": "The soldier follows his superior's orders without arguing.",
+        "a": "suit",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "s|3",
+        "f": "sense",
+        "s": "Je ___ de près l'évolution de cette startup depuis sa création.",
+        "en": "I have been closely following the development of this startup since its creation.",
+        "a": "suis",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "s|3",
+        "f": "sense",
+        "s": "Des milliers de fans ___ la carrière de cette chanteuse sur les réseaux sociaux.",
+        "en": "Thousands of fans follow this singer's career on social media.",
+        "a": "suivent",
+        "alts": [],
+        "form": ""
+      }
+    ]
+  },
+  {
+    "id": 121,
+    "qs": [
+      {
+        "slot": "s|0",
+        "f": "sense",
+        "s": "Marie est totalement ___ cette décision injuste.",
+        "en": "Marie is totally against this unfair decision.",
+        "a": "contre",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "s|0",
+        "f": "sense",
+        "s": "Les habitants ont voté ___ la construction de l'autoroute.",
+        "en": "The residents voted against the construction of the motorway.",
+        "a": "contre",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "s|1",
+        "f": "sense",
+        "s": "L'équipe de France joue ___ l'Espagne en finale ce soir.",
+        "en": "The French team plays against Spain in the final tonight.",
+        "a": "contre",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "s|1",
+        "f": "sense",
+        "s": "Le match ___ nos rivaux historiques aura lieu samedi prochain.",
+        "en": "The match against our historic rivals will take place next Saturday.",
+        "a": "contre",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "s|2",
+        "f": "sense",
+        "s": "Il a appuyé son dos ___ le mur pour se reposer un moment.",
+        "en": "He leaned his back against the wall to rest for a moment.",
+        "a": "contre",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "s|2",
+        "f": "sense",
+        "s": "Elle a posé son vélo ___ la clôture avant d'entrer dans la maison.",
+        "en": "She leaned her bike against the fence before entering the house.",
+        "a": "contre",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "gender",
+        "f": "gender",
+        "s": "Il a longuement exposé ___ contre de la réforme lors de la réunion.",
+        "en": "He explained at length the case against the reform during the meeting.",
+        "a": "le",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "gender",
+        "f": "gender",
+        "s": "Après avoir entendu ___ contre, j'ai finalement changé d'avis.",
+        "en": "After hearing the case against it, I finally changed my mind.",
+        "a": "le",
+        "alts": [],
+        "form": ""
+      }
+    ]
+  }
+]

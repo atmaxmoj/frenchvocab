@@ -1,0 +1,1181 @@
+[
+  {
+    "id": 1928,
+    "qs": [
+      {
+        "slot": "s|0",
+        "f": "sense",
+        "s": "— Tu viens ce soir ? — ___, bien sûr, j'arrive vers vingt heures !",
+        "a": "ouais",
+        "en": "— Are you coming tonight? — Yeah, of course, I'll be there around eight!",
+        "alts": ["oui"]
+      },
+      {
+        "slot": "s|0",
+        "f": "sense",
+        "s": "— T'as fini tes devoirs ? — ___, j'ai tout terminé il y a une heure.",
+        "a": "ouais",
+        "en": "— Did you finish your homework? — Yeah, I finished everything an hour ago.",
+        "alts": ["oui"]
+      },
+      {
+        "slot": "s|1",
+        "f": "sense",
+        "s": "— Tu m'écoutes ? — ___, vas-y, je t'entends.",
+        "a": "ouais",
+        "en": "— Are you listening to me? — Mm-hmm, go ahead, I can hear you.",
+        "alts": []
+      },
+      {
+        "slot": "s|1",
+        "f": "sense",
+        "s": "— C'était bien, le film ? — ___, c'était pas mal, mais un peu long.",
+        "a": "ouais",
+        "en": "— Was the film good? — Uh-huh, it was okay, but a bit long.",
+        "alts": []
+      },
+      {
+        "slot": "s|2",
+        "f": "sense",
+        "s": "— C'est bien toi qui as appelé ce matin ? — ___, c'était moi.",
+        "a": "ouais",
+        "en": "— Was it you who called this morning? — Yeah, that was me.",
+        "alts": ["oui"]
+      },
+      {
+        "slot": "s|2",
+        "f": "sense",
+        "s": "— La réunion est annulée, c'est ça ? — ___, le patron l'a confirmé tout à l'heure.",
+        "a": "ouais",
+        "en": "— The meeting is cancelled, right? — Right, the boss confirmed it just now.",
+        "alts": ["oui"]
+      }
+    ]
+  },
+  {
+    "id": 1929,
+    "qs": [
+      {
+        "slot": "t|Présent|0",
+        "f": "tense",
+        "s": "Je ___ mes bagages dans ma voiture chaque matin.",
+        "a": "transporte",
+        "en": "I transport my luggage in my car every morning.",
+        "alts": [],
+        "form": "Présent"
+      },
+      {
+        "slot": "t|Présent|0",
+        "f": "tense",
+        "s": "Ce camion ___ des marchandises entre les deux villes.",
+        "a": "transporte",
+        "en": "This truck transports goods between the two cities.",
+        "alts": [],
+        "form": "Présent"
+      },
+      {
+        "slot": "t|Présent|1",
+        "f": "tense",
+        "s": "Tu ___ ces cartons au grenier tout seul ?",
+        "a": "transportes",
+        "en": "You are carrying these boxes to the attic all by yourself?",
+        "alts": [],
+        "form": "Présent"
+      },
+      {
+        "slot": "t|Présent|1",
+        "f": "tense",
+        "s": "Est-ce que tu ___ des colis pour ton voisin aujourd'hui ?",
+        "a": "transportes",
+        "en": "Are you carrying parcels for your neighbour today?",
+        "alts": [],
+        "form": "Présent"
+      },
+      {
+        "slot": "t|Présent|2",
+        "f": "tense",
+        "s": "Nous ___ les meubles dans le nouveau bureau.",
+        "a": "transportons",
+        "en": "We are transporting the furniture to the new office.",
+        "alts": [],
+        "form": "Présent"
+      },
+      {
+        "slot": "t|Présent|2",
+        "f": "tense",
+        "s": "Chaque semaine, nous ___ des denrées alimentaires vers les villages isolés.",
+        "a": "transportons",
+        "en": "Every week, we transport food supplies to the isolated villages.",
+        "alts": [],
+        "form": "Présent"
+      },
+      {
+        "slot": "t|Présent|3",
+        "f": "tense",
+        "s": "Vous ___ trop de choses à la fois, faites attention !",
+        "a": "transportez",
+        "en": "You are carrying too many things at once, be careful!",
+        "alts": [],
+        "form": "Présent"
+      },
+      {
+        "slot": "t|Présent|3",
+        "f": "tense",
+        "s": "Est-ce que vous ___ ces équipements par camion ou par train ?",
+        "a": "transportez",
+        "en": "Do you transport this equipment by truck or by train?",
+        "alts": [],
+        "form": "Présent"
+      },
+      {
+        "slot": "t|Présent|4",
+        "f": "tense",
+        "s": "Ces bateaux ___ du pétrole à travers l'Atlantique.",
+        "a": "transportent",
+        "en": "These ships transport oil across the Atlantic.",
+        "alts": [],
+        "form": "Présent"
+      },
+      {
+        "slot": "t|Présent|4",
+        "f": "tense",
+        "s": "Les fourmis ___ des charges bien plus lourdes qu'elles.",
+        "a": "transportent",
+        "en": "Ants carry loads much heavier than themselves.",
+        "alts": [],
+        "form": "Présent"
+      },
+      {
+        "slot": "t|Passé composé|0",
+        "f": "tense",
+        "s": "Hier, j'___ toutes les boîtes au sous-sol en une seule fois.",
+        "a": "ai transporté",
+        "en": "Yesterday, I transported all the boxes to the basement in one go.",
+        "alts": [],
+        "form": "Passé composé"
+      },
+      {
+        "slot": "t|Passé composé|0",
+        "f": "tense",
+        "s": "J'___ les valises jusqu'à la gare ce matin.",
+        "a": "ai transporté",
+        "en": "I carried the suitcases all the way to the station this morning.",
+        "alts": [],
+        "form": "Passé composé"
+      },
+      {
+        "slot": "t|Passé composé|1",
+        "f": "tense",
+        "s": "Tu ___ ces caisses toi-même jusqu'au troisième étage ?",
+        "a": "as transporté",
+        "en": "Did you carry those crates yourself up to the third floor?",
+        "alts": [],
+        "form": "Passé composé"
+      },
+      {
+        "slot": "t|Passé composé|1",
+        "f": "tense",
+        "s": "Tu ___ les marchandises à temps pour la livraison ?",
+        "a": "as transporté",
+        "en": "Did you transport the goods in time for the delivery?",
+        "alts": [],
+        "form": "Passé composé"
+      },
+      {
+        "slot": "t|Passé composé|2",
+        "f": "tense",
+        "s": "L'ambulance ___ le blessé à l'hôpital le plus proche.",
+        "a": "a transporté",
+        "en": "The ambulance transported the injured person to the nearest hospital.",
+        "alts": [],
+        "form": "Passé composé"
+      },
+      {
+        "slot": "t|Passé composé|2",
+        "f": "tense",
+        "s": "On ___ tous les meubles dans la nouvelle maison en un week-end.",
+        "a": "a transporté",
+        "en": "They transported all the furniture to the new house in one weekend.",
+        "alts": [],
+        "form": "Passé composé"
+      },
+      {
+        "slot": "t|Passé composé|3",
+        "f": "tense",
+        "s": "Nous ___ les décors de la salle jusqu'au théâtre hier soir.",
+        "a": "avons transporté",
+        "en": "We transported the stage props to the theatre last night.",
+        "alts": [],
+        "form": "Passé composé"
+      },
+      {
+        "slot": "t|Passé composé|3",
+        "f": "tense",
+        "s": "Nous ___ des vivres aux sinistrés après la tempête.",
+        "a": "avons transporté",
+        "en": "We carried supplies to the disaster victims after the storm.",
+        "alts": [],
+        "form": "Passé composé"
+      },
+      {
+        "slot": "t|Passé composé|4",
+        "f": "tense",
+        "s": "Vous ___ ces documents importants par courrier exprès ?",
+        "a": "avez transporté",
+        "en": "Did you transport these important documents by express mail?",
+        "alts": [],
+        "form": "Passé composé"
+      },
+      {
+        "slot": "t|Passé composé|4",
+        "f": "tense",
+        "s": "Vous ___ toutes ces planches jusqu'au chantier ce matin ?",
+        "a": "avez transporté",
+        "en": "Did you carry all those planks to the construction site this morning?",
+        "alts": [],
+        "form": "Passé composé"
+      },
+      {
+        "slot": "t|Passé composé|5",
+        "f": "tense",
+        "s": "Les déménageurs ___ tous les cartons en moins d'une heure.",
+        "a": "ont transporté",
+        "en": "The movers transported all the boxes in less than an hour.",
+        "alts": [],
+        "form": "Passé composé"
+      },
+      {
+        "slot": "t|Passé composé|5",
+        "f": "tense",
+        "s": "Les trains ___ des milliers de réfugiés vers la frontière.",
+        "a": "ont transporté",
+        "en": "The trains transported thousands of refugees to the border.",
+        "alts": [],
+        "form": "Passé composé"
+      },
+      {
+        "slot": "t|Imparfait|0",
+        "f": "tense",
+        "s": "Quand j'étais enfant, je ___ toujours mon cartable à pied jusqu'à l'école.",
+        "a": "transportais",
+        "en": "When I was a child, I always carried my schoolbag on foot to school.",
+        "alts": [],
+        "form": "Imparfait"
+      },
+      {
+        "slot": "t|Imparfait|0",
+        "f": "tense",
+        "s": "Avant d'avoir une voiture, tu ___ tes courses en vélo.",
+        "a": "transportais",
+        "en": "Before you had a car, you used to carry your groceries by bike.",
+        "alts": [],
+        "form": "Imparfait"
+      },
+      {
+        "slot": "t|Imparfait|1",
+        "f": "tense",
+        "s": "Ce vieux camion ___ du bois de chauffage chaque hiver.",
+        "a": "transportait",
+        "en": "This old truck used to carry firewood every winter.",
+        "alts": [],
+        "form": "Imparfait"
+      },
+      {
+        "slot": "t|Imparfait|1",
+        "f": "tense",
+        "s": "Elle ___ ses enfants à l'école en voiture tous les matins.",
+        "a": "transportait",
+        "en": "She used to drive her children to school every morning.",
+        "alts": [],
+        "form": "Imparfait"
+      },
+      {
+        "slot": "t|Imparfait|2",
+        "f": "tense",
+        "s": "Nous ___ les légumes du jardin jusqu'au marché chaque samedi.",
+        "a": "transportions",
+        "en": "We used to carry the vegetables from the garden to the market every Saturday.",
+        "alts": [],
+        "form": "Imparfait"
+      },
+      {
+        "slot": "t|Imparfait|2",
+        "f": "tense",
+        "s": "À cette époque, nous ___ les matériaux à dos de mulet.",
+        "a": "transportions",
+        "en": "At that time, we used to transport the materials on mule back.",
+        "alts": [],
+        "form": "Imparfait"
+      },
+      {
+        "slot": "t|Imparfait|3",
+        "f": "tense",
+        "s": "Vous ___ vos outils dans cette grande caisse en bois, n'est-ce pas ?",
+        "a": "transportiez",
+        "en": "You used to carry your tools in that big wooden crate, didn't you?",
+        "alts": [],
+        "form": "Imparfait"
+      },
+      {
+        "slot": "t|Imparfait|3",
+        "f": "tense",
+        "s": "En ce temps-là, vous ___ les marchandises par voie fluviale.",
+        "a": "transportiez",
+        "en": "In those days, you used to transport the goods by waterway.",
+        "alts": [],
+        "form": "Imparfait"
+      },
+      {
+        "slot": "t|Imparfait|4",
+        "f": "tense",
+        "s": "Les commerçants ___ leurs produits à cheval dans les montagnes.",
+        "a": "transportaient",
+        "en": "The merchants used to carry their goods on horseback in the mountains.",
+        "alts": [],
+        "form": "Imparfait"
+      },
+      {
+        "slot": "t|Imparfait|4",
+        "f": "tense",
+        "s": "Les avions ___ du courrier entre les grandes villes dans les années 1930.",
+        "a": "transportaient",
+        "en": "Planes used to carry mail between major cities in the 1930s.",
+        "alts": [],
+        "form": "Imparfait"
+      },
+      {
+        "slot": "t|Futur|0",
+        "f": "tense",
+        "s": "Demain, je ___ les cartons au nouveau bureau toute la matinée.",
+        "a": "transporterai",
+        "en": "Tomorrow, I will transport the boxes to the new office all morning.",
+        "alts": [],
+        "form": "Futur"
+      },
+      {
+        "slot": "t|Futur|0",
+        "f": "tense",
+        "s": "Je ___ les affaires de ma grand-mère dans mon coffre de voiture.",
+        "a": "transporterai",
+        "en": "I will carry my grandmother's belongings in my car boot.",
+        "alts": [],
+        "form": "Futur"
+      },
+      {
+        "slot": "t|Futur|1",
+        "f": "tense",
+        "s": "Tu ___ les équipements sur place dès ton arrivée ?",
+        "a": "transporteras",
+        "en": "Will you transport the equipment on site as soon as you arrive?",
+        "alts": [],
+        "form": "Futur"
+      },
+      {
+        "slot": "t|Futur|1",
+        "f": "tense",
+        "s": "Si tu loues un camion, tu ___ tous ces meubles sans problème.",
+        "a": "transporteras",
+        "en": "If you rent a truck, you will transport all this furniture without any problem.",
+        "alts": [],
+        "form": "Futur"
+      },
+      {
+        "slot": "t|Futur|2",
+        "f": "tense",
+        "s": "Ce nouveau train à grande vitesse ___ des passagers entre Paris et Lyon en deux heures.",
+        "a": "transportera",
+        "en": "This new high-speed train will transport passengers between Paris and Lyon in two hours.",
+        "alts": [],
+        "form": "Futur"
+      },
+      {
+        "slot": "t|Futur|2",
+        "f": "tense",
+        "s": "Le drone ___ le colis directement chez le client.",
+        "a": "transportera",
+        "en": "The drone will carry the parcel directly to the customer.",
+        "alts": [],
+        "form": "Futur"
+      },
+      {
+        "slot": "t|Futur|3",
+        "f": "tense",
+        "s": "Nous ___ le matériel de scène en camionnette après le concert.",
+        "a": "transporterons",
+        "en": "We will transport the stage equipment by van after the concert.",
+        "alts": [],
+        "form": "Futur"
+      },
+      {
+        "slot": "t|Futur|3",
+        "f": "tense",
+        "s": "Nous ___ les blessés par hélicoptère si la route est bloquée.",
+        "a": "transporterons",
+        "en": "We will transport the injured by helicopter if the road is blocked.",
+        "alts": [],
+        "form": "Futur"
+      },
+      {
+        "slot": "t|Futur|4",
+        "f": "tense",
+        "s": "Vous ___ ces échantillons au laboratoire dès lundi matin.",
+        "a": "transporterez",
+        "en": "You will transport these samples to the laboratory on Monday morning.",
+        "alts": [],
+        "form": "Futur"
+      },
+      {
+        "slot": "t|Futur|4",
+        "f": "tense",
+        "s": "Vous ___ les archives dans les nouveaux locaux la semaine prochaine ?",
+        "a": "transporterez",
+        "en": "Will you transport the archives to the new premises next week?",
+        "alts": [],
+        "form": "Futur"
+      },
+      {
+        "slot": "t|Futur|5",
+        "f": "tense",
+        "s": "Les camions ___ les provisions aux soldats dès demain.",
+        "a": "transporteront",
+        "en": "The trucks will transport provisions to the soldiers starting tomorrow.",
+        "alts": [],
+        "form": "Futur"
+      },
+      {
+        "slot": "t|Futur|5",
+        "f": "tense",
+        "s": "Les navires ___ le pétrole brut jusqu'aux raffineries côtières.",
+        "a": "transporteront",
+        "en": "The ships will transport the crude oil to the coastal refineries.",
+        "alts": [],
+        "form": "Futur"
+      },
+      {
+        "slot": "t|Conditionnel|0",
+        "f": "tense",
+        "s": "Si j'avais un vélo cargo, je ___ mes courses sans voiture.",
+        "a": "transporterais",
+        "en": "If I had a cargo bike, I would carry my groceries without a car.",
+        "alts": [],
+        "form": "Conditionnel"
+      },
+      {
+        "slot": "t|Conditionnel|0",
+        "f": "tense",
+        "s": "Si tu avais plus de force, tu ___ cette armoire seul.",
+        "a": "transporterais",
+        "en": "If you were stronger, you would carry this wardrobe on your own.",
+        "alts": [],
+        "form": "Conditionnel"
+      },
+      {
+        "slot": "t|Conditionnel|1",
+        "f": "tense",
+        "s": "Si elle avait un permis poids lourd, elle ___ des marchandises pour son entreprise.",
+        "a": "transporterait",
+        "en": "If she had an HGV licence, she would transport goods for her company.",
+        "alts": [],
+        "form": "Conditionnel"
+      },
+      {
+        "slot": "t|Conditionnel|1",
+        "f": "tense",
+        "s": "Ce pipeline ___ du gaz naturel sur des milliers de kilomètres si on le construisait.",
+        "a": "transporterait",
+        "en": "This pipeline would transport natural gas over thousands of kilometres if it were built.",
+        "alts": [],
+        "form": "Conditionnel"
+      },
+      {
+        "slot": "t|Conditionnel|2",
+        "f": "tense",
+        "s": "Si nous avions un plus grand camion, nous ___ tout en un seul voyage.",
+        "a": "transporterions",
+        "en": "If we had a bigger truck, we would transport everything in one trip.",
+        "alts": [],
+        "form": "Conditionnel"
+      },
+      {
+        "slot": "t|Conditionnel|2",
+        "f": "tense",
+        "s": "Nous ___ les blessés par avion si la situation l'exigeait.",
+        "a": "transporterions",
+        "en": "We would transport the injured by plane if the situation required it.",
+        "alts": [],
+        "form": "Conditionnel"
+      },
+      {
+        "slot": "t|Conditionnel|3",
+        "f": "tense",
+        "s": "Si vous aviez un chariot, vous ___ ces caisses plus facilement.",
+        "a": "transporteriez",
+        "en": "If you had a trolley, you would carry these crates more easily.",
+        "alts": [],
+        "form": "Conditionnel"
+      },
+      {
+        "slot": "t|Conditionnel|3",
+        "f": "tense",
+        "s": "Vous ___ les archives dans de meilleures conditions si vous aviez plus de personnel.",
+        "a": "transporteriez",
+        "en": "You would transport the archives under better conditions if you had more staff.",
+        "alts": [],
+        "form": "Conditionnel"
+      },
+      {
+        "slot": "t|Conditionnel|4",
+        "f": "tense",
+        "s": "Si les routes étaient praticables, les camions ___ les vivres plus vite.",
+        "a": "transporteraient",
+        "en": "If the roads were passable, the trucks would transport the food supplies faster.",
+        "alts": [],
+        "form": "Conditionnel"
+      },
+      {
+        "slot": "t|Conditionnel|4",
+        "f": "tense",
+        "s": "Ces robots ___ les colis automatiquement si on les programmait correctement.",
+        "a": "transporteraient",
+        "en": "These robots would transport the parcels automatically if they were programmed correctly.",
+        "alts": [],
+        "form": "Conditionnel"
+      },
+      {
+        "slot": "t|Subjonctif",
+        "f": "subj",
+        "s": "Il faut que tu ___ ces colis avant midi.",
+        "a": "transportes",
+        "en": "You need to transport these parcels before noon.",
+        "alts": [],
+        "form": "Subjonctif présent"
+      },
+      {
+        "slot": "t|Subjonctif",
+        "f": "subj",
+        "s": "Je souhaite que nous ___ ces équipements en toute sécurité.",
+        "a": "transportions",
+        "en": "I want us to transport this equipment safely.",
+        "alts": [],
+        "form": "Subjonctif présent"
+      },
+      {
+        "slot": "s|0",
+        "f": "sense",
+        "s": "Cette compagnie ___ des marchandises par voie maritime entre l'Europe et l'Asie.",
+        "a": "transporte",
+        "en": "This company transports goods by sea between Europe and Asia.",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "s|0",
+        "f": "sense",
+        "s": "Le réseau ferroviaire ___ chaque année des millions de tonnes de fret à travers le pays.",
+        "a": "transporte",
+        "en": "The rail network transports millions of tonnes of freight across the country every year.",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "s|1",
+        "f": "sense",
+        "s": "Les déménageurs ont ___ tous les meubles lourds au premier étage.",
+        "a": "transporté",
+        "en": "The movers carried all the heavy furniture to the first floor.",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "s|1",
+        "f": "sense",
+        "s": "Il ___ seul les cartons jusqu'au grenier sans demander d'aide.",
+        "a": "a transporté",
+        "en": "He carried the boxes up to the attic on his own without asking for help.",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "s|2",
+        "f": "sense",
+        "s": "Cette symphonie de Beethoven nous ___ littéralement dans un autre monde.",
+        "a": "transporte",
+        "en": "This Beethoven symphony literally transports us into another world.",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "s|2",
+        "f": "sense",
+        "s": "Le récit de ce voyage l'a ___ de bonheur.",
+        "a": "transporté",
+        "en": "The account of this journey filled him with rapturous joy.",
+        "alts": [],
+        "form": ""
+      }
+    ]
+  },
+  {
+    "id": 1930,
+    "qs": [
+      {
+        "slot": "t|Présent|0",
+        "f": "tense",
+        "s": "Le feu ___ dans la cheminée ce soir.",
+        "a": "brûle",
+        "en": "The fire is burning in the fireplace this evening.",
+        "alts": [],
+        "form": "Présent"
+      },
+      {
+        "slot": "t|Présent|0",
+        "f": "tense",
+        "s": "Je ___ de curiosité — dis-moi ce qui s'est passé !",
+        "a": "brûle",
+        "en": "I am burning with curiosity — tell me what happened!",
+        "alts": [],
+        "form": "Présent"
+      },
+      {
+        "slot": "t|Présent|1",
+        "f": "tense",
+        "s": "Tu ___ la bougie pour lire la nuit ?",
+        "a": "brûles",
+        "en": "Do you burn a candle to read at night?",
+        "alts": [],
+        "form": "Présent"
+      },
+      {
+        "slot": "t|Présent|1",
+        "f": "tense",
+        "s": "Attention, tu ___ les bords du pain !",
+        "a": "brûles",
+        "en": "Watch out, you are burning the edges of the bread!",
+        "alts": [],
+        "form": "Présent"
+      },
+      {
+        "slot": "t|Présent|2",
+        "f": "tense",
+        "s": "Nous ___ du bois pour chauffer la maison.",
+        "a": "brûlons",
+        "en": "We burn wood to heat the house.",
+        "alts": [],
+        "form": "Présent"
+      },
+      {
+        "slot": "t|Présent|2",
+        "f": "tense",
+        "s": "Nous ___ des cierges à l'église chaque dimanche.",
+        "a": "brûlons",
+        "en": "We burn candles at church every Sunday.",
+        "alts": [],
+        "form": "Présent"
+      },
+      {
+        "slot": "t|Présent|3",
+        "f": "tense",
+        "s": "Vous ___ trop de charbon en hiver.",
+        "a": "brûlez",
+        "en": "You burn too much coal in winter.",
+        "alts": [],
+        "form": "Présent"
+      },
+      {
+        "slot": "t|Présent|3",
+        "f": "tense",
+        "s": "Est-ce que vous ___ encore de l'encens dans cette pièce ?",
+        "a": "brûlez",
+        "en": "Are you still burning incense in this room?",
+        "alts": [],
+        "form": "Présent"
+      },
+      {
+        "slot": "t|Présent|4",
+        "f": "tense",
+        "s": "Les bougies ___ doucement sur la table.",
+        "a": "brûlent",
+        "en": "The candles are burning gently on the table.",
+        "alts": [],
+        "form": "Présent"
+      },
+      {
+        "slot": "t|Présent|4",
+        "f": "tense",
+        "s": "Elles ___ d'envie de partir en vacances.",
+        "a": "brûlent",
+        "en": "They are burning with desire to go on holiday.",
+        "alts": [],
+        "form": "Présent"
+      },
+      {
+        "slot": "t|Passé composé|0",
+        "f": "tense",
+        "s": "J'___ les lettres de mon ex.",
+        "a": "ai brûlé",
+        "en": "I burned my ex's letters.",
+        "alts": [],
+        "form": "Passé composé"
+      },
+      {
+        "slot": "t|Passé composé|0",
+        "f": "tense",
+        "s": "Hier soir, j'___ la sauce en la laissant sur le feu.",
+        "a": "ai brûlé",
+        "en": "Yesterday evening, I burned the sauce by leaving it on the heat.",
+        "alts": [],
+        "form": "Passé composé"
+      },
+      {
+        "slot": "t|Passé composé|1",
+        "f": "tense",
+        "s": "Tu ___ le gâteau parce que tu n'as pas surveillé le four.",
+        "a": "as brûlé",
+        "en": "You burned the cake because you did not watch the oven.",
+        "alts": [],
+        "form": "Passé composé"
+      },
+      {
+        "slot": "t|Passé composé|1",
+        "f": "tense",
+        "s": "Tu ___ toutes tes vieilles photos ce week-end ?",
+        "a": "as brûlé",
+        "en": "Did you burn all your old photos this weekend?",
+        "alts": [],
+        "form": "Passé composé"
+      },
+      {
+        "slot": "t|Passé composé|2",
+        "f": "tense",
+        "s": "L'incendie ___ toute la forêt en une nuit.",
+        "a": "a brûlé",
+        "en": "The fire burned the entire forest in one night.",
+        "alts": [],
+        "form": "Passé composé"
+      },
+      {
+        "slot": "t|Passé composé|2",
+        "f": "tense",
+        "s": "On ___ les déchets dans le jardin hier matin.",
+        "a": "a brûlé",
+        "en": "They burned the rubbish in the garden yesterday morning.",
+        "alts": [],
+        "form": "Passé composé"
+      },
+      {
+        "slot": "t|Passé composé|3",
+        "f": "tense",
+        "s": "Nous ___ les vieux documents inutiles ce matin.",
+        "a": "avons brûlé",
+        "en": "We burned the old useless documents this morning.",
+        "alts": [],
+        "form": "Passé composé"
+      },
+      {
+        "slot": "t|Passé composé|3",
+        "f": "tense",
+        "s": "Nous ___ trop de bois pendant le camping.",
+        "a": "avons brûlé",
+        "en": "We burned too much wood during the camping trip.",
+        "alts": [],
+        "form": "Passé composé"
+      },
+      {
+        "slot": "t|Passé composé|4",
+        "f": "tense",
+        "s": "Vous ___ les feuilles mortes dans le jardin hier après-midi.",
+        "a": "avez brûlé",
+        "en": "You burned the dead leaves in the garden yesterday afternoon.",
+        "alts": [],
+        "form": "Passé composé"
+      },
+      {
+        "slot": "t|Passé composé|4",
+        "f": "tense",
+        "s": "Vous ___ les restes du feu de camp avant de partir.",
+        "a": "avez brûlé",
+        "en": "You burned the remains of the campfire before leaving.",
+        "alts": [],
+        "form": "Passé composé"
+      },
+      {
+        "slot": "t|Passé composé|5",
+        "f": "tense",
+        "s": "Les pompiers ont dit que les flammes ___ pendant six heures.",
+        "a": "ont brûlé",
+        "en": "The firefighters said the flames burned for six hours.",
+        "alts": [],
+        "form": "Passé composé"
+      },
+      {
+        "slot": "t|Passé composé|5",
+        "f": "tense",
+        "s": "Ils ___ les vieilles planches pour se réchauffer.",
+        "a": "ont brûlé",
+        "en": "They burned the old planks to warm themselves.",
+        "alts": [],
+        "form": "Passé composé"
+      },
+      {
+        "slot": "t|Imparfait|0",
+        "f": "tense",
+        "s": "Quand j'étais enfant, je ___ souvent des bougies dans ma chambre.",
+        "a": "brûlais",
+        "en": "When I was a child, I often burned candles in my room.",
+        "alts": [],
+        "form": "Imparfait"
+      },
+      {
+        "slot": "t|Imparfait|0",
+        "f": "tense",
+        "s": "Tu ___ toujours des feuilles de laurier pour parfumer la maison.",
+        "a": "brûlais",
+        "en": "You always burned bay leaves to perfume the house.",
+        "alts": [],
+        "form": "Imparfait"
+      },
+      {
+        "slot": "t|Imparfait|1",
+        "f": "tense",
+        "s": "La maison ___ depuis des heures quand les pompiers sont arrivés.",
+        "a": "brûlait",
+        "en": "The house had been burning for hours when the firefighters arrived.",
+        "alts": [],
+        "form": "Imparfait"
+      },
+      {
+        "slot": "t|Imparfait|1",
+        "f": "tense",
+        "s": "Il ___ de la paille pour chauffer l'étable en hiver.",
+        "a": "brûlait",
+        "en": "He burned straw to heat the barn in winter.",
+        "alts": [],
+        "form": "Imparfait"
+      },
+      {
+        "slot": "t|Imparfait|2",
+        "f": "tense",
+        "s": "Nous ___ toujours du bois quand il faisait froid.",
+        "a": "brûlions",
+        "en": "We always burned wood when it was cold.",
+        "alts": [],
+        "form": "Imparfait"
+      },
+      {
+        "slot": "t|Imparfait|2",
+        "f": "tense",
+        "s": "Nous ___ des herbes séchées pour éloigner les insectes.",
+        "a": "brûlions",
+        "en": "We burned dried herbs to keep insects away.",
+        "alts": [],
+        "form": "Imparfait"
+      },
+      {
+        "slot": "t|Imparfait|3",
+        "f": "tense",
+        "s": "Vous ___ des chandelles à l'époque où l'électricité n'existait pas.",
+        "a": "brûliez",
+        "en": "You burned candles in the era when electricity did not exist.",
+        "alts": [],
+        "form": "Imparfait"
+      },
+      {
+        "slot": "t|Imparfait|3",
+        "f": "tense",
+        "s": "Vous ___ des déchets dans la cour chaque soir.",
+        "a": "brûliez",
+        "en": "You burned rubbish in the yard every evening.",
+        "alts": [],
+        "form": "Imparfait"
+      },
+      {
+        "slot": "t|Imparfait|4",
+        "f": "tense",
+        "s": "Les flammes ___ encore quand la pluie a commencé.",
+        "a": "brûlaient",
+        "en": "The flames were still burning when the rain started.",
+        "alts": [],
+        "form": "Imparfait"
+      },
+      {
+        "slot": "t|Imparfait|4",
+        "f": "tense",
+        "s": "Ils ___ des cierges pour honorer leurs ancêtres.",
+        "a": "brûlaient",
+        "en": "They burned candles to honour their ancestors.",
+        "alts": [],
+        "form": "Imparfait"
+      },
+      {
+        "slot": "t|Futur|0",
+        "f": "tense",
+        "s": "Demain, je ___ ces vieux papiers dans le jardin.",
+        "a": "brûlerai",
+        "en": "Tomorrow, I will burn these old papers in the garden.",
+        "alts": [],
+        "form": "Futur"
+      },
+      {
+        "slot": "t|Futur|0",
+        "f": "tense",
+        "s": "Je ___ un cierge pour toi à l'église.",
+        "a": "brûlerai",
+        "en": "I will burn a candle for you at church.",
+        "alts": [],
+        "form": "Futur"
+      },
+      {
+        "slot": "t|Futur|1",
+        "f": "tense",
+        "s": "Tu ___ les mauvaises herbes cet après-midi.",
+        "a": "brûleras",
+        "en": "You will burn the weeds this afternoon.",
+        "alts": [],
+        "form": "Futur"
+      },
+      {
+        "slot": "t|Futur|1",
+        "f": "tense",
+        "s": "Tu ___ ces documents confidentiels dès réception.",
+        "a": "brûleras",
+        "en": "You will burn these confidential documents upon receipt.",
+        "alts": [],
+        "form": "Futur"
+      },
+      {
+        "slot": "t|Futur|2",
+        "f": "tense",
+        "s": "Ce bois ___ longtemps, il est très sec.",
+        "a": "brûlera",
+        "en": "This wood will burn for a long time, it is very dry.",
+        "alts": [],
+        "form": "Futur"
+      },
+      {
+        "slot": "t|Futur|2",
+        "f": "tense",
+        "s": "La bougie ___ toute la nuit si tu la laisses allumée.",
+        "a": "brûlera",
+        "en": "The candle will burn all night if you leave it lit.",
+        "alts": [],
+        "form": "Futur"
+      },
+      {
+        "slot": "t|Futur|3",
+        "f": "tense",
+        "s": "Nous ___ les branches coupées ce week-end.",
+        "a": "brûlerons",
+        "en": "We will burn the cut branches this weekend.",
+        "alts": [],
+        "form": "Futur"
+      },
+      {
+        "slot": "t|Futur|3",
+        "f": "tense",
+        "s": "Nous ___ des torches pour éclairer le chemin.",
+        "a": "brûlerons",
+        "en": "We will burn torches to light the path.",
+        "alts": [],
+        "form": "Futur"
+      },
+      {
+        "slot": "t|Futur|4",
+        "f": "tense",
+        "s": "Vous ___ ces documents après les avoir lus.",
+        "a": "brûlerez",
+        "en": "You will burn these documents after reading them.",
+        "alts": [],
+        "form": "Futur"
+      },
+      {
+        "slot": "t|Futur|4",
+        "f": "tense",
+        "s": "Vous ___ moins d'énergie avec ces nouvelles ampoules.",
+        "a": "brûlerez",
+        "en": "You will burn less energy with these new bulbs.",
+        "alts": [],
+        "form": "Futur"
+      },
+      {
+        "slot": "t|Futur|5",
+        "f": "tense",
+        "s": "Les feux d'artifice ___ dans le ciel ce soir.",
+        "a": "brûleront",
+        "en": "The fireworks will burn in the sky this evening.",
+        "alts": [],
+        "form": "Futur"
+      },
+      {
+        "slot": "t|Futur|5",
+        "f": "tense",
+        "s": "Ils ___ tous les déchets avant la fin du mois.",
+        "a": "brûleront",
+        "en": "They will burn all the rubbish before the end of the month.",
+        "alts": [],
+        "form": "Futur"
+      },
+      {
+        "slot": "t|Conditionnel|0",
+        "f": "tense",
+        "s": "Si j'avais du bois, je ___ un grand feu.",
+        "a": "brûlerais",
+        "en": "If I had some wood, I would burn a big fire.",
+        "alts": [],
+        "form": "Conditionnel"
+      },
+      {
+        "slot": "t|Conditionnel|0",
+        "f": "tense",
+        "s": "Si tu avais plus de temps, tu ___ ces vieilles lettres.",
+        "a": "brûlerais",
+        "en": "If you had more time, you would burn those old letters.",
+        "alts": [],
+        "form": "Conditionnel"
+      },
+      {
+        "slot": "t|Conditionnel|1",
+        "f": "tense",
+        "s": "Si on le laissait seul, il ___ les documents secrets.",
+        "a": "brûlerait",
+        "en": "If he were left alone, he would burn the secret documents.",
+        "alts": [],
+        "form": "Conditionnel"
+      },
+      {
+        "slot": "t|Conditionnel|1",
+        "f": "tense",
+        "s": "Cette bougie ___ plus longtemps si l'air était moins agité.",
+        "a": "brûlerait",
+        "en": "This candle would burn longer if the air were calmer.",
+        "alts": [],
+        "form": "Conditionnel"
+      },
+      {
+        "slot": "t|Conditionnel|2",
+        "f": "tense",
+        "s": "Si nous avions de l'essence, nous ___ ces planches tout de suite.",
+        "a": "brûlerions",
+        "en": "If we had petrol, we would burn those planks right away.",
+        "alts": [],
+        "form": "Conditionnel"
+      },
+      {
+        "slot": "t|Conditionnel|2",
+        "f": "tense",
+        "s": "Nous ___ volontiers ce bois si la cheminée fonctionnait.",
+        "a": "brûlerions",
+        "en": "We would gladly burn this wood if the fireplace worked.",
+        "alts": [],
+        "form": "Conditionnel"
+      },
+      {
+        "slot": "t|Conditionnel|3",
+        "f": "tense",
+        "s": "Vous ___ moins de carburant si vous conduisiez plus doucement.",
+        "a": "brûleriez",
+        "en": "You would burn less fuel if you drove more gently.",
+        "alts": [],
+        "form": "Conditionnel"
+      },
+      {
+        "slot": "t|Conditionnel|3",
+        "f": "tense",
+        "s": "Si vous aviez un poêle, vous ___ du bois pour vous chauffer.",
+        "a": "brûleriez",
+        "en": "If you had a stove, you would burn wood to heat yourselves.",
+        "alts": [],
+        "form": "Conditionnel"
+      },
+      {
+        "slot": "t|Conditionnel|4",
+        "f": "tense",
+        "s": "Si les conditions étaient réunies, ils ___ les déchets dans le champ.",
+        "a": "brûleraient",
+        "en": "If conditions were right, they would burn the waste in the field.",
+        "alts": [],
+        "form": "Conditionnel"
+      },
+      {
+        "slot": "t|Conditionnel|4",
+        "f": "tense",
+        "s": "Elles ___ davantage de calories si elles faisaient plus de sport.",
+        "a": "brûleraient",
+        "en": "They would burn more calories if they exercised more.",
+        "alts": [],
+        "form": "Conditionnel"
+      },
+      {
+        "slot": "t|Subjonctif",
+        "f": "subj",
+        "s": "Il faut que tu ___ ces papiers avant demain.",
+        "a": "brûles",
+        "en": "You must burn these papers before tomorrow.",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "t|Subjonctif",
+        "f": "subj",
+        "s": "Je veux qu'elle ___ les vieilles lettres ce soir.",
+        "a": "brûle",
+        "en": "I want her to burn the old letters this evening.",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "s|0",
+        "f": "sense",
+        "s": "Le feu de camp ___ toute la nuit sous les étoiles.",
+        "a": "brûle",
+        "en": "The campfire burns all night under the stars.",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "s|0",
+        "f": "sense",
+        "s": "La bougie ___ depuis ce matin sur l'autel.",
+        "a": "brûle",
+        "en": "The candle has been burning since this morning on the altar.",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "s|1",
+        "f": "sense",
+        "s": "L'incendie a ___ toute la forêt en quelques heures.",
+        "a": "brûlé",
+        "en": "The fire burned down the entire forest in a few hours.",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "s|1",
+        "f": "sense",
+        "s": "La foudre a ___ la vieille grange du village.",
+        "a": "brûlé",
+        "en": "Lightning burned down the old village barn.",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "s|2",
+        "f": "sense",
+        "s": "Il s'est ___ la main en touchant la poêle chaude.",
+        "a": "brûlé",
+        "en": "He burned his hand touching the hot pan.",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "s|2",
+        "f": "sense",
+        "s": "Le soleil m'a ___ les épaules pendant la randonnée.",
+        "a": "brûlé",
+        "en": "The sun burned my shoulders during the hike.",
+        "alts": [],
+        "form": ""
+      }
+    ]
+  }
+]

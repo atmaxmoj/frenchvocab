@@ -1,0 +1,215 @@
+[
+  {
+    "id": 125,
+    "qs": [
+      {
+        "slot": "s|0",
+        "f": "sense",
+        "s": "La beauté est une ___ difficile à définir.",
+        "en": "Beauty is a thing (abstract entity) that is difficult to define.",
+        "a": "chose",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "s|0",
+        "f": "sense",
+        "s": "Le bonheur est la seule ___ qui compte vraiment dans la vie.",
+        "en": "Happiness is the only thing (abstract entity) that truly matters in life.",
+        "a": "chose",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "s|1",
+        "f": "sense",
+        "s": "Il y a une ___ sur la table, mais je ne sais pas à qui elle appartient.",
+        "en": "There is a thing (object) on the table, but I don't know who it belongs to.",
+        "a": "chose",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "s|1",
+        "f": "sense",
+        "s": "Range tes ___ dans ton sac avant de partir.",
+        "en": "Put your things (belongings/objects) in your bag before you leave.",
+        "a": "choses",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "s|2",
+        "f": "sense",
+        "s": "J'ai une ___ importante à te dire, reste une minute.",
+        "en": "I have an important matter to tell you, stay for a minute.",
+        "a": "chose",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "s|2",
+        "f": "sense",
+        "s": "Ce sont des ___ qui arrivent, ne t'inquiète pas.",
+        "en": "These are things (matters) that happen, don't worry.",
+        "a": "choses",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "gender",
+        "f": "gender",
+        "s": "Il a acheté ___ chose intéressante au marché.",
+        "en": "He bought an interesting thing at the market.",
+        "a": "une",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "gender",
+        "f": "gender",
+        "s": "C'est ___ chose que je n'oublierai jamais.",
+        "en": "It is a thing (something) I will never forget.",
+        "a": "une",
+        "alts": [],
+        "form": ""
+      }
+    ]
+  },
+  {
+    "id": 126,
+    "qs": [
+      {
+        "slot": "s|0",
+        "f": "sense",
+        "s": "Elle a trois ___ : deux filles et un garçon.",
+        "en": "She has three children: two girls and one boy.",
+        "a": "enfants",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "s|0",
+        "f": "sense",
+        "s": "Cet ___ ressemble beaucoup à son père.",
+        "en": "This child looks a lot like his father.",
+        "a": "enfant",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "s|1",
+        "f": "sense",
+        "s": "Ce musée propose des activités spéciales pour les ___.",
+        "en": "This museum offers special activities for children.",
+        "a": "enfants",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "s|1",
+        "f": "sense",
+        "s": "Les ___ de moins de six ans entrent gratuitement.",
+        "en": "Children under six enter for free.",
+        "a": "enfants",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "gender",
+        "f": "gender",
+        "s": "C'est ___ enfant très curieux.",
+        "en": "He is a very curious child.",
+        "a": "un",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "gender",
+        "f": "gender",
+        "s": "Elle est ___ enfant unique.",
+        "en": "She is an only child.",
+        "a": "une",
+        "alts": [],
+        "form": ""
+      }
+    ]
+  },
+  {
+    "id": 127,
+    "qs": [
+      {
+        "slot": "s|0",
+        "f": "sense",
+        "s": "Les scientifiques cherchent la ___ de cette maladie depuis des années.",
+        "en": "Scientists have been looking for the cause of this disease for years.",
+        "a": "cause",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "s|0",
+        "f": "sense",
+        "s": "La ___ de l'incendie n'a pas encore été déterminée.",
+        "en": "The cause of the fire has not yet been determined.",
+        "a": "cause",
+        "alts": ["origine"],
+        "form": ""
+      },
+      {
+        "slot": "s|1",
+        "f": "sense",
+        "s": "Elle a consacré toute sa vie à une noble ___.",
+        "en": "She devoted her entire life to a noble cause.",
+        "a": "cause",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "s|1",
+        "f": "sense",
+        "s": "Ils se sont battus pour la ___ de la liberté.",
+        "en": "They fought for the cause of freedom.",
+        "a": "cause",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "s|2",
+        "f": "sense",
+        "s": "Le musée est fermé pour ___ de travaux.",
+        "en": "The museum is closed due to renovation work.",
+        "a": "cause",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "s|2",
+        "f": "sense",
+        "s": "Il a été licencié sans ___ valable.",
+        "en": "He was dismissed without valid grounds.",
+        "a": "cause",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "gender",
+        "f": "gender",
+        "s": "Quelle est ___ cause de ce problème ?",
+        "en": "What is the cause of this problem?",
+        "a": "la",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "gender",
+        "f": "gender",
+        "s": "Nous soutenons ___ bonne cause.",
+        "en": "We support a good cause.",
+        "a": "une",
+        "alts": [],
+        "form": ""
+      }
+    ]
+  }
+]

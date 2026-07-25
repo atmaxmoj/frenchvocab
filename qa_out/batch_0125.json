@@ -1,0 +1,21 @@
+[
+  {
+    "id": "1008",
+    "fix": {
+      "zh": "一千；千",
+      "examples": [
+        {
+          "fr": "Plus de mille personnes ont assisté au concert en plein air.",
+          "en": "More than a thousand people attended the open-air concert.",
+          "target": "mille"
+        },
+        {
+          "fr": "Ce projet a coûté plus de mille euros supplémentaires par rapport au budget initial.",
+          "en": "This project cost more than a thousand euros above the initial budget.",
+          "target": "mille"
+        }
+      ]
+    },
+    "reasons": ["zh added senses (英里/海里) not in source en 'a thousand'", "example 1 used 'milles' (nautical miles), a different sense not matching the headword 'a thousand'"]
+  }
+]

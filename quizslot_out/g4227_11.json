@@ -1,0 +1,729 @@
+[
+  {
+    "id": 4260,
+    "qs": [
+      {
+        "slot": "s|0",
+        "f": "sense",
+        "s": "Le ___ en chef du journal a décidé de publier cet article en une.",
+        "a": "rédacteur",
+        "en": "The editor-in-chief of the newspaper decided to publish this article on the front page.",
+        "alts": []
+      },
+      {
+        "slot": "s|0",
+        "f": "sense",
+        "s": "Il a été nommé ___ en chef du magazine après dix ans de carrière.",
+        "a": "rédacteur",
+        "en": "He was appointed editor-in-chief of the magazine after ten years of career.",
+        "alts": []
+      },
+      {
+        "slot": "s|1",
+        "f": "sense",
+        "s": "Ce journaliste travaille comme ___ indépendant pour plusieurs revues spécialisées.",
+        "a": "rédacteur",
+        "en": "This journalist works as a freelance writer for several specialized magazines.",
+        "alts": []
+      },
+      {
+        "slot": "s|1",
+        "f": "sense",
+        "s": "Le magazine cherche un ___ capable de produire deux articles par semaine.",
+        "a": "rédacteur",
+        "en": "The magazine is looking for a writer able to produce two articles per week.",
+        "alts": []
+      },
+      {
+        "slot": "s|2",
+        "f": "sense",
+        "s": "L'avocat a désigné un ___ pour préparer le contrat de vente.",
+        "a": "rédacteur",
+        "en": "The lawyer designated a drafter to prepare the sales contract.",
+        "alts": []
+      },
+      {
+        "slot": "s|2",
+        "f": "sense",
+        "s": "Le ___ de ce projet de loi a veillé à ce que chaque clause soit précise.",
+        "a": "rédacteur",
+        "en": "The drafter of this bill made sure that every clause was precise.",
+        "alts": []
+      },
+      {
+        "slot": "gender",
+        "f": "gender",
+        "s": "Mon collègue est ___ rédacteur dans une grande maison d'édition.",
+        "a": "un",
+        "en": "My colleague is an editor at a major publishing house.",
+        "alts": []
+      },
+      {
+        "slot": "gender",
+        "f": "gender",
+        "s": "Elle a rencontré ___ rédacteur célèbre lors du festival du livre.",
+        "a": "un",
+        "en": "She met a famous editor at the book festival.",
+        "alts": []
+      }
+    ]
+  },
+  {
+    "id": 4261,
+    "qs": [
+      {
+        "slot": "t|Présent|0",
+        "f": "tense",
+        "s": "Je ___ ma salive quand j'ai peur.",
+        "a": "avale",
+        "en": "I swallow my saliva when I'm scared.",
+        "alts": [],
+        "form": "Présent"
+      },
+      {
+        "slot": "t|Présent|0",
+        "f": "tense",
+        "s": "On ___ les médicaments avec un grand verre d'eau.",
+        "a": "avale",
+        "en": "One swallows the pills with a large glass of water.",
+        "alts": [],
+        "form": "Présent"
+      },
+      {
+        "slot": "t|Présent|1",
+        "f": "tense",
+        "s": "Tu ___ tes repas trop vite, c'est mauvais pour la santé.",
+        "a": "avales",
+        "en": "You swallow your meals too fast, it's bad for your health.",
+        "alts": [],
+        "form": "Présent"
+      },
+      {
+        "slot": "t|Présent|1",
+        "f": "tense",
+        "s": "Est-ce que tu ___ les comprimés facilement ?",
+        "a": "avales",
+        "en": "Do you swallow the tablets easily?",
+        "alts": [],
+        "form": "Présent"
+      },
+      {
+        "slot": "t|Présent|2",
+        "f": "tense",
+        "s": "Nous ___ notre déjeuner en dix minutes.",
+        "a": "avalons",
+        "en": "We swallow our lunch in ten minutes.",
+        "alts": [],
+        "form": "Présent"
+      },
+      {
+        "slot": "t|Présent|2",
+        "f": "tense",
+        "s": "Nous ___ ces vitamines chaque matin avant de partir.",
+        "a": "avalons",
+        "en": "We swallow these vitamins every morning before leaving.",
+        "alts": [],
+        "form": "Présent"
+      },
+      {
+        "slot": "t|Présent|3",
+        "f": "tense",
+        "s": "Vous ___ trop vite sans bien mâcher.",
+        "a": "avalez",
+        "en": "You swallow too fast without chewing well.",
+        "alts": [],
+        "form": "Présent"
+      },
+      {
+        "slot": "t|Présent|3",
+        "f": "tense",
+        "s": "Vous ___ ces gélules avec un grand verre d'eau.",
+        "a": "avalez",
+        "en": "You swallow these capsules with a large glass of water.",
+        "alts": [],
+        "form": "Présent"
+      },
+      {
+        "slot": "t|Présent|4",
+        "f": "tense",
+        "s": "Les enfants ___ parfois les noyaux des cerises par accident.",
+        "a": "avalent",
+        "en": "Children sometimes accidentally swallow cherry pits.",
+        "alts": [],
+        "form": "Présent"
+      },
+      {
+        "slot": "t|Présent|4",
+        "f": "tense",
+        "s": "Les serpents ___ leurs proies entières.",
+        "a": "avalent",
+        "en": "Snakes swallow their prey whole.",
+        "alts": [],
+        "form": "Présent"
+      },
+      {
+        "slot": "t|Passé composé|0",
+        "f": "tense",
+        "s": "J'___ mon comprimé ce matin avant de sortir.",
+        "a": "ai avalé",
+        "en": "I swallowed my pill this morning before going out.",
+        "alts": [],
+        "form": "Passé composé"
+      },
+      {
+        "slot": "t|Passé composé|0",
+        "f": "tense",
+        "s": "J'___ trop vite et j'ai failli m'étouffer.",
+        "a": "ai avalé",
+        "en": "I swallowed too fast and almost choked.",
+        "alts": [],
+        "form": "Passé composé"
+      },
+      {
+        "slot": "t|Passé composé|1",
+        "f": "tense",
+        "s": "Tu ___ le médicament sans eau, c'était difficile ?",
+        "a": "as avalé",
+        "en": "You swallowed the medicine without water, was it hard?",
+        "alts": [],
+        "form": "Passé composé"
+      },
+      {
+        "slot": "t|Passé composé|1",
+        "f": "tense",
+        "s": "Tu ___ toute la soupe en quelques secondes.",
+        "a": "as avalé",
+        "en": "You swallowed all the soup in a few seconds.",
+        "alts": [],
+        "form": "Passé composé"
+      },
+      {
+        "slot": "t|Passé composé|2",
+        "f": "tense",
+        "s": "Le chien ___ un morceau de poulet d'un seul coup.",
+        "a": "a avalé",
+        "en": "The dog swallowed a piece of chicken in one go.",
+        "alts": [],
+        "form": "Passé composé"
+      },
+      {
+        "slot": "t|Passé composé|2",
+        "f": "tense",
+        "s": "Elle ___ son petit-déjeuner à la hâte ce matin.",
+        "a": "a avalé",
+        "en": "She swallowed her breakfast hurriedly this morning.",
+        "alts": [],
+        "form": "Passé composé"
+      },
+      {
+        "slot": "t|Passé composé|3",
+        "f": "tense",
+        "s": "Nous ___ les gélules prescrites par le médecin.",
+        "a": "avons avalé",
+        "en": "We swallowed the capsules prescribed by the doctor.",
+        "alts": [],
+        "form": "Passé composé"
+      },
+      {
+        "slot": "t|Passé composé|3",
+        "f": "tense",
+        "s": "Nous ___ notre repas en cinq minutes à peine.",
+        "a": "avons avalé",
+        "en": "We swallowed our meal in barely five minutes.",
+        "alts": [],
+        "form": "Passé composé"
+      },
+      {
+        "slot": "t|Passé composé|4",
+        "f": "tense",
+        "s": "Vous ___ le comprimé trop tôt, avant le repas.",
+        "a": "avez avalé",
+        "en": "You swallowed the pill too early, before the meal.",
+        "alts": [],
+        "form": "Passé composé"
+      },
+      {
+        "slot": "t|Passé composé|4",
+        "f": "tense",
+        "s": "Vous ___ votre sandwich en chemin, c'est ça ?",
+        "a": "avez avalé",
+        "en": "You swallowed your sandwich on the way, right?",
+        "alts": [],
+        "form": "Passé composé"
+      },
+      {
+        "slot": "t|Passé composé|5",
+        "f": "tense",
+        "s": "Les patients ___ les médicaments prescrits hier soir.",
+        "a": "ont avalé",
+        "en": "The patients swallowed the prescribed medicines last night.",
+        "alts": [],
+        "form": "Passé composé"
+      },
+      {
+        "slot": "t|Passé composé|5",
+        "f": "tense",
+        "s": "Les enfants ___ leurs vitamines sans protester ce matin.",
+        "a": "ont avalé",
+        "en": "The children swallowed their vitamins without protest this morning.",
+        "alts": [],
+        "form": "Passé composé"
+      },
+      {
+        "slot": "t|Imparfait|0",
+        "f": "tense",
+        "s": "Quand j'étais enfant, j'___ mes médicaments avec du jus d'orange.",
+        "a": "avalais",
+        "en": "When I was a child, I used to swallow my medicines with orange juice.",
+        "alts": [],
+        "form": "Imparfait"
+      },
+      {
+        "slot": "t|Imparfait|0",
+        "f": "tense",
+        "s": "Tu ___ toujours tes repas trop rapidement à l'époque.",
+        "a": "avalais",
+        "en": "You always used to swallow your meals too quickly back then.",
+        "alts": [],
+        "form": "Imparfait"
+      },
+      {
+        "slot": "t|Imparfait|1",
+        "f": "tense",
+        "s": "Le serpent ___ lentement sa proie sous les yeux des spectateurs.",
+        "a": "avalait",
+        "en": "The snake was slowly swallowing its prey before the spectators' eyes.",
+        "alts": [],
+        "form": "Imparfait"
+      },
+      {
+        "slot": "t|Imparfait|1",
+        "f": "tense",
+        "s": "Elle ___ difficilement à cause de son mal de gorge.",
+        "a": "avalait",
+        "en": "She was having difficulty swallowing because of her sore throat.",
+        "alts": [],
+        "form": "Imparfait"
+      },
+      {
+        "slot": "t|Imparfait|2",
+        "f": "tense",
+        "s": "Nous ___ nos repas rapidement pour pouvoir aller jouer dehors.",
+        "a": "avalions",
+        "en": "We used to swallow our meals quickly so we could go play outside.",
+        "alts": [],
+        "form": "Imparfait"
+      },
+      {
+        "slot": "t|Imparfait|2",
+        "f": "tense",
+        "s": "Nous ___ les vitamines chaque matin quand nous étions malades.",
+        "a": "avalions",
+        "en": "We used to swallow the vitamins every morning when we were sick.",
+        "alts": [],
+        "form": "Imparfait"
+      },
+      {
+        "slot": "t|Imparfait|3",
+        "f": "tense",
+        "s": "Vous ___ ces gélules deux fois par jour à cette époque.",
+        "a": "avaliez",
+        "en": "You used to swallow these capsules twice a day back then.",
+        "alts": [],
+        "form": "Imparfait"
+      },
+      {
+        "slot": "t|Imparfait|3",
+        "f": "tense",
+        "s": "Vous ___ les comprimés sans eau, ça ne vous posait pas de problème ?",
+        "a": "avaliez",
+        "en": "You used to swallow the tablets without water, didn't that bother you?",
+        "alts": [],
+        "form": "Imparfait"
+      },
+      {
+        "slot": "t|Imparfait|4",
+        "f": "tense",
+        "s": "Les oiseaux ___ les baies entières sans les mâcher.",
+        "a": "avalaient",
+        "en": "The birds used to swallow the berries whole without chewing them.",
+        "alts": [],
+        "form": "Imparfait"
+      },
+      {
+        "slot": "t|Imparfait|4",
+        "f": "tense",
+        "s": "Ils ___ leurs repas à la va-vite avant chaque entraînement.",
+        "a": "avalaient",
+        "en": "They used to gulp down their meals hurriedly before each training session.",
+        "alts": [],
+        "form": "Imparfait"
+      },
+      {
+        "slot": "t|Futur|0",
+        "f": "tense",
+        "s": "J'___ ce comprimé ce soir avec mon dîner.",
+        "a": "avalerai",
+        "en": "I will swallow this pill tonight with my dinner.",
+        "alts": [],
+        "form": "Futur"
+      },
+      {
+        "slot": "t|Futur|0",
+        "f": "tense",
+        "s": "J'___ la pilule même si elle est amère.",
+        "a": "avalerai",
+        "en": "I will swallow the pill even if it is bitter.",
+        "alts": [],
+        "form": "Futur"
+      },
+      {
+        "slot": "t|Futur|1",
+        "f": "tense",
+        "s": "Tu ___ ce sirop après le repas, d'accord ?",
+        "a": "avaleras",
+        "en": "You will swallow this syrup after the meal, okay?",
+        "alts": [],
+        "form": "Futur"
+      },
+      {
+        "slot": "t|Futur|1",
+        "f": "tense",
+        "s": "Tu ___ les gélules dès que tu rentreras à la maison.",
+        "a": "avaleras",
+        "en": "You will swallow the capsules as soon as you get home.",
+        "alts": [],
+        "form": "Futur"
+      },
+      {
+        "slot": "t|Futur|2",
+        "f": "tense",
+        "s": "Le patient ___ ses médicaments à huit heures précises.",
+        "a": "avalera",
+        "en": "The patient will swallow his medicines at exactly eight o'clock.",
+        "alts": [],
+        "form": "Futur"
+      },
+      {
+        "slot": "t|Futur|2",
+        "f": "tense",
+        "s": "Elle ___ difficilement cette décision inévitable.",
+        "a": "avalera",
+        "en": "She will have a hard time swallowing this inevitable decision.",
+        "alts": [],
+        "form": "Futur"
+      },
+      {
+        "slot": "t|Futur|3",
+        "f": "tense",
+        "s": "Nous ___ ces comprimés à jeun demain matin.",
+        "a": "avalerons",
+        "en": "We will swallow these tablets on an empty stomach tomorrow morning.",
+        "alts": [],
+        "form": "Futur"
+      },
+      {
+        "slot": "t|Futur|3",
+        "f": "tense",
+        "s": "Nous ___ notre fierté et nous présenterons nos excuses.",
+        "a": "avalerons",
+        "en": "We will swallow our pride and offer our apologies.",
+        "alts": [],
+        "form": "Futur"
+      },
+      {
+        "slot": "t|Futur|4",
+        "f": "tense",
+        "s": "Vous ___ ce médicament trois fois par jour pendant une semaine.",
+        "a": "avalerez",
+        "en": "You will swallow this medicine three times a day for a week.",
+        "alts": [],
+        "form": "Futur"
+      },
+      {
+        "slot": "t|Futur|4",
+        "f": "tense",
+        "s": "Vous ___ ces gélules à jeun, c'est important.",
+        "a": "avalerez",
+        "en": "You will swallow these capsules on an empty stomach, that's important.",
+        "alts": [],
+        "form": "Futur"
+      },
+      {
+        "slot": "t|Futur|5",
+        "f": "tense",
+        "s": "Les enfants ___ leurs vitamines sans rechigner si elles ont bon goût.",
+        "a": "avaleront",
+        "en": "The children will swallow their vitamins without fussing if they taste good.",
+        "alts": [],
+        "form": "Futur"
+      },
+      {
+        "slot": "t|Futur|5",
+        "f": "tense",
+        "s": "Les patients ___ leurs médicaments dès que le médecin les aura prescrits.",
+        "a": "avaleront",
+        "en": "The patients will swallow their medicines as soon as the doctor has prescribed them.",
+        "alts": [],
+        "form": "Futur"
+      },
+      {
+        "slot": "t|Conditionnel|0",
+        "f": "tense",
+        "s": "Si tu m'aidais, j'___ plus facilement ce comprimé.",
+        "a": "avalerais",
+        "en": "If you helped me, I would swallow this pill more easily.",
+        "alts": [],
+        "form": "Conditionnel"
+      },
+      {
+        "slot": "t|Conditionnel|0",
+        "f": "tense",
+        "s": "Tu ___ n'importe quoi si tu avais assez faim.",
+        "a": "avalerais",
+        "en": "You would swallow anything if you were hungry enough.",
+        "alts": [],
+        "form": "Conditionnel"
+      },
+      {
+        "slot": "t|Conditionnel|1",
+        "f": "tense",
+        "s": "Le chien ___ le médicament plus facilement s'il était enrobé de viande.",
+        "a": "avalerait",
+        "en": "The dog would swallow the medicine more easily if it were coated in meat.",
+        "alts": [],
+        "form": "Conditionnel"
+      },
+      {
+        "slot": "t|Conditionnel|1",
+        "f": "tense",
+        "s": "Elle ___ la vérité difficilement dans une telle situation.",
+        "a": "avalerait",
+        "en": "She would find it hard to swallow the truth in such a situation.",
+        "alts": [],
+        "form": "Conditionnel"
+      },
+      {
+        "slot": "t|Conditionnel|2",
+        "f": "tense",
+        "s": "Nous ___ ces remèdes sans hésiter si le médecin nous le conseillait.",
+        "a": "avalerions",
+        "en": "We would swallow these remedies without hesitation if the doctor advised us to.",
+        "alts": [],
+        "form": "Conditionnel"
+      },
+      {
+        "slot": "t|Conditionnel|2",
+        "f": "tense",
+        "s": "Si les gélules étaient plus petites, nous les ___ sans problème.",
+        "a": "avalerions",
+        "en": "If the capsules were smaller, we would swallow them without difficulty.",
+        "alts": [],
+        "form": "Conditionnel"
+      },
+      {
+        "slot": "t|Conditionnel|3",
+        "f": "tense",
+        "s": "Vous ___ ces comprimés plus volontiers s'ils n'étaient pas si amers.",
+        "a": "avaleriez",
+        "en": "You would swallow these tablets more willingly if they weren't so bitter.",
+        "alts": [],
+        "form": "Conditionnel"
+      },
+      {
+        "slot": "t|Conditionnel|3",
+        "f": "tense",
+        "s": "Si on les enrobait de sucre, vous les ___ sans difficulté.",
+        "a": "avaleriez",
+        "en": "If they were sugar-coated, you would swallow them without difficulty.",
+        "alts": [],
+        "form": "Conditionnel"
+      },
+      {
+        "slot": "t|Conditionnel|4",
+        "f": "tense",
+        "s": "Les baleines ___ des tonnes de krill si elles nageaient dans ces eaux.",
+        "a": "avaleraient",
+        "en": "The whales would swallow tonnes of krill if they swam in these waters.",
+        "alts": [],
+        "form": "Conditionnel"
+      },
+      {
+        "slot": "t|Conditionnel|4",
+        "f": "tense",
+        "s": "Si les médicaments avaient meilleur goût, les enfants les ___ sans difficulté.",
+        "a": "avaleraient",
+        "en": "If medicines tasted better, children would swallow them without difficulty.",
+        "alts": [],
+        "form": "Conditionnel"
+      },
+      {
+        "slot": "t|Subjonctif",
+        "f": "subj",
+        "s": "Il faut que tu ___ ce comprimé maintenant.",
+        "a": "avales",
+        "en": "You must swallow this tablet now.",
+        "alts": [],
+        "form": "Subjonctif"
+      },
+      {
+        "slot": "t|Subjonctif",
+        "f": "subj",
+        "s": "Le médecin exige qu'elle ___ ce médicament à jeun.",
+        "a": "avale",
+        "en": "The doctor requires that she swallow this medicine on an empty stomach.",
+        "alts": [],
+        "form": "Subjonctif"
+      },
+      {
+        "slot": "s|0",
+        "f": "sense",
+        "s": "Il faut bien mâcher avant d'___ la nourriture.",
+        "a": "avaler",
+        "en": "You must chew well before swallowing the food.",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "s|0",
+        "f": "sense",
+        "s": "Le serpent peut ___ un œuf entier sans le casser.",
+        "a": "avaler",
+        "en": "The snake can swallow a whole egg without breaking it.",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "s|1",
+        "f": "sense",
+        "s": "Elle a réussi à ___ le comprimé amer d'une seule gorgée.",
+        "a": "avaler",
+        "en": "She managed to gulp down the bitter tablet in one sip.",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "s|1",
+        "f": "sense",
+        "s": "Il a dû ___ sa salive plusieurs fois avant de parler.",
+        "a": "avaler",
+        "en": "He had to swallow his saliva several times before speaking.",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "s|2",
+        "f": "sense",
+        "s": "Il est naïf : il ___ toutes les rumeurs sans vérifier.",
+        "a": "avale",
+        "en": "He is naive: he swallows (believes credulously) every rumour without checking.",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "s|2",
+        "f": "sense",
+        "s": "Tu vas vraiment ___ cette histoire inventée de toutes pièces ?",
+        "a": "avaler",
+        "en": "Are you really going to swallow (fall for) this completely made-up story?",
+        "alts": [],
+        "form": ""
+      }
+    ]
+  },
+  {
+    "id": 4262,
+    "qs": [
+      {
+        "slot": "s|0",
+        "f": "sense",
+        "s": "Le dentiste a procédé à l'___ de la dent de sagesse sous anesthésie locale.",
+        "a": "extraction",
+        "en": "The dentist performed the extraction of the wisdom tooth under local anesthesia.",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "s|0",
+        "f": "sense",
+        "s": "L'___ des données personnelles depuis ce serveur est soumise à des règles strictes.",
+        "a": "extraction",
+        "en": "The extraction of personal data from this server is subject to strict rules.",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "s|1",
+        "f": "sense",
+        "s": "L'___ des huiles essentielles se fait souvent par distillation à la vapeur.",
+        "a": "extraction",
+        "en": "The extraction of essential oils is often done by steam distillation.",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "s|1",
+        "f": "sense",
+        "s": "Le laboratoire utilise une technique d'___ au solvant pour isoler les principes actifs de la plante.",
+        "a": "extraction",
+        "en": "The laboratory uses a solvent extraction technique to isolate the active compounds from the plant.",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "s|2",
+        "f": "sense",
+        "s": "Malgré son ___ modeste, il est devenu l'un des plus grands scientifiques du pays.",
+        "a": "extraction",
+        "en": "Despite his humble origins, he became one of the greatest scientists in the country.",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "s|2",
+        "f": "sense",
+        "s": "Elle est fière de son ___ paysanne et n'a jamais renié ses racines.",
+        "a": "extraction",
+        "en": "She is proud of her peasant origins and has never denied her roots.",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "s|3",
+        "f": "sense",
+        "s": "Ce philosophe a consacré sa vie à l'___ des principes fondamentaux de la morale.",
+        "a": "extraction",
+        "en": "This philosopher devoted his life to the extraction of the fundamental principles of morality.",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "s|3",
+        "f": "sense",
+        "s": "L'___ de la quintessence de ces textes anciens a demandé des années de recherche.",
+        "a": "extraction",
+        "en": "The extraction of the quintessence of these ancient texts took years of research.",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "gender",
+        "f": "gender",
+        "s": "Les chercheurs ont mis au point ___ extraction d'un composé rare à partir de résidus industriels.",
+        "a": "une",
+        "en": "The researchers developed an extraction of a rare compound from industrial residues.",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "gender",
+        "f": "gender",
+        "s": "Ce procédé chimique repose sur ___ extraction sélective des métaux lourds présents dans l'eau contaminée.",
+        "a": "une",
+        "en": "This chemical process relies on a selective extraction of heavy metals present in contaminated water.",
+        "alts": [],
+        "form": ""
+      }
+    ]
+  }
+]

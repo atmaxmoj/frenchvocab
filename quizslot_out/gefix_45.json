@@ -1,0 +1,245 @@
+[
+  {
+    "id": 902,
+    "qs": [
+      {
+        "slot": "s|0",
+        "f": "sense",
+        "s": "Ce musée présente des documents ___ qui couvrent plusieurs siècles.",
+        "a": "historiques",
+        "en": "This museum presents historical documents spanning several centuries.",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "s|0",
+        "f": "sense",
+        "s": "Les recherches ___ permettent de mieux comprendre le passé.",
+        "a": "historiques",
+        "en": "Historical research allows us to better understand the past.",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "s|1",
+        "f": "sense",
+        "s": "La signature de ce traité de paix est un événement ___.",
+        "a": "historique",
+        "en": "The signing of this peace treaty is a landmark event.",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "s|1",
+        "f": "sense",
+        "s": "Les deux présidents ont conclu un accord ___ après des années de négociations.",
+        "a": "historique",
+        "en": "The two presidents concluded a landmark agreement after years of negotiations.",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "s|2",
+        "f": "sense",
+        "s": "La chute du mur de Berlin a été un moment vraiment ___.",
+        "a": "historique",
+        "en": "The fall of the Berlin Wall was a truly historic moment.",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "s|2",
+        "f": "sense",
+        "s": "Cette visite officielle est considérée comme ___ par tous les observateurs.",
+        "a": "historique",
+        "en": "This official visit is considered historic by all observers.",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "g|mp",
+        "f": "agree",
+        "s": "Ces châteaux sont des monuments ___ très visités.",
+        "a": "historiques",
+        "en": "These castles are very popular historical monuments.",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "g|mp",
+        "f": "agree",
+        "s": "Les faits ___ présentés dans ce livre sont rigoureusement vérifiés.",
+        "a": "historiques",
+        "en": "The historical facts presented in this book are rigorously verified.",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "g|f",
+        "f": "agree",
+        "s": "La ville a une valeur ___ inestimable.",
+        "a": "historique",
+        "en": "The city has an invaluable historical value.",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "g|f",
+        "f": "agree",
+        "s": "Cette cathédrale est une œuvre ___ exceptionnelle.",
+        "a": "historique",
+        "en": "This cathedral is an exceptional historical work.",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "g|fp",
+        "f": "agree",
+        "s": "Les archives ___ de la région sont conservées dans ce bâtiment.",
+        "a": "historiques",
+        "en": "The historical archives of the region are kept in this building.",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "g|fp",
+        "f": "agree",
+        "s": "Ces découvertes ___ ont bouleversé notre vision de l'Antiquité.",
+        "a": "historiques",
+        "en": "These historical discoveries have overturned our view of Antiquity.",
+        "alts": [],
+        "form": ""
+      }
+    ]
+  },
+  {
+    "id": 903,
+    "qs": [
+      {
+        "slot": "s|0",
+        "f": "sense",
+        "s": "Il y a ___ une centaine de personnes dans cette salle de conférence.",
+        "a": "probablement",
+        "en": "There are probably around a hundred people in this conference room.",
+        "alts": ["sans doute", "sûrement", "certainement"]
+      },
+      {
+        "slot": "s|0",
+        "f": "sense",
+        "s": "Cette statue date ___ du deuxième siècle avant notre ère, selon les archéologues.",
+        "a": "probablement",
+        "en": "This statue probably dates from the second century BCE, according to archaeologists.",
+        "alts": ["sans doute", "sûrement"]
+      },
+      {
+        "slot": "s|1",
+        "f": "sense",
+        "s": "Il n'a pas répondu à mes messages depuis deux jours ; il est ___ très occupé en ce moment.",
+        "a": "probablement",
+        "en": "He hasn't replied to my messages for two days; he is very likely very busy right now.",
+        "alts": ["certainement", "sûrement", "sans doute"]
+      },
+      {
+        "slot": "s|1",
+        "f": "sense",
+        "s": "Avec autant de preuves contre lui, il sera ___ reconnu coupable par le tribunal.",
+        "a": "probablement",
+        "en": "With so much evidence against him, he will very likely be found guilty by the court.",
+        "alts": ["certainement", "sûrement", "sans doute"]
+      },
+      {
+        "slot": "s|2",
+        "f": "sense",
+        "s": "Je ne suis pas sûr de ses plans, mais elle partira ___ en vacances cet été.",
+        "a": "probablement",
+        "en": "I'm not sure about her plans, but she will probably go on holiday this summer.",
+        "alts": ["peut-être", "sans doute", "sûrement"]
+      },
+      {
+        "slot": "s|2",
+        "f": "sense",
+        "s": "___ qu'il a raté son train, c'est pour ça qu'il est en retard.",
+        "a": "Probablement",
+        "en": "Probably he missed his train, that's why he's late.",
+        "alts": ["Peut-être"]
+      }
+    ]
+  },
+  {
+    "id": 904,
+    "qs": [
+      {
+        "slot": "s|0",
+        "f": "sense",
+        "s": "Elle rêve de faire un ___ autour du monde.",
+        "a": "voyage",
+        "en": "She dreams of taking a trip around the world.",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "s|0",
+        "f": "sense",
+        "s": "Nous avons organisé un ___ en famille pour les vacances d'été.",
+        "a": "voyage",
+        "en": "We organized a trip with the family for the summer holidays.",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "s|1",
+        "f": "sense",
+        "s": "Il a lu plusieurs livres pendant le ___ en train.",
+        "a": "voyage",
+        "en": "He read several books during the train journey.",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "s|1",
+        "f": "sense",
+        "s": "Au cours du ___, les enfants se sont endormis dans la voiture.",
+        "a": "voyage",
+        "en": "During the journey, the children fell asleep in the car.",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "s|2",
+        "f": "sense",
+        "s": "Le capitaine a dirigé le navire tout au long de ce long ___ en mer.",
+        "a": "voyage",
+        "en": "The captain steered the ship throughout this long sea voyage.",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "s|2",
+        "f": "sense",
+        "s": "Les marins ont souffert de la tempête durant leur ___ vers l'Amérique.",
+        "a": "voyage",
+        "en": "The sailors suffered from the storm during their voyage to America.",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "gender",
+        "f": "gender",
+        "s": "C'est ___ voyage inoubliable que nous avons fait ensemble.",
+        "a": "un",
+        "en": "It is an unforgettable trip that we took together.",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "gender",
+        "f": "gender",
+        "s": "___ voyage en bateau a duré trois semaines.",
+        "a": "Le",
+        "en": "The sea voyage lasted three weeks.",
+        "alts": [],
+        "form": ""
+      }
+    ]
+  }
+]

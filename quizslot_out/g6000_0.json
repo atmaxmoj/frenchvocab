@@ -1,0 +1,117 @@
+[
+  {
+    "id": 5001,
+    "qs": [
+      {
+        "slot": "s|0",
+        "f": "sense",
+        "s": "___, il fait très beau à Paris.",
+        "en": "Today, the weather is very nice in Paris.",
+        "a": "aujourd'hui",
+        "alts": []
+      },
+      {
+        "slot": "s|0",
+        "f": "sense",
+        "s": "Je dois absolument finir ce rapport ___.",
+        "en": "I absolutely have to finish this report today.",
+        "a": "aujourd'hui",
+        "alts": []
+      },
+      {
+        "slot": "s|1",
+        "f": "sense",
+        "s": "___, presque tout le monde possède un smartphone.",
+        "en": "Nowadays, almost everyone owns a smartphone.",
+        "a": "aujourd'hui",
+        "alts": []
+      },
+      {
+        "slot": "s|1",
+        "f": "sense",
+        "s": "___, les jeunes utilisent beaucoup les réseaux sociaux.",
+        "en": "Nowadays, young people use social media a lot.",
+        "a": "aujourd'hui",
+        "alts": []
+      }
+    ]
+  },
+  {
+    "id": 5002,
+    "qs": [
+      {
+        "slot": "s|0",
+        "f": "sense",
+        "s": "___, il faut préparer tous les ingrédients avant de commencer la recette.",
+        "en": "First, you need to prepare all the ingredients before starting the recipe.",
+        "a": "d'abord",
+        "alts": []
+      },
+      {
+        "slot": "s|0",
+        "f": "sense",
+        "s": "Pour organiser ce projet, ___ nous allons définir les objectifs, puis répartir les tâches.",
+        "en": "To organize this project, first we will define the goals, then distribute the tasks.",
+        "a": "d'abord",
+        "alts": []
+      },
+      {
+        "slot": "s|1",
+        "f": "sense",
+        "s": "___, elle avait peur de parler en public, mais elle est devenue très à l'aise avec le temps.",
+        "en": "At first, she was afraid to speak in public, but she became very comfortable over time.",
+        "a": "d'abord",
+        "alts": []
+      },
+      {
+        "slot": "s|1",
+        "f": "sense",
+        "s": "___, il ne comprenait rien à ce cours, mais il a fini par tout maîtriser.",
+        "en": "At first, he understood nothing in this course, but he ended up mastering everything.",
+        "a": "d'abord",
+        "alts": []
+      }
+    ]
+  },
+  {
+    "id": 5003,
+    "qs": [
+      {
+        "slot": "s|0",
+        "f": "sense",
+        "s": "Au Moyen Âge, le ___ portait une épée et une armure pour protéger le royaume.",
+        "a": "chevalier",
+        "en": "In the Middle Ages, the knight carried a sword and armor to protect the kingdom.",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "s|0",
+        "f": "sense",
+        "s": "Le roi l'a nommé ___ pour sa bravoure au combat.",
+        "a": "chevalier",
+        "en": "The king named him a knight for his bravery in battle.",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "gender",
+        "f": "gender",
+        "s": "___ chevalier est arrivé hier soir au château.",
+        "a": "Le",
+        "en": "The knight arrived last night at the castle.",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "gender",
+        "f": "gender",
+        "s": "Elle rêve d'épouser ___ chevalier courageux.",
+        "a": "un",
+        "en": "She dreams of marrying a brave knight.",
+        "alts": [],
+        "form": ""
+      }
+    ]
+  }
+]

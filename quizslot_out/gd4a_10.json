@@ -1,0 +1,737 @@
+[
+  {
+    "id": 331,
+    "qs": [
+      {
+        "slot": "s|0",
+        "f": "sense",
+        "s": "Ce tableau est considéré comme ___ maîtresse de la peinture impressionniste.",
+        "a": "une œuvre",
+        "en": "This painting is considered a masterpiece of Impressionist painting.",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "s|0",
+        "f": "sense",
+        "s": "Le musée consacre une salle entière aux ___ du sculpteur Auguste Rodin.",
+        "a": "œuvres",
+        "en": "The museum devotes an entire room to the works of sculptor Auguste Rodin.",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "s|1",
+        "f": "sense",
+        "s": "Il est temps de nous mettre à l'___ si nous voulons finir avant ce soir.",
+        "a": "œuvre",
+        "en": "It is time for us to get to work if we want to finish before this evening.",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "s|1",
+        "f": "sense",
+        "s": "On peut juger les artisans à l'___ : leurs créations parlent d'elles-mêmes.",
+        "a": "œuvre",
+        "en": "You can judge craftsmen by their work: their creations speak for themselves.",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "s|2",
+        "f": "sense",
+        "s": "Cette association est une ___ caritative qui vient en aide aux enfants défavorisés.",
+        "a": "œuvre",
+        "en": "This association is a charitable organization that helps underprivileged children.",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "s|2",
+        "f": "sense",
+        "s": "Il a consacré toute sa vie aux bonnes ___ en faveur des plus démunis.",
+        "a": "œuvres",
+        "en": "He devoted his entire life to good works in favour of the most destitute.",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "gender",
+        "f": "gender",
+        "s": "Ce compositeur a laissé ___ œuvre immense qui continue d'émouvoir le public.",
+        "a": "une",
+        "en": "This composer left behind an immense body of work that continues to move audiences.",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "gender",
+        "f": "gender",
+        "s": "___ œuvre de Molière est jouée sur les scènes du monde entier.",
+        "a": "L'",
+        "en": "The work of Molière is performed on stages all over the world.",
+        "alts": [],
+        "form": ""
+      }
+    ]
+  },
+  {
+    "id": 332,
+    "qs": [
+      {
+        "slot": "t|Présent|0",
+        "f": "tense",
+        "s": "Je ___ un nouveau projet cette semaine.",
+        "a": "crée",
+        "en": "I am creating a new project this week.",
+        "alts": [],
+        "form": "Présent"
+      },
+      {
+        "slot": "t|Présent|0",
+        "f": "tense",
+        "s": "Mon fils ___ des dessins animés depuis son enfance.",
+        "a": "crée",
+        "en": "My son creates cartoons since his childhood.",
+        "alts": [],
+        "form": "Présent"
+      },
+      {
+        "slot": "t|Présent|1",
+        "f": "tense",
+        "s": "Tu ___ une atmosphère chaleureuse chez toi.",
+        "a": "crées",
+        "en": "You create a warm atmosphere at your place.",
+        "alts": [],
+        "form": "Présent"
+      },
+      {
+        "slot": "t|Présent|1",
+        "f": "tense",
+        "s": "Est-ce que tu ___ souvent des vidéos pour Internet ?",
+        "a": "crées",
+        "en": "Do you often create videos for the Internet?",
+        "alts": [],
+        "form": "Présent"
+      },
+      {
+        "slot": "t|Présent|2",
+        "f": "tense",
+        "s": "Nous ___ ensemble un site web pour notre association.",
+        "a": "créons",
+        "en": "We are creating a website for our association together.",
+        "alts": [],
+        "form": "Présent"
+      },
+      {
+        "slot": "t|Présent|2",
+        "f": "tense",
+        "s": "En ce moment, nous ___ un spectacle pour les enfants.",
+        "a": "créons",
+        "en": "Right now, we are creating a show for the children.",
+        "alts": [],
+        "form": "Présent"
+      },
+      {
+        "slot": "t|Présent|3",
+        "f": "tense",
+        "s": "Vous ___ de beaux souvenirs lors de ce voyage.",
+        "a": "créez",
+        "en": "You are creating beautiful memories during this trip.",
+        "alts": [],
+        "form": "Présent"
+      },
+      {
+        "slot": "t|Présent|3",
+        "f": "tense",
+        "s": "Avec ce logiciel, vous ___ facilement des présentations professionnelles.",
+        "a": "créez",
+        "en": "With this software, you easily create professional presentations.",
+        "alts": [],
+        "form": "Présent"
+      },
+      {
+        "slot": "t|Présent|4",
+        "f": "tense",
+        "s": "Ces artistes ___ des œuvres uniques chaque année.",
+        "a": "créent",
+        "en": "These artists create unique works every year.",
+        "alts": [],
+        "form": "Présent"
+      },
+      {
+        "slot": "t|Présent|4",
+        "f": "tense",
+        "s": "Ils ___ de nouvelles recettes dans ce restaurant.",
+        "a": "créent",
+        "en": "They create new recipes in this restaurant.",
+        "alts": [],
+        "form": "Présent"
+      },
+      {
+        "slot": "t|Passé composé|0",
+        "f": "tense",
+        "s": "J'___ un compte sur ce site hier soir.",
+        "a": "ai créé",
+        "en": "I created an account on this website last night.",
+        "alts": [],
+        "form": "Passé composé"
+      },
+      {
+        "slot": "t|Passé composé|0",
+        "f": "tense",
+        "s": "L'année dernière, j'___ ma propre entreprise.",
+        "a": "ai créé",
+        "en": "Last year, I created my own company.",
+        "alts": [],
+        "form": "Passé composé"
+      },
+      {
+        "slot": "t|Passé composé|1",
+        "f": "tense",
+        "s": "Tu ___ une superbe illustration pour l'affiche.",
+        "a": "as créé",
+        "en": "You created a superb illustration for the poster.",
+        "alts": [],
+        "form": "Passé composé"
+      },
+      {
+        "slot": "t|Passé composé|1",
+        "f": "tense",
+        "s": "Est-ce que tu ___ ce personnage tout seul ?",
+        "a": "as créé",
+        "en": "Did you create this character all by yourself?",
+        "alts": [],
+        "form": "Passé composé"
+      },
+      {
+        "slot": "t|Passé composé|2",
+        "f": "tense",
+        "s": "Mon père ___ cette fondation il y a vingt ans.",
+        "a": "a créé",
+        "en": "My father created this foundation twenty years ago.",
+        "alts": [],
+        "form": "Passé composé"
+      },
+      {
+        "slot": "t|Passé composé|2",
+        "f": "tense",
+        "s": "Cette chercheuse ___ un nouveau vaccin l'an dernier.",
+        "a": "a créé",
+        "en": "This researcher created a new vaccine last year.",
+        "alts": [],
+        "form": "Passé composé"
+      },
+      {
+        "slot": "t|Passé composé|3",
+        "f": "tense",
+        "s": "Nous ___ un groupe de discussion pour partager nos idées.",
+        "a": "avons créé",
+        "en": "We created a discussion group to share our ideas.",
+        "alts": [],
+        "form": "Passé composé"
+      },
+      {
+        "slot": "t|Passé composé|3",
+        "f": "tense",
+        "s": "L'an passé, nous ___ une application mobile pour notre école.",
+        "a": "avons créé",
+        "en": "Last year, we created a mobile app for our school.",
+        "alts": [],
+        "form": "Passé composé"
+      },
+      {
+        "slot": "t|Passé composé|4",
+        "f": "tense",
+        "s": "Vous ___ un programme innovant pour aider les jeunes.",
+        "a": "avez créé",
+        "en": "You created an innovative program to help young people.",
+        "alts": [],
+        "form": "Passé composé"
+      },
+      {
+        "slot": "t|Passé composé|4",
+        "f": "tense",
+        "s": "En dix ans, vous ___ plus de mille emplois dans cette région.",
+        "a": "avez créé",
+        "en": "In ten years, you created more than a thousand jobs in this region.",
+        "alts": [],
+        "form": "Passé composé"
+      },
+      {
+        "slot": "t|Passé composé|5",
+        "f": "tense",
+        "s": "Ces entrepreneurs ___ une start-up révolutionnaire l'année dernière.",
+        "a": "ont créé",
+        "en": "These entrepreneurs created a revolutionary start-up last year.",
+        "alts": [],
+        "form": "Passé composé"
+      },
+      {
+        "slot": "t|Passé composé|5",
+        "f": "tense",
+        "s": "Ils ___ un réseau international pour soutenir les artistes.",
+        "a": "ont créé",
+        "en": "They created an international network to support artists.",
+        "alts": [],
+        "form": "Passé composé"
+      },
+      {
+        "slot": "t|Imparfait|0",
+        "f": "tense",
+        "s": "Quand j'étais enfant, je ___ des histoires imaginaires chaque soir.",
+        "a": "créais",
+        "en": "When I was a child, I used to create imaginary stories every evening.",
+        "alts": [],
+        "form": "Imparfait"
+      },
+      {
+        "slot": "t|Imparfait|0",
+        "f": "tense",
+        "s": "À cette époque, tu ___ des bijoux à la main pour tes amis.",
+        "a": "créais",
+        "en": "At that time, you used to make jewelry by hand for your friends.",
+        "alts": [],
+        "form": "Imparfait"
+      },
+      {
+        "slot": "t|Imparfait|1",
+        "f": "tense",
+        "s": "Il ___ de nouvelles recettes chaque semaine dans sa cuisine.",
+        "a": "créait",
+        "en": "He used to create new recipes every week in his kitchen.",
+        "alts": [],
+        "form": "Imparfait"
+      },
+      {
+        "slot": "t|Imparfait|1",
+        "f": "tense",
+        "s": "Cette styliste ___ des robes élégantes pour les grandes occasions.",
+        "a": "créait",
+        "en": "This fashion designer used to create elegant dresses for special occasions.",
+        "alts": [],
+        "form": "Imparfait"
+      },
+      {
+        "slot": "t|Imparfait|2",
+        "f": "tense",
+        "s": "Nous ___ des jeux de société pour passer le temps pendant les vacances.",
+        "a": "créions",
+        "en": "We used to create board games to pass the time during the holidays.",
+        "alts": [],
+        "form": "Imparfait"
+      },
+      {
+        "slot": "t|Imparfait|2",
+        "f": "tense",
+        "s": "Dans ce laboratoire, nous ___ de nouveaux matériaux chaque mois.",
+        "a": "créions",
+        "en": "In this laboratory, we used to create new materials every month.",
+        "alts": [],
+        "form": "Imparfait"
+      },
+      {
+        "slot": "t|Imparfait|3",
+        "f": "tense",
+        "s": "Vous ___ des affiches originales pour chaque festival.",
+        "a": "créiez",
+        "en": "You used to create original posters for every festival.",
+        "alts": [],
+        "form": "Imparfait"
+      },
+      {
+        "slot": "t|Imparfait|3",
+        "f": "tense",
+        "s": "À l'époque, vous ___ des costumes pour le théâtre du quartier.",
+        "a": "créiez",
+        "en": "Back then, you used to create costumes for the neighborhood theater.",
+        "alts": [],
+        "form": "Imparfait"
+      },
+      {
+        "slot": "t|Imparfait|4",
+        "f": "tense",
+        "s": "Ces musiciens ___ de nouvelles mélodies chaque soir après le concert.",
+        "a": "créaient",
+        "en": "These musicians used to create new melodies every evening after the concert.",
+        "alts": [],
+        "form": "Imparfait"
+      },
+      {
+        "slot": "t|Imparfait|4",
+        "f": "tense",
+        "s": "Elles ___ des sculptures en argile pendant les cours du soir.",
+        "a": "créaient",
+        "en": "They used to create clay sculptures during the evening classes.",
+        "alts": [],
+        "form": "Imparfait"
+      },
+      {
+        "slot": "t|Futur|0",
+        "f": "tense",
+        "s": "Demain, je ___ un nouveau dossier pour ce projet.",
+        "a": "créerai",
+        "en": "Tomorrow, I will create a new file for this project.",
+        "alts": [],
+        "form": "Futur"
+      },
+      {
+        "slot": "t|Futur|0",
+        "f": "tense",
+        "s": "L'année prochaine, je ___ ma propre marque de vêtements.",
+        "a": "créerai",
+        "en": "Next year, I will create my own clothing brand.",
+        "alts": [],
+        "form": "Futur"
+      },
+      {
+        "slot": "t|Futur|1",
+        "f": "tense",
+        "s": "Tu ___ un blog pour partager tes voyages dès ton retour.",
+        "a": "créeras",
+        "en": "You will create a blog to share your travels as soon as you return.",
+        "alts": [],
+        "form": "Futur"
+      },
+      {
+        "slot": "t|Futur|1",
+        "f": "tense",
+        "s": "Si tu continues à apprendre, tu ___ des choses extraordinaires un jour.",
+        "a": "créeras",
+        "en": "If you keep learning, you will create extraordinary things one day.",
+        "alts": [],
+        "form": "Futur"
+      },
+      {
+        "slot": "t|Futur|2",
+        "f": "tense",
+        "s": "Ce chef cuisinier ___ un nouveau menu pour l'automne prochain.",
+        "a": "créera",
+        "en": "This chef will create a new menu for next autumn.",
+        "alts": [],
+        "form": "Futur"
+      },
+      {
+        "slot": "t|Futur|2",
+        "f": "tense",
+        "s": "Cette loi ___ des difficultés pour les petites entreprises.",
+        "a": "créera",
+        "en": "This law will create difficulties for small businesses.",
+        "alts": [],
+        "form": "Futur"
+      },
+      {
+        "slot": "t|Futur|3",
+        "f": "tense",
+        "s": "L'année prochaine, nous ___ une nouvelle salle de sport pour les habitants.",
+        "a": "créerons",
+        "en": "Next year, we will create a new gym for the residents.",
+        "alts": [],
+        "form": "Futur"
+      },
+      {
+        "slot": "t|Futur|3",
+        "f": "tense",
+        "s": "Ensemble, nous ___ un monde meilleur pour nos enfants.",
+        "a": "créerons",
+        "en": "Together, we will create a better world for our children.",
+        "alts": [],
+        "form": "Futur"
+      },
+      {
+        "slot": "t|Futur|4",
+        "f": "tense",
+        "s": "Avec cet outil, vous ___ des graphiques en quelques minutes.",
+        "a": "créerez",
+        "en": "With this tool, you will create charts in just a few minutes.",
+        "alts": [],
+        "form": "Futur"
+      },
+      {
+        "slot": "t|Futur|4",
+        "f": "tense",
+        "s": "Durant ce stage, vous ___ votre premier prototype.",
+        "a": "créerez",
+        "en": "During this internship, you will create your first prototype.",
+        "alts": [],
+        "form": "Futur"
+      },
+      {
+        "slot": "t|Futur|5",
+        "f": "tense",
+        "s": "Ces ingénieurs ___ un robot capable de parler dans dix ans.",
+        "a": "créeront",
+        "en": "These engineers will create a robot capable of speaking in ten years.",
+        "alts": [],
+        "form": "Futur"
+      },
+      {
+        "slot": "t|Futur|5",
+        "f": "tense",
+        "s": "Ils ___ mille nouveaux emplois grâce à ce projet industriel.",
+        "a": "créeront",
+        "en": "They will create a thousand new jobs thanks to this industrial project.",
+        "alts": [],
+        "form": "Futur"
+      },
+      {
+        "slot": "t|Conditionnel|0",
+        "f": "tense",
+        "s": "Si j'avais plus de temps, je ___ une application mobile.",
+        "a": "créerais",
+        "en": "If I had more time, I would create a mobile application.",
+        "alts": [],
+        "form": "Conditionnel"
+      },
+      {
+        "slot": "t|Conditionnel|0",
+        "f": "tense",
+        "s": "Si tu avais les ressources nécessaires, tu ___ ta propre école.",
+        "a": "créerais",
+        "en": "If you had the necessary resources, you would create your own school.",
+        "alts": [],
+        "form": "Conditionnel"
+      },
+      {
+        "slot": "t|Conditionnel|1",
+        "f": "tense",
+        "s": "Si elle avait du talent en peinture, elle ___ de belles toiles.",
+        "a": "créerait",
+        "en": "If she had talent in painting, she would create beautiful canvases.",
+        "alts": [],
+        "form": "Conditionnel"
+      },
+      {
+        "slot": "t|Conditionnel|1",
+        "f": "tense",
+        "s": "Ce projet ___ de nombreuses opportunités pour la région.",
+        "a": "créerait",
+        "en": "This project would create many opportunities for the region.",
+        "alts": [],
+        "form": "Conditionnel"
+      },
+      {
+        "slot": "t|Conditionnel|2",
+        "f": "tense",
+        "s": "Avec plus de budget, nous ___ une exposition internationale.",
+        "a": "créerions",
+        "en": "With more budget, we would create an international exhibition.",
+        "alts": [],
+        "form": "Conditionnel"
+      },
+      {
+        "slot": "t|Conditionnel|2",
+        "f": "tense",
+        "s": "Si nous avions un local, nous ___ un atelier pour les artisans.",
+        "a": "créerions",
+        "en": "If we had a space, we would create a workshop for craftsmen.",
+        "alts": [],
+        "form": "Conditionnel"
+      },
+      {
+        "slot": "t|Conditionnel|3",
+        "f": "tense",
+        "s": "Si vous aviez le choix, vous ___ quel type d'entreprise ?",
+        "a": "créeriez",
+        "en": "If you had the choice, what type of company would you create?",
+        "alts": [],
+        "form": "Conditionnel"
+      },
+      {
+        "slot": "t|Conditionnel|3",
+        "f": "tense",
+        "s": "Avec ces outils, vous ___ des œuvres d'art bien plus facilement.",
+        "a": "créeriez",
+        "en": "With these tools, you would create works of art much more easily.",
+        "alts": [],
+        "form": "Conditionnel"
+      },
+      {
+        "slot": "t|Conditionnel|4",
+        "f": "tense",
+        "s": "Si ces architectes avaient plus de liberté, ils ___ des bâtiments révolutionnaires.",
+        "a": "créeraient",
+        "en": "If these architects had more freedom, they would create revolutionary buildings.",
+        "alts": [],
+        "form": "Conditionnel"
+      },
+      {
+        "slot": "t|Conditionnel|4",
+        "f": "tense",
+        "s": "Ces nouvelles règles ___ trop de contraintes pour les étudiants.",
+        "a": "créeraient",
+        "en": "These new rules would create too many constraints for the students.",
+        "alts": [],
+        "form": "Conditionnel"
+      },
+      {
+        "slot": "t|Subjonctif",
+        "f": "subj",
+        "s": "Il faut que tu ___ un compte pour accéder à ce service.",
+        "a": "crées",
+        "en": "You need to create an account to access this service.",
+        "alts": [],
+        "form": "Subjonctif"
+      },
+      {
+        "slot": "t|Subjonctif",
+        "f": "subj",
+        "s": "Je souhaite que nous ___ un espace de travail collaboratif.",
+        "a": "créions",
+        "en": "I wish that we create a collaborative workspace.",
+        "alts": [],
+        "form": "Subjonctif"
+      },
+      {
+        "slot": "s|0",
+        "f": "sense",
+        "s": "L'artiste ___ une sculpture originale pour l'exposition.",
+        "a": "crée",
+        "en": "The artist creates an original sculpture for the exhibition.",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "s|0",
+        "f": "sense",
+        "s": "Ce musicien ___ des œuvres qui touchent des milliers de personnes.",
+        "a": "crée",
+        "en": "This musician creates works that touch thousands of people.",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "s|1",
+        "f": "sense",
+        "s": "Ils vont ___ une association pour aider les sans-abri.",
+        "a": "créer",
+        "en": "They are going to create (found) an association to help the homeless.",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "s|1",
+        "f": "sense",
+        "s": "Elle a décidé de ___ une entreprise spécialisée dans le numérique.",
+        "a": "créer",
+        "en": "She decided to create (set up) a company specializing in digital technology.",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "s|2",
+        "f": "sense",
+        "s": "Ce traité a permis de ___ des liens solides entre les deux pays.",
+        "a": "créer",
+        "en": "This treaty made it possible to establish strong ties between the two countries.",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "s|2",
+        "f": "sense",
+        "s": "Les deux présidents veulent ___ une coopération durable entre leurs nations.",
+        "a": "créer",
+        "en": "The two presidents want to establish lasting cooperation between their nations.",
+        "alts": [],
+        "form": ""
+      }
+    ]
+  },
+  {
+    "id": 333,
+    "qs": [
+      {
+        "slot": "s|0",
+        "f": "sense",
+        "s": "L'eau peut exister sous trois ___ : solide, liquide et gazeux.",
+        "a": "états",
+        "en": "Water can exist in three states: solid, liquid, and gaseous.",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "s|0",
+        "f": "sense",
+        "s": "Après le choc, il est resté dans un ___ de stupeur pendant plusieurs minutes.",
+        "a": "état",
+        "en": "After the shock, he remained in a state of stupor for several minutes.",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "s|1",
+        "f": "sense",
+        "s": "Le médecin a évalué l'___ de santé du patient avant l'opération.",
+        "a": "état",
+        "en": "The doctor assessed the patient's health condition before the operation.",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "s|1",
+        "f": "sense",
+        "s": "Les routes sont en mauvais ___ après les fortes pluies de la semaine dernière.",
+        "a": "état",
+        "en": "The roads are in poor condition after last week's heavy rains.",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "s|2",
+        "f": "sense",
+        "s": "La France est un ___ membre de l'Union européenne.",
+        "a": "État",
+        "en": "France is a member state of the European Union.",
+        "alts": ["état"],
+        "form": ""
+      },
+      {
+        "slot": "s|2",
+        "f": "sense",
+        "s": "Un ___ souverain a le droit de contrôler ses frontières et de faire ses propres lois.",
+        "a": "État",
+        "en": "A sovereign state has the right to control its borders and make its own laws.",
+        "alts": ["état"],
+        "form": ""
+      },
+      {
+        "slot": "s|3",
+        "f": "sense",
+        "s": "L'___ investit chaque année des milliards d'euros dans l'éducation nationale.",
+        "a": "État",
+        "en": "The government invests billions of euros each year in national education.",
+        "alts": ["état"],
+        "form": ""
+      },
+      {
+        "slot": "s|3",
+        "f": "sense",
+        "s": "Dans ce pays, les entreprises publiques sont contrôlées par l'___.",
+        "a": "État",
+        "en": "In this country, public enterprises are controlled by the government.",
+        "alts": ["état"],
+        "form": ""
+      },
+      {
+        "slot": "gender",
+        "f": "gender",
+        "s": "C'est ___ état d'urgence que le président vient de décréter.",
+        "a": "un",
+        "en": "It is a state of emergency that the president has just decreed.",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "gender",
+        "f": "gender",
+        "s": "L'équipe a analysé ___ état actuel du projet avant de prendre une décision.",
+        "a": "l'",
+        "en": "The team analyzed the current state of the project before making a decision.",
+        "alts": [],
+        "form": ""
+      }
+    ]
+  }
+]

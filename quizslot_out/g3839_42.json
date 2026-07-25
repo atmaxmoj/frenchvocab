@@ -1,0 +1,39 @@
+[
+  {
+    "id": 3965,
+    "qs": [
+      {"slot":"s|0","f":"sense","s":"Le chat s'est caché ___ du lit pour faire sa sieste.","a":"au-dessous","en":"The cat hid underneath the bed to take its nap.","alts":[],"form":""},
+      {"slot":"s|0","f":"sense","s":"La lampe est accrochée au plafond et le bureau se trouve juste ___ .","a":"au-dessous","en":"The lamp is attached to the ceiling and the desk is right underneath.","alts":[],"form":""},
+      {"slot":"s|1","f":"sense","s":"Les enfants ___ de douze ans paient demi-tarif.","a":"au-dessous","en":"Children under twelve years old pay half price.","alts":[],"form":""},
+      {"slot":"s|1","f":"sense","s":"La température est tombée ___ de zéro cette nuit.","a":"au-dessous","en":"The temperature dropped below zero last night.","alts":[],"form":""}
+    ]
+  },
+  {
+    "id": 3966,
+    "qs": [
+      {"slot":"s|0","f":"sense","s":"L'architecte a conçu un bâtiment ___ qui répond aux besoins techniques des utilisateurs.","a":"fonctionnel","en":"The architect designed a functional building that meets the technical needs of users.","alts":[],"form":""},
+      {"slot":"s|0","f":"sense","s":"Ce logiciel offre une interface ___ qui facilite l'utilisation de toutes ses fonctions.","a":"fonctionnelle","en":"This software offers a functional interface that makes all its features easy to use.","alts":[],"form":""},
+      {"slot":"s|1","f":"sense","s":"Ce canapé est très ___ : il sert à la fois de siège et de lit d'appoint.","a":"fonctionnel","en":"This sofa is very practical: it serves as both a seat and a spare bed.","alts":["pratique"],"form":""},
+      {"slot":"s|1","f":"sense","s":"Elle préfère une cuisine ___, avec beaucoup de rangements et peu de fioritures.","a":"fonctionnelle","en":"She prefers a practical kitchen, with lots of storage and few frills.","alts":["pratique"],"form":""},
+      {"slot":"g|mp","f":"agree","s":"Les espaces ___ de ce bureau permettent aux équipes de travailler efficacement.","a":"fonctionnels","en":"The functional spaces in this office allow teams to work efficiently.","alts":[],"form":""},
+      {"slot":"g|mp","f":"agree","s":"Ces meubles ___ conviennent parfaitement à un petit appartement.","a":"fonctionnels","en":"These functional pieces of furniture are perfect for a small apartment.","alts":[],"form":""},
+      {"slot":"g|f","f":"agree","s":"La cuisine est entièrement ___ et bien équipée pour préparer de grands repas.","a":"fonctionnelle","en":"The kitchen is fully functional and well-equipped for preparing large meals.","alts":[],"form":""},
+      {"slot":"g|f","f":"agree","s":"Cette tenue est à la fois élégante et ___, idéale pour travailler au bureau.","a":"fonctionnelle","en":"This outfit is both elegant and practical, ideal for working in the office.","alts":[],"form":""},
+      {"slot":"g|fp","f":"agree","s":"Les salles de réunion sont ___ et équipées de tout le matériel nécessaire.","a":"fonctionnelles","en":"The meeting rooms are functional and equipped with all the necessary equipment.","alts":[],"form":""},
+      {"slot":"g|fp","f":"agree","s":"Les tenues proposées par cette marque sont sobres et ___, parfaites pour un usage quotidien.","a":"fonctionnelles","en":"The outfits offered by this brand are simple and practical, perfect for everyday use.","alts":[],"form":""}
+    ]
+  },
+  {
+    "id": 3967,
+    "qs": [
+      {"slot":"s|0","f":"sense","s":"La voiture est tombée en ___ sur l'autoroute et ils ont dû appeler une dépanneuse.","a":"panne","en":"The car broke down on the motorway and they had to call a tow truck.","alts":[]},
+      {"slot":"s|0","f":"sense","s":"Le bus scolaire est en ___ depuis ce matin ; les enfants attendent un véhicule de remplacement.","a":"panne","en":"The school bus has been broken down since this morning; the children are waiting for a replacement vehicle.","alts":[]},
+      {"slot":"s|1","f":"sense","s":"Une ___ de courant a plongé tout le quartier dans l'obscurité pendant plusieurs heures.","a":"panne","en":"A power outage plunged the entire neighbourhood into darkness for several hours.","alts":[]},
+      {"slot":"s|1","f":"sense","s":"Pendant l'orage, nous avons subi une ___ d'électricité qui a duré toute la nuit.","a":"panne","en":"During the storm, we suffered a power failure that lasted all night.","alts":[]},
+      {"slot":"s|2","f":"sense","s":"Mon téléphone est en ___ : l'écran ne répond plus aux commandes.","a":"panne","en":"My phone has stopped working: the screen no longer responds to commands.","alts":[]},
+      {"slot":"s|2","f":"sense","s":"Les freins de la moto étaient en ___ au moment de l'accident, ce qui a aggravé les dégâts.","a":"panne","en":"The motorcycle's brakes had failed at the time of the accident, which made the damage worse.","alts":[]},
+      {"slot":"gender","f":"gender","s":"___ panne de courant a duré toute la nuit et nous avons dû utiliser des bougies.","a":"La","en":"The power outage lasted all night and we had to use candles.","alts":[]},
+      {"slot":"gender","f":"gender","s":"Il a eu ___ panne sur la route de Lyon et a attendu deux heures avant d'être secouru.","a":"une","en":"He had a breakdown on the road to Lyon and waited two hours before being rescued.","alts":[]}
+    ]
+  }
+]

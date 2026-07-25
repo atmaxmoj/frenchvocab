@@ -1,0 +1,39 @@
+[
+  {
+    "id": 6261,
+    "qs": [
+      {"slot":"s|0","f":"sense","s":"Elle rêve de devenir ___ pour une célèbre marque de mode.","a":"mannequin","en":"She dreams of becoming a model for a famous fashion brand.","alts":[]},
+      {"slot":"s|0","f":"sense","s":"Ce ___ a défilé sur le podium lors de la Fashion Week de Paris.","a":"mannequin","en":"This model walked the runway during Paris Fashion Week.","alts":[]},
+      {"slot":"s|1","f":"sense","s":"Dans la vitrine du magasin, la robe est exposée sur un ___.","a":"mannequin","en":"In the shop window, the dress is displayed on a mannequin.","alts":[]},
+      {"slot":"s|1","f":"sense","s":"La couturière ajuste le tissu directement sur le ___ avant de coudre la robe.","a":"mannequin","en":"The dressmaker adjusts the fabric directly on the dummy before sewing the dress.","alts":[]},
+      {"slot":"s|2","f":"sense","s":"Les ingénieurs utilisent un ___ pour mesurer l'impact lors des essais de collision.","a":"mannequin","en":"Engineers use a dummy to measure the impact during crash tests.","alts":[]},
+      {"slot":"s|2","f":"sense","s":"Les étudiants en secourisme pratiquent le massage cardiaque sur un ___.","a":"mannequin","en":"First-aid students practice chest compressions on a dummy.","alts":[]},
+      {"slot":"gender","f":"gender","s":"Dans la vitrine, ___ mannequin porte une robe magnifique.","a":"le","en":"In the shop window, the mannequin wears a magnificent dress.","alts":[]},
+      {"slot":"gender","f":"gender","s":"Elle a acheté ___ mannequin en bois pour son atelier de couture.","a":"un","en":"She bought a wooden mannequin for her sewing workshop.","alts":[]}
+    ]
+  },
+  {
+    "id": 6262,
+    "qs": [
+      {"slot":"s|0","f":"sense","s":"Le chien a un ___ beaucoup plus développé que celui de l'homme.","a":"odorat","en":"The dog has a sense of smell much more developed than that of humans.","alts":[]},
+      {"slot":"s|0","f":"sense","s":"Après un gros rhume, elle a perdu l'___ pendant plusieurs jours.","a":"odorat","en":"After a bad cold, she lost her sense of smell for several days.","alts":[]},
+      {"slot":"gender","f":"gender","s":"Le chef cuisinier a ___ odorat remarquable pour repérer les épices.","a":"un","en":"The chef has a remarkable sense of smell for detecting spices.","alts":[]},
+      {"slot":"gender","f":"gender","s":"Ce sommelier possède ___ odorat exceptionnel, capable de distinguer des dizaines d'arômes.","a":"un","en":"This sommelier has an exceptional sense of smell, capable of distinguishing dozens of aromas.","alts":[]}
+    ]
+  },
+  {
+    "id": 6263,
+    "qs": [
+      {"slot":"s|0","f":"sense","s":"Le mur de cette pièce est parfaitement ___, sans aucune inclinaison.","a":"vertical","en":"The wall of this room is perfectly vertical, without any tilt.","alts":[]},
+      {"slot":"s|0","f":"sense","s":"Le poteau électrique est resté ___ malgré le vent violent.","a":"vertical","en":"The utility pole remained vertical despite the strong wind.","alts":[]},
+      {"slot":"s|1","f":"sense","s":"L'axe ___ du graphique représente la température.","a":"vertical","en":"The vertical axis of the graph represents temperature.","alts":[]},
+      {"slot":"s|1","f":"sense","s":"Le trait ___ sépare les deux colonnes du tableau.","a":"vertical","en":"The vertical line separates the two columns of the table.","alts":[]},
+      {"slot":"g|mp","f":"agree","s":"Ces poteaux sont tous ___ le long de la route.","a":"verticaux","en":"These poles are all vertical along the road.","alts":[]},
+      {"slot":"g|mp","f":"agree","s":"Les murs ___ du bâtiment résistent bien aux séismes.","a":"verticaux","en":"The vertical walls of the building withstand earthquakes well.","alts":[]},
+      {"slot":"g|f","f":"agree","s":"La ligne ___ traverse tout le dessin.","a":"verticale","en":"The vertical line runs through the whole drawing.","alts":[]},
+      {"slot":"g|f","f":"agree","s":"Cette échelle doit rester ___ pour être sûre.","a":"verticale","en":"This ladder must remain vertical to be safe.","alts":[]},
+      {"slot":"g|fp","f":"agree","s":"Les lignes ___ structurent la façade de l'immeuble.","a":"verticales","en":"The vertical lines structure the building's facade.","alts":[]},
+      {"slot":"g|fp","f":"agree","s":"Ces rayures ___ donnent une impression de hauteur.","a":"verticales","en":"These vertical stripes give an impression of height.","alts":[]}
+    ]
+  }
+]

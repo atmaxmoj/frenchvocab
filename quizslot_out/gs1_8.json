@@ -1,0 +1,43 @@
+[
+  {
+    "id": 2875,
+    "qs": [
+      {"slot":"s|0","f":"sense","s":"Ce gâteau est préparé avec un mélange ___ de fruits et de chocolat.","en":"This cake is made with a mixed blend of fruit and chocolate.","a":"mixte","alts":[],"form":""},
+      {"slot":"s|0","f":"sense","s":"L'école propose une cuisine ___ qui combine des recettes traditionnelles et modernes.","en":"The school offers a mixed cuisine that combines traditional and modern recipes.","a":"mixte","alts":[],"form":""},
+      {"slot":"s|1","f":"sense","s":"Le club de tennis a décidé de créer une équipe ___ pour les prochains tournois.","en":"The tennis club decided to create a mixed (male and female) team for the upcoming tournaments.","a":"mixte","alts":[],"form":""},
+      {"slot":"s|1","f":"sense","s":"Dans cette école, la classe de natation est ___ : les garçons et les filles s'entraînent ensemble.","en":"In this school, the swimming class is mixed: boys and girls train together.","a":"mixte","alts":[],"form":""},
+      {"slot":"g|mp","f":"agree","s":"Les résultats de ces tests ___ ont surpris les chercheurs.","en":"The results of these mixed tests surprised the researchers.","a":"mixtes","alts":[],"form":""},
+      {"slot":"g|mp","f":"agree","s":"Les groupes ___ travaillent mieux sur les projets créatifs.","en":"Mixed (male and female) groups work better on creative projects.","a":"mixtes","alts":[],"form":""},
+      {"slot":"g|f","f":"agree","s":"La commission ___ a réuni des experts de plusieurs domaines.","en":"The mixed commission brought together experts from several fields.","a":"mixte","alts":[],"form":""},
+      {"slot":"g|f","f":"agree","s":"C'est une salle de sport ___ où hommes et femmes s'exercent ensemble.","en":"It is a mixed gym where men and women exercise together.","a":"mixte","alts":[],"form":""},
+      {"slot":"g|fp","f":"agree","s":"Les équipes ___ de cette compétition ont obtenu de très bons résultats.","en":"The mixed (male and female) teams in this competition achieved very good results.","a":"mixtes","alts":[],"form":""},
+      {"slot":"g|fp","f":"agree","s":"Les classes ___ favorisent la coopération entre élèves de genres différents.","en":"Mixed classes (with boys and girls) promote cooperation among students of different genders.","a":"mixtes","alts":[],"form":""}
+    ]
+  },
+  {
+    "id": 2876,
+    "qs": [
+      {"slot":"s|0","f":"sense","s":"Le médecin a réalisé un examen ___ approfondi avant de poser le diagnostic.","en":"The doctor performed a thorough clinical examination before making the diagnosis.","a":"clinique","alts":[],"form":""},
+      {"slot":"s|0","f":"sense","s":"Les résultats de l'essai ___ montrent que ce médicament est efficace.","en":"The results of the clinical trial show that this medication is effective.","a":"clinique","alts":[],"form":""},
+      {"slot":"s|1","f":"sense","s":"Le personnel ___ de cet établissement privé assure un accueil chaleureux aux patients.","en":"The clinic staff at this private establishment provides a warm welcome to patients.","a":"clinique","alts":[],"form":""},
+      {"slot":"s|1","f":"sense","s":"Les services ___ de cette maison de santé sont ouverts du lundi au vendredi.","en":"The clinic services at this health centre are open from Monday to Friday.","a":"cliniques","alts":[],"form":""},
+      {"slot":"g|mp","f":"agree","s":"Les médecins ont observé des signes ___ très préoccupants chez ce patient.","en":"The doctors observed very worrying clinical signs in this patient.","a":"cliniques","alts":[],"form":""},
+      {"slot":"g|mp","f":"agree","s":"Ces essais ___ ont permis de valider l'efficacité du nouveau traitement.","en":"These clinical trials made it possible to validate the effectiveness of the new treatment.","a":"cliniques","alts":[],"form":""},
+      {"slot":"g|f","f":"agree","s":"Elle a reçu une formation ___ de haut niveau dans ce grand hôpital universitaire.","en":"She received high-level clinical training at this large university hospital.","a":"clinique","alts":[],"form":""},
+      {"slot":"g|f","f":"agree","s":"La pratique ___ exige de l'observation, de la rigueur et beaucoup d'empathie.","en":"Clinical practice requires observation, rigour, and a great deal of empathy.","a":"clinique","alts":[],"form":""},
+      {"slot":"g|fp","f":"agree","s":"Les études ___ menées sur ce vaccin ont démontré son innocuité et son efficacité.","en":"The clinical studies conducted on this vaccine demonstrated its safety and efficacy.","a":"cliniques","alts":[],"form":""},
+      {"slot":"g|fp","f":"agree","s":"Ces observations ___ confirment l'hypothèse avancée par l'équipe de recherche.","en":"These clinical observations confirm the hypothesis put forward by the research team.","a":"cliniques","alts":[],"form":""}
+    ]
+  },
+  {
+    "id": 2877,
+    "qs": [
+      {"slot":"s|0","f":"sense","s":"Les enfants sont de bons ___ : ils regardent le spectacle sans faire de bruit.","en":"Children are good audience members: they watch the show without making noise.","a":"spectateurs","alts":[],"form":""},
+      {"slot":"s|0","f":"sense","s":"Chaque ___ a reçu un programme à l'entrée du théâtre.","en":"Each audience member received a programme at the theatre entrance.","a":"spectateur","alts":[],"form":""},
+      {"slot":"s|1","f":"sense","s":"Il n'a pas participé à la dispute ; il est resté simple ___ .","en":"He did not get involved in the argument; he remained a mere onlooker.","a":"spectateur","alts":[],"form":""},
+      {"slot":"s|1","f":"sense","s":"En tant que ___ de la scène, elle n'a rien fait pour aider les victimes.","en":"As an onlooker of the scene, she did nothing to help the victims.","a":"spectatrice","alts":[],"form":""},
+      {"slot":"gender","f":"gender","s":"Mon voisin est ___ spectateur enthousiaste de tous les matchs.","en":"My neighbour is an enthusiastic spectator of every match.","a":"un","alts":[],"form":""},
+      {"slot":"gender","f":"gender","s":"À la fin du concert, ___ spectateur s'est levé pour applaudir.","en":"At the end of the concert, the spectator stood up to applaud.","a":"le","alts":[],"form":""}
+    ]
+  }
+]

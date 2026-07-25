@@ -1,0 +1,701 @@
+[
+  {
+    "id": 3296,
+    "qs": [
+      {
+        "slot": "s|0",
+        "f": "sense",
+        "s": "Ma voiture doit passer une ___ technique avant la fin du mois.",
+        "en": "My car needs to pass a technical inspection before the end of the month.",
+        "a": "inspection",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "s|0",
+        "f": "sense",
+        "s": "Le douanier a procédé à une ___ minutieuse de tous les bagages.",
+        "en": "The customs officer carried out a thorough inspection of all the luggage.",
+        "a": "inspection",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "s|1",
+        "f": "sense",
+        "s": "Le ministre a effectué une ___ surprise dans plusieurs établissements scolaires de la région.",
+        "en": "The minister carried out a surprise inspection of several schools in the region.",
+        "a": "inspection",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "s|1",
+        "f": "sense",
+        "s": "Le général a passé ses troupes en ___ avant la cérémonie officielle.",
+        "en": "The general reviewed his troops in an inspection before the official ceremony.",
+        "a": "inspection",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "s|2",
+        "f": "sense",
+        "s": "L'___ académique a publié un rapport sur les résultats des élèves dans le département.",
+        "en": "The academic inspectorate published a report on student results in the department.",
+        "a": "inspection",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "s|2",
+        "f": "sense",
+        "s": "Les agents de l'___ du travail ont vérifié les conditions d'hygiène dans l'usine.",
+        "en": "The labour inspectorate officers checked the hygiene conditions in the factory.",
+        "a": "inspection",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "gender",
+        "f": "gender",
+        "s": "___ inspection sanitaire a conclu que le restaurant respectait toutes les normes.",
+        "en": "The sanitary inspection concluded that the restaurant met all the standards.",
+        "a": "L'",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "gender",
+        "f": "gender",
+        "s": "Il a demandé ___ inspection approfondie de l'installation électrique.",
+        "en": "He requested a thorough inspection of the electrical installation.",
+        "a": "une",
+        "alts": [],
+        "form": ""
+      }
+    ]
+  },
+  {
+    "id": 3297,
+    "qs": [
+      {
+        "slot": "t|Présent|0",
+        "f": "tense",
+        "s": "Je ___ mes économies en dollars avant le voyage.",
+        "en": "I convert my savings into dollars before the trip.",
+        "a": "convertis",
+        "alts": [],
+        "form": "Présent"
+      },
+      {
+        "slot": "t|Présent|0",
+        "f": "tense",
+        "s": "Tu ___ facilement les fichiers PDF en Word avec ce logiciel.",
+        "en": "You easily convert PDF files into Word with this software.",
+        "a": "convertis",
+        "alts": [],
+        "form": "Présent"
+      },
+      {
+        "slot": "t|Présent|1",
+        "f": "tense",
+        "s": "Ce programme ___ automatiquement les devises étrangères.",
+        "en": "This program automatically converts foreign currencies.",
+        "a": "convertit",
+        "alts": [],
+        "form": "Présent"
+      },
+      {
+        "slot": "t|Présent|1",
+        "f": "tense",
+        "s": "On ___ souvent les anciennes granges en maisons modernes à la campagne.",
+        "en": "One often converts old barns into modern houses in the countryside.",
+        "a": "convertit",
+        "alts": [],
+        "form": "Présent"
+      },
+      {
+        "slot": "t|Présent|2",
+        "f": "tense",
+        "s": "Nous ___ les données brutes en graphiques clairs pour la présentation.",
+        "en": "We convert the raw data into clear charts for the presentation.",
+        "a": "convertissons",
+        "alts": [],
+        "form": "Présent"
+      },
+      {
+        "slot": "t|Présent|2",
+        "f": "tense",
+        "s": "Nous ___ tous nos fichiers audio en MP3 pour économiser de l'espace.",
+        "en": "We convert all our audio files to MP3 to save space.",
+        "a": "convertissons",
+        "alts": [],
+        "form": "Présent"
+      },
+      {
+        "slot": "t|Présent|3",
+        "f": "tense",
+        "s": "Vous ___ cet entrepôt en appartements de luxe, n'est-ce pas ?",
+        "en": "You are converting this warehouse into luxury apartments, aren't you?",
+        "a": "convertissez",
+        "alts": [],
+        "form": "Présent"
+      },
+      {
+        "slot": "t|Présent|3",
+        "f": "tense",
+        "s": "Comment ___ vous les euros en yens pour votre séjour au Japon ?",
+        "en": "How do you convert euros into yen for your stay in Japan?",
+        "a": "convertissez",
+        "alts": [],
+        "form": "Présent"
+      },
+      {
+        "slot": "t|Présent|4",
+        "f": "tense",
+        "s": "Les panneaux solaires ___ la lumière du soleil en électricité.",
+        "en": "Solar panels convert sunlight into electricity.",
+        "a": "convertissent",
+        "alts": [],
+        "form": "Présent"
+      },
+      {
+        "slot": "t|Présent|4",
+        "f": "tense",
+        "s": "Ces ingénieurs ___ les signaux analogiques en signaux numériques.",
+        "en": "These engineers convert analog signals into digital signals.",
+        "a": "convertissent",
+        "alts": [],
+        "form": "Présent"
+      },
+      {
+        "slot": "t|Passé composé|0",
+        "f": "tense",
+        "s": "J'___ mes euros en livres sterling à l'aéroport hier.",
+        "en": "I converted my euros into pounds sterling at the airport yesterday.",
+        "a": "ai converti",
+        "alts": [],
+        "form": "Passé composé"
+      },
+      {
+        "slot": "t|Passé composé|0",
+        "f": "tense",
+        "s": "L'année dernière, j'___ mon garage en bureau à domicile.",
+        "en": "Last year, I converted my garage into a home office.",
+        "a": "ai converti",
+        "alts": [],
+        "form": "Passé composé"
+      },
+      {
+        "slot": "t|Passé composé|1",
+        "f": "tense",
+        "s": "Tu ___ ce vieux fichier en PDF pour l'envoyer par e-mail.",
+        "en": "You converted that old file into a PDF to send it by email.",
+        "a": "as converti",
+        "alts": [],
+        "form": "Passé composé"
+      },
+      {
+        "slot": "t|Passé composé|1",
+        "f": "tense",
+        "s": "Est-ce que tu ___ toute ta bibliothèque musicale en MP3 ?",
+        "en": "Did you convert your entire music library to MP3?",
+        "a": "as converti",
+        "alts": [],
+        "form": "Passé composé"
+      },
+      {
+        "slot": "t|Passé composé|2",
+        "f": "tense",
+        "s": "Le missionnaire ___ plusieurs villageois au christianisme au XVIIIe siècle.",
+        "en": "The missionary converted several villagers to Christianity in the 18th century.",
+        "a": "a converti",
+        "alts": [],
+        "form": "Passé composé"
+      },
+      {
+        "slot": "t|Passé composé|2",
+        "f": "tense",
+        "s": "L'architecte ___ cette usine désaffectée en galerie d'art.",
+        "en": "The architect converted this disused factory into an art gallery.",
+        "a": "a converti",
+        "alts": [],
+        "form": "Passé composé"
+      },
+      {
+        "slot": "t|Passé composé|3",
+        "f": "tense",
+        "s": "Nous ___ tous nos dollars en euros avant de partir en Europe.",
+        "en": "We converted all our dollars into euros before leaving for Europe.",
+        "a": "avons converti",
+        "alts": [],
+        "form": "Passé composé"
+      },
+      {
+        "slot": "t|Passé composé|3",
+        "f": "tense",
+        "s": "Nous ___ l'ancienne chapelle en salle de conférence le mois dernier.",
+        "en": "We converted the old chapel into a conference room last month.",
+        "a": "avons converti",
+        "alts": [],
+        "form": "Passé composé"
+      },
+      {
+        "slot": "t|Passé composé|4",
+        "f": "tense",
+        "s": "Avez-vous ___ vos économies en or pendant la crise financière ?",
+        "en": "Did you convert your savings into gold during the financial crisis?",
+        "a": "converti",
+        "alts": [],
+        "form": "Passé composé"
+      },
+      {
+        "slot": "t|Passé composé|4",
+        "f": "tense",
+        "s": "Vous ___ rapidement ces données en tableau lors de la réunion.",
+        "en": "You quickly converted this data into a table during the meeting.",
+        "a": "avez converti",
+        "alts": [],
+        "form": "Passé composé"
+      },
+      {
+        "slot": "t|Passé composé|5",
+        "f": "tense",
+        "s": "Ces entrepreneurs ___ l'immeuble abandonné en résidence étudiante.",
+        "en": "These entrepreneurs converted the abandoned building into student housing.",
+        "a": "ont converti",
+        "alts": [],
+        "form": "Passé composé"
+      },
+      {
+        "slot": "t|Passé composé|5",
+        "f": "tense",
+        "s": "Les techniciens ___ tous les fichiers vidéo en format numérique la semaine passée.",
+        "en": "The technicians converted all the video files into digital format last week.",
+        "a": "ont converti",
+        "alts": [],
+        "form": "Passé composé"
+      },
+      {
+        "slot": "t|Imparfait|0",
+        "f": "tense",
+        "s": "Quand j'étudiais à l'étranger, je ___ régulièrement mes euros en monnaie locale.",
+        "en": "When I was studying abroad, I regularly converted my euros into local currency.",
+        "a": "convertissais",
+        "alts": [],
+        "form": "Imparfait"
+      },
+      {
+        "slot": "t|Imparfait|0",
+        "f": "tense",
+        "s": "À l'époque, tu ___ toujours tes photos en noir et blanc pour tes expositions.",
+        "en": "Back then, you always converted your photos into black and white for your exhibitions.",
+        "a": "convertissais",
+        "alts": [],
+        "form": "Imparfait"
+      },
+      {
+        "slot": "t|Imparfait|1",
+        "f": "tense",
+        "s": "Ce prédicateur ___ de nombreuses personnes à sa religion chaque année.",
+        "en": "This preacher used to convert many people to his religion every year.",
+        "a": "convertissait",
+        "alts": [],
+        "form": "Imparfait"
+      },
+      {
+        "slot": "t|Imparfait|1",
+        "f": "tense",
+        "s": "L'ancien logiciel ___ les fichiers très lentement, ce qui nous agaçait.",
+        "en": "The old software used to convert files very slowly, which annoyed us.",
+        "a": "convertissait",
+        "alts": [],
+        "form": "Imparfait"
+      },
+      {
+        "slot": "t|Imparfait|2",
+        "f": "tense",
+        "s": "Nous ___ manuellement les mesures impériales en métriques à cette époque.",
+        "en": "We used to manually convert imperial measurements into metric ones back then.",
+        "a": "convertissions",
+        "alts": [],
+        "form": "Imparfait"
+      },
+      {
+        "slot": "t|Imparfait|2",
+        "f": "tense",
+        "s": "Chaque mois, nous ___ nos bénéfices en dollars pour les transferts internationaux.",
+        "en": "Every month, we used to convert our profits into dollars for international transfers.",
+        "a": "convertissions",
+        "alts": [],
+        "form": "Imparfait"
+      },
+      {
+        "slot": "t|Imparfait|3",
+        "f": "tense",
+        "s": "Vous ___ toujours les températures en Fahrenheit pour vos clients américains.",
+        "en": "You always used to convert temperatures into Fahrenheit for your American clients.",
+        "a": "convertissiez",
+        "alts": [],
+        "form": "Imparfait"
+      },
+      {
+        "slot": "t|Imparfait|3",
+        "f": "tense",
+        "s": "Est-ce que vous ___ ces documents en PDF avant de les archiver ?",
+        "en": "Did you use to convert these documents into PDF before archiving them?",
+        "a": "convertissiez",
+        "alts": [],
+        "form": "Imparfait"
+      },
+      {
+        "slot": "t|Imparfait|4",
+        "f": "tense",
+        "s": "Les marchands ___ les marchandises en or dans l'Antiquité.",
+        "en": "Merchants used to convert goods into gold in Antiquity.",
+        "a": "convertissaient",
+        "alts": [],
+        "form": "Imparfait"
+      },
+      {
+        "slot": "t|Imparfait|4",
+        "f": "tense",
+        "s": "Les missionnaires ___ les populations locales à la foi chrétienne pendant des siècles.",
+        "en": "Missionaries used to convert local populations to the Christian faith for centuries.",
+        "a": "convertissaient",
+        "alts": [],
+        "form": "Imparfait"
+      },
+      {
+        "slot": "t|Futur|0",
+        "f": "tense",
+        "s": "Je ___ mes économies en euros dès que j'arriverai à Paris.",
+        "en": "I will convert my savings into euros as soon as I arrive in Paris.",
+        "a": "convertirai",
+        "alts": [],
+        "form": "Futur"
+      },
+      {
+        "slot": "t|Futur|0",
+        "f": "tense",
+        "s": "L'année prochaine, je ___ notre cave en salle de cinéma.",
+        "en": "Next year, I will convert our cellar into a cinema room.",
+        "a": "convertirai",
+        "alts": [],
+        "form": "Futur"
+      },
+      {
+        "slot": "t|Futur|1",
+        "f": "tense",
+        "s": "Tu ___ tes fichiers avant de les envoyer à l'imprimeur, n'est-ce pas ?",
+        "en": "You will convert your files before sending them to the printer, won't you?",
+        "a": "convertiras",
+        "alts": [],
+        "form": "Futur"
+      },
+      {
+        "slot": "t|Futur|1",
+        "f": "tense",
+        "s": "Quand tu auras assez d'argent, tu ___ cet appartement en loft.",
+        "en": "When you have enough money, you will convert this apartment into a loft.",
+        "a": "convertiras",
+        "alts": [],
+        "form": "Futur"
+      },
+      {
+        "slot": "t|Futur|2",
+        "f": "tense",
+        "s": "Ce nouveau logiciel ___ automatiquement vos vidéos en haute définition.",
+        "en": "This new software will automatically convert your videos to high definition.",
+        "a": "convertira",
+        "alts": [],
+        "form": "Futur"
+      },
+      {
+        "slot": "t|Futur|2",
+        "f": "tense",
+        "s": "L'entreprise ___ ses bureaux en espace de co-working l'an prochain.",
+        "en": "The company will convert its offices into a co-working space next year.",
+        "a": "convertira",
+        "alts": [],
+        "form": "Futur"
+      },
+      {
+        "slot": "t|Futur|3",
+        "f": "tense",
+        "s": "Nous ___ toutes les mesures en unités métriques pour le rapport final.",
+        "en": "We will convert all the measurements into metric units for the final report.",
+        "a": "convertirons",
+        "alts": [],
+        "form": "Futur"
+      },
+      {
+        "slot": "t|Futur|3",
+        "f": "tense",
+        "s": "Nous ___ cet hangar en salle de spectacle dès que les travaux commenceront.",
+        "en": "We will convert this hangar into a performance hall as soon as the work begins.",
+        "a": "convertirons",
+        "alts": [],
+        "form": "Futur"
+      },
+      {
+        "slot": "t|Futur|4",
+        "f": "tense",
+        "s": "Vous ___ vos devises locales en euros à la banque avant de partir.",
+        "en": "You will convert your local currencies into euros at the bank before leaving.",
+        "a": "convertirez",
+        "alts": [],
+        "form": "Futur"
+      },
+      {
+        "slot": "t|Futur|4",
+        "f": "tense",
+        "s": "Quand ___ vous ces locaux industriels en logements sociaux ?",
+        "en": "When will you convert these industrial premises into social housing?",
+        "a": "convertirez",
+        "alts": [],
+        "form": "Futur"
+      },
+      {
+        "slot": "t|Futur|5",
+        "f": "tense",
+        "s": "Les scientifiques ___ bientôt l'énergie solaire en carburant propre.",
+        "en": "Scientists will soon convert solar energy into clean fuel.",
+        "a": "convertiront",
+        "alts": [],
+        "form": "Futur"
+      },
+      {
+        "slot": "t|Futur|5",
+        "f": "tense",
+        "s": "Ces promoteurs ___ les anciennes mines en musées touristiques.",
+        "en": "These developers will convert the old mines into tourist museums.",
+        "a": "convertiront",
+        "alts": [],
+        "form": "Futur"
+      },
+      {
+        "slot": "t|Conditionnel|0",
+        "f": "tense",
+        "s": "Si j'avais plus de temps, je ___ tous ces fichiers moi-même.",
+        "en": "If I had more time, I would convert all these files myself.",
+        "a": "convertirais",
+        "alts": [],
+        "form": "Conditionnel"
+      },
+      {
+        "slot": "t|Conditionnel|0",
+        "f": "tense",
+        "s": "Si tu avais les ressources nécessaires, tu ___ cette grange en hôtel.",
+        "en": "If you had the necessary resources, you would convert this barn into a hotel.",
+        "a": "convertirais",
+        "alts": [],
+        "form": "Conditionnel"
+      },
+      {
+        "slot": "t|Conditionnel|1",
+        "f": "tense",
+        "s": "Si ce logiciel était gratuit, il ___ nos fichiers beaucoup plus vite.",
+        "en": "If this software were free, it would convert our files much faster.",
+        "a": "convertirait",
+        "alts": [],
+        "form": "Conditionnel"
+      },
+      {
+        "slot": "t|Conditionnel|1",
+        "f": "tense",
+        "s": "Si elle avait un budget suffisant, elle ___ sa maison en chambres d'hôtes.",
+        "en": "If she had a sufficient budget, she would convert her house into a bed and breakfast.",
+        "a": "convertirait",
+        "alts": [],
+        "form": "Conditionnel"
+      },
+      {
+        "slot": "t|Conditionnel|2",
+        "f": "tense",
+        "s": "Si nous avions les fonds, nous ___ cet immeuble en école.",
+        "en": "If we had the funds, we would convert this building into a school.",
+        "a": "convertirions",
+        "alts": [],
+        "form": "Conditionnel"
+      },
+      {
+        "slot": "t|Conditionnel|2",
+        "f": "tense",
+        "s": "Nous ___ volontiers tous ces fichiers en PDF si vous nous le demandiez.",
+        "en": "We would gladly convert all these files to PDF if you asked us to.",
+        "a": "convertirions",
+        "alts": [],
+        "form": "Conditionnel"
+      },
+      {
+        "slot": "t|Conditionnel|3",
+        "f": "tense",
+        "s": "Si vous aviez un outil adapté, vous ___ ces mesures en quelques secondes.",
+        "en": "If you had the right tool, you would convert these measurements in a few seconds.",
+        "a": "convertiriez",
+        "alts": [],
+        "form": "Conditionnel"
+      },
+      {
+        "slot": "t|Conditionnel|3",
+        "f": "tense",
+        "s": "Vous ___ davantage de clients si votre site acceptait plusieurs devises.",
+        "en": "You would convert more customers if your site accepted multiple currencies.",
+        "a": "convertiriez",
+        "alts": [],
+        "form": "Conditionnel"
+      },
+      {
+        "slot": "t|Conditionnel|4",
+        "f": "tense",
+        "s": "Si les panneaux solaires étaient moins chers, ils ___ plus d'énergie pour les foyers.",
+        "en": "If solar panels were cheaper, they would convert more energy for households.",
+        "a": "convertiraient",
+        "alts": [],
+        "form": "Conditionnel"
+      },
+      {
+        "slot": "t|Conditionnel|4",
+        "f": "tense",
+        "s": "Ces promoteurs ___ plus de bâtiments en logements s'ils obtenaient des subventions.",
+        "en": "These developers would convert more buildings into housing if they received subsidies.",
+        "a": "convertiraient",
+        "alts": [],
+        "form": "Conditionnel"
+      },
+      {
+        "slot": "t|Subjonctif",
+        "f": "subj",
+        "s": "Il faut que tu ___ ce fichier en PDF avant de l'envoyer.",
+        "en": "You must convert this file to PDF before sending it.",
+        "a": "convertisses",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "t|Subjonctif",
+        "f": "subj",
+        "s": "Je souhaite qu'il ___ ses économies en euros avant le départ.",
+        "en": "I wish that he would convert his savings into euros before leaving.",
+        "a": "convertisse",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "s|0",
+        "f": "sense",
+        "s": "Les cellules du corps ___ les nutriments en énergie utilisable.",
+        "en": "The body's cells convert nutrients into usable energy.",
+        "a": "convertissent",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "s|0",
+        "f": "sense",
+        "s": "Ce traitement chimique ___ les déchets organiques en engrais naturel.",
+        "en": "This chemical process converts organic waste into natural fertilizer.",
+        "a": "convertit",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "s|1",
+        "f": "sense",
+        "s": "Ce philosophe a réussi à ___ plusieurs de ses disciples à une nouvelle vision du monde.",
+        "en": "This philosopher managed to convert several of his disciples to a new worldview.",
+        "a": "convertir",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "s|1",
+        "f": "sense",
+        "s": "Au Moyen Âge, les croisés cherchaient à ___ les populations non chrétiennes.",
+        "en": "In the Middle Ages, the Crusaders sought to convert non-Christian populations.",
+        "a": "convertir",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "s|2",
+        "f": "sense",
+        "s": "Mon application préférée me permet de ___ des euros en dollars en un clic.",
+        "en": "My favorite app lets me convert euros into dollars with one click.",
+        "a": "convertir",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "s|2",
+        "f": "sense",
+        "s": "Le programmeur doit ___ ces données brutes en format JSON lisible.",
+        "en": "The programmer must convert this raw data into readable JSON format.",
+        "a": "convertir",
+        "alts": [],
+        "form": ""
+      }
+    ]
+  },
+  {
+    "id": 3298,
+    "qs": [
+      {
+        "slot": "s|0",
+        "f": "sense",
+        "s": "Il s'est coupé le ___ en faisant la cuisine.",
+        "en": "He cut his thumb while cooking.",
+        "a": "pouce",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "s|0",
+        "f": "sense",
+        "s": "Elle a levé le ___ pour montrer son approbation.",
+        "en": "She gave a thumbs up to show her approval.",
+        "a": "pouce",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "s|1",
+        "f": "sense",
+        "s": "L'écran de ce téléphone mesure six ___ de diagonale.",
+        "en": "The screen of this phone measures six inches diagonally.",
+        "a": "pouces",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "s|1",
+        "f": "sense",
+        "s": "Un ___ équivaut à environ 2,54 centimètres.",
+        "en": "One inch equals approximately 2.54 centimetres.",
+        "a": "pouce",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "gender",
+        "f": "gender",
+        "s": "Je me suis fait mal au ___ gauche en jouant au basket.",
+        "en": "I hurt my left thumb playing basketball.",
+        "a": "pouce",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "gender",
+        "f": "gender",
+        "s": "Elle a enroulé ___ bandage autour de son pouce blessé.",
+        "en": "She put a bandage around her injured thumb.",
+        "a": "un",
+        "alts": [],
+        "form": ""
+      }
+    ]
+  }
+]

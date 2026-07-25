@@ -1,0 +1,215 @@
+[
+  {
+    "id": 3798,
+    "qs": [
+      {
+        "slot": "s|0",
+        "f": "sense",
+        "s": "Le règlement intérieur est très ___ : il interdit tout usage du téléphone en classe.",
+        "a": "explicite",
+        "en": "The internal regulations are very explicit: they prohibit all use of phones in class.",
+        "alts": ["clair", "précis"]
+      },
+      {
+        "slot": "s|0",
+        "f": "sense",
+        "s": "Le contrat contient un ordre ___ : toute modification doit être approuvée par écrit.",
+        "a": "explicite",
+        "en": "The contract contains an explicit order: any modification must be approved in writing.",
+        "alts": ["précis"]
+      },
+      {
+        "slot": "s|1",
+        "f": "sense",
+        "s": "Le professeur a été très ___ dans ses explications : chaque étape était bien détaillée.",
+        "a": "explicite",
+        "en": "The teacher was very explicit in his explanations: each step was well detailed.",
+        "alts": ["clair"]
+      },
+      {
+        "slot": "s|1",
+        "f": "sense",
+        "s": "Je préfère un accord ___ plutôt qu'une simple promesse orale.",
+        "a": "explicite",
+        "en": "I prefer an explicit agreement rather than a simple verbal promise.",
+        "alts": ["clair", "précis"]
+      },
+      {
+        "slot": "s|2",
+        "f": "sense",
+        "s": "Sa critique était trop ___ pour certains membres du jury, qui ont trouvé ses mots blessants.",
+        "a": "explicite",
+        "en": "His criticism was too blunt/direct for some members of the jury, who found his words hurtful.",
+        "alts": ["directe", "franche"]
+      },
+      {
+        "slot": "s|2",
+        "f": "sense",
+        "s": "Il a exprimé son désaccord de manière ___ , sans chercher à atténuer ses propos.",
+        "a": "explicite",
+        "en": "He expressed his disagreement in a blunt/direct way, without trying to soften his words.",
+        "alts": ["directe", "franche"]
+      },
+      {
+        "slot": "g|mp",
+        "f": "agree",
+        "s": "Les termes du contrat sont ___ sur ce point : aucune exception n'est autorisée.",
+        "a": "explicites",
+        "en": "The terms of the contract are explicit on this point: no exception is authorized.",
+        "alts": []
+      },
+      {
+        "slot": "g|mp",
+        "f": "agree",
+        "s": "Des exemples ___ aideraient les étudiants à mieux comprendre la leçon.",
+        "a": "explicites",
+        "en": "Explicit examples would help students better understand the lesson.",
+        "alts": []
+      },
+      {
+        "slot": "g|f",
+        "f": "agree",
+        "s": "La directrice a donné une réponse ___ à notre demande de financement.",
+        "a": "explicite",
+        "en": "The director gave an explicit answer to our funding request.",
+        "alts": []
+      },
+      {
+        "slot": "g|f",
+        "f": "agree",
+        "s": "La clause ___ du bail précise que les animaux de compagnie sont interdits.",
+        "a": "explicite",
+        "en": "The explicit clause of the lease specifies that pets are prohibited.",
+        "alts": []
+      },
+      {
+        "slot": "g|fp",
+        "f": "agree",
+        "s": "Les consignes de sécurité étaient ___ et faciles à suivre pour tous les participants.",
+        "a": "explicites",
+        "en": "The safety instructions were explicit and easy to follow for all participants.",
+        "alts": []
+      },
+      {
+        "slot": "g|fp",
+        "f": "agree",
+        "s": "Ces règles ___ permettent d'éviter les malentendus lors des négociations.",
+        "a": "explicites",
+        "en": "These explicit rules help avoid misunderstandings during negotiations.",
+        "alts": []
+      }
+    ]
+  },
+  {
+    "id": 3799,
+    "qs": [
+      {
+        "slot": "s|0",
+        "f": "sense",
+        "s": "Le Yorkshire est un ___ du nord de l'Angleterre.",
+        "a": "comté",
+        "en": "Yorkshire is a county in northern England.",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "s|0",
+        "f": "sense",
+        "s": "Chaque ___ de France possède son propre conseil général.",
+        "a": "comté",
+        "en": "Every county in France has its own general council.",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "s|1",
+        "f": "sense",
+        "s": "Au Moyen Âge, le roi accorda un ___ à son chevalier le plus fidèle.",
+        "a": "comté",
+        "en": "In the Middle Ages, the king granted an earldom to his most loyal knight.",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "s|1",
+        "f": "sense",
+        "s": "Le seigneur hérita du ___ de son père après la bataille.",
+        "a": "comté",
+        "en": "The lord inherited the earldom from his father after the battle.",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "gender",
+        "f": "gender",
+        "s": "Le Kent est ___ comté situé dans le sud-est de l'Angleterre.",
+        "a": "un",
+        "en": "Kent is a county located in the southeast of England.",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "gender",
+        "f": "gender",
+        "s": "___ comté de Flandre était autrefois l'une des régions les plus prospères d'Europe.",
+        "a": "Le",
+        "en": "The County of Flanders was once one of the most prosperous regions in Europe.",
+        "alts": [],
+        "form": ""
+      }
+    ]
+  },
+  {
+    "id": 3800,
+    "qs": [
+      {
+        "slot": "s|0",
+        "f": "sense",
+        "s": "Le cheval a sauté ___ la barrière sans hésiter.",
+        "a": "par-dessus",
+        "en": "The horse jumped over the fence without hesitating.",
+        "alts": []
+      },
+      {
+        "slot": "s|0",
+        "f": "sense",
+        "s": "L'enfant a lancé le ballon ___ le mur du jardin.",
+        "a": "par-dessus",
+        "en": "The child threw the ball over the garden wall.",
+        "alts": []
+      },
+      {
+        "slot": "s|1",
+        "f": "sense",
+        "s": "Il est arrivé en retard, et ___ le marché, il avait oublié son portefeuille.",
+        "a": "par-dessus",
+        "en": "He arrived late, and on top of that, he had forgotten his wallet.",
+        "alts": ["en plus", "de plus"]
+      },
+      {
+        "slot": "s|1",
+        "f": "sense",
+        "s": "Elle était fatiguée, et ___ le marché, elle avait encore deux réunions à tenir.",
+        "a": "par-dessus",
+        "en": "She was tired, and moreover, she still had two more meetings to attend.",
+        "alts": ["en plus", "de plus"]
+      },
+      {
+        "slot": "s|2",
+        "f": "sense",
+        "s": "Il portait une veste ___ sa chemise pour se protéger du froid.",
+        "a": "par-dessus",
+        "en": "He was wearing a jacket over his shirt to protect himself from the cold.",
+        "alts": []
+      },
+      {
+        "slot": "s|2",
+        "f": "sense",
+        "s": "Elle a jeté un châle ___ ses épaules avant de sortir.",
+        "a": "par-dessus",
+        "en": "She threw a shawl over her shoulders before going out.",
+        "alts": []
+      }
+    ]
+  }
+]

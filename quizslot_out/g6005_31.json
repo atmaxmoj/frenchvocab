@@ -1,0 +1,683 @@
+[
+  {
+    "id": 5988,
+    "qs": [
+      {
+        "slot": "s|0",
+        "f": "sense",
+        "s": "Mon oncle a gagné beaucoup de ___ au casino.",
+        "en": "My uncle won a lot of cash at the casino.",
+        "a": "fric",
+        "alts": [
+          "pognon",
+          "blé"
+        ]
+      },
+      {
+        "slot": "s|0",
+        "f": "sense",
+        "s": "Je n'ai plus de ___ pour finir le mois.",
+        "en": "I have no more cash left to get through the end of the month.",
+        "a": "fric",
+        "alts": [
+          "pognon",
+          "blé"
+        ]
+      },
+      {
+        "slot": "s|1",
+        "f": "sense",
+        "s": "Elle a caché son ___ sous le matelas.",
+        "en": "She hid her cash under the mattress.",
+        "a": "fric",
+        "alts": [
+          "pognon",
+          "blé"
+        ]
+      },
+      {
+        "slot": "s|1",
+        "f": "sense",
+        "s": "Tu peux me prêter un peu de ___ ?",
+        "en": "Can you lend me a bit of cash?",
+        "a": "fric",
+        "alts": [
+          "pognon",
+          "blé"
+        ]
+      },
+      {
+        "slot": "s|2",
+        "f": "sense",
+        "s": "Ils ont dépensé tout leur ___ en une seule soirée.",
+        "en": "They spent all their money in a single evening.",
+        "a": "fric",
+        "alts": [
+          "pognon",
+          "blé"
+        ]
+      },
+      {
+        "slot": "s|2",
+        "f": "sense",
+        "s": "Ce nouveau boulot rapporte vraiment beaucoup de ___.",
+        "en": "This new job really brings in a lot of money.",
+        "a": "fric",
+        "alts": [
+          "pognon",
+          "blé"
+        ]
+      },
+      {
+        "slot": "gender",
+        "f": "gender",
+        "s": "Range bien ___ fric dans le tiroir avant que quelqu'un le voie.",
+        "en": "Put the cash away properly in the drawer before someone sees it.",
+        "a": "le",
+        "alts": []
+      },
+      {
+        "slot": "gender",
+        "f": "gender",
+        "s": "Il a emprunté ___ fric à son cousin pour payer le loyer.",
+        "en": "He borrowed some money from his cousin to pay the rent.",
+        "a": "du",
+        "alts": []
+      }
+    ]
+  },
+  {
+    "id": 5989,
+    "qs": [
+      {
+        "slot": "t|Présent|0",
+        "f": "tense",
+        "s": "Chaque été, je ___ ce petit village avec le même plaisir.",
+        "en": "Every summer, I rediscover this little village with the same pleasure.",
+        "a": "redécouvre",
+        "alts": [],
+        "form": "Présent"
+      },
+      {
+        "slot": "t|Présent|0",
+        "f": "tense",
+        "s": "Grâce à ce vieux carnet, elle ___ des souvenirs d'enfance oubliés.",
+        "en": "Thanks to this old notebook, she rediscovers forgotten childhood memories.",
+        "a": "redécouvre",
+        "alts": [],
+        "form": "Présent"
+      },
+      {
+        "slot": "t|Présent|1",
+        "f": "tense",
+        "s": "Tu ___ enfin le plaisir de lire depuis que tu as quitté ton téléphone.",
+        "en": "You are finally rediscovering the pleasure of reading since you gave up your phone.",
+        "a": "redécouvres",
+        "alts": [],
+        "form": "Présent"
+      },
+      {
+        "slot": "t|Présent|1",
+        "f": "tense",
+        "s": "En rangeant le grenier, tu ___ des jouets de ton enfance.",
+        "en": "While tidying the attic, you rediscover toys from your childhood.",
+        "a": "redécouvres",
+        "alts": [],
+        "form": "Présent"
+      },
+      {
+        "slot": "t|Présent|2",
+        "f": "tense",
+        "s": "En voyageant lentement, nous ___ la beauté simple de la campagne.",
+        "en": "By traveling slowly, we rediscover the simple beauty of the countryside.",
+        "a": "redécouvrons",
+        "alts": [],
+        "form": "Présent"
+      },
+      {
+        "slot": "t|Présent|2",
+        "f": "tense",
+        "s": "Chaque fois que nous relisons ce roman, nous ___ de nouveaux détails.",
+        "en": "Every time we reread this novel, we rediscover new details.",
+        "a": "redécouvrons",
+        "alts": [],
+        "form": "Présent"
+      },
+      {
+        "slot": "t|Présent|3",
+        "f": "tense",
+        "s": "Avec ce guide, vous ___ la ville sous un angle différent.",
+        "en": "With this guide, you rediscover the city from a different angle.",
+        "a": "redécouvrez",
+        "alts": [],
+        "form": "Présent"
+      },
+      {
+        "slot": "t|Présent|3",
+        "f": "tense",
+        "s": "En cuisinant ces recettes anciennes, vous ___ des saveurs oubliées.",
+        "en": "By cooking these old recipes, you rediscover forgotten flavors.",
+        "a": "redécouvrez",
+        "alts": [],
+        "form": "Présent"
+      },
+      {
+        "slot": "t|Présent|4",
+        "f": "tense",
+        "s": "Les touristes ___ chaque année le charme discret de ce village.",
+        "en": "Every year, the tourists rediscover the quiet charm of this village.",
+        "a": "redécouvrent",
+        "alts": [],
+        "form": "Présent"
+      },
+      {
+        "slot": "t|Présent|4",
+        "f": "tense",
+        "s": "Mes parents ___ leur jeunesse en écoutant ces vieilles chansons.",
+        "en": "My parents rediscover their youth listening to these old songs.",
+        "a": "redécouvrent",
+        "alts": [],
+        "form": "Présent"
+      },
+      {
+        "slot": "t|Passé composé|0",
+        "f": "tense",
+        "s": "Hier soir, j'___ un vieux film que j'adorais enfant.",
+        "en": "Last night, I rediscovered an old movie I loved as a child.",
+        "a": "ai redécouvert",
+        "alts": [],
+        "form": "Passé composé"
+      },
+      {
+        "slot": "t|Passé composé|0",
+        "f": "tense",
+        "s": "En triant mes photos, j'___ des moments que j'avais oubliés.",
+        "en": "While sorting my photos, I rediscovered moments I had forgotten.",
+        "a": "ai redécouvert",
+        "alts": [],
+        "form": "Passé composé"
+      },
+      {
+        "slot": "t|Passé composé|1",
+        "f": "tense",
+        "s": "Tu ___ ta passion pour la peinture pendant le confinement.",
+        "en": "You rediscovered your passion for painting during the lockdown.",
+        "a": "as redécouvert",
+        "alts": [],
+        "form": "Passé composé"
+      },
+      {
+        "slot": "t|Passé composé|1",
+        "f": "tense",
+        "s": "Grâce à ce voyage, tu ___ le goût de l'aventure.",
+        "en": "Thanks to that trip, you rediscovered the taste for adventure.",
+        "a": "as redécouvert",
+        "alts": [],
+        "form": "Passé composé"
+      },
+      {
+        "slot": "t|Passé composé|2",
+        "f": "tense",
+        "s": "En relisant ses lettres, elle ___ toute la tendresse de son grand-père.",
+        "en": "By rereading his letters, she rediscovered all her grandfather's tenderness.",
+        "a": "a redécouvert",
+        "alts": [],
+        "form": "Passé composé"
+      },
+      {
+        "slot": "t|Passé composé|2",
+        "f": "tense",
+        "s": "Grâce à la restauration, on ___ la fresque cachée sous la peinture.",
+        "en": "Thanks to the restoration, we rediscovered the fresco hidden under the paint.",
+        "a": "a redécouvert",
+        "alts": [],
+        "form": "Passé composé"
+      },
+      {
+        "slot": "t|Passé composé|3",
+        "f": "tense",
+        "s": "Nous ___ ce restaurant après des années sans y retourner.",
+        "en": "We rediscovered this restaurant after years without going back.",
+        "a": "avons redécouvert",
+        "alts": [],
+        "form": "Passé composé"
+      },
+      {
+        "slot": "t|Passé composé|3",
+        "f": "tense",
+        "s": "Pendant les vacances, nous ___ le plaisir de marcher en montagne.",
+        "en": "During the holidays, we rediscovered the pleasure of hiking in the mountains.",
+        "a": "avons redécouvert",
+        "alts": [],
+        "form": "Passé composé"
+      },
+      {
+        "slot": "t|Passé composé|4",
+        "f": "tense",
+        "s": "Vous ___ votre ville natale avec un regard neuf.",
+        "en": "You rediscovered your hometown with fresh eyes.",
+        "a": "avez redécouvert",
+        "alts": [],
+        "form": "Passé composé"
+      },
+      {
+        "slot": "t|Passé composé|4",
+        "f": "tense",
+        "s": "En feuilletant cet album, vous ___ des visages presque oubliés.",
+        "en": "While flipping through this album, you rediscovered almost forgotten faces.",
+        "a": "avez redécouvert",
+        "alts": [],
+        "form": "Passé composé"
+      },
+      {
+        "slot": "t|Passé composé|5",
+        "f": "tense",
+        "s": "Les archéologues ___ un temple enfoui sous le sable.",
+        "en": "The archaeologists rediscovered a temple buried under the sand.",
+        "a": "ont redécouvert",
+        "alts": [],
+        "form": "Passé composé"
+      },
+      {
+        "slot": "t|Passé composé|5",
+        "f": "tense",
+        "s": "Mes cousins ___ leur amour du jazz lors de ce concert.",
+        "en": "My cousins rediscovered their love of jazz at that concert.",
+        "a": "ont redécouvert",
+        "alts": [],
+        "form": "Passé composé"
+      },
+      {
+        "slot": "t|Imparfait|0",
+        "f": "tense",
+        "s": "Chaque fois que j'ouvrais ce livre, je ___ un peu plus son univers.",
+        "en": "Every time I opened that book, I would rediscover a bit more of its world.",
+        "a": "redécouvrais",
+        "alts": [],
+        "form": "Imparfait"
+      },
+      {
+        "slot": "t|Imparfait|0",
+        "f": "tense",
+        "s": "Quand tu étais enfant, tu ___ le monde à chaque promenade.",
+        "en": "When you were a child, you rediscovered the world with every walk.",
+        "a": "redécouvrais",
+        "alts": [],
+        "form": "Imparfait"
+      },
+      {
+        "slot": "t|Imparfait|1",
+        "f": "tense",
+        "s": "Chaque printemps, elle ___ le jardin comme si c'était la première fois.",
+        "en": "Every spring, she rediscovered the garden as if it were the first time.",
+        "a": "redécouvrait",
+        "alts": [],
+        "form": "Imparfait"
+      },
+      {
+        "slot": "t|Imparfait|1",
+        "f": "tense",
+        "s": "À l'époque, on ___ sans cesse de nouvelles saveurs dans ce marché.",
+        "en": "Back then, we constantly rediscovered new flavors at that market.",
+        "a": "redécouvrait",
+        "alts": [],
+        "form": "Imparfait"
+      },
+      {
+        "slot": "t|Imparfait|2",
+        "f": "tense",
+        "s": "Enfants, nous ___ la forêt à chaque week-end.",
+        "en": "As children, we rediscovered the forest every weekend.",
+        "a": "redécouvrions",
+        "alts": [],
+        "form": "Imparfait"
+      },
+      {
+        "slot": "t|Imparfait|2",
+        "f": "tense",
+        "s": "Pendant nos longues discussions, nous ___ notre amitié d'autrefois.",
+        "en": "During our long talks, we rediscovered our old friendship.",
+        "a": "redécouvrions",
+        "alts": [],
+        "form": "Imparfait"
+      },
+      {
+        "slot": "t|Imparfait|3",
+        "f": "tense",
+        "s": "Vous ___ votre passé chaque fois que vous visitiez ce quartier.",
+        "en": "You rediscovered your past every time you visited that neighborhood.",
+        "a": "redécouvriez",
+        "alts": [],
+        "form": "Imparfait"
+      },
+      {
+        "slot": "t|Imparfait|3",
+        "f": "tense",
+        "s": "À chaque lecture, vous ___ un sens caché dans ce poème.",
+        "en": "With each reading, you rediscovered a hidden meaning in that poem.",
+        "a": "redécouvriez",
+        "alts": [],
+        "form": "Imparfait"
+      },
+      {
+        "slot": "t|Imparfait|4",
+        "f": "tense",
+        "s": "Ils ___ leur village natal à chaque retour de vacances.",
+        "en": "They rediscovered their home village every time they came back from vacation.",
+        "a": "redécouvraient",
+        "alts": [],
+        "form": "Imparfait"
+      },
+      {
+        "slot": "t|Imparfait|4",
+        "f": "tense",
+        "s": "Mes grands-parents ___ ensemble les chansons de leur jeunesse.",
+        "en": "My grandparents rediscovered together the songs of their youth.",
+        "a": "redécouvraient",
+        "alts": [],
+        "form": "Imparfait"
+      },
+      {
+        "slot": "t|Futur|0",
+        "f": "tense",
+        "s": "L'année prochaine, je ___ ce pays que j'ai visité enfant.",
+        "en": "Next year, I will rediscover this country I visited as a child.",
+        "a": "redécouvrirai",
+        "alts": [],
+        "form": "Futur"
+      },
+      {
+        "slot": "t|Futur|0",
+        "f": "tense",
+        "s": "Dès que j'aurai du temps, je ___ le plaisir de peindre.",
+        "en": "As soon as I have time, I will rediscover the pleasure of painting.",
+        "a": "redécouvrirai",
+        "alts": [],
+        "form": "Futur"
+      },
+      {
+        "slot": "t|Futur|1",
+        "f": "tense",
+        "s": "Bientôt, tu ___ cette ville sous la neige.",
+        "en": "Soon, you will rediscover this city under the snow.",
+        "a": "redécouvriras",
+        "alts": [],
+        "form": "Futur"
+      },
+      {
+        "slot": "t|Futur|1",
+        "f": "tense",
+        "s": "En relisant ce roman plus tard, tu ___ des passages entiers.",
+        "en": "Rereading this novel later, you will rediscover entire passages.",
+        "a": "redécouvriras",
+        "alts": [],
+        "form": "Futur"
+      },
+      {
+        "slot": "t|Futur|2",
+        "f": "tense",
+        "s": "Avec ce documentaire, il ___ l'histoire méconnue de sa région.",
+        "en": "With this documentary, he will rediscover the little-known history of his region.",
+        "a": "redécouvrira",
+        "alts": [],
+        "form": "Futur"
+      },
+      {
+        "slot": "t|Futur|2",
+        "f": "tense",
+        "s": "Grâce à cette exposition, on ___ le talent oublié de ce peintre.",
+        "en": "Thanks to this exhibition, we will rediscover the forgotten talent of this painter.",
+        "a": "redécouvrira",
+        "alts": [],
+        "form": "Futur"
+      },
+      {
+        "slot": "t|Futur|3",
+        "f": "tense",
+        "s": "L'été prochain, nous ___ ensemble notre ville d'enfance.",
+        "en": "Next summer, we will rediscover our childhood town together.",
+        "a": "redécouvrirons",
+        "alts": [],
+        "form": "Futur"
+      },
+      {
+        "slot": "t|Futur|3",
+        "f": "tense",
+        "s": "Après cette pause, nous ___ le goût du travail en équipe.",
+        "en": "After this break, we will rediscover the taste of teamwork.",
+        "a": "redécouvrirons",
+        "alts": [],
+        "form": "Futur"
+      },
+      {
+        "slot": "t|Futur|4",
+        "f": "tense",
+        "s": "En ouvrant cette boîte, vous ___ des photos de votre jeunesse.",
+        "en": "By opening this box, you will rediscover photos from your youth.",
+        "a": "redécouvrirez",
+        "alts": [],
+        "form": "Futur"
+      },
+      {
+        "slot": "t|Futur|4",
+        "f": "tense",
+        "s": "Avec ce nouveau guide, vous ___ le musée sous un jour différent.",
+        "en": "With this new guide, you will rediscover the museum in a different light.",
+        "a": "redécouvrirez",
+        "alts": [],
+        "form": "Futur"
+      },
+      {
+        "slot": "t|Futur|5",
+        "f": "tense",
+        "s": "Les enfants ___ ce conte avec un plaisir renouvelé.",
+        "en": "The children will rediscover this tale with renewed pleasure.",
+        "a": "redécouvriront",
+        "alts": [],
+        "form": "Futur"
+      },
+      {
+        "slot": "t|Futur|5",
+        "f": "tense",
+        "s": "Grâce à la traduction, les lecteurs ___ ce poète oublié.",
+        "en": "Thanks to the translation, readers will rediscover this forgotten poet.",
+        "a": "redécouvriront",
+        "alts": [],
+        "form": "Futur"
+      },
+      {
+        "slot": "t|Conditionnel|0",
+        "f": "tense",
+        "s": "Si j'avais plus de temps libre, je ___ le plaisir de peindre chaque jour.",
+        "en": "If I had more free time, I would rediscover the pleasure of painting every day.",
+        "a": "redécouvrirais",
+        "alts": [],
+        "form": "Conditionnel"
+      },
+      {
+        "slot": "t|Conditionnel|0",
+        "f": "tense",
+        "s": "Si tu retournais dans ce village, tu ___ ton enfance à chaque coin de rue.",
+        "en": "If you went back to that village, you would rediscover your childhood at every street corner.",
+        "a": "redécouvrirais",
+        "alts": [],
+        "form": "Conditionnel"
+      },
+      {
+        "slot": "t|Conditionnel|1",
+        "f": "tense",
+        "s": "Si elle relisait ce journal intime, elle ___ des émotions oubliées.",
+        "en": "If she reread that diary, she would rediscover forgotten emotions.",
+        "a": "redécouvrirait",
+        "alts": [],
+        "form": "Conditionnel"
+      },
+      {
+        "slot": "t|Conditionnel|1",
+        "f": "tense",
+        "s": "Si on restaurait cette maison, on ___ des fresques anciennes sous le plâtre.",
+        "en": "If we restored this house, we would rediscover ancient frescoes under the plaster.",
+        "a": "redécouvrirait",
+        "alts": [],
+        "form": "Conditionnel"
+      },
+      {
+        "slot": "t|Conditionnel|2",
+        "f": "tense",
+        "s": "Si nous voyagions plus lentement, nous ___ le charme des petites routes.",
+        "en": "If we traveled more slowly, we would rediscover the charm of small roads.",
+        "a": "redécouvririons",
+        "alts": [],
+        "form": "Conditionnel"
+      },
+      {
+        "slot": "t|Conditionnel|2",
+        "f": "tense",
+        "s": "Si nous rangions ce grenier, nous ___ des trésors de famille.",
+        "en": "If we tidied this attic, we would rediscover family treasures.",
+        "a": "redécouvririons",
+        "alts": [],
+        "form": "Conditionnel"
+      },
+      {
+        "slot": "t|Conditionnel|3",
+        "f": "tense",
+        "s": "Si vous relisiez vos lettres d'adolescence, vous ___ vos rêves d'autrefois.",
+        "en": "If you reread your teenage letters, you would rediscover your old dreams.",
+        "a": "redécouvririez",
+        "alts": [],
+        "form": "Conditionnel"
+      },
+      {
+        "slot": "t|Conditionnel|3",
+        "f": "tense",
+        "s": "Si vous visitiez ce quartier de nuit, vous ___ son atmosphère mystérieuse.",
+        "en": "If you visited this neighborhood at night, you would rediscover its mysterious atmosphere.",
+        "a": "redécouvririez",
+        "alts": [],
+        "form": "Conditionnel"
+      },
+      {
+        "slot": "t|Conditionnel|4",
+        "f": "tense",
+        "s": "Si les habitants entretenaient ce parc, ils ___ un lieu magnifique.",
+        "en": "If the residents maintained this park, they would rediscover a magnificent place.",
+        "a": "redécouvriraient",
+        "alts": [],
+        "form": "Conditionnel"
+      },
+      {
+        "slot": "t|Conditionnel|4",
+        "f": "tense",
+        "s": "Si elles écoutaient ce vieux disque, elles ___ la voix de leur mère.",
+        "en": "If they listened to that old record, they would rediscover their mother's voice.",
+        "a": "redécouvriraient",
+        "alts": [],
+        "form": "Conditionnel"
+      },
+      {
+        "slot": "t|Subjonctif",
+        "f": "subj",
+        "s": "Il faut que tu ___ le plaisir de lire pour t'évader un peu.",
+        "en": "You need to rediscover the pleasure of reading to escape a little.",
+        "a": "redécouvres",
+        "alts": [],
+        "form": "Subjonctif"
+      },
+      {
+        "slot": "t|Subjonctif",
+        "f": "subj",
+        "s": "Je veux qu'elle ___ la joie simple de la nature.",
+        "en": "I want her to rediscover the simple joy of nature.",
+        "a": "redécouvre",
+        "alts": [],
+        "form": "Subjonctif"
+      },
+      {
+        "slot": "s|0",
+        "f": "sense",
+        "s": "Ce voyage m'a permis de ___ le plaisir simple des choses de la vie.",
+        "en": "This trip allowed me to rediscover the simple pleasure of everyday things.",
+        "a": "redécouvrir",
+        "alts": []
+      },
+      {
+        "slot": "s|0",
+        "f": "sense",
+        "s": "Après toutes ces années, il aime ___ les vieux quartiers de Paris à pied.",
+        "en": "After all these years, he loves rediscovering the old neighborhoods of Paris on foot.",
+        "a": "redécouvrir",
+        "alts": []
+      }
+    ]
+  },
+  {
+    "id": 5990,
+    "qs": [
+      {
+        "slot": "s|0",
+        "f": "sense",
+        "s": "Le panneau ___ la direction de l'aéroport.",
+        "en": "The sign indicates the direction of the airport.",
+        "a": "indique",
+        "alts": []
+      },
+      {
+        "slot": "s|0",
+        "f": "sense",
+        "s": "Ce symbole ___ un danger.",
+        "en": "This symbol indicates a danger.",
+        "a": "indique",
+        "alts": []
+      },
+      {
+        "slot": "g|mp",
+        "f": "agree",
+        "s": "Suivez les remèdes ___ par le médecin.",
+        "en": "Follow the remedies indicated by the doctor.",
+        "a": "indiqués",
+        "alts": []
+      },
+      {
+        "slot": "g|mp",
+        "f": "agree",
+        "s": "Les horaires ___ sur le site sont à jour.",
+        "en": "The schedules indicated on the site are up to date.",
+        "a": "indiqués",
+        "alts": []
+      },
+      {
+        "slot": "g|f",
+        "f": "agree",
+        "s": "La dose ___ sur la boîte est de deux comprimés.",
+        "en": "The dose indicated on the box is two tablets.",
+        "a": "indiquée",
+        "alts": []
+      },
+      {
+        "slot": "g|f",
+        "f": "agree",
+        "s": "Cette méthode est particulièrement ___ pour les débutants.",
+        "en": "This method is particularly suitable for beginners.",
+        "a": "indiquée",
+        "alts": []
+      },
+      {
+        "slot": "g|fp",
+        "f": "agree",
+        "s": "Les précautions ___ dans la notice doivent être respectées.",
+        "en": "The precautions indicated in the instructions must be followed.",
+        "a": "indiquées",
+        "alts": []
+      },
+      {
+        "slot": "g|fp",
+        "f": "agree",
+        "s": "Toutes les sorties ___ sur le plan sont accessibles.",
+        "en": "All the exits indicated on the map are accessible.",
+        "a": "indiquées",
+        "alts": []
+      }
+    ]
+  }
+]

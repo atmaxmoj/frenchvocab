@@ -1,0 +1,33 @@
+[
+  {
+    "id": 5040,
+    "qs": [
+      {"slot":"s|0","f":"sense","s":"Le chocolat est mon dessert ___.","a":"préféré","en":"Chocolate is my favorite dessert.","alts":[],"form":""},
+      {"slot":"s|0","f":"sense","s":"Quel est ton livre ___ ?","a":"préféré","en":"What is your favorite book?","alts":[],"form":""},
+      {"slot":"g|mp","f":"agree","s":"Ce sont mes films ___.","a":"préférés","en":"These are my favorite movies.","alts":[],"form":""},
+      {"slot":"g|mp","f":"agree","s":"Les acteurs ___ de Marie sont français.","a":"préférés","en":"Marie's favorite actors are French.","alts":[],"form":""},
+      {"slot":"g|f","f":"agree","s":"Quelle est ta couleur ___ ?","a":"préférée","en":"What is your favorite color?","alts":[],"form":""},
+      {"slot":"g|f","f":"agree","s":"La chanson ___ de ma sœur passe à la radio.","a":"préférée","en":"My sister's favorite song is playing on the radio.","alts":[],"form":""},
+      {"slot":"g|fp","f":"agree","s":"Voici mes chansons ___.","a":"préférées","en":"Here are my favorite songs.","alts":[],"form":""},
+      {"slot":"g|fp","f":"agree","s":"Les villes ___ des touristes sont Paris et Nice.","a":"préférées","en":"Tourists' favorite cities are Paris and Nice.","alts":[],"form":""}
+    ]
+  },
+  {
+    "id": 5041,
+    "qs": [
+      {"slot":"s|0","f":"sense","s":"Pour le réveillon, ils ont acheté deux bouteilles de ___.","a":"champagne","en":"For New Year's Eve, they bought two bottles of champagne.","alts":[]},
+      {"slot":"s|0","f":"sense","s":"Le marié a proposé un toast au ___ devant tous les invités.","a":"champagne","en":"The groom proposed a toast with champagne in front of all the guests.","alts":[]},
+      {"slot":"gender","f":"gender","s":"___ champagne se sert bien frais, autour de huit degrés.","a":"Le","en":"Champagne is served well chilled, around eight degrees.","alts":[]},
+      {"slot":"gender","f":"gender","s":"Au dîner de gala, on nous a servi ___ champagne rosé.","a":"du","en":"At the gala dinner, we were served rosé champagne.","alts":[]}
+    ]
+  },
+  {
+    "id": 5042,
+    "qs": [
+      {"slot":"s|0","f":"sense","s":"Au marché, le charcutier vend un excellent ___ de campagne.","a":"pâté","en":"At the market, the delicatessen owner sells an excellent country-style pâté.","alts":[]},
+      {"slot":"s|0","f":"sense","s":"Pour l'apéritif, elle a préparé des toasts avec du ___ de foie.","a":"pâté","en":"For the aperitif, she prepared toasts with liver pâté.","alts":[]},
+      {"slot":"gender","f":"gender","s":"___ pâté de campagne est un classique de la cuisine française.","a":"Le","en":"Country-style pâté is a classic of French cuisine.","alts":[]},
+      {"slot":"gender","f":"gender","s":"Elle a acheté ___ pâté artisanal chez le charcutier.","a":"un","en":"She bought an artisanal pâté at the delicatessen.","alts":[]}
+    ]
+  }
+]

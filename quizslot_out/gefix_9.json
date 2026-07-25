@@ -1,0 +1,179 @@
+[
+  {
+    "id": 772,
+    "qs": [
+      {
+        "slot": "s|0",
+        "f": "sense",
+        "s": "Il attend ___ depuis ce matin, mais personne n'est encore arrivé.",
+        "en": "He has been waiting for someone since this morning, but nobody has arrived yet.",
+        "a": "quelqu'un",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "s|0",
+        "f": "sense",
+        "s": "Elle a rencontré ___ d'intéressant lors de cette conférence.",
+        "en": "She met someone interesting at that conference.",
+        "a": "quelqu'un",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "s|1",
+        "f": "sense",
+        "s": "___ frappe à la porte — tu peux aller ouvrir ?",
+        "en": "Someone is knocking at the door — can you go open it?",
+        "a": "Quelqu'un",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "s|1",
+        "f": "sense",
+        "s": "Est-ce qu'il y a ___ dans la salle de réunion en ce moment ?",
+        "en": "Is there someone in the meeting room right now?",
+        "a": "quelqu'un",
+        "alts": [],
+        "form": ""
+      }
+    ]
+  },
+  {
+    "id": 773,
+    "qs": [
+      {
+        "slot": "s|0",
+        "f": "sense",
+        "s": "Le président a prononcé un ___ devant l'Assemblée nationale.",
+        "en": "The president delivered a speech before the National Assembly.",
+        "a": "discours",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "s|0",
+        "f": "sense",
+        "s": "Elle a préparé son ___ pendant des semaines avant la cérémonie.",
+        "en": "She prepared her speech for weeks before the ceremony.",
+        "a": "discours",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "s|1",
+        "f": "sense",
+        "s": "Les enfants apprennent progressivement à comprendre le ___ des adultes.",
+        "en": "Children gradually learn to understand the speech/language of adults.",
+        "a": "discours",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "s|1",
+        "f": "sense",
+        "s": "Son ___ était plein de promesses vagues et de contradictions.",
+        "en": "His talk was full of vague promises and contradictions.",
+        "a": "discours",
+        "alts": ["propos"],
+        "form": ""
+      },
+      {
+        "slot": "s|2",
+        "f": "sense",
+        "s": "Ce philosophe a développé un ___ rigoureux sur la liberté humaine.",
+        "en": "This philosopher developed a rigorous discourse on human freedom.",
+        "a": "discours",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "s|2",
+        "f": "sense",
+        "s": "Le ___ scientifique repose sur des faits vérifiables et reproductibles.",
+        "en": "Scientific discourse is based on verifiable and reproducible facts.",
+        "a": "discours",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "gender",
+        "f": "gender",
+        "s": "___ discours du maire a convaincu tous les habitants du quartier.",
+        "en": "The mayor's speech convinced all the residents of the neighbourhood.",
+        "a": "Le",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "gender",
+        "f": "gender",
+        "s": "Il a prononcé ___ discours émouvant lors de la remise des diplômes.",
+        "en": "He gave a moving speech at the graduation ceremony.",
+        "a": "un",
+        "alts": [],
+        "form": ""
+      }
+    ]
+  },
+  {
+    "id": 774,
+    "qs": [
+      {
+        "slot": "s|0",
+        "f": "sense",
+        "s": "Je dois aller à ___ pour retirer de l'argent.",
+        "en": "I need to go to the bank to withdraw some money.",
+        "a": "la banque",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "s|0",
+        "f": "sense",
+        "s": "Mon père travaille dans une ___ du centre-ville depuis vingt ans.",
+        "en": "My father has worked at a bank in the city centre for twenty years.",
+        "a": "banque",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "s|1",
+        "f": "sense",
+        "s": "Les chercheurs ont consulté la ___ de données pour trouver les résultats précédents.",
+        "en": "The researchers consulted the data bank to find previous results.",
+        "a": "banque",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "s|1",
+        "f": "sense",
+        "s": "Cette région possède une importante ___ de semences pour préserver la biodiversité.",
+        "en": "This region has an important seed bank to preserve biodiversity.",
+        "a": "banque",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "gender",
+        "f": "gender",
+        "s": "Il y a ___ banque juste en face de la mairie.",
+        "en": "There is a bank right across from the town hall.",
+        "a": "une",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "gender",
+        "f": "gender",
+        "s": "Nous avons rendez-vous à ___ banque à neuf heures.",
+        "en": "We have an appointment at the bank at nine o'clock.",
+        "a": "la",
+        "alts": [],
+        "form": ""
+      }
+    ]
+  }
+]

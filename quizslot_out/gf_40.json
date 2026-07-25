@@ -1,0 +1,1195 @@
+[
+  {
+    "id": 1121,
+    "qs": [
+      {
+        "slot": "s|0",
+        "f": "sense",
+        "s": "Prenez la première rue à gauche, puis tournez à droite à la rue ___ .",
+        "a": "suivante",
+        "en": "Take the first street on the left, then turn right at the next street.",
+        "alts": []
+      },
+      {
+        "slot": "s|0",
+        "f": "sense",
+        "s": "Si vous manquez ce bus, le ___ part dans vingt minutes.",
+        "a": "suivant",
+        "en": "If you miss this bus, the next one leaves in twenty minutes.",
+        "alts": []
+      },
+      {
+        "slot": "s|1",
+        "f": "sense",
+        "s": "Il a démissionné en janvier ; dans les semaines ___ , son équipe a dû tout réorganiser.",
+        "a": "suivantes",
+        "en": "He resigned in January; in the following weeks, his team had to reorganize everything.",
+        "alts": []
+      },
+      {
+        "slot": "s|1",
+        "f": "sense",
+        "s": "L'accident s'est produit le lundi, et le jour ___ , la police a ouvert une enquête.",
+        "a": "suivant",
+        "en": "The accident happened on Monday, and the following day the police opened an investigation.",
+        "alts": []
+      },
+      {
+        "slot": "g|mp",
+        "f": "agree",
+        "s": "Les chapitres ___ de ce roman sont encore plus intéressants.",
+        "a": "suivants",
+        "en": "The following chapters of this novel are even more interesting.",
+        "alts": []
+      },
+      {
+        "slot": "g|mp",
+        "f": "agree",
+        "s": "Veuillez lire les paragraphes ___ avant de signer le contrat.",
+        "a": "suivants",
+        "en": "Please read the following paragraphs before signing the contract.",
+        "alts": []
+      },
+      {
+        "slot": "g|f",
+        "f": "agree",
+        "s": "Elle a raté son train et a dû attendre la correspondance ___ .",
+        "a": "suivante",
+        "en": "She missed her train and had to wait for the next connection.",
+        "alts": []
+      },
+      {
+        "slot": "g|f",
+        "f": "agree",
+        "s": "La question ___ du formulaire concerne votre adresse.",
+        "a": "suivante",
+        "en": "The following question on the form concerns your address.",
+        "alts": []
+      },
+      {
+        "slot": "g|fp",
+        "f": "agree",
+        "s": "Les personnes ___ sont priées de se présenter à l'accueil.",
+        "a": "suivantes",
+        "en": "The following people are requested to report to the reception desk.",
+        "alts": []
+      },
+      {
+        "slot": "g|fp",
+        "f": "agree",
+        "s": "Les années ___ ont été marquées par de nombreux changements politiques.",
+        "a": "suivantes",
+        "en": "The following years were marked by many political changes.",
+        "alts": []
+      }
+    ]
+  },
+  {
+    "id": 1122,
+    "qs": [
+      {
+        "slot": "t|Présent|0",
+        "f": "tense",
+        "s": "Ce travail ___ d'être reconnu.",
+        "a": "mérite",
+        "en": "This work deserves to be recognized.",
+        "alts": [],
+        "form": "Présent"
+      },
+      {
+        "slot": "t|Présent|0",
+        "f": "tense",
+        "s": "Je ___ une bonne note pour cet effort.",
+        "a": "mérite",
+        "en": "I deserve a good grade for this effort.",
+        "alts": [],
+        "form": "Présent"
+      },
+      {
+        "slot": "t|Présent|1",
+        "f": "tense",
+        "s": "Tu ___ vraiment des félicitations pour ton courage.",
+        "a": "mérites",
+        "en": "You truly deserve congratulations for your courage.",
+        "alts": [],
+        "form": "Présent"
+      },
+      {
+        "slot": "t|Présent|1",
+        "f": "tense",
+        "s": "Avec autant de travail, tu ___ une récompense.",
+        "a": "mérites",
+        "en": "With so much work, you deserve a reward.",
+        "alts": [],
+        "form": "Présent"
+      },
+      {
+        "slot": "t|Présent|2",
+        "f": "tense",
+        "s": "Nous ___ un peu de repos après cette longue journée.",
+        "a": "méritons",
+        "en": "We deserve a little rest after this long day.",
+        "alts": [],
+        "form": "Présent"
+      },
+      {
+        "slot": "t|Présent|2",
+        "f": "tense",
+        "s": "En tant qu'équipe, nous ___ cette victoire.",
+        "a": "méritons",
+        "en": "As a team, we deserve this victory.",
+        "alts": [],
+        "form": "Présent"
+      },
+      {
+        "slot": "t|Présent|3",
+        "f": "tense",
+        "s": "Vous ___ tous les honneurs pour votre dévouement.",
+        "a": "méritez",
+        "en": "You deserve all the honors for your dedication.",
+        "alts": [],
+        "form": "Présent"
+      },
+      {
+        "slot": "t|Présent|3",
+        "f": "tense",
+        "s": "Après tant d'années de service, vous ___ cette promotion.",
+        "a": "méritez",
+        "en": "After so many years of service, you deserve this promotion.",
+        "alts": [],
+        "form": "Présent"
+      },
+      {
+        "slot": "t|Présent|4",
+        "f": "tense",
+        "s": "Ces athlètes ___ leur place en finale.",
+        "a": "méritent",
+        "en": "These athletes deserve their place in the final.",
+        "alts": [],
+        "form": "Présent"
+      },
+      {
+        "slot": "t|Présent|4",
+        "f": "tense",
+        "s": "Ils ___ d'être entendus sur ce sujet.",
+        "a": "méritent",
+        "en": "They deserve to be heard on this subject.",
+        "alts": [],
+        "form": "Présent"
+      },
+      {
+        "slot": "t|Passé composé|0",
+        "f": "tense",
+        "s": "J'___ cette récompense par mon travail acharné.",
+        "a": "ai mérité",
+        "en": "I earned this reward through my hard work.",
+        "alts": [],
+        "form": "Passé composé"
+      },
+      {
+        "slot": "t|Passé composé|0",
+        "f": "tense",
+        "s": "Je pense que j'___ de passer des vacances cette année.",
+        "a": "ai mérité",
+        "en": "I think I earned a vacation this year.",
+        "alts": [],
+        "form": "Passé composé"
+      },
+      {
+        "slot": "t|Passé composé|1",
+        "f": "tense",
+        "s": "Tu ___ ton diplôme avec beaucoup de persévérance.",
+        "a": "as mérité",
+        "en": "You earned your diploma with a lot of perseverance.",
+        "alts": [],
+        "form": "Passé composé"
+      },
+      {
+        "slot": "t|Passé composé|1",
+        "f": "tense",
+        "s": "Bravo ! Tu ___ vraiment cette médaille.",
+        "a": "as mérité",
+        "en": "Well done! You truly deserved this medal.",
+        "alts": [],
+        "form": "Passé composé"
+      },
+      {
+        "slot": "t|Passé composé|2",
+        "f": "tense",
+        "s": "Le candidat ___ sa victoire aux élections.",
+        "a": "a mérité",
+        "en": "The candidate deserved his victory in the elections.",
+        "alts": [],
+        "form": "Passé composé"
+      },
+      {
+        "slot": "t|Passé composé|2",
+        "f": "tense",
+        "s": "Elle ___ ce poste grâce à ses compétences.",
+        "a": "a mérité",
+        "en": "She deserved this position thanks to her skills.",
+        "alts": [],
+        "form": "Passé composé"
+      },
+      {
+        "slot": "t|Passé composé|3",
+        "f": "tense",
+        "s": "Nous ___ cette pause après six heures de réunion.",
+        "a": "avons mérité",
+        "en": "We deserved this break after six hours of meeting.",
+        "alts": [],
+        "form": "Passé composé"
+      },
+      {
+        "slot": "t|Passé composé|3",
+        "f": "tense",
+        "s": "En finissant le projet à temps, nous ___ la confiance du client.",
+        "a": "avons mérité",
+        "en": "By finishing the project on time, we earned the client's trust.",
+        "alts": [],
+        "form": "Passé composé"
+      },
+      {
+        "slot": "t|Passé composé|4",
+        "f": "tense",
+        "s": "Vous ___ ce succès après tant d'efforts.",
+        "a": "avez mérité",
+        "en": "You deserved this success after so much effort.",
+        "alts": [],
+        "form": "Passé composé"
+      },
+      {
+        "slot": "t|Passé composé|4",
+        "f": "tense",
+        "s": "Par votre engagement, vous ___ la reconnaissance de tous.",
+        "a": "avez mérité",
+        "en": "Through your commitment, you earned everyone's recognition.",
+        "alts": [],
+        "form": "Passé composé"
+      },
+      {
+        "slot": "t|Passé composé|5",
+        "f": "tense",
+        "s": "Les joueurs ___ leur victoire grâce à un excellent esprit d'équipe.",
+        "a": "ont mérité",
+        "en": "The players deserved their victory thanks to an excellent team spirit.",
+        "alts": [],
+        "form": "Passé composé"
+      },
+      {
+        "slot": "t|Passé composé|5",
+        "f": "tense",
+        "s": "Elles ___ les éloges du jury pour leur performance.",
+        "a": "ont mérité",
+        "en": "They deserved the jury's praise for their performance.",
+        "alts": [],
+        "form": "Passé composé"
+      },
+      {
+        "slot": "t|Imparfait|0",
+        "f": "tense",
+        "s": "Quand j'étais enfant, je ___ toujours mes punitions.",
+        "a": "méritais",
+        "en": "When I was a child, I always deserved my punishments.",
+        "alts": [],
+        "form": "Imparfait"
+      },
+      {
+        "slot": "t|Imparfait|0",
+        "f": "tense",
+        "s": "Tu ___ mieux que ce traitement à l'époque.",
+        "a": "méritais",
+        "en": "You deserved better than that treatment back then.",
+        "alts": [],
+        "form": "Imparfait"
+      },
+      {
+        "slot": "t|Imparfait|1",
+        "f": "tense",
+        "s": "Son talent était évident : il ___ vraiment le premier prix.",
+        "a": "méritait",
+        "en": "His talent was obvious: he truly deserved the first prize.",
+        "alts": [],
+        "form": "Imparfait"
+      },
+      {
+        "slot": "t|Imparfait|1",
+        "f": "tense",
+        "s": "Cette vieille maison ___ d'être restaurée.",
+        "a": "méritait",
+        "en": "That old house deserved to be restored.",
+        "alts": [],
+        "form": "Imparfait"
+      },
+      {
+        "slot": "t|Imparfait|2",
+        "f": "tense",
+        "s": "Nous ___ de meilleures conditions de travail à cette époque.",
+        "a": "méritions",
+        "en": "We deserved better working conditions at that time.",
+        "alts": [],
+        "form": "Imparfait"
+      },
+      {
+        "slot": "t|Imparfait|2",
+        "f": "tense",
+        "s": "En tant que bénévoles, nous ___ au moins un peu de reconnaissance.",
+        "a": "méritions",
+        "en": "As volunteers, we at least deserved a little recognition.",
+        "alts": [],
+        "form": "Imparfait"
+      },
+      {
+        "slot": "t|Imparfait|3",
+        "f": "tense",
+        "s": "Vous ___ une meilleure explication de la part du professeur.",
+        "a": "méritiez",
+        "en": "You deserved a better explanation from the teacher.",
+        "alts": [],
+        "form": "Imparfait"
+      },
+      {
+        "slot": "t|Imparfait|3",
+        "f": "tense",
+        "s": "Avant votre départ, vous ___ vraiment des adieux dignes de vous.",
+        "a": "méritiez",
+        "en": "Before your departure, you truly deserved a farewell worthy of you.",
+        "alts": [],
+        "form": "Imparfait"
+      },
+      {
+        "slot": "t|Imparfait|4",
+        "f": "tense",
+        "s": "Ces enfants ___ toute l'attention qu'on leur accordait.",
+        "a": "méritaient",
+        "en": "These children deserved all the attention that was given to them.",
+        "alts": [],
+        "form": "Imparfait"
+      },
+      {
+        "slot": "t|Imparfait|4",
+        "f": "tense",
+        "s": "Ils ___ d'avoir de meilleures opportunités dans la vie.",
+        "a": "méritaient",
+        "en": "They deserved to have better opportunities in life.",
+        "alts": [],
+        "form": "Imparfait"
+      },
+      {
+        "slot": "t|Futur|0",
+        "f": "tense",
+        "s": "Si je travaille bien, je ___ une augmentation.",
+        "a": "mériterai",
+        "en": "If I work well, I will deserve a raise.",
+        "alts": [],
+        "form": "Futur"
+      },
+      {
+        "slot": "t|Futur|0",
+        "f": "tense",
+        "s": "Je ___ ma place dans cette équipe le jour où j'aurai prouvé ma valeur.",
+        "a": "mériterai",
+        "en": "I will deserve my place on this team the day I prove my worth.",
+        "alts": [],
+        "form": "Futur"
+      },
+      {
+        "slot": "t|Futur|1",
+        "f": "tense",
+        "s": "Si tu continues à te battre, tu ___ la victoire.",
+        "a": "mériteras",
+        "en": "If you keep fighting, you will deserve the victory.",
+        "alts": [],
+        "form": "Futur"
+      },
+      {
+        "slot": "t|Futur|1",
+        "f": "tense",
+        "s": "Un jour, tu ___ la confiance de tes collègues.",
+        "a": "mériteras",
+        "en": "One day, you will earn the trust of your colleagues.",
+        "alts": [],
+        "form": "Futur"
+      },
+      {
+        "slot": "t|Futur|2",
+        "f": "tense",
+        "s": "Ce projet ambitieux ___ toute l'attention des experts.",
+        "a": "méritera",
+        "en": "This ambitious project will deserve all the experts' attention.",
+        "alts": [],
+        "form": "Futur"
+      },
+      {
+        "slot": "t|Futur|2",
+        "f": "tense",
+        "s": "Elle ___ le respect de ses pairs quand elle aura terminé ses recherches.",
+        "a": "méritera",
+        "en": "She will deserve the respect of her peers when she finishes her research.",
+        "alts": [],
+        "form": "Futur"
+      },
+      {
+        "slot": "t|Futur|3",
+        "f": "tense",
+        "s": "Après cette expédition, nous ___ bien quelques jours de repos.",
+        "a": "mériterons",
+        "en": "After this expedition, we will well deserve a few days of rest.",
+        "alts": [],
+        "form": "Futur"
+      },
+      {
+        "slot": "t|Futur|3",
+        "f": "tense",
+        "s": "Nous ___ notre titre de champions si nous remportons ce match.",
+        "a": "mériterons",
+        "en": "We will deserve our title of champions if we win this match.",
+        "alts": [],
+        "form": "Futur"
+      },
+      {
+        "slot": "t|Futur|4",
+        "f": "tense",
+        "s": "Vous ___ votre certificat une fois la formation terminée.",
+        "a": "mériterez",
+        "en": "You will deserve your certificate once the training is finished.",
+        "alts": [],
+        "form": "Futur"
+      },
+      {
+        "slot": "t|Futur|4",
+        "f": "tense",
+        "s": "Avec tous vos efforts, vous ___ une belle récompense.",
+        "a": "mériterez",
+        "en": "With all your efforts, you will deserve a fine reward.",
+        "alts": [],
+        "form": "Futur"
+      },
+      {
+        "slot": "t|Futur|5",
+        "f": "tense",
+        "s": "Ces chercheurs ___ la reconnaissance mondiale pour leur découverte.",
+        "a": "mériteront",
+        "en": "These researchers will deserve worldwide recognition for their discovery.",
+        "alts": [],
+        "form": "Futur"
+      },
+      {
+        "slot": "t|Futur|5",
+        "f": "tense",
+        "s": "Si elles réussissent, elles ___ d'être célébrées.",
+        "a": "mériteront",
+        "en": "If they succeed, they will deserve to be celebrated.",
+        "alts": [],
+        "form": "Futur"
+      },
+      {
+        "slot": "t|Conditionnel|0",
+        "f": "tense",
+        "s": "Si tu travaillais plus, tu ___ de meilleurs résultats.",
+        "a": "mériterais",
+        "en": "If you worked more, you would deserve better results.",
+        "alts": [],
+        "form": "Conditionnel"
+      },
+      {
+        "slot": "t|Conditionnel|0",
+        "f": "tense",
+        "s": "Si je faisais plus d'efforts, je ___ cette promotion.",
+        "a": "mériterais",
+        "en": "If I made more effort, I would deserve this promotion.",
+        "alts": [],
+        "form": "Conditionnel"
+      },
+      {
+        "slot": "t|Conditionnel|1",
+        "f": "tense",
+        "s": "Si elle s'impliquait davantage, elle ___ le poste de directrice.",
+        "a": "mériterait",
+        "en": "If she were more involved, she would deserve the director's position.",
+        "alts": [],
+        "form": "Conditionnel"
+      },
+      {
+        "slot": "t|Conditionnel|1",
+        "f": "tense",
+        "s": "Ce film ___ un meilleur scénario, il est trop prévisible.",
+        "a": "mériterait",
+        "en": "This film would deserve a better screenplay; it is too predictable.",
+        "alts": [],
+        "form": "Conditionnel"
+      },
+      {
+        "slot": "t|Conditionnel|2",
+        "f": "tense",
+        "s": "Si nous nous entraînions chaque jour, nous ___ de remporter le championnat.",
+        "a": "mériterions",
+        "en": "If we trained every day, we would deserve to win the championship.",
+        "alts": [],
+        "form": "Conditionnel"
+      },
+      {
+        "slot": "t|Conditionnel|2",
+        "f": "tense",
+        "s": "Avec plus de rigueur, nous ___ la confiance de nos partenaires.",
+        "a": "mériterions",
+        "en": "With more rigor, we would deserve the trust of our partners.",
+        "alts": [],
+        "form": "Conditionnel"
+      },
+      {
+        "slot": "t|Conditionnel|3",
+        "f": "tense",
+        "s": "Si vous vous impliquiez davantage, vous ___ une prime.",
+        "a": "mériteriez",
+        "en": "If you were more involved, you would deserve a bonus.",
+        "alts": [],
+        "form": "Conditionnel"
+      },
+      {
+        "slot": "t|Conditionnel|3",
+        "f": "tense",
+        "s": "Avec plus de sérieux, vous ___ d'être sélectionnés.",
+        "a": "mériteriez",
+        "en": "With more seriousness, you would deserve to be selected.",
+        "alts": [],
+        "form": "Conditionnel"
+      },
+      {
+        "slot": "t|Conditionnel|4",
+        "f": "tense",
+        "s": "Si ces employés travaillaient plus, ils ___ une meilleure rémunération.",
+        "a": "mériteraient",
+        "en": "If these employees worked more, they would deserve better pay.",
+        "alts": [],
+        "form": "Conditionnel"
+      },
+      {
+        "slot": "t|Conditionnel|4",
+        "f": "tense",
+        "s": "Elles ___ d'avoir plus de responsabilités si elles montraient plus d'initiative.",
+        "a": "mériteraient",
+        "en": "They would deserve more responsibilities if they showed more initiative.",
+        "alts": [],
+        "form": "Conditionnel"
+      },
+      {
+        "slot": "t|Subjonctif",
+        "f": "subj",
+        "s": "Il faut que tu ___ la confiance de ton équipe avant d'en être le chef.",
+        "a": "mérites",
+        "en": "You must earn the trust of your team before leading it.",
+        "alts": [],
+        "form": "Subjonctif"
+      },
+      {
+        "slot": "t|Subjonctif",
+        "f": "subj",
+        "s": "Je veux que notre candidat ___ vraiment ce poste avant d'être nommé.",
+        "a": "mérite",
+        "en": "I want our candidate to truly deserve this position before being appointed.",
+        "alts": [],
+        "form": "Subjonctif"
+      },
+      {
+        "slot": "s|0",
+        "f": "sense",
+        "s": "Ce livre ___ d'être lu par tous les étudiants.",
+        "a": "mérite",
+        "en": "This book deserves to be read by all students.",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "s|0",
+        "f": "sense",
+        "s": "Un tel effort ___ au moins un compliment.",
+        "a": "mérite",
+        "en": "Such an effort deserves at least a compliment.",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "s|1",
+        "f": "sense",
+        "s": "Il a triché pendant l'examen ; il ___ donc cette mauvaise note.",
+        "a": "mérite",
+        "en": "He cheated during the exam; he therefore deserves this bad grade.",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "s|1",
+        "f": "sense",
+        "s": "Elle a été impolie avec tout le monde, elle ___ d'être rappelée à l'ordre.",
+        "a": "mérite",
+        "en": "She was rude to everyone; she deserves to be called to order.",
+        "alts": [],
+        "form": ""
+      }
+    ]
+  },
+  {
+    "id": 1123,
+    "qs": [
+      {
+        "slot": "t|Présent|0",
+        "f": "tense",
+        "s": "J'___ un livre à la bibliothèque chaque semaine.",
+        "a": "emprunte",
+        "en": "I borrow a book from the library every week.",
+        "alts": [],
+        "form": "Présent"
+      },
+      {
+        "slot": "t|Présent|0",
+        "f": "tense",
+        "s": "Mon voisin ___ souvent ma voiture pour aller au marché.",
+        "a": "emprunte",
+        "en": "My neighbor often borrows my car to go to the market.",
+        "alts": [],
+        "form": "Présent"
+      },
+      {
+        "slot": "t|Présent|1",
+        "f": "tense",
+        "s": "Tu ___ de l'argent à ton frère pour payer le loyer ?",
+        "a": "empruntes",
+        "en": "Are you borrowing money from your brother to pay the rent?",
+        "alts": [],
+        "form": "Présent"
+      },
+      {
+        "slot": "t|Présent|1",
+        "f": "tense",
+        "s": "Pourquoi tu ___ toujours mes affaires sans demander ?",
+        "a": "empruntes",
+        "en": "Why do you always borrow my things without asking?",
+        "alts": [],
+        "form": "Présent"
+      },
+      {
+        "slot": "t|Présent|2",
+        "f": "tense",
+        "s": "Nous ___ régulièrement des outils à nos voisins.",
+        "a": "empruntons",
+        "en": "We regularly borrow tools from our neighbors.",
+        "alts": [],
+        "form": "Présent"
+      },
+      {
+        "slot": "t|Présent|2",
+        "f": "tense",
+        "s": "Nous ___ ce sentier de montagne pour rejoindre le village.",
+        "a": "empruntons",
+        "en": "We take this mountain path to reach the village.",
+        "alts": [],
+        "form": "Présent"
+      },
+      {
+        "slot": "t|Présent|3",
+        "f": "tense",
+        "s": "Vous ___ souvent des DVD à la vidéothèque ?",
+        "a": "empruntez",
+        "en": "Do you often borrow DVDs from the video library?",
+        "alts": [],
+        "form": "Présent"
+      },
+      {
+        "slot": "t|Présent|3",
+        "f": "tense",
+        "s": "Vous ___ toujours la même route pour rentrer chez vous.",
+        "a": "empruntez",
+        "en": "You always take the same road to get home.",
+        "alts": [],
+        "form": "Présent"
+      },
+      {
+        "slot": "t|Présent|4",
+        "f": "tense",
+        "s": "Les étudiants ___ des dictionnaires à la bibliothèque universitaire.",
+        "a": "empruntent",
+        "en": "The students borrow dictionaries from the university library.",
+        "alts": [],
+        "form": "Présent"
+      },
+      {
+        "slot": "t|Présent|4",
+        "f": "tense",
+        "s": "Elles ___ souvent ce raccourci pour éviter les embouteillages.",
+        "a": "empruntent",
+        "en": "They often take this shortcut to avoid traffic jams.",
+        "alts": [],
+        "form": "Présent"
+      },
+      {
+        "slot": "t|Passé composé|0",
+        "f": "tense",
+        "s": "J'___ ce roman à ma collègue la semaine dernière.",
+        "a": "ai emprunté",
+        "en": "I borrowed this novel from my colleague last week.",
+        "alts": [],
+        "form": "Passé composé"
+      },
+      {
+        "slot": "t|Passé composé|0",
+        "f": "tense",
+        "s": "J'___ dix euros à Paul pour acheter mon déjeuner.",
+        "a": "ai emprunté",
+        "en": "I borrowed ten euros from Paul to buy my lunch.",
+        "alts": [],
+        "form": "Passé composé"
+      },
+      {
+        "slot": "t|Passé composé|1",
+        "f": "tense",
+        "s": "Tu ___ ce parapluie à qui exactement ?",
+        "a": "as emprunté",
+        "en": "Who did you borrow this umbrella from?",
+        "alts": [],
+        "form": "Passé composé"
+      },
+      {
+        "slot": "t|Passé composé|1",
+        "f": "tense",
+        "s": "Tu ___ la nationale 7 pour venir ici, n'est-ce pas ?",
+        "a": "as emprunté",
+        "en": "You took the N7 national road to get here, didn't you?",
+        "alts": [],
+        "form": "Passé composé"
+      },
+      {
+        "slot": "t|Passé composé|2",
+        "f": "tense",
+        "s": "Mon ami ___ ma bicyclette pour aller à la gare ce matin.",
+        "a": "a emprunté",
+        "en": "My friend borrowed my bicycle to go to the station this morning.",
+        "alts": [],
+        "form": "Passé composé"
+      },
+      {
+        "slot": "t|Passé composé|2",
+        "f": "tense",
+        "s": "Le chauffeur ___ le tunnel sous la Manche pour traverser plus vite.",
+        "a": "a emprunté",
+        "en": "The driver took the Channel Tunnel to cross faster.",
+        "alts": [],
+        "form": "Passé composé"
+      },
+      {
+        "slot": "t|Passé composé|3",
+        "f": "tense",
+        "s": "Nous ___ plusieurs livres à la médiathèque hier après-midi.",
+        "a": "avons emprunté",
+        "en": "We borrowed several books from the media library yesterday afternoon.",
+        "alts": [],
+        "form": "Passé composé"
+      },
+      {
+        "slot": "t|Passé composé|3",
+        "f": "tense",
+        "s": "Nous ___ ce chemin forestier pour éviter la route principale.",
+        "a": "avons emprunté",
+        "en": "We took this forest path to avoid the main road.",
+        "alts": [],
+        "form": "Passé composé"
+      },
+      {
+        "slot": "t|Passé composé|4",
+        "f": "tense",
+        "s": "Vous ___ ma tondeuse sans me prévenir, c'est dommage.",
+        "a": "avez emprunté",
+        "en": "You borrowed my lawnmower without warning me, that's a shame.",
+        "alts": [],
+        "form": "Passé composé"
+      },
+      {
+        "slot": "t|Passé composé|4",
+        "f": "tense",
+        "s": "Est-ce que vous ___ l'autoroute ou les routes départementales pour venir ?",
+        "a": "avez emprunté",
+        "en": "Did you take the motorway or the local roads to get here?",
+        "alts": [],
+        "form": "Passé composé"
+      },
+      {
+        "slot": "t|Passé composé|5",
+        "f": "tense",
+        "s": "Les touristes ___ des vélos à l'office de tourisme pour visiter la ville.",
+        "a": "ont emprunté",
+        "en": "The tourists borrowed bikes from the tourist office to visit the city.",
+        "alts": [],
+        "form": "Passé composé"
+      },
+      {
+        "slot": "t|Passé composé|5",
+        "f": "tense",
+        "s": "Les randonneurs ___ un sentier balisé pour atteindre le sommet.",
+        "a": "ont emprunté",
+        "en": "The hikers took a marked trail to reach the summit.",
+        "alts": [],
+        "form": "Passé composé"
+      },
+      {
+        "slot": "t|Imparfait|0",
+        "f": "tense",
+        "s": "Quand j'étais étudiant, j'___ souvent des livres à mes camarades.",
+        "a": "empruntais",
+        "en": "When I was a student, I often borrowed books from my classmates.",
+        "alts": [],
+        "form": "Imparfait"
+      },
+      {
+        "slot": "t|Imparfait|0",
+        "f": "tense",
+        "s": "Avant d'avoir ta propre voiture, tu ___ celle de tes parents tous les week-ends.",
+        "a": "empruntais",
+        "en": "Before having your own car, you used to borrow your parents' every weekend.",
+        "alts": [],
+        "form": "Imparfait"
+      },
+      {
+        "slot": "t|Imparfait|1",
+        "f": "tense",
+        "s": "Mon père ___ toujours ce même chemin pour rentrer du travail.",
+        "a": "empruntait",
+        "en": "My father always took that same path to come home from work.",
+        "alts": [],
+        "form": "Imparfait"
+      },
+      {
+        "slot": "t|Imparfait|1",
+        "f": "tense",
+        "s": "La directrice ___ régulièrement des ouvrages à la bibliothèque municipale.",
+        "a": "empruntait",
+        "en": "The director regularly borrowed books from the municipal library.",
+        "alts": [],
+        "form": "Imparfait"
+      },
+      {
+        "slot": "t|Imparfait|2",
+        "f": "tense",
+        "s": "Enfants, nous ___ des bandes dessinées à la bibliothèque du quartier.",
+        "a": "empruntions",
+        "en": "As children, we used to borrow comics from the neighborhood library.",
+        "alts": [],
+        "form": "Imparfait"
+      },
+      {
+        "slot": "t|Imparfait|2",
+        "f": "tense",
+        "s": "Nous ___ toujours ce vieux pont pour traverser la rivière.",
+        "a": "empruntions",
+        "en": "We always used to take that old bridge to cross the river.",
+        "alts": [],
+        "form": "Imparfait"
+      },
+      {
+        "slot": "t|Imparfait|3",
+        "f": "tense",
+        "s": "À l'époque, vous ___ souvent des outils à votre beau-père.",
+        "a": "empruntiez",
+        "en": "Back then, you used to often borrow tools from your father-in-law.",
+        "alts": [],
+        "form": "Imparfait"
+      },
+      {
+        "slot": "t|Imparfait|3",
+        "f": "tense",
+        "s": "Vous ___ l'avenue principale chaque jour pour aller au bureau.",
+        "a": "empruntiez",
+        "en": "You used to take the main avenue every day to go to the office.",
+        "alts": [],
+        "form": "Imparfait"
+      },
+      {
+        "slot": "t|Imparfait|4",
+        "f": "tense",
+        "s": "Les riverains ___ ce passage pour accéder à la plage.",
+        "a": "empruntaient",
+        "en": "The local residents used to take this passage to access the beach.",
+        "alts": [],
+        "form": "Imparfait"
+      },
+      {
+        "slot": "t|Imparfait|4",
+        "f": "tense",
+        "s": "Ils ___ des cassettes vidéo au vidéoclub du coin chaque vendredi soir.",
+        "a": "empruntaient",
+        "en": "They used to borrow video cassettes from the local video store every Friday evening.",
+        "alts": [],
+        "form": "Imparfait"
+      },
+      {
+        "slot": "t|Futur|0",
+        "f": "tense",
+        "s": "J'___ ce dictionnaire à la bibliothèque pour préparer mon exposé.",
+        "a": "emprunterai",
+        "en": "I will borrow this dictionary from the library to prepare my presentation.",
+        "alts": [],
+        "form": "Futur"
+      },
+      {
+        "slot": "t|Futur|0",
+        "f": "tense",
+        "s": "J'___ le boulevard périphérique pour éviter les travaux en centre-ville.",
+        "a": "emprunterai",
+        "en": "I will take the ring road to avoid roadworks in the city centre.",
+        "alts": [],
+        "form": "Futur"
+      },
+      {
+        "slot": "t|Futur|1",
+        "f": "tense",
+        "s": "Tu ___ de l'argent à ta sœur si tu n'as pas assez pour le voyage.",
+        "a": "emprunteras",
+        "en": "You will borrow money from your sister if you don't have enough for the trip.",
+        "alts": [],
+        "form": "Futur"
+      },
+      {
+        "slot": "t|Futur|1",
+        "f": "tense",
+        "s": "Tu ___ ce couloir pour sortir du bâtiment en cas d'urgence.",
+        "a": "emprunteras",
+        "en": "You will take this corridor to exit the building in an emergency.",
+        "alts": [],
+        "form": "Futur"
+      },
+      {
+        "slot": "t|Futur|2",
+        "f": "tense",
+        "s": "Notre guide ___ le chemin côtier pour nous montrer les falaises.",
+        "a": "empruntera",
+        "en": "Our guide will take the coastal path to show us the cliffs.",
+        "alts": [],
+        "form": "Futur"
+      },
+      {
+        "slot": "t|Futur|2",
+        "f": "tense",
+        "s": "Elle ___ un roman à la médiathèque pour les vacances.",
+        "a": "empruntera",
+        "en": "She will borrow a novel from the media library for the holidays.",
+        "alts": [],
+        "form": "Futur"
+      },
+      {
+        "slot": "t|Futur|3",
+        "f": "tense",
+        "s": "Nous ___ la voiture de nos parents pour aller à l'aéroport demain matin.",
+        "a": "emprunterons",
+        "en": "We will borrow our parents' car to go to the airport tomorrow morning.",
+        "alts": [],
+        "form": "Futur"
+      },
+      {
+        "slot": "t|Futur|3",
+        "f": "tense",
+        "s": "Nous ___ la nouvelle autoroute dès son ouverture pour gagner du temps.",
+        "a": "emprunterons",
+        "en": "We will take the new motorway as soon as it opens to save time.",
+        "alts": [],
+        "form": "Futur"
+      },
+      {
+        "slot": "t|Futur|4",
+        "f": "tense",
+        "s": "Vous ___ ces outils à l'association si vous en avez besoin.",
+        "a": "emprunterez",
+        "en": "You will borrow these tools from the association if you need them.",
+        "alts": [],
+        "form": "Futur"
+      },
+      {
+        "slot": "t|Futur|4",
+        "f": "tense",
+        "s": "Vous ___ la sortie de secours au fond du couloir en cas d'évacuation.",
+        "a": "emprunterez",
+        "en": "You will take the emergency exit at the end of the corridor during an evacuation.",
+        "alts": [],
+        "form": "Futur"
+      },
+      {
+        "slot": "t|Futur|5",
+        "f": "tense",
+        "s": "Les élèves ___ des livres de la bibliothèque scolaire pour leurs recherches.",
+        "a": "emprunteront",
+        "en": "The pupils will borrow books from the school library for their research.",
+        "alts": [],
+        "form": "Futur"
+      },
+      {
+        "slot": "t|Futur|5",
+        "f": "tense",
+        "s": "Les conducteurs ___ le nouveau tunnel dès sa mise en service.",
+        "a": "emprunteront",
+        "en": "Drivers will take the new tunnel as soon as it opens.",
+        "alts": [],
+        "form": "Futur"
+      },
+      {
+        "slot": "t|Conditionnel|0",
+        "f": "tense",
+        "s": "Si j'avais moins d'argent, j'___ une somme à mes parents.",
+        "a": "emprunterais",
+        "en": "If I had less money, I would borrow a sum from my parents.",
+        "alts": [],
+        "form": "Conditionnel"
+      },
+      {
+        "slot": "t|Conditionnel|0",
+        "f": "tense",
+        "s": "Si tu avais le temps, tu ___ ce vélo pour faire le tour du lac.",
+        "a": "emprunterais",
+        "en": "If you had the time, you would borrow this bike to cycle around the lake.",
+        "alts": [],
+        "form": "Conditionnel"
+      },
+      {
+        "slot": "t|Conditionnel|1",
+        "f": "tense",
+        "s": "Si elle n'avait pas de voiture, elle ___ celle de sa voisine.",
+        "a": "emprunterait",
+        "en": "If she didn't have a car, she would borrow her neighbour's.",
+        "alts": [],
+        "form": "Conditionnel"
+      },
+      {
+        "slot": "t|Conditionnel|1",
+        "f": "tense",
+        "s": "Si le pont était fermé, il ___ le bac pour traverser la rivière.",
+        "a": "emprunterait",
+        "en": "If the bridge were closed, he would take the ferry to cross the river.",
+        "alts": [],
+        "form": "Conditionnel"
+      },
+      {
+        "slot": "t|Conditionnel|2",
+        "f": "tense",
+        "s": "Si nous avions besoin de matériel, nous ___ celui du club de sport.",
+        "a": "emprunterions",
+        "en": "If we needed equipment, we would borrow it from the sports club.",
+        "alts": [],
+        "form": "Conditionnel"
+      },
+      {
+        "slot": "t|Conditionnel|2",
+        "f": "tense",
+        "s": "Si la nationale était bloquée, nous ___ la route de montagne.",
+        "a": "emprunterions",
+        "en": "If the national road were blocked, we would take the mountain road.",
+        "alts": [],
+        "form": "Conditionnel"
+      },
+      {
+        "slot": "t|Conditionnel|3",
+        "f": "tense",
+        "s": "Si vous manquiez d'argent, vous ___ une somme à la banque.",
+        "a": "emprunteriez",
+        "en": "If you were short of money, you would borrow a sum from the bank.",
+        "alts": [],
+        "form": "Conditionnel"
+      },
+      {
+        "slot": "t|Conditionnel|3",
+        "f": "tense",
+        "s": "Si la route principale était fermée, vous ___ ce chemin de terre.",
+        "a": "emprunteriez",
+        "en": "If the main road were closed, you would take this dirt track.",
+        "alts": [],
+        "form": "Conditionnel"
+      },
+      {
+        "slot": "t|Conditionnel|4",
+        "f": "tense",
+        "s": "Si les bibliothèques étaient gratuites dans leur ville, ils ___ plus de livres.",
+        "a": "emprunteraient",
+        "en": "If libraries were free in their city, they would borrow more books.",
+        "alts": [],
+        "form": "Conditionnel"
+      },
+      {
+        "slot": "t|Conditionnel|4",
+        "f": "tense",
+        "s": "Si elles avaient le choix, elles ___ la voie rapide plutôt que les petites routes.",
+        "a": "emprunteraient",
+        "en": "If they had the choice, they would take the expressway rather than the small roads.",
+        "alts": [],
+        "form": "Conditionnel"
+      },
+      {
+        "slot": "t|Subjonctif",
+        "f": "subj",
+        "s": "Le règlement exige que vous ___ ces livres uniquement à la bibliothèque centrale.",
+        "a": "empruntiez",
+        "en": "The rules require that you borrow these books only from the central library.",
+        "alts": [],
+        "form": "Subjonctif présent"
+      },
+      {
+        "slot": "t|Subjonctif",
+        "f": "subj",
+        "s": "Je préfère que tu ___ ce chemin détourné pour éviter la foule.",
+        "a": "empruntes",
+        "en": "I prefer that you take this detour to avoid the crowd.",
+        "alts": [],
+        "form": "Subjonctif présent"
+      },
+      {
+        "slot": "s|0",
+        "f": "sense",
+        "s": "Je dois ___ de l'argent à ma banque pour financer mes études.",
+        "a": "emprunter",
+        "en": "I need to borrow money from my bank to finance my studies.",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "s|0",
+        "f": "sense",
+        "s": "Mon frère m'a demandé de lui ___ cinquante euros jusqu'à la fin du mois.",
+        "a": "emprunter",
+        "en": "My brother asked me to borrow fifty euros from him until the end of the month.",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "s|1",
+        "f": "sense",
+        "s": "Cette entreprise a voulu ___ le concept d'une start-up américaine.",
+        "a": "emprunter",
+        "en": "This company wanted to borrow the concept from an American start-up.",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "s|1",
+        "f": "sense",
+        "s": "Le romancier a décidé d'___ plusieurs expressions à la langue populaire.",
+        "a": "emprunter",
+        "en": "The novelist decided to borrow several expressions from popular speech.",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "s|2",
+        "f": "sense",
+        "s": "Pour aller à la ferme, il faut ___ le petit chemin à droite du moulin.",
+        "a": "emprunter",
+        "en": "To get to the farm, you need to take the small path to the right of the mill.",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "s|2",
+        "f": "sense",
+        "s": "Les cyclistes doivent ___ la piste cyclable et non la chaussée.",
+        "a": "emprunter",
+        "en": "Cyclists must take the cycle lane and not the road.",
+        "alts": [],
+        "form": ""
+      }
+    ]
+  }
+]

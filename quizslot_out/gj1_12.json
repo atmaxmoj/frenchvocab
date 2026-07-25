@@ -1,0 +1,729 @@
+[
+  {
+    "id": 1537,
+    "qs": [
+      {
+        "slot": "s|0",
+        "f": "sense",
+        "s": "Ces explications ne sont pas ___ pour comprendre le problème.",
+        "a": "suffisantes",
+        "en": "These explanations are not sufficient to understand the problem.",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "s|0",
+        "f": "sense",
+        "s": "Un salaire ___ permet de vivre confortablement.",
+        "a": "suffisant",
+        "en": "A sufficient salary allows one to live comfortably.",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "s|1",
+        "f": "sense",
+        "s": "Il est tellement ___ qu'il ne demande jamais l'avis des autres.",
+        "a": "suffisant",
+        "en": "He is so conceited that he never asks for other people's opinion.",
+        "alts": ["arrogant", "prétentieux"],
+        "form": ""
+      },
+      {
+        "slot": "s|1",
+        "f": "sense",
+        "s": "Elle a répondu d'un air ___, comme si elle savait tout mieux que nous.",
+        "a": "suffisant",
+        "en": "She answered with a smug air, as if she knew everything better than us.",
+        "alts": ["arrogant", "prétentieux"],
+        "form": ""
+      },
+      {
+        "slot": "g|mp",
+        "f": "agree",
+        "s": "Les résultats obtenus sont jugés ___ par les experts.",
+        "a": "suffisants",
+        "en": "The results obtained are considered sufficient by the experts.",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "g|mp",
+        "f": "agree",
+        "s": "Ces deux hommes ___ ne prennent jamais le temps d'écouter leurs collègues.",
+        "a": "suffisants",
+        "en": "These two conceited men never take the time to listen to their colleagues.",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "g|f",
+        "f": "agree",
+        "s": "La quantité de nourriture fournie était ___ pour tous les invités.",
+        "a": "suffisante",
+        "en": "The amount of food provided was sufficient for all the guests.",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "g|f",
+        "f": "agree",
+        "s": "Ma collègue est parfois ___ : elle refuse d'admettre qu'elle a tort.",
+        "a": "suffisante",
+        "en": "My colleague is sometimes conceited: she refuses to admit she is wrong.",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "g|fp",
+        "f": "agree",
+        "s": "Les preuves présentées au tribunal ne sont pas ___ pour condamner l'accusé.",
+        "a": "suffisantes",
+        "en": "The evidence presented in court is not sufficient to convict the defendant.",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "g|fp",
+        "f": "agree",
+        "s": "Ces deux femmes ___ ne supportent pas qu'on leur fasse des remarques.",
+        "a": "suffisantes",
+        "en": "These two smug women cannot stand being given feedback.",
+        "alts": [],
+        "form": ""
+      }
+    ]
+  },
+  {
+    "id": 1538,
+    "qs": [
+      {
+        "slot": "s|0",
+        "f": "sense",
+        "s": "Les enfants regardent les nuages dans ___ ce matin.",
+        "a": "le ciel",
+        "en": "The children are watching the clouds in the sky this morning.",
+        "alts": []
+      },
+      {
+        "slot": "s|0",
+        "f": "sense",
+        "s": "L'avion disparaît peu à peu dans ___ bleu.",
+        "a": "le ciel",
+        "en": "The plane gradually disappears into the blue sky.",
+        "alts": []
+      },
+      {
+        "slot": "s|1",
+        "f": "sense",
+        "s": "Selon cette religion, les âmes des justes montent au ___ après la mort.",
+        "a": "ciel",
+        "en": "According to this religion, the souls of the righteous go up to heaven after death.",
+        "alts": []
+      },
+      {
+        "slot": "s|1",
+        "f": "sense",
+        "s": "Elle croit que son mari décédé est maintenant au ___.",
+        "a": "ciel",
+        "en": "She believes her deceased husband is now in heaven.",
+        "alts": []
+      },
+      {
+        "slot": "s|2",
+        "f": "sense",
+        "s": "Quand il apprit la nouvelle, il s'écria : « ___ ! Comment est-ce possible ? »",
+        "a": "Ciel",
+        "en": "When he heard the news, he exclaimed: \"Heavens! How is that possible?\"",
+        "alts": []
+      },
+      {
+        "slot": "s|2",
+        "f": "sense",
+        "s": "___ ! J'ai oublié mon portefeuille à la maison !",
+        "a": "Ciel",
+        "en": "Heavens! I forgot my wallet at home!",
+        "alts": []
+      },
+      {
+        "slot": "gender",
+        "f": "gender",
+        "s": "Par beau temps, ___ ciel est d'un bleu magnifique.",
+        "a": "le",
+        "en": "In good weather, the sky is a magnificent blue.",
+        "alts": []
+      },
+      {
+        "slot": "gender",
+        "f": "gender",
+        "s": "Ce soir, on peut admirer ___ ciel étoilé depuis la terrasse.",
+        "a": "un",
+        "en": "Tonight, we can admire a starry sky from the terrace.",
+        "alts": []
+      }
+    ]
+  },
+  {
+    "id": 1539,
+    "qs": [
+      {
+        "slot": "t|Présent|0",
+        "f": "tense",
+        "s": "Je ne ___ jamais mes amis.",
+        "a": "trompe",
+        "en": "I never deceive my friends.",
+        "alts": [],
+        "form": "Présent"
+      },
+      {
+        "slot": "t|Présent|0",
+        "f": "tense",
+        "s": "Mon frère ___ souvent les gens avec ses belles paroles.",
+        "a": "trompe",
+        "en": "My brother often deceives people with his fine words.",
+        "alts": [],
+        "form": "Présent"
+      },
+      {
+        "slot": "t|Présent|1",
+        "f": "tense",
+        "s": "Tu ___ tout le monde depuis des années.",
+        "a": "trompes",
+        "en": "You have been deceiving everyone for years.",
+        "alts": [],
+        "form": "Présent"
+      },
+      {
+        "slot": "t|Présent|1",
+        "f": "tense",
+        "s": "Est-ce que tu ___ vraiment ta famille ?",
+        "a": "trompes",
+        "en": "Are you really deceiving your family?",
+        "alts": [],
+        "form": "Présent"
+      },
+      {
+        "slot": "t|Présent|2",
+        "f": "tense",
+        "s": "Nous ___ parfois nos clients sans le vouloir.",
+        "a": "trompons",
+        "en": "We sometimes deceive our clients without meaning to.",
+        "alts": [],
+        "form": "Présent"
+      },
+      {
+        "slot": "t|Présent|2",
+        "f": "tense",
+        "s": "Nous ne ___ personne dans cette affaire.",
+        "a": "trompons",
+        "en": "We are not deceiving anyone in this matter.",
+        "alts": [],
+        "form": "Présent"
+      },
+      {
+        "slot": "t|Présent|3",
+        "f": "tense",
+        "s": "Vous ___ les électeurs avec ces fausses promesses.",
+        "a": "trompez",
+        "en": "You are deceiving the voters with these false promises.",
+        "alts": [],
+        "form": "Présent"
+      },
+      {
+        "slot": "t|Présent|3",
+        "f": "tense",
+        "s": "Est-ce que vous ___ sciemment vos partenaires ?",
+        "a": "trompez",
+        "en": "Are you knowingly deceiving your partners?",
+        "alts": [],
+        "form": "Présent"
+      },
+      {
+        "slot": "t|Présent|4",
+        "f": "tense",
+        "s": "Ces commerçants ___ leurs clients sur la qualité des produits.",
+        "a": "trompent",
+        "en": "These merchants deceive their customers about the quality of the products.",
+        "alts": [],
+        "form": "Présent"
+      },
+      {
+        "slot": "t|Présent|4",
+        "f": "tense",
+        "s": "Les apparences ___ souvent.",
+        "a": "trompent",
+        "en": "Appearances are often deceiving.",
+        "alts": [],
+        "form": "Présent"
+      },
+      {
+        "slot": "t|Passé composé|0",
+        "f": "tense",
+        "s": "Hier, j' ___ mon patron en prétendant être malade.",
+        "a": "ai trompé",
+        "en": "Yesterday, I deceived my boss by pretending to be sick.",
+        "alts": [],
+        "form": "Passé composé"
+      },
+      {
+        "slot": "t|Passé composé|0",
+        "f": "tense",
+        "s": "Je l' ___ une seule fois et je le regrette.",
+        "a": "ai trompé",
+        "en": "I deceived him only once and I regret it.",
+        "alts": [],
+        "form": "Passé composé"
+      },
+      {
+        "slot": "t|Passé composé|1",
+        "f": "tense",
+        "s": "Tu ___ ta meilleure amie en lui cachant la vérité.",
+        "a": "as trompé",
+        "en": "You deceived your best friend by hiding the truth from her.",
+        "alts": [],
+        "form": "Passé composé"
+      },
+      {
+        "slot": "t|Passé composé|1",
+        "f": "tense",
+        "s": "Est-ce que tu ___ ton associé dans ce contrat ?",
+        "a": "as trompé",
+        "en": "Did you deceive your partner in this contract?",
+        "alts": [],
+        "form": "Passé composé"
+      },
+      {
+        "slot": "t|Passé composé|2",
+        "f": "tense",
+        "s": "Ce vendeur ___ ses clients sur l'origine du produit.",
+        "a": "a trompé",
+        "en": "This salesman deceived his customers about the origin of the product.",
+        "alts": [],
+        "form": "Passé composé"
+      },
+      {
+        "slot": "t|Passé composé|2",
+        "f": "tense",
+        "s": "Elle ___ son mari pendant plusieurs années.",
+        "a": "a trompé",
+        "en": "She cheated on her husband for several years.",
+        "alts": [],
+        "form": "Passé composé"
+      },
+      {
+        "slot": "t|Passé composé|3",
+        "f": "tense",
+        "s": "Nous ___ nos concurrents en annonçant un faux délai.",
+        "a": "avons trompé",
+        "en": "We deceived our competitors by announcing a false deadline.",
+        "alts": [],
+        "form": "Passé composé"
+      },
+      {
+        "slot": "t|Passé composé|3",
+        "f": "tense",
+        "s": "Nous n'___ personne : tout était transparent.",
+        "a": "avons trompé",
+        "en": "We deceived no one: everything was transparent.",
+        "alts": [],
+        "form": "Passé composé"
+      },
+      {
+        "slot": "t|Passé composé|4",
+        "f": "tense",
+        "s": "Vous ___ vos investisseurs en falsifiant les chiffres.",
+        "a": "avez trompé",
+        "en": "You deceived your investors by falsifying the figures.",
+        "alts": [],
+        "form": "Passé composé"
+      },
+      {
+        "slot": "t|Passé composé|4",
+        "f": "tense",
+        "s": "Vous ___ votre employeur lors de l'entretien.",
+        "a": "avez trompé",
+        "en": "You deceived your employer during the interview.",
+        "alts": [],
+        "form": "Passé composé"
+      },
+      {
+        "slot": "t|Passé composé|5",
+        "f": "tense",
+        "s": "Ces escrocs ___ des centaines de victimes.",
+        "a": "ont trompé",
+        "en": "These swindlers deceived hundreds of victims.",
+        "alts": [],
+        "form": "Passé composé"
+      },
+      {
+        "slot": "t|Passé composé|5",
+        "f": "tense",
+        "s": "Elles ___ leurs partenaires commerciaux lors de la négociation.",
+        "a": "ont trompé",
+        "en": "They deceived their business partners during the negotiation.",
+        "alts": [],
+        "form": "Passé composé"
+      },
+      {
+        "slot": "t|Imparfait|0",
+        "f": "tense",
+        "s": "Quand j'étais jeune, je ___ parfois mes parents.",
+        "a": "trompais",
+        "en": "When I was young, I sometimes deceived my parents.",
+        "alts": [],
+        "form": "Imparfait"
+      },
+      {
+        "slot": "t|Imparfait|0",
+        "f": "tense",
+        "s": "Tu ___ tout le monde à cette époque.",
+        "a": "trompais",
+        "en": "You were deceiving everyone at that time.",
+        "alts": [],
+        "form": "Imparfait"
+      },
+      {
+        "slot": "t|Imparfait|1",
+        "f": "tense",
+        "s": "Ce magicien ___ le public avec ses tours impressionnants.",
+        "a": "trompait",
+        "en": "This magician was deceiving the audience with his impressive tricks.",
+        "alts": [],
+        "form": "Imparfait"
+      },
+      {
+        "slot": "t|Imparfait|1",
+        "f": "tense",
+        "s": "Elle ___ sa famille depuis des années sans que personne le sache.",
+        "a": "trompait",
+        "en": "She was deceiving her family for years without anyone knowing.",
+        "alts": [],
+        "form": "Imparfait"
+      },
+      {
+        "slot": "t|Imparfait|2",
+        "f": "tense",
+        "s": "Nous ___ nos adversaires en faisant semblant d'être faibles.",
+        "a": "trompions",
+        "en": "We were deceiving our opponents by pretending to be weak.",
+        "alts": [],
+        "form": "Imparfait"
+      },
+      {
+        "slot": "t|Imparfait|2",
+        "f": "tense",
+        "s": "Nous ___ rarement les clients, mais cela arrivait parfois.",
+        "a": "trompions",
+        "en": "We rarely deceived customers, but it happened sometimes.",
+        "alts": [],
+        "form": "Imparfait"
+      },
+      {
+        "slot": "t|Imparfait|3",
+        "f": "tense",
+        "s": "Vous ___ vos supérieurs en rédigeant de faux rapports.",
+        "a": "trompiez",
+        "en": "You were deceiving your superiors by writing false reports.",
+        "alts": [],
+        "form": "Imparfait"
+      },
+      {
+        "slot": "t|Imparfait|3",
+        "f": "tense",
+        "s": "Est-ce que vous ___ vos collègues à l'époque ?",
+        "a": "trompiez",
+        "en": "Were you deceiving your colleagues back then?",
+        "alts": [],
+        "form": "Imparfait"
+      },
+      {
+        "slot": "t|Imparfait|4",
+        "f": "tense",
+        "s": "Ces politiciens ___ les citoyens en permanence.",
+        "a": "trompaient",
+        "en": "These politicians were constantly deceiving the citizens.",
+        "alts": [],
+        "form": "Imparfait"
+      },
+      {
+        "slot": "t|Imparfait|4",
+        "f": "tense",
+        "s": "Ils ___ leurs associés en modifiant les comptes.",
+        "a": "trompaient",
+        "en": "They were deceiving their partners by altering the accounts.",
+        "alts": [],
+        "form": "Imparfait"
+      },
+      {
+        "slot": "t|Futur|0",
+        "f": "tense",
+        "s": "Je ne ___ plus jamais quelqu'un que j'aime.",
+        "a": "tromperai",
+        "en": "I will never deceive again someone I love.",
+        "alts": [],
+        "form": "Futur"
+      },
+      {
+        "slot": "t|Futur|0",
+        "f": "tense",
+        "s": "Je ___ mes ennemis avec cette fausse information.",
+        "a": "tromperai",
+        "en": "I will deceive my enemies with this false information.",
+        "alts": [],
+        "form": "Futur"
+      },
+      {
+        "slot": "t|Futur|1",
+        "f": "tense",
+        "s": "Tu ___ encore tes proches si tu continues à mentir.",
+        "a": "tromperas",
+        "en": "You will deceive your loved ones again if you keep lying.",
+        "alts": [],
+        "form": "Futur"
+      },
+      {
+        "slot": "t|Futur|1",
+        "f": "tense",
+        "s": "Si tu continues ainsi, tu ___ tout le monde.",
+        "a": "tromperas",
+        "en": "If you continue this way, you will deceive everyone.",
+        "alts": [],
+        "form": "Futur"
+      },
+      {
+        "slot": "t|Futur|2",
+        "f": "tense",
+        "s": "Ce politicien ___ encore ses électeurs lors des prochaines élections.",
+        "a": "trompera",
+        "en": "This politician will deceive his voters again in the next elections.",
+        "alts": [],
+        "form": "Futur"
+      },
+      {
+        "slot": "t|Futur|2",
+        "f": "tense",
+        "s": "Elle ___ son entourage si elle ne change pas.",
+        "a": "trompera",
+        "en": "She will deceive those around her if she does not change.",
+        "alts": [],
+        "form": "Futur"
+      },
+      {
+        "slot": "t|Futur|3",
+        "f": "tense",
+        "s": "Nous ne ___ pas nos clients : notre qualité est garantie.",
+        "a": "tromperons",
+        "en": "We will not deceive our customers: our quality is guaranteed.",
+        "alts": [],
+        "form": "Futur"
+      },
+      {
+        "slot": "t|Futur|3",
+        "f": "tense",
+        "s": "Nous ___ nos adversaires grâce à cette stratégie secrète.",
+        "a": "tromperons",
+        "en": "We will deceive our opponents thanks to this secret strategy.",
+        "alts": [],
+        "form": "Futur"
+      },
+      {
+        "slot": "t|Futur|4",
+        "f": "tense",
+        "s": "Vous ___ vos concurrents en lançant ce produit à l'improviste.",
+        "a": "tromperez",
+        "en": "You will deceive your competitors by launching this product unexpectedly.",
+        "alts": [],
+        "form": "Futur"
+      },
+      {
+        "slot": "t|Futur|4",
+        "f": "tense",
+        "s": "Vous ne ___ pas les juges avec de si faibles arguments.",
+        "a": "tromperez",
+        "en": "You will not deceive the judges with such weak arguments.",
+        "alts": [],
+        "form": "Futur"
+      },
+      {
+        "slot": "t|Futur|5",
+        "f": "tense",
+        "s": "Ces publicitaires ___ les consommateurs avec leurs slogans trompeurs.",
+        "a": "tromperont",
+        "en": "These advertisers will deceive consumers with their misleading slogans.",
+        "alts": [],
+        "form": "Futur"
+      },
+      {
+        "slot": "t|Futur|5",
+        "f": "tense",
+        "s": "Ils ___ leurs partenaires une dernière fois avant de disparaître.",
+        "a": "tromperont",
+        "en": "They will deceive their partners one last time before disappearing.",
+        "alts": [],
+        "form": "Futur"
+      },
+      {
+        "slot": "t|Conditionnel|0",
+        "f": "tense",
+        "s": "Si j'étais à sa place, je ne ___ jamais mes amis.",
+        "a": "tromperais",
+        "en": "If I were in his place, I would never deceive my friends.",
+        "alts": [],
+        "form": "Conditionnel"
+      },
+      {
+        "slot": "t|Conditionnel|0",
+        "f": "tense",
+        "s": "Si tu avais besoin d'argent, tu ___ quelqu'un pour en obtenir ?",
+        "a": "tromperais",
+        "en": "If you needed money, would you deceive someone to get some?",
+        "alts": [],
+        "form": "Conditionnel"
+      },
+      {
+        "slot": "t|Conditionnel|1",
+        "f": "tense",
+        "s": "Si elle était plus ambitieuse, elle ___ ses rivaux sans hésiter.",
+        "a": "tromperait",
+        "en": "If she were more ambitious, she would deceive her rivals without hesitation.",
+        "alts": [],
+        "form": "Conditionnel"
+      },
+      {
+        "slot": "t|Conditionnel|1",
+        "f": "tense",
+        "s": "Un homme sans principes ___ facilement ses associés.",
+        "a": "tromperait",
+        "en": "A man without principles would easily deceive his associates.",
+        "alts": [],
+        "form": "Conditionnel"
+      },
+      {
+        "slot": "t|Conditionnel|2",
+        "f": "tense",
+        "s": "Si nous étions moins honnêtes, nous ___ nos clients pour faire plus de profit.",
+        "a": "tromperions",
+        "en": "If we were less honest, we would deceive our customers to make more profit.",
+        "alts": [],
+        "form": "Conditionnel"
+      },
+      {
+        "slot": "t|Conditionnel|2",
+        "f": "tense",
+        "s": "Nous ___ nos adversaires si nous utilisions cette tactique.",
+        "a": "tromperions",
+        "en": "We would deceive our opponents if we used this tactic.",
+        "alts": [],
+        "form": "Conditionnel"
+      },
+      {
+        "slot": "t|Conditionnel|3",
+        "f": "tense",
+        "s": "Si vous osiez mentir, vous ___ tout votre entourage.",
+        "a": "tromperiez",
+        "en": "If you dared to lie, you would deceive everyone around you.",
+        "alts": [],
+        "form": "Conditionnel"
+      },
+      {
+        "slot": "t|Conditionnel|3",
+        "f": "tense",
+        "s": "Est-ce que vous ___ vos collègues pour obtenir une promotion ?",
+        "a": "tromperiez",
+        "en": "Would you deceive your colleagues to get a promotion?",
+        "alts": [],
+        "form": "Conditionnel"
+      },
+      {
+        "slot": "t|Conditionnel|4",
+        "f": "tense",
+        "s": "Ces escrocs ___ encore des innocents si on les laissait faire.",
+        "a": "tromperaient",
+        "en": "These swindlers would deceive more innocent people if they were left to act.",
+        "alts": [],
+        "form": "Conditionnel"
+      },
+      {
+        "slot": "t|Conditionnel|4",
+        "f": "tense",
+        "s": "Si elles avaient moins de scrupules, elles ___ leurs partenaires.",
+        "a": "tromperaient",
+        "en": "If they had fewer scruples, they would deceive their partners.",
+        "alts": [],
+        "form": "Conditionnel"
+      },
+      {
+        "slot": "t|Subjonctif",
+        "f": "subj",
+        "s": "Il est inadmissible que tu ___ tes proches de cette façon.",
+        "a": "trompes",
+        "en": "It is unacceptable that you deceive your loved ones in this way.",
+        "alts": [],
+        "form": "Subjonctif"
+      },
+      {
+        "slot": "t|Subjonctif",
+        "f": "subj",
+        "s": "Je ne veux pas qu'il ___ ses collaborateurs.",
+        "a": "trompe",
+        "en": "I do not want him to deceive his collaborators.",
+        "alts": [],
+        "form": "Subjonctif"
+      },
+      {
+        "slot": "s|0",
+        "f": "sense",
+        "s": "Ce vendeur cherche à ___ ses clients en falsifiant les étiquettes.",
+        "a": "tromper",
+        "en": "This seller is trying to deceive his customers by falsifying the labels.",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "s|0",
+        "f": "sense",
+        "s": "Il a utilisé de faux documents pour ___ les autorités.",
+        "a": "tromper",
+        "en": "He used false documents to deceive the authorities.",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "s|1",
+        "f": "sense",
+        "s": "Ce film a fini par ___ les attentes du public.",
+        "a": "tromper",
+        "en": "This film ended up disappointing the audience's expectations.",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "s|1",
+        "f": "sense",
+        "s": "Le résultat de l'expérience a ___ les espoirs des chercheurs.",
+        "a": "trompé",
+        "en": "The result of the experiment disappointed the researchers' hopes.",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "s|2",
+        "f": "sense",
+        "s": "Elle a décidé de quitter son mari après avoir découvert qu'il la ___.",
+        "a": "trompait",
+        "en": "She decided to leave her husband after discovering he was cheating on her.",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "s|2",
+        "f": "sense",
+        "s": "Il a avoué avoir ___ sa femme avec une collègue.",
+        "a": "trompé",
+        "en": "He admitted to having cheated on his wife with a colleague.",
+        "alts": [],
+        "form": ""
+      }
+    ]
+  }
+]

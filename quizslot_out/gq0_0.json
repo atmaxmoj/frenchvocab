@@ -1,0 +1,737 @@
+[
+  {
+    "id": 2501,
+    "qs": [
+      {
+        "slot": "s|0",
+        "f": "sense",
+        "s": "La rivière déborde quand le ___ de l'eau est trop rapide après la pluie.",
+        "a": "flux",
+        "en": "The river overflows when the flow of water is too rapid after the rain.",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "s|0",
+        "f": "sense",
+        "s": "Il observait le ___ régulier de la lave qui descendait lentement le flanc du volcan.",
+        "a": "flux",
+        "en": "He was watching the steady flow of lava slowly descending the flank of the volcano.",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "s|1",
+        "f": "sense",
+        "s": "L'opérateur surveille en permanence le ___ de données circulant sur le réseau.",
+        "a": "flux",
+        "en": "The operator permanently monitors the data flow circulating on the network.",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "s|1",
+        "f": "sense",
+        "s": "La ville a installé des capteurs pour mesurer le ___ de véhicules aux heures de pointe.",
+        "a": "flux",
+        "en": "The city installed sensors to measure the traffic flow during rush hours.",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "s|2",
+        "f": "sense",
+        "s": "Le physicien a calculé le ___ magnétique traversant la bobine.",
+        "a": "flux",
+        "en": "The physicist calculated the magnetic flux passing through the coil.",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "s|2",
+        "f": "sense",
+        "s": "Pour concevoir l'éclairage de la salle, l'ingénieur a d'abord mesuré le ___ lumineux des ampoules.",
+        "a": "flux",
+        "en": "To design the room's lighting, the engineer first measured the luminous flux of the bulbs.",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "gender",
+        "f": "gender",
+        "s": "Un chercheur a étudié ___ flux de migrants dans la région.",
+        "a": "le",
+        "en": "A researcher studied the flow of migrants in the region.",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "gender",
+        "f": "gender",
+        "s": "Elle a mesuré ___ flux d'air entrant dans le tunnel.",
+        "a": "le",
+        "en": "She measured the airflow entering the tunnel.",
+        "alts": [],
+        "form": ""
+      }
+    ]
+  },
+  {
+    "id": 2502,
+    "qs": [
+      {
+        "slot": "s|0",
+        "f": "sense",
+        "s": "Le soleil disparaît lentement derrière l'___.",
+        "a": "horizon",
+        "en": "The sun slowly disappears behind the horizon.",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "s|0",
+        "f": "sense",
+        "s": "Les marins scrutaient l'___ pour apercevoir la côte.",
+        "a": "horizon",
+        "en": "The sailors scanned the horizon to catch sight of the coast.",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "s|1",
+        "f": "sense",
+        "s": "Voyager permet d'élargir ses ___.",
+        "a": "horizons",
+        "en": "Travelling allows one to broaden one's horizons.",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "s|1",
+        "f": "sense",
+        "s": "La lecture ouvre de nouveaux ___ intellectuels.",
+        "a": "horizons",
+        "en": "Reading opens new intellectual horizons.",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "s|2",
+        "f": "sense",
+        "s": "Les économistes prévoient un ___ favorable pour l'année prochaine.",
+        "a": "horizon",
+        "en": "Economists forecast a favourable outlook for next year.",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "s|2",
+        "f": "sense",
+        "s": "À l'___ 2030, la transition énergétique devrait être achevée.",
+        "a": "horizon",
+        "en": "By the 2030 horizon, the energy transition should be complete.",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "gender",
+        "f": "gender",
+        "s": "Nous avons admiré ___ horizon depuis le sommet.",
+        "a": "l'",
+        "en": "We admired the horizon from the summit.",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "gender",
+        "f": "gender",
+        "s": "C'est ___ horizon magnifique qui s'offre à nous ce soir.",
+        "a": "un",
+        "en": "It's a magnificent horizon that opens up before us this evening.",
+        "alts": [],
+        "form": ""
+      }
+    ]
+  },
+  {
+    "id": 2503,
+    "qs": [
+      {
+        "slot": "t|Présent|0",
+        "f": "tense",
+        "s": "Chaque matin, je ___ mon esprit du stress de la journée précédente.",
+        "a": "délivre",
+        "en": "Every morning, I free my mind from the stress of the previous day.",
+        "alts": [],
+        "form": "Présent"
+      },
+      {
+        "slot": "t|Présent|0",
+        "f": "tense",
+        "s": "Le médecin ___ une ordonnance à chaque patient qui en a besoin.",
+        "a": "délivre",
+        "en": "The doctor issues a prescription to each patient who needs one.",
+        "alts": [],
+        "form": "Présent"
+      },
+      {
+        "slot": "t|Présent|1",
+        "f": "tense",
+        "s": "Tu ___ ce prisonnier de ses souffrances en lui offrant ton aide.",
+        "a": "délivres",
+        "en": "You free this prisoner from his suffering by offering him your help.",
+        "alts": [],
+        "form": "Présent"
+      },
+      {
+        "slot": "t|Présent|1",
+        "f": "tense",
+        "s": "Est-ce que tu ___ les certificats aux nouveaux étudiants ce matin ?",
+        "a": "délivres",
+        "en": "Are you issuing the certificates to the new students this morning?",
+        "alts": [],
+        "form": "Présent"
+      },
+      {
+        "slot": "t|Présent|2",
+        "f": "tense",
+        "s": "Ensemble, nous ___ les habitants de ce village de la tyrannie.",
+        "a": "délivrons",
+        "en": "Together, we free the inhabitants of this village from tyranny.",
+        "alts": [],
+        "form": "Présent"
+      },
+      {
+        "slot": "t|Présent|2",
+        "f": "tense",
+        "s": "Nous ___ des permis de construire aux propriétaires qui en font la demande.",
+        "a": "délivrons",
+        "en": "We issue building permits to property owners who apply for them.",
+        "alts": [],
+        "form": "Présent"
+      },
+      {
+        "slot": "t|Présent|3",
+        "f": "tense",
+        "s": "Vous ___ les otages un par un, conformément à l'accord signé.",
+        "a": "délivrez",
+        "en": "You release the hostages one by one, in accordance with the signed agreement.",
+        "alts": [],
+        "form": "Présent"
+      },
+      {
+        "slot": "t|Présent|3",
+        "f": "tense",
+        "s": "Est-ce que vous ___ les diplômes lors de la cérémonie de fin d'année ?",
+        "a": "délivrez",
+        "en": "Do you issue the diplomas during the end-of-year ceremony?",
+        "alts": [],
+        "form": "Présent"
+      },
+      {
+        "slot": "t|Présent|4",
+        "f": "tense",
+        "s": "Les soldats ___ les prisonniers dès que la trêve est annoncée.",
+        "a": "délivrent",
+        "en": "The soldiers free the prisoners as soon as the ceasefire is announced.",
+        "alts": [],
+        "form": "Présent"
+      },
+      {
+        "slot": "t|Présent|4",
+        "f": "tense",
+        "s": "Les autorités ___ les visas dans un délai de deux semaines.",
+        "a": "délivrent",
+        "en": "The authorities issue visas within two weeks.",
+        "alts": [],
+        "form": "Présent"
+      },
+      {
+        "slot": "t|Passé composé|0",
+        "f": "tense",
+        "s": "Hier soir, j'___ mon collègue d'une tâche épuisante.",
+        "a": "ai délivré",
+        "en": "Yesterday evening, I relieved my colleague of an exhausting task.",
+        "alts": [],
+        "form": "Passé composé"
+      },
+      {
+        "slot": "t|Passé composé|0",
+        "f": "tense",
+        "s": "Ce matin, j'___ une attestation officielle à la mairie.",
+        "a": "ai délivré",
+        "en": "This morning, I issued an official certificate at the town hall.",
+        "alts": [],
+        "form": "Passé composé"
+      },
+      {
+        "slot": "t|Passé composé|1",
+        "f": "tense",
+        "s": "Tu ___ cet enfant du danger en intervenant à temps.",
+        "a": "as délivré",
+        "en": "You saved that child from danger by intervening in time.",
+        "alts": [],
+        "form": "Passé composé"
+      },
+      {
+        "slot": "t|Passé composé|1",
+        "f": "tense",
+        "s": "Tu ___ le laissez-passer au gardien avant d'entrer dans le bâtiment.",
+        "a": "as délivré",
+        "en": "You issued the pass to the guard before entering the building.",
+        "alts": [],
+        "form": "Passé composé"
+      },
+      {
+        "slot": "t|Passé composé|2",
+        "f": "tense",
+        "s": "Le héros ___ la ville assiégée après une longue bataille.",
+        "a": "a délivré",
+        "en": "The hero freed the besieged city after a long battle.",
+        "alts": [],
+        "form": "Passé composé"
+      },
+      {
+        "slot": "t|Passé composé|2",
+        "f": "tense",
+        "s": "La mairie ___ un certificat de résidence à chaque demandeur la semaine dernière.",
+        "a": "a délivré",
+        "en": "The town hall issued a certificate of residence to each applicant last week.",
+        "alts": [],
+        "form": "Passé composé"
+      },
+      {
+        "slot": "t|Passé composé|3",
+        "f": "tense",
+        "s": "Nous ___ les captifs dès que nous avons reçu l'ordre de les libérer.",
+        "a": "avons délivré",
+        "en": "We freed the captives as soon as we received the order to release them.",
+        "alts": [],
+        "form": "Passé composé"
+      },
+      {
+        "slot": "t|Passé composé|3",
+        "f": "tense",
+        "s": "Nous ___ les passeports aux voyageurs avant leur départ.",
+        "a": "avons délivré",
+        "en": "We issued the passports to the travellers before their departure.",
+        "alts": [],
+        "form": "Passé composé"
+      },
+      {
+        "slot": "t|Passé composé|4",
+        "f": "tense",
+        "s": "Vous ___ ces otages en négociant habilement avec leurs ravisseurs.",
+        "a": "avez délivré",
+        "en": "You freed these hostages by negotiating skillfully with their captors.",
+        "alts": [],
+        "form": "Passé composé"
+      },
+      {
+        "slot": "t|Passé composé|4",
+        "f": "tense",
+        "s": "Vous ___ les autorisations nécessaires à tous les participants hier.",
+        "a": "avez délivré",
+        "en": "You issued the necessary authorizations to all the participants yesterday.",
+        "alts": [],
+        "form": "Passé composé"
+      },
+      {
+        "slot": "t|Passé composé|5",
+        "f": "tense",
+        "s": "Les pompiers ___ deux personnes coincées dans l'ascenseur ce matin.",
+        "a": "ont délivré",
+        "en": "The firefighters freed two people trapped in the elevator this morning.",
+        "alts": [],
+        "form": "Passé composé"
+      },
+      {
+        "slot": "t|Passé composé|5",
+        "f": "tense",
+        "s": "Les services consulaires ___ des centaines de visas en une seule journée.",
+        "a": "ont délivré",
+        "en": "The consular services issued hundreds of visas in a single day.",
+        "alts": [],
+        "form": "Passé composé"
+      },
+      {
+        "slot": "t|Imparfait|0",
+        "f": "tense",
+        "s": "Quand j'étais enfant, je ___ toujours mes amis des jeux injustes.",
+        "a": "délivrais",
+        "en": "When I was a child, I always freed my friends from unfair games.",
+        "alts": [],
+        "form": "Imparfait"
+      },
+      {
+        "slot": "t|Imparfait|0",
+        "f": "tense",
+        "s": "À l'époque, tu ___ des certificats médicaux à tous les sportifs du club.",
+        "a": "délivrais",
+        "en": "At the time, you were issuing medical certificates to all the club's athletes.",
+        "alts": [],
+        "form": "Imparfait"
+      },
+      {
+        "slot": "t|Imparfait|1",
+        "f": "tense",
+        "s": "Le chevalier ___ les villageois de la menace du dragon chaque année.",
+        "a": "délivrait",
+        "en": "The knight freed the villagers from the threat of the dragon every year.",
+        "alts": [],
+        "form": "Imparfait"
+      },
+      {
+        "slot": "t|Imparfait|1",
+        "f": "tense",
+        "s": "Le bureau administratif ___ les permis de séjour chaque lundi matin.",
+        "a": "délivrait",
+        "en": "The administrative office was issuing residence permits every Monday morning.",
+        "alts": [],
+        "form": "Imparfait"
+      },
+      {
+        "slot": "t|Imparfait|2",
+        "f": "tense",
+        "s": "Chaque semaine, nous ___ des réfugiés de camps surpeuplés.",
+        "a": "délivrions",
+        "en": "Every week, we freed refugees from overcrowded camps.",
+        "alts": [],
+        "form": "Imparfait"
+      },
+      {
+        "slot": "t|Imparfait|2",
+        "f": "tense",
+        "s": "Nous ___ autrefois les licences commerciales sans trop de formalités.",
+        "a": "délivrions",
+        "en": "We used to issue commercial licences without too many formalities.",
+        "alts": [],
+        "form": "Imparfait"
+      },
+      {
+        "slot": "t|Imparfait|3",
+        "f": "tense",
+        "s": "Vous ___ régulièrement les animaux capturés avant de les relâcher dans la nature.",
+        "a": "délivriez",
+        "en": "You regularly freed the captured animals before releasing them into the wild.",
+        "alts": [],
+        "form": "Imparfait"
+      },
+      {
+        "slot": "t|Imparfait|3",
+        "f": "tense",
+        "s": "Vous ___ des attestations de formation à chaque stagiaire à la fin du programme.",
+        "a": "délivriez",
+        "en": "You were issuing training certificates to each trainee at the end of the programme.",
+        "alts": [],
+        "form": "Imparfait"
+      },
+      {
+        "slot": "t|Imparfait|4",
+        "f": "tense",
+        "s": "Les soldats ___ les prisonniers de guerre chaque fois qu'un accord était conclu.",
+        "a": "délivraient",
+        "en": "The soldiers freed prisoners of war each time an agreement was reached.",
+        "alts": [],
+        "form": "Imparfait"
+      },
+      {
+        "slot": "t|Imparfait|4",
+        "f": "tense",
+        "s": "Les fonctionnaires ___ les cartes d'identité aux citoyens sans rendez-vous à l'époque.",
+        "a": "délivraient",
+        "en": "The officials used to issue identity cards to citizens without an appointment.",
+        "alts": [],
+        "form": "Imparfait"
+      },
+      {
+        "slot": "t|Futur|0",
+        "f": "tense",
+        "s": "Demain, je ___ mon ami de cette lourde responsabilité.",
+        "a": "délivrerai",
+        "en": "Tomorrow, I will free my friend from this heavy responsibility.",
+        "alts": [],
+        "form": "Futur"
+      },
+      {
+        "slot": "t|Futur|0",
+        "f": "tense",
+        "s": "Je ___ les documents officiels dès que le dossier sera complet.",
+        "a": "délivrerai",
+        "en": "I will issue the official documents as soon as the file is complete.",
+        "alts": [],
+        "form": "Futur"
+      },
+      {
+        "slot": "t|Futur|1",
+        "f": "tense",
+        "s": "Tu ___ ce blessé de sa douleur grâce au médicament que le médecin t'a donné.",
+        "a": "délivreras",
+        "en": "You will relieve this injured person of his pain thanks to the medicine the doctor gave you.",
+        "alts": [],
+        "form": "Futur"
+      },
+      {
+        "slot": "t|Futur|1",
+        "f": "tense",
+        "s": "Tu ___ le certificat de naissance au bureau de l'état civil demain.",
+        "a": "délivreras",
+        "en": "You will issue the birth certificate at the civil registry office tomorrow.",
+        "alts": [],
+        "form": "Futur"
+      },
+      {
+        "slot": "t|Futur|2",
+        "f": "tense",
+        "s": "Le traité de paix ___ enfin les habitants de cette région du conflit.",
+        "a": "délivrera",
+        "en": "The peace treaty will finally free the inhabitants of this region from the conflict.",
+        "alts": [],
+        "form": "Futur"
+      },
+      {
+        "slot": "t|Futur|2",
+        "f": "tense",
+        "s": "La préfecture ___ les nouvelles cartes grises dans un délai d'un mois.",
+        "a": "délivrera",
+        "en": "The prefecture will issue the new registration documents within one month.",
+        "alts": [],
+        "form": "Futur"
+      },
+      {
+        "slot": "t|Futur|3",
+        "f": "tense",
+        "s": "Nous ___ ces personnes retenues injustement dès que possible.",
+        "a": "délivrerons",
+        "en": "We will free these people unjustly detained as soon as possible.",
+        "alts": [],
+        "form": "Futur"
+      },
+      {
+        "slot": "t|Futur|3",
+        "f": "tense",
+        "s": "Nous ___ les autorisations d'exercer aux candidats retenus le mois prochain.",
+        "a": "délivrerons",
+        "en": "We will issue the practice authorizations to the selected candidates next month.",
+        "alts": [],
+        "form": "Futur"
+      },
+      {
+        "slot": "t|Futur|4",
+        "f": "tense",
+        "s": "Vous ___ les otages sains et saufs conformément aux termes de l'accord.",
+        "a": "délivrerez",
+        "en": "You will release the hostages safe and sound in accordance with the terms of the agreement.",
+        "alts": [],
+        "form": "Futur"
+      },
+      {
+        "slot": "t|Futur|4",
+        "f": "tense",
+        "s": "Vous ___ les diplômes lors de la cérémonie officielle en juin prochain.",
+        "a": "délivrerez",
+        "en": "You will issue the diplomas at the official ceremony next June.",
+        "alts": [],
+        "form": "Futur"
+      },
+      {
+        "slot": "t|Futur|5",
+        "f": "tense",
+        "s": "Les organisations humanitaires ___ les civils pris au piège dans la zone de conflit.",
+        "a": "délivreront",
+        "en": "The humanitarian organisations will free the civilians trapped in the conflict zone.",
+        "alts": [],
+        "form": "Futur"
+      },
+      {
+        "slot": "t|Futur|5",
+        "f": "tense",
+        "s": "Les ambassades ___ les visas touristiques dès la réouverture des frontières.",
+        "a": "délivreront",
+        "en": "The embassies will issue tourist visas as soon as the borders reopen.",
+        "alts": [],
+        "form": "Futur"
+      },
+      {
+        "slot": "t|Conditionnel|0",
+        "f": "tense",
+        "s": "Si tu me demandais de l'aide, je te ___ immédiatement de cette angoisse.",
+        "a": "délivrerais",
+        "en": "If you asked me for help, I would immediately free you from this anguish.",
+        "alts": [],
+        "form": "Conditionnel"
+      },
+      {
+        "slot": "t|Conditionnel|0",
+        "f": "tense",
+        "s": "Si tu en avais besoin, tu ___ le document en faisant une simple demande en ligne.",
+        "a": "délivrerais",
+        "en": "If you needed it, you would issue the document by making a simple online request.",
+        "alts": [],
+        "form": "Conditionnel"
+      },
+      {
+        "slot": "t|Conditionnel|1",
+        "f": "tense",
+        "s": "Si elle avait plus de courage, elle ___ son frère de cette emprise néfaste.",
+        "a": "délivrerait",
+        "en": "If she had more courage, she would free her brother from this harmful hold.",
+        "alts": [],
+        "form": "Conditionnel"
+      },
+      {
+        "slot": "t|Conditionnel|1",
+        "f": "tense",
+        "s": "Si la loi le permettait, ce bureau ___ les autorisations de travail en ligne.",
+        "a": "délivrerait",
+        "en": "If the law allowed it, this office would issue work permits online.",
+        "alts": [],
+        "form": "Conditionnel"
+      },
+      {
+        "slot": "t|Conditionnel|2",
+        "f": "tense",
+        "s": "Si nous avions assez de ressources, nous ___ tous les prisonniers politiques.",
+        "a": "délivrerions",
+        "en": "If we had enough resources, we would free all the political prisoners.",
+        "alts": [],
+        "form": "Conditionnel"
+      },
+      {
+        "slot": "t|Conditionnel|2",
+        "f": "tense",
+        "s": "Si la demande était approuvée, nous ___ les certificats dès demain.",
+        "a": "délivrerions",
+        "en": "If the request were approved, we would issue the certificates as early as tomorrow.",
+        "alts": [],
+        "form": "Conditionnel"
+      },
+      {
+        "slot": "t|Conditionnel|3",
+        "f": "tense",
+        "s": "Si vous aviez l'autorité nécessaire, vous ___ ces innocents de prison.",
+        "a": "délivreriez",
+        "en": "If you had the necessary authority, you would free these innocent people from prison.",
+        "alts": [],
+        "form": "Conditionnel"
+      },
+      {
+        "slot": "t|Conditionnel|3",
+        "f": "tense",
+        "s": "Si vous étiez en charge du consulat, vous ___ les visas plus rapidement.",
+        "a": "délivreriez",
+        "en": "If you were in charge of the consulate, you would issue visas more quickly.",
+        "alts": [],
+        "form": "Conditionnel"
+      },
+      {
+        "slot": "t|Conditionnel|4",
+        "f": "tense",
+        "s": "Si les négociations réussissaient, ils ___ tous les otages sans délai.",
+        "a": "délivreraient",
+        "en": "If the negotiations succeeded, they would free all the hostages without delay.",
+        "alts": [],
+        "form": "Conditionnel"
+      },
+      {
+        "slot": "t|Conditionnel|4",
+        "f": "tense",
+        "s": "Si les formalités étaient simplifiées, les services consulaires ___ les passeports en un jour.",
+        "a": "délivreraient",
+        "en": "If the formalities were simplified, the consular services would issue passports in one day.",
+        "alts": [],
+        "form": "Conditionnel"
+      },
+      {
+        "slot": "t|Subjonctif",
+        "f": "subj",
+        "s": "Il faut que tu ___ cet homme de sa peur avant qu'il ne soit trop tard.",
+        "a": "délivres",
+        "en": "It is necessary that you free this man from his fear before it is too late.",
+        "alts": [],
+        "form": "Subjonctif présent"
+      },
+      {
+        "slot": "t|Subjonctif",
+        "f": "subj",
+        "s": "Je tiens à ce que vous ___ les documents officiels avant la fin de la semaine.",
+        "a": "délivriez",
+        "en": "I insist that you issue the official documents before the end of the week.",
+        "alts": [],
+        "form": "Subjonctif présent"
+      },
+      {
+        "slot": "s|0",
+        "f": "sense",
+        "s": "Les soldats ont réussi à ___ les civils piégés dans la zone de guerre.",
+        "a": "délivrer",
+        "en": "The soldiers managed to rescue the civilians trapped in the war zone.",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "s|0",
+        "f": "sense",
+        "s": "Le pompier a risqué sa vie pour ___ l'enfant coincé sous les décombres.",
+        "a": "délivrer",
+        "en": "The firefighter risked his life to rescue the child trapped under the rubble.",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "s|1",
+        "f": "sense",
+        "s": "Le juge a ordonné de ___ le détenu dont l'innocence était désormais prouvée.",
+        "a": "délivrer",
+        "en": "The judge ordered the release of the detainee whose innocence was now proven.",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "s|1",
+        "f": "sense",
+        "s": "Les autorités ont décidé de ___ les prisonniers politiques après les négociations.",
+        "a": "délivrer",
+        "en": "The authorities decided to release the political prisoners after the negotiations.",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "s|2",
+        "f": "sense",
+        "s": "Ce médicament est censé ___ le patient de ses douleurs chroniques.",
+        "a": "délivrer",
+        "en": "This medication is supposed to relieve the patient of his chronic pain.",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "s|2",
+        "f": "sense",
+        "s": "La thérapie l'a aidé à ___ son esprit de toutes ses angoisses.",
+        "a": "délivrer",
+        "en": "The therapy helped him to relieve his mind of all his anxieties.",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "s|3",
+        "f": "sense",
+        "s": "Le consulat refuse de ___ un visa sans documents complets.",
+        "a": "délivrer",
+        "en": "The consulate refuses to issue a visa without complete documents.",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "s|3",
+        "f": "sense",
+        "s": "La mairie est habilitée à ___ des actes de naissance à tout moment.",
+        "a": "délivrer",
+        "en": "The town hall is authorized to issue birth certificates at any time.",
+        "alts": [],
+        "form": ""
+      }
+    ]
+  }
+]

@@ -1,0 +1,39 @@
+[
+  {
+    "id": 143,
+    "qs": [
+      {"slot":"s|0","f":"sense","s":"Chaque citoyen a ___ de voter librement.","en":"Every citizen has the right to vote freely.","a":"le droit","alts":[],"form":""},
+      {"slot":"s|0","f":"sense","s":"Les enfants ont ___ à l'éducation.","en":"Children have the right to education.","a":"le droit","alts":[],"form":""},
+      {"slot":"s|1","f":"sense","s":"Selon ___ français, cet acte est interdit.","en":"According to French law, this act is prohibited.","a":"le droit","alts":[],"form":""},
+      {"slot":"s|1","f":"sense","s":"___ pénal punit les crimes et les délits.","en":"Criminal law punishes crimes and offences.","a":"Le droit","alts":[],"form":""},
+      {"slot":"s|2","f":"sense","s":"Elle a décidé d'étudier ___ à l'université de Paris.","en":"She decided to study law at the University of Paris.","a":"le droit","alts":[],"form":""},
+      {"slot":"s|2","f":"sense","s":"Après sa licence en ___, il a passé le barreau.","en":"After his law degree, he passed the bar exam.","a":"droit","alts":[],"form":""},
+      {"slot":"gender","f":"gender","s":"Il a expliqué ___ international en cours.","en":"He explained international law in class.","a":"le droit","alts":[],"form":""},
+      {"slot":"gender","f":"gender","s":"C'est ___ fondamental de l'être humain.","en":"It is a fundamental right of human beings.","a":"un droit","alts":[],"form":""}
+    ]
+  },
+  {
+    "id": 144,
+    "qs": [
+      {"slot":"s|0","f":"sense","s":"La ___ de la pollution est au cœur du débat politique.","en":"The issue of pollution is at the heart of the political debate.","a":"question","alts":[],"form":""},
+      {"slot":"s|0","f":"sense","s":"Nous devons régler cette ___ avant la réunion de demain.","en":"We need to settle this matter before tomorrow's meeting.","a":"question","alts":[],"form":""},
+      {"slot":"s|1","f":"sense","s":"J'ai une ___ à vous poser sur le règlement intérieur.","en":"I have a question to ask you about the internal regulations.","a":"question","alts":[],"form":""},
+      {"slot":"s|1","f":"sense","s":"L'enfant lève la main pour poser une ___ au professeur.","en":"The child raises his hand to ask the teacher a question.","a":"question","alts":[],"form":""},
+      {"slot":"s|2","f":"sense","s":"Ses résultats ont été mis en ___ par le comité scientifique.","en":"His results were called into question by the scientific committee.","a":"question","alts":["cause"],"form":""},
+      {"slot":"s|2","f":"sense","s":"Ce nouveau rapport remet en ___ toutes nos hypothèses précédentes.","en":"This new report calls into question all our previous hypotheses.","a":"question","alts":["cause"],"form":""},
+      {"slot":"gender","f":"gender","s":"___ question posée par l'étudiant était très pertinente.","en":"The question asked by the student was very relevant.","a":"La","alts":[],"form":""},
+      {"slot":"gender","f":"gender","s":"Le professeur a répondu à ___ question difficile sans hésiter.","en":"The teacher answered a difficult question without hesitation.","a":"une","alts":[],"form":""}
+    ]
+  },
+  {
+    "id": 145,
+    "qs": [
+      {"slot":"s|0","f":"sense","s":"Les routes sont verglacées, ___ ralentissez et soyez prudents.","en":"The roads are icy, therefore slow down and be careful.","a":"donc","alts":["ainsi"],"form":""},
+      {"slot":"s|0","f":"sense","s":"Il a oublié son passeport, ___ il n'a pas pu embarquer.","en":"He forgot his passport, therefore he couldn't board.","a":"donc","alts":["ainsi"],"form":""},
+      {"slot":"s|1","f":"sense","s":"J'avais très faim, ___ j'ai mangé toute la pizza.","en":"I was very hungry, so I ate the whole pizza.","a":"donc","alts":["alors"],"form":""},
+      {"slot":"s|1","f":"sense","s":"Elle travaille dur, ___ elle réussit toujours ses examens.","en":"She works hard, so she always passes her exams.","a":"donc","alts":["alors"],"form":""},
+      {"slot":"s|2","f":"sense","s":"Si tu es libre demain, ___ on pourrait se retrouver au café ?","en":"If you're free tomorrow, then could we meet at the café?","a":"donc","alts":["alors"],"form":""},
+      {"slot":"s|2","f":"sense","s":"Tu penses que j'ai tort, ___ explique-moi ta position.","en":"You think I'm wrong, then explain your position to me.","a":"donc","alts":["alors"],"form":""}
+    ]
+  }
+]

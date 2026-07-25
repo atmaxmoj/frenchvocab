@@ -1,0 +1,43 @@
+[
+  {
+    "id": 6237,
+    "qs": [
+      {"slot":"s|0","f":"sense","s":"Malgré la crise, cette entreprise reste ___ solide.","a":"financièrement","en":"Despite the crisis, this company remains financially solid.","alts":[]},
+      {"slot":"s|0","f":"sense","s":"Avant de signer, il faut évaluer ___ ce projet.","a":"financièrement","en":"Before signing, we must evaluate this project financially.","alts":[]},
+      {"slot":"s|1","f":"sense","s":"Mes parents m'ont aidé ___ pendant mes études.","a":"financièrement","en":"My parents helped me financially (with money) during my studies.","alts":[]},
+      {"slot":"s|1","f":"sense","s":"___, mes grands-parents m'ont beaucoup soutenu quand j'ai perdu mon emploi.","a":"Financièrement","en":"Financially, my grandparents supported me a lot when I lost my job.","alts":[]},
+      {"slot":"s|2","f":"sense","s":"Après la fermeture du port, la ville est devenue ___ fragile.","a":"financièrement","en":"After the port closed, the city became economically fragile.","alts":[]},
+      {"slot":"s|2","f":"sense","s":"___, la région a beaucoup souffert après la fermeture de l'usine.","a":"Financièrement","en":"Economically, the region suffered a lot after the factory closed.","alts":[]}
+    ]
+  },
+  {
+    "id": 6238,
+    "qs": [
+      {"slot":"s|0","f":"sense","s":"Après la fermeture de l'usine, il a connu une période de chômage ___.","en":"After the factory closed, he went through a period of involuntary unemployment.","a":"involontaire","alts":[]},
+      {"slot":"s|0","f":"sense","s":"Elle est devenue le témoin ___ d'une dispute entre ses voisins.","en":"She became the involuntary witness of a dispute between her neighbors.","a":"involontaire","alts":[]},
+      {"slot":"s|1","f":"sense","s":"Il s'est excusé pour cette erreur ___ dans le rapport.","en":"He apologized for this unintentional error in the report.","a":"involontaire","alts":[]},
+      {"slot":"s|1","f":"sense","s":"Son silence a été perçu comme une offense ___.","en":"Her silence was perceived as an unintentional offense.","a":"involontaire","alts":[]},
+      {"slot":"s|2","f":"sense","s":"Un frisson ___ l'a parcouru quand elle a entendu ce bruit.","en":"An involuntary shiver ran through her when she heard that noise.","a":"involontaire","alts":[]},
+      {"slot":"s|2","f":"sense","s":"Il a eu un rire ___ en entendant cette blague pendant la réunion.","en":"He let out an involuntary laugh upon hearing that joke during the meeting.","a":"involontaire","alts":[]},
+      {"slot":"g|mp","f":"agree","s":"Les gestes ___ du patient inquiétaient le médecin.","en":"The patient's involuntary movements worried the doctor.","a":"involontaires","alts":[]},
+      {"slot":"g|mp","f":"agree","s":"Ces mouvements ___ sont fréquents chez les personnes atteintes de cette maladie.","en":"These involuntary movements are common among people with this disease.","a":"involontaires","alts":[]},
+      {"slot":"g|f","f":"agree","s":"Sa grimace ___ a trahi sa douleur.","en":"Her involuntary grimace betrayed her pain.","a":"involontaire","alts":[]},
+      {"slot":"g|f","f":"agree","s":"Une contraction ___ du muscle a provoqué cette crampe.","en":"An involuntary contraction of the muscle caused this cramp.","a":"involontaire","alts":[]},
+      {"slot":"g|fp","f":"agree","s":"Les réactions ___ du corps sont difficiles à contrôler.","en":"The body's involuntary reactions are hard to control.","a":"involontaires","alts":[]},
+      {"slot":"g|fp","f":"agree","s":"Ses larmes ___ coulaient sans qu'elle puisse les retenir.","en":"Her involuntary tears flowed without her being able to hold them back.","a":"involontaires","alts":[]}
+    ]
+  },
+  {
+    "id": 6239,
+    "qs": [
+      {"slot":"s|0","f":"sense","s":"Ce jeune ___ a présenté sa première collection à la Fashion Week de Paris.","a":"styliste","en":"This young fashion designer presented his first collection at Paris Fashion Week.","alts":[]},
+      {"slot":"s|0","f":"sense","s":"Elle rêve de devenir ___ et de créer ses propres vêtements.","a":"styliste","en":"She dreams of becoming a fashion designer and creating her own clothes.","alts":[]},
+      {"slot":"s|1","f":"sense","s":"La chanteuse a engagé un ___ pour choisir ses tenues avant le concert.","a":"styliste","en":"The singer hired a stylist to choose her outfits before the concert.","alts":[]},
+      {"slot":"s|1","f":"sense","s":"Le ___ a conseillé l'actrice sur sa coiffure et son maquillage pour la cérémonie.","a":"styliste","en":"The stylist advised the actress on her hairstyle and makeup for the ceremony.","alts":[]},
+      {"slot":"s|2","f":"sense","s":"Cet écrivain est reconnu comme un grand ___, soucieux de chaque phrase qu'il écrit.","a":"styliste","en":"This writer is recognized as a great stylist, meticulous about every sentence he writes.","alts":[]},
+      {"slot":"s|2","f":"sense","s":"Flaubert était un ___ exigeant qui retravaillait sans cesse ses phrases.","a":"styliste","en":"Flaubert was a demanding stylist who constantly reworked his sentences.","alts":[]},
+      {"slot":"gender","f":"gender","s":"C'est ___ styliste très talentueux qui a conçu cette robe de soirée.","a":"un","en":"He is a very talented fashion designer who designed this evening dress.","alts":[]},
+      {"slot":"gender","f":"gender","s":"Cette jeune femme est devenue ___ styliste très respectée dans l'industrie de la mode.","a":"une","en":"This young woman has become a very respected fashion designer in the fashion industry.","alts":[]}
+    ]
+  }
+]

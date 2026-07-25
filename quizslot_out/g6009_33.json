@@ -1,0 +1,39 @@
+[
+  {
+    "id": 6594,
+    "qs": [
+      {"slot": "s|0", "f": "sense", "s": "Le nouvel employé est encore ___ ; il renverse souvent son café.", "en": "The new employee is still clumsy; he often spills his coffee.", "a": "maladroit", "alts": []},
+      {"slot": "s|0", "f": "sense", "s": "Mon frère est très ___ en sport, il tombe sans arrêt.", "en": "My brother is very clumsy at sports, he keeps falling.", "a": "maladroit", "alts": []},
+      {"slot": "s|1", "f": "sense", "s": "Son commentaire était ___ : il a parlé de son divorce devant tout le monde.", "en": "His comment was tactless: he talked about her divorce in front of everyone.", "a": "maladroit", "alts": []},
+      {"slot": "s|1", "f": "sense", "s": "C'est ___ de sa part de poser cette question à un moment pareil.", "en": "It's tactless of him to ask that question at a moment like that.", "a": "maladroit", "alts": []},
+      {"slot": "g|mp", "f": "agree", "s": "Les jeunes danseurs semblaient ___ pendant la répétition.", "en": "The young dancers seemed clumsy during the rehearsal.", "a": "maladroits", "alts": []},
+      {"slot": "g|mp", "f": "agree", "s": "Tes mouvements sont un peu ___, essaie de te détendre.", "en": "Your movements are a bit clumsy, try to relax.", "a": "maladroits", "alts": []},
+      {"slot": "g|f", "f": "agree", "s": "Elle est ___ de ses mains et casse souvent la vaisselle.", "en": "She is clumsy with her hands and often breaks the dishes.", "a": "maladroite", "alts": []},
+      {"slot": "g|f", "f": "agree", "s": "Cette réponse ___ a mis tout le monde mal à l'aise.", "en": "This clumsy answer made everyone uncomfortable.", "a": "maladroite", "alts": []},
+      {"slot": "g|fp", "f": "agree", "s": "Ses excuses étaient ___ et n'ont convaincu personne.", "en": "His apologies were clumsy and convinced no one.", "a": "maladroites", "alts": []},
+      {"slot": "g|fp", "f": "agree", "s": "Leurs mains, encore ___, laissaient tomber les assiettes.", "en": "Their hands, still clumsy, kept dropping the plates.", "a": "maladroites", "alts": []}
+    ]
+  },
+  {
+    "id": 6595,
+    "qs": [
+      {"slot": "s|0", "f": "sense", "s": "Ma grand-mère me parlait souvent des jouets d'___ de son enfance.", "en": "My grandmother often told me about the toys of yesteryear from her childhood.", "a": "antan", "alts": ["autrefois"]},
+      {"slot": "s|0", "f": "sense", "s": "Cette photographie en noir et blanc nous montre la mode d'___.", "en": "This black-and-white photograph shows us the fashion of yesteryear.", "a": "antan", "alts": ["autrefois"]},
+      {"slot": "gender", "f": "gender", "s": "Ce vieux manoir a retrouvé tout son charme ___ antan après la rénovation.", "en": "This old manor regained all its charm of yesteryear after the renovation.", "a": "d'", "alts": []},
+      {"slot": "gender", "f": "gender", "s": "Ces mélodies ___ antan résonnent encore dans nos mémoires.", "en": "These melodies of yesteryear still resonate in our memories.", "a": "d'", "alts": []}
+    ]
+  },
+  {
+    "id": 6596,
+    "qs": [
+      {"slot": "s|0", "f": "sense", "s": "Le propriétaire nous demande un loyer ___ pour ce studio minuscule.", "en": "The landlord is asking us for an exorbitant rent for this tiny studio.", "a": "exorbitant", "alts": []},
+      {"slot": "s|0", "f": "sense", "s": "Ce médecin a facturé un prix ___ pour une simple consultation.", "en": "This doctor charged an exorbitant price for a simple consultation.", "a": "exorbitant", "alts": []},
+      {"slot": "g|mp", "f": "agree", "s": "Les loyers de ce quartier sont devenus ___ ces dernières années.", "en": "The rents in this neighborhood have become exorbitant in recent years.", "a": "exorbitants", "alts": []},
+      {"slot": "g|mp", "f": "agree", "s": "Les tarifs de cet hôtel sont franchement ___ pendant la haute saison.", "en": "This hotel's rates are frankly exorbitant during peak season.", "a": "exorbitants", "alts": []},
+      {"slot": "g|f", "f": "agree", "s": "Cette entreprise réclame une amende ___ pour un simple retard de paiement.", "en": "This company demands an exorbitant fine for a simple late payment.", "a": "exorbitante", "alts": []},
+      {"slot": "g|f", "f": "agree", "s": "La facture d'électricité de ce mois est ___.", "en": "This month's electricity bill is exorbitant.", "a": "exorbitante", "alts": []},
+      {"slot": "g|fp", "f": "agree", "s": "Les commissions bancaires de cette banque sont ___.", "en": "This bank's fees are exorbitant.", "a": "exorbitantes", "alts": []},
+      {"slot": "g|fp", "f": "agree", "s": "Les taxes imposées aux touristes dans cette ville sont ___.", "en": "The taxes imposed on tourists in this city are exorbitant.", "a": "exorbitantes", "alts": []}
+    ]
+  }
+]

@@ -1,0 +1,257 @@
+[
+  {
+    "id": 213,
+    "qs": [
+      {
+        "slot": "s|0",
+        "f": "sense",
+        "s": "J'ai attendu ___ minutes avant que le médecin me reçoive.",
+        "en": "I waited several minutes before the doctor saw me.",
+        "a": "plusieurs",
+        "alts": []
+      },
+      {
+        "slot": "s|0",
+        "f": "sense",
+        "s": "Elle a appelé ___ fois mais personne n'a répondu.",
+        "en": "She called several times but nobody answered.",
+        "a": "plusieurs",
+        "alts": []
+      },
+      {
+        "slot": "s|1",
+        "f": "sense",
+        "s": "Le rapport mentionne ___ causes possibles de l'accident.",
+        "en": "The report mentions several possible causes of the accident.",
+        "a": "plusieurs",
+        "alts": []
+      },
+      {
+        "slot": "s|1",
+        "f": "sense",
+        "s": "Ce projet a nécessité ___ mois de recherche approfondie.",
+        "en": "This project required several months of in-depth research.",
+        "a": "plusieurs",
+        "alts": []
+      },
+      {
+        "slot": "s|2",
+        "f": "sense",
+        "s": "Il a visité ___ pays pendant ses vacances d'été.",
+        "en": "He visited multiple countries during his summer vacation.",
+        "a": "plusieurs",
+        "alts": []
+      },
+      {
+        "slot": "s|2",
+        "f": "sense",
+        "s": "Cette décision a eu ___ conséquences importantes pour l'entreprise.",
+        "en": "This decision had multiple important consequences for the company.",
+        "a": "plusieurs",
+        "alts": []
+      },
+      {
+        "slot": "g|mp",
+        "f": "agree",
+        "s": "Il a acheté ___ livres intéressants à la librairie.",
+        "en": "He bought several interesting books at the bookstore.",
+        "a": "plusieurs",
+        "alts": []
+      },
+      {
+        "slot": "g|mp",
+        "f": "agree",
+        "s": "Nous avons rencontré ___ amis communs lors de cette soirée.",
+        "en": "We met several mutual friends at that party.",
+        "a": "plusieurs",
+        "alts": []
+      },
+      {
+        "slot": "g|f",
+        "f": "agree",
+        "s": "Elle a essayé ___ robes avant de trouver la bonne.",
+        "en": "She tried on several dresses before finding the right one.",
+        "a": "plusieurs",
+        "alts": []
+      },
+      {
+        "slot": "g|f",
+        "f": "agree",
+        "s": "Le professeur a posé ___ questions difficiles lors de l'examen.",
+        "en": "The teacher asked several difficult questions during the exam.",
+        "a": "plusieurs",
+        "alts": []
+      },
+      {
+        "slot": "g|fp",
+        "f": "agree",
+        "s": "Nous avons visité ___ villes historiques pendant notre voyage en France.",
+        "en": "We visited several historic cities during our trip to France.",
+        "a": "plusieurs",
+        "alts": []
+      },
+      {
+        "slot": "g|fp",
+        "f": "agree",
+        "s": "Elle a lu ___ nouvelles de Maupassant pour son cours de littérature.",
+        "en": "She read several short stories by Maupassant for her literature class.",
+        "a": "plusieurs",
+        "alts": []
+      }
+    ]
+  },
+  {
+    "id": 214,
+    "qs": [
+      {
+        "slot": "s|0",
+        "f": "sense",
+        "s": "Monsieur, ___ dossier a bien été reçu et sera traité dans les meilleurs délais.",
+        "en": "Sir, your file has been received and will be processed as soon as possible.",
+        "a": "votre",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "s|0",
+        "f": "sense",
+        "s": "Docteur Martin vous demande : « ___ tension artérielle est un peu élevée ; vous reposez-vous suffisamment ? »",
+        "en": "Dr. Martin asks you: \"Your blood pressure is a little high; are you getting enough rest?\"",
+        "a": "votre",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "s|1",
+        "f": "sense",
+        "s": "Chers élèves, ___ comportement en classe doit s'améliorer dès demain.",
+        "en": "Dear students, your behavior in class must improve starting tomorrow.",
+        "a": "votre",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "s|1",
+        "f": "sense",
+        "s": "Madame et Monsieur Dupont, est-ce que ___ fils participe activement en cours ?",
+        "en": "Mr. and Mrs. Dupont, does your son participate actively in class?",
+        "a": "votre",
+        "alts": [],
+        "form": ""
+      }
+    ]
+  },
+  {
+    "id": 215,
+    "qs": [
+      {
+        "slot": "s|0",
+        "f": "sense",
+        "s": "Il est ___ d'écouter attentivement pendant le cours.",
+        "en": "It is important to listen carefully during the class.",
+        "a": "important",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "s|0",
+        "f": "sense",
+        "s": "Ce document est ___ ; ne le perdez pas.",
+        "en": "This document is important; don't lose it.",
+        "a": "important",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "s|1",
+        "f": "sense",
+        "s": "La signature de ce traité est un événement ___ dans l'histoire du pays.",
+        "en": "The signing of this treaty is a major event in the country's history.",
+        "a": "important",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "s|1",
+        "f": "sense",
+        "s": "Ils ont pris une décision ___ qui va changer l'avenir de l'entreprise.",
+        "en": "They made a major decision that will change the future of the company.",
+        "a": "importante",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "g|ms",
+        "f": "agree",
+        "s": "C'est un sujet ___ que les étudiants doivent maîtriser.",
+        "en": "It is an important subject that students must master.",
+        "a": "important",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "g|ms",
+        "f": "agree",
+        "s": "Il joue un rôle ___ dans le développement de notre projet.",
+        "en": "He plays an important role in the development of our project.",
+        "a": "important",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "g|mp",
+        "f": "agree",
+        "s": "Les résultats de cette recherche sont vraiment ___.",
+        "en": "The results of this research are truly important.",
+        "a": "importants",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "g|mp",
+        "f": "agree",
+        "s": "Il y a des changements ___ dans la nouvelle loi.",
+        "en": "There are important changes in the new law.",
+        "a": "importants",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "g|f",
+        "f": "agree",
+        "s": "La réunion de demain est très ___ pour notre équipe.",
+        "en": "Tomorrow's meeting is very important for our team.",
+        "a": "importante",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "g|f",
+        "f": "agree",
+        "s": "C'est une question ___ que nous devons discuter ensemble.",
+        "en": "It is an important question that we need to discuss together.",
+        "a": "importante",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "g|fp",
+        "f": "agree",
+        "s": "Les valeurs familiales sont ___ pour lui.",
+        "en": "Family values are important to him.",
+        "a": "importantes",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "g|fp",
+        "f": "agree",
+        "s": "Elle a pris des décisions ___ au cours de sa carrière.",
+        "en": "She made important decisions throughout her career.",
+        "a": "importantes",
+        "alts": [],
+        "form": ""
+      }
+    ]
+  }
+]

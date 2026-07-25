@@ -1,0 +1,35 @@
+[
+  {
+    "id": 360,
+    "qs": [
+      {"slot":"s|0","f":"sense","s":"Ce restaurant est complet ; nous devons manger ___ .","en":"This restaurant is full; we have to eat somewhere else.","a":"ailleurs","alts":[],"form":""},
+      {"slot":"s|0","f":"sense","s":"Si tu n'es pas heureux ici, cherche du travail ___ .","en":"If you are not happy here, look for work somewhere else.","a":"ailleurs","alts":[],"form":""},
+      {"slot":"s|1","f":"sense","s":"Les enfants jouaient ___ pendant que les parents discutaient.","en":"The children were playing somewhere else while the parents were talking.","a":"ailleurs","alts":[],"form":""},
+      {"slot":"s|1","f":"sense","s":"Son regard était ___ ; il ne nous écoutait pas.","en":"His gaze was elsewhere; he was not listening to us.","a":"ailleurs","alts":[],"form":""},
+      {"slot":"s|2","f":"sense","s":"Ce projet est intéressant ; par ___ , il est bien financé.","en":"This project is interesting; moreover, it is well funded.","a":"ailleurs","alts":[],"form":""},
+      {"slot":"s|2","f":"sense","s":"Le trajet est long ; par ___ , les billets coûtent très cher.","en":"The journey is long; besides, the tickets are very expensive.","a":"ailleurs","alts":[],"form":""}
+    ]
+  },
+  {
+    "id": 361,
+    "qs": [
+      {"slot":"s|0","f":"sense","s":"Ce tableau est ___ une œuvre d'art : chaque détail a été soigneusement peint.","en":"This painting is truly a work of art: every detail has been carefully painted.","a":"vraiment","alts":[],"form":""},
+      {"slot":"s|0","f":"sense","s":"Il voulait ___ comprendre le problème, alors il a relu le texte plusieurs fois.","en":"He truly wanted to understand the problem, so he reread the text several times.","a":"vraiment","alts":[],"form":""},
+      {"slot":"s|1","f":"sense","s":"— Tu penses qu'il viendra ? — ___, je crois qu'il sera là ce soir.","en":"— Do you think he'll come? — Indeed, I believe he'll be there tonight.","a":"Vraiment","alts":[],"form":""},
+      {"slot":"s|1","f":"sense","s":"Vous avez ___ raison : nous aurions dû partir plus tôt.","en":"You are indeed right: we should have left earlier.","a":"vraiment","alts":[],"form":""},
+      {"slot":"s|2","f":"sense","s":"Ce film est ___ long ; j'ai failli m'endormir à la fin.","en":"This film is very long; I almost fell asleep at the end.","a":"vraiment","alts":[],"form":""},
+      {"slot":"s|2","f":"sense","s":"Elle était ___ fatiguée après sa journée de travail et s'est couchée tôt.","en":"She was very tired after her day of work and went to bed early.","a":"vraiment","alts":[],"form":""}
+    ]
+  },
+  {
+    "id": 362,
+    "qs": [
+      {"slot":"s|0","f":"sense","s":"Ses explications contradictoires ont semé le ___ dans mon esprit.","en":"Her contradictory explanations planted doubt (suspicion) in my mind.","a":"doute","alts":[],"form":""},
+      {"slot":"s|0","f":"sense","s":"Le ___ s'empara de lui quand il s'aperçut que son associé lui cachait des informations.","en":"Doubt (suspicion) took hold of him when he realized his partner was hiding information from him.","a":"doute","alts":[],"form":""},
+      {"slot":"s|1","f":"sense","s":"Cette expérience ne laisse aucun ___ quant à l'efficacité du traitement.","en":"This experiment leaves no question (doubt) as to the effectiveness of the treatment.","a":"doute","alts":[],"form":""},
+      {"slot":"s|1","f":"sense","s":"Il a levé le ___ en montrant son passeport à l'agent des frontières.","en":"He resolved the question (doubt) by showing his passport to the border agent.","a":"doute","alts":[],"form":""},
+      {"slot":"gender","f":"gender","s":"Elle ressentait un ___ profond en attendant les résultats de l'examen.","en":"She felt a deep doubt while waiting for the exam results.","a":"un","alts":[],"form":""},
+      {"slot":"gender","f":"gender","s":"___ doute subsiste encore sur les circonstances exactes de l'accident.","en":"A doubt still remains about the exact circumstances of the accident.","a":"Un","alts":[],"form":""}
+    ]
+  }
+]

@@ -1,0 +1,305 @@
+[
+  {
+    "id": 93,
+    "qs": [
+      {
+        "slot": "s|0",
+        "f": "sense",
+        "s": "Le roman a une ___ qui sera publiée l'année prochaine.",
+        "en": "The novel has a sequel that will be published next year.",
+        "a": "suite",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "s|0",
+        "f": "sense",
+        "s": "Le réalisateur prépare la ___ de ce film à succès.",
+        "en": "The director is preparing the sequel to this successful film.",
+        "a": "suite",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "s|1",
+        "f": "sense",
+        "s": "Par ___ de l'accident, la route a été fermée pendant plusieurs heures.",
+        "en": "As a result of the accident, the road was closed for several hours.",
+        "a": "suite",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "s|1",
+        "f": "sense",
+        "s": "À la ___ de cette décision, de nombreux employés ont démissionné.",
+        "en": "As a result of this decision, many employees resigned.",
+        "a": "suite",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "s|2",
+        "f": "sense",
+        "s": "Nous attendons la ___ de ce dossier avec impatience.",
+        "en": "We are eagerly awaiting the follow-up on this file.",
+        "a": "suite",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "s|2",
+        "f": "sense",
+        "s": "Le directeur a promis d'assurer la ___ de ce projet après son départ.",
+        "en": "The director promised to ensure the follow-up of this project after his departure.",
+        "a": "suite",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "s|3",
+        "f": "sense",
+        "s": "Il a subi une ___ de malheurs qui l'a complètement découragé.",
+        "en": "He suffered a series of misfortunes that completely discouraged him.",
+        "a": "suite",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "s|3",
+        "f": "sense",
+        "s": "Cette conférence a donné lieu à une longue ___ de débats passionnés.",
+        "en": "This conference gave rise to a long series of passionate debates.",
+        "a": "suite",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "s|4",
+        "f": "sense",
+        "s": "Pour leur lune de miel, ils ont réservé une ___ dans un palace parisien.",
+        "en": "For their honeymoon, they booked a suite in a Parisian luxury hotel.",
+        "a": "suite",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "s|4",
+        "f": "sense",
+        "s": "La star a exigé une ___ présidentielle lors de son séjour à l'hôtel.",
+        "en": "The star demanded a presidential suite during her hotel stay.",
+        "a": "suite",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "gender",
+        "f": "gender",
+        "s": "Il a raconté ___ suite de l'histoire à ses enfants avant de les coucher.",
+        "en": "He told the rest of the story to his children before putting them to bed.",
+        "a": "la",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "gender",
+        "f": "gender",
+        "s": "Ce roman policier a ___ suite encore plus captivante que le premier tome.",
+        "en": "This detective novel has a sequel even more captivating than the first volume.",
+        "a": "une",
+        "alts": [],
+        "form": ""
+      }
+    ]
+  },
+  {
+    "id": 16,
+    "qs": [
+      {
+        "slot": "s|0",
+        "f": "sense",
+        "s": "Le chat dort ___ le canapé.",
+        "en": "The cat is sleeping on the sofa.",
+        "a": "sur",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "s|0",
+        "f": "sense",
+        "s": "Elle a posé ses clés ___ la table.",
+        "en": "She put her keys on the table.",
+        "a": "sur",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "s|1",
+        "f": "sense",
+        "s": "Il a écrit un article ___ la littérature française.",
+        "en": "He wrote an article about French literature.",
+        "a": "sur",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "s|1",
+        "f": "sense",
+        "s": "Nous avons eu une longue discussion ___ ce problème.",
+        "en": "We had a long discussion about this problem.",
+        "a": "sur",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "s|2",
+        "f": "sense",
+        "s": "Elle a pris sa décision ___ les conseils de son médecin.",
+        "en": "She made her decision based on her doctor's advice.",
+        "a": "sur",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "s|2",
+        "f": "sense",
+        "s": "Il a agi ___ les informations qu'il avait reçues.",
+        "en": "He acted based on the information he had received.",
+        "a": "sur",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "g|m",
+        "f": "agree",
+        "s": "Ce quartier est ___ : on peut s'y promener sans crainte.",
+        "en": "This neighborhood is safe: you can walk around without worry.",
+        "a": "sûr",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "g|m",
+        "f": "agree",
+        "s": "Il est ___ d'avoir bien fermé la porte avant de partir.",
+        "en": "He is sure he properly locked the door before leaving.",
+        "a": "sûr",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "g|mp",
+        "f": "agree",
+        "s": "Ces chemins de montagne ne sont pas ___ après la pluie.",
+        "en": "These mountain paths are not safe after the rain.",
+        "a": "sûrs",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "g|mp",
+        "f": "agree",
+        "s": "Ces renseignements sont ___ ; tu peux leur faire confiance.",
+        "en": "This information is reliable; you can trust it.",
+        "a": "sûrs",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "g|f",
+        "f": "agree",
+        "s": "Cette route est parfaitement ___ même la nuit.",
+        "en": "This road is perfectly safe even at night.",
+        "a": "sûre",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "g|f",
+        "f": "agree",
+        "s": "Elle est ___ d'avoir laissé ses clés à la maison.",
+        "en": "She is sure she left her keys at home.",
+        "a": "sûre",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "g|fp",
+        "f": "agree",
+        "s": "Ces méthodes sont ___ et ont été testées de nombreuses fois.",
+        "en": "These methods are reliable and have been tested many times.",
+        "a": "sûres",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "g|fp",
+        "f": "agree",
+        "s": "Elles se sentent ___ dans ce quartier bien éclairé.",
+        "en": "They feel safe in this well-lit neighborhood.",
+        "a": "sûres",
+        "alts": [],
+        "form": ""
+      }
+    ]
+  },
+  {
+    "id": 181,
+    "qs": [
+      {
+        "slot": "s|0",
+        "f": "sense",
+        "s": "Il y avait ___ de monde à la fête que nous n'avons pas pu entrer.",
+        "en": "There were so many people at the party that we couldn't get in.",
+        "a": "tant",
+        "alts": ["tellement"],
+        "form": ""
+      },
+      {
+        "slot": "s|0",
+        "f": "sense",
+        "s": "Elle a ___ de travail en ce moment qu'elle ne dort plus que cinq heures par nuit.",
+        "en": "She has so much work right now that she only sleeps five hours a night.",
+        "a": "tant",
+        "alts": ["tellement"],
+        "form": ""
+      },
+      {
+        "slot": "s|1",
+        "f": "sense",
+        "s": "Je ne savais pas que tu avais ___ de livres chez toi, c'est impressionnant !",
+        "en": "I didn't know you had that many books at home — that's impressive!",
+        "a": "tant",
+        "alts": ["tellement", "autant"],
+        "form": ""
+      },
+      {
+        "slot": "s|1",
+        "f": "sense",
+        "s": "Tu as acheté ___ de vêtements ce week-end, je n'en reviens pas !",
+        "en": "You bought so many clothes this weekend — I can't believe it!",
+        "a": "tant",
+        "alts": ["tellement", "autant"],
+        "form": ""
+      },
+      {
+        "slot": "s|2",
+        "f": "sense",
+        "s": "Elle a ___ souffert pendant ces années difficiles.",
+        "en": "She suffered so much during those difficult years.",
+        "a": "tant",
+        "alts": ["tellement", "beaucoup"],
+        "form": ""
+      },
+      {
+        "slot": "s|2",
+        "f": "sense",
+        "s": "Nous avons ___ ri ensemble lors de ce voyage que je n'oublierai jamais.",
+        "en": "We laughed so much together on that trip that I will never forget it.",
+        "a": "tant",
+        "alts": ["tellement"],
+        "form": ""
+      }
+    ]
+  }
+]

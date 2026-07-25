@@ -1,0 +1,217 @@
+[
+  {
+    "id": 2116,
+    "qs": [
+      {
+        "slot": "s|0",
+        "f": "sense",
+        "s": "Mon fils entre au ___ en septembre prochain.",
+        "a": "collège",
+        "en": "My son is starting middle school next September.",
+        "alts": []
+      },
+      {
+        "slot": "s|0",
+        "f": "sense",
+        "s": "Elle a passé quatre ans au ___ avant d'aller au lycée.",
+        "a": "collège",
+        "en": "She spent four years at middle school before going to high school.",
+        "alts": []
+      },
+      {
+        "slot": "s|1",
+        "f": "sense",
+        "s": "Il enseigne au ___ de France depuis dix ans.",
+        "a": "collège",
+        "en": "He has been teaching at the Collège de France for ten years.",
+        "alts": []
+      },
+      {
+        "slot": "s|1",
+        "f": "sense",
+        "s": "Elle a été admise dans un ___ universitaire très réputé à l'étranger.",
+        "a": "collège",
+        "en": "She was admitted to a highly reputed university college abroad.",
+        "alts": []
+      },
+      {
+        "slot": "s|2",
+        "f": "sense",
+        "s": "Le ___ des cardinaux se réunit pour élire le nouveau pape.",
+        "a": "collège",
+        "en": "The college of cardinals meets to elect the new pope.",
+        "alts": []
+      },
+      {
+        "slot": "s|2",
+        "f": "sense",
+        "s": "Le ___ des médecins a publié de nouvelles recommandations sur la santé publique.",
+        "a": "collège",
+        "en": "The college of physicians published new public health recommendations.",
+        "alts": []
+      },
+      {
+        "slot": "gender",
+        "f": "gender",
+        "s": "C'est ___ collège qui a la meilleure réputation dans la région.",
+        "a": "le",
+        "en": "It is the school that has the best reputation in the region.",
+        "alts": []
+      },
+      {
+        "slot": "gender",
+        "f": "gender",
+        "s": "Mon frère vient d'intégrer ___ collège privé en ville.",
+        "a": "un",
+        "en": "My brother has just enrolled in a private secondary school in the city.",
+        "alts": []
+      }
+    ]
+  },
+  {
+    "id": 2117,
+    "qs": [
+      {
+        "slot": "s|0",
+        "f": "sense",
+        "s": "Il m'a dit que ma promotion était assurée, mais ce n'était qu'une ___ verbale.",
+        "a": "garantie",
+        "en": "He told me my promotion was assured, but it was only a verbal guarantee.",
+        "alts": []
+      },
+      {
+        "slot": "s|0",
+        "f": "sense",
+        "s": "La direction nous a offert une ___ que les conditions de travail seraient améliorées.",
+        "a": "garantie",
+        "en": "Management gave us a guarantee that working conditions would be improved.",
+        "alts": []
+      },
+      {
+        "slot": "s|1",
+        "f": "sense",
+        "s": "La banque a demandé une ___ immobilière avant d'accorder le prêt.",
+        "a": "garantie",
+        "en": "The bank required real-estate collateral before granting the loan.",
+        "alts": []
+      },
+      {
+        "slot": "s|1",
+        "f": "sense",
+        "s": "Il a proposé sa voiture comme ___ pour obtenir ce crédit.",
+        "a": "garantie",
+        "en": "He offered his car as collateral to obtain the credit.",
+        "alts": []
+      },
+      {
+        "slot": "s|2",
+        "f": "sense",
+        "s": "Mon ordinateur est tombé en panne, heureusement il est encore sous ___.",
+        "a": "garantie",
+        "en": "My computer broke down; fortunately it is still under warranty.",
+        "alts": []
+      },
+      {
+        "slot": "s|2",
+        "f": "sense",
+        "s": "Le fabricant offre une ___ de deux ans sur tous ses appareils électroménagers.",
+        "a": "garantie",
+        "en": "The manufacturer offers a two-year warranty on all its home appliances.",
+        "alts": []
+      },
+      {
+        "slot": "gender",
+        "f": "gender",
+        "s": "Il a signé ___ garantie avant de recevoir son remboursement.",
+        "a": "la",
+        "en": "He signed the guarantee before receiving his refund.",
+        "alts": []
+      },
+      {
+        "slot": "gender",
+        "f": "gender",
+        "s": "Il faut ___ garantie solide pour conclure ce contrat.",
+        "a": "une",
+        "en": "A solid guarantee is needed to conclude this contract.",
+        "alts": []
+      }
+    ]
+  },
+  {
+    "id": 2118,
+    "qs": [
+      {
+        "slot": "s|0",
+        "f": "sense",
+        "s": "Tu veux ___ de sucre dans ton café ?",
+        "a": "un morceau",
+        "en": "Do you want a piece (lump) of sugar in your coffee?",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "s|0",
+        "f": "sense",
+        "s": "Il a coupé ___ de chocolat noir et l'a mis dans la sauce.",
+        "a": "un morceau",
+        "en": "He cut off a piece (chunk) of dark chocolate and put it in the sauce.",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "s|1",
+        "f": "sense",
+        "s": "Elle a pris ___ de tarte aux cerises pour le dessert.",
+        "a": "un morceau",
+        "en": "She took a slice (piece) of cherry tart for dessert.",
+        "alts": ["une tranche"],
+        "form": ""
+      },
+      {
+        "slot": "s|1",
+        "f": "sense",
+        "s": "Peux-tu me donner ___ de pain, s'il te plaît ?",
+        "a": "un morceau",
+        "en": "Can you give me a piece (slice) of bread, please?",
+        "alts": ["une tranche"],
+        "form": ""
+      },
+      {
+        "slot": "s|2",
+        "f": "sense",
+        "s": "Il joue ___ de Chopin au piano chaque soir.",
+        "a": "un morceau",
+        "en": "He plays a piece by Chopin on the piano every evening.",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "s|2",
+        "f": "sense",
+        "s": "Ce ___ de jazz m'a beaucoup ému lors du concert.",
+        "a": "morceau",
+        "en": "This jazz piece moved me a lot at the concert.",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "gender",
+        "f": "gender",
+        "s": "___ morceau de fromage était posé sur la table.",
+        "a": "Le",
+        "en": "The piece of cheese was placed on the table.",
+        "alts": ["Un"],
+        "form": ""
+      },
+      {
+        "slot": "gender",
+        "f": "gender",
+        "s": "Elle a mangé ___ morceau de gâteau après le dîner.",
+        "a": "un",
+        "en": "She ate a piece of cake after dinner.",
+        "alts": [],
+        "form": ""
+      }
+    ]
+  }
+]

@@ -1,0 +1,41 @@
+[
+  {
+    "id": 6621,
+    "qs": [
+      {"slot":"s|0","f":"sense","s":"Dire que tous les Français mangent des escargots tous les jours est un ___ .","a":"stéréotype","en":"Saying that all French people eat snails every day is a stereotype.","alts":[]},
+      {"slot":"s|0","f":"sense","s":"Cette publicité repose sur un ___ sexiste bien connu.","a":"stéréotype","en":"This advertisement is based on a well-known sexist stereotype.","alts":[]},
+      {"slot":"s|1","f":"sense","s":"Autrefois, l'imprimeur coulait un ___ en plomb pour reproduire la page plusieurs fois.","a":"stéréotype","en":"In the past, the printer cast a lead stereotype plate to reproduce the page several times.","alts":[]},
+      {"slot":"s|1","f":"sense","s":"Grâce au ___ , il n'était plus nécessaire de recomposer le texte à chaque tirage.","a":"stéréotype","en":"Thanks to the stereotype plate, it was no longer necessary to reset the text for each printing.","alts":[]},
+      {"slot":"gender","f":"gender","s":"___ stéréotype qu'elle combat est très répandu dans les médias.","a":"Le","en":"The stereotype she is fighting against is very widespread in the media.","alts":[]},
+      {"slot":"gender","f":"gender","s":"Elle a évoqué ___ stéréotype très courant dans la publicité.","a":"un","en":"She mentioned a very common stereotype in advertising.","alts":[]}
+    ]
+  },
+  {
+    "id": 6622,
+    "qs": [
+      {"slot":"s|0","f":"sense","s":"Il fait du bénévolat pour un organisme ___ .","a":"caritatif","en":"He volunteers for a charitable organization.","alts":[]},
+      {"slot":"s|0","f":"sense","s":"Mon oncle dirige un club ___ dans notre ville.","a":"caritatif","en":"My uncle runs a charitable club in our town.","alts":[]},
+      {"slot":"s|1","f":"sense","s":"Chaque année, l'école organise un événement ___ pour aider les orphelins.","a":"caritatif","en":"Every year, the school organizes a charity event to help orphans.","alts":[]},
+      {"slot":"s|1","f":"sense","s":"Le concert ___ a permis de récolter des fonds pour la recherche.","a":"caritatif","en":"The charity concert helped raise funds for research.","alts":[]},
+      {"slot":"g|mp","f":"agree","s":"Ces projets ___ ont besoin de plus de bénévoles.","a":"caritatifs","en":"These charitable projects need more volunteers.","alts":[]},
+      {"slot":"g|mp","f":"agree","s":"Les organismes ___ reçoivent des dons chaque mois.","a":"caritatifs","en":"Charitable organizations receive donations every month.","alts":[]},
+      {"slot":"g|f","f":"agree","s":"Elle a créé une association ___ pour les sans-abri.","a":"caritative","en":"She created a charitable association for the homeless.","alts":[]},
+      {"slot":"g|f","f":"agree","s":"Cette fondation ___ soutient les hôpitaux locaux.","a":"caritative","en":"This charitable foundation supports local hospitals.","alts":[]},
+      {"slot":"g|fp","f":"agree","s":"Les associations ___ organisent souvent des collectes de vêtements.","a":"caritatives","en":"Charitable associations often organize clothing drives.","alts":[]},
+      {"slot":"g|fp","f":"agree","s":"Ces fondations ___ financent des programmes éducatifs.","a":"caritatives","en":"These charitable foundations fund educational programs.","alts":[]}
+    ]
+  },
+  {
+    "id": 6623,
+    "qs": [
+      {"slot":"s|0","f":"sense","s":"En métaphysique, chaque ___ possède une essence propre.","en":"In metaphysics, each being possesses its own essence.","a":"étant","alts":[],"form":""},
+      {"slot":"s|0","f":"sense","s":"Le philosophe distingue l'être de l'___ particulier.","en":"The philosopher distinguishes Being from the particular being.","a":"étant","alts":[],"form":""},
+      {"slot":"s|1","f":"sense","s":"___ historien, il s'intéresse à toutes les époques.","en":"Being a historian, he is interested in every era.","a":"Étant","alts":[],"form":""},
+      {"slot":"s|1","f":"sense","s":"___ professeur, elle connaît bien ses élèves.","en":"Being a teacher, she knows her students well.","a":"Étant","alts":[],"form":""},
+      {"slot":"s|2","f":"sense","s":"Le problème ___ encore présent, nous devons agir rapidement.","en":"The problem still existing, we must act quickly.","a":"étant","alts":[],"form":""},
+      {"slot":"s|2","f":"sense","s":"Le danger ___ toujours là, les habitants sont restés prudents.","en":"The danger still existing, the residents remained careful.","a":"étant","alts":[],"form":""},
+      {"slot":"gender","f":"gender","s":"En philosophie, ___ étant particulier ne peut être compris qu'à partir de l'être.","en":"In philosophy, a particular being can only be understood in terms of Being.","a":"un","alts":[],"form":""},
+      {"slot":"gender","f":"gender","s":"Heidegger affirme que ___ étant se distingue radicalement de l'être.","en":"Heidegger states that the being is radically distinct from Being.","a":"l'","alts":[],"form":""}
+    ]
+  }
+]

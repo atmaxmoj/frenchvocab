@@ -1,0 +1,43 @@
+[
+  {
+    "id": 3163,
+    "qs": [
+      {"slot":"s|0","f":"sense","s":"La police a arrêté le ___ qui avait cambriolé la bijouterie.","a":"voleur","en":"The police arrested the thief who had burglarized the jewelry store.","alts":[]},
+      {"slot":"s|0","f":"sense","s":"Le ___ a pris le portefeuille d'un passant dans la rue.","a":"voleur","en":"The thief took a passerby's wallet in the street.","alts":[]},
+      {"slot":"s|1","f":"sense","s":"Méfie-toi de cet homme : il est très ___, il prend les affaires des autres sans se gêner.","a":"voleur","en":"Watch out for that man: he is very light-fingered, he takes other people's things without a second thought.","alts":[]},
+      {"slot":"s|1","f":"sense","s":"On dit que ce commerçant est ___ : il arnaque ses clients en leur faisant payer trop cher.","a":"voleur","en":"They say that shopkeeper is light-fingered: he cheats his customers by overcharging them.","alts":[]},
+      {"slot":"g|mp","f":"agree","s":"Ces deux garçons sont de petits ___ qui chapardent dans les magasins.","a":"voleurs","en":"Those two boys are little thieves who shoplift.","alts":[]},
+      {"slot":"g|mp","f":"agree","s":"Les policiers ont intercepté les ___ avant qu'ils ne s'échappent.","a":"voleurs","en":"The police officers intercepted the thieves before they could escape.","alts":[]},
+      {"slot":"g|f","f":"agree","s":"Cette femme est connue dans le quartier comme une ___ habile.","a":"voleuse","en":"This woman is known in the neighborhood as a skilled thief.","alts":[]},
+      {"slot":"g|f","f":"agree","s":"La caissière ___ a été licenciée après la découverte de ses actes.","a":"voleuse","en":"The light-fingered cashier was dismissed after her actions were discovered.","alts":[]},
+      {"slot":"g|fp","f":"agree","s":"Les deux complices ___ ont été condamnées à six mois de prison.","a":"voleuses","en":"The two female accomplice thieves were sentenced to six months in prison.","alts":[]},
+      {"slot":"g|fp","f":"agree","s":"Ces adolescentes ___ chapardaient des vêtements dans les boutiques du centre-ville.","a":"voleuses","en":"These light-fingered teenage girls were shoplifting clothes from shops in the town centre.","alts":[]}
+    ]
+  },
+  {
+    "id": 3164,
+    "qs": [
+      {"slot":"s|0","f":"sense","s":"Ce pays a construit une nouvelle ___ nucléaire pour répondre à la demande en électricité.","a":"centrale","en":"This country built a new nuclear power station to meet electricity demand.","alts":[],"form":""},
+      {"slot":"s|0","f":"sense","s":"La ___ thermique au bord du fleuve produit de l'énergie pour toute la région.","a":"centrale","en":"The thermal power station on the riverbank produces energy for the whole region.","alts":[],"form":""},
+      {"slot":"s|1","f":"sense","s":"L'opératrice travaille à la ___ téléphonique du quartier.","a":"centrale","en":"The operator works at the telephone central office of the neighbourhood.","alts":[],"form":""},
+      {"slot":"s|1","f":"sense","s":"Toutes les lignes du réseau passent par la ___ téléphonique avant d'être distribuées.","a":"centrale","en":"All the network lines pass through the central office before being distributed.","alts":[],"form":""},
+      {"slot":"s|2","f":"sense","s":"Les délégués syndicaux ont soumis leur rapport à la ___ du syndicat.","a":"centrale","en":"The union delegates submitted their report to the union headquarters.","alts":[],"form":""},
+      {"slot":"s|2","f":"sense","s":"La ___ syndicale a lancé un appel à la grève nationale.","a":"centrale","en":"The union headquarters called for a national strike.","alts":[],"form":""},
+      {"slot":"gender","f":"gender","s":"Ils ont inauguré ___ centrale solaire en grande cérémonie.","a":"une","en":"They inaugurated a solar power station in a grand ceremony.","alts":[],"form":""},
+      {"slot":"gender","f":"gender","s":"___ centrale syndicale a publié un communiqué ce matin.","a":"La","en":"The union headquarters published a press release this morning.","alts":[],"form":""}
+    ]
+  },
+  {
+    "id": 3165,
+    "qs": [
+      {"slot":"s|0","f":"sense","s":"Les explorateurs ont atteint le ___ Nord après des semaines de marche sur la glace.","a":"pôle","en":"The explorers reached the North Pole after weeks of walking on the ice.","alts":[]},
+      {"slot":"s|0","f":"sense","s":"La station de recherche est installée près du ___ Sud, où les températures sont extrêmes.","a":"pôle","en":"The research station is located near the South Pole, where temperatures are extreme.","alts":[]},
+      {"slot":"s|1","f":"sense","s":"La boussole indique toujours le ___ magnétique de la Terre.","a":"pôle","en":"The compass always points to the Earth's magnetic pole.","alts":[]},
+      {"slot":"s|1","f":"sense","s":"Pour connecter la batterie, il faut identifier le ___ positif et le pôle négatif.","a":"pôle","en":"To connect the battery, you must identify the positive pole and the negative pole.","alts":[]},
+      {"slot":"s|2","f":"sense","s":"Lyon est devenu un ___ économique majeur dans le sud-est de la France.","a":"pôle","en":"Lyon has become a major economic hub in southeastern France.","alts":[]},
+      {"slot":"s|2","f":"sense","s":"Ce musée est un véritable ___ d'attraction pour les touristes du monde entier.","a":"pôle","en":"This museum is a true center of attraction for tourists from all over the world.","alts":[]},
+      {"slot":"gender","f":"gender","s":"La Terre possède deux pôles géographiques : ___ pôle Nord et le pôle Sud.","a":"le","en":"The Earth has two geographical poles: the North Pole and the South Pole.","alts":[]},
+      {"slot":"gender","f":"gender","s":"Cette ville est devenue ___ pôle d'excellence pour la recherche scientifique.","a":"un","en":"This city has become a center of excellence for scientific research.","alts":[]}
+    ]
+  }
+]

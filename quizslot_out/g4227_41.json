@@ -1,0 +1,269 @@
+[
+  {
+    "id": 4350,
+    "qs": [
+      {
+        "slot": "s|0",
+        "f": "sense",
+        "s": "Le ___ de l'immeuble vérifie l'état des parties communes chaque semaine.",
+        "a": "gestionnaire",
+        "en": "The building manager checks the condition of the common areas every week.",
+        "alts": []
+      },
+      {
+        "slot": "s|0",
+        "f": "sense",
+        "s": "Le ___ du réseau informatique a résolu la panne en moins d'une heure.",
+        "a": "gestionnaire",
+        "en": "The IT network administrator resolved the outage in less than an hour.",
+        "alts": ["administrateur"]
+      },
+      {
+        "slot": "s|1",
+        "f": "sense",
+        "s": "Notre ___ des ressources humaines s'occupe des contrats et des congés des employés.",
+        "a": "gestionnaire",
+        "en": "Our HR administrator handles employee contracts and leave.",
+        "alts": []
+      },
+      {
+        "slot": "s|1",
+        "f": "sense",
+        "s": "Elle travaille comme ___ administrative dans un grand cabinet d'avocats.",
+        "a": "gestionnaire",
+        "en": "She works as an administrative officer in a large law firm.",
+        "alts": []
+      },
+      {
+        "slot": "s|2",
+        "f": "sense",
+        "s": "Ce ___ de fichiers vous permet de classer et de retrouver vos documents facilement.",
+        "a": "gestionnaire",
+        "en": "This file manager allows you to organize and find your documents easily.",
+        "alts": []
+      },
+      {
+        "slot": "s|2",
+        "f": "sense",
+        "s": "Installez ce ___ de mots de passe pour sécuriser l'accès à vos comptes en ligne.",
+        "a": "gestionnaire",
+        "en": "Install this password manager to secure access to your online accounts.",
+        "alts": []
+      },
+      {
+        "slot": "gender",
+        "f": "gender",
+        "s": "___ gestionnaire de l'école a convoqué une réunion d'urgence.",
+        "a": "Le",
+        "en": "The school administrator called an emergency meeting.",
+        "alts": []
+      },
+      {
+        "slot": "gender",
+        "f": "gender",
+        "s": "Nous cherchons ___ gestionnaire expérimenté pour superviser les opérations.",
+        "a": "un",
+        "en": "We are looking for an experienced administrator to oversee operations.",
+        "alts": []
+      }
+    ]
+  },
+  {
+    "id": 4351,
+    "qs": [
+      {
+        "slot": "s|0",
+        "f": "sense",
+        "s": "Ce monstre du film est ___ : les enfants n'osent pas regarder l'écran.",
+        "a": "redoutable",
+        "en": "The monster in the film is fearsome: the children dare not look at the screen.",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "s|0",
+        "f": "sense",
+        "s": "Le criminel était ___ et semait la terreur dans tout le quartier.",
+        "a": "redoutable",
+        "en": "The criminal was fearsome and spread terror throughout the whole neighbourhood.",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "s|1",
+        "f": "sense",
+        "s": "Son intelligence est ___ et impressionne tous ses collègues.",
+        "a": "redoutable",
+        "en": "Her intelligence is awe-inspiring and impresses all her colleagues.",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "s|1",
+        "f": "sense",
+        "s": "Cet avocat est ___ en salle d'audience : personne ne lui résiste.",
+        "a": "redoutable",
+        "en": "This lawyer is awe-inspiring in the courtroom: no one can stand up to him.",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "s|2",
+        "f": "sense",
+        "s": "L'équipe adverse est ___ : elle a remporté tous ses matchs cette saison.",
+        "a": "redoutable",
+        "en": "The opposing team is formidable: they have won every match this season.",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "s|2",
+        "f": "sense",
+        "s": "Ce joueur d'échecs est un adversaire ___ que personne n'a réussi à battre.",
+        "a": "redoutable",
+        "en": "This chess player is a formidable opponent whom no one has managed to beat.",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "g|mp",
+        "f": "agree",
+        "s": "Ces guerriers ___ ont conquis de nombreux territoires au cours des siècles.",
+        "a": "redoutables",
+        "en": "These formidable warriors conquered many territories over the centuries.",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "g|mp",
+        "f": "agree",
+        "s": "Les détectives de cette équipe sont ___ : ils résolvent les affaires les plus complexes.",
+        "a": "redoutables",
+        "en": "The detectives on this team are formidable: they solve the most complex cases.",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "g|f",
+        "f": "agree",
+        "s": "La concurrence dans ce secteur est ___ et met beaucoup d'entreprises en difficulté.",
+        "a": "redoutable",
+        "en": "The competition in this sector is formidable and puts many companies in difficulty.",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "g|f",
+        "f": "agree",
+        "s": "Cette adversaire de tennis est ___ grâce à son service et sa précision.",
+        "a": "redoutable",
+        "en": "This tennis opponent is formidable thanks to her serve and precision.",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "g|fp",
+        "f": "agree",
+        "s": "Ces deux équipes féminines sont ___ et dominent le championnat depuis des années.",
+        "a": "redoutables",
+        "en": "These two women's teams are formidable and have dominated the championship for years.",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "g|fp",
+        "f": "agree",
+        "s": "Les tempêtes hivernales sont ___ dans cette région montagneuse.",
+        "a": "redoutables",
+        "en": "The winter storms are fearsome in this mountainous region.",
+        "alts": [],
+        "form": ""
+      }
+    ]
+  },
+  {
+    "id": 4352,
+    "qs": [
+      {
+        "slot": "s|0",
+        "f": "sense",
+        "s": "La population ___ de ce pays a considérablement augmenté ces dernières décennies.",
+        "a": "immigrante",
+        "en": "The immigrant population of this country has grown considerably in recent decades.",
+        "alts": []
+      },
+      {
+        "slot": "s|0",
+        "f": "sense",
+        "s": "Le gouvernement a mis en place des programmes d'intégration pour les travailleurs ___ .",
+        "a": "immigrants",
+        "en": "The government has set up integration programs for immigrant workers.",
+        "alts": []
+      },
+      {
+        "slot": "s|1",
+        "f": "sense",
+        "s": "Cet ___ a quitté son pays natal pour trouver de meilleures opportunités.",
+        "a": "immigrant",
+        "en": "This immigrant left his home country to find better opportunities.",
+        "alts": []
+      },
+      {
+        "slot": "s|1",
+        "f": "sense",
+        "s": "En tant qu'immigrante, elle a dû apprendre la langue du pays d'accueil — c'était difficile d'être ___ .",
+        "a": "immigrante",
+        "en": "As an immigrant, she had to learn the language of the host country — it was hard being an immigrant.",
+        "alts": []
+      },
+      {
+        "slot": "g|mp",
+        "f": "agree",
+        "s": "Les enfants ___ s'adaptent souvent plus rapidement que leurs parents.",
+        "a": "immigrants",
+        "en": "Immigrant children often adapt more quickly than their parents.",
+        "alts": []
+      },
+      {
+        "slot": "g|mp",
+        "f": "agree",
+        "s": "Ces travailleurs ___ contribuent de manière significative à l'économie nationale.",
+        "a": "immigrants",
+        "en": "These immigrant workers contribute significantly to the national economy.",
+        "alts": []
+      },
+      {
+        "slot": "g|f",
+        "f": "agree",
+        "s": "Cette femme ___ a ouvert un restaurant dans le quartier.",
+        "a": "immigrante",
+        "en": "This immigrant woman opened a restaurant in the neighbourhood.",
+        "alts": []
+      },
+      {
+        "slot": "g|f",
+        "f": "agree",
+        "s": "La communauté ___ de la ville organise chaque année une fête culturelle.",
+        "a": "immigrante",
+        "en": "The immigrant community of the city organizes a cultural festival every year.",
+        "alts": []
+      },
+      {
+        "slot": "g|fp",
+        "f": "agree",
+        "s": "Ces femmes ___ ont fondé une association pour s'entraider.",
+        "a": "immigrantes",
+        "en": "These immigrant women founded an association to help one another.",
+        "alts": []
+      },
+      {
+        "slot": "g|fp",
+        "f": "agree",
+        "s": "Les familles ___ ont souvent du mal à trouver un logement abordable.",
+        "a": "immigrantes",
+        "en": "Immigrant families often struggle to find affordable housing.",
+        "alts": []
+      }
+    ]
+  }
+]

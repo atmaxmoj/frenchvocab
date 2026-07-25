@@ -1,0 +1,701 @@
+[
+  {
+    "id": 718,
+    "qs": [
+      {
+        "slot": "s|0",
+        "f": "sense",
+        "s": "Ce gâteau est délicieux ; j'en voudrais ___ , s'il vous plaît.",
+        "a": "davantage",
+        "en": "This cake is delicious; I would like more of it, please.",
+        "alts": ["plus"],
+        "form": ""
+      },
+      {
+        "slot": "s|0",
+        "f": "sense",
+        "s": "Les enfants ont mangé beaucoup, mais leur père en a mangé ___ .",
+        "a": "davantage",
+        "en": "The children ate a lot, but their father ate more of it.",
+        "alts": ["plus"],
+        "form": ""
+      },
+      {
+        "slot": "s|1",
+        "f": "sense",
+        "s": "Après les vacances, Marie est ___ motivée pour travailler.",
+        "a": "davantage",
+        "en": "After the holidays, Marie is even more motivated to work.",
+        "alts": ["plus"],
+        "form": ""
+      },
+      {
+        "slot": "s|1",
+        "f": "sense",
+        "s": "La situation m'inquiète ___ depuis ce matin.",
+        "a": "davantage",
+        "en": "The situation worries me even more since this morning.",
+        "alts": ["plus"],
+        "form": ""
+      }
+    ]
+  },
+  {
+    "id": 719,
+    "qs": [
+      {
+        "slot": "t|Présent|0",
+        "f": "tense",
+        "s": "Je ___ le bras de mon ami pour l'empêcher de tomber.",
+        "a": "saisis",
+        "en": "I grab my friend's arm to keep him from falling.",
+        "alts": [],
+        "form": "Présent"
+      },
+      {
+        "slot": "t|Présent|0",
+        "f": "tense",
+        "s": "Tu ___ enfin l'occasion de lui parler en privé.",
+        "a": "saisis",
+        "en": "You finally seize the opportunity to speak to him in private.",
+        "alts": [],
+        "form": "Présent"
+      },
+      {
+        "slot": "t|Présent|1",
+        "f": "tense",
+        "s": "Le policier ___ le suspect par le col.",
+        "a": "saisit",
+        "en": "The police officer grabs the suspect by the collar.",
+        "alts": [],
+        "form": "Présent"
+      },
+      {
+        "slot": "t|Présent|1",
+        "f": "tense",
+        "s": "Elle ___ rapidement la balle lancée vers elle.",
+        "a": "saisit",
+        "en": "She quickly catches the ball thrown toward her.",
+        "alts": [],
+        "form": "Présent"
+      },
+      {
+        "slot": "t|Présent|2",
+        "f": "tense",
+        "s": "Nous ___ cette chance unique de voyager à l'étranger.",
+        "a": "saisissons",
+        "en": "We seize this unique chance to travel abroad.",
+        "alts": [],
+        "form": "Présent"
+      },
+      {
+        "slot": "t|Présent|2",
+        "f": "tense",
+        "s": "Ensemble, nous ___ bien le sens de ce texte difficile.",
+        "a": "saisissons",
+        "en": "Together, we understand the meaning of this difficult text well.",
+        "alts": [],
+        "form": "Présent"
+      },
+      {
+        "slot": "t|Présent|3",
+        "f": "tense",
+        "s": "Vous ___ la corde et tirez de toutes vos forces.",
+        "a": "saisissez",
+        "en": "You grab the rope and pull with all your strength.",
+        "alts": [],
+        "form": "Présent"
+      },
+      {
+        "slot": "t|Présent|3",
+        "f": "tense",
+        "s": "Est-ce que vous ___ bien ce que je veux dire ?",
+        "a": "saisissez",
+        "en": "Do you understand well what I mean?",
+        "alts": [],
+        "form": "Présent"
+      },
+      {
+        "slot": "t|Présent|4",
+        "f": "tense",
+        "s": "Les douaniers ___ les marchandises de contrebande à la frontière.",
+        "a": "saisissent",
+        "en": "The customs officers seize the contraband goods at the border.",
+        "alts": [],
+        "form": "Présent"
+      },
+      {
+        "slot": "t|Présent|4",
+        "f": "tense",
+        "s": "Ils ___ toutes les occasions de progresser dans leur apprentissage.",
+        "a": "saisissent",
+        "en": "They seize every opportunity to progress in their learning.",
+        "alts": [],
+        "form": "Présent"
+      },
+      {
+        "slot": "t|Passé composé|0",
+        "f": "tense",
+        "s": "J'___ sa main au moment où il allait partir.",
+        "a": "ai saisi",
+        "en": "I grabbed his hand just as he was about to leave.",
+        "alts": [],
+        "form": "Passé composé"
+      },
+      {
+        "slot": "t|Passé composé|0",
+        "f": "tense",
+        "s": "Hier matin, j'___ la bonne occasion pour présenter mon projet.",
+        "a": "ai saisi",
+        "en": "Yesterday morning, I seized the right opportunity to present my project.",
+        "alts": [],
+        "form": "Passé composé"
+      },
+      {
+        "slot": "t|Passé composé|1",
+        "f": "tense",
+        "s": "Tu ___ le stylo et tu as signé le contrat immédiatement.",
+        "a": "as saisi",
+        "en": "You grabbed the pen and signed the contract immediately.",
+        "alts": [],
+        "form": "Passé composé"
+      },
+      {
+        "slot": "t|Passé composé|1",
+        "f": "tense",
+        "s": "Est-ce que tu ___ ce qu'il t'a expliqué hier ?",
+        "a": "as saisi",
+        "en": "Did you understand what he explained to you yesterday?",
+        "alts": [],
+        "form": "Passé composé"
+      },
+      {
+        "slot": "t|Passé composé|2",
+        "f": "tense",
+        "s": "Le tribunal ___ les biens du fraudeur la semaine dernière.",
+        "a": "a saisi",
+        "en": "The court seized the fraudster's assets last week.",
+        "alts": [],
+        "form": "Passé composé"
+      },
+      {
+        "slot": "t|Passé composé|2",
+        "f": "tense",
+        "s": "Mon fils ___ tout de suite l'idée principale du cours.",
+        "a": "a saisi",
+        "en": "My son immediately grasped the main idea of the lesson.",
+        "alts": [],
+        "form": "Passé composé"
+      },
+      {
+        "slot": "t|Passé composé|3",
+        "f": "tense",
+        "s": "Nous ___ l'opportunité de rencontrer le directeur en personne.",
+        "a": "avons saisi",
+        "en": "We seized the opportunity to meet the director in person.",
+        "alts": [],
+        "form": "Passé composé"
+      },
+      {
+        "slot": "t|Passé composé|3",
+        "f": "tense",
+        "s": "Ensemble, nous ___ tous les documents compromettants lors de la perquisition.",
+        "a": "avons saisi",
+        "en": "Together, we seized all the incriminating documents during the search.",
+        "alts": [],
+        "form": "Passé composé"
+      },
+      {
+        "slot": "t|Passé composé|4",
+        "f": "tense",
+        "s": "Vous ___ la balle au bond et vous avez agi sans hésiter.",
+        "a": "avez saisi",
+        "en": "You seized the opportunity on the bounce and acted without hesitating.",
+        "alts": [],
+        "form": "Passé composé"
+      },
+      {
+        "slot": "t|Passé composé|4",
+        "f": "tense",
+        "s": "Avez-vous ___ le sens de sa remarque ?",
+        "a": "saisi",
+        "en": "Did you understand the meaning of his remark?",
+        "alts": [],
+        "form": "Passé composé"
+      },
+      {
+        "slot": "t|Passé composé|5",
+        "f": "tense",
+        "s": "Les agents ___ plusieurs kilos de drogue lors du contrôle.",
+        "a": "ont saisi",
+        "en": "The officers seized several kilos of drugs during the check.",
+        "alts": [],
+        "form": "Passé composé"
+      },
+      {
+        "slot": "t|Passé composé|5",
+        "f": "tense",
+        "s": "Ils ___ immédiatement la gravité de la situation.",
+        "a": "ont saisi",
+        "en": "They immediately grasped the seriousness of the situation.",
+        "alts": [],
+        "form": "Passé composé"
+      },
+      {
+        "slot": "t|Imparfait|0",
+        "f": "tense",
+        "s": "Quand j'étais enfant, je ___ toujours la main de ma mère dans la foule.",
+        "a": "saisissais",
+        "en": "When I was a child, I always grabbed my mother's hand in the crowd.",
+        "alts": [],
+        "form": "Imparfait"
+      },
+      {
+        "slot": "t|Imparfait|0",
+        "f": "tense",
+        "s": "Tu ___ chaque occasion de parler avec des natifs pour progresser.",
+        "a": "saisissais",
+        "en": "You used to seize every opportunity to speak with native speakers to improve.",
+        "alts": [],
+        "form": "Imparfait"
+      },
+      {
+        "slot": "t|Imparfait|1",
+        "f": "tense",
+        "s": "L'enfant ___ les barreaux de sa chaise haute pour ne pas tomber.",
+        "a": "saisissait",
+        "en": "The child was grabbing the bars of his high chair so as not to fall.",
+        "alts": [],
+        "form": "Imparfait"
+      },
+      {
+        "slot": "t|Imparfait|1",
+        "f": "tense",
+        "s": "On ___ mal les paroles du conférencier à cause du bruit.",
+        "a": "saisissait",
+        "en": "One could barely make out the speaker's words because of the noise.",
+        "alts": [],
+        "form": "Imparfait"
+      },
+      {
+        "slot": "t|Imparfait|2",
+        "f": "tense",
+        "s": "Nous ___ toutes les opportunités professionnelles qui se présentaient.",
+        "a": "saisissions",
+        "en": "We used to seize all the professional opportunities that arose.",
+        "alts": [],
+        "form": "Imparfait"
+      },
+      {
+        "slot": "t|Imparfait|2",
+        "f": "tense",
+        "s": "À l'époque, nous ___ difficilement les nuances de la langue.",
+        "a": "saisissions",
+        "en": "At the time, we had difficulty grasping the nuances of the language.",
+        "alts": [],
+        "form": "Imparfait"
+      },
+      {
+        "slot": "t|Imparfait|3",
+        "f": "tense",
+        "s": "Vous ___ la rampe chaque fois que vous montiez ces escaliers raides.",
+        "a": "saisissiez",
+        "en": "You used to grab the handrail every time you climbed those steep stairs.",
+        "alts": [],
+        "form": "Imparfait"
+      },
+      {
+        "slot": "t|Imparfait|3",
+        "f": "tense",
+        "s": "Avant, vous ___ vite les concepts mathématiques sans effort.",
+        "a": "saisissiez",
+        "en": "Before, you used to grasp mathematical concepts quickly without effort.",
+        "alts": [],
+        "form": "Imparfait"
+      },
+      {
+        "slot": "t|Imparfait|4",
+        "f": "tense",
+        "s": "Les gardiens ___ les prisonniers dès qu'ils tentaient de s'enfuir.",
+        "a": "saisissaient",
+        "en": "The guards would grab the prisoners as soon as they tried to escape.",
+        "alts": [],
+        "form": "Imparfait"
+      },
+      {
+        "slot": "t|Imparfait|4",
+        "f": "tense",
+        "s": "Elles ___ mal les blagues en français au début de leur séjour.",
+        "a": "saisissaient",
+        "en": "They didn't understand the jokes in French well at the start of their stay.",
+        "alts": [],
+        "form": "Imparfait"
+      },
+      {
+        "slot": "t|Futur|0",
+        "f": "tense",
+        "s": "Demain, je ___ l'occasion de lui expliquer ma décision.",
+        "a": "saisirai",
+        "en": "Tomorrow, I will seize the opportunity to explain my decision to him.",
+        "alts": [],
+        "form": "Futur"
+      },
+      {
+        "slot": "t|Futur|0",
+        "f": "tense",
+        "s": "Dès que la porte s'ouvrira, je ___ ma chance et j'entrerai.",
+        "a": "saisirai",
+        "en": "As soon as the door opens, I will seize my chance and enter.",
+        "alts": [],
+        "form": "Futur"
+      },
+      {
+        "slot": "t|Futur|1",
+        "f": "tense",
+        "s": "Si tu n'es pas attentif, tu ne ___ pas le sens de son discours.",
+        "a": "saisiras",
+        "en": "If you are not attentive, you will not grasp the meaning of his speech.",
+        "alts": [],
+        "form": "Futur"
+      },
+      {
+        "slot": "t|Futur|1",
+        "f": "tense",
+        "s": "Tu ___ sûrement cette belle opportunité quand elle se présentera.",
+        "a": "saisiras",
+        "en": "You will surely seize this great opportunity when it arises.",
+        "alts": [],
+        "form": "Futur"
+      },
+      {
+        "slot": "t|Futur|2",
+        "f": "tense",
+        "s": "La police ___ les fonds illicites dès que le mandat sera signé.",
+        "a": "saisira",
+        "en": "The police will seize the illicit funds as soon as the warrant is signed.",
+        "alts": [],
+        "form": "Futur"
+      },
+      {
+        "slot": "t|Futur|2",
+        "f": "tense",
+        "s": "Il ___ la main tendue et acceptera l'aide proposée.",
+        "a": "saisira",
+        "en": "He will grab the outstretched hand and accept the offered help.",
+        "alts": [],
+        "form": "Futur"
+      },
+      {
+        "slot": "t|Futur|3",
+        "f": "tense",
+        "s": "Nous ___ cette opportunité unique de rencontrer l'auteur en personne.",
+        "a": "saisirons",
+        "en": "We will seize this unique opportunity to meet the author in person.",
+        "alts": [],
+        "form": "Futur"
+      },
+      {
+        "slot": "t|Futur|3",
+        "f": "tense",
+        "s": "Après la formation, nous ___ mieux les enjeux du projet.",
+        "a": "saisirons",
+        "en": "After the training, we will better understand the stakes of the project.",
+        "alts": [],
+        "form": "Futur"
+      },
+      {
+        "slot": "t|Futur|4",
+        "f": "tense",
+        "s": "Vous ___ le câble de sécurité avant de commencer la descente.",
+        "a": "saisirez",
+        "en": "You will grab the safety cable before starting the descent.",
+        "alts": [],
+        "form": "Futur"
+      },
+      {
+        "slot": "t|Futur|4",
+        "f": "tense",
+        "s": "Je suis certain que vous ___ tout l'intérêt de cette démarche.",
+        "a": "saisirez",
+        "en": "I am certain that you will grasp the full value of this approach.",
+        "alts": [],
+        "form": "Futur"
+      },
+      {
+        "slot": "t|Futur|5",
+        "f": "tense",
+        "s": "Les autorités ___ les véhicules de luxe achetés avec de l'argent sale.",
+        "a": "saisiront",
+        "en": "The authorities will seize the luxury vehicles bought with dirty money.",
+        "alts": [],
+        "form": "Futur"
+      },
+      {
+        "slot": "t|Futur|5",
+        "f": "tense",
+        "s": "Ils ___ l'importance de la décision dès qu'on la leur expliquera.",
+        "a": "saisiront",
+        "en": "They will grasp the importance of the decision as soon as it is explained to them.",
+        "alts": [],
+        "form": "Futur"
+      },
+      {
+        "slot": "t|Conditionnel|0",
+        "f": "tense",
+        "s": "Si j'avais le courage, je ___ cette chance inespérée.",
+        "a": "saisirais",
+        "en": "If I had the courage, I would seize this unexpected chance.",
+        "alts": [],
+        "form": "Conditionnel"
+      },
+      {
+        "slot": "t|Conditionnel|0",
+        "f": "tense",
+        "s": "Tu ___ l'occasion si tu te trouvais au bon endroit au bon moment.",
+        "a": "saisirais",
+        "en": "You would seize the opportunity if you were in the right place at the right time.",
+        "alts": [],
+        "form": "Conditionnel"
+      },
+      {
+        "slot": "t|Conditionnel|1",
+        "f": "tense",
+        "s": "Si elle était plus attentive, elle ___ mieux les nuances du texte.",
+        "a": "saisirait",
+        "en": "If she were more attentive, she would better grasp the nuances of the text.",
+        "alts": [],
+        "form": "Conditionnel"
+      },
+      {
+        "slot": "t|Conditionnel|1",
+        "f": "tense",
+        "s": "Le juge ___ les actifs de la société si la fraude était prouvée.",
+        "a": "saisirait",
+        "en": "The judge would seize the company's assets if the fraud were proven.",
+        "alts": [],
+        "form": "Conditionnel"
+      },
+      {
+        "slot": "t|Conditionnel|2",
+        "f": "tense",
+        "s": "Nous ___ cette belle opportunité si elle se présentait à nous.",
+        "a": "saisirions",
+        "en": "We would seize this great opportunity if it presented itself to us.",
+        "alts": [],
+        "form": "Conditionnel"
+      },
+      {
+        "slot": "t|Conditionnel|2",
+        "f": "tense",
+        "s": "Avec plus de temps, nous ___ mieux les subtilités de la culture locale.",
+        "a": "saisirions",
+        "en": "With more time, we would better grasp the subtleties of the local culture.",
+        "alts": [],
+        "form": "Conditionnel"
+      },
+      {
+        "slot": "t|Conditionnel|3",
+        "f": "tense",
+        "s": "Vous ___ cette offre d'emploi si vous étiez encore en recherche.",
+        "a": "saisiriez",
+        "en": "You would seize this job offer if you were still looking for work.",
+        "alts": [],
+        "form": "Conditionnel"
+      },
+      {
+        "slot": "t|Conditionnel|3",
+        "f": "tense",
+        "s": "Si vous lisiez plus souvent, vous ___ mieux le sens des métaphores.",
+        "a": "saisiriez",
+        "en": "If you read more often, you would better grasp the meaning of metaphors.",
+        "alts": [],
+        "form": "Conditionnel"
+      },
+      {
+        "slot": "t|Conditionnel|4",
+        "f": "tense",
+        "s": "Si les policiers avaient un mandat, ils ___ les documents sans attendre.",
+        "a": "saisiraient",
+        "en": "If the police had a warrant, they would seize the documents without delay.",
+        "alts": [],
+        "form": "Conditionnel"
+      },
+      {
+        "slot": "t|Conditionnel|4",
+        "f": "tense",
+        "s": "Mes amis ___ l'occasion de visiter Paris s'ils en avaient les moyens.",
+        "a": "saisiraient",
+        "en": "My friends would seize the opportunity to visit Paris if they had the means.",
+        "alts": [],
+        "form": "Conditionnel"
+      },
+      {
+        "slot": "t|Subjonctif",
+        "f": "subj",
+        "s": "Il faut que tu ___ cette chance avant qu'il soit trop tard.",
+        "a": "saisisses",
+        "en": "You must seize this chance before it is too late.",
+        "alts": [],
+        "form": "Subjonctif présent"
+      },
+      {
+        "slot": "t|Subjonctif",
+        "f": "subj",
+        "s": "Je veux qu'il ___ l'importance de bien comprendre les règles.",
+        "a": "saisisse",
+        "en": "I want him to grasp the importance of understanding the rules well.",
+        "alts": [],
+        "form": "Subjonctif présent"
+      },
+      {
+        "slot": "s|0",
+        "f": "sense",
+        "s": "Le garde du corps ___ le bras de l'agresseur pour le maîtriser.",
+        "a": "saisit",
+        "en": "The bodyguard grabs the attacker's arm to subdue him. (sense: grab/take hold of physically)",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "s|0",
+        "f": "sense",
+        "s": "Elle ___ son téléphone posé sur la table et répondit à l'appel.",
+        "a": "saisit",
+        "en": "She grabbed her phone on the table and answered the call. (sense: take hold of)",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "s|1",
+        "f": "sense",
+        "s": "Il ne faut pas laisser passer cette occasion ; il faut la ___ sans hésiter.",
+        "a": "saisir",
+        "en": "One must not let this opportunity pass; one must seize it without hesitating. (sense: make the most of / take advantage of)",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "s|1",
+        "f": "sense",
+        "s": "Les investisseurs ont su ___ le bon moment pour acheter ces actions.",
+        "a": "saisir",
+        "en": "The investors knew how to seize the right moment to buy these shares. (sense: capitalize on / seize an opportunity)",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "s|2",
+        "f": "sense",
+        "s": "La douane a décidé de ___ les marchandises importées illégalement.",
+        "a": "saisir",
+        "en": "Customs decided to confiscate the illegally imported goods. (sense: confiscate / seize by authority)",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "s|2",
+        "f": "sense",
+        "s": "Le tribunal peut ___ les biens d'un débiteur qui ne rembourse pas ses dettes.",
+        "a": "saisir",
+        "en": "The court can seize the assets of a debtor who does not repay his debts. (sense: legally seize / confiscate)",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "s|3",
+        "f": "sense",
+        "s": "Je n'ai pas bien ___ l'explication du professeur ; pouvez-vous la répéter ?",
+        "a": "saisi",
+        "en": "I did not understand the teacher's explanation well; could you repeat it? (sense: understand / comprehend)",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "s|3",
+        "f": "sense",
+        "s": "Il a fallu plusieurs lectures pour qu'elle ___ toute la complexité du roman.",
+        "a": "saisisse",
+        "en": "It took several readings for her to grasp the full complexity of the novel. (sense: understand / comprehend)",
+        "alts": [],
+        "form": ""
+      }
+    ]
+  },
+  {
+    "id": 720,
+    "qs": [
+      {
+        "slot": "s|0",
+        "f": "sense",
+        "s": "Le soleil produit une grande quantité d'___ chaque seconde.",
+        "a": "énergie",
+        "en": "The sun produces a large amount of energy every second.",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "s|0",
+        "f": "sense",
+        "s": "Les scientifiques cherchent de nouvelles sources d'___ pour remplacer le pétrole.",
+        "a": "énergie",
+        "en": "Scientists are looking for new sources of energy to replace oil.",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "s|1",
+        "f": "sense",
+        "s": "Il travaille douze heures par jour ; il a une ___ incroyable.",
+        "a": "énergie",
+        "en": "He works twelve hours a day; he has incredible energy.",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "s|1",
+        "f": "sense",
+        "s": "Après une bonne nuit de sommeil, j'ai toute l'___ qu'il me faut pour affronter la journée.",
+        "a": "énergie",
+        "en": "After a good night's sleep, I have all the energy I need to face the day.",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "s|2",
+        "f": "sense",
+        "s": "Cette vieille dame danse avec une ___ qui surprend tout le monde.",
+        "a": "énergie",
+        "en": "That elderly lady dances with a vitality that surprises everyone.",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "s|2",
+        "f": "sense",
+        "s": "Les enfants courent partout dans la cour avec une ___ débordante.",
+        "a": "énergie",
+        "en": "The children run everywhere in the yard with boundless vitality.",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "gender",
+        "f": "gender",
+        "s": "___ énergie renouvelable est essentielle pour l'avenir de la planète.",
+        "a": "L'",
+        "en": "Renewable energy is essential for the future of the planet.",
+        "alts": ["l'"],
+        "form": ""
+      },
+      {
+        "slot": "gender",
+        "f": "gender",
+        "s": "Nous avons besoin d'___ énergie durable pour réduire la pollution.",
+        "a": "une",
+        "en": "We need a sustainable energy source to reduce pollution.",
+        "alts": [],
+        "form": ""
+      }
+    ]
+  }
+]

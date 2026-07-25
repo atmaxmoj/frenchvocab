@@ -1,0 +1,701 @@
+[
+  {
+    "id": 1646,
+    "qs": [
+      {
+        "slot": "s|0",
+        "f": "sense",
+        "s": "Il y a ___ élèves dans ma classe cette année.",
+        "en": "There are thirty students in my class this year.",
+        "a": "trente",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "s|0",
+        "f": "sense",
+        "s": "Elle a eu ___ sur trente à son examen de mathématiques.",
+        "en": "She got thirty out of thirty on her mathematics exam.",
+        "a": "trente",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "gender",
+        "f": "gender",
+        "s": "On est ___ trente du mois, donc c'est la veille du dernier jour.",
+        "en": "It is the thirtieth of the month, so it is the eve of the last day.",
+        "a": "le",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "gender",
+        "f": "gender",
+        "s": "Le magasin ferme ___ trente de chaque mois pour l'inventaire.",
+        "en": "The store closes on the thirtieth of each month for inventory.",
+        "a": "le",
+        "alts": [],
+        "form": ""
+      }
+    ]
+  },
+  {
+    "id": 1647,
+    "qs": [
+      {
+        "slot": "s|0",
+        "f": "sense",
+        "s": "Le prêtre priait chaque soir pour le salut de ___.",
+        "en": "The priest prayed every evening for the salvation of the soul.",
+        "a": "l'âme",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "s|0",
+        "f": "sense",
+        "s": "Selon cette croyance, ___ quitte le corps au moment de la mort.",
+        "en": "According to this belief, the soul leaves the body at the moment of death.",
+        "a": "l'âme",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "s|1",
+        "f": "sense",
+        "s": "Il a décidé, en ___ et conscience, de dire toute la vérité.",
+        "en": "He decided, in all conscience, to tell the whole truth.",
+        "a": "âme",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "s|1",
+        "f": "sense",
+        "s": "Il a ___ d'un artiste : la moindre injustice le bouleverse profondément.",
+        "en": "He has the inner soul of an artist: the slightest injustice deeply moves him.",
+        "a": "l'âme",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "s|2",
+        "f": "sense",
+        "s": "La solidarité est ___ de ce mouvement humanitaire.",
+        "en": "Solidarity is the spirit of this humanitarian movement.",
+        "a": "l'âme",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "s|2",
+        "f": "sense",
+        "s": "___ d'un peuple se reflète dans sa langue, ses arts et ses traditions.",
+        "en": "The spirit of a people is reflected in its language, its arts, and its traditions.",
+        "a": "L'âme",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "gender",
+        "f": "gender",
+        "s": "Au fond de la forêt, il n'y avait pas ___ âme qui vive.",
+        "en": "Deep in the forest, there was not a single soul.",
+        "a": "une",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "gender",
+        "f": "gender",
+        "s": "C'est ___ âme généreuse qui aide les autres sans rien attendre en retour.",
+        "en": "It is a generous soul who helps others without expecting anything in return.",
+        "a": "une",
+        "alts": [],
+        "form": ""
+      }
+    ]
+  },
+  {
+    "id": 1648,
+    "qs": [
+      {
+        "slot": "t|Présent|0",
+        "f": "tense",
+        "s": "Je ___ la situation et j'agis en conséquence.",
+        "en": "I dominate the situation and act accordingly.",
+        "a": "domine",
+        "alts": [],
+        "form": "Présent"
+      },
+      {
+        "slot": "t|Présent|0",
+        "f": "tense",
+        "s": "Ce pays ___ la région depuis plusieurs décennies.",
+        "en": "This country dominates the region for several decades.",
+        "a": "domine",
+        "alts": [],
+        "form": "Présent"
+      },
+      {
+        "slot": "t|Présent|1",
+        "f": "tense",
+        "s": "Tu ___ tes adversaires grâce à ta technique supérieure.",
+        "en": "You dominate your opponents thanks to your superior technique.",
+        "a": "domines",
+        "alts": [],
+        "form": "Présent"
+      },
+      {
+        "slot": "t|Présent|1",
+        "f": "tense",
+        "s": "Est-ce que tu ___ vraiment le marché dans ton secteur ?",
+        "en": "Do you really dominate the market in your sector?",
+        "a": "domines",
+        "alts": [],
+        "form": "Présent"
+      },
+      {
+        "slot": "t|Présent|2",
+        "f": "tense",
+        "s": "Nous ___ la compétition cette année grâce à notre équipe unie.",
+        "en": "We dominate the competition this year thanks to our united team.",
+        "a": "dominons",
+        "alts": [],
+        "form": "Présent"
+      },
+      {
+        "slot": "t|Présent|2",
+        "f": "tense",
+        "s": "Ensemble, nous ___ le classement depuis le début de la saison.",
+        "en": "Together, we dominate the rankings since the beginning of the season.",
+        "a": "dominons",
+        "alts": [],
+        "form": "Présent"
+      },
+      {
+        "slot": "t|Présent|3",
+        "f": "tense",
+        "s": "Vous ___ vos concurrents dans ce domaine sans grande difficulté.",
+        "en": "You dominate your competitors in this field without much difficulty.",
+        "a": "dominez",
+        "alts": [],
+        "form": "Présent"
+      },
+      {
+        "slot": "t|Présent|3",
+        "f": "tense",
+        "s": "Comment ___ -vous la situation face à tant d'obstacles ?",
+        "en": "How do you dominate the situation in the face of so many obstacles?",
+        "a": "dominez",
+        "alts": [],
+        "form": "Présent"
+      },
+      {
+        "slot": "t|Présent|4",
+        "f": "tense",
+        "s": "Ces entreprises ___ le marché mondial de la technologie.",
+        "en": "These companies dominate the global technology market.",
+        "a": "dominent",
+        "alts": [],
+        "form": "Présent"
+      },
+      {
+        "slot": "t|Présent|4",
+        "f": "tense",
+        "s": "Les grandes puissances ___ encore les négociations internationales.",
+        "en": "The great powers still dominate international negotiations.",
+        "a": "dominent",
+        "alts": [],
+        "form": "Présent"
+      },
+      {
+        "slot": "t|Passé composé|0",
+        "f": "tense",
+        "s": "J'___ le débat grâce à mes arguments bien préparés.",
+        "en": "I dominated the debate thanks to my well-prepared arguments.",
+        "a": "ai dominé",
+        "alts": [],
+        "form": "Passé composé"
+      },
+      {
+        "slot": "t|Passé composé|0",
+        "f": "tense",
+        "s": "Cette année, j'___ la compétition du début à la fin.",
+        "en": "This year, I dominated the competition from start to finish.",
+        "a": "ai dominé",
+        "alts": [],
+        "form": "Passé composé"
+      },
+      {
+        "slot": "t|Passé composé|1",
+        "f": "tense",
+        "s": "Tu ___ tes adversaires lors du tournoi de la semaine dernière.",
+        "en": "You dominated your opponents in last week's tournament.",
+        "a": "as dominé",
+        "alts": [],
+        "form": "Passé composé"
+      },
+      {
+        "slot": "t|Passé composé|1",
+        "f": "tense",
+        "s": "Tu ___ toute la réunion avec tes idées innovantes.",
+        "en": "You dominated the whole meeting with your innovative ideas.",
+        "a": "as dominé",
+        "alts": [],
+        "form": "Passé composé"
+      },
+      {
+        "slot": "t|Passé composé|2",
+        "f": "tense",
+        "s": "Ce joueur ___ le match et son équipe a gagné.",
+        "en": "This player dominated the match and his team won.",
+        "a": "a dominé",
+        "alts": [],
+        "form": "Passé composé"
+      },
+      {
+        "slot": "t|Passé composé|2",
+        "f": "tense",
+        "s": "Rome ___ une grande partie du monde antique pendant des siècles.",
+        "en": "Rome dominated a large part of the ancient world for centuries.",
+        "a": "a dominé",
+        "alts": [],
+        "form": "Passé composé"
+      },
+      {
+        "slot": "t|Passé composé|3",
+        "f": "tense",
+        "s": "Nous ___ le championnat régional cette saison.",
+        "en": "We dominated the regional championship this season.",
+        "a": "avons dominé",
+        "alts": [],
+        "form": "Passé composé"
+      },
+      {
+        "slot": "t|Passé composé|3",
+        "f": "tense",
+        "s": "Ensemble, nous ___ nos rivaux lors des éliminatoires.",
+        "en": "Together, we dominated our rivals during the playoffs.",
+        "a": "avons dominé",
+        "alts": [],
+        "form": "Passé composé"
+      },
+      {
+        "slot": "t|Passé composé|4",
+        "f": "tense",
+        "s": "Vous ___ la concurrence pendant toute l'année fiscale.",
+        "en": "You dominated the competition throughout the entire fiscal year.",
+        "a": "avez dominé",
+        "alts": [],
+        "form": "Passé composé"
+      },
+      {
+        "slot": "t|Passé composé|4",
+        "f": "tense",
+        "s": "Comment ___ -vous la négociation hier soir ?",
+        "en": "How did you dominate the negotiation last night?",
+        "a": "avez dominé",
+        "alts": [],
+        "form": "Passé composé"
+      },
+      {
+        "slot": "t|Passé composé|5",
+        "f": "tense",
+        "s": "Les lions ___ la savane pendant des millénaires.",
+        "en": "The lions dominated the savanna for millennia.",
+        "a": "ont dominé",
+        "alts": [],
+        "form": "Passé composé"
+      },
+      {
+        "slot": "t|Passé composé|5",
+        "f": "tense",
+        "s": "Ces athlètes ___ leur discipline lors des derniers Jeux olympiques.",
+        "en": "These athletes dominated their discipline at the last Olympic Games.",
+        "a": "ont dominé",
+        "alts": [],
+        "form": "Passé composé"
+      },
+      {
+        "slot": "t|Imparfait|0",
+        "f": "tense",
+        "s": "Quand j'étais jeune, je ___ facilement mes camarades de classe.",
+        "en": "When I was young, I easily dominated my classmates.",
+        "a": "dominais",
+        "alts": [],
+        "form": "Imparfait"
+      },
+      {
+        "slot": "t|Imparfait|0",
+        "f": "tense",
+        "s": "Tu ___ le groupe à chaque réunion avec ton charisme naturel.",
+        "en": "You dominated the group at every meeting with your natural charisma.",
+        "a": "dominais",
+        "alts": [],
+        "form": "Imparfait"
+      },
+      {
+        "slot": "t|Imparfait|1",
+        "f": "tense",
+        "s": "Ce parti politique ___ la scène nationale depuis des années.",
+        "en": "This political party dominated the national scene for years.",
+        "a": "dominait",
+        "alts": [],
+        "form": "Imparfait"
+      },
+      {
+        "slot": "t|Imparfait|1",
+        "f": "tense",
+        "s": "La tour ___ le paysage urbain avant sa démolition.",
+        "en": "The tower dominated the urban landscape before its demolition.",
+        "a": "dominait",
+        "alts": [],
+        "form": "Imparfait"
+      },
+      {
+        "slot": "t|Imparfait|2",
+        "f": "tense",
+        "s": "Nous ___ le marché local avant l'arrivée de nouveaux concurrents.",
+        "en": "We dominated the local market before the arrival of new competitors.",
+        "a": "dominions",
+        "alts": [],
+        "form": "Imparfait"
+      },
+      {
+        "slot": "t|Imparfait|2",
+        "f": "tense",
+        "s": "Dans notre équipe, nous ___ chaque tournoi sans effort apparent.",
+        "en": "In our team, we dominated every tournament without apparent effort.",
+        "a": "dominions",
+        "alts": [],
+        "form": "Imparfait"
+      },
+      {
+        "slot": "t|Imparfait|3",
+        "f": "tense",
+        "s": "Vous ___ vos adversaires à chaque match de la saison passée.",
+        "en": "You dominated your opponents in every match of the past season.",
+        "a": "dominiez",
+        "alts": [],
+        "form": "Imparfait"
+      },
+      {
+        "slot": "t|Imparfait|3",
+        "f": "tense",
+        "s": "Avant cette défaite, vous ___ le classement depuis six mois.",
+        "en": "Before this defeat, you had been dominating the rankings for six months.",
+        "a": "dominiez",
+        "alts": [],
+        "form": "Imparfait"
+      },
+      {
+        "slot": "t|Imparfait|4",
+        "f": "tense",
+        "s": "Ces empereurs ___ leurs sujets avec une main de fer.",
+        "en": "These emperors dominated their subjects with an iron hand.",
+        "a": "dominaient",
+        "alts": [],
+        "form": "Imparfait"
+      },
+      {
+        "slot": "t|Imparfait|4",
+        "f": "tense",
+        "s": "Les grandes nations coloniales ___ une grande partie du globe au XIXe siècle.",
+        "en": "The great colonial nations dominated a large part of the globe in the 19th century.",
+        "a": "dominaient",
+        "alts": [],
+        "form": "Imparfait"
+      },
+      {
+        "slot": "t|Futur|0",
+        "f": "tense",
+        "s": "Je ___ ce concours si je continue à m'entraîner sérieusement.",
+        "en": "I will dominate this competition if I keep training seriously.",
+        "a": "dominerai",
+        "alts": [],
+        "form": "Futur"
+      },
+      {
+        "slot": "t|Futur|0",
+        "f": "tense",
+        "s": "Demain, je ___ la présentation et je convaincrai tout le monde.",
+        "en": "Tomorrow, I will dominate the presentation and convince everyone.",
+        "a": "dominerai",
+        "alts": [],
+        "form": "Futur"
+      },
+      {
+        "slot": "t|Futur|1",
+        "f": "tense",
+        "s": "Si tu travailles davantage, tu ___ tes concurrents sans difficulté.",
+        "en": "If you work harder, you will dominate your competitors without difficulty.",
+        "a": "domineras",
+        "alts": [],
+        "form": "Futur"
+      },
+      {
+        "slot": "t|Futur|1",
+        "f": "tense",
+        "s": "Tu ___ sûrement le tournoi l'année prochaine avec tes progrès actuels.",
+        "en": "You will surely dominate the tournament next year with your current progress.",
+        "a": "domineras",
+        "alts": [],
+        "form": "Futur"
+      },
+      {
+        "slot": "t|Futur|2",
+        "f": "tense",
+        "s": "Cette entreprise ___ le secteur technologique dans dix ans.",
+        "en": "This company will dominate the tech sector in ten years.",
+        "a": "dominera",
+        "alts": [],
+        "form": "Futur"
+      },
+      {
+        "slot": "t|Futur|2",
+        "f": "tense",
+        "s": "La nouvelle cathédrale ___ le centre-ville une fois construite.",
+        "en": "The new cathedral will dominate the city centre once built.",
+        "a": "dominera",
+        "alts": [],
+        "form": "Futur"
+      },
+      {
+        "slot": "t|Futur|3",
+        "f": "tense",
+        "s": "Nous ___ le marché si nous lançons ce produit au bon moment.",
+        "en": "We will dominate the market if we launch this product at the right time.",
+        "a": "dominerons",
+        "alts": [],
+        "form": "Futur"
+      },
+      {
+        "slot": "t|Futur|3",
+        "f": "tense",
+        "s": "Avec cette stratégie, nous ___ nos rivaux lors des prochaines élections.",
+        "en": "With this strategy, we will dominate our rivals in the upcoming elections.",
+        "a": "dominerons",
+        "alts": [],
+        "form": "Futur"
+      },
+      {
+        "slot": "t|Futur|4",
+        "f": "tense",
+        "s": "Vous ___ la scène internationale si vous poursuivez vos efforts.",
+        "en": "You will dominate the international scene if you continue your efforts.",
+        "a": "dominerez",
+        "alts": [],
+        "form": "Futur"
+      },
+      {
+        "slot": "t|Futur|4",
+        "f": "tense",
+        "s": "L'année prochaine, vous ___ vos adversaires lors des championnats.",
+        "en": "Next year, you will dominate your opponents in the championships.",
+        "a": "dominerez",
+        "alts": [],
+        "form": "Futur"
+      },
+      {
+        "slot": "t|Futur|5",
+        "f": "tense",
+        "s": "Ces robots ___ les chaînes de production dans un proche avenir.",
+        "en": "These robots will dominate the production lines in the near future.",
+        "a": "domineront",
+        "alts": [],
+        "form": "Futur"
+      },
+      {
+        "slot": "t|Futur|5",
+        "f": "tense",
+        "s": "Les jeunes talents ___ le sport mondial dans la prochaine décennie.",
+        "en": "Young talents will dominate world sport in the next decade.",
+        "a": "domineront",
+        "alts": [],
+        "form": "Futur"
+      },
+      {
+        "slot": "t|Conditionnel|0",
+        "f": "tense",
+        "s": "Si j'avais plus d'expérience, je ___ ce secteur facilement.",
+        "en": "If I had more experience, I would dominate this sector easily.",
+        "a": "dominerais",
+        "alts": [],
+        "form": "Conditionnel"
+      },
+      {
+        "slot": "t|Conditionnel|0",
+        "f": "tense",
+        "s": "Si tu t'entraînais davantage, tu ___ tous tes rivaux.",
+        "en": "If you trained more, you would dominate all your rivals.",
+        "a": "dominerais",
+        "alts": [],
+        "form": "Conditionnel"
+      },
+      {
+        "slot": "t|Conditionnel|1",
+        "f": "tense",
+        "s": "Si cette équipe avait un meilleur entraîneur, elle ___ le championnat.",
+        "en": "If this team had a better coach, it would dominate the championship.",
+        "a": "dominerait",
+        "alts": [],
+        "form": "Conditionnel"
+      },
+      {
+        "slot": "t|Conditionnel|1",
+        "f": "tense",
+        "s": "Si ce pays investissait plus dans l'éducation, il ___ la scène mondiale.",
+        "en": "If this country invested more in education, it would dominate the world stage.",
+        "a": "dominerait",
+        "alts": [],
+        "form": "Conditionnel"
+      },
+      {
+        "slot": "t|Conditionnel|2",
+        "f": "tense",
+        "s": "Si nous avions plus de ressources, nous ___ le marché sans hésitation.",
+        "en": "If we had more resources, we would dominate the market without hesitation.",
+        "a": "dominerions",
+        "alts": [],
+        "form": "Conditionnel"
+      },
+      {
+        "slot": "t|Conditionnel|2",
+        "f": "tense",
+        "s": "Avec un meilleur financement, nous ___ notre domaine de recherche.",
+        "en": "With better funding, we would dominate our research field.",
+        "a": "dominerions",
+        "alts": [],
+        "form": "Conditionnel"
+      },
+      {
+        "slot": "t|Conditionnel|3",
+        "f": "tense",
+        "s": "Si vous aviez commencé plus tôt, vous ___ la compétition aujourd'hui.",
+        "en": "If you had started earlier, you would dominate the competition today.",
+        "a": "domineriez",
+        "alts": [],
+        "form": "Conditionnel"
+      },
+      {
+        "slot": "t|Conditionnel|3",
+        "f": "tense",
+        "s": "Avec votre talent, vous ___ ce marché si vous y consacriez plus d'efforts.",
+        "en": "With your talent, you would dominate this market if you devoted more effort to it.",
+        "a": "domineriez",
+        "alts": [],
+        "form": "Conditionnel"
+      },
+      {
+        "slot": "t|Conditionnel|4",
+        "f": "tense",
+        "s": "Si ces pays coopéraient, ils ___ l'économie mondiale.",
+        "en": "If these countries cooperated, they would dominate the world economy.",
+        "a": "domineraient",
+        "alts": [],
+        "form": "Conditionnel"
+      },
+      {
+        "slot": "t|Conditionnel|4",
+        "f": "tense",
+        "s": "Avec de meilleures ressources, ces athlètes ___ le sport international.",
+        "en": "With better resources, these athletes would dominate international sport.",
+        "a": "domineraient",
+        "alts": [],
+        "form": "Conditionnel"
+      },
+      {
+        "slot": "t|Subjonctif",
+        "f": "subj",
+        "s": "Il faut que tu ___ tes émotions avant d'entrer en scène.",
+        "en": "It is necessary that you dominate your emotions before going on stage.",
+        "a": "domines",
+        "alts": [],
+        "form": "Subjonctif présent"
+      },
+      {
+        "slot": "t|Subjonctif",
+        "f": "subj",
+        "s": "Je veux qu'elle ___ la réunion avec assurance.",
+        "en": "I want her to dominate the meeting with confidence.",
+        "a": "domine",
+        "alts": [],
+        "form": "Subjonctif présent"
+      },
+      {
+        "slot": "s|0",
+        "f": "sense",
+        "s": "Elle cherche à ___ ses peurs pour avancer dans la vie.",
+        "en": "She seeks to dominate her fears in order to move forward in life.",
+        "a": "dominer",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "s|0",
+        "f": "sense",
+        "s": "Il essaie de ___ ses instincts les plus violents.",
+        "en": "He tries to dominate his most violent instincts.",
+        "a": "dominer",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "s|1",
+        "f": "sense",
+        "s": "Ce roi a réussi à ___ tout un continent par la force.",
+        "en": "This king managed to dominate an entire continent by force.",
+        "a": "dominer",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "s|1",
+        "f": "sense",
+        "s": "L'ambition de cet empire était de ___ toutes les nations voisines.",
+        "en": "The ambition of this empire was to dominate all neighbouring nations.",
+        "a": "dominer",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "s|2",
+        "f": "sense",
+        "s": "Du haut de la colline, on peut ___ toute la vallée.",
+        "en": "From the top of the hill, one can overlook the entire valley.",
+        "a": "dominer",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "s|2",
+        "f": "sense",
+        "s": "Ce phare a été construit pour ___ le port et guider les marins.",
+        "en": "This lighthouse was built to overlook the harbour and guide sailors.",
+        "a": "dominer",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "s|3",
+        "f": "sense",
+        "s": "Les couleurs chaudes ___ dans cette peinture et lui donnent une atmosphère chaleureuse.",
+        "en": "Warm colours predominate in this painting and give it a warm atmosphere.",
+        "a": "dominent",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "s|3",
+        "f": "sense",
+        "s": "Dans ce secteur, les grandes entreprises continuent de ___ malgré la concurrence.",
+        "en": "In this sector, large companies continue to predominate despite competition.",
+        "a": "dominer",
+        "alts": [],
+        "form": ""
+      }
+    ]
+  }
+]

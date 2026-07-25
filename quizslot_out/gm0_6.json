@@ -1,0 +1,729 @@
+[
+  {
+    "id": 1919,
+    "qs": [
+      {
+        "slot": "s|0",
+        "f": "sense",
+        "s": "Les bateaux traversent lentement ___ du Midi pour rejoindre la mer.",
+        "a": "le canal",
+        "en": "The boats slowly cross the Canal du Midi to reach the sea.",
+        "alts": []
+      },
+      {
+        "slot": "s|0",
+        "f": "sense",
+        "s": "On a creusé ___ pour irriguer les champs de la région.",
+        "a": "un canal",
+        "en": "A canal was dug to irrigate the fields of the region.",
+        "alts": []
+      },
+      {
+        "slot": "s|1",
+        "f": "sense",
+        "s": "Les deux pays ont réglé ce différend par ___ diplomatique.",
+        "a": "le canal",
+        "en": "The two countries resolved this dispute through diplomatic channels.",
+        "alts": []
+      },
+      {
+        "slot": "s|1",
+        "f": "sense",
+        "s": "Nous avons transmis cette information par ___ officiel.",
+        "a": "un canal",
+        "en": "We transmitted this information through an official channel.",
+        "alts": []
+      },
+      {
+        "slot": "s|2",
+        "f": "sense",
+        "s": "Quel ___ diffuse le match de football ce soir ?",
+        "a": "canal",
+        "en": "Which channel is broadcasting the football match tonight?",
+        "alts": []
+      },
+      {
+        "slot": "s|2",
+        "f": "sense",
+        "s": "Mon père a changé ___ pour regarder les informations.",
+        "a": "le canal",
+        "en": "My father changed the channel to watch the news.",
+        "alts": ["la chaîne"]
+      },
+      {
+        "slot": "gender",
+        "f": "gender",
+        "s": "___ canal de Suez est l'un des plus importants au monde.",
+        "a": "Le",
+        "en": "The Suez Canal is one of the most important in the world.",
+        "alts": []
+      },
+      {
+        "slot": "gender",
+        "f": "gender",
+        "s": "Ils ont emprunté ___ canal pour acheminer l'eau jusqu'au village.",
+        "a": "un",
+        "en": "They used a canal to bring water to the village.",
+        "alts": []
+      }
+    ]
+  },
+  {
+    "id": 1920,
+    "qs": [
+      {
+        "slot": "t|Présent|0",
+        "f": "tense",
+        "s": "Je ___ la glace en frappant dessus.",
+        "en": "I break the ice by hitting it.",
+        "a": "brise",
+        "alts": [],
+        "form": "Présent"
+      },
+      {
+        "slot": "t|Présent|0",
+        "f": "tense",
+        "s": "Le vent ___ les branches fragiles des arbres.",
+        "en": "The wind breaks the fragile branches of the trees.",
+        "a": "brise",
+        "alts": [],
+        "form": "Présent"
+      },
+      {
+        "slot": "t|Présent|1",
+        "f": "tense",
+        "s": "Tu ___ toujours la vaisselle quand tu ranges la cuisine.",
+        "en": "You always break the dishes when you put away the kitchen.",
+        "a": "brises",
+        "alts": [],
+        "form": "Présent"
+      },
+      {
+        "slot": "t|Présent|1",
+        "f": "tense",
+        "s": "Tu ___ le silence avec tes éclats de rire.",
+        "en": "You break the silence with your bursts of laughter.",
+        "a": "brises",
+        "alts": [],
+        "form": "Présent"
+      },
+      {
+        "slot": "t|Présent|2",
+        "f": "tense",
+        "s": "Ensemble, nous ___ les règles injustes.",
+        "en": "Together, we break the unjust rules.",
+        "a": "brisons",
+        "alts": [],
+        "form": "Présent"
+      },
+      {
+        "slot": "t|Présent|2",
+        "f": "tense",
+        "s": "Nous ___ la glace au début de chaque réunion.",
+        "en": "We break the ice at the beginning of each meeting.",
+        "a": "brisons",
+        "alts": [],
+        "form": "Présent"
+      },
+      {
+        "slot": "t|Présent|3",
+        "f": "tense",
+        "s": "Vous ___ trop souvent vos promesses.",
+        "en": "You break your promises too often.",
+        "a": "brisez",
+        "alts": [],
+        "form": "Présent"
+      },
+      {
+        "slot": "t|Présent|3",
+        "f": "tense",
+        "s": "Vous ___ le silence chaque fois que vous entrez dans la salle.",
+        "en": "You break the silence every time you enter the room.",
+        "a": "brisez",
+        "alts": [],
+        "form": "Présent"
+      },
+      {
+        "slot": "t|Présent|4",
+        "f": "tense",
+        "s": "Les enfants ___ les jouets dès le premier jour.",
+        "en": "The children break the toys from the first day.",
+        "a": "brisent",
+        "alts": [],
+        "form": "Présent"
+      },
+      {
+        "slot": "t|Présent|4",
+        "f": "tense",
+        "s": "Les vagues ___ contre les rochers avec fracas.",
+        "en": "The waves break against the rocks with a crash.",
+        "a": "brisent",
+        "alts": [],
+        "form": "Présent"
+      },
+      {
+        "slot": "t|Passé composé|0",
+        "f": "tense",
+        "s": "J'___ accidentellement le vase en le déplaçant.",
+        "en": "I accidentally broke the vase while moving it.",
+        "a": "ai brisé",
+        "alts": [],
+        "form": "Passé composé"
+      },
+      {
+        "slot": "t|Passé composé|0",
+        "f": "tense",
+        "s": "Ce matin, j'___ la vitre en tombant.",
+        "en": "This morning, I broke the window pane by falling.",
+        "a": "ai brisé",
+        "alts": [],
+        "form": "Passé composé"
+      },
+      {
+        "slot": "t|Passé composé|1",
+        "f": "tense",
+        "s": "Tu ___ la chaise en sautant dessus hier.",
+        "en": "You broke the chair by jumping on it yesterday.",
+        "a": "as brisé",
+        "alts": [],
+        "form": "Passé composé"
+      },
+      {
+        "slot": "t|Passé composé|1",
+        "f": "tense",
+        "s": "Tu ___ notre accord sans même me prévenir.",
+        "en": "You broke our agreement without even warning me.",
+        "a": "as brisé",
+        "alts": [],
+        "form": "Passé composé"
+      },
+      {
+        "slot": "t|Passé composé|2",
+        "f": "tense",
+        "s": "Mon frère ___ son téléphone en le faisant tomber.",
+        "en": "My brother broke his phone by dropping it.",
+        "a": "a brisé",
+        "alts": [],
+        "form": "Passé composé"
+      },
+      {
+        "slot": "t|Passé composé|2",
+        "f": "tense",
+        "s": "La tempête ___ plusieurs vitres du bâtiment.",
+        "en": "The storm broke several windows of the building.",
+        "a": "a brisé",
+        "alts": [],
+        "form": "Passé composé"
+      },
+      {
+        "slot": "t|Passé composé|3",
+        "f": "tense",
+        "s": "Nous ___ le record de vitesse lors de cette course.",
+        "en": "We broke the speed record during that race.",
+        "a": "avons brisé",
+        "alts": [],
+        "form": "Passé composé"
+      },
+      {
+        "slot": "t|Passé composé|3",
+        "f": "tense",
+        "s": "Nous ___ le silence qui régnait dans la salle.",
+        "en": "We broke the silence that prevailed in the room.",
+        "a": "avons brisé",
+        "alts": [],
+        "form": "Passé composé"
+      },
+      {
+        "slot": "t|Passé composé|4",
+        "f": "tense",
+        "s": "Vous ___ la fenêtre en jouant au ballon hier.",
+        "en": "You broke the window while playing with the ball yesterday.",
+        "a": "avez brisé",
+        "alts": [],
+        "form": "Passé composé"
+      },
+      {
+        "slot": "t|Passé composé|4",
+        "f": "tense",
+        "s": "Vous ___ nos espoirs avec cette décision.",
+        "en": "You shattered our hopes with that decision.",
+        "a": "avez brisé",
+        "alts": [],
+        "form": "Passé composé"
+      },
+      {
+        "slot": "t|Passé composé|5",
+        "f": "tense",
+        "s": "Les manifestants ___ les vitres du magasin.",
+        "en": "The protesters broke the shop windows.",
+        "a": "ont brisé",
+        "alts": [],
+        "form": "Passé composé"
+      },
+      {
+        "slot": "t|Passé composé|5",
+        "f": "tense",
+        "s": "Ses paroles ___ l'ambiance festive du dîner.",
+        "en": "His words broke the festive atmosphere of the dinner.",
+        "a": "ont brisé",
+        "alts": [],
+        "form": "Passé composé"
+      },
+      {
+        "slot": "t|Imparfait|0",
+        "f": "tense",
+        "s": "Quand j'étais enfant, je ___ souvent mes jouets par curiosité.",
+        "en": "When I was a child, I often broke my toys out of curiosity.",
+        "a": "brisais",
+        "alts": [],
+        "form": "Imparfait"
+      },
+      {
+        "slot": "t|Imparfait|0",
+        "f": "tense",
+        "s": "Chaque soir, tu ___ la monotonie avec une nouvelle histoire.",
+        "en": "Every evening, you broke the monotony with a new story.",
+        "a": "brisais",
+        "alts": [],
+        "form": "Imparfait"
+      },
+      {
+        "slot": "t|Imparfait|1",
+        "f": "tense",
+        "s": "La marée ___ les rochers chaque nuit avec violence.",
+        "en": "The tide broke the rocks every night with violence.",
+        "a": "brisait",
+        "alts": [],
+        "form": "Imparfait"
+      },
+      {
+        "slot": "t|Imparfait|1",
+        "f": "tense",
+        "s": "Ce bruit strident ___ le calme de la forêt.",
+        "en": "That shrill noise broke the calm of the forest.",
+        "a": "brisait",
+        "alts": [],
+        "form": "Imparfait"
+      },
+      {
+        "slot": "t|Imparfait|2",
+        "f": "tense",
+        "s": "Nous ___ les règles chaque fois que l'occasion se présentait.",
+        "en": "We broke the rules every time the opportunity arose.",
+        "a": "brisions",
+        "alts": [],
+        "form": "Imparfait"
+      },
+      {
+        "slot": "t|Imparfait|2",
+        "f": "tense",
+        "s": "Nous ___ souvent les barrières entre les groupes à l'école.",
+        "en": "We often broke the barriers between groups at school.",
+        "a": "brisions",
+        "alts": [],
+        "form": "Imparfait"
+      },
+      {
+        "slot": "t|Imparfait|3",
+        "f": "tense",
+        "s": "Vous ___ régulièrement le calme de ce quartier avec vos fêtes.",
+        "en": "You regularly broke the calm of this neighbourhood with your parties.",
+        "a": "brisiez",
+        "alts": [],
+        "form": "Imparfait"
+      },
+      {
+        "slot": "t|Imparfait|3",
+        "f": "tense",
+        "s": "Vous ___ les objets fragiles sans faire attention.",
+        "en": "You broke fragile objects without paying attention.",
+        "a": "brisiez",
+        "alts": [],
+        "form": "Imparfait"
+      },
+      {
+        "slot": "t|Imparfait|4",
+        "f": "tense",
+        "s": "Les ouvriers ___ les vieilles pierres à la masse.",
+        "en": "The workers broke the old stones with a sledgehammer.",
+        "a": "brisaient",
+        "alts": [],
+        "form": "Imparfait"
+      },
+      {
+        "slot": "t|Imparfait|4",
+        "f": "tense",
+        "s": "Les enfants ___ les branches pour construire une cabane.",
+        "en": "The children broke the branches to build a hut.",
+        "a": "brisaient",
+        "alts": [],
+        "form": "Imparfait"
+      },
+      {
+        "slot": "t|Futur|0",
+        "f": "tense",
+        "s": "Demain, je ___ ce mauvais accord.",
+        "en": "Tomorrow, I will break this bad agreement.",
+        "a": "briserai",
+        "alts": [],
+        "form": "Futur"
+      },
+      {
+        "slot": "t|Futur|0",
+        "f": "tense",
+        "s": "Je ___ le silence si personne ne parle en premier.",
+        "en": "I will break the silence if no one speaks first.",
+        "a": "briserai",
+        "alts": [],
+        "form": "Futur"
+      },
+      {
+        "slot": "t|Futur|1",
+        "f": "tense",
+        "s": "Tu ___ sûrement le record si tu continues à t'entraîner.",
+        "en": "You will surely break the record if you keep training.",
+        "a": "briseras",
+        "alts": [],
+        "form": "Futur"
+      },
+      {
+        "slot": "t|Futur|1",
+        "f": "tense",
+        "s": "Tu ___ ce mur de méfiance avec ta sincérité.",
+        "en": "You will break this wall of mistrust with your sincerity.",
+        "a": "briseras",
+        "alts": [],
+        "form": "Futur"
+      },
+      {
+        "slot": "t|Futur|2",
+        "f": "tense",
+        "s": "Le gel ___ les canalisations si la température descend trop bas.",
+        "en": "The frost will break the pipes if the temperature drops too low.",
+        "a": "brisera",
+        "alts": [],
+        "form": "Futur"
+      },
+      {
+        "slot": "t|Futur|2",
+        "f": "tense",
+        "s": "Ce scandale ___ sa réputation pour toujours.",
+        "en": "This scandal will break his reputation forever.",
+        "a": "brisera",
+        "alts": [],
+        "form": "Futur"
+      },
+      {
+        "slot": "t|Futur|3",
+        "f": "tense",
+        "s": "Nous ___ les chaînes de l'injustice ensemble.",
+        "en": "We will break the chains of injustice together.",
+        "a": "briserons",
+        "alts": [],
+        "form": "Futur"
+      },
+      {
+        "slot": "t|Futur|3",
+        "f": "tense",
+        "s": "Nous ___ le record de l'équipe la saison prochaine.",
+        "en": "We will break the team record next season.",
+        "a": "briserons",
+        "alts": [],
+        "form": "Futur"
+      },
+      {
+        "slot": "t|Futur|4",
+        "f": "tense",
+        "s": "Vous ___ le silence lors de la cérémonie si vous n'éteignez pas vos téléphones.",
+        "en": "You will break the silence during the ceremony if you do not turn off your phones.",
+        "a": "briserez",
+        "alts": [],
+        "form": "Futur"
+      },
+      {
+        "slot": "t|Futur|4",
+        "f": "tense",
+        "s": "Vous ___ les habitudes de l'équipe avec vos nouvelles méthodes.",
+        "en": "You will break the team's habits with your new methods.",
+        "a": "briserez",
+        "alts": [],
+        "form": "Futur"
+      },
+      {
+        "slot": "t|Futur|5",
+        "f": "tense",
+        "s": "Les vagues ___ les falaises au fil des années.",
+        "en": "The waves will break the cliffs over the years.",
+        "a": "briseront",
+        "alts": [],
+        "form": "Futur"
+      },
+      {
+        "slot": "t|Futur|5",
+        "f": "tense",
+        "s": "Ces nouvelles ___ le cœur de leurs parents.",
+        "en": "This news will break their parents' hearts.",
+        "a": "briseront",
+        "alts": [],
+        "form": "Futur"
+      },
+      {
+        "slot": "t|Conditionnel|0",
+        "f": "tense",
+        "s": "Si j'avais un marteau, je ___ ce mur.",
+        "en": "If I had a hammer, I would break this wall.",
+        "a": "briserais",
+        "alts": [],
+        "form": "Conditionnel"
+      },
+      {
+        "slot": "t|Conditionnel|0",
+        "f": "tense",
+        "s": "Si tu étais à ma place, tu ___ ce contrat injuste.",
+        "en": "If you were in my position, you would break this unfair contract.",
+        "a": "briserais",
+        "alts": [],
+        "form": "Conditionnel"
+      },
+      {
+        "slot": "t|Conditionnel|1",
+        "f": "tense",
+        "s": "Si on lançait une pierre, elle ___ la fenêtre.",
+        "en": "If one threw a stone, it would break the window.",
+        "a": "briserait",
+        "alts": [],
+        "form": "Conditionnel"
+      },
+      {
+        "slot": "t|Conditionnel|1",
+        "f": "tense",
+        "s": "Une telle révélation ___ leur amitié de longue date.",
+        "en": "Such a revelation would break their long-standing friendship.",
+        "a": "briserait",
+        "alts": [],
+        "form": "Conditionnel"
+      },
+      {
+        "slot": "t|Conditionnel|2",
+        "f": "tense",
+        "s": "Si nous en avions la force, nous ___ ces chaînes.",
+        "en": "If we had the strength, we would break these chains.",
+        "a": "briserions",
+        "alts": [],
+        "form": "Conditionnel"
+      },
+      {
+        "slot": "t|Conditionnel|2",
+        "f": "tense",
+        "s": "Nous ___ volontiers les règles si cela pouvait aider.",
+        "en": "We would gladly break the rules if it could help.",
+        "a": "briserions",
+        "alts": [],
+        "form": "Conditionnel"
+      },
+      {
+        "slot": "t|Conditionnel|3",
+        "f": "tense",
+        "s": "Si vous étiez moins prudents, vous ___ ces objets fragiles.",
+        "en": "If you were less careful, you would break these fragile objects.",
+        "a": "briseriez",
+        "alts": [],
+        "form": "Conditionnel"
+      },
+      {
+        "slot": "t|Conditionnel|3",
+        "f": "tense",
+        "s": "Vous ___ le charme de cette soirée si vous partiez maintenant.",
+        "en": "You would break the charm of this evening if you left now.",
+        "a": "briseriez",
+        "alts": [],
+        "form": "Conditionnel"
+      },
+      {
+        "slot": "t|Conditionnel|4",
+        "f": "tense",
+        "s": "Si les manifestants continuaient, ils ___ les vitrines.",
+        "en": "If the protesters continued, they would break the shop windows.",
+        "a": "briseraient",
+        "alts": [],
+        "form": "Conditionnel"
+      },
+      {
+        "slot": "t|Conditionnel|4",
+        "f": "tense",
+        "s": "Ces nouvelles ___ le moral des troupes si elles se répandaient.",
+        "en": "This news would break the troops' morale if it spread.",
+        "a": "briseraient",
+        "alts": [],
+        "form": "Conditionnel"
+      },
+      {
+        "slot": "t|Subjonctif",
+        "f": "subj",
+        "s": "Il faut que tu ___ cette mauvaise habitude rapidement.",
+        "en": "It is necessary that you break this bad habit quickly.",
+        "a": "brises",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "t|Subjonctif",
+        "f": "subj",
+        "s": "Je veux qu'elle ___ le silence et nous dise la vérité.",
+        "en": "I want her to break the silence and tell us the truth.",
+        "a": "brise",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "s|0",
+        "f": "sense",
+        "s": "Le garçon ___ la vitre en jouant au ballon dans la rue.",
+        "en": "The boy breaks the window while playing ball in the street.",
+        "a": "brise",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "s|0",
+        "f": "sense",
+        "s": "Elle ___ l'assiette en la laissant tomber sur le carrelage.",
+        "en": "She breaks the plate by dropping it on the tiled floor.",
+        "a": "brise",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "s|1",
+        "f": "sense",
+        "s": "Il ___ la branche sèche pour alimenter le feu.",
+        "en": "He snaps the dry branch to feed the fire.",
+        "a": "brise",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "s|1",
+        "f": "sense",
+        "s": "Elle ___ le bâton en deux morceaux d'un seul geste.",
+        "en": "She snaps the stick into two pieces with a single gesture.",
+        "a": "brise",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "s|2",
+        "f": "sense",
+        "s": "Ce scandale ___ la confiance entre les deux pays.",
+        "en": "This scandal destroys the trust between the two countries.",
+        "a": "brise",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "s|2",
+        "f": "sense",
+        "s": "La corruption ___ l'harmonie au sein de l'équipe.",
+        "en": "Corruption breaks the harmony within the team.",
+        "a": "brise",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "s|3",
+        "f": "sense",
+        "s": "Cette trahison ___ le cœur de sa mère.",
+        "en": "This betrayal breaks his mother's heart.",
+        "a": "brise",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "s|3",
+        "f": "sense",
+        "s": "Son départ soudain ___ le cœur de toute la famille.",
+        "en": "His sudden departure breaks the whole family's heart.",
+        "a": "brise",
+        "alts": [],
+        "form": ""
+      }
+    ]
+  },
+  {
+    "id": 1921,
+    "qs": [
+      {
+        "slot": "s|0",
+        "f": "sense",
+        "s": "La ___ de l'environnement est un problème mondial urgent.",
+        "a": "destruction",
+        "en": "The destruction of the environment is an urgent global problem.",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "s|0",
+        "f": "sense",
+        "s": "Les vandales ont causé la ___ de plusieurs monuments historiques.",
+        "a": "destruction",
+        "en": "The vandals caused the destruction of several historical monuments.",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "s|1",
+        "f": "sense",
+        "s": "Les scientifiques craignent la ___ totale de la planète si rien n'est fait.",
+        "a": "destruction",
+        "en": "Scientists fear the total annihilation of the planet if nothing is done.",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "s|1",
+        "f": "sense",
+        "s": "La guerre a conduit à la ___ complète de cette civilisation antique.",
+        "a": "destruction",
+        "en": "The war led to the complete annihilation of that ancient civilization.",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "s|2",
+        "f": "sense",
+        "s": "L'explosion a provoqué la ___ immédiate du bâtiment.",
+        "a": "destruction",
+        "en": "The explosion caused the immediate demolition of the building.",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "s|2",
+        "f": "sense",
+        "s": "Les soldats ont ordonné la ___ du pont pour ralentir l'ennemi.",
+        "a": "destruction",
+        "en": "The soldiers ordered the destruction of the bridge to slow down the enemy.",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "gender",
+        "f": "gender",
+        "s": "___ destruction de la forêt amazonienne inquiète les écologistes.",
+        "a": "La",
+        "en": "The destruction of the Amazon forest worries environmentalists.",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "gender",
+        "f": "gender",
+        "s": "On a assisté à ___ destruction massive qui a tout emporté sur son passage.",
+        "a": "une",
+        "en": "We witnessed a massive destruction that swept everything in its path.",
+        "alts": [],
+        "form": ""
+      }
+    ]
+  }
+]

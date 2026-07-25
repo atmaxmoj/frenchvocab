@@ -1,0 +1,279 @@
+[
+  {
+    "id": 1163,
+    "qs": [
+      {
+        "slot": "s|0",
+        "f": "sense",
+        "s": "Le médecin recommande une dose ___ de deux comprimés par jour.",
+        "en": "The doctor recommends a maximum dose of two tablets per day.",
+        "a": "maximum",
+        "alts": ["maximale"],
+        "form": ""
+      },
+      {
+        "slot": "s|0",
+        "f": "sense",
+        "s": "Il faut fournir un ___ d'efforts pour atteindre cet objectif.",
+        "en": "You must provide a maximum of efforts to reach this goal.",
+        "a": "maximum",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "s|1",
+        "f": "sense",
+        "s": "La température ___ enregistrée aujourd'hui est de 38 degrés.",
+        "en": "The highest temperature recorded today is 38 degrees.",
+        "a": "maximum",
+        "alts": ["maximale"],
+        "form": ""
+      },
+      {
+        "slot": "s|1",
+        "f": "sense",
+        "s": "Le tribunal a prononcé la peine ___ prévue par la loi.",
+        "en": "The court handed down the highest sentence provided by law.",
+        "a": "maximum",
+        "alts": ["maximale"],
+        "form": ""
+      },
+      {
+        "slot": "g|mp",
+        "f": "agree",
+        "s": "Les résultats ___ obtenus lors des tests ont surpris tout le monde.",
+        "en": "The maximum results obtained during the tests surprised everyone.",
+        "a": "maximum",
+        "alts": ["maximaux"],
+        "form": ""
+      },
+      {
+        "slot": "g|mp",
+        "f": "agree",
+        "s": "Les niveaux ___ de pollution ont été mesurés en janvier.",
+        "en": "The maximum pollution levels were measured in January.",
+        "a": "maximum",
+        "alts": ["maximaux"],
+        "form": ""
+      },
+      {
+        "slot": "g|f",
+        "f": "agree",
+        "s": "La vitesse ___ autorisée sur cette route est de 90 km/h.",
+        "en": "The maximum speed allowed on this road is 90 km/h.",
+        "a": "maximum",
+        "alts": ["maximale"],
+        "form": ""
+      },
+      {
+        "slot": "g|f",
+        "f": "agree",
+        "s": "La capacité ___ de cette salle est de deux cents personnes.",
+        "en": "The maximum capacity of this room is two hundred people.",
+        "a": "maximum",
+        "alts": ["maximale"],
+        "form": ""
+      },
+      {
+        "slot": "g|fp",
+        "f": "agree",
+        "s": "Les performances ___ de cette voiture ont été testées sur circuit.",
+        "en": "The maximum performances of this car were tested on a track.",
+        "a": "maximum",
+        "alts": ["maximales"],
+        "form": ""
+      },
+      {
+        "slot": "g|fp",
+        "f": "agree",
+        "s": "Les températures ___ de la semaine seront atteintes vendredi.",
+        "en": "The maximum temperatures of the week will be reached on Friday.",
+        "a": "maximum",
+        "alts": ["maximales"],
+        "form": ""
+      }
+    ]
+  },
+  {
+    "id": 1164,
+    "qs": [
+      {
+        "slot": "s|0",
+        "f": "sense",
+        "s": "Le médecin a examiné les nerfs ___ du patient pour évaluer ses réflexes.",
+        "en": "The doctor examined the patient's motor nerves to assess his reflexes.",
+        "a": "moteurs",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "s|0",
+        "f": "sense",
+        "s": "Le cortex ___ contrôle les mouvements volontaires du corps.",
+        "en": "The motor cortex controls voluntary movements of the body.",
+        "a": "moteur",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "s|1",
+        "f": "sense",
+        "s": "La vapeur fut la puissance ___ de la révolution industrielle.",
+        "en": "Steam was the driving power of the industrial revolution.",
+        "a": "motrice",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "s|1",
+        "f": "sense",
+        "s": "L'ambition est souvent la force ___ qui pousse les entrepreneurs à innover.",
+        "en": "Ambition is often the driving force that pushes entrepreneurs to innovate.",
+        "a": "motrice",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "s|2",
+        "f": "sense",
+        "s": "Sur les voitures à traction avant, ce sont les roues avant qui sont les roues ___.",
+        "en": "On front-wheel-drive cars, the front wheels are the drive wheels.",
+        "a": "motrices",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "s|2",
+        "f": "sense",
+        "s": "L'arbre ___ transmet la puissance du moteur aux roues.",
+        "en": "The drive shaft transmits power from the engine to the wheels.",
+        "a": "moteur",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "g|mp",
+        "f": "agree",
+        "s": "Les neurones ___ envoient des signaux aux muscles pour provoquer des contractions.",
+        "en": "Motor neurons send signals to muscles to cause contractions.",
+        "a": "moteurs",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "g|mp",
+        "f": "agree",
+        "s": "Les troubles ___ chez cet enfant ont été diagnostiqués très tôt.",
+        "en": "The motor disorders in this child were diagnosed very early.",
+        "a": "moteurs",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "g|f",
+        "f": "agree",
+        "s": "La roue ___ d'une locomotive assure la traction sur les rails.",
+        "en": "The drive wheel of a locomotive ensures traction on the rails.",
+        "a": "motrice",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "g|f",
+        "f": "agree",
+        "s": "La cellule ___ transmet l'influx nerveux jusqu'au muscle.",
+        "en": "The motor cell transmits the nerve impulse to the muscle.",
+        "a": "motrice",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "g|fp",
+        "f": "agree",
+        "s": "Les fonctions ___ du cerveau incluent la coordination et l'équilibre.",
+        "en": "The motor functions of the brain include coordination and balance.",
+        "a": "motrices",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "g|fp",
+        "f": "agree",
+        "s": "Les capacités ___ du nourrisson se développent progressivement au cours de la première année.",
+        "en": "The motor capacities of the infant develop progressively during the first year.",
+        "a": "motrices",
+        "alts": [],
+        "form": ""
+      }
+    ]
+  },
+  {
+    "id": 1165,
+    "qs": [
+      {
+        "slot": "s|0",
+        "f": "sense",
+        "s": "La nouvelle ___ du logiciel corrige plusieurs bugs importants.",
+        "en": "The new version of the software fixes several important bugs.",
+        "a": "version",
+        "alts": []
+      },
+      {
+        "slot": "s|0",
+        "f": "sense",
+        "s": "Quelle ___ du document avez-vous téléchargée sur votre ordinateur ?",
+        "en": "Which version of the document did you download onto your computer?",
+        "a": "version",
+        "alts": []
+      },
+      {
+        "slot": "s|1",
+        "f": "sense",
+        "s": "La ___ française de ce roman russe est très fidèle à l'original.",
+        "en": "The French version (translation) of this Russian novel is very faithful to the original.",
+        "a": "version",
+        "alts": ["traduction"]
+      },
+      {
+        "slot": "s|1",
+        "f": "sense",
+        "s": "Les étudiants comparent la ___ latine du texte avec l'original grec.",
+        "en": "The students compare the Latin version (translation) of the text with the original Greek.",
+        "a": "version",
+        "alts": ["traduction"]
+      },
+      {
+        "slot": "s|2",
+        "f": "sense",
+        "s": "Sa ___ des faits ne correspond pas du tout à la réalité.",
+        "en": "His account of the facts does not correspond at all to reality.",
+        "a": "version",
+        "alts": []
+      },
+      {
+        "slot": "s|2",
+        "f": "sense",
+        "s": "Chaque témoin a donné une ___ différente de l'accident.",
+        "en": "Each witness gave a different account of the accident.",
+        "a": "version",
+        "alts": []
+      },
+      {
+        "slot": "gender",
+        "f": "gender",
+        "s": "___ version officielle du rapport sera publiée demain matin.",
+        "en": "The official version of the report will be published tomorrow morning.",
+        "a": "La",
+        "alts": []
+      },
+      {
+        "slot": "gender",
+        "f": "gender",
+        "s": "Il a téléchargé ___ version bêta de l'application sur son téléphone.",
+        "en": "He downloaded a beta version of the application on his phone.",
+        "a": "une",
+        "alts": []
+      }
+    ]
+  }
+]

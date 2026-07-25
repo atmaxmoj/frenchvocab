@@ -1,0 +1,105 @@
+[
+  {
+    "id": 5481,
+    "qs": [
+      {
+        "slot": "s|0",
+        "f": "sense",
+        "s": "J'ai appelé mes collègues et ils sont ___ arrivés à l'heure.",
+        "en": "I called my colleagues and they all arrived on time.",
+        "a": "tous",
+        "alts": []
+      },
+      {
+        "slot": "s|0",
+        "f": "sense",
+        "s": "___ savent que la réunion commence à neuf heures.",
+        "en": "Everyone knows that the meeting starts at nine o'clock.",
+        "a": "Tous",
+        "alts": []
+      }
+    ]
+  },
+  {
+    "id": 5482,
+    "qs": [
+      {
+        "slot": "s|0",
+        "f": "sense",
+        "s": "Le matin, elle mange souvent un sandwich au ___.",
+        "a": "jambon",
+        "en": "In the morning, she often eats a ham sandwich.",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "s|0",
+        "f": "sense",
+        "s": "Peux-tu me couper deux tranches de ___ pour le déjeuner ?",
+        "a": "jambon",
+        "en": "Can you cut me two slices of ham for lunch?",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "gender",
+        "f": "gender",
+        "s": "Au marché, j'ai acheté ___ jambon pour ce soir.",
+        "a": "du",
+        "en": "At the market, I bought some ham for tonight.",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "gender",
+        "f": "gender",
+        "s": "Pour le réveillon, ils ont acheté ___ jambon entier.",
+        "a": "un",
+        "en": "For the New Year's Eve dinner, they bought a whole ham.",
+        "alts": [],
+        "form": ""
+      }
+    ]
+  },
+  {
+    "id": 5483,
+    "qs": [
+      {
+        "slot": "s|0",
+        "f": "sense",
+        "s": "Après cinq ans de recherche, elle a enfin obtenu son ___ en physique.",
+        "a": "doctorat",
+        "en": "After five years of research, she finally earned her doctorate in physics.",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "s|0",
+        "f": "sense",
+        "s": "Il prépare actuellement un ___ en histoire à l'université de Paris.",
+        "a": "doctorat",
+        "en": "He is currently working on a doctorate in history at the University of Paris.",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "gender",
+        "f": "gender",
+        "s": "___ doctorat qu'elle prépare porte sur l'intelligence artificielle.",
+        "a": "Le",
+        "en": "The doctorate she is preparing focuses on artificial intelligence.",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "gender",
+        "f": "gender",
+        "s": "Il rêve de décrocher ___ doctorat en économie.",
+        "a": "un",
+        "en": "He dreams of earning a doctorate in economics.",
+        "alts": [],
+        "form": ""
+      }
+    ]
+  }
+]

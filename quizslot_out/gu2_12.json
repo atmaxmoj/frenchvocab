@@ -1,0 +1,719 @@
+[
+  {
+    "id": 3237,
+    "qs": [
+      {
+        "slot": "s|0",
+        "f": "sense",
+        "s": "Il a regardé son fils recevoir le diplôme avec une ___ immense dans le cœur.",
+        "a": "fierté",
+        "en": "He watched his son receive the diploma with an immense pride (pride in someone's achievement) in his heart.",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "s|0",
+        "f": "sense",
+        "s": "La ___ qu'elle ressentait en terminant ce marathon était indescriptible.",
+        "a": "fierté",
+        "en": "The pride she felt upon finishing that marathon was indescribable.",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "s|1",
+        "f": "sense",
+        "s": "Sa ___ l'empêche de demander de l'aide, même quand il en a vraiment besoin.",
+        "a": "fierté",
+        "en": "His pride (stubborn pride) prevents him from asking for help, even when he really needs it.",
+        "alts": ["orgueil"],
+        "form": ""
+      },
+      {
+        "slot": "s|1",
+        "f": "sense",
+        "s": "Par ___, il a refusé de s'excuser, et l'amitié s'est brisée.",
+        "a": "fierté",
+        "en": "Out of pride (stubborn pride), he refused to apologize, and the friendship fell apart.",
+        "alts": ["orgueil"],
+        "form": ""
+      },
+      {
+        "slot": "gender",
+        "f": "gender",
+        "s": "C'est ___ fierté de tout un peuple.",
+        "a": "la",
+        "en": "It is the pride of an entire people.",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "gender",
+        "f": "gender",
+        "s": "Elle a ressenti ___ fierté immense en entendant son nom annoncé.",
+        "a": "une",
+        "en": "She felt an immense pride upon hearing her name announced.",
+        "alts": [],
+        "form": ""
+      }
+    ]
+  },
+  {
+    "id": 3238,
+    "qs": [
+      {
+        "slot": "s|0",
+        "f": "sense",
+        "s": "Cet ___ du roman décrit la rencontre entre les deux héros.",
+        "a": "épisode",
+        "en": "This episode of the novel describes the meeting between the two heroes.",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "s|0",
+        "f": "sense",
+        "s": "L'auteur a consacré un chapitre entier à cet ___ clé de l'intrigue.",
+        "a": "épisode",
+        "en": "The author devoted an entire chapter to this key episode of the plot.",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "s|1",
+        "f": "sense",
+        "s": "Ce voyage en Italie reste un ___ mémorable de ma jeunesse.",
+        "a": "épisode",
+        "en": "That trip to Italy remains a memorable episode of my youth.",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "s|1",
+        "f": "sense",
+        "s": "La guerre a été marquée par un ___ tragique que personne n'a oublié.",
+        "a": "épisode",
+        "en": "The war was marked by a tragic episode that no one has forgotten.",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "s|2",
+        "f": "sense",
+        "s": "J'ai regardé le dernier ___ de cette série hier soir.",
+        "a": "épisode",
+        "en": "I watched the last episode of this series last night.",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "s|2",
+        "f": "sense",
+        "s": "Le prochain ___ de la saison sera diffusé vendredi.",
+        "a": "épisode",
+        "en": "The next episode of the season will be broadcast on Friday.",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "gender",
+        "f": "gender",
+        "s": "Je n'ai pas vu ___ épisode de cette émission.",
+        "a": "un",
+        "en": "I haven't seen a single episode of this show.",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "gender",
+        "f": "gender",
+        "s": "___ épisode final de la série a surpris tout le monde.",
+        "a": "Le",
+        "en": "The final episode of the series surprised everyone.",
+        "alts": [],
+        "form": ""
+      }
+    ]
+  },
+  {
+    "id": 3239,
+    "qs": [
+      {
+        "slot": "t|Présent|0",
+        "f": "tense",
+        "s": "Je ___ le ruban de la boîte avant de l'ouvrir.",
+        "a": "détache",
+        "en": "I untie the ribbon from the box before opening it.",
+        "alts": [],
+        "form": "Présent"
+      },
+      {
+        "slot": "t|Présent|0",
+        "f": "tense",
+        "s": "Le mécanicien ___ la pièce usée du moteur.",
+        "a": "détache",
+        "en": "The mechanic detaches the worn part from the engine.",
+        "alts": [],
+        "form": "Présent"
+      },
+      {
+        "slot": "t|Présent|1",
+        "f": "tense",
+        "s": "Tu ___ les feuilles du cahier trop vite.",
+        "a": "détaches",
+        "en": "You tear off the pages from the notebook too fast.",
+        "alts": [],
+        "form": "Présent"
+      },
+      {
+        "slot": "t|Présent|1",
+        "f": "tense",
+        "s": "Pourquoi tu ___ l'étiquette de ta veste ?",
+        "a": "détaches",
+        "en": "Why do you remove the label from your jacket?",
+        "alts": [],
+        "form": "Présent"
+      },
+      {
+        "slot": "t|Présent|2",
+        "f": "tense",
+        "s": "Nous ___ les wagons en queue de train.",
+        "a": "détachons",
+        "en": "We detach the carriages at the back of the train.",
+        "alts": [],
+        "form": "Présent"
+      },
+      {
+        "slot": "t|Présent|2",
+        "f": "tense",
+        "s": "Nous ___ soigneusement les câbles avant de démonter l'appareil.",
+        "a": "détachons",
+        "en": "We carefully detach the cables before dismantling the device.",
+        "alts": [],
+        "form": "Présent"
+      },
+      {
+        "slot": "t|Présent|3",
+        "f": "tense",
+        "s": "Vous ___ les cordons un par un.",
+        "a": "détachez",
+        "en": "You untie the strings one by one.",
+        "alts": [],
+        "form": "Présent"
+      },
+      {
+        "slot": "t|Présent|3",
+        "f": "tense",
+        "s": "Est-ce que vous ___ les affiches du mur chaque soir ?",
+        "a": "détachez",
+        "en": "Do you remove the posters from the wall every evening?",
+        "alts": [],
+        "form": "Présent"
+      },
+      {
+        "slot": "t|Présent|4",
+        "f": "tense",
+        "s": "Les enfants ___ les autocollants de leurs cahiers.",
+        "a": "détachent",
+        "en": "The children peel the stickers off their notebooks.",
+        "alts": [],
+        "form": "Présent"
+      },
+      {
+        "slot": "t|Présent|4",
+        "f": "tense",
+        "s": "Les techniciens ___ les panneaux avant la rénovation.",
+        "a": "détachent",
+        "en": "The technicians remove the panels before the renovation.",
+        "alts": [],
+        "form": "Présent"
+      },
+      {
+        "slot": "t|Passé composé|0",
+        "f": "tense",
+        "s": "J'___ la corde qui retenait le bateau.",
+        "a": "ai détaché",
+        "en": "I untied the rope that was holding the boat.",
+        "alts": [],
+        "form": "Passé composé"
+      },
+      {
+        "slot": "t|Passé composé|0",
+        "f": "tense",
+        "s": "Ce matin, j'___ l'étiquette de prix avant d'offrir le cadeau.",
+        "a": "ai détaché",
+        "en": "This morning, I removed the price tag before giving the gift.",
+        "alts": [],
+        "form": "Passé composé"
+      },
+      {
+        "slot": "t|Passé composé|1",
+        "f": "tense",
+        "s": "Tu ___ la remorque avant de garer la voiture.",
+        "a": "as détaché",
+        "en": "You detached the trailer before parking the car.",
+        "alts": [],
+        "form": "Passé composé"
+      },
+      {
+        "slot": "t|Passé composé|1",
+        "f": "tense",
+        "s": "Est-ce que tu ___ le chien de sa laisse ?",
+        "a": "as détaché",
+        "en": "Did you unhook the dog from its leash?",
+        "alts": [],
+        "form": "Passé composé"
+      },
+      {
+        "slot": "t|Passé composé|2",
+        "f": "tense",
+        "s": "Le chirurgien ___ le tissu abîmé avec précision.",
+        "a": "a détaché",
+        "en": "The surgeon detached the damaged tissue with precision.",
+        "alts": [],
+        "form": "Passé composé"
+      },
+      {
+        "slot": "t|Passé composé|2",
+        "f": "tense",
+        "s": "Elle ___ le badge de son manteau avant de le laver.",
+        "a": "a détaché",
+        "en": "She removed the badge from her coat before washing it.",
+        "alts": [],
+        "form": "Passé composé"
+      },
+      {
+        "slot": "t|Passé composé|3",
+        "f": "tense",
+        "s": "Nous ___ les câbles de l'ancienne installation électrique.",
+        "a": "avons détaché",
+        "en": "We detached the cables from the old electrical installation.",
+        "alts": [],
+        "form": "Passé composé"
+      },
+      {
+        "slot": "t|Passé composé|3",
+        "f": "tense",
+        "s": "Hier, nous ___ la bâche qui couvrait la terrasse.",
+        "a": "avons détaché",
+        "en": "Yesterday, we removed the tarpaulin covering the terrace.",
+        "alts": [],
+        "form": "Passé composé"
+      },
+      {
+        "slot": "t|Passé composé|4",
+        "f": "tense",
+        "s": "Vous ___ les affiches des murs à la fin de l'exposition.",
+        "a": "avez détaché",
+        "en": "You removed the posters from the walls at the end of the exhibition.",
+        "alts": [],
+        "form": "Passé composé"
+      },
+      {
+        "slot": "t|Passé composé|4",
+        "f": "tense",
+        "s": "Vous ___ les wagons supplémentaires avant le départ ?",
+        "a": "avez détaché",
+        "en": "Did you detach the extra carriages before departure?",
+        "alts": [],
+        "form": "Passé composé"
+      },
+      {
+        "slot": "t|Passé composé|5",
+        "f": "tense",
+        "s": "Les ouvriers ___ les panneaux solaires pour les remplacer.",
+        "a": "ont détaché",
+        "en": "The workers detached the solar panels to replace them.",
+        "alts": [],
+        "form": "Passé composé"
+      },
+      {
+        "slot": "t|Passé composé|5",
+        "f": "tense",
+        "s": "Les enfants ___ leurs dossards après la course.",
+        "a": "ont détaché",
+        "en": "The children removed their bibs after the race.",
+        "alts": [],
+        "form": "Passé composé"
+      },
+      {
+        "slot": "t|Imparfait|0",
+        "f": "tense",
+        "s": "Quand j'étais petit, je ___ toujours les étiquettes de mes jouets.",
+        "a": "détachais",
+        "en": "When I was little, I always removed the labels from my toys.",
+        "alts": [],
+        "form": "Imparfait"
+      },
+      {
+        "slot": "t|Imparfait|0",
+        "f": "tense",
+        "s": "Tu ___ soigneusement les fils avant de réparer le circuit.",
+        "a": "détachais",
+        "en": "You carefully detached the wires before repairing the circuit.",
+        "alts": [],
+        "form": "Imparfait"
+      },
+      {
+        "slot": "t|Imparfait|1",
+        "f": "tense",
+        "s": "Le berger ___ ses chèvres de l'enclos chaque matin.",
+        "a": "détachait",
+        "en": "The shepherd untied his goats from the pen every morning.",
+        "alts": [],
+        "form": "Imparfait"
+      },
+      {
+        "slot": "t|Imparfait|1",
+        "f": "tense",
+        "s": "On ___ les wagons supplémentaires à chaque arrêt.",
+        "a": "détachait",
+        "en": "They detached the extra carriages at each stop.",
+        "alts": [],
+        "form": "Imparfait"
+      },
+      {
+        "slot": "t|Imparfait|2",
+        "f": "tense",
+        "s": "Nous ___ les bâches du camion à chaque livraison.",
+        "a": "détachions",
+        "en": "We removed the tarpaulins from the truck at every delivery.",
+        "alts": [],
+        "form": "Imparfait"
+      },
+      {
+        "slot": "t|Imparfait|2",
+        "f": "tense",
+        "s": "Pendant les travaux, nous ___ les prises murales une à une.",
+        "a": "détachions",
+        "en": "During the renovations, we detached the wall sockets one by one.",
+        "alts": [],
+        "form": "Imparfait"
+      },
+      {
+        "slot": "t|Imparfait|3",
+        "f": "tense",
+        "s": "Vous ___ les cordons de vos tabliers avant de sortir de l'atelier.",
+        "a": "détachiez",
+        "en": "You untied the strings of your aprons before leaving the workshop.",
+        "alts": [],
+        "form": "Imparfait"
+      },
+      {
+        "slot": "t|Imparfait|3",
+        "f": "tense",
+        "s": "Est-ce que vous ___ les laisses des chiens après la promenade ?",
+        "a": "détachiez",
+        "en": "Did you use to unhook the dogs' leashes after the walk?",
+        "alts": [],
+        "form": "Imparfait"
+      },
+      {
+        "slot": "t|Imparfait|4",
+        "f": "tense",
+        "s": "Les employés ___ les affiches en fin de journée.",
+        "a": "détachaient",
+        "en": "The employees removed the posters at the end of the day.",
+        "alts": [],
+        "form": "Imparfait"
+      },
+      {
+        "slot": "t|Imparfait|4",
+        "f": "tense",
+        "s": "Les marins ___ les voiles quand le vent tombait.",
+        "a": "détachaient",
+        "en": "The sailors detached the sails when the wind dropped.",
+        "alts": [],
+        "form": "Imparfait"
+      },
+      {
+        "slot": "t|Futur|0",
+        "f": "tense",
+        "s": "Demain matin, je ___ les guirlandes du sapin.",
+        "a": "détacherai",
+        "en": "Tomorrow morning, I will remove the tinsel from the Christmas tree.",
+        "alts": [],
+        "form": "Futur"
+      },
+      {
+        "slot": "t|Futur|0",
+        "f": "tense",
+        "s": "Je ___ la remorque dès que nous arriverons à destination.",
+        "a": "détacherai",
+        "en": "I will detach the trailer as soon as we arrive at the destination.",
+        "alts": [],
+        "form": "Futur"
+      },
+      {
+        "slot": "t|Futur|1",
+        "f": "tense",
+        "s": "Tu ___ l'étiquette avant d'offrir le livre.",
+        "a": "détacheras",
+        "en": "You will remove the label before giving the book as a gift.",
+        "alts": [],
+        "form": "Futur"
+      },
+      {
+        "slot": "t|Futur|1",
+        "f": "tense",
+        "s": "Tu ___ le câble de l'écran quand tu auras fini.",
+        "a": "détacheras",
+        "en": "You will detach the screen cable when you are done.",
+        "alts": [],
+        "form": "Futur"
+      },
+      {
+        "slot": "t|Futur|2",
+        "f": "tense",
+        "s": "Le technicien ___ l'antenne du toit la semaine prochaine.",
+        "a": "détachera",
+        "en": "The technician will remove the antenna from the roof next week.",
+        "alts": [],
+        "form": "Futur"
+      },
+      {
+        "slot": "t|Futur|2",
+        "f": "tense",
+        "s": "Elle ___ le chien dès que la pluie s'arrêtera.",
+        "a": "détachera",
+        "en": "She will untie the dog as soon as the rain stops.",
+        "alts": [],
+        "form": "Futur"
+      },
+      {
+        "slot": "t|Futur|3",
+        "f": "tense",
+        "s": "Nous ___ les ballons de la grille après la fête.",
+        "a": "détacherons",
+        "en": "We will remove the balloons from the gate after the party.",
+        "alts": [],
+        "form": "Futur"
+      },
+      {
+        "slot": "t|Futur|3",
+        "f": "tense",
+        "s": "Nous ___ les pièces une à une pour les nettoyer.",
+        "a": "détacherons",
+        "en": "We will detach the parts one by one to clean them.",
+        "alts": [],
+        "form": "Futur"
+      },
+      {
+        "slot": "t|Futur|4",
+        "f": "tense",
+        "s": "Vous ___ les cordons de sécurité avant de monter sur scène.",
+        "a": "détacherez",
+        "en": "You will remove the safety ropes before going on stage.",
+        "alts": [],
+        "form": "Futur"
+      },
+      {
+        "slot": "t|Futur|4",
+        "f": "tense",
+        "s": "Vous ___ les plaques d'immatriculation quand la voiture sera vendue.",
+        "a": "détacherez",
+        "en": "You will remove the number plates when the car is sold.",
+        "alts": [],
+        "form": "Futur"
+      },
+      {
+        "slot": "t|Futur|5",
+        "f": "tense",
+        "s": "Les ouvriers ___ les échafaudages quand les travaux seront terminés.",
+        "a": "détacheront",
+        "en": "The workers will remove the scaffolding when the work is finished.",
+        "alts": [],
+        "form": "Futur"
+      },
+      {
+        "slot": "t|Futur|5",
+        "f": "tense",
+        "s": "Les enfants ___ leurs brassards dès qu'ils sauront nager.",
+        "a": "détacheront",
+        "en": "The children will remove their armbands as soon as they can swim.",
+        "alts": [],
+        "form": "Futur"
+      },
+      {
+        "slot": "t|Conditionnel|0",
+        "f": "tense",
+        "s": "Si tu me le demandais, je ___ les étiquettes pour toi.",
+        "a": "détacherais",
+        "en": "If you asked me, I would remove the labels for you.",
+        "alts": [],
+        "form": "Conditionnel"
+      },
+      {
+        "slot": "t|Conditionnel|0",
+        "f": "tense",
+        "s": "Si tu avais une paire de ciseaux, tu ___ le badge plus facilement.",
+        "a": "détacherais",
+        "en": "If you had a pair of scissors, you would remove the badge more easily.",
+        "alts": [],
+        "form": "Conditionnel"
+      },
+      {
+        "slot": "t|Conditionnel|1",
+        "f": "tense",
+        "s": "Si le moteur chauffait, le mécanicien ___ le câble immédiatement.",
+        "a": "détacherait",
+        "en": "If the engine overheated, the mechanic would detach the cable immediately.",
+        "alts": [],
+        "form": "Conditionnel"
+      },
+      {
+        "slot": "t|Conditionnel|1",
+        "f": "tense",
+        "s": "Elle ___ volontiers l'étiquette si elle avait des ongles plus longs.",
+        "a": "détacherait",
+        "en": "She would gladly remove the label if she had longer nails.",
+        "alts": [],
+        "form": "Conditionnel"
+      },
+      {
+        "slot": "t|Conditionnel|2",
+        "f": "tense",
+        "s": "Si nous avions le bon outil, nous ___ la pièce en quelques secondes.",
+        "a": "détacherions",
+        "en": "If we had the right tool, we would detach the part in a few seconds.",
+        "alts": [],
+        "form": "Conditionnel"
+      },
+      {
+        "slot": "t|Conditionnel|2",
+        "f": "tense",
+        "s": "Dans ce cas, nous ___ les panneaux avant l'arrivée des invités.",
+        "a": "détacherions",
+        "en": "In that case, we would remove the panels before the guests arrived.",
+        "alts": [],
+        "form": "Conditionnel"
+      },
+      {
+        "slot": "t|Conditionnel|3",
+        "f": "tense",
+        "s": "Si vous disposiez de plus de temps, vous ___ les câbles avec soin.",
+        "a": "détacheriez",
+        "en": "If you had more time, you would detach the cables carefully.",
+        "alts": [],
+        "form": "Conditionnel"
+      },
+      {
+        "slot": "t|Conditionnel|3",
+        "f": "tense",
+        "s": "Vous ___ la remorque si la route le permettait.",
+        "a": "détacheriez",
+        "en": "You would detach the trailer if the road allowed it.",
+        "alts": [],
+        "form": "Conditionnel"
+      },
+      {
+        "slot": "t|Conditionnel|4",
+        "f": "tense",
+        "s": "Si les ouvriers avaient les outils nécessaires, ils ___ les panneaux plus vite.",
+        "a": "détacheraient",
+        "en": "If the workers had the necessary tools, they would remove the panels faster.",
+        "alts": [],
+        "form": "Conditionnel"
+      },
+      {
+        "slot": "t|Conditionnel|4",
+        "f": "tense",
+        "s": "Elles ___ les fils électriques si elles connaissaient la procédure.",
+        "a": "détacheraient",
+        "en": "They would detach the electrical wires if they knew the procedure.",
+        "alts": [],
+        "form": "Conditionnel"
+      },
+      {
+        "slot": "t|Subjonctif",
+        "f": "subj",
+        "s": "Il faut que tu ___ le chien avant d'ouvrir la barrière.",
+        "a": "détaches",
+        "en": "You must untie the dog before opening the gate.",
+        "alts": [],
+        "form": "Subjonctif présent"
+      },
+      {
+        "slot": "t|Subjonctif",
+        "f": "subj",
+        "s": "Je veux qu'elle ___ les câbles avant de commencer la réparation.",
+        "a": "détache",
+        "en": "I want her to detach the cables before starting the repair.",
+        "alts": [],
+        "form": "Subjonctif présent"
+      },
+      {
+        "slot": "s|0",
+        "f": "sense",
+        "s": "Elle ___ le ruban qui fermait le paquet.",
+        "a": "détache",
+        "en": "She unties the ribbon that closes the package.",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "s|0",
+        "f": "sense",
+        "s": "Il ___ les lacets de ses chaussures d'un geste rapide.",
+        "a": "détache",
+        "en": "He unties his shoelaces with a quick gesture.",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "s|1",
+        "f": "sense",
+        "s": "Le technicien ___ le module défectueux du reste du système.",
+        "a": "détache",
+        "en": "The technician separates the faulty module from the rest of the system.",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "s|1",
+        "f": "sense",
+        "s": "On ___ la remorque du camion pour faciliter les manœuvres.",
+        "a": "détache",
+        "en": "One detaches the trailer from the truck to make manoeuvring easier.",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "s|2",
+        "f": "sense",
+        "s": "Elle ___ la tache de graisse de sa chemise avec du solvant.",
+        "a": "détache",
+        "en": "She removes the grease stain from her shirt with solvent.",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "s|2",
+        "f": "sense",
+        "s": "Ce produit ___ les résidus collés au fond de la casserole.",
+        "a": "détache",
+        "en": "This product removes the residue stuck to the bottom of the pan.",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "s|3",
+        "f": "sense",
+        "s": "La pratique de la méditation le ___ peu à peu de ses soucis quotidiens.",
+        "a": "détache",
+        "en": "The practice of meditation gradually makes him detached from his daily worries.",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "s|3",
+        "f": "sense",
+        "s": "Avec l'âge, elle se ___ de l'opinion des autres.",
+        "a": "détache",
+        "en": "With age, she becomes detached from other people's opinions.",
+        "alts": [],
+        "form": ""
+      }
+    ]
+  }
+]

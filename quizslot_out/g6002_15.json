@@ -1,0 +1,653 @@
+[
+  {
+    "id": 5559,
+    "qs": [
+      {
+        "slot": "s|0",
+        "f": "sense",
+        "s": "Elle a un ___ pointu qui donne du caractère à son visage.",
+        "a": "menton",
+        "en": "She has a pointed chin that gives her face character.",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "s|0",
+        "f": "sense",
+        "s": "Le boxeur a reçu un coup violent au ___ .",
+        "a": "menton",
+        "en": "The boxer received a violent blow to the chin.",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "gender",
+        "f": "gender",
+        "s": "Le médecin a examiné ___ menton du patient après la chute.",
+        "a": "le",
+        "en": "The doctor examined the patient's chin after the fall.",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "gender",
+        "f": "gender",
+        "s": "Ce bébé a ___ petit menton bien rond.",
+        "a": "un",
+        "en": "This baby has a small, round chin.",
+        "alts": [],
+        "form": ""
+      }
+    ]
+  },
+  {
+    "id": 5560,
+    "qs": [
+      {
+        "slot": "t|Présent|0",
+        "f": "tense",
+        "form": "Présent",
+        "s": "J' ___ un ami chez moi ce week-end.",
+        "a": "héberge",
+        "en": "I am hosting a friend at my place this weekend.",
+        "alts": []
+      },
+      {
+        "slot": "t|Présent|0",
+        "f": "tense",
+        "form": "Présent",
+        "s": "Mon oncle ___ des étudiants étrangers chaque été.",
+        "a": "héberge",
+        "en": "My uncle hosts foreign students every summer.",
+        "alts": []
+      },
+      {
+        "slot": "t|Présent|1",
+        "f": "tense",
+        "form": "Présent",
+        "s": "Tu ___ ton cousin pendant les vacances.",
+        "a": "héberges",
+        "en": "You host your cousin during the holidays.",
+        "alts": []
+      },
+      {
+        "slot": "t|Présent|1",
+        "f": "tense",
+        "form": "Présent",
+        "s": "Est-ce que tu ___ encore ce site sur ton serveur ?",
+        "a": "héberges",
+        "en": "Do you still host this site on your server?",
+        "alts": []
+      },
+      {
+        "slot": "t|Présent|2",
+        "f": "tense",
+        "form": "Présent",
+        "s": "Nous ___ deux réfugiés dans notre appartement.",
+        "a": "hébergeons",
+        "en": "We are hosting two refugees in our apartment.",
+        "alts": []
+      },
+      {
+        "slot": "t|Présent|2",
+        "f": "tense",
+        "form": "Présent",
+        "s": "Nous ___ notre site web sur un serveur en France.",
+        "a": "hébergeons",
+        "en": "We host our website on a server in France.",
+        "alts": []
+      },
+      {
+        "slot": "t|Présent|3",
+        "f": "tense",
+        "form": "Présent",
+        "s": "Vous ___ des voyageurs dans votre grande maison.",
+        "a": "hébergez",
+        "en": "You host travelers in your big house.",
+        "alts": []
+      },
+      {
+        "slot": "t|Présent|3",
+        "f": "tense",
+        "form": "Présent",
+        "s": "Vous ___ vos données sur le cloud.",
+        "a": "hébergez",
+        "en": "You host your data on the cloud.",
+        "alts": []
+      },
+      {
+        "slot": "t|Présent|4",
+        "f": "tense",
+        "form": "Présent",
+        "s": "Mes parents ___ souvent des amis de passage.",
+        "a": "hébergent",
+        "en": "My parents often host friends passing through.",
+        "alts": []
+      },
+      {
+        "slot": "t|Présent|4",
+        "f": "tense",
+        "form": "Présent",
+        "s": "Ces entreprises ___ des milliers de sites internet.",
+        "a": "hébergent",
+        "en": "These companies host thousands of websites.",
+        "alts": []
+      },
+      {
+        "slot": "t|Passé composé|0",
+        "f": "tense",
+        "form": "Passé composé",
+        "s": "L'été dernier, j' ___ un étudiant japonais pendant un mois.",
+        "a": "ai hébergé",
+        "en": "Last summer, I hosted a Japanese student for a month.",
+        "alts": []
+      },
+      {
+        "slot": "t|Passé composé|0",
+        "f": "tense",
+        "form": "Passé composé",
+        "s": "Hier soir, j' ___ mon meilleur ami qui avait raté son train.",
+        "a": "ai hébergé",
+        "en": "Last night, I put up my best friend who had missed his train.",
+        "alts": []
+      },
+      {
+        "slot": "t|Passé composé|1",
+        "f": "tense",
+        "form": "Passé composé",
+        "s": "Tu ___ ta sœur chez toi le week-end dernier.",
+        "a": "as hébergé",
+        "en": "You hosted your sister at your place last weekend.",
+        "alts": []
+      },
+      {
+        "slot": "t|Passé composé|1",
+        "f": "tense",
+        "form": "Passé composé",
+        "s": "Tu ___ ce site sur un nouveau serveur hier.",
+        "a": "as hébergé",
+        "en": "You hosted this site on a new server yesterday.",
+        "alts": []
+      },
+      {
+        "slot": "t|Passé composé|2",
+        "f": "tense",
+        "form": "Passé composé",
+        "s": "Elle ___ une famille de réfugiés pendant trois semaines.",
+        "a": "a hébergé",
+        "en": "She hosted a refugee family for three weeks.",
+        "alts": []
+      },
+      {
+        "slot": "t|Passé composé|2",
+        "f": "tense",
+        "form": "Passé composé",
+        "s": "Ce festival ___ des artistes venus du monde entier l'an dernier.",
+        "a": "a hébergé",
+        "en": "This festival hosted artists from around the world last year.",
+        "alts": []
+      },
+      {
+        "slot": "t|Passé composé|3",
+        "f": "tense",
+        "form": "Passé composé",
+        "s": "Nous ___ nos cousins pendant les fêtes de Noël.",
+        "a": "avons hébergé",
+        "en": "We hosted our cousins during the Christmas holidays.",
+        "alts": []
+      },
+      {
+        "slot": "t|Passé composé|3",
+        "f": "tense",
+        "form": "Passé composé",
+        "s": "Nous ___ ce projet sur nos propres serveurs l'année dernière.",
+        "a": "avons hébergé",
+        "en": "We hosted this project on our own servers last year.",
+        "alts": []
+      },
+      {
+        "slot": "t|Passé composé|4",
+        "f": "tense",
+        "form": "Passé composé",
+        "s": "Vous ___ des sans-abri pendant la vague de froid.",
+        "a": "avez hébergé",
+        "en": "You put up homeless people during the cold snap.",
+        "alts": []
+      },
+      {
+        "slot": "t|Passé composé|4",
+        "f": "tense",
+        "form": "Passé composé",
+        "s": "Vous ___ notre boutique en ligne pendant six mois.",
+        "a": "avez hébergé",
+        "en": "You hosted our online shop for six months.",
+        "alts": []
+      },
+      {
+        "slot": "t|Passé composé|5",
+        "f": "tense",
+        "form": "Passé composé",
+        "s": "Mes voisins ___ des sinistrés après l'inondation.",
+        "a": "ont hébergé",
+        "en": "My neighbors put up flood victims after the flood.",
+        "alts": []
+      },
+      {
+        "slot": "t|Passé composé|5",
+        "f": "tense",
+        "form": "Passé composé",
+        "s": "Ils ___ le site pendant deux ans avant de le fermer.",
+        "a": "ont hébergé",
+        "en": "They hosted the site for two years before shutting it down.",
+        "alts": []
+      },
+      {
+        "slot": "t|Imparfait|0",
+        "f": "tense",
+        "form": "Imparfait",
+        "s": "Quand j'étais étudiant, j' ___ souvent des amis sans le sou.",
+        "a": "hébergeais",
+        "en": "When I was a student, I often put up broke friends.",
+        "alts": []
+      },
+      {
+        "slot": "t|Imparfait|0",
+        "f": "tense",
+        "form": "Imparfait",
+        "s": "À cette époque, tu ___ toujours des voyageurs de passage.",
+        "a": "hébergeais",
+        "en": "Back then, you always hosted passing travelers.",
+        "alts": []
+      },
+      {
+        "slot": "t|Imparfait|1",
+        "f": "tense",
+        "form": "Imparfait",
+        "s": "Mon grand-père ___ des artistes dans sa grande maison.",
+        "a": "hébergeait",
+        "en": "My grandfather used to host artists in his big house.",
+        "alts": []
+      },
+      {
+        "slot": "t|Imparfait|1",
+        "f": "tense",
+        "form": "Imparfait",
+        "s": "Ce vieux serveur ___ tous nos sites avant la panne.",
+        "a": "hébergeait",
+        "en": "That old server used to host all our sites before the outage.",
+        "alts": []
+      },
+      {
+        "slot": "t|Imparfait|2",
+        "f": "tense",
+        "form": "Imparfait",
+        "s": "Chaque été, nous ___ des enfants défavorisés.",
+        "a": "hébergions",
+        "en": "Every summer, we used to host underprivileged children.",
+        "alts": []
+      },
+      {
+        "slot": "t|Imparfait|2",
+        "f": "tense",
+        "form": "Imparfait",
+        "s": "À l'époque, nous ___ ce blog gratuitement.",
+        "a": "hébergions",
+        "en": "Back then, we used to host this blog for free.",
+        "alts": []
+      },
+      {
+        "slot": "t|Imparfait|3",
+        "f": "tense",
+        "form": "Imparfait",
+        "s": "Vous ___ régulièrement des artistes en résidence.",
+        "a": "hébergiez",
+        "en": "You regularly used to host artists in residence.",
+        "alts": []
+      },
+      {
+        "slot": "t|Imparfait|3",
+        "f": "tense",
+        "form": "Imparfait",
+        "s": "Vous ___ nos fichiers sur vos propres machines à l'époque.",
+        "a": "hébergiez",
+        "en": "You used to host our files on your own machines back then.",
+        "alts": []
+      },
+      {
+        "slot": "t|Imparfait|4",
+        "f": "tense",
+        "form": "Imparfait",
+        "s": "Mes parents ___ des cousins éloignés chaque été.",
+        "a": "hébergeaient",
+        "en": "My parents used to host distant cousins every summer.",
+        "alts": []
+      },
+      {
+        "slot": "t|Imparfait|4",
+        "f": "tense",
+        "form": "Imparfait",
+        "s": "Ces serveurs ___ des centaines de sites avant la migration.",
+        "a": "hébergeaient",
+        "en": "Those servers used to host hundreds of sites before the migration.",
+        "alts": []
+      },
+      {
+        "slot": "t|Futur|0",
+        "f": "tense",
+        "form": "Futur",
+        "s": "Demain, j' ___ mon frère pour la nuit.",
+        "a": "hébergerai",
+        "en": "Tomorrow, I will put up my brother for the night.",
+        "alts": []
+      },
+      {
+        "slot": "t|Futur|0",
+        "f": "tense",
+        "form": "Futur",
+        "s": "L'an prochain, j' ___ un étudiant étranger chez moi.",
+        "a": "hébergerai",
+        "en": "Next year, I will host a foreign student at my place.",
+        "alts": []
+      },
+      {
+        "slot": "t|Futur|1",
+        "f": "tense",
+        "form": "Futur",
+        "s": "Tu ___ ton ami quand il viendra en ville.",
+        "a": "hébergeras",
+        "en": "You will host your friend when he comes to town.",
+        "alts": []
+      },
+      {
+        "slot": "t|Futur|1",
+        "f": "tense",
+        "form": "Futur",
+        "s": "Tu ___ ce site sur ton nouveau serveur dès demain.",
+        "a": "hébergeras",
+        "en": "You will host this site on your new server starting tomorrow.",
+        "alts": []
+      },
+      {
+        "slot": "t|Futur|2",
+        "f": "tense",
+        "form": "Futur",
+        "s": "Ma tante ___ toute la famille pour le mariage.",
+        "a": "hébergera",
+        "en": "My aunt will host the whole family for the wedding.",
+        "alts": []
+      },
+      {
+        "slot": "t|Futur|2",
+        "f": "tense",
+        "form": "Futur",
+        "s": "Cette entreprise ___ nos données à partir de janvier.",
+        "a": "hébergera",
+        "en": "This company will host our data starting in January.",
+        "alts": []
+      },
+      {
+        "slot": "t|Futur|3",
+        "f": "tense",
+        "form": "Futur",
+        "s": "Nous ___ les invités dans notre nouvelle maison.",
+        "a": "hébergerons",
+        "en": "We will host the guests in our new house.",
+        "alts": []
+      },
+      {
+        "slot": "t|Futur|3",
+        "f": "tense",
+        "form": "Futur",
+        "s": "Nous ___ le nouveau site sur ce serveur.",
+        "a": "hébergerons",
+        "en": "We will host the new site on this server.",
+        "alts": []
+      },
+      {
+        "slot": "t|Futur|4",
+        "f": "tense",
+        "form": "Futur",
+        "s": "Vous ___ les bénévoles pendant tout le festival.",
+        "a": "hébergerez",
+        "en": "You will host the volunteers throughout the whole festival.",
+        "alts": []
+      },
+      {
+        "slot": "t|Futur|4",
+        "f": "tense",
+        "form": "Futur",
+        "s": "Vous ___ notre application sur vos serveurs sécurisés.",
+        "a": "hébergerez",
+        "en": "You will host our application on your secure servers.",
+        "alts": []
+      },
+      {
+        "slot": "t|Futur|5",
+        "f": "tense",
+        "form": "Futur",
+        "s": "Mes cousins ___ les mariés après la cérémonie.",
+        "a": "hébergeront",
+        "en": "My cousins will host the newlyweds after the ceremony.",
+        "alts": []
+      },
+      {
+        "slot": "t|Futur|5",
+        "f": "tense",
+        "form": "Futur",
+        "s": "Ces sociétés ___ les sites web de milliers de clients.",
+        "a": "hébergeront",
+        "en": "These companies will host the websites of thousands of clients.",
+        "alts": []
+      },
+      {
+        "slot": "t|Conditionnel|0",
+        "f": "tense",
+        "form": "Conditionnel",
+        "s": "Si j'avais une grande maison, j' ___ volontiers des voyageurs.",
+        "a": "hébergerais",
+        "en": "If I had a big house, I would gladly host travelers.",
+        "alts": []
+      },
+      {
+        "slot": "t|Conditionnel|0",
+        "f": "tense",
+        "form": "Conditionnel",
+        "s": "Si tu avais de la place, tu ___ ton cousin sans hésiter.",
+        "a": "hébergerais",
+        "en": "If you had room, you would host your cousin without hesitation.",
+        "alts": []
+      },
+      {
+        "slot": "t|Conditionnel|1",
+        "f": "tense",
+        "form": "Conditionnel",
+        "s": "Si elle avait le temps, elle ___ des bénévoles chez elle.",
+        "a": "hébergerait",
+        "en": "If she had the time, she would host volunteers at her place.",
+        "alts": []
+      },
+      {
+        "slot": "t|Conditionnel|1",
+        "f": "tense",
+        "form": "Conditionnel",
+        "s": "Si ce serveur avait plus de capacité, il ___ davantage de sites.",
+        "a": "hébergerait",
+        "en": "If this server had more capacity, it would host more sites.",
+        "alts": []
+      },
+      {
+        "slot": "t|Conditionnel|2",
+        "f": "tense",
+        "form": "Conditionnel",
+        "s": "Si nous avions plus de chambres, nous ___ toute la famille.",
+        "a": "hébergerions",
+        "en": "If we had more rooms, we would host the whole family.",
+        "alts": []
+      },
+      {
+        "slot": "t|Conditionnel|2",
+        "f": "tense",
+        "form": "Conditionnel",
+        "s": "Si nous changions de fournisseur, nous ___ le site ailleurs.",
+        "a": "hébergerions",
+        "en": "If we changed provider, we would host the site elsewhere.",
+        "alts": []
+      },
+      {
+        "slot": "t|Conditionnel|3",
+        "f": "tense",
+        "form": "Conditionnel",
+        "s": "Si vous aviez un studio libre, vous ___ des stagiaires.",
+        "a": "hébergeriez",
+        "en": "If you had a free studio, you would host interns.",
+        "alts": []
+      },
+      {
+        "slot": "t|Conditionnel|3",
+        "f": "tense",
+        "form": "Conditionnel",
+        "s": "Si vous signiez ce contrat, vous ___ notre application.",
+        "a": "hébergeriez",
+        "en": "If you signed this contract, you would host our application.",
+        "alts": []
+      },
+      {
+        "slot": "t|Conditionnel|4",
+        "f": "tense",
+        "form": "Conditionnel",
+        "s": "Si mes parents avaient plus de place, ils ___ mes cousins.",
+        "a": "hébergeraient",
+        "en": "If my parents had more room, they would host my cousins.",
+        "alts": []
+      },
+      {
+        "slot": "t|Conditionnel|4",
+        "f": "tense",
+        "form": "Conditionnel",
+        "s": "Si ces sociétés fusionnaient, elles ___ tous les sites ensemble.",
+        "a": "hébergeraient",
+        "en": "If these companies merged, they would host all the sites together.",
+        "alts": []
+      },
+      {
+        "slot": "t|Subjonctif",
+        "f": "subj",
+        "form": "Subjonctif",
+        "s": "Il faut que tu ___ ton ami pour la nuit.",
+        "a": "héberges",
+        "en": "You need to host your friend for the night.",
+        "alts": []
+      },
+      {
+        "slot": "t|Subjonctif",
+        "f": "subj",
+        "form": "Subjonctif",
+        "s": "Je veux qu'elle ___ les nouveaux arrivants chez elle.",
+        "a": "héberge",
+        "en": "I want her to host the newcomers at her place.",
+        "alts": []
+      },
+      {
+        "slot": "s|0",
+        "f": "sense",
+        "s": "Pendant la tempête, elle a décidé d'___ des voyageurs bloqués.",
+        "a": "héberger",
+        "en": "During the storm, she decided to put up stranded travelers.",
+        "alts": []
+      },
+      {
+        "slot": "s|0",
+        "f": "sense",
+        "s": "Nous pouvons t'___ chez nous ce soir si tu veux.",
+        "a": "héberger",
+        "en": "We can put you up at our place tonight if you want.",
+        "alts": []
+      },
+      {
+        "slot": "s|1",
+        "f": "sense",
+        "s": "Cette société propose d'___ des sites web pour un prix raisonnable.",
+        "a": "héberger",
+        "en": "This company offers to host websites at a reasonable price.",
+        "alts": []
+      },
+      {
+        "slot": "s|1",
+        "f": "sense",
+        "s": "Nous avons choisi ce fournisseur pour ___ notre application en ligne.",
+        "a": "héberger",
+        "en": "We chose this provider to host our online application.",
+        "alts": []
+      }
+    ]
+  },
+  {
+    "id": 5561,
+    "qs": [
+      {
+        "slot": "s|0",
+        "f": "sense",
+        "s": "Le patient ___ demandait à voir sa famille une dernière fois.",
+        "a": "mourant",
+        "en": "The dying patient asked to see his family one last time.",
+        "alts": []
+      },
+      {
+        "slot": "s|0",
+        "f": "sense",
+        "s": "Le vieux chien ___ respirait à peine.",
+        "a": "mourant",
+        "en": "The dying old dog was barely breathing.",
+        "alts": []
+      },
+      {
+        "slot": "g|mp",
+        "f": "agree",
+        "s": "Les blessés ___ appelaient à l'aide sur le champ de bataille.",
+        "a": "mourants",
+        "en": "The dying wounded men were calling for help on the battlefield.",
+        "alts": []
+      },
+      {
+        "slot": "g|mp",
+        "f": "agree",
+        "s": "Les arbres ___ de la forêt n'avaient plus de feuilles.",
+        "a": "mourants",
+        "en": "The dying trees in the forest had no more leaves.",
+        "alts": []
+      },
+      {
+        "slot": "g|f",
+        "f": "agree",
+        "s": "La reine ___ a confié son royaume à son fils.",
+        "a": "mourante",
+        "en": "The dying queen entrusted her kingdom to her son.",
+        "alts": []
+      },
+      {
+        "slot": "g|f",
+        "f": "agree",
+        "s": "La lumière ___ du soleil couchant éclairait la vallée.",
+        "a": "mourante",
+        "en": "The dying light of the setting sun lit up the valley.",
+        "alts": []
+      },
+      {
+        "slot": "g|fp",
+        "f": "agree",
+        "s": "Les fleurs ___ du jardin penchaient vers le sol.",
+        "a": "mourantes",
+        "en": "The dying flowers in the garden drooped toward the ground.",
+        "alts": []
+      },
+      {
+        "slot": "g|fp",
+        "f": "agree",
+        "s": "Les bougies ___ éclairaient à peine la pièce.",
+        "a": "mourantes",
+        "en": "The dying candles barely lit the room.",
+        "alts": []
+      }
+    ]
+  }
+]

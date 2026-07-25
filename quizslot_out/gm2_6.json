@@ -1,0 +1,773 @@
+[
+  {
+    "id": 2019,
+    "qs": [
+      {
+        "slot": "s|0",
+        "f": "sense",
+        "s": "Son collègue a fait une ___ blessante devant tout le monde.",
+        "a": "remarque",
+        "en": "His colleague made a hurtful remark in front of everyone.",
+        "alts": ["commentaire"],
+        "form": ""
+      },
+      {
+        "slot": "s|0",
+        "f": "sense",
+        "s": "Ta ___ m'a vraiment fait réfléchir.",
+        "a": "remarque",
+        "en": "Your remark really made me think.",
+        "alts": ["commentaire"],
+        "form": ""
+      },
+      {
+        "slot": "s|1",
+        "f": "sense",
+        "s": "Le professeur a ajouté une ___ en bas de la page pour préciser le contexte.",
+        "a": "remarque",
+        "en": "The teacher added a note at the bottom of the page to clarify the context.",
+        "alts": ["note", "annotation"],
+        "form": ""
+      },
+      {
+        "slot": "s|1",
+        "f": "sense",
+        "s": "Lisez attentivement les ___ dans la marge avant de rendre votre copie.",
+        "a": "remarques",
+        "en": "Read the notes in the margin carefully before handing in your paper.",
+        "alts": ["annotations", "notes"],
+        "form": ""
+      },
+      {
+        "slot": "s|2",
+        "f": "sense",
+        "s": "Votre ___ est tout à fait juste ; nous devrons revoir ce point.",
+        "a": "remarque",
+        "en": "Your observation is entirely correct; we will need to revisit this point.",
+        "alts": ["observation"],
+        "form": ""
+      },
+      {
+        "slot": "s|2",
+        "f": "sense",
+        "s": "J'ai quelques ___ à formuler sur ce projet avant qu'il soit validé.",
+        "a": "remarques",
+        "en": "I have a few observations to express about this project before it is approved.",
+        "alts": ["observations"],
+        "form": ""
+      },
+      {
+        "slot": "gender",
+        "f": "gender",
+        "s": "Il n'a pas tenu compte de ___ remarque de son collègue.",
+        "a": "la",
+        "en": "He did not take his colleague's remark into account.",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "gender",
+        "f": "gender",
+        "s": "Elle a fait ___ remarque très pertinente lors de la réunion.",
+        "a": "une",
+        "en": "She made a very pertinent remark during the meeting.",
+        "alts": [],
+        "form": ""
+      }
+    ]
+  },
+  {
+    "id": 2020,
+    "qs": [
+      {
+        "slot": "t|Présent|0",
+        "f": "tense",
+        "s": "Je ___ les yeux pour ne pas voir cette scène pénible.",
+        "en": "I look away so as not to see this painful scene.",
+        "a": "détourne",
+        "alts": [],
+        "form": "Présent"
+      },
+      {
+        "slot": "t|Présent|0",
+        "f": "tense",
+        "s": "Le policier ___ la circulation en raison de l'accident.",
+        "en": "The police officer redirects traffic because of the accident.",
+        "a": "détourne",
+        "alts": [],
+        "form": "Présent"
+      },
+      {
+        "slot": "t|Présent|1",
+        "f": "tense",
+        "s": "Tu ___ toujours la conversation quand on parle de tes erreurs.",
+        "en": "You always change the subject when we talk about your mistakes.",
+        "a": "détournes",
+        "alts": [],
+        "form": "Présent"
+      },
+      {
+        "slot": "t|Présent|1",
+        "f": "tense",
+        "s": "Tu ___ mon attention avec cette histoire.",
+        "en": "You are diverting my attention with that story.",
+        "a": "détournes",
+        "alts": [],
+        "form": "Présent"
+      },
+      {
+        "slot": "t|Présent|2",
+        "f": "tense",
+        "s": "Nous ___ les fonds vers un autre projet cette année.",
+        "en": "We are diverting the funds toward another project this year.",
+        "a": "détournons",
+        "alts": [],
+        "form": "Présent"
+      },
+      {
+        "slot": "t|Présent|2",
+        "f": "tense",
+        "s": "Nous ___ la route principale pour éviter les travaux.",
+        "en": "We bypass the main road to avoid construction.",
+        "a": "détournons",
+        "alts": [],
+        "form": "Présent"
+      },
+      {
+        "slot": "t|Présent|3",
+        "f": "tense",
+        "s": "Vous ___ les regards des visiteurs avec cette installation artistique.",
+        "en": "You divert the visitors' gaze with this art installation.",
+        "a": "détournez",
+        "alts": [],
+        "form": "Présent"
+      },
+      {
+        "slot": "t|Présent|3",
+        "f": "tense",
+        "s": "Vous ___ toujours le sujet quand on aborde ce point sensible.",
+        "en": "You always divert the subject when that sensitive point is raised.",
+        "a": "détournez",
+        "alts": [],
+        "form": "Présent"
+      },
+      {
+        "slot": "t|Présent|4",
+        "f": "tense",
+        "s": "Ces terroristes ___ l'avion pour obtenir une rançon.",
+        "en": "These terrorists are hijacking the plane to get a ransom.",
+        "a": "détournent",
+        "alts": [],
+        "form": "Présent"
+      },
+      {
+        "slot": "t|Présent|4",
+        "f": "tense",
+        "s": "Ils ___ l'argent public à des fins personnelles.",
+        "en": "They are embezzling public money for personal ends.",
+        "a": "détournent",
+        "alts": [],
+        "form": "Présent"
+      },
+      {
+        "slot": "t|Passé composé|0",
+        "f": "tense",
+        "s": "J'___ les fonds de l'entreprise sans autorisation.",
+        "en": "I embezzled the company's funds without authorization.",
+        "a": "ai détourné",
+        "alts": [],
+        "form": "Passé composé"
+      },
+      {
+        "slot": "t|Passé composé|0",
+        "f": "tense",
+        "s": "J'___ les yeux quand il a annoncé la nouvelle.",
+        "en": "I looked away when he announced the news.",
+        "a": "ai détourné",
+        "alts": [],
+        "form": "Passé composé"
+      },
+      {
+        "slot": "t|Passé composé|1",
+        "f": "tense",
+        "s": "Tu ___ la conversation vers un autre sujet juste à temps.",
+        "en": "You steered the conversation toward another topic just in time.",
+        "a": "as détourné",
+        "alts": [],
+        "form": "Passé composé"
+      },
+      {
+        "slot": "t|Passé composé|1",
+        "f": "tense",
+        "s": "Tu ___ mon attention avec cette question inattendue.",
+        "en": "You diverted my attention with that unexpected question.",
+        "a": "as détourné",
+        "alts": [],
+        "form": "Passé composé"
+      },
+      {
+        "slot": "t|Passé composé|2",
+        "f": "tense",
+        "s": "Le comptable ___ une somme importante avant d'être arrêté.",
+        "en": "The accountant embezzled a large sum before being arrested.",
+        "a": "a détourné",
+        "alts": [],
+        "form": "Passé composé"
+      },
+      {
+        "slot": "t|Passé composé|2",
+        "f": "tense",
+        "s": "Elle ___ les yeux de la scène d'horreur.",
+        "en": "She looked away from the horrifying scene.",
+        "a": "a détourné",
+        "alts": [],
+        "form": "Passé composé"
+      },
+      {
+        "slot": "t|Passé composé|3",
+        "f": "tense",
+        "s": "Nous ___ la route en raison des inondations.",
+        "en": "We diverted the road because of the floods.",
+        "a": "avons détourné",
+        "alts": [],
+        "form": "Passé composé"
+      },
+      {
+        "slot": "t|Passé composé|3",
+        "f": "tense",
+        "s": "Nous ___ les subventions vers un autre secteur l'an dernier.",
+        "en": "We redirected the subsidies to another sector last year.",
+        "a": "avons détourné",
+        "alts": [],
+        "form": "Passé composé"
+      },
+      {
+        "slot": "t|Passé composé|4",
+        "f": "tense",
+        "s": "Vous ___ les fonds destinés à l'éducation, c'est grave.",
+        "en": "You diverted the funds meant for education — that is serious.",
+        "a": "avez détourné",
+        "alts": [],
+        "form": "Passé composé"
+      },
+      {
+        "slot": "t|Passé composé|4",
+        "f": "tense",
+        "s": "Vous ___ le regard à temps pour ne pas être reconnus.",
+        "en": "You looked away in time so as not to be recognized.",
+        "a": "avez détourné",
+        "alts": [],
+        "form": "Passé composé"
+      },
+      {
+        "slot": "t|Passé composé|5",
+        "f": "tense",
+        "s": "Les pirates de l'air ___ l'avion vers une destination inconnue.",
+        "en": "The hijackers diverted the plane to an unknown destination.",
+        "a": "ont détourné",
+        "alts": [],
+        "form": "Passé composé"
+      },
+      {
+        "slot": "t|Passé composé|5",
+        "f": "tense",
+        "s": "Ils ___ les ressources prévues pour le projet social.",
+        "en": "They embezzled the resources earmarked for the social project.",
+        "a": "ont détourné",
+        "alts": [],
+        "form": "Passé composé"
+      },
+      {
+        "slot": "t|Imparfait|0",
+        "f": "tense",
+        "s": "Je ___ les yeux chaque fois que passait cette publicité choquante.",
+        "en": "I looked away every time that shocking advertisement came on.",
+        "a": "détournais",
+        "alts": [],
+        "form": "Imparfait"
+      },
+      {
+        "slot": "t|Imparfait|0",
+        "f": "tense",
+        "s": "Tu ___ souvent la conversation quand le sujet devenait trop personnel.",
+        "en": "You often changed the subject when the topic became too personal.",
+        "a": "détournais",
+        "alts": [],
+        "form": "Imparfait"
+      },
+      {
+        "slot": "t|Imparfait|1",
+        "f": "tense",
+        "s": "Le directeur ___ régulièrement des fonds à son profit.",
+        "en": "The director regularly embezzled funds for his own benefit.",
+        "a": "détournait",
+        "alts": [],
+        "form": "Imparfait"
+      },
+      {
+        "slot": "t|Imparfait|1",
+        "f": "tense",
+        "s": "Elle ___ les yeux dès qu'il entrait dans la pièce.",
+        "en": "She looked away as soon as he entered the room.",
+        "a": "détournait",
+        "alts": [],
+        "form": "Imparfait"
+      },
+      {
+        "slot": "t|Imparfait|2",
+        "f": "tense",
+        "s": "Nous ___ l'itinéraire pour éviter la zone dangereuse.",
+        "en": "We were rerouting to avoid the dangerous area.",
+        "a": "détournions",
+        "alts": [],
+        "form": "Imparfait"
+      },
+      {
+        "slot": "t|Imparfait|2",
+        "f": "tense",
+        "s": "Nous ___ les crédits destinés aux écoles pour financer d'autres dépenses.",
+        "en": "We were diverting the credits meant for schools to finance other expenses.",
+        "a": "détournions",
+        "alts": [],
+        "form": "Imparfait"
+      },
+      {
+        "slot": "t|Imparfait|3",
+        "f": "tense",
+        "s": "Vous ___ les soupçons en accusant vos collègues.",
+        "en": "You were deflecting suspicion by accusing your colleagues.",
+        "a": "détourniez",
+        "alts": [],
+        "form": "Imparfait"
+      },
+      {
+        "slot": "t|Imparfait|3",
+        "f": "tense",
+        "s": "Vous ___ constamment les subventions allouées au projet.",
+        "en": "You were constantly diverting the subsidies allocated to the project.",
+        "a": "détourniez",
+        "alts": [],
+        "form": "Imparfait"
+      },
+      {
+        "slot": "t|Imparfait|4",
+        "f": "tense",
+        "s": "Ils ___ régulièrement les camions vers leurs entrepôts privés.",
+        "en": "They regularly diverted the trucks to their private warehouses.",
+        "a": "détournaient",
+        "alts": [],
+        "form": "Imparfait"
+      },
+      {
+        "slot": "t|Imparfait|4",
+        "f": "tense",
+        "s": "Les enfants ___ les yeux chaque fois que la scène effrayante apparaissait.",
+        "en": "The children looked away every time the frightening scene appeared.",
+        "a": "détournaient",
+        "alts": [],
+        "form": "Imparfait"
+      },
+      {
+        "slot": "t|Futur|0",
+        "f": "tense",
+        "s": "Je ___ la discussion vers un sujet plus constructif demain.",
+        "en": "I will steer the discussion toward a more constructive topic tomorrow.",
+        "a": "détournerai",
+        "alts": [],
+        "form": "Futur"
+      },
+      {
+        "slot": "t|Futur|0",
+        "f": "tense",
+        "s": "Je ___ les fonds si personne ne contrôle les comptes.",
+        "en": "I will embezzle the funds if nobody audits the accounts.",
+        "a": "détournerai",
+        "alts": [],
+        "form": "Futur"
+      },
+      {
+        "slot": "t|Futur|1",
+        "f": "tense",
+        "s": "Tu ___ l'avion vers Paris si les passagers l'exigent.",
+        "en": "You will divert the plane to Paris if the passengers demand it.",
+        "a": "détourneras",
+        "alts": [],
+        "form": "Futur"
+      },
+      {
+        "slot": "t|Futur|1",
+        "f": "tense",
+        "s": "Tu ___ l'attention du public avec tes nouvelles annonces.",
+        "en": "You will divert the public's attention with your new announcements.",
+        "a": "détourneras",
+        "alts": [],
+        "form": "Futur"
+      },
+      {
+        "slot": "t|Futur|2",
+        "f": "tense",
+        "s": "Le maire ___ les subventions vers les quartiers prioritaires.",
+        "en": "The mayor will redirect the subsidies to priority neighborhoods.",
+        "a": "détournera",
+        "alts": [],
+        "form": "Futur"
+      },
+      {
+        "slot": "t|Futur|2",
+        "f": "tense",
+        "s": "On ___ la circulation le temps des travaux sur le pont.",
+        "en": "Traffic will be rerouted during the bridge construction.",
+        "a": "détournera",
+        "alts": [],
+        "form": "Futur"
+      },
+      {
+        "slot": "t|Futur|3",
+        "f": "tense",
+        "s": "Nous ___ les camions par l'autoroute pour gagner du temps.",
+        "en": "We will reroute the trucks via the highway to save time.",
+        "a": "détournerons",
+        "alts": [],
+        "form": "Futur"
+      },
+      {
+        "slot": "t|Futur|3",
+        "f": "tense",
+        "s": "Nous ___ l'attention sur les vrais problèmes lors de la conférence.",
+        "en": "We will redirect attention to the real issues at the conference.",
+        "a": "détournerons",
+        "alts": [],
+        "form": "Futur"
+      },
+      {
+        "slot": "t|Futur|4",
+        "f": "tense",
+        "s": "Vous ___ la rivière si les inondations menacent le village.",
+        "en": "You will divert the river if the floods threaten the village.",
+        "a": "détournerez",
+        "alts": [],
+        "form": "Futur"
+      },
+      {
+        "slot": "t|Futur|4",
+        "f": "tense",
+        "s": "Vous ___ les investisseurs de ce risque avec vos arguments solides.",
+        "en": "You will divert investors away from this risk with your solid arguments.",
+        "a": "détournerez",
+        "alts": [],
+        "form": "Futur"
+      },
+      {
+        "slot": "t|Futur|5",
+        "f": "tense",
+        "s": "Les autorités ___ les avions en cas de tempête sur l'aéroport.",
+        "en": "The authorities will divert planes in case of a storm over the airport.",
+        "a": "détourneront",
+        "alts": [],
+        "form": "Futur"
+      },
+      {
+        "slot": "t|Futur|5",
+        "f": "tense",
+        "s": "Ces escrocs ___ les fonds dès qu'ils en auront l'occasion.",
+        "en": "These crooks will embezzle the funds as soon as they get the chance.",
+        "a": "détourneront",
+        "alts": [],
+        "form": "Futur"
+      },
+      {
+        "slot": "t|Conditionnel|0",
+        "f": "tense",
+        "s": "Je ___ les yeux si cette scène était trop violente.",
+        "en": "I would look away if that scene were too violent.",
+        "a": "détournerais",
+        "alts": [],
+        "form": "Conditionnel"
+      },
+      {
+        "slot": "t|Conditionnel|0",
+        "f": "tense",
+        "s": "Tu ___ facilement la conversation si tu posais une autre question.",
+        "en": "You would easily steer the conversation away if you asked a different question.",
+        "a": "détournerais",
+        "alts": [],
+        "form": "Conditionnel"
+      },
+      {
+        "slot": "t|Conditionnel|1",
+        "f": "tense",
+        "s": "Il ___ les fonds si personne ne vérifiait les comptes.",
+        "en": "He would embezzle the funds if nobody checked the accounts.",
+        "a": "détournerait",
+        "alts": [],
+        "form": "Conditionnel"
+      },
+      {
+        "slot": "t|Conditionnel|1",
+        "f": "tense",
+        "s": "Elle ___ les yeux en voyant ce spectacle insupportable.",
+        "en": "She would look away on seeing that unbearable sight.",
+        "a": "détournerait",
+        "alts": [],
+        "form": "Conditionnel"
+      },
+      {
+        "slot": "t|Conditionnel|2",
+        "f": "tense",
+        "s": "Nous ___ la discussion si nous abordions un sujet différent.",
+        "en": "We would steer the discussion away if we raised a different topic.",
+        "a": "détournerions",
+        "alts": [],
+        "form": "Conditionnel"
+      },
+      {
+        "slot": "t|Conditionnel|2",
+        "f": "tense",
+        "s": "Nous ___ l'itinéraire si les routes étaient bloquées.",
+        "en": "We would reroute if the roads were blocked.",
+        "a": "détournerions",
+        "alts": [],
+        "form": "Conditionnel"
+      },
+      {
+        "slot": "t|Conditionnel|3",
+        "f": "tense",
+        "s": "Vous ___ les soupçons si vous adoptiez une attitude plus discrète.",
+        "en": "You would deflect suspicion if you adopted a more discreet attitude.",
+        "a": "détourneriez",
+        "alts": [],
+        "form": "Conditionnel"
+      },
+      {
+        "slot": "t|Conditionnel|3",
+        "f": "tense",
+        "s": "Vous ___ les crédits si vous en aviez le contrôle.",
+        "en": "You would divert the funds if you had control over them.",
+        "a": "détourneriez",
+        "alts": [],
+        "form": "Conditionnel"
+      },
+      {
+        "slot": "t|Conditionnel|4",
+        "f": "tense",
+        "s": "Ils ___ l'avion si leurs exigences n'étaient pas satisfaites.",
+        "en": "They would hijack the plane if their demands were not met.",
+        "a": "détourneraient",
+        "alts": [],
+        "form": "Conditionnel"
+      },
+      {
+        "slot": "t|Conditionnel|4",
+        "f": "tense",
+        "s": "Les responsables ___ les fonds si les contrôles étaient supprimés.",
+        "en": "The managers would embezzle the funds if the audits were removed.",
+        "a": "détourneraient",
+        "alts": [],
+        "form": "Conditionnel"
+      },
+      {
+        "slot": "t|Subjonctif",
+        "f": "subj",
+        "s": "Il faut que tu ___ la conversation avant qu'elle ne dégénère.",
+        "en": "It is necessary that you steer the conversation away before it gets out of hand.",
+        "a": "détournes",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "t|Subjonctif",
+        "f": "subj",
+        "s": "Je veux qu'il ___ les regards des visiteurs vers l'entrée principale.",
+        "en": "I want him to redirect the visitors' attention toward the main entrance.",
+        "a": "détourne",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "s|0",
+        "f": "sense",
+        "s": "Le politicien essaie de ___ l'attention du public vers un autre sujet.",
+        "en": "The politician tries to divert (redirect) public attention to another topic.",
+        "a": "détourner",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "s|0",
+        "f": "sense",
+        "s": "Il a réussi à ___ les soupçons loin de lui.",
+        "en": "He managed to redirect suspicion away from himself.",
+        "a": "détourner",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "s|1",
+        "f": "sense",
+        "s": "À cause des travaux, les conducteurs doivent ___ par la nationale.",
+        "en": "Because of the roadworks, drivers must detour via the national road.",
+        "a": "détourner",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "s|1",
+        "f": "sense",
+        "s": "La tempête a obligé le capitaine à ___ le navire vers un port voisin.",
+        "en": "The storm forced the captain to reroute the ship to a nearby port.",
+        "a": "détourner",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "s|2",
+        "f": "sense",
+        "s": "Le trésorier a tenté de ___ des milliers d'euros des caisses de l'association.",
+        "en": "The treasurer attempted to embezzle thousands of euros from the association's accounts.",
+        "a": "détourner",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "s|2",
+        "f": "sense",
+        "s": "Il est illégal de ___ les fonds publics à des fins privées.",
+        "en": "It is illegal to misappropriate public funds for private purposes.",
+        "a": "détourner",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "s|3",
+        "f": "sense",
+        "s": "Des criminels ont tenté de ___ l'avion en plein vol.",
+        "en": "Criminals attempted to hijack the plane mid-flight.",
+        "a": "détourner",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "s|3",
+        "f": "sense",
+        "s": "Le groupe armé a menacé de ___ le bus pour obtenir la libération de leurs complices.",
+        "en": "The armed group threatened to hijack the bus to secure the release of their accomplices.",
+        "a": "détourner",
+        "alts": [],
+        "form": ""
+      }
+    ]
+  },
+  {
+    "id": 2021,
+    "qs": [
+      {
+        "slot": "s|0",
+        "f": "sense",
+        "s": "Ta demande est tout à fait ___ ; je l'accepte sans problème.",
+        "a": "raisonnable",
+        "en": "Your request is perfectly reasonable; I accept it without any problem.",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "s|0",
+        "f": "sense",
+        "s": "Il faut trouver une solution ___ qui tienne compte des contraintes de chacun.",
+        "a": "raisonnable",
+        "en": "We need to find a reasonable solution that takes everyone's constraints into account.",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "s|1",
+        "f": "sense",
+        "s": "Le juge a rendu une décision ___ en tenant compte des arguments des deux parties.",
+        "a": "raisonnable",
+        "en": "The judge made a fair decision by considering the arguments of both sides.",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "s|1",
+        "f": "sense",
+        "s": "Ce partage des tâches me paraît ___ : chacun contribue selon ses moyens.",
+        "a": "raisonnable",
+        "en": "This division of tasks seems fair to me: each person contributes according to their means.",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "s|2",
+        "f": "sense",
+        "s": "Il boit une quantité ___ de café chaque jour, jamais plus de deux tasses.",
+        "a": "raisonnable",
+        "en": "He drinks a moderate amount of coffee each day, never more than two cups.",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "s|2",
+        "f": "sense",
+        "s": "Le prix de cet appartement est ___ pour le quartier ; ce n'est pas excessif.",
+        "a": "raisonnable",
+        "en": "The price of this apartment is moderate for the neighbourhood; it is not excessive.",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "g|mp",
+        "f": "agree",
+        "s": "Ces arguments me semblent ___ ; je suis prêt à en discuter.",
+        "a": "raisonnables",
+        "en": "These arguments seem reasonable to me; I am ready to discuss them.",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "g|mp",
+        "f": "agree",
+        "s": "Les délais proposés sont ___ et respectent le calendrier du projet.",
+        "a": "raisonnables",
+        "en": "The proposed deadlines are reasonable and respect the project schedule.",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "g|f",
+        "f": "agree",
+        "s": "Cette attitude est ___ dans les circonstances actuelles.",
+        "a": "raisonnable",
+        "en": "This attitude is reasonable in the current circumstances.",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "g|f",
+        "f": "agree",
+        "s": "Sa réponse était ___, ni trop sévère ni trop indulgente.",
+        "a": "raisonnable",
+        "en": "Her response was reasonable, neither too strict nor too lenient.",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "g|fp",
+        "f": "agree",
+        "s": "Les conditions de travail exigées par les employés sont ___ et justifiées.",
+        "a": "raisonnables",
+        "en": "The working conditions demanded by the employees are reasonable and justified.",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "g|fp",
+        "f": "agree",
+        "s": "Ces dépenses me paraissent ___ compte tenu du budget disponible.",
+        "a": "raisonnables",
+        "en": "These expenses seem reasonable to me given the available budget.",
+        "alts": [],
+        "form": ""
+      }
+    ]
+  }
+]

@@ -1,0 +1,215 @@
+[
+  {
+    "id": 440,
+    "qs": [
+      {
+        "slot": "s|0",
+        "f": "sense",
+        "s": "Elle a un ___ de personnalité très créatif.",
+        "en": "She has a very creative personality type.",
+        "a": "type",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "s|0",
+        "f": "sense",
+        "s": "On doit identifier le ___ de problème avant de chercher une solution.",
+        "en": "We need to identify the type of problem before looking for a solution.",
+        "a": "type",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "s|1",
+        "f": "sense",
+        "s": "Il existe plusieurs ___ de champignons comestibles dans cette forêt.",
+        "en": "There are several kinds of edible mushrooms in this forest.",
+        "a": "type",
+        "alts": ["sorte", "genre"],
+        "form": ""
+      },
+      {
+        "slot": "s|1",
+        "f": "sense",
+        "s": "Quel ___ de cuisine préfères-tu, l'italienne ou la japonaise ?",
+        "en": "What kind of cuisine do you prefer, Italian or Japanese?",
+        "a": "type",
+        "alts": ["genre", "sorte"],
+        "form": ""
+      },
+      {
+        "slot": "s|2",
+        "f": "sense",
+        "s": "Je ne fais pas confiance à ce ___, il me semble louche.",
+        "en": "I don't trust that guy, he seems shady to me.",
+        "a": "type",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "s|2",
+        "f": "sense",
+        "s": "C'est un drôle de ___, il porte toujours un chapeau rouge.",
+        "en": "He's a funny guy, he always wears a red hat.",
+        "a": "type",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "gender",
+        "f": "gender",
+        "s": "Quel est ___ type de relation que vous entretenez avec lui ?",
+        "en": "What is the type of relationship you have with him?",
+        "a": "le",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "gender",
+        "f": "gender",
+        "s": "C'est ___ type de situation que je n'avais jamais prévu.",
+        "en": "It's a type of situation I had never anticipated.",
+        "a": "un",
+        "alts": [],
+        "form": ""
+      }
+    ]
+  },
+  {
+    "id": 441,
+    "qs": [
+      {
+        "slot": "s|0",
+        "f": "sense",
+        "s": "Elle s'est fixé un ___ clair : finir ses études avant trente ans.",
+        "en": "She set herself a clear goal: to finish her studies before the age of thirty.",
+        "a": "but",
+        "alts": ["objectif"],
+        "form": ""
+      },
+      {
+        "slot": "s|0",
+        "f": "sense",
+        "s": "Il a finalement atteint son ___ après des années d'efforts.",
+        "en": "He finally reached his goal after years of effort.",
+        "a": "but",
+        "alts": ["objectif"],
+        "form": ""
+      },
+      {
+        "slot": "s|1",
+        "f": "sense",
+        "s": "Il a voyagé en France dans le ___ d'apprendre la langue.",
+        "en": "He traveled to France with the purpose of learning the language.",
+        "a": "but",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "s|1",
+        "f": "sense",
+        "s": "Quel est le ___ de cette réunion ?",
+        "en": "What is the purpose of this meeting?",
+        "a": "but",
+        "alts": ["objectif"],
+        "form": ""
+      },
+      {
+        "slot": "s|2",
+        "f": "sense",
+        "s": "Le joueur a marqué un ___ à la dernière minute du match.",
+        "en": "The player scored a goal in the last minute of the match.",
+        "a": "but",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "s|2",
+        "f": "sense",
+        "s": "Le gardien de ___ a arrêté tous les tirs adverses.",
+        "en": "The goalkeeper stopped all the opposing shots.",
+        "a": "but",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "gender",
+        "f": "gender",
+        "s": "___ but de cette équipe est de remporter le championnat.",
+        "en": "The goal of this team is to win the championship.",
+        "a": "Le",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "gender",
+        "f": "gender",
+        "s": "Elle poursuit ___ but précis depuis le début de sa carrière.",
+        "en": "She has been pursuing a specific goal since the beginning of her career.",
+        "a": "un",
+        "alts": [],
+        "form": ""
+      }
+    ]
+  },
+  {
+    "id": 442,
+    "qs": [
+      {
+        "slot": "s|0",
+        "f": "sense",
+        "s": "À cinq heures du ___, le ciel commence à rosir à l'horizon.",
+        "en": "At five in the morning, the sky begins to turn pink on the horizon.",
+        "a": "matin",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "s|0",
+        "f": "sense",
+        "s": "Elle se lève de bonne heure chaque ___ pour méditer au lever du soleil.",
+        "en": "She gets up early every morning to meditate at sunrise.",
+        "a": "matin",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "s|1",
+        "f": "sense",
+        "s": "La réunion est prévue pour dix heures du ___.",
+        "en": "The meeting is scheduled for ten o'clock in the morning.",
+        "a": "matin",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "s|1",
+        "f": "sense",
+        "s": "Il a passé tout le ___ à travailler sur son rapport au bureau.",
+        "en": "He spent the whole morning working on his report at the office.",
+        "a": "matin",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "gender",
+        "f": "gender",
+        "s": "___ matin est la meilleure période de la journée pour faire du sport.",
+        "en": "The morning is the best time of day to exercise.",
+        "a": "Le",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "gender",
+        "f": "gender",
+        "s": "Il s'est levé ___ matin de très bonne humeur.",
+        "en": "He woke up one morning in a very good mood.",
+        "a": "un",
+        "alts": [],
+        "form": ""
+      }
+    ]
+  }
+]

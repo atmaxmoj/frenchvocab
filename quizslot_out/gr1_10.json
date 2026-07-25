@@ -1,0 +1,737 @@
+[
+  {
+    "id": 2731,
+    "qs": [
+      {
+        "slot": "s|0",
+        "f": "sense",
+        "s": "Après une longue journée de travail, j'ai besoin de ___ .",
+        "a": "repos",
+        "en": "After a long day of work, I need rest.",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "s|0",
+        "f": "sense",
+        "s": "Le médecin lui a prescrit plusieurs jours de ___ complet.",
+        "a": "repos",
+        "en": "The doctor prescribed him several days of complete rest.",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "s|1",
+        "f": "sense",
+        "s": "Cette nouvelle a enfin mis son esprit en ___ .",
+        "a": "repos",
+        "en": "This news finally put his mind at rest (quiet).",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "s|1",
+        "f": "sense",
+        "s": "Rien ne troublait le ___ de cette petite ville endormie.",
+        "a": "repos",
+        "en": "Nothing disturbed the quiet of this sleepy little town.",
+        "alts": ["calme", "silence"],
+        "form": ""
+      },
+      {
+        "slot": "s|2",
+        "f": "sense",
+        "s": "Elle n'avait plus le ___ depuis qu'elle avait appris cette terrible nouvelle.",
+        "a": "repos",
+        "en": "She had no more peace since she had learned that terrible news.",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "s|2",
+        "f": "sense",
+        "s": "Il cherchait enfin le ___ de l'âme après tant d'épreuves douloureuses.",
+        "a": "repos",
+        "en": "He was finally seeking peace of mind after so many painful ordeals.",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "gender",
+        "f": "gender",
+        "s": "___ repos est essentiel pour la santé physique et mentale.",
+        "a": "Le",
+        "en": "Rest is essential for physical and mental health.",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "gender",
+        "f": "gender",
+        "s": "Elle a enfin pris ___ repos bien mérité après ce long voyage.",
+        "a": "un",
+        "en": "She finally took a well-deserved rest after this long trip.",
+        "alts": [],
+        "form": ""
+      }
+    ]
+  },
+  {
+    "id": 2732,
+    "qs": [
+      {
+        "slot": "t|Présent|0",
+        "f": "tense",
+        "s": "Excuse-moi, est-ce que je te ___ ?",
+        "a": "dérange",
+        "en": "Excuse me, am I disturbing you?",
+        "alts": [],
+        "form": "Présent"
+      },
+      {
+        "slot": "t|Présent|0",
+        "f": "tense",
+        "s": "Le bruit de la rue ___ ma concentration.",
+        "a": "dérange",
+        "en": "The noise from the street disturbs my concentration.",
+        "alts": [],
+        "form": "Présent"
+      },
+      {
+        "slot": "t|Présent|1",
+        "f": "tense",
+        "s": "Tu ___ tout le monde avec ta musique.",
+        "a": "déranges",
+        "en": "You are bothering everyone with your music.",
+        "alts": [],
+        "form": "Présent"
+      },
+      {
+        "slot": "t|Présent|1",
+        "f": "tense",
+        "s": "Est-ce que tu ___ tes voisins souvent ?",
+        "a": "déranges",
+        "en": "Do you often bother your neighbours?",
+        "alts": [],
+        "form": "Présent"
+      },
+      {
+        "slot": "t|Présent|2",
+        "f": "tense",
+        "s": "Nous ___ les autres quand nous parlons fort.",
+        "a": "dérangeons",
+        "en": "We disturb others when we speak loudly.",
+        "alts": [],
+        "form": "Présent"
+      },
+      {
+        "slot": "t|Présent|2",
+        "f": "tense",
+        "s": "Nous ___ déjà assez le quartier sans faire plus de bruit.",
+        "a": "dérangeons",
+        "en": "We already bother the neighbourhood enough without making more noise.",
+        "alts": [],
+        "form": "Présent"
+      },
+      {
+        "slot": "t|Présent|3",
+        "f": "tense",
+        "s": "Vous ___ les clients en discutant si bruyamment.",
+        "a": "dérangez",
+        "en": "You are bothering the customers by talking so loudly.",
+        "alts": [],
+        "form": "Présent"
+      },
+      {
+        "slot": "t|Présent|3",
+        "f": "tense",
+        "s": "Est-ce que vous ___ souvent votre professeur pendant les cours ?",
+        "a": "dérangez",
+        "en": "Do you often disturb your teacher during class?",
+        "alts": [],
+        "form": "Présent"
+      },
+      {
+        "slot": "t|Présent|4",
+        "f": "tense",
+        "s": "Les travaux dans la rue ___ les habitants du quartier.",
+        "a": "dérangent",
+        "en": "The roadworks disturb the neighbourhood residents.",
+        "alts": [],
+        "form": "Présent"
+      },
+      {
+        "slot": "t|Présent|4",
+        "f": "tense",
+        "s": "Ces questions personnelles ___ beaucoup de gens.",
+        "a": "dérangent",
+        "en": "These personal questions bother a lot of people.",
+        "alts": [],
+        "form": "Présent"
+      },
+      {
+        "slot": "t|Passé composé|0",
+        "f": "tense",
+        "s": "J'___ mon collègue en entrant sans frapper.",
+        "a": "ai dérangé",
+        "en": "I disturbed my colleague by entering without knocking.",
+        "alts": [],
+        "form": "Passé composé"
+      },
+      {
+        "slot": "t|Passé composé|0",
+        "f": "tense",
+        "s": "Hier soir, j'___ mes parents avec un coup de téléphone tardif.",
+        "a": "ai dérangé",
+        "en": "Yesterday evening, I bothered my parents with a late phone call.",
+        "alts": [],
+        "form": "Passé composé"
+      },
+      {
+        "slot": "t|Passé composé|1",
+        "f": "tense",
+        "s": "Tu ___ toute la famille ce matin en arrivant si tôt.",
+        "a": "as dérangé",
+        "en": "You disturbed the whole family this morning by arriving so early.",
+        "alts": [],
+        "form": "Passé composé"
+      },
+      {
+        "slot": "t|Passé composé|1",
+        "f": "tense",
+        "s": "Tu ___ le chat en déplaçant son panier.",
+        "a": "as dérangé",
+        "en": "You disturbed the cat by moving its basket.",
+        "alts": [],
+        "form": "Passé composé"
+      },
+      {
+        "slot": "t|Passé composé|2",
+        "f": "tense",
+        "s": "Mon voisin ___ tout l'immeuble avec sa fête.",
+        "a": "a dérangé",
+        "en": "My neighbour disturbed the whole building with his party.",
+        "alts": [],
+        "form": "Passé composé"
+      },
+      {
+        "slot": "t|Passé composé|2",
+        "f": "tense",
+        "s": "L'alarme ___ les employés pendant la réunion.",
+        "a": "a dérangé",
+        "en": "The alarm disturbed the employees during the meeting.",
+        "alts": [],
+        "form": "Passé composé"
+      },
+      {
+        "slot": "t|Passé composé|3",
+        "f": "tense",
+        "s": "Nous ___ le directeur sans le vouloir.",
+        "a": "avons dérangé",
+        "en": "We disturbed the director without meaning to.",
+        "alts": [],
+        "form": "Passé composé"
+      },
+      {
+        "slot": "t|Passé composé|3",
+        "f": "tense",
+        "s": "Nous ___ les voisins en rentrant si tard.",
+        "a": "avons dérangé",
+        "en": "We disturbed the neighbours by coming home so late.",
+        "alts": [],
+        "form": "Passé composé"
+      },
+      {
+        "slot": "t|Passé composé|4",
+        "f": "tense",
+        "s": "Vous ___ le conférencier avec vos commentaires.",
+        "a": "avez dérangé",
+        "en": "You disturbed the speaker with your comments.",
+        "alts": [],
+        "form": "Passé composé"
+      },
+      {
+        "slot": "t|Passé composé|4",
+        "f": "tense",
+        "s": "Est-ce que vous ___ quelqu'un en sonnant à cette heure-là ?",
+        "a": "avez dérangé",
+        "en": "Did you disturb anyone by ringing at that hour?",
+        "alts": [],
+        "form": "Passé composé"
+      },
+      {
+        "slot": "t|Passé composé|5",
+        "f": "tense",
+        "s": "Les enfants ___ le professeur pendant toute la leçon.",
+        "a": "ont dérangé",
+        "en": "The children disturbed the teacher throughout the lesson.",
+        "alts": [],
+        "form": "Passé composé"
+      },
+      {
+        "slot": "t|Passé composé|5",
+        "f": "tense",
+        "s": "Ces appels répétés ___ ma matinée.",
+        "a": "ont dérangé",
+        "en": "These repeated calls disrupted my morning.",
+        "alts": [],
+        "form": "Passé composé"
+      },
+      {
+        "slot": "t|Imparfait|0",
+        "f": "tense",
+        "s": "Quand j'étais enfant, je ___ souvent ma sœur pendant ses devoirs.",
+        "a": "dérangeais",
+        "en": "When I was a child, I often disturbed my sister during her homework.",
+        "alts": [],
+        "form": "Imparfait"
+      },
+      {
+        "slot": "t|Imparfait|0",
+        "f": "tense",
+        "s": "Autrefois, tu ___ tout le monde avec tes questions incessantes.",
+        "a": "dérangeais",
+        "en": "In the past, you used to bother everyone with your incessant questions.",
+        "alts": [],
+        "form": "Imparfait"
+      },
+      {
+        "slot": "t|Imparfait|1",
+        "f": "tense",
+        "s": "Le bruit de la machine ___ les travailleurs du bureau.",
+        "a": "dérangeait",
+        "en": "The noise of the machine used to bother the office workers.",
+        "alts": [],
+        "form": "Imparfait"
+      },
+      {
+        "slot": "t|Imparfait|1",
+        "f": "tense",
+        "s": "Ce genre de remarque le ___ profondément.",
+        "a": "dérangeait",
+        "en": "This kind of remark used to deeply bother him.",
+        "alts": [],
+        "form": "Imparfait"
+      },
+      {
+        "slot": "t|Imparfait|2",
+        "f": "tense",
+        "s": "Nous ne savions pas que nous ___ nos voisins.",
+        "a": "dérangions",
+        "en": "We didn't know we were disturbing our neighbours.",
+        "alts": [],
+        "form": "Imparfait"
+      },
+      {
+        "slot": "t|Imparfait|2",
+        "f": "tense",
+        "s": "Chaque fois que nous ___ le responsable, il se montrait impatient.",
+        "a": "dérangions",
+        "en": "Every time we disturbed the manager, he became impatient.",
+        "alts": [],
+        "form": "Imparfait"
+      },
+      {
+        "slot": "t|Imparfait|3",
+        "f": "tense",
+        "s": "Vous ___ les autres clients en parlant fort au téléphone.",
+        "a": "dérangiez",
+        "en": "You were disturbing the other customers by speaking loudly on the phone.",
+        "alts": [],
+        "form": "Imparfait"
+      },
+      {
+        "slot": "t|Imparfait|3",
+        "f": "tense",
+        "s": "Sans le savoir, vous ___ toujours votre collègue.",
+        "a": "dérangiez",
+        "en": "Without knowing it, you were always bothering your colleague.",
+        "alts": [],
+        "form": "Imparfait"
+      },
+      {
+        "slot": "t|Imparfait|4",
+        "f": "tense",
+        "s": "Les mouches ___ les chevaux dans le pré.",
+        "a": "dérangeaient",
+        "en": "The flies were bothering the horses in the meadow.",
+        "alts": [],
+        "form": "Imparfait"
+      },
+      {
+        "slot": "t|Imparfait|4",
+        "f": "tense",
+        "s": "Ses parents ___ son sommeil en discutant tard le soir.",
+        "a": "dérangeaient",
+        "en": "His parents used to disturb his sleep by talking late in the evening.",
+        "alts": [],
+        "form": "Imparfait"
+      },
+      {
+        "slot": "t|Futur|0",
+        "f": "tense",
+        "s": "Je ___ le moins possible pendant ta réunion.",
+        "a": "dérangerai",
+        "en": "I will disturb you as little as possible during your meeting.",
+        "alts": [],
+        "form": "Futur"
+      },
+      {
+        "slot": "t|Futur|0",
+        "f": "tense",
+        "s": "Demain matin, je ___ le médecin pour lui poser une question.",
+        "a": "dérangerai",
+        "en": "Tomorrow morning, I will disturb the doctor to ask him a question.",
+        "alts": [],
+        "form": "Futur"
+      },
+      {
+        "slot": "t|Futur|1",
+        "f": "tense",
+        "s": "Tu ___ tout le bureau si tu parles aussi fort.",
+        "a": "dérangeras",
+        "en": "You will disturb the whole office if you speak that loudly.",
+        "alts": [],
+        "form": "Futur"
+      },
+      {
+        "slot": "t|Futur|1",
+        "f": "tense",
+        "s": "Si tu arrives si tard, tu ___ tes colocataires.",
+        "a": "dérangeras",
+        "en": "If you arrive so late, you will disturb your flatmates.",
+        "alts": [],
+        "form": "Futur"
+      },
+      {
+        "slot": "t|Futur|2",
+        "f": "tense",
+        "s": "La sonnerie ___ les élèves en plein examen.",
+        "a": "dérangera",
+        "en": "The ringing will disturb the students right in the middle of the exam.",
+        "alts": [],
+        "form": "Futur"
+      },
+      {
+        "slot": "t|Futur|2",
+        "f": "tense",
+        "s": "Ce chantier ___ les riverains pendant plusieurs semaines.",
+        "a": "dérangera",
+        "en": "This construction site will disturb local residents for several weeks.",
+        "alts": [],
+        "form": "Futur"
+      },
+      {
+        "slot": "t|Futur|3",
+        "f": "tense",
+        "s": "Nous ___ le moins possible nos voisins pendant les travaux.",
+        "a": "dérangerons",
+        "en": "We will disturb our neighbours as little as possible during the work.",
+        "alts": [],
+        "form": "Futur"
+      },
+      {
+        "slot": "t|Futur|3",
+        "f": "tense",
+        "s": "Nous ___ la cérémonie si nous arrivons en retard.",
+        "a": "dérangerons",
+        "en": "We will disrupt the ceremony if we arrive late.",
+        "alts": [],
+        "form": "Futur"
+      },
+      {
+        "slot": "t|Futur|4",
+        "f": "tense",
+        "s": "Vous ___ vos voisins si vous jouez de la musique après minuit.",
+        "a": "dérangerez",
+        "en": "You will disturb your neighbours if you play music after midnight.",
+        "alts": [],
+        "form": "Futur"
+      },
+      {
+        "slot": "t|Futur|4",
+        "f": "tense",
+        "s": "Prévenez-moi si vous ___ quelqu'un par votre passage.",
+        "a": "dérangerez",
+        "en": "Let me know if you will disturb anyone with your visit.",
+        "alts": [],
+        "form": "Futur"
+      },
+      {
+        "slot": "t|Futur|5",
+        "f": "tense",
+        "s": "Les invités ___ sûrement les enfants au moment de la sieste.",
+        "a": "dérangeront",
+        "en": "The guests will surely disturb the children at nap time.",
+        "alts": [],
+        "form": "Futur"
+      },
+      {
+        "slot": "t|Futur|5",
+        "f": "tense",
+        "s": "Ces nouvelles mesures ___ beaucoup de gens dans leur routine.",
+        "a": "dérangeront",
+        "en": "These new measures will disturb many people in their routine.",
+        "alts": [],
+        "form": "Futur"
+      },
+      {
+        "slot": "t|Conditionnel|0",
+        "f": "tense",
+        "s": "Si j'avais une question, je ne ___ personne à cette heure-ci.",
+        "a": "dérangerais",
+        "en": "If I had a question, I would not bother anyone at this hour.",
+        "alts": [],
+        "form": "Conditionnel"
+      },
+      {
+        "slot": "t|Conditionnel|0",
+        "f": "tense",
+        "s": "Si tu avais besoin d'aide, tu ___ un ami plutôt qu'un inconnu.",
+        "a": "dérangerais",
+        "en": "If you needed help, you would bother a friend rather than a stranger.",
+        "alts": [],
+        "form": "Conditionnel"
+      },
+      {
+        "slot": "t|Conditionnel|1",
+        "f": "tense",
+        "s": "Un téléphone qui sonne pendant le spectacle ___ tous les spectateurs.",
+        "a": "dérangerait",
+        "en": "A phone ringing during the show would disturb all the spectators.",
+        "alts": [],
+        "form": "Conditionnel"
+      },
+      {
+        "slot": "t|Conditionnel|1",
+        "f": "tense",
+        "s": "Elle ___ son patron si elle appelait un dimanche.",
+        "a": "dérangerait",
+        "en": "She would disturb her boss if she called on a Sunday.",
+        "alts": [],
+        "form": "Conditionnel"
+      },
+      {
+        "slot": "t|Conditionnel|2",
+        "f": "tense",
+        "s": "Nous ___ moins nos voisins si nous baissions le volume.",
+        "a": "dérangerions",
+        "en": "We would disturb our neighbours less if we turned the volume down.",
+        "alts": [],
+        "form": "Conditionnel"
+      },
+      {
+        "slot": "t|Conditionnel|2",
+        "f": "tense",
+        "s": "Si nous arrivions tôt, nous ___ les préparatifs.",
+        "a": "dérangerions",
+        "en": "If we arrived early, we would disrupt the preparations.",
+        "alts": [],
+        "form": "Conditionnel"
+      },
+      {
+        "slot": "t|Conditionnel|3",
+        "f": "tense",
+        "s": "Si vous parliez plus fort, vous ___ les autres étudiants.",
+        "a": "dérangeriez",
+        "en": "If you spoke louder, you would disturb the other students.",
+        "alts": [],
+        "form": "Conditionnel"
+      },
+      {
+        "slot": "t|Conditionnel|3",
+        "f": "tense",
+        "s": "Vous ___ tout le service si vous envoyiez ce message maintenant.",
+        "a": "dérangeriez",
+        "en": "You would disturb the whole department if you sent that message now.",
+        "alts": [],
+        "form": "Conditionnel"
+      },
+      {
+        "slot": "t|Conditionnel|4",
+        "f": "tense",
+        "s": "Ils ___ leurs collègues s'ils téléphonaient si tard le soir.",
+        "a": "dérangeraient",
+        "en": "They would disturb their colleagues if they called so late in the evening.",
+        "alts": [],
+        "form": "Conditionnel"
+      },
+      {
+        "slot": "t|Conditionnel|4",
+        "f": "tense",
+        "s": "Ces travaux ___ les habitants si on les faisait la nuit.",
+        "a": "dérangeraient",
+        "en": "These works would disturb the residents if done at night.",
+        "alts": [],
+        "form": "Conditionnel"
+      },
+      {
+        "slot": "t|Subjonctif",
+        "f": "subj",
+        "s": "Il faut que tu ___ le moins possible tes camarades en classe.",
+        "a": "déranges",
+        "en": "You must disturb your classmates as little as possible.",
+        "alts": [],
+        "form": "Subjonctif"
+      },
+      {
+        "slot": "t|Subjonctif",
+        "f": "subj",
+        "s": "Je préfère que vous ___ le directeur uniquement en cas d'urgence.",
+        "a": "dérangiez",
+        "en": "I prefer that you disturb the director only in case of emergency.",
+        "alts": [],
+        "form": "Subjonctif"
+      },
+      {
+        "slot": "s|0",
+        "f": "sense",
+        "s": "Ne frappe pas à la porte — je ne veux pas ___ le professeur pendant son cours.",
+        "a": "déranger",
+        "en": "Don't knock on the door — I don't want to disturb the teacher during his class.",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "s|0",
+        "f": "sense",
+        "s": "Pourriez-vous parler moins fort pour ne pas ___ vos voisins de table ?",
+        "a": "déranger",
+        "en": "Could you speak more quietly so as not to disturb the people at the next table?",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "s|1",
+        "f": "sense",
+        "s": "Cette injustice me ___ vraiment.",
+        "a": "dérange",
+        "en": "This injustice really bothers me.",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "s|1",
+        "f": "sense",
+        "s": "Les mensonges répétés de son ami ont fini par le ___.",
+        "a": "déranger",
+        "en": "His friend's repeated lies eventually began to upset him.",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "s|2",
+        "f": "sense",
+        "s": "Quelqu'un a ___ tous mes papiers sur le bureau.",
+        "a": "dérangé",
+        "en": "Someone has messed up all my papers on the desk.",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "s|2",
+        "f": "sense",
+        "s": "Ne ___ pas mes affaires — je sais où chaque chose se trouve.",
+        "a": "dérange",
+        "en": "Don't mess up my things — I know where everything is.",
+        "alts": [],
+        "form": ""
+      }
+    ]
+  },
+  {
+    "id": 2733,
+    "qs": [
+      {
+        "slot": "s|0",
+        "f": "sense",
+        "s": "Son comportement ce matin était vraiment ___ ; personne ne s'y attendait.",
+        "a": "inhabituel",
+        "en": "His behavior this morning was truly unusual; nobody expected it.",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "s|0",
+        "f": "sense",
+        "s": "Le calme qui régnait dans la classe était ___ pour un lundi matin.",
+        "a": "inhabituel",
+        "en": "The quiet that reigned in the classroom was unusual for a Monday morning.",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "s|1",
+        "f": "sense",
+        "s": "Il possède un talent ___ qui lui permet de résoudre des problèmes complexes en quelques secondes.",
+        "a": "inhabituel",
+        "en": "He possesses an extraordinary talent that allows him to solve complex problems in seconds.",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "s|1",
+        "f": "sense",
+        "s": "La précision de ses prévisions météorologiques était ___ même pour un expert.",
+        "a": "inhabituelle",
+        "en": "The precision of his weather forecasts was extraordinary, even for an expert.",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "g|mp",
+        "f": "agree",
+        "s": "Les scientifiques ont observé des phénomènes ___ dans cette région.",
+        "a": "inhabituels",
+        "en": "The scientists observed unusual phenomena in this region.",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "g|mp",
+        "f": "agree",
+        "s": "Ces résultats ___ ont surpris toute l'équipe de recherche.",
+        "a": "inhabituels",
+        "en": "These unusual results surprised the entire research team.",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "g|f",
+        "f": "agree",
+        "s": "Cette méthode de travail est ___ dans notre domaine.",
+        "a": "inhabituelle",
+        "en": "This work method is unusual in our field.",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "g|f",
+        "f": "agree",
+        "s": "Une odeur ___ se dégageait de la cuisine ce soir-là.",
+        "a": "inhabituelle",
+        "en": "An unusual smell was coming from the kitchen that evening.",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "g|fp",
+        "f": "agree",
+        "s": "Elle portait des tenues vraiment ___ lors de cette soirée.",
+        "a": "inhabituelles",
+        "en": "She was wearing truly unusual outfits at that party.",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "g|fp",
+        "f": "agree",
+        "s": "Les autorités ont signalé des activités ___ près de la frontière.",
+        "a": "inhabituelles",
+        "en": "The authorities reported unusual activities near the border.",
+        "alts": [],
+        "form": ""
+      }
+    ]
+  }
+]

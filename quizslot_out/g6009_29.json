@@ -1,0 +1,689 @@
+[
+  {
+    "id": 6582,
+    "qs": [
+      {
+        "slot": "t|Présent|0",
+        "f": "tense",
+        "s": "Chaque matin, j'___ ce petit renard avec de la patience.",
+        "en": "Every morning, I tame this little fox with patience.",
+        "a": "apprivoise",
+        "alts": [],
+        "form": "Présent"
+      },
+      {
+        "slot": "t|Présent|0",
+        "f": "tense",
+        "s": "Le dresseur ___ ce cheval sauvage petit à petit.",
+        "en": "The trainer tames this wild horse little by little.",
+        "a": "apprivoise",
+        "alts": [],
+        "form": "Présent"
+      },
+      {
+        "slot": "t|Présent|1",
+        "f": "tense",
+        "s": "Tu ___ cet oiseau blessé avec beaucoup de douceur.",
+        "en": "You tame this injured bird with a lot of gentleness.",
+        "a": "apprivoises",
+        "alts": [],
+        "form": "Présent"
+      },
+      {
+        "slot": "t|Présent|1",
+        "f": "tense",
+        "s": "Tu ___ ce chat errant tous les soirs après le travail.",
+        "en": "You tame this stray cat every evening after work.",
+        "a": "apprivoises",
+        "alts": [],
+        "form": "Présent"
+      },
+      {
+        "slot": "t|Présent|2",
+        "f": "tense",
+        "s": "Nous ___ ensemble ce jeune loup né en captivité.",
+        "en": "We tame this young wolf born in captivity together.",
+        "a": "apprivoisons",
+        "alts": [],
+        "form": "Présent"
+      },
+      {
+        "slot": "t|Présent|2",
+        "f": "tense",
+        "s": "Dans ce refuge, nous ___ les animaux sauvages recueillis.",
+        "en": "In this shelter, we tame the rescued wild animals.",
+        "a": "apprivoisons",
+        "alts": [],
+        "form": "Présent"
+      },
+      {
+        "slot": "t|Présent|3",
+        "f": "tense",
+        "s": "Vous ___ patiemment ce poulain nerveux.",
+        "en": "You patiently tame this nervous colt.",
+        "a": "apprivoisez",
+        "alts": [],
+        "form": "Présent"
+      },
+      {
+        "slot": "t|Présent|3",
+        "f": "tense",
+        "s": "Vous ___ cet écureuil sauvage avec des noisettes.",
+        "en": "You tame this wild squirrel with hazelnuts.",
+        "a": "apprivoisez",
+        "alts": [],
+        "form": "Présent"
+      },
+      {
+        "slot": "t|Présent|4",
+        "f": "tense",
+        "s": "Les soigneurs ___ progressivement le tigre du zoo.",
+        "en": "The keepers gradually tame the zoo's tiger.",
+        "a": "apprivoisent",
+        "alts": [],
+        "form": "Présent"
+      },
+      {
+        "slot": "t|Présent|4",
+        "f": "tense",
+        "s": "Elles ___ ensemble les chiots abandonnés du village.",
+        "en": "They tame the abandoned puppies of the village together.",
+        "a": "apprivoisent",
+        "alts": [],
+        "form": "Présent"
+      },
+      {
+        "slot": "t|Passé composé|0",
+        "f": "tense",
+        "s": "L'année dernière, j'___ un renard blessé trouvé dans les bois.",
+        "en": "Last year, I tamed an injured fox found in the woods.",
+        "a": "ai apprivoisé",
+        "alts": [],
+        "form": "Passé composé"
+      },
+      {
+        "slot": "t|Passé composé|0",
+        "f": "tense",
+        "s": "Enfin, j'___ ce cheval récalcitrant après des mois d'efforts.",
+        "en": "Finally, I tamed this stubborn horse after months of effort.",
+        "a": "ai apprivoisé",
+        "alts": [],
+        "form": "Passé composé"
+      },
+      {
+        "slot": "t|Passé composé|1",
+        "f": "tense",
+        "s": "Tu ___ ce chat sauvage en seulement deux semaines.",
+        "en": "You tamed this wild cat in only two weeks.",
+        "a": "as apprivoisé",
+        "alts": [],
+        "form": "Passé composé"
+      },
+      {
+        "slot": "t|Passé composé|1",
+        "f": "tense",
+        "s": "Tu ___ cet oiseau blessé l'été dernier, n'est-ce pas ?",
+        "en": "You tamed this injured bird last summer, didn't you?",
+        "a": "as apprivoisé",
+        "alts": [],
+        "form": "Passé composé"
+      },
+      {
+        "slot": "t|Passé composé|2",
+        "f": "tense",
+        "s": "Le petit prince ___ le renard dans l'histoire.",
+        "en": "The little prince tamed the fox in the story.",
+        "a": "a apprivoisé",
+        "alts": [],
+        "form": "Passé composé"
+      },
+      {
+        "slot": "t|Passé composé|2",
+        "f": "tense",
+        "s": "Ma sœur ___ ce poney difficile en quelques jours.",
+        "en": "My sister tamed this difficult pony in a few days.",
+        "a": "a apprivoisé",
+        "alts": [],
+        "form": "Passé composé"
+      },
+      {
+        "slot": "t|Passé composé|3",
+        "f": "tense",
+        "s": "Nous ___ ce loup orphelin dès son plus jeune âge.",
+        "en": "We tamed this orphaned wolf from a very young age.",
+        "a": "avons apprivoisé",
+        "alts": [],
+        "form": "Passé composé"
+      },
+      {
+        "slot": "t|Passé composé|3",
+        "f": "tense",
+        "s": "Hier, nous ___ ensemble le nouveau chiot du refuge.",
+        "en": "Yesterday, we tamed the shelter's new puppy together.",
+        "a": "avons apprivoisé",
+        "alts": [],
+        "form": "Passé composé"
+      },
+      {
+        "slot": "t|Passé composé|4",
+        "f": "tense",
+        "s": "Vous ___ ce cheval sauvage avec beaucoup de patience.",
+        "en": "You tamed this wild horse with a lot of patience.",
+        "a": "avez apprivoisé",
+        "alts": [],
+        "form": "Passé composé"
+      },
+      {
+        "slot": "t|Passé composé|4",
+        "f": "tense",
+        "s": "Vous ___ cet aigle blessé pendant votre stage au sanctuaire.",
+        "en": "You tamed this injured eagle during your internship at the sanctuary.",
+        "a": "avez apprivoisé",
+        "alts": [],
+        "form": "Passé composé"
+      },
+      {
+        "slot": "t|Passé composé|5",
+        "f": "tense",
+        "s": "Les enfants ___ le petit lapin sauvage en une semaine.",
+        "en": "The children tamed the little wild rabbit in a week.",
+        "a": "ont apprivoisé",
+        "alts": [],
+        "form": "Passé composé"
+      },
+      {
+        "slot": "t|Passé composé|5",
+        "f": "tense",
+        "s": "Elles ___ ce faucon rebelle avant la démonstration.",
+        "en": "They tamed this rebellious falcon before the demonstration.",
+        "a": "ont apprivoisé",
+        "alts": [],
+        "form": "Passé composé"
+      },
+      {
+        "slot": "t|Imparfait|0",
+        "f": "tense",
+        "s": "Quand j'étais enfant, j'___ souvent des oiseaux blessés.",
+        "en": "When I was a child, I often tamed injured birds.",
+        "a": "apprivoisais",
+        "alts": [],
+        "form": "Imparfait"
+      },
+      {
+        "slot": "t|Imparfait|0",
+        "f": "tense",
+        "s": "Tu ___ patiemment ce jeune faucon chaque après-midi.",
+        "en": "You used to patiently tame this young falcon every afternoon.",
+        "a": "apprivoisais",
+        "alts": [],
+        "form": "Imparfait"
+      },
+      {
+        "slot": "t|Imparfait|1",
+        "f": "tense",
+        "s": "Autrefois, le berger ___ les loups avec de la viande.",
+        "en": "In the past, the shepherd used to tame wolves with meat.",
+        "a": "apprivoisait",
+        "alts": [],
+        "form": "Imparfait"
+      },
+      {
+        "slot": "t|Imparfait|1",
+        "f": "tense",
+        "s": "Elle ___ chaque animal qu'elle recueillait au refuge.",
+        "en": "She used to tame every animal she took in at the shelter.",
+        "a": "apprivoisait",
+        "alts": [],
+        "form": "Imparfait"
+      },
+      {
+        "slot": "t|Imparfait|2",
+        "f": "tense",
+        "s": "Quand nous vivions à la ferme, nous ___ les poulains sauvages.",
+        "en": "When we lived on the farm, we used to tame the wild colts.",
+        "a": "apprivoisions",
+        "alts": [],
+        "form": "Imparfait"
+      },
+      {
+        "slot": "t|Imparfait|2",
+        "f": "tense",
+        "s": "Nous ___ souvent des chats errants avec ma grand-mère.",
+        "en": "We often used to tame stray cats with my grandmother.",
+        "a": "apprivoisions",
+        "alts": [],
+        "form": "Imparfait"
+      },
+      {
+        "slot": "t|Imparfait|3",
+        "f": "tense",
+        "s": "À cette époque, vous ___ les chevaux du cirque avec douceur.",
+        "en": "At that time, you used to tame the circus horses gently.",
+        "a": "apprivoisiez",
+        "alts": [],
+        "form": "Imparfait"
+      },
+      {
+        "slot": "t|Imparfait|3",
+        "f": "tense",
+        "s": "Vous ___ chaque jour un nouvel animal au zoo.",
+        "en": "You used to tame a new animal at the zoo every day.",
+        "a": "apprivoisiez",
+        "alts": [],
+        "form": "Imparfait"
+      },
+      {
+        "slot": "t|Imparfait|4",
+        "f": "tense",
+        "s": "Les dresseurs ___ les fauves avant chaque spectacle.",
+        "en": "The trainers used to tame the wild animals before each show.",
+        "a": "apprivoisaient",
+        "alts": [],
+        "form": "Imparfait"
+      },
+      {
+        "slot": "t|Imparfait|4",
+        "f": "tense",
+        "s": "Elles ___ patiemment les oisillons tombés du nid.",
+        "en": "They used to patiently tame the baby birds fallen from the nest.",
+        "a": "apprivoisaient",
+        "alts": [],
+        "form": "Imparfait"
+      },
+      {
+        "slot": "t|Futur|0",
+        "f": "tense",
+        "s": "Demain, j'___ enfin ce renard qui rôde près de chez moi.",
+        "en": "Tomorrow, I will finally tame this fox that prowls near my house.",
+        "a": "apprivoiserai",
+        "alts": [],
+        "form": "Futur"
+      },
+      {
+        "slot": "t|Futur|0",
+        "f": "tense",
+        "s": "Un jour, j'___ un cheval sauvage rien qu'à moi.",
+        "en": "One day, I will tame a wild horse all my own.",
+        "a": "apprivoiserai",
+        "alts": [],
+        "form": "Futur"
+      },
+      {
+        "slot": "t|Futur|1",
+        "f": "tense",
+        "s": "Avec de la patience, tu ___ ce chien peureux.",
+        "en": "With patience, you will tame this fearful dog.",
+        "a": "apprivoiseras",
+        "alts": [],
+        "form": "Futur"
+      },
+      {
+        "slot": "t|Futur|1",
+        "f": "tense",
+        "s": "Un jour, tu ___ ce chat sauvage, j'en suis sûr.",
+        "en": "One day, you will tame this wild cat, I'm sure of it.",
+        "a": "apprivoiseras",
+        "alts": [],
+        "form": "Futur"
+      },
+      {
+        "slot": "t|Futur|2",
+        "f": "tense",
+        "s": "Le nouveau soigneur ___ le lion la semaine prochaine.",
+        "en": "The new keeper will tame the lion next week.",
+        "a": "apprivoisera",
+        "alts": [],
+        "form": "Futur"
+      },
+      {
+        "slot": "t|Futur|2",
+        "f": "tense",
+        "s": "Elle ___ ce poulain sauvage dès qu'il aura confiance.",
+        "en": "She will tame this wild colt as soon as it gains trust.",
+        "a": "apprivoisera",
+        "alts": [],
+        "form": "Futur"
+      },
+      {
+        "slot": "t|Futur|3",
+        "f": "tense",
+        "s": "Cet été, nous ___ les chevaux du nouveau troupeau.",
+        "en": "This summer, we will tame the horses of the new herd.",
+        "a": "apprivoiserons",
+        "alts": [],
+        "form": "Futur"
+      },
+      {
+        "slot": "t|Futur|3",
+        "f": "tense",
+        "s": "Nous ___ ce jeune loup avant son transfert au zoo.",
+        "en": "We will tame this young wolf before its transfer to the zoo.",
+        "a": "apprivoiserons",
+        "alts": [],
+        "form": "Futur"
+      },
+      {
+        "slot": "t|Futur|4",
+        "f": "tense",
+        "s": "Vous ___ cet aigle blessé pendant votre formation.",
+        "en": "You will tame this injured eagle during your training.",
+        "a": "apprivoiserez",
+        "alts": [],
+        "form": "Futur"
+      },
+      {
+        "slot": "t|Futur|4",
+        "f": "tense",
+        "s": "Avec de la persévérance, vous ___ ce cheval rétif.",
+        "en": "With perseverance, you will tame this stubborn horse.",
+        "a": "apprivoiserez",
+        "alts": [],
+        "form": "Futur"
+      },
+      {
+        "slot": "t|Futur|5",
+        "f": "tense",
+        "s": "Les nouveaux gardiens ___ le tigre d'ici la fin du mois.",
+        "en": "The new keepers will tame the tiger by the end of the month.",
+        "a": "apprivoiseront",
+        "alts": [],
+        "form": "Futur"
+      },
+      {
+        "slot": "t|Futur|5",
+        "f": "tense",
+        "s": "Elles ___ ce troupeau de chevaux sauvages avant l'hiver.",
+        "en": "They will tame this herd of wild horses before winter.",
+        "a": "apprivoiseront",
+        "alts": [],
+        "form": "Futur"
+      },
+      {
+        "slot": "t|Conditionnel|0",
+        "f": "tense",
+        "s": "Si j'avais plus de temps, j'___ ce petit renard du jardin.",
+        "en": "If I had more time, I would tame this little fox from the garden.",
+        "a": "apprivoiserais",
+        "alts": [],
+        "form": "Conditionnel"
+      },
+      {
+        "slot": "t|Conditionnel|0",
+        "f": "tense",
+        "s": "Si tu étais plus patient, tu ___ facilement ce chat sauvage.",
+        "en": "If you were more patient, you would easily tame this wild cat.",
+        "a": "apprivoiserais",
+        "alts": [],
+        "form": "Conditionnel"
+      },
+      {
+        "slot": "t|Conditionnel|1",
+        "f": "tense",
+        "s": "Si mon frère avait un jardin, il ___ ce hérisson errant.",
+        "en": "If my brother had a garden, he would tame this stray hedgehog.",
+        "a": "apprivoiserait",
+        "alts": [],
+        "form": "Conditionnel"
+      },
+      {
+        "slot": "t|Conditionnel|1",
+        "f": "tense",
+        "s": "Avec plus de calme, elle ___ ce poulain nerveux.",
+        "en": "With more calm, she would tame this nervous colt.",
+        "a": "apprivoiserait",
+        "alts": [],
+        "form": "Conditionnel"
+      },
+      {
+        "slot": "t|Conditionnel|2",
+        "f": "tense",
+        "s": "Si nous avions une ferme, nous ___ des chevaux sauvages.",
+        "en": "If we had a farm, we would tame wild horses.",
+        "a": "apprivoiserions",
+        "alts": [],
+        "form": "Conditionnel"
+      },
+      {
+        "slot": "t|Conditionnel|2",
+        "f": "tense",
+        "s": "Avec l'aide d'un spécialiste, nous ___ ce loup blessé.",
+        "en": "With the help of a specialist, we would tame this injured wolf.",
+        "a": "apprivoiserions",
+        "alts": [],
+        "form": "Conditionnel"
+      },
+      {
+        "slot": "t|Conditionnel|3",
+        "f": "tense",
+        "s": "Si vous restiez plus longtemps, vous ___ ce faucon craintif.",
+        "en": "If you stayed longer, you would tame this timid falcon.",
+        "a": "apprivoiseriez",
+        "alts": [],
+        "form": "Conditionnel"
+      },
+      {
+        "slot": "t|Conditionnel|3",
+        "f": "tense",
+        "s": "Avec de la patience, vous ___ ce chien abandonné.",
+        "en": "With patience, you would tame this abandoned dog.",
+        "a": "apprivoiseriez",
+        "alts": [],
+        "form": "Conditionnel"
+      },
+      {
+        "slot": "t|Conditionnel|4",
+        "f": "tense",
+        "s": "Si les enfants restaient calmes, ils ___ cet oiseau blessé.",
+        "en": "If the children stayed calm, they would tame this injured bird.",
+        "a": "apprivoiseraient",
+        "alts": [],
+        "form": "Conditionnel"
+      },
+      {
+        "slot": "t|Conditionnel|4",
+        "f": "tense",
+        "s": "Avec le temps, elles ___ ce chat de gouttière méfiant.",
+        "en": "Given time, they would tame this wary stray cat.",
+        "a": "apprivoiseraient",
+        "alts": [],
+        "form": "Conditionnel"
+      },
+      {
+        "slot": "t|Subjonctif",
+        "f": "subj",
+        "s": "Il faut que tu ___ ce cheval avant la compétition.",
+        "en": "You need to tame this horse before the competition.",
+        "a": "apprivoises",
+        "alts": [],
+        "form": "Subjonctif"
+      },
+      {
+        "slot": "t|Subjonctif",
+        "f": "subj",
+        "s": "Je veux qu'elle ___ ce renard peu à peu.",
+        "en": "I want her to tame this fox little by little.",
+        "a": "apprivoise",
+        "alts": [],
+        "form": "Subjonctif"
+      },
+      {
+        "slot": "s|0",
+        "f": "sense",
+        "s": "Le petit prince a réussi à ___ le renard du désert.",
+        "en": "The little prince managed to tame the desert fox.",
+        "a": "apprivoiser",
+        "alts": []
+      },
+      {
+        "slot": "s|0",
+        "f": "sense",
+        "s": "Il faut du temps pour ___ un animal sauvage.",
+        "en": "It takes time to tame a wild animal.",
+        "a": "apprivoiser",
+        "alts": []
+      },
+      {
+        "slot": "s|1",
+        "f": "sense",
+        "s": "Avec douceur, elle a fini par ___ cet enfant timide.",
+        "en": "With gentleness, she eventually won over this shy child.",
+        "a": "apprivoiser",
+        "alts": []
+      },
+      {
+        "slot": "s|1",
+        "f": "sense",
+        "s": "Le nouveau professeur a su ___ cette classe difficile.",
+        "en": "The new teacher managed to win over this difficult class.",
+        "a": "apprivoiser",
+        "alts": []
+      }
+    ]
+  },
+  {
+    "id": 6583,
+    "qs": [
+      {
+        "slot": "s|0",
+        "f": "sense",
+        "s": "Le contraste entre les deux photos est ___.",
+        "en": "The contrast between the two photos is striking.",
+        "a": "frappant",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "s|0",
+        "f": "sense",
+        "s": "Son talent est ___ pour quelqu'un de si jeune.",
+        "en": "His talent is striking for someone so young.",
+        "a": "frappant",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "g|mp",
+        "f": "agree",
+        "s": "Les résultats de l'enquête sont ___.",
+        "en": "The survey results are striking.",
+        "a": "frappants",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "g|mp",
+        "f": "agree",
+        "s": "Ses arguments étaient ___ de vérité.",
+        "en": "His arguments were strikingly true.",
+        "a": "frappants",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "g|f",
+        "f": "agree",
+        "s": "La ressemblance entre les jumeaux est ___.",
+        "en": "The resemblance between the twins is striking.",
+        "a": "frappante",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "g|f",
+        "f": "agree",
+        "s": "La différence de style entre les deux peintres est ___.",
+        "en": "The difference in style between the two painters is striking.",
+        "a": "frappante",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "g|fp",
+        "f": "agree",
+        "s": "Les similitudes entre les deux affaires sont ___.",
+        "en": "The similarities between the two cases are striking.",
+        "a": "frappantes",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "g|fp",
+        "f": "agree",
+        "s": "Ces images sont ___ de réalisme.",
+        "en": "These images are strikingly realistic.",
+        "a": "frappantes",
+        "alts": [],
+        "form": ""
+      }
+    ]
+  },
+  {
+    "id": 6584,
+    "qs": [
+      {
+        "slot": "s|0",
+        "f": "sense",
+        "s": "Les services secrets ont réussi une ___ dans le réseau terroriste.",
+        "en": "The secret services succeeded in an infiltration into the terrorist network.",
+        "a": "infiltration",
+        "alts": []
+      },
+      {
+        "slot": "s|0",
+        "f": "sense",
+        "s": "L'agent a été formé pour une mission d'___ au sein de l'organisation criminelle.",
+        "en": "The agent was trained for an infiltration mission within the criminal organization.",
+        "a": "infiltration",
+        "alts": []
+      },
+      {
+        "slot": "s|1",
+        "f": "sense",
+        "s": "Après les fortes pluies, une ___ d'eau a endommagé le sous-sol.",
+        "en": "After the heavy rains, a water infiltration damaged the basement.",
+        "a": "infiltration",
+        "alts": []
+      },
+      {
+        "slot": "s|1",
+        "f": "sense",
+        "s": "On a détecté une ___ d'eau dans le mur de la cave.",
+        "en": "A water infiltration was detected in the cellar wall.",
+        "a": "infiltration",
+        "alts": []
+      },
+      {
+        "slot": "s|2",
+        "f": "sense",
+        "s": "Le médecin lui a fait une ___ de cortisone dans le genou.",
+        "en": "The doctor gave him a cortisone infiltration in the knee.",
+        "a": "infiltration",
+        "alts": []
+      },
+      {
+        "slot": "s|2",
+        "f": "sense",
+        "s": "Pour soulager la douleur à l'épaule, le rhumatologue propose une ___.",
+        "en": "To relieve the shoulder pain, the rheumatologist suggests an infiltration.",
+        "a": "infiltration",
+        "alts": []
+      },
+      {
+        "slot": "gender",
+        "f": "gender",
+        "s": "___ infiltration ennemie a été stoppée à temps.",
+        "en": "An enemy infiltration was stopped in time.",
+        "a": "Une",
+        "alts": []
+      },
+      {
+        "slot": "gender",
+        "f": "gender",
+        "s": "___ infiltration observée dans le mur inquiète les propriétaires.",
+        "en": "The infiltration observed in the wall worries the owners.",
+        "a": "L'",
+        "alts": []
+      }
+    ]
+  }
+]

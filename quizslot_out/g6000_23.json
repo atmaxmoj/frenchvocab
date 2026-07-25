@@ -1,0 +1,35 @@
+[
+  {
+    "id": 5070,
+    "qs": [
+      {"slot": "s|0", "f": "sense", "s": "Ce soir, nous allons voir un ___ de Mozart.", "en": "Tonight, we are going to see an opera by Mozart.", "a": "opéra", "alts": [], "form": ""},
+      {"slot": "s|0", "f": "sense", "s": "Elle a composé un ___ en trois actes.", "en": "She composed an opera in three acts.", "a": "opéra", "alts": [], "form": ""},
+      {"slot": "s|1", "f": "sense", "s": "L'___ de Paris est un monument magnifique.", "en": "The Paris Opera House is a magnificent monument.", "a": "opéra", "alts": [], "form": ""},
+      {"slot": "s|1", "f": "sense", "s": "Nous nous sommes retrouvés devant l'___ après le spectacle.", "en": "We met in front of the opera house after the show.", "a": "opéra", "alts": [], "form": ""},
+      {"slot": "gender", "f": "gender", "s": "___ opéra a été annulé à cause de la neige.", "en": "An opera was cancelled because of the snow.", "a": "Un", "alts": [], "form": ""},
+      {"slot": "gender", "f": "gender", "s": "Mon père écoute souvent ___ opéra italien le dimanche.", "en": "My father often listens to an Italian opera on Sundays.", "a": "un", "alts": [], "form": ""}
+    ]
+  },
+  {
+    "id": 5071,
+    "qs": [
+      {"slot": "s|0", "f": "sense", "s": "Mon frère est ___ de mon succès.", "a": "jaloux", "en": "My brother is jealous of my success.", "alts": [], "form": ""},
+      {"slot": "s|0", "f": "sense", "s": "Il est ___ quand sa copine parle à d'autres garçons.", "a": "jaloux", "en": "He is jealous when his girlfriend talks to other boys.", "alts": [], "form": ""},
+      {"slot": "g|mp", "f": "agree", "s": "Ses collègues sont ___ de sa promotion.", "a": "jaloux", "en": "His colleagues are jealous of his promotion.", "alts": [], "form": ""},
+      {"slot": "g|mp", "f": "agree", "s": "Les frères de Paul sont ___ de sa réussite.", "a": "jaloux", "en": "Paul's brothers are jealous of his success.", "alts": [], "form": ""},
+      {"slot": "g|f", "f": "agree", "s": "Ma sœur est ___ de ma nouvelle voiture.", "a": "jalouse", "en": "My sister is jealous of my new car.", "alts": [], "form": ""},
+      {"slot": "g|f", "f": "agree", "s": "Marie est ___ quand son copain regarde d'autres filles.", "a": "jalouse", "en": "Marie is jealous when her boyfriend looks at other girls.", "alts": [], "form": ""},
+      {"slot": "g|fp", "f": "agree", "s": "Mes sœurs sont ___ de mon appartement.", "a": "jalouses", "en": "My sisters are jealous of my apartment.", "alts": [], "form": ""},
+      {"slot": "g|fp", "f": "agree", "s": "Ces filles sont ___ de sa beauté.", "a": "jalouses", "en": "Those girls are jealous of her beauty.", "alts": [], "form": ""}
+    ]
+  },
+  {
+    "id": 5072,
+    "qs": [
+      {"slot": "s|0", "f": "sense", "s": "Le petit garçon a un ___ blanc dans une cage.", "en": "The little boy has a white rabbit in a cage.", "a": "lapin", "alts": [], "form": ""},
+      {"slot": "s|0", "f": "sense", "s": "Dans le jardin, un ___ grignotait des carottes.", "en": "In the garden, a rabbit was nibbling on carrots.", "a": "lapin", "alts": [], "form": ""},
+      {"slot": "gender", "f": "gender", "s": "J'ai vu ___ lapin traverser la route ce matin.", "en": "I saw a rabbit cross the road this morning.", "a": "un", "alts": [], "form": ""},
+      {"slot": "gender", "f": "gender", "s": "___ lapin de mon voisin s'appelle Jeannot.", "en": "My neighbor's rabbit is called Jeannot.", "a": "Le", "alts": [], "form": ""}
+    ]
+  }
+]

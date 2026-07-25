@@ -1,0 +1,39 @@
+[
+  {
+    "id": 193,
+    "qs": [
+      {"slot": "s|0", "f": "sense", "s": "Je ne comprends pas ___ tu es en colère.", "a": "pourquoi", "en": "I don't understand why you are angry.", "alts": [], "form": ""},
+      {"slot": "s|0", "f": "sense", "s": "Dis-moi ___ tu as refusé cette offre.", "a": "pourquoi", "en": "Tell me why you refused this offer.", "alts": [], "form": ""},
+      {"slot": "s|1", "f": "sense", "s": "Elle cherche à comprendre le ___ de sa décision.", "a": "pourquoi", "en": "She is trying to understand the reason behind her decision.", "alts": [], "form": ""},
+      {"slot": "s|1", "f": "sense", "s": "Il nous a expliqué le ___ de ce changement inattendu.", "a": "pourquoi", "en": "He explained to us the reason for this unexpected change.", "alts": [], "form": ""},
+      {"slot": "gender", "f": "gender", "s": "On n'explique pas toujours ___ pourquoi.", "a": "le", "en": "We don't always explain the why.", "alts": [], "form": ""},
+      {"slot": "gender", "f": "gender", "s": "Les enfants posent souvent des questions sur ___ et le comment des choses.", "a": "le", "en": "Children often ask questions about the why and the how of things.", "alts": [], "form": ""}
+    ]
+  },
+  {
+    "id": 194,
+    "qs": [
+      {"slot": "s|0", "f": "sense", "s": "Ce café est ___ que celui d'hier.", "a": "meilleur", "en": "This coffee is better than yesterday's.", "alts": [], "form": ""},
+      {"slot": "s|0", "f": "sense", "s": "Mon nouveau téléphone est ___ que l'ancien.", "a": "meilleur", "en": "My new phone is better than the old one.", "alts": [], "form": ""},
+      {"slot": "s|1", "f": "sense", "s": "C'est le ___ restaurant de la ville.", "a": "meilleur", "en": "It's the best restaurant in the city.", "alts": [], "form": ""},
+      {"slot": "s|1", "f": "sense", "s": "Il a obtenu le ___ résultat de toute la classe.", "a": "meilleur", "en": "He got the best result in the whole class.", "alts": [], "form": ""},
+      {"slot": "g|mp", "f": "agree", "s": "Ces deux films sont vraiment ___ que les précédents.", "a": "meilleurs", "en": "These two films are really better than the previous ones.", "alts": [], "form": ""},
+      {"slot": "g|mp", "f": "agree", "s": "Ce sont les ___ élèves de l'école.", "a": "meilleurs", "en": "They are the best students in the school.", "alts": [], "form": ""},
+      {"slot": "g|f", "f": "agree", "s": "Cette méthode est ___ que l'ancienne.", "a": "meilleure", "en": "This method is better than the old one.", "alts": [], "form": ""},
+      {"slot": "g|f", "f": "agree", "s": "C'est la ___ solution que nous ayons trouvée.", "a": "meilleure", "en": "It's the best solution we have found.", "alts": [], "form": ""},
+      {"slot": "g|fp", "f": "agree", "s": "Les conditions de travail sont ___ dans cette entreprise que dans l'autre.", "a": "meilleures", "en": "The working conditions are better in this company than in the other one.", "alts": [], "form": ""},
+      {"slot": "g|fp", "f": "agree", "s": "Ce sont les ___ notes qu'elle ait jamais eues.", "a": "meilleures", "en": "These are the best grades she has ever had.", "alts": [], "form": ""}
+    ]
+  },
+  {
+    "id": 195,
+    "qs": [
+      {"slot": "s|0", "f": "sense", "s": "C'est ___ bien, je suis vraiment content !", "a": "trop", "en": "It's so great (too good), I'm really happy!", "alts": [], "form": ""},
+      {"slot": "s|0", "f": "sense", "s": "Ce film est ___ beau, j'ai pleuré à la fin.", "a": "trop", "en": "This film is so beautiful (too wonderful), I cried at the end.", "alts": [], "form": ""},
+      {"slot": "s|1", "f": "sense", "s": "Il est ___ timide pour parler en public.", "a": "trop", "en": "He is too shy (overly shy) to speak in public.", "alts": [], "form": ""},
+      {"slot": "s|1", "f": "sense", "s": "Tu conduis ___ vite, c'est dangereux.", "a": "trop", "en": "You drive too fast (excessively fast), it's dangerous.", "alts": [], "form": ""},
+      {"slot": "s|2", "f": "sense", "s": "Il y a ___ de monde dans ce restaurant, allons ailleurs.", "a": "trop", "en": "There are too many people in this restaurant, let's go elsewhere.", "alts": [], "form": ""},
+      {"slot": "s|2", "f": "sense", "s": "Tu as mis ___ de sel dans la soupe, elle est immangeable.", "a": "trop", "en": "You put too much salt in the soup, it's inedible.", "alts": [], "form": ""}
+    ]
+  }
+]

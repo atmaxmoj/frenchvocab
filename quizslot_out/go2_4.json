@@ -1,0 +1,737 @@
+[
+  {
+    "id": 2313,
+    "qs": [
+      {
+        "slot": "s|0",
+        "f": "sense",
+        "s": "Le bois est trop ___ pour être utilisé comme bois de chauffage.",
+        "a": "sec",
+        "en": "The wood is too dry to be used as firewood.",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "s|0",
+        "f": "sense",
+        "s": "La saison ___ dure plusieurs mois dans cette région aride.",
+        "a": "sèche",
+        "en": "The dry season lasts several months in this arid region.",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "s|1",
+        "f": "sense",
+        "s": "Après sa longue maladie, il est devenu très ___ et pâle.",
+        "a": "sec",
+        "en": "After his long illness, he became very gaunt and pale.",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "s|1",
+        "f": "sense",
+        "s": "Elle avait les doigts ___ et noueux de ceux qui ont travaillé toute leur vie.",
+        "a": "secs",
+        "en": "She had the gaunt and gnarled fingers of someone who had worked all their life.",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "s|2",
+        "f": "sense",
+        "s": "Il a répondu d'un ton ___, sans même lever les yeux de son journal.",
+        "a": "sec",
+        "en": "He replied in a curt tone, without even looking up from his newspaper.",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "s|2",
+        "f": "sense",
+        "s": "Sa remarque fut si ___ que tout le monde se tut immédiatement.",
+        "a": "sèche",
+        "en": "His remark was so curt that everyone fell silent immediately.",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "gender",
+        "f": "gender",
+        "s": "Dans ce pays désertique, ___ sec est la norme : il pleut à peine quelques jours par an.",
+        "a": "le",
+        "en": "In this desert country, dryness is the norm: it barely rains a few days a year.",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "gender",
+        "f": "gender",
+        "s": "Le serveur lui a recommandé ___ vin sec pour accompagner les huîtres.",
+        "a": "un",
+        "en": "The waiter recommended a dry wine to accompany the oysters.",
+        "alts": [],
+        "form": ""
+      }
+    ]
+  },
+  {
+    "id": 2314,
+    "qs": [
+      {
+        "slot": "s|0",
+        "f": "sense",
+        "s": "Le gouvernement a publié un ___ interdisant la vente de certains produits dangereux.",
+        "a": "arrêté",
+        "en": "The government published a decree banning the sale of certain dangerous products.",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "s|0",
+        "f": "sense",
+        "s": "Cet ___ municipal interdit le stationnement dans cette rue à partir de minuit.",
+        "a": "arrêté",
+        "en": "This municipal decree prohibits parking on this street from midnight.",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "s|1",
+        "f": "sense",
+        "s": "Le préfet a signé un ___ préfectoral pour limiter les déplacements dans le département.",
+        "a": "arrêté",
+        "en": "The prefect signed an administrative order to restrict movement in the department.",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "s|1",
+        "f": "sense",
+        "s": "Le ministre a pris un ___ ministériel pour réglementer l'usage de ce produit chimique.",
+        "a": "arrêté",
+        "en": "The minister issued a ministerial administrative order to regulate the use of this chemical.",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "g|mp",
+        "f": "agree",
+        "s": "Les suspects ont été ___ par la police hier soir dans le centre-ville.",
+        "a": "arrêtés",
+        "en": "The suspects were arrested by the police last night in the city center.",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "g|mp",
+        "f": "agree",
+        "s": "Les travaux ont été ___ en raison des mauvaises conditions météorologiques.",
+        "a": "arrêtés",
+        "en": "The works were stopped due to bad weather conditions.",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "g|f",
+        "f": "agree",
+        "s": "Elle a été ___ à la frontière par les douaniers ce matin.",
+        "a": "arrêtée",
+        "en": "She was stopped at the border by customs officers this morning.",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "g|f",
+        "f": "agree",
+        "s": "La production a été ___ temporairement à cause d'une panne grave.",
+        "a": "arrêtée",
+        "en": "Production was temporarily stopped due to a serious breakdown.",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "g|fp",
+        "f": "agree",
+        "s": "Les manifestantes ont été ___ devant le bâtiment officiel par les forces de l'ordre.",
+        "a": "arrêtées",
+        "en": "The female protesters were arrested in front of the official building by law enforcement.",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "g|fp",
+        "f": "agree",
+        "s": "Ces transactions suspectes ont été ___ immédiatement par la banque.",
+        "a": "arrêtées",
+        "en": "These suspicious transactions were immediately stopped by the bank.",
+        "alts": [],
+        "form": ""
+      }
+    ]
+  },
+  {
+    "id": 2315,
+    "qs": [
+      {
+        "slot": "t|Présent|0",
+        "f": "tense",
+        "s": "Le gardien ___ le criminel dans sa cellule.",
+        "a": "enferme",
+        "en": "The guard shuts the criminal in his cell.",
+        "alts": [],
+        "form": "Présent"
+      },
+      {
+        "slot": "t|Présent|0",
+        "f": "tense",
+        "s": "J'___ les documents importants dans le coffre-fort.",
+        "a": "enferme",
+        "en": "I shut the important documents in the safe.",
+        "alts": [],
+        "form": "Présent"
+      },
+      {
+        "slot": "t|Présent|1",
+        "f": "tense",
+        "s": "Tu ___ ton chien dans la cuisine quand tu pars ?",
+        "a": "enfermes",
+        "en": "Do you shut your dog in the kitchen when you leave?",
+        "alts": [],
+        "form": "Présent"
+      },
+      {
+        "slot": "t|Présent|1",
+        "f": "tense",
+        "s": "Pourquoi tu ___ toujours la porte à clé le soir ?",
+        "a": "enfermes",
+        "en": "Why do you always lock yourself in at night?",
+        "alts": [],
+        "form": "Présent"
+      },
+      {
+        "slot": "t|Présent|2",
+        "f": "tense",
+        "s": "Nous ___ les dossiers confidentiels dans l'armoire.",
+        "a": "enfermons",
+        "en": "We shut the confidential files in the cabinet.",
+        "alts": [],
+        "form": "Présent"
+      },
+      {
+        "slot": "t|Présent|2",
+        "f": "tense",
+        "s": "Ce soir, nous ___ les animaux dans l'étable avant la tempête.",
+        "a": "enfermons",
+        "en": "Tonight, we shut the animals in the barn before the storm.",
+        "alts": [],
+        "form": "Présent"
+      },
+      {
+        "slot": "t|Présent|3",
+        "f": "tense",
+        "s": "Vous ___ les enfants dans leur chambre pour les punir ?",
+        "a": "enfermez",
+        "en": "Do you shut the children in their room to punish them?",
+        "alts": [],
+        "form": "Présent"
+      },
+      {
+        "slot": "t|Présent|3",
+        "f": "tense",
+        "s": "Chaque soir, vous ___ les poules dans le poulailler.",
+        "a": "enfermez",
+        "en": "Every evening, you shut the hens in the henhouse.",
+        "alts": [],
+        "form": "Présent"
+      },
+      {
+        "slot": "t|Présent|4",
+        "f": "tense",
+        "s": "Les policiers ___ le suspect dans une cellule d'interrogatoire.",
+        "a": "enferment",
+        "en": "The police officers shut the suspect in an interrogation cell.",
+        "alts": [],
+        "form": "Présent"
+      },
+      {
+        "slot": "t|Présent|4",
+        "f": "tense",
+        "s": "Ces murs ___ les prisonniers depuis des années.",
+        "a": "enferment",
+        "en": "These walls have been confining the prisoners for years.",
+        "alts": [],
+        "form": "Présent"
+      },
+      {
+        "slot": "t|Passé composé|0",
+        "f": "tense",
+        "s": "J'___ les bijoux dans le coffre avant de partir en voyage.",
+        "a": "ai enfermé",
+        "en": "I shut the jewels in the safe before leaving for the trip.",
+        "alts": [],
+        "form": "Passé composé"
+      },
+      {
+        "slot": "t|Passé composé|0",
+        "f": "tense",
+        "s": "Ce matin, j'___ accidentellement le chat dans la cave.",
+        "a": "ai enfermé",
+        "en": "This morning, I accidentally shut the cat in the cellar.",
+        "alts": [],
+        "form": "Passé composé"
+      },
+      {
+        "slot": "t|Passé composé|1",
+        "f": "tense",
+        "s": "Tu ___ le chien dehors toute la nuit dernière !",
+        "a": "as enfermé",
+        "en": "You shut the dog outside all last night!",
+        "alts": [],
+        "form": "Passé composé"
+      },
+      {
+        "slot": "t|Passé composé|1",
+        "f": "tense",
+        "s": "Tu ___ les lettres dans ce tiroir, non ?",
+        "a": "as enfermé",
+        "en": "You shut the letters in that drawer, didn't you?",
+        "alts": [],
+        "form": "Passé composé"
+      },
+      {
+        "slot": "t|Passé composé|2",
+        "f": "tense",
+        "s": "Le juge ___ l'accusé en détention provisoire.",
+        "a": "a enfermé",
+        "en": "The judge shut the defendant in pre-trial detention.",
+        "alts": [],
+        "form": "Passé composé"
+      },
+      {
+        "slot": "t|Passé composé|2",
+        "f": "tense",
+        "s": "La concierge ___ le livreur dans le local à vélos par erreur.",
+        "a": "a enfermé",
+        "en": "The concierge accidentally shut the delivery man in the bike room.",
+        "alts": [],
+        "form": "Passé composé"
+      },
+      {
+        "slot": "t|Passé composé|3",
+        "f": "tense",
+        "s": "Nous ___ tous les dossiers sensibles avant la réunion.",
+        "a": "avons enfermé",
+        "en": "We shut all the sensitive files away before the meeting.",
+        "alts": [],
+        "form": "Passé composé"
+      },
+      {
+        "slot": "t|Passé composé|3",
+        "f": "tense",
+        "s": "Pendant les travaux, nous ___ les outils dans le garage.",
+        "a": "avons enfermé",
+        "en": "During the renovation, we shut the tools in the garage.",
+        "alts": [],
+        "form": "Passé composé"
+      },
+      {
+        "slot": "t|Passé composé|4",
+        "f": "tense",
+        "s": "Vous ___ les animaux dans l'étable avant l'orage hier soir.",
+        "a": "avez enfermé",
+        "en": "You shut the animals in the barn before the storm last night.",
+        "alts": [],
+        "form": "Passé composé"
+      },
+      {
+        "slot": "t|Passé composé|4",
+        "f": "tense",
+        "s": "Avez-vous ___ ce document dans le coffre-fort ?",
+        "a": "enfermé",
+        "en": "Did you shut this document in the safe?",
+        "alts": [],
+        "form": "Passé composé"
+      },
+      {
+        "slot": "t|Passé composé|5",
+        "f": "tense",
+        "s": "Les autorités ___ les manifestants dans un stade pendant trois jours.",
+        "a": "ont enfermé",
+        "en": "The authorities shut the protesters in a stadium for three days.",
+        "alts": [],
+        "form": "Passé composé"
+      },
+      {
+        "slot": "t|Passé composé|5",
+        "f": "tense",
+        "s": "Ses camarades ___ le nouveau dans les vestiaires pour rire.",
+        "a": "ont enfermé",
+        "en": "His classmates shut the newcomer in the locker room as a joke.",
+        "alts": [],
+        "form": "Passé composé"
+      },
+      {
+        "slot": "t|Imparfait|0",
+        "f": "tense",
+        "s": "Quand j'étais enfant, j'___ toujours mon journal intime à clé.",
+        "a": "enfermais",
+        "en": "When I was a child, I always locked my diary away.",
+        "alts": [],
+        "form": "Imparfait"
+      },
+      {
+        "slot": "t|Imparfait|0",
+        "f": "tense",
+        "s": "Tu ___ ton vélo dans la cave chaque nuit l'année dernière.",
+        "a": "enfermais",
+        "en": "You used to shut your bike in the cellar every night last year.",
+        "alts": [],
+        "form": "Imparfait"
+      },
+      {
+        "slot": "t|Imparfait|1",
+        "f": "tense",
+        "s": "Le tyran ___ ses opposants dans des cachots sans procès.",
+        "a": "enfermait",
+        "en": "The tyrant used to shut his opponents in dungeons without trial.",
+        "alts": [],
+        "form": "Imparfait"
+      },
+      {
+        "slot": "t|Imparfait|1",
+        "f": "tense",
+        "s": "La directrice ___ les dossiers dans son bureau avant de partir.",
+        "a": "enfermait",
+        "en": "The director used to shut the files in her office before leaving.",
+        "alts": [],
+        "form": "Imparfait"
+      },
+      {
+        "slot": "t|Imparfait|2",
+        "f": "tense",
+        "s": "Nous ___ les poules dans le poulailler chaque soir à la ferme.",
+        "a": "enfermions",
+        "en": "We used to shut the hens in the henhouse every evening on the farm.",
+        "alts": [],
+        "form": "Imparfait"
+      },
+      {
+        "slot": "t|Imparfait|2",
+        "f": "tense",
+        "s": "Le week-end, nous ___ les archives dans le sous-sol avant de fermer.",
+        "a": "enfermions",
+        "en": "On weekends, we used to shut the archives in the basement before closing.",
+        "alts": [],
+        "form": "Imparfait"
+      },
+      {
+        "slot": "t|Imparfait|3",
+        "f": "tense",
+        "s": "Vous ___ les élèves dans la salle de retenue pendant les récréations.",
+        "a": "enfermiez",
+        "en": "You used to shut the pupils in the detention room during breaks.",
+        "alts": [],
+        "form": "Imparfait"
+      },
+      {
+        "slot": "t|Imparfait|3",
+        "f": "tense",
+        "s": "Vous ___ toujours le chien dans la cuisine quand il y avait des invités.",
+        "a": "enfermiez",
+        "en": "You always used to shut the dog in the kitchen when there were guests.",
+        "alts": [],
+        "form": "Imparfait"
+      },
+      {
+        "slot": "t|Imparfait|4",
+        "f": "tense",
+        "s": "Ils ___ les détenus dans des cellules surpeuplées.",
+        "a": "enfermaient",
+        "en": "They used to shut the detainees in overcrowded cells.",
+        "alts": [],
+        "form": "Imparfait"
+      },
+      {
+        "slot": "t|Imparfait|4",
+        "f": "tense",
+        "s": "Les parents ___ les jouets dans un placard pour les occasions spéciales.",
+        "a": "enfermaient",
+        "en": "The parents used to shut the toys in a cupboard for special occasions.",
+        "alts": [],
+        "form": "Imparfait"
+      },
+      {
+        "slot": "t|Futur|0",
+        "f": "tense",
+        "s": "Demain, j'___ tous mes documents dans ce coffre.",
+        "a": "enfermerai",
+        "en": "Tomorrow, I will shut all my documents in this safe.",
+        "alts": [],
+        "form": "Futur"
+      },
+      {
+        "slot": "t|Futur|0",
+        "f": "tense",
+        "s": "Si tu n'es pas sage, j'___ tes jouets dans l'armoire.",
+        "a": "enfermerai",
+        "en": "If you don't behave, I will shut your toys in the wardrobe.",
+        "alts": [],
+        "form": "Futur"
+      },
+      {
+        "slot": "t|Futur|1",
+        "f": "tense",
+        "s": "Tu ___ le chien dans le jardin pendant la fête.",
+        "a": "enfermeras",
+        "en": "You will shut the dog in the garden during the party.",
+        "alts": [],
+        "form": "Futur"
+      },
+      {
+        "slot": "t|Futur|1",
+        "f": "tense",
+        "s": "Ce soir, tu ___ les archives dans le bureau avant de partir.",
+        "a": "enfermeras",
+        "en": "Tonight, you will shut the archives in the office before leaving.",
+        "alts": [],
+        "form": "Futur"
+      },
+      {
+        "slot": "t|Futur|2",
+        "f": "tense",
+        "s": "Le tribunal ___ le condamné pour dix ans.",
+        "a": "enfermera",
+        "en": "The court will shut the convict away for ten years.",
+        "alts": [],
+        "form": "Futur"
+      },
+      {
+        "slot": "t|Futur|2",
+        "f": "tense",
+        "s": "La gardienne ___ les animaux dans la grange avant la nuit.",
+        "a": "enfermera",
+        "en": "The keeper will shut the animals in the barn before nightfall.",
+        "alts": [],
+        "form": "Futur"
+      },
+      {
+        "slot": "t|Futur|3",
+        "f": "tense",
+        "s": "Nous ___ les objets de valeur dans le coffre pendant nos vacances.",
+        "a": "enfermerons",
+        "en": "We will shut the valuables in the safe during our holidays.",
+        "alts": [],
+        "form": "Futur"
+      },
+      {
+        "slot": "t|Futur|3",
+        "f": "tense",
+        "s": "Avant la tempête, nous ___ les vélos dans le garage.",
+        "a": "enfermerons",
+        "en": "Before the storm, we will shut the bikes in the garage.",
+        "alts": [],
+        "form": "Futur"
+      },
+      {
+        "slot": "t|Futur|4",
+        "f": "tense",
+        "s": "Vous ___ les dossiers confidentiels dans l'armoire forte demain matin.",
+        "a": "enfermerez",
+        "en": "You will shut the confidential files in the strongbox tomorrow morning.",
+        "alts": [],
+        "form": "Futur"
+      },
+      {
+        "slot": "t|Futur|4",
+        "f": "tense",
+        "s": "Si vous partez en vacances, vous ___ le chat chez votre voisin.",
+        "a": "enfermerez",
+        "en": "If you go on holiday, you will shut the cat at your neighbour's place.",
+        "alts": [],
+        "form": "Futur"
+      },
+      {
+        "slot": "t|Futur|5",
+        "f": "tense",
+        "s": "Les autorités ___ les criminels dans une prison de haute sécurité.",
+        "a": "enfermeront",
+        "en": "The authorities will shut the criminals in a high-security prison.",
+        "alts": [],
+        "form": "Futur"
+      },
+      {
+        "slot": "t|Futur|5",
+        "f": "tense",
+        "s": "Les gardiens ___ les détenus dans leurs cellules à vingt heures.",
+        "a": "enfermeront",
+        "en": "The guards will shut the inmates in their cells at eight o'clock.",
+        "alts": [],
+        "form": "Futur"
+      },
+      {
+        "slot": "t|Conditionnel|0",
+        "f": "tense",
+        "s": "Si j'avais un coffre-fort, j'___ mes bijoux dedans.",
+        "a": "enfermerais",
+        "en": "If I had a safe, I would shut my jewels inside it.",
+        "alts": [],
+        "form": "Conditionnel"
+      },
+      {
+        "slot": "t|Conditionnel|0",
+        "f": "tense",
+        "s": "Si tu étais à ma place, tu ___ ce chien agressif dans le jardin ?",
+        "a": "enfermerais",
+        "en": "If you were in my position, would you shut that aggressive dog in the garden?",
+        "alts": [],
+        "form": "Conditionnel"
+      },
+      {
+        "slot": "t|Conditionnel|1",
+        "f": "tense",
+        "s": "Si le juge le décidait, il ___ le suspect en détention préventive.",
+        "a": "enfermerait",
+        "en": "If the judge decided so, he would shut the suspect in pre-trial detention.",
+        "alts": [],
+        "form": "Conditionnel"
+      },
+      {
+        "slot": "t|Conditionnel|1",
+        "f": "tense",
+        "s": "Sans ce règlement, la direction ___ encore plus les employés dans leurs bureaux.",
+        "a": "enfermerait",
+        "en": "Without this regulation, management would confine the employees in their offices even more.",
+        "alts": [],
+        "form": "Conditionnel"
+      },
+      {
+        "slot": "t|Conditionnel|2",
+        "f": "tense",
+        "s": "Si nous avions une cave, nous ___ les vélos là-dedans.",
+        "a": "enfermerions",
+        "en": "If we had a cellar, we would shut the bikes in there.",
+        "alts": [],
+        "form": "Conditionnel"
+      },
+      {
+        "slot": "t|Conditionnel|2",
+        "f": "tense",
+        "s": "Nous ___ les documents secrets dans ce coffre si nous en avions la clé.",
+        "a": "enfermerions",
+        "en": "We would shut the secret documents in this safe if we had the key.",
+        "alts": [],
+        "form": "Conditionnel"
+      },
+      {
+        "slot": "t|Conditionnel|3",
+        "f": "tense",
+        "s": "Si vous aviez un budget, vous ___ les archives dans un espace sécurisé.",
+        "a": "enfermeriez",
+        "en": "If you had a budget, you would shut the archives in a secure space.",
+        "alts": [],
+        "form": "Conditionnel"
+      },
+      {
+        "slot": "t|Conditionnel|3",
+        "f": "tense",
+        "s": "Vous ___ le chien dans le salon si vous receviez des invités allergiques.",
+        "a": "enfermeriez",
+        "en": "You would shut the dog in the living room if you had guests with allergies.",
+        "alts": [],
+        "form": "Conditionnel"
+      },
+      {
+        "slot": "t|Conditionnel|4",
+        "f": "tense",
+        "s": "Si les lois le permettaient, ils ___ leurs rivaux sans procès.",
+        "a": "enfermeraient",
+        "en": "If the laws allowed it, they would shut their rivals away without trial.",
+        "alts": [],
+        "form": "Conditionnel"
+      },
+      {
+        "slot": "t|Conditionnel|4",
+        "f": "tense",
+        "s": "Les gardiens ___ les détenus toute la journée si le règlement changeait.",
+        "a": "enfermeraient",
+        "en": "The guards would shut the inmates all day if the rules changed.",
+        "alts": [],
+        "form": "Conditionnel"
+      },
+      {
+        "slot": "t|Subjonctif",
+        "f": "subj",
+        "s": "Il faut que tu ___ le chien avant l'arrivée des invités.",
+        "a": "enfermes",
+        "en": "You need to shut the dog away before the guests arrive.",
+        "alts": [],
+        "form": "Subjonctif"
+      },
+      {
+        "slot": "t|Subjonctif",
+        "f": "subj",
+        "s": "Je ne veux pas qu'on ___ ces réfugiés dans un camp indéfiniment.",
+        "a": "enferme",
+        "en": "I don't want those refugees to be confined in a camp indefinitely.",
+        "alts": [],
+        "form": "Subjonctif"
+      },
+      {
+        "slot": "s|0",
+        "f": "sense",
+        "s": "Le gardien ___ les prisonniers dans leurs cellules chaque soir.",
+        "a": "enferme",
+        "en": "The guard shuts the prisoners in their cells every evening.",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "s|0",
+        "f": "sense",
+        "s": "Elle ___ son chien dans la cuisine quand elle reçoit des invités.",
+        "a": "enferme",
+        "en": "She shuts her dog in the kitchen when she has guests.",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "s|1",
+        "f": "sense",
+        "s": "Le régime autoritaire a décidé d'___ tous ses opposants politiques.",
+        "a": "enfermer",
+        "en": "The authoritarian regime decided to imprison all its political opponents.",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "s|1",
+        "f": "sense",
+        "s": "On ne peut pas ___ quelqu'un sans jugement dans un État de droit.",
+        "a": "enfermer",
+        "en": "One cannot imprison someone without a trial in a state governed by law.",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "s|2",
+        "f": "sense",
+        "s": "Les hautes murailles ___ la ville médiévale et la protègent des envahisseurs.",
+        "a": "enferment",
+        "en": "The high walls enclose the medieval city and protect it from invaders.",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "s|2",
+        "f": "sense",
+        "s": "Ces montagnes ___ la vallée et lui donnent un caractère isolé.",
+        "a": "enferment",
+        "en": "These mountains enclose the valley and give it an isolated character.",
+        "alts": [],
+        "form": ""
+      }
+    ]
+  }
+]

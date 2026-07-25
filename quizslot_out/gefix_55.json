@@ -1,0 +1,215 @@
+[
+  {
+    "id": 932,
+    "qs": [
+      {
+        "slot": "s|0",
+        "f": "sense",
+        "s": "Les pompiers ont sauvé les enfants qui étaient en ___ .",
+        "en": "The firefighters saved the children who were in danger.",
+        "a": "danger",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "s|0",
+        "f": "sense",
+        "s": "Il a couru un grave ___ en traversant ce pont effondré.",
+        "en": "He ran a serious danger crossing that collapsed bridge.",
+        "a": "danger",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "s|1",
+        "f": "sense",
+        "s": "La pollution plastique représente un ___ pour les océans.",
+        "en": "Plastic pollution represents a threat to the oceans.",
+        "a": "danger",
+        "alts": ["menace"],
+        "form": ""
+      },
+      {
+        "slot": "s|1",
+        "f": "sense",
+        "s": "Ce conducteur imprudent est un ___ pour les autres usagers de la route.",
+        "en": "This reckless driver is a threat to other road users.",
+        "a": "danger",
+        "alts": ["menace"],
+        "form": ""
+      },
+      {
+        "slot": "gender",
+        "f": "gender",
+        "s": "Il n'a pas conscience ___ danger qu'il court.",
+        "en": "He is not aware of the danger he is in.",
+        "a": "du",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "gender",
+        "f": "gender",
+        "s": "C'est ___ danger réel que tout le monde ignore.",
+        "en": "It is a real danger that everyone ignores.",
+        "a": "un",
+        "alts": [],
+        "form": ""
+      }
+    ]
+  },
+  {
+    "id": 933,
+    "qs": [
+      {
+        "slot": "s|0",
+        "f": "sense",
+        "s": "Ce problème mathématique est vraiment ___ ; même les professeurs ont du mal à le résoudre.",
+        "en": "This math problem is really complex; even teachers have trouble solving it.",
+        "a": "complexe",
+        "alts": []
+      },
+      {
+        "slot": "s|0",
+        "f": "sense",
+        "s": "La situation politique dans ce pays est ___ et difficile à comprendre.",
+        "en": "The political situation in this country is complex and hard to understand.",
+        "a": "complexe",
+        "alts": []
+      },
+      {
+        "slot": "s|1",
+        "f": "sense",
+        "s": "Le réseau de tunnels sous la vieille ville est ___, avec des galeries qui se croisent dans tous les sens.",
+        "en": "The network of tunnels under the old city is intricate, with galleries crossing in every direction.",
+        "a": "complexe",
+        "alts": []
+      },
+      {
+        "slot": "s|1",
+        "f": "sense",
+        "s": "Les relations entre ces familles sont ___ : alliances, rivalités et mariages s'entrelacent depuis des générations.",
+        "en": "The relationships between these families are intricate: alliances, rivalries and marriages have been interwoven for generations.",
+        "a": "complexes",
+        "alts": []
+      },
+      {
+        "slot": "g|mp",
+        "f": "agree",
+        "s": "Les ingénieurs doivent résoudre des problèmes très ___ chaque jour.",
+        "en": "Engineers must solve very complex problems every day.",
+        "a": "complexes",
+        "alts": []
+      },
+      {
+        "slot": "g|mp",
+        "f": "agree",
+        "s": "Ces systèmes informatiques sont trop ___ pour un utilisateur ordinaire.",
+        "en": "These computer systems are too complex for an ordinary user.",
+        "a": "complexes",
+        "alts": []
+      },
+      {
+        "slot": "g|f",
+        "f": "agree",
+        "s": "Cette équation différentielle est ___ ; elle nécessite plusieurs heures de calcul.",
+        "en": "This differential equation is complex; it requires several hours of calculation.",
+        "a": "complexe",
+        "alts": []
+      },
+      {
+        "slot": "g|f",
+        "f": "agree",
+        "s": "La procédure administrative est ___ et comporte de nombreuses étapes.",
+        "en": "The administrative procedure is complex and involves many steps.",
+        "a": "complexe",
+        "alts": []
+      },
+      {
+        "slot": "g|fp",
+        "f": "agree",
+        "s": "Les négociations diplomatiques sont souvent ___ et durent des mois.",
+        "en": "Diplomatic negotiations are often complex and last for months.",
+        "a": "complexes",
+        "alts": []
+      },
+      {
+        "slot": "g|fp",
+        "f": "agree",
+        "s": "Ces opérations chirurgicales sont ___ et réservées aux spécialistes les plus expérimentés.",
+        "en": "These surgical operations are complex and reserved for the most experienced specialists.",
+        "a": "complexes",
+        "alts": []
+      }
+    ]
+  },
+  {
+    "id": 934,
+    "qs": [
+      {
+        "slot": "s|0",
+        "f": "sense",
+        "s": "Le ___ international a beaucoup augmenté grâce aux accords bilatéraux.",
+        "en": "International trade has grown a lot thanks to bilateral agreements.",
+        "a": "commerce",
+        "alts": []
+      },
+      {
+        "slot": "s|0",
+        "f": "sense",
+        "s": "Les deux pays ont signé un accord pour développer le ___ entre eux.",
+        "en": "The two countries signed an agreement to develop trade between them.",
+        "a": "commerce",
+        "alts": []
+      },
+      {
+        "slot": "s|1",
+        "f": "sense",
+        "s": "Il a fait des études de gestion avant de se lancer dans le ___.",
+        "en": "He studied management before going into business.",
+        "a": "commerce",
+        "alts": []
+      },
+      {
+        "slot": "s|1",
+        "f": "sense",
+        "s": "Elle travaille dans le ___ depuis vingt ans et connaît bien ce secteur.",
+        "en": "She has worked in commerce for twenty years and knows the sector well.",
+        "a": "commerce",
+        "alts": []
+      },
+      {
+        "slot": "s|2",
+        "f": "sense",
+        "s": "Il y a un petit ___ de fruits et légumes au bout de ma rue.",
+        "en": "There is a small fruit and vegetable shop at the end of my street.",
+        "a": "commerce",
+        "alts": []
+      },
+      {
+        "slot": "s|2",
+        "f": "sense",
+        "s": "Elle a décidé d'ouvrir un ___ dans le centre-ville pour vendre des livres d'occasion.",
+        "en": "She decided to open a shop in the town centre to sell second-hand books.",
+        "a": "commerce",
+        "alts": []
+      },
+      {
+        "slot": "gender",
+        "f": "gender",
+        "s": "Les économistes étudient ___ commerce mondial depuis plusieurs décennies.",
+        "en": "Economists have been studying world commerce for several decades.",
+        "a": "le",
+        "alts": []
+      },
+      {
+        "slot": "gender",
+        "f": "gender",
+        "s": "Mes parents ont ouvert ___ commerce dans ce quartier il y a trente ans.",
+        "en": "My parents opened a shop in this neighbourhood thirty years ago.",
+        "a": "un",
+        "alts": []
+      }
+    ]
+  }
+]

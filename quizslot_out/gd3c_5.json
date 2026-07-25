@@ -1,0 +1,201 @@
+[
+  {
+    "id": 266,
+    "qs": [
+      {
+        "slot": "s|0",
+        "f": "sense",
+        "s": "Des millions de soldats sont morts pendant la ___ de 1914-1918.",
+        "a": "guerre",
+        "en": "Millions of soldiers died during the war of 1914–1918.",
+        "alts": []
+      },
+      {
+        "slot": "s|0",
+        "f": "sense",
+        "s": "La ___ a détruit de nombreuses villes et laissé des milliers de familles sans abri.",
+        "a": "guerre",
+        "en": "The war destroyed many cities and left thousands of families homeless.",
+        "alts": []
+      },
+      {
+        "slot": "s|1",
+        "f": "sense",
+        "s": "Il y a une véritable ___ des prix entre ces deux supermarchés concurrents.",
+        "a": "guerre",
+        "en": "There is a real price war between these two competing supermarkets.",
+        "alts": []
+      },
+      {
+        "slot": "s|1",
+        "f": "sense",
+        "s": "La ___ commerciale entre les deux pays a provoqué une hausse des tarifs douaniers.",
+        "a": "guerre",
+        "en": "The trade war between the two countries caused a rise in customs tariffs.",
+        "alts": []
+      },
+      {
+        "slot": "gender",
+        "f": "gender",
+        "s": "Nous espérons que ___ guerre ne recommencera plus jamais.",
+        "a": "la",
+        "en": "We hope that the war will never start again.",
+        "alts": ["une"]
+      },
+      {
+        "slot": "gender",
+        "f": "gender",
+        "s": "Pendant ___ guerre, la population civile a souffert énormément.",
+        "a": "la",
+        "en": "During the war, the civilian population suffered enormously.",
+        "alts": ["une"]
+      }
+    ]
+  },
+  {
+    "id": 267,
+    "qs": [
+      {
+        "slot": "s|0",
+        "f": "sense",
+        "s": "Dans ce pays, tout le monde doit respecter ___ .",
+        "a": "la loi",
+        "en": "In this country, everyone must respect the law.",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "s|0",
+        "f": "sense",
+        "s": "Tous les citoyens sont égaux devant ___ .",
+        "a": "la loi",
+        "en": "All citizens are equal before the law.",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "s|1",
+        "f": "sense",
+        "s": "Le Parlement a voté ___ sur la protection de l'environnement.",
+        "a": "une loi",
+        "en": "Parliament passed a law on environmental protection.",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "s|1",
+        "f": "sense",
+        "s": "Le gouvernement prépare ___ pour encadrer l'usage des données personnelles.",
+        "a": "une loi",
+        "en": "The government is preparing a law to regulate the use of personal data.",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "s|2",
+        "f": "sense",
+        "s": "Newton a découvert ___ de la gravitation universelle.",
+        "a": "la loi",
+        "en": "Newton discovered the law of universal gravitation.",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "s|2",
+        "f": "sense",
+        "s": "Les physiciens cherchent à comprendre les ___ qui gouvernent l'univers.",
+        "a": "lois",
+        "en": "Physicists seek to understand the laws that govern the universe.",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "gender",
+        "f": "gender",
+        "s": "Mon professeur nous a expliqué ___ loi qui régit ce phénomène naturel.",
+        "a": "la",
+        "en": "My teacher explained to us the law that governs this natural phenomenon.",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "gender",
+        "f": "gender",
+        "s": "C'est ___ loi très importante pour protéger les droits des travailleurs.",
+        "a": "une",
+        "en": "It is a very important law to protect workers' rights.",
+        "alts": [],
+        "form": ""
+      }
+    ]
+  },
+  {
+    "id": 268,
+    "qs": [
+      {
+        "slot": "s|0",
+        "f": "sense",
+        "s": "Le ___ des États-Unis a prononcé un discours devant le Congrès.",
+        "a": "président",
+        "en": "The president of the United States gave a speech before Congress.",
+        "alts": []
+      },
+      {
+        "slot": "s|0",
+        "f": "sense",
+        "s": "Le nouveau ___ a prêté serment ce matin à l'Élysée.",
+        "a": "président",
+        "en": "The new president took the oath of office this morning at the Élysée.",
+        "alts": []
+      },
+      {
+        "slot": "s|1",
+        "f": "sense",
+        "s": "Le ___ de l'assemblée a ouvert la séance et donné la parole aux délégués.",
+        "a": "président",
+        "en": "The chairman of the assembly opened the session and gave the floor to the delegates.",
+        "alts": []
+      },
+      {
+        "slot": "s|1",
+        "f": "sense",
+        "s": "Le ___ du conseil d'administration a présenté le bilan annuel de l'entreprise.",
+        "a": "président",
+        "en": "The chairman of the board of directors presented the company's annual report.",
+        "alts": []
+      },
+      {
+        "slot": "s|2",
+        "f": "sense",
+        "s": "Le ___ du club de football a annoncé l'arrivée d'un nouvel entraîneur.",
+        "a": "président",
+        "en": "The president of the football club announced the arrival of a new coach.",
+        "alts": []
+      },
+      {
+        "slot": "s|2",
+        "f": "sense",
+        "s": "Notre ___ d'association organise une réunion pour tous les membres ce vendredi.",
+        "a": "président",
+        "en": "Our association president is organizing a meeting for all members this Friday.",
+        "alts": []
+      },
+      {
+        "slot": "gender",
+        "f": "gender",
+        "s": "___ président de la République a signé la loi hier soir.",
+        "a": "Le",
+        "en": "The president of the Republic signed the law last night.",
+        "alts": []
+      },
+      {
+        "slot": "gender",
+        "f": "gender",
+        "s": "C'est ___ président très respecté dans son pays.",
+        "a": "un",
+        "en": "He is a very respected president in his country.",
+        "alts": []
+      }
+    ]
+  }
+]

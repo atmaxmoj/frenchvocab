@@ -1,0 +1,43 @@
+[
+  {
+    "id": 3140,
+    "qs": [
+      {"slot":"s|0","f":"sense","s":"Le gouvernement a constaté un ___ de dépenses par rapport au budget prévu.","a":"excédent","en":"The government noticed an excess of spending compared to the planned budget.","alts":[],"form":""},
+      {"slot":"s|0","f":"sense","s":"Il y a un ___ de production cette année : nous avons fabriqué bien plus que ce qui était prévu.","a":"excédent","en":"There is an excess of production this year: we made far more than planned.","alts":[],"form":""},
+      {"slot":"s|1","f":"sense","s":"Grâce à une bonne gestion, la commune affiche un ___ budgétaire pour la troisième année consécutive.","a":"excédent","en":"Thanks to good management, the municipality shows a budget surplus for the third consecutive year.","alts":[],"form":""},
+      {"slot":"s|1","f":"sense","s":"L'entreprise a réalisé un ___ de cinq millions d'euros à la fin de l'exercice fiscal.","a":"excédent","en":"The company achieved a surplus of five million euros at the end of the fiscal year.","alts":[],"form":""},
+      {"slot":"s|2","f":"sense","s":"À l'aéroport, j'ai dû payer des frais d'___ de bagages parce que ma valise pesait trop lourd.","a":"excédent","en":"At the airport, I had to pay excess baggage fees because my suitcase was too heavy.","alts":[],"form":""},
+      {"slot":"s|2","f":"sense","s":"La compagnie aérienne m'a informé que mon sac avait un ___ de bagages de trois kilos.","a":"excédent","en":"The airline informed me that my bag had an excess baggage of three kilos.","alts":[],"form":""},
+      {"slot":"gender","f":"gender","s":"Le comptable a signalé ___ excédent dans les comptes de fin d'année.","a":"un","en":"The accountant reported a surplus in the year-end accounts.","alts":[],"form":""},
+      {"slot":"gender","f":"gender","s":"Nous avons enregistré ___ excédent commercial important ce trimestre.","a":"un","en":"We recorded a significant trade surplus this quarter.","alts":[],"form":""}
+    ]
+  },
+  {
+    "id": 3141,
+    "qs": [
+      {"slot":"s|0","f":"sense","s":"La ___ a profondément transformé l'économie mondiale au cours des dernières décennies.","a":"mondialisation","en":"Globalisation has profoundly transformed the world economy over the past few decades.","alts":[],"form":""},
+      {"slot":"s|0","f":"sense","s":"Les partisans de la ___ affirment qu'elle favorise la croissance économique dans les pays en développement.","a":"mondialisation","en":"Proponents of globalisation claim that it promotes economic growth in developing countries.","alts":[],"form":""},
+      {"slot":"s|1","f":"sense","s":"La ___ des entreprises leur permet d'accéder à de nouveaux marchés à l'échelle mondiale.","a":"mondialisation","en":"The internationalisation of companies allows them to access new markets on a global scale.","alts":["internationalisation"],"form":""},
+      {"slot":"s|1","f":"sense","s":"Grâce à la ___, les échanges culturels entre les nations se sont considérablement multipliés.","a":"mondialisation","en":"Thanks to internationalisation, cultural exchanges between nations have multiplied considerably.","alts":["internationalisation"],"form":""},
+      {"slot":"gender","f":"gender","s":"Les effets de ___ mondialisation se font sentir partout dans le monde.","a":"la","en":"The effects of globalisation are felt everywhere in the world.","alts":[],"form":""},
+      {"slot":"gender","f":"gender","s":"Les économistes ont observé ___ mondialisation accélérée depuis les années 1990.","a":"une","en":"Economists have observed an accelerated globalisation since the 1990s.","alts":[],"form":""}
+    ]
+  },
+  {
+    "id": 3142,
+    "qs": [
+      {"slot":"s|0","f":"sense","s":"Il préfère une éducation ___ , basée sur le respect des valeurs familiales transmises de génération en génération.","a":"conventionnelle","en":"He prefers a traditional education based on respect for family values passed down from generation to generation.","alts":[]},
+      {"slot":"s|0","f":"sense","s":"Ce mariage ___ a réuni toute la famille dans le respect des anciennes coutumes.","a":"conventionnel","en":"This traditional wedding brought the whole family together in observance of old customs.","alts":[]},
+      {"slot":"s|1","f":"sense","s":"L'armée a décidé d'utiliser des armes ___ plutôt que des armes nucléaires lors de cet exercice militaire.","a":"conventionnelles","en":"The army decided to use conventional weapons rather than nuclear weapons during this military exercise.","alts":[]},
+      {"slot":"s|1","f":"sense","s":"Le médecin a recommandé un traitement ___ avant d'envisager des thérapies alternatives.","a":"conventionnel","en":"The doctor recommended a conventional treatment before considering alternative therapies.","alts":[]},
+      {"slot":"s|2","f":"sense","s":"Sa tenue très ___ — costume sombre et cravate — correspondait parfaitement aux attentes du milieu professionnel.","a":"conventionnelle","en":"His very conventional attire — dark suit and tie — perfectly matched the expectations of the professional environment.","alts":[]},
+      {"slot":"s|2","f":"sense","s":"Il a choisi de suivre le protocole ___ lors de la cérémonie officielle, sans faire de gestes déplacés.","a":"conventionnel","en":"He chose to follow the conventional protocol during the official ceremony, without making any inappropriate gestures.","alts":[]},
+      {"slot":"g|mp","f":"agree","s":"Ces comportements ___ ne surprennent plus personne dans cette société très traditionnelle.","a":"conventionnels","en":"These conventional behaviors no longer surprise anyone in this very traditional society.","alts":[]},
+      {"slot":"g|mp","f":"agree","s":"Les médias ___ perdent du terrain face aux nouvelles plateformes numériques.","a":"conventionnels","en":"Conventional media are losing ground to new digital platforms.","alts":[]},
+      {"slot":"g|f","f":"agree","s":"Elle mène une vie très ___ , respectant scrupuleusement les normes sociales en vigueur.","a":"conventionnelle","en":"She leads a very conventional life, scrupulously respecting prevailing social norms.","alts":[]},
+      {"slot":"g|f","f":"agree","s":"Cette approche ___ de l'enseignement se fonde sur la mémorisation et la répétition.","a":"conventionnelle","en":"This conventional approach to teaching is based on memorization and repetition.","alts":[]},
+      {"slot":"g|fp","f":"agree","s":"Les méthodes ___ d'agriculture consomment beaucoup de ressources naturelles.","a":"conventionnelles","en":"Conventional farming methods consume a lot of natural resources.","alts":[]},
+      {"slot":"g|fp","f":"agree","s":"Les règles ___ de politesse varient d'une culture à l'autre, mais restent importantes dans chaque société.","a":"conventionnelles","en":"Conventional rules of politeness vary from one culture to another, but remain important in every society.","alts":[]}
+    ]
+  }
+]

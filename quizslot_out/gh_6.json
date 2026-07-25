@@ -1,0 +1,737 @@
+[
+  {
+    "id": 1319,
+    "qs": [
+      {
+        "slot": "s|0",
+        "f": "sense",
+        "s": "Parle plus lentement, s'il te plaît — je ne t'entends pas ___ .",
+        "a": "clairement",
+        "en": "Please speak more slowly — I can't hear you clearly.",
+        "alts": []
+      },
+      {
+        "slot": "s|0",
+        "f": "sense",
+        "s": "Elle a répété la question ___ pour que tout le monde puisse comprendre.",
+        "a": "clairement",
+        "en": "She repeated the question clearly so that everyone could understand.",
+        "alts": []
+      },
+      {
+        "slot": "s|1",
+        "f": "sense",
+        "s": "Il est ___ fatigué : il a du mal à garder les yeux ouverts.",
+        "a": "clairement",
+        "en": "He is obviously tired: he can barely keep his eyes open.",
+        "alts": ["visiblement", "manifestement"]
+      },
+      {
+        "slot": "s|1",
+        "f": "sense",
+        "s": "Ce projet a ___ échoué, les résultats parlent d'eux-mêmes.",
+        "a": "clairement",
+        "en": "This project has obviously failed — the results speak for themselves.",
+        "alts": ["manifestement"]
+      },
+      {
+        "slot": "s|2",
+        "f": "sense",
+        "s": "Le règlement interdit ___ l'usage des téléphones portables pendant l'examen.",
+        "a": "clairement",
+        "en": "The rules explicitly prohibit the use of mobile phones during the exam.",
+        "alts": ["explicitement"]
+      },
+      {
+        "slot": "s|2",
+        "f": "sense",
+        "s": "Il faut ___ définir les responsabilités de chaque membre de l'équipe.",
+        "a": "clairement",
+        "en": "The responsibilities of each team member must be explicitly defined.",
+        "alts": ["explicitement", "précisément"]
+      }
+    ]
+  },
+  {
+    "id": 1320,
+    "qs": [
+      {
+        "slot": "t|Présent|0",
+        "f": "tense",
+        "s": "Je ___ mes deux mains pour former une coupe.",
+        "a": "joins",
+        "en": "I join my two hands to form a cup.",
+        "alts": [],
+        "form": "Présent"
+      },
+      {
+        "slot": "t|Présent|0",
+        "f": "tense",
+        "s": "Tu ___ les deux extrémités du câble ensemble.",
+        "a": "joins",
+        "en": "You join the two ends of the cable together.",
+        "alts": [],
+        "form": "Présent"
+      },
+      {
+        "slot": "t|Présent|1",
+        "f": "tense",
+        "s": "Ce pont ___ les deux rives de la rivière.",
+        "a": "joint",
+        "en": "This bridge joins the two banks of the river.",
+        "alts": [],
+        "form": "Présent"
+      },
+      {
+        "slot": "t|Présent|1",
+        "f": "tense",
+        "s": "On ___ les pièces avec de la colle spéciale.",
+        "a": "joint",
+        "en": "One joins the pieces with special glue.",
+        "alts": [],
+        "form": "Présent"
+      },
+      {
+        "slot": "t|Présent|2",
+        "f": "tense",
+        "s": "Nous ___ nos efforts pour réussir ce projet.",
+        "a": "joignons",
+        "en": "We join our efforts to succeed in this project.",
+        "alts": [],
+        "form": "Présent"
+      },
+      {
+        "slot": "t|Présent|2",
+        "f": "tense",
+        "s": "Nous ___ le groupe de travail dès maintenant.",
+        "a": "joignons",
+        "en": "We join the working group right now.",
+        "alts": [],
+        "form": "Présent"
+      },
+      {
+        "slot": "t|Présent|3",
+        "f": "tense",
+        "s": "Vous ___ vos collègues à la réunion de ce matin.",
+        "a": "joignez",
+        "en": "You join your colleagues at this morning's meeting.",
+        "alts": [],
+        "form": "Présent"
+      },
+      {
+        "slot": "t|Présent|3",
+        "f": "tense",
+        "s": "Vous ___ les deux planches avec des clous.",
+        "a": "joignez",
+        "en": "You join the two boards with nails.",
+        "alts": [],
+        "form": "Présent"
+      },
+      {
+        "slot": "t|Présent|4",
+        "f": "tense",
+        "s": "Ils ___ leurs forces pour déplacer le meuble lourd.",
+        "a": "joignent",
+        "en": "They join their forces to move the heavy piece of furniture.",
+        "alts": [],
+        "form": "Présent"
+      },
+      {
+        "slot": "t|Présent|4",
+        "f": "tense",
+        "s": "Elles ___ l'association caritative ce mois-ci.",
+        "a": "joignent",
+        "en": "They join the charitable association this month.",
+        "alts": [],
+        "form": "Présent"
+      },
+      {
+        "slot": "t|Passé composé|0",
+        "f": "tense",
+        "s": "J'___ les deux fils électriques avec soin.",
+        "a": "ai joint",
+        "en": "I joined the two electrical wires carefully.",
+        "alts": [],
+        "form": "Passé composé"
+      },
+      {
+        "slot": "t|Passé composé|0",
+        "f": "tense",
+        "s": "Hier matin, j'___ mes amis au café.",
+        "a": "ai joint",
+        "en": "Yesterday morning, I joined my friends at the café.",
+        "alts": [],
+        "form": "Passé composé"
+      },
+      {
+        "slot": "t|Passé composé|1",
+        "f": "tense",
+        "s": "Tu ___ une photo à ton message.",
+        "a": "as joint",
+        "en": "You attached a photo to your message.",
+        "alts": [],
+        "form": "Passé composé"
+      },
+      {
+        "slot": "t|Passé composé|1",
+        "f": "tense",
+        "s": "Tu ___ le club de sport la semaine dernière.",
+        "a": "as joint",
+        "en": "You joined the sports club last week.",
+        "alts": [],
+        "form": "Passé composé"
+      },
+      {
+        "slot": "t|Passé composé|2",
+        "f": "tense",
+        "s": "Mon frère ___ l'équipe de football en septembre.",
+        "a": "a joint",
+        "en": "My brother joined the football team in September.",
+        "alts": [],
+        "form": "Passé composé"
+      },
+      {
+        "slot": "t|Passé composé|2",
+        "f": "tense",
+        "s": "Elle ___ un document important à l'e-mail.",
+        "a": "a joint",
+        "en": "She attached an important document to the e-mail.",
+        "alts": [],
+        "form": "Passé composé"
+      },
+      {
+        "slot": "t|Passé composé|3",
+        "f": "tense",
+        "s": "Nous ___ nos ressources pour financer le voyage.",
+        "a": "avons joint",
+        "en": "We joined our resources to finance the trip.",
+        "alts": [],
+        "form": "Passé composé"
+      },
+      {
+        "slot": "t|Passé composé|3",
+        "f": "tense",
+        "s": "Nous ___ les deux parties du contrat en un seul fichier.",
+        "a": "avons joint",
+        "en": "We joined the two parts of the contract into a single file.",
+        "alts": [],
+        "form": "Passé composé"
+      },
+      {
+        "slot": "t|Passé composé|4",
+        "f": "tense",
+        "s": "Vous ___ le groupe de randonnée sans hésiter.",
+        "a": "avez joint",
+        "en": "You joined the hiking group without hesitation.",
+        "alts": [],
+        "form": "Passé composé"
+      },
+      {
+        "slot": "t|Passé composé|4",
+        "f": "tense",
+        "s": "Vous ___ les deux extrémités de la corde ensemble hier.",
+        "a": "avez joint",
+        "en": "You joined the two ends of the rope together yesterday.",
+        "alts": [],
+        "form": "Passé composé"
+      },
+      {
+        "slot": "t|Passé composé|5",
+        "f": "tense",
+        "s": "Les deux chemins ___ au sommet de la colline.",
+        "a": "ont joint",
+        "en": "The two paths joined at the top of the hill.",
+        "alts": [],
+        "form": "Passé composé"
+      },
+      {
+        "slot": "t|Passé composé|5",
+        "f": "tense",
+        "s": "Ils ___ l'organisation en janvier dernier.",
+        "a": "ont joint",
+        "en": "They joined the organization last January.",
+        "alts": [],
+        "form": "Passé composé"
+      },
+      {
+        "slot": "t|Imparfait|0",
+        "f": "tense",
+        "s": "Enfant, je ___ souvent mes mains pour prier.",
+        "a": "joignais",
+        "en": "As a child, I often joined my hands to pray.",
+        "alts": [],
+        "form": "Imparfait"
+      },
+      {
+        "slot": "t|Imparfait|0",
+        "f": "tense",
+        "s": "Quand tu travaillais là-bas, tu ___ toujours les réunions d'équipe.",
+        "a": "joignais",
+        "en": "When you worked there, you always joined the team meetings.",
+        "alts": [],
+        "form": "Imparfait"
+      },
+      {
+        "slot": "t|Imparfait|1",
+        "f": "tense",
+        "s": "Ce couloir ___ les deux bâtiments autrefois.",
+        "a": "joignait",
+        "en": "This corridor used to join the two buildings.",
+        "alts": [],
+        "form": "Imparfait"
+      },
+      {
+        "slot": "t|Imparfait|1",
+        "f": "tense",
+        "s": "Elle ___ toujours une note explicative à ses rapports.",
+        "a": "joignait",
+        "en": "She always attached an explanatory note to her reports.",
+        "alts": [],
+        "form": "Imparfait"
+      },
+      {
+        "slot": "t|Imparfait|2",
+        "f": "tense",
+        "s": "Nous ___ nos voix pour chanter en chœur chaque dimanche.",
+        "a": "joignions",
+        "en": "We would join our voices to sing in chorus every Sunday.",
+        "alts": [],
+        "form": "Imparfait"
+      },
+      {
+        "slot": "t|Imparfait|2",
+        "f": "tense",
+        "s": "Nous ___ nos collègues à la pause-café chaque jour.",
+        "a": "joignions",
+        "en": "We would join our colleagues at the coffee break every day.",
+        "alts": [],
+        "form": "Imparfait"
+      },
+      {
+        "slot": "t|Imparfait|3",
+        "f": "tense",
+        "s": "Vous ___ régulièrement les bénévoles pour aider.",
+        "a": "joigniez",
+        "en": "You regularly joined the volunteers to help.",
+        "alts": [],
+        "form": "Imparfait"
+      },
+      {
+        "slot": "t|Imparfait|3",
+        "f": "tense",
+        "s": "Vous ___ toujours un justificatif à vos demandes.",
+        "a": "joigniez",
+        "en": "You always attached supporting documentation to your requests.",
+        "alts": [],
+        "form": "Imparfait"
+      },
+      {
+        "slot": "t|Imparfait|4",
+        "f": "tense",
+        "s": "Ils ___ leurs mains pour former une chaîne humaine.",
+        "a": "joignaient",
+        "en": "They would join their hands to form a human chain.",
+        "alts": [],
+        "form": "Imparfait"
+      },
+      {
+        "slot": "t|Imparfait|4",
+        "f": "tense",
+        "s": "Elles ___ souvent le groupe de lecture le vendredi.",
+        "a": "joignaient",
+        "en": "They often joined the reading group on Fridays.",
+        "alts": [],
+        "form": "Imparfait"
+      },
+      {
+        "slot": "t|Futur|0",
+        "f": "tense",
+        "s": "Je ___ mes collègues à la conférence demain matin.",
+        "a": "joindrai",
+        "en": "I will join my colleagues at the conference tomorrow morning.",
+        "alts": [],
+        "form": "Futur"
+      },
+      {
+        "slot": "t|Futur|0",
+        "f": "tense",
+        "s": "Je ___ les deux pièces avec une soudure solide.",
+        "a": "joindrai",
+        "en": "I will join the two pieces with a solid weld.",
+        "alts": [],
+        "form": "Futur"
+      },
+      {
+        "slot": "t|Futur|1",
+        "f": "tense",
+        "s": "Tu ___ l'équipe de recherche dès lundi prochain.",
+        "a": "joindras",
+        "en": "You will join the research team from next Monday.",
+        "alts": [],
+        "form": "Futur"
+      },
+      {
+        "slot": "t|Futur|1",
+        "f": "tense",
+        "s": "Tu ___ les deux extrémités du tuyau avant la fin de la journée.",
+        "a": "joindras",
+        "en": "You will join the two ends of the pipe before the end of the day.",
+        "alts": [],
+        "form": "Futur"
+      },
+      {
+        "slot": "t|Futur|2",
+        "f": "tense",
+        "s": "Ce nouveau tunnel ___ les deux villes en vingt minutes.",
+        "a": "joindra",
+        "en": "This new tunnel will join the two cities in twenty minutes.",
+        "alts": [],
+        "form": "Futur"
+      },
+      {
+        "slot": "t|Futur|2",
+        "f": "tense",
+        "s": "Elle ___ notre association dès qu'elle aura du temps libre.",
+        "a": "joindra",
+        "en": "She will join our association as soon as she has free time.",
+        "alts": [],
+        "form": "Futur"
+      },
+      {
+        "slot": "t|Futur|3",
+        "f": "tense",
+        "s": "Nous ___ les deux groupes pour former une équipe plus forte.",
+        "a": "joindrons",
+        "en": "We will join the two groups to form a stronger team.",
+        "alts": [],
+        "form": "Futur"
+      },
+      {
+        "slot": "t|Futur|3",
+        "f": "tense",
+        "s": "Nous ___ nos amis au restaurant à vingt heures.",
+        "a": "joindrons",
+        "en": "We will join our friends at the restaurant at eight o'clock.",
+        "alts": [],
+        "form": "Futur"
+      },
+      {
+        "slot": "t|Futur|4",
+        "f": "tense",
+        "s": "Vous ___ les documents nécessaires à votre dossier.",
+        "a": "joindrez",
+        "en": "You will attach the necessary documents to your file.",
+        "alts": [],
+        "form": "Futur"
+      },
+      {
+        "slot": "t|Futur|4",
+        "f": "tense",
+        "s": "Vous ___ le comité dès votre arrivée.",
+        "a": "joindrez",
+        "en": "You will join the committee upon your arrival.",
+        "alts": [],
+        "form": "Futur"
+      },
+      {
+        "slot": "t|Futur|5",
+        "f": "tense",
+        "s": "Les deux autoroutes ___ à l'entrée de la ville.",
+        "a": "joindront",
+        "en": "The two motorways will join at the entrance to the city.",
+        "alts": [],
+        "form": "Futur"
+      },
+      {
+        "slot": "t|Futur|5",
+        "f": "tense",
+        "s": "Ils ___ notre équipe après la pause.",
+        "a": "joindront",
+        "en": "They will join our team after the break.",
+        "alts": [],
+        "form": "Futur"
+      },
+      {
+        "slot": "t|Conditionnel|0",
+        "f": "tense",
+        "s": "Si j'avais le temps, je ___ votre groupe de travail.",
+        "a": "joindrais",
+        "en": "If I had the time, I would join your working group.",
+        "alts": [],
+        "form": "Conditionnel"
+      },
+      {
+        "slot": "t|Conditionnel|0",
+        "f": "tense",
+        "s": "Si tu avais des outils, tu ___ les deux pièces plus facilement.",
+        "a": "joindrais",
+        "en": "If you had the tools, you would join the two pieces more easily.",
+        "alts": [],
+        "form": "Conditionnel"
+      },
+      {
+        "slot": "t|Conditionnel|1",
+        "f": "tense",
+        "s": "Si on lui demandait, il ___ l'équipe sans hésiter.",
+        "a": "joindrait",
+        "en": "If one asked him, he would join the team without hesitation.",
+        "alts": [],
+        "form": "Conditionnel"
+      },
+      {
+        "slot": "t|Conditionnel|1",
+        "f": "tense",
+        "s": "Si elle avait les matériaux, elle ___ les deux panneaux ensemble.",
+        "a": "joindrait",
+        "en": "If she had the materials, she would join the two panels together.",
+        "alts": [],
+        "form": "Conditionnel"
+      },
+      {
+        "slot": "t|Conditionnel|2",
+        "f": "tense",
+        "s": "Si nous avions plus de budget, nous ___ les deux services en un seul.",
+        "a": "joindrions",
+        "en": "If we had more budget, we would join the two departments into one.",
+        "alts": [],
+        "form": "Conditionnel"
+      },
+      {
+        "slot": "t|Conditionnel|2",
+        "f": "tense",
+        "s": "Si nous pouvions, nous ___ nos amis pour le voyage.",
+        "a": "joindrions",
+        "en": "If we could, we would join our friends for the trip.",
+        "alts": [],
+        "form": "Conditionnel"
+      },
+      {
+        "slot": "t|Conditionnel|3",
+        "f": "tense",
+        "s": "Si vous aviez accepté, vous ___ notre association.",
+        "a": "joindriez",
+        "en": "If you had accepted, you would join our association.",
+        "alts": [],
+        "form": "Conditionnel"
+      },
+      {
+        "slot": "t|Conditionnel|3",
+        "f": "tense",
+        "s": "Si vous aviez les bons outils, vous ___ les deux câbles en quelques minutes.",
+        "a": "joindriez",
+        "en": "If you had the right tools, you would join the two cables in a few minutes.",
+        "alts": [],
+        "form": "Conditionnel"
+      },
+      {
+        "slot": "t|Conditionnel|4",
+        "f": "tense",
+        "s": "Si les routes étaient praticables, elles ___ les deux villages.",
+        "a": "joindraient",
+        "en": "If the roads were passable, they would join the two villages.",
+        "alts": [],
+        "form": "Conditionnel"
+      },
+      {
+        "slot": "t|Conditionnel|4",
+        "f": "tense",
+        "s": "Si on les invitait, ils ___ volontiers le groupe.",
+        "a": "joindraient",
+        "en": "If invited, they would gladly join the group.",
+        "alts": [],
+        "form": "Conditionnel"
+      },
+      {
+        "slot": "t|Subjonctif",
+        "f": "subj",
+        "s": "Il faut que tu ___ tes collègues avant la fin de la réunion.",
+        "a": "joignes",
+        "en": "It is necessary that you join your colleagues before the end of the meeting.",
+        "alts": [],
+        "form": "Subjonctif"
+      },
+      {
+        "slot": "t|Subjonctif",
+        "f": "subj",
+        "s": "Je veux qu'elle ___ les deux pièces avec de la colle.",
+        "a": "joigne",
+        "en": "I want her to join the two pieces with glue.",
+        "alts": [],
+        "form": "Subjonctif"
+      },
+      {
+        "slot": "s|0",
+        "f": "sense",
+        "s": "Ce tunnel ___ les deux quartiers de la ville.",
+        "a": "joint",
+        "en": "This tunnel connects the two districts of the city.",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "s|0",
+        "f": "sense",
+        "s": "Il a fallu des années pour ___ les deux extrémités de la voie ferrée.",
+        "a": "joindre",
+        "en": "It took years to connect the two ends of the railway line.",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "s|1",
+        "f": "sense",
+        "s": "J'ai essayé de ___ mon directeur par téléphone toute la matinée.",
+        "a": "joindre",
+        "en": "I tried to contact my manager by phone all morning.",
+        "alts": ["contacter"],
+        "form": ""
+      },
+      {
+        "slot": "s|1",
+        "f": "sense",
+        "s": "Pouvez-vous me dire comment ___ le service clientèle ?",
+        "a": "joindre",
+        "en": "Can you tell me how to reach customer service?",
+        "alts": ["contacter"],
+        "form": ""
+      },
+      {
+        "slot": "s|2",
+        "f": "sense",
+        "s": "Elle a décidé de ___ l'association de quartier.",
+        "a": "joindre",
+        "en": "She decided to join the neighbourhood association.",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "s|2",
+        "f": "sense",
+        "s": "Il a ___ le mouvement dès ses débuts.",
+        "a": "joint",
+        "en": "He joined the movement from its very beginning.",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "s|3",
+        "f": "sense",
+        "s": "Veuillez ___ votre curriculum vitae à votre lettre de motivation.",
+        "a": "joindre",
+        "en": "Please attach your CV to your cover letter.",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "s|3",
+        "f": "sense",
+        "s": "Il a ___ une copie de son passeport au formulaire.",
+        "a": "joint",
+        "en": "He attached a copy of his passport to the form.",
+        "alts": [],
+        "form": ""
+      }
+    ]
+  },
+  {
+    "id": 1321,
+    "qs": [
+      {
+        "slot": "s|0",
+        "f": "sense",
+        "s": "Cette valise est très ___, je peux la porter sans effort.",
+        "a": "légère",
+        "en": "This suitcase is very light, I can carry it without effort.",
+        "alts": []
+      },
+      {
+        "slot": "s|0",
+        "f": "sense",
+        "s": "Le vélo est un moyen de transport ___ et pratique.",
+        "a": "léger",
+        "en": "The bicycle is a light and practical mode of transport.",
+        "alts": []
+      },
+      {
+        "slot": "s|1",
+        "f": "sense",
+        "s": "Il a une blessure ___ à l'épaule, rien de grave.",
+        "a": "légère",
+        "en": "He has a slight injury to his shoulder, nothing serious.",
+        "alts": []
+      },
+      {
+        "slot": "s|1",
+        "f": "sense",
+        "s": "Elle ressentait une douleur ___ dans la main, mais elle a continué à travailler.",
+        "a": "légère",
+        "en": "She felt a slight pain in her hand, but she continued to work.",
+        "alts": []
+      },
+      {
+        "slot": "s|2",
+        "f": "sense",
+        "s": "Pour le dîner, je préfère un repas ___ comme une salade.",
+        "a": "léger",
+        "en": "For dinner, I prefer a light meal like a salad.",
+        "alts": []
+      },
+      {
+        "slot": "s|2",
+        "f": "sense",
+        "s": "Elle mange toujours une soupe ___ le soir pour ne pas se sentir lourde.",
+        "a": "légère",
+        "en": "She always eats a light soup in the evening so as not to feel heavy.",
+        "alts": []
+      },
+      {
+        "slot": "g|mp",
+        "f": "agree",
+        "s": "Ces sacs de voyage sont très ___, on peut en emporter plusieurs.",
+        "a": "légers",
+        "en": "These travel bags are very light, you can bring several of them.",
+        "alts": []
+      },
+      {
+        "slot": "g|mp",
+        "f": "agree",
+        "s": "Les matériaux utilisés dans cette construction sont ___ et résistants.",
+        "a": "légers",
+        "en": "The materials used in this construction are light and resistant.",
+        "alts": []
+      },
+      {
+        "slot": "g|f",
+        "f": "agree",
+        "s": "Cette robe en coton est ___, parfaite pour l'été.",
+        "a": "légère",
+        "en": "This cotton dress is light, perfect for summer.",
+        "alts": []
+      },
+      {
+        "slot": "g|f",
+        "f": "agree",
+        "s": "La couverture est ___ mais elle tient chaud.",
+        "a": "légère",
+        "en": "The blanket is light but it keeps you warm.",
+        "alts": []
+      },
+      {
+        "slot": "g|fp",
+        "f": "agree",
+        "s": "Ces chaussures de sport sont ___ et confortables.",
+        "a": "légères",
+        "en": "These sports shoes are light and comfortable.",
+        "alts": []
+      },
+      {
+        "slot": "g|fp",
+        "f": "agree",
+        "s": "Les tentes de randonnée modernes sont ___ et faciles à monter.",
+        "a": "légères",
+        "en": "Modern hiking tents are light and easy to set up.",
+        "alts": []
+      }
+    ]
+  }
+]

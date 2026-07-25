@@ -1,0 +1,737 @@
+[
+  {
+    "id": 4165,
+    "qs": [
+      {
+        "slot": "s|0",
+        "f": "sense",
+        "s": "Il faisait nuit noire, et la forêt s'étendait ___ à perte de vue.",
+        "en": "It was pitch dark, and the forest stretched all around as far as the eye could see.",
+        "a": "alentour",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "s|0",
+        "f": "sense",
+        "s": "Le château se dressait sur la colline, et les champs s'étalaient ___ dans tous les sens.",
+        "en": "The castle stood on the hill, and the fields spread out all around in every direction.",
+        "a": "alentour",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "s|1",
+        "f": "sense",
+        "s": "Les habitants des villages ___ viennent faire leurs courses au marché chaque samedi.",
+        "en": "The residents of the nearby villages come to do their shopping at the market every Saturday.",
+        "a": "alentour",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "s|1",
+        "f": "sense",
+        "s": "Notre hôtel est idéalement situé : les restaurants ___ sont nombreux et variés.",
+        "en": "Our hotel is ideally located: the nearby restaurants are numerous and varied.",
+        "a": "alentour",
+        "alts": [],
+        "form": ""
+      }
+    ]
+  },
+  {
+    "id": 4166,
+    "qs": [
+      {
+        "slot": "t|Présent|0",
+        "f": "tense",
+        "s": "Je ne ___ pas mes principes pour une promotion.",
+        "en": "I don't corrupt my principles for a promotion.",
+        "a": "corromps",
+        "alts": [],
+        "form": "Présent"
+      },
+      {
+        "slot": "t|Présent|0",
+        "f": "tense",
+        "s": "Tu ___ les fonctionnaires avec de l'argent sale.",
+        "en": "You bribe the officials with dirty money.",
+        "a": "corromps",
+        "alts": [],
+        "form": "Présent"
+      },
+      {
+        "slot": "t|Présent|1",
+        "f": "tense",
+        "s": "Ce politicien ___ les juges pour échapper à la justice.",
+        "en": "This politician bribes the judges to escape justice.",
+        "a": "corrompt",
+        "alts": [],
+        "form": "Présent"
+      },
+      {
+        "slot": "t|Présent|1",
+        "f": "tense",
+        "s": "On dit que l'argent ___ les âmes les plus pures.",
+        "en": "They say money corrupts the purest souls.",
+        "a": "corrompt",
+        "alts": [],
+        "form": "Présent"
+      },
+      {
+        "slot": "t|Présent|2",
+        "f": "tense",
+        "s": "Nous ne ___ pas les témoins, c'est contraire à la loi.",
+        "en": "We do not bribe the witnesses; it is against the law.",
+        "a": "corrompons",
+        "alts": [],
+        "form": "Présent"
+      },
+      {
+        "slot": "t|Présent|2",
+        "f": "tense",
+        "s": "Nous ___ involontairement le marché en pratiquant des prix déloyaux.",
+        "en": "We are inadvertently corrupting the market by practicing unfair prices.",
+        "a": "corrompons",
+        "alts": [],
+        "form": "Présent"
+      },
+      {
+        "slot": "t|Présent|3",
+        "f": "tense",
+        "s": "Vous ___ des fonctionnaires pour obtenir ces contrats, n'est-ce pas ?",
+        "en": "You are bribing officials to obtain these contracts, aren't you?",
+        "a": "corrompez",
+        "alts": [],
+        "form": "Présent"
+      },
+      {
+        "slot": "t|Présent|3",
+        "f": "tense",
+        "s": "En agissant ainsi, vous ___ la jeunesse de ce pays.",
+        "en": "By acting this way, you are corrupting the youth of this country.",
+        "a": "corrompez",
+        "alts": [],
+        "form": "Présent"
+      },
+      {
+        "slot": "t|Présent|4",
+        "f": "tense",
+        "s": "Ces entreprises ___ les inspecteurs pour éviter les contrôles.",
+        "en": "These companies bribe the inspectors to avoid checks.",
+        "a": "corrompent",
+        "alts": [],
+        "form": "Présent"
+      },
+      {
+        "slot": "t|Présent|4",
+        "f": "tense",
+        "s": "Elles ___ les valeurs morales de la société par leurs discours.",
+        "en": "They corrupt the moral values of society through their speeches.",
+        "a": "corrompent",
+        "alts": [],
+        "form": "Présent"
+      },
+      {
+        "slot": "t|Passé composé|0",
+        "f": "tense",
+        "s": "J'___ un agent des douanes pour faire passer la marchandise.",
+        "en": "I bribed a customs officer to get the goods through.",
+        "a": "ai corrompu",
+        "alts": [],
+        "form": "Passé composé"
+      },
+      {
+        "slot": "t|Passé composé|0",
+        "f": "tense",
+        "s": "Malheureusement, j'___ mes anciens idéaux en acceptant ce poste.",
+        "en": "Unfortunately, I corrupted my former ideals by accepting this position.",
+        "a": "ai corrompu",
+        "alts": [],
+        "form": "Passé composé"
+      },
+      {
+        "slot": "t|Passé composé|1",
+        "f": "tense",
+        "s": "Tu ___ un juge pour que le verdict soit en ta faveur.",
+        "en": "You bribed a judge so that the verdict would be in your favour.",
+        "a": "as corrompu",
+        "alts": [],
+        "form": "Passé composé"
+      },
+      {
+        "slot": "t|Passé composé|1",
+        "f": "tense",
+        "s": "Est-ce que tu ___ ces témoins avant le procès ?",
+        "en": "Did you bribe those witnesses before the trial?",
+        "a": "as corrompu",
+        "alts": [],
+        "form": "Passé composé"
+      },
+      {
+        "slot": "t|Passé composé|2",
+        "f": "tense",
+        "s": "Le ministre ___ plusieurs hauts fonctionnaires pour obtenir le marché.",
+        "en": "The minister bribed several senior officials to obtain the contract.",
+        "a": "a corrompu",
+        "alts": [],
+        "form": "Passé composé"
+      },
+      {
+        "slot": "t|Passé composé|2",
+        "f": "tense",
+        "s": "Cette idéologie ___ toute une génération de jeunes esprits.",
+        "en": "This ideology corrupted an entire generation of young minds.",
+        "a": "a corrompu",
+        "alts": [],
+        "form": "Passé composé"
+      },
+      {
+        "slot": "t|Passé composé|3",
+        "f": "tense",
+        "s": "Nous ___ l'arbitre pour assurer notre victoire, et nous le regrettons.",
+        "en": "We bribed the referee to ensure our victory, and we regret it.",
+        "a": "avons corrompu",
+        "alts": [],
+        "form": "Passé composé"
+      },
+      {
+        "slot": "t|Passé composé|3",
+        "f": "tense",
+        "s": "Nous ___ sans le vouloir les données du fichier en le modifiant.",
+        "en": "We unintentionally corrupted the data in the file by editing it.",
+        "a": "avons corrompu",
+        "alts": [],
+        "form": "Passé composé"
+      },
+      {
+        "slot": "t|Passé composé|4",
+        "f": "tense",
+        "s": "Vous ___ des agents publics, c'est un délit grave.",
+        "en": "You bribed public officials; that is a serious offence.",
+        "a": "avez corrompu",
+        "alts": [],
+        "form": "Passé composé"
+      },
+      {
+        "slot": "t|Passé composé|4",
+        "f": "tense",
+        "s": "Comment ___ vous ___ l'intégrité de ces institutions ?",
+        "en": "How did you corrupt the integrity of these institutions?",
+        "a": "avez corrompu",
+        "alts": [],
+        "form": "Passé composé"
+      },
+      {
+        "slot": "t|Passé composé|5",
+        "f": "tense",
+        "s": "Les trafiquants ___ des policiers pour poursuivre leurs activités.",
+        "en": "The traffickers bribed police officers to continue their activities.",
+        "a": "ont corrompu",
+        "alts": [],
+        "form": "Passé composé"
+      },
+      {
+        "slot": "t|Passé composé|5",
+        "f": "tense",
+        "s": "Ces influences négatives ___ les valeurs de nombreux adolescents.",
+        "en": "These negative influences corrupted the values of many teenagers.",
+        "a": "ont corrompu",
+        "alts": [],
+        "form": "Passé composé"
+      },
+      {
+        "slot": "t|Imparfait|0",
+        "f": "tense",
+        "s": "Quand j'étais au pouvoir, je ne ___ jamais personne.",
+        "en": "When I was in power, I never bribed anyone.",
+        "a": "corrompais",
+        "alts": [],
+        "form": "Imparfait"
+      },
+      {
+        "slot": "t|Imparfait|0",
+        "f": "tense",
+        "s": "Tu ___ régulièrement les gardiens pour avoir accès à l'entrepôt.",
+        "en": "You regularly bribed the guards to gain access to the warehouse.",
+        "a": "corrompais",
+        "alts": [],
+        "form": "Imparfait"
+      },
+      {
+        "slot": "t|Imparfait|1",
+        "f": "tense",
+        "s": "Ce régime ___ les juges pour maintenir son pouvoir.",
+        "en": "This regime was bribing the judges to maintain its power.",
+        "a": "corrompait",
+        "alts": [],
+        "form": "Imparfait"
+      },
+      {
+        "slot": "t|Imparfait|1",
+        "f": "tense",
+        "s": "L'environnement malsain ___ peu à peu les nouvelles recrues.",
+        "en": "The unhealthy environment was gradually corrupting the new recruits.",
+        "a": "corrompait",
+        "alts": [],
+        "form": "Imparfait"
+      },
+      {
+        "slot": "t|Imparfait|2",
+        "f": "tense",
+        "s": "Nous ___ les inspecteurs pour éviter les amendes à l'époque.",
+        "en": "We used to bribe the inspectors to avoid fines back then.",
+        "a": "corrompions",
+        "alts": [],
+        "form": "Imparfait"
+      },
+      {
+        "slot": "t|Imparfait|2",
+        "f": "tense",
+        "s": "Sans le savoir, nous ___ la culture locale avec nos habitudes importées.",
+        "en": "Without realising it, we were corrupting local culture with our imported habits.",
+        "a": "corrompions",
+        "alts": [],
+        "form": "Imparfait"
+      },
+      {
+        "slot": "t|Imparfait|3",
+        "f": "tense",
+        "s": "Vous ___ des arbitres chaque saison pour remporter le championnat.",
+        "en": "You were bribing referees every season to win the championship.",
+        "a": "corrompiez",
+        "alts": [],
+        "form": "Imparfait"
+      },
+      {
+        "slot": "t|Imparfait|3",
+        "f": "tense",
+        "s": "Vous ___ les esprits des étudiants avec cette propagande mensongère.",
+        "en": "You were corrupting the minds of students with this false propaganda.",
+        "a": "corrompiez",
+        "alts": [],
+        "form": "Imparfait"
+      },
+      {
+        "slot": "t|Imparfait|4",
+        "f": "tense",
+        "s": "Ces hommes d'affaires ___ les douaniers pour faciliter leurs importations.",
+        "en": "These businessmen were bribing customs officers to facilitate their imports.",
+        "a": "corrompaient",
+        "alts": [],
+        "form": "Imparfait"
+      },
+      {
+        "slot": "t|Imparfait|4",
+        "f": "tense",
+        "s": "Les mauvaises fréquentations ___ progressivement son caractère.",
+        "en": "The bad company was gradually corrupting his character.",
+        "a": "corrompaient",
+        "alts": [],
+        "form": "Imparfait"
+      },
+      {
+        "slot": "t|Futur|0",
+        "f": "tense",
+        "s": "Je ne ___ jamais ma conscience pour un gain financier.",
+        "en": "I will never corrupt my conscience for financial gain.",
+        "a": "corromprai",
+        "alts": [],
+        "form": "Futur"
+      },
+      {
+        "slot": "t|Futur|0",
+        "f": "tense",
+        "s": "Si on me propose de l'argent, je ne ___ pas les témoins.",
+        "en": "If someone offers me money, I will not bribe the witnesses.",
+        "a": "corromprai",
+        "alts": [],
+        "form": "Futur"
+      },
+      {
+        "slot": "t|Futur|1",
+        "f": "tense",
+        "s": "Tu ___ ces agents si tu veux que le dossier passe rapidement.",
+        "en": "You will bribe these agents if you want the file to go through quickly.",
+        "a": "corrompras",
+        "alts": [],
+        "form": "Futur"
+      },
+      {
+        "slot": "t|Futur|1",
+        "f": "tense",
+        "s": "Si tu continues ainsi, tu ___ ta réputation irrémédiablement.",
+        "en": "If you continue like this, you will irreparably corrupt your reputation.",
+        "a": "corrompras",
+        "alts": [],
+        "form": "Futur"
+      },
+      {
+        "slot": "t|Futur|2",
+        "f": "tense",
+        "s": "Le nouveau chef ___ probablement les fonctionnaires pour obtenir des faveurs.",
+        "en": "The new leader will probably bribe the officials to obtain favours.",
+        "a": "corrompra",
+        "alts": [],
+        "form": "Futur"
+      },
+      {
+        "slot": "t|Futur|2",
+        "f": "tense",
+        "s": "Ce contenu toxique ___ les valeurs des jeunes générations.",
+        "en": "This toxic content will corrupt the values of young generations.",
+        "a": "corrompra",
+        "alts": [],
+        "form": "Futur"
+      },
+      {
+        "slot": "t|Futur|3",
+        "f": "tense",
+        "s": "Nous ___ les responsables si c'est le seul moyen d'obtenir le permis.",
+        "en": "We will bribe the officials if it is the only way to obtain the permit.",
+        "a": "corromprons",
+        "alts": [],
+        "form": "Futur"
+      },
+      {
+        "slot": "t|Futur|3",
+        "f": "tense",
+        "s": "Nous ne ___ pas nos valeurs même sous pression.",
+        "en": "We will not corrupt our values even under pressure.",
+        "a": "corromprons",
+        "alts": [],
+        "form": "Futur"
+      },
+      {
+        "slot": "t|Futur|4",
+        "f": "tense",
+        "s": "Vous ___ les gardiens pour libérer votre complice, c'est votre plan ?",
+        "en": "You will bribe the guards to free your accomplice — is that your plan?",
+        "a": "corromprez",
+        "alts": [],
+        "form": "Futur"
+      },
+      {
+        "slot": "t|Futur|4",
+        "f": "tense",
+        "s": "Si vous agissez de la sorte, vous ___ toute la structure de l'organisation.",
+        "en": "If you act this way, you will corrupt the entire structure of the organisation.",
+        "a": "corromprez",
+        "alts": [],
+        "form": "Futur"
+      },
+      {
+        "slot": "t|Futur|5",
+        "f": "tense",
+        "s": "Ces lobbyistes ___ les élus pour faire passer leur loi.",
+        "en": "These lobbyists will bribe the elected representatives to push through their law.",
+        "a": "corrompront",
+        "alts": [],
+        "form": "Futur"
+      },
+      {
+        "slot": "t|Futur|5",
+        "f": "tense",
+        "s": "Ces pratiques ___ à terme les fondements de notre démocratie.",
+        "en": "These practices will ultimately corrupt the foundations of our democracy.",
+        "a": "corrompront",
+        "alts": [],
+        "form": "Futur"
+      },
+      {
+        "slot": "t|Conditionnel|0",
+        "f": "tense",
+        "s": "Si j'étais désespéré, je ___ peut-être un fonctionnaire.",
+        "en": "If I were desperate, I might bribe an official.",
+        "a": "corromprais",
+        "alts": [],
+        "form": "Conditionnel"
+      },
+      {
+        "slot": "t|Conditionnel|0",
+        "f": "tense",
+        "s": "Si tu avais les moyens, tu ___ ces juges sans hésiter.",
+        "en": "If you had the means, you would bribe these judges without hesitation.",
+        "a": "corromprais",
+        "alts": [],
+        "form": "Conditionnel"
+      },
+      {
+        "slot": "t|Conditionnel|1",
+        "f": "tense",
+        "s": "Si le président avait plus de pouvoir, il ___ toutes les institutions.",
+        "en": "If the president had more power, he would corrupt all the institutions.",
+        "a": "corromprait",
+        "alts": [],
+        "form": "Conditionnel"
+      },
+      {
+        "slot": "t|Conditionnel|1",
+        "f": "tense",
+        "s": "Elle ___ l'arbitre si elle en avait la possibilité.",
+        "en": "She would bribe the referee if she had the opportunity.",
+        "a": "corromprait",
+        "alts": [],
+        "form": "Conditionnel"
+      },
+      {
+        "slot": "t|Conditionnel|2",
+        "f": "tense",
+        "s": "Si nous étions sans scrupules, nous ___ tous les élus.",
+        "en": "If we were unscrupulous, we would bribe all the elected officials.",
+        "a": "corromprions",
+        "alts": [],
+        "form": "Conditionnel"
+      },
+      {
+        "slot": "t|Conditionnel|2",
+        "f": "tense",
+        "s": "Nous ne ___ jamais nos valeurs, même si on nous offrait une fortune.",
+        "en": "We would never corrupt our values, even if we were offered a fortune.",
+        "a": "corromprions",
+        "alts": [],
+        "form": "Conditionnel"
+      },
+      {
+        "slot": "t|Conditionnel|3",
+        "f": "tense",
+        "s": "Si vous étiez à leur place, vous ___ aussi les gardes pour entrer.",
+        "en": "If you were in their position, you would also bribe the guards to get in.",
+        "a": "corrompriez",
+        "alts": [],
+        "form": "Conditionnel"
+      },
+      {
+        "slot": "t|Conditionnel|3",
+        "f": "tense",
+        "s": "Vous ___ les esprits des habitants si vous diffusiez cette propagande.",
+        "en": "You would corrupt the minds of the residents if you spread this propaganda.",
+        "a": "corrompriez",
+        "alts": [],
+        "form": "Conditionnel"
+      },
+      {
+        "slot": "t|Conditionnel|4",
+        "f": "tense",
+        "s": "Si ces candidats avaient plus d'argent, ils ___ tous les électeurs.",
+        "en": "If these candidates had more money, they would bribe all the voters.",
+        "a": "corrompraient",
+        "alts": [],
+        "form": "Conditionnel"
+      },
+      {
+        "slot": "t|Conditionnel|4",
+        "f": "tense",
+        "s": "Ces mauvaises habitudes ___ leurs enfants si elles persistaient.",
+        "en": "These bad habits would corrupt their children if they persisted.",
+        "a": "corrompraient",
+        "alts": [],
+        "form": "Conditionnel"
+      },
+      {
+        "slot": "t|Subjonctif",
+        "f": "subj",
+        "s": "Il faut que tu ___ le moins de gens possible dans cette affaire.",
+        "en": "It is necessary that you corrupt as few people as possible in this matter.",
+        "a": "corrompes",
+        "alts": [],
+        "form": "Subjonctif présent"
+      },
+      {
+        "slot": "t|Subjonctif",
+        "f": "subj",
+        "s": "Je ne veux pas qu'il ___ les membres du jury.",
+        "en": "I do not want him to bribe the members of the jury.",
+        "a": "corrompe",
+        "alts": [],
+        "form": "Subjonctif présent"
+      },
+      {
+        "slot": "s|0",
+        "f": "sense",
+        "s": "Le pouvoir absolu ___ absolument, comme le dit l'adage.",
+        "en": "Absolute power corrupts absolutely, as the saying goes.",
+        "a": "corrompt",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "s|0",
+        "f": "sense",
+        "s": "La cupidité ___ les valeurs morales d'une société tout entière.",
+        "en": "Greed corrupts the moral values of an entire society.",
+        "a": "corrompt",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "s|1",
+        "f": "sense",
+        "s": "Le suspect a tenté de ___ un agent de police pour éviter l'arrestation.",
+        "en": "The suspect tried to bribe a police officer to avoid arrest.",
+        "a": "corrompre",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "s|1",
+        "f": "sense",
+        "s": "Il est illégal de ___ un fonctionnaire pour obtenir un avantage.",
+        "en": "It is illegal to bribe a public official to obtain an advantage.",
+        "a": "corrompre",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "s|2",
+        "f": "sense",
+        "s": "Ces fréquentations dangereuses ont fini par ___ ce jeune homme autrefois honnête.",
+        "en": "These dangerous associations ended up corrupting this once honest young man.",
+        "a": "corrompre",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "s|2",
+        "f": "sense",
+        "s": "Les mauvais exemples peuvent ___ un enfant et le faire dévier du droit chemin.",
+        "en": "Bad examples can corrupt a child and lead them astray.",
+        "a": "corrompre",
+        "alts": [],
+        "form": ""
+      }
+    ]
+  },
+  {
+    "id": 4167,
+    "qs": [
+      {
+        "slot": "s|0",
+        "f": "sense",
+        "s": "Cette ville a toujours eu un esprit très ___ : les marchés y sont nombreux.",
+        "en": "This city has always had a very commercial spirit: there are many markets there.",
+        "a": "commerçant",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "s|0",
+        "f": "sense",
+        "s": "Ce peuple est naturellement ___ ; il vit du commerce depuis des siècles.",
+        "en": "This people is naturally inclined to trade; they have lived by commerce for centuries.",
+        "a": "commerçant",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "s|1",
+        "f": "sense",
+        "s": "Il est très ___ : il sait toujours comment négocier un bon prix.",
+        "en": "He is very commercially savvy: he always knows how to negotiate a good price.",
+        "a": "commerçant",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "s|1",
+        "f": "sense",
+        "s": "Ma sœur est particulièrement ___ ; elle transforme chaque rencontre en opportunité d'affaires.",
+        "en": "My sister is particularly business-minded; she turns every encounter into a business opportunity.",
+        "a": "commerçante",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "s|2",
+        "f": "sense",
+        "s": "Ce ___ voyage à travers toute l'Europe pour vendre ses marchandises.",
+        "en": "This merchant travels all over Europe to sell his goods.",
+        "a": "commerçant",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "s|2",
+        "f": "sense",
+        "s": "Un ___ de soieries a ouvert sa boutique dans le vieux marché de la ville.",
+        "en": "A silk merchant opened his shop in the old market of the city.",
+        "a": "commerçant",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "s|3",
+        "f": "sense",
+        "s": "Le ___ du coin connaît tous ses clients par leur prénom.",
+        "en": "The local shopkeeper knows all his customers by their first name.",
+        "a": "commerçant",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "s|3",
+        "f": "sense",
+        "s": "Cette ___ ferme sa boutique tous les lundis pour se reposer.",
+        "en": "This shopkeeper closes her shop every Monday to rest.",
+        "a": "commerçante",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "g|mp",
+        "f": "agree",
+        "s": "Les quartiers ___ de Paris attirent de nombreux touristes chaque année.",
+        "en": "The commercial districts of Paris attract many tourists every year.",
+        "a": "commerçants",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "g|mp",
+        "f": "agree",
+        "s": "Ces peuples ___ ont bâti leur fortune grâce aux échanges maritimes.",
+        "en": "These trading peoples built their fortune through maritime trade.",
+        "a": "commerçants",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "g|f",
+        "f": "agree",
+        "s": "Elle a une personnalité très ___ : elle négocie avec talent dans tous les domaines.",
+        "en": "She has a very commercial personality: she negotiates skillfully in all areas.",
+        "a": "commerçante",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "g|f",
+        "f": "agree",
+        "s": "Cette région, longtemps ___, a développé un réseau de marchés prospères.",
+        "en": "This region, long oriented toward trade, developed a network of thriving markets.",
+        "a": "commerçante",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "g|fp",
+        "f": "agree",
+        "s": "Ces familles, traditionnellement ___, se transmettent leur savoir-faire de génération en génération.",
+        "en": "These families, traditionally engaged in trade, pass down their know-how from generation to generation.",
+        "a": "commerçantes",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "g|fp",
+        "f": "agree",
+        "s": "Les villes ___ de la côte ont prospéré grâce aux échanges avec l'Afrique du Nord.",
+        "en": "The trading towns along the coast prospered through exchanges with North Africa.",
+        "a": "commerçantes",
+        "alts": [],
+        "form": ""
+      }
+    ]
+  }
+]

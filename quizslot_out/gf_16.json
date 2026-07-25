@@ -1,0 +1,693 @@
+[
+  {
+    "id": 1049,
+    "qs": [
+      {
+        "slot": "s|0",
+        "f": "sense",
+        "s": "Le panda géant est une ___ en voie d'extinction.",
+        "a": "espèce",
+        "en": "The giant panda is a species on the verge of extinction.",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "s|0",
+        "f": "sense",
+        "s": "Les biologistes ont identifié une nouvelle ___ de grenouille dans cette forêt tropicale.",
+        "a": "espèce",
+        "en": "Biologists have identified a new species of frog in this tropical forest.",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "s|1",
+        "f": "sense",
+        "s": "Ce marché propose toute ___ de produits artisanaux : poteries, tissus et bijoux.",
+        "a": "espèce",
+        "en": "This market offers every kind of artisanal product: pottery, fabrics and jewellery.",
+        "alts": ["sorte"],
+        "form": ""
+      },
+      {
+        "slot": "s|1",
+        "f": "sense",
+        "s": "Quelle ___ de document faut-il fournir pour obtenir ce visa ?",
+        "a": "espèce",
+        "en": "What kind of document do you need to provide to obtain this visa?",
+        "alts": ["sorte", "type"],
+        "form": ""
+      },
+      {
+        "slot": "s|2",
+        "f": "sense",
+        "s": "Méfie-toi de lui : c'est une ___ d'escroc qui trompe tout le monde.",
+        "a": "espèce",
+        "en": "Be careful of him: he is a sort of crook who deceives everyone.",
+        "alts": ["sorte"],
+        "form": ""
+      },
+      {
+        "slot": "s|2",
+        "f": "sense",
+        "s": "Il m'a traité d'___ d'imbécile devant tous mes collègues !",
+        "a": "espèce",
+        "en": "He called me a sort of idiot in front of all my colleagues!",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "gender",
+        "f": "gender",
+        "s": "C'est ___ espèce d'oiseau très rare dans notre région.",
+        "a": "une",
+        "en": "It is a very rare species of bird in our region.",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "gender",
+        "f": "gender",
+        "s": "Selon les experts, ___ espèce humaine doit changer ses habitudes de consommation.",
+        "a": "l'",
+        "en": "According to experts, the human species must change its consumption habits.",
+        "alts": [],
+        "form": ""
+      }
+    ]
+  },
+  {
+    "id": 1050,
+    "qs": [
+      {
+        "slot": "s|0",
+        "f": "sense",
+        "s": "Le médecin a donné une ___ claire : éviter le sucre et faire du sport.",
+        "a": "recommandation",
+        "en": "The doctor gave a clear recommendation: avoid sugar and exercise.",
+        "alts": []
+      },
+      {
+        "slot": "s|0",
+        "f": "sense",
+        "s": "Mon seul conseil est de suivre la ___ des experts en nutrition.",
+        "a": "recommandation",
+        "en": "My only advice is to follow the recommendation of nutrition experts.",
+        "alts": []
+      },
+      {
+        "slot": "s|1",
+        "f": "sense",
+        "s": "Grâce à la ___ de mon ancien patron, j'ai obtenu ce poste.",
+        "a": "recommandation",
+        "en": "Thanks to the recommendation from my former boss, I got this position.",
+        "alts": []
+      },
+      {
+        "slot": "s|1",
+        "f": "sense",
+        "s": "Le comité a retenu sa candidature sur ___ de plusieurs professeurs.",
+        "a": "recommandation",
+        "en": "The committee selected his application on the recommendation of several professors.",
+        "alts": []
+      },
+      {
+        "slot": "s|2",
+        "f": "sense",
+        "s": "L'OMS a publié de nouvelles ___ concernant la vaccination contre la grippe.",
+        "a": "recommandations",
+        "en": "The WHO published new recommendations concerning vaccination against influenza.",
+        "alts": []
+      },
+      {
+        "slot": "s|2",
+        "f": "sense",
+        "s": "Le rapport final inclut plusieurs ___ officielles à l'intention des gouvernements membres.",
+        "a": "recommandations",
+        "en": "The final report includes several official recommendations addressed to member governments.",
+        "alts": []
+      },
+      {
+        "slot": "gender",
+        "f": "gender",
+        "s": "Le directeur a suivi ___ recommandation de l'inspecteur.",
+        "a": "la",
+        "en": "The director followed the inspector's recommendation.",
+        "alts": []
+      },
+      {
+        "slot": "gender",
+        "f": "gender",
+        "s": "Elle a rédigé ___ recommandation très détaillée pour son stagiaire.",
+        "a": "une",
+        "en": "She wrote a very detailed recommendation for her intern.",
+        "alts": []
+      }
+    ]
+  },
+  {
+    "id": 1051,
+    "qs": [
+      {
+        "slot": "t|Présent|0",
+        "f": "tense",
+        "s": "Le bonheur ___ à apprécier les petites choses.",
+        "a": "consiste",
+        "en": "Happiness consists in appreciating the small things.",
+        "alts": [],
+        "form": "Présent"
+      },
+      {
+        "slot": "t|Présent|0",
+        "f": "tense",
+        "s": "Mon travail ___ à vérifier les données chaque matin.",
+        "a": "consiste",
+        "en": "My job consists in checking the data every morning.",
+        "alts": [],
+        "form": "Présent"
+      },
+      {
+        "slot": "t|Présent|1",
+        "f": "tense",
+        "s": "Tu penses que ton rôle ___ uniquement à donner des ordres ?",
+        "a": "consistes",
+        "en": "Do you think your role consists solely in giving orders?",
+        "alts": [],
+        "form": "Présent"
+      },
+      {
+        "slot": "t|Présent|1",
+        "f": "tense",
+        "s": "En quoi ___ -tu ta méthode de travail ?",
+        "a": "consistes",
+        "en": "What does your work method consist in?",
+        "alts": [],
+        "form": "Présent"
+      },
+      {
+        "slot": "t|Présent|2",
+        "f": "tense",
+        "s": "Nous ___ à recueillir des témoignages sur le terrain.",
+        "a": "consistons",
+        "en": "We consist in gathering testimonies in the field.",
+        "alts": [],
+        "form": "Présent"
+      },
+      {
+        "slot": "t|Présent|2",
+        "f": "tense",
+        "s": "Notre mission ___ à aider les personnes en difficulté.",
+        "a": "consiste",
+        "en": "Our mission consists in helping people in difficulty.",
+        "alts": [],
+        "form": "Présent"
+      },
+      {
+        "slot": "t|Présent|3",
+        "f": "tense",
+        "s": "Vous ___ à analyser les résultats du projet chaque semaine.",
+        "a": "consistez",
+        "en": "You consist in analysing the project results every week.",
+        "alts": [],
+        "form": "Présent"
+      },
+      {
+        "slot": "t|Présent|3",
+        "f": "tense",
+        "s": "En quoi ___ -vous dans cette entreprise ?",
+        "a": "consistez",
+        "en": "What do you consist in doing at this company?",
+        "alts": [],
+        "form": "Présent"
+      },
+      {
+        "slot": "t|Présent|4",
+        "f": "tense",
+        "s": "Les exercices ___ à répéter les mêmes gestes jusqu'à la maîtrise.",
+        "a": "consistent",
+        "en": "The exercises consist in repeating the same movements until mastery.",
+        "alts": [],
+        "form": "Présent"
+      },
+      {
+        "slot": "t|Présent|4",
+        "f": "tense",
+        "s": "Ces formations ___ à développer des compétences pratiques.",
+        "a": "consistent",
+        "en": "These training programmes consist in developing practical skills.",
+        "alts": [],
+        "form": "Présent"
+      },
+      {
+        "slot": "t|Passé composé|0",
+        "f": "tense",
+        "s": "J'___ à résoudre ce problème en deux étapes.",
+        "a": "ai consisté",
+        "en": "I consisted in solving this problem in two steps.",
+        "alts": [],
+        "form": "Passé composé"
+      },
+      {
+        "slot": "t|Passé composé|0",
+        "f": "tense",
+        "s": "Mon erreur ___ à ignorer les avertissements.",
+        "a": "a consisté",
+        "en": "My mistake consisted in ignoring the warnings.",
+        "alts": [],
+        "form": "Passé composé"
+      },
+      {
+        "slot": "t|Passé composé|1",
+        "f": "tense",
+        "s": "Tu ___ à organiser les réunions pendant toute la conférence.",
+        "a": "as consisté",
+        "en": "You consisted in organising the meetings throughout the conference.",
+        "alts": [],
+        "form": "Passé composé"
+      },
+      {
+        "slot": "t|Passé composé|1",
+        "f": "tense",
+        "s": "Ta contribution ___ à présenter les résultats de l'étude.",
+        "a": "a consisté",
+        "en": "Your contribution consisted in presenting the study results.",
+        "alts": [],
+        "form": "Passé composé"
+      },
+      {
+        "slot": "t|Passé composé|2",
+        "f": "tense",
+        "s": "Son travail ___ à rédiger les comptes rendus de la réunion.",
+        "a": "a consisté",
+        "en": "His/her work consisted in writing the meeting minutes.",
+        "alts": [],
+        "form": "Passé composé"
+      },
+      {
+        "slot": "t|Passé composé|2",
+        "f": "tense",
+        "s": "Le défi ___ à trouver une solution innovante en peu de temps.",
+        "a": "a consisté",
+        "en": "The challenge consisted in finding an innovative solution in little time.",
+        "alts": [],
+        "form": "Passé composé"
+      },
+      {
+        "slot": "t|Passé composé|3",
+        "f": "tense",
+        "s": "Nous ___ à mettre en place un nouveau système de gestion.",
+        "a": "avons consisté",
+        "en": "We consisted in setting up a new management system.",
+        "alts": [],
+        "form": "Passé composé"
+      },
+      {
+        "slot": "t|Passé composé|3",
+        "f": "tense",
+        "s": "Notre effort ___ à améliorer la communication au sein de l'équipe.",
+        "a": "a consisté",
+        "en": "Our effort consisted in improving communication within the team.",
+        "alts": [],
+        "form": "Passé composé"
+      },
+      {
+        "slot": "t|Passé composé|4",
+        "f": "tense",
+        "s": "Vous ___ à vérifier chaque détail du contrat avant la signature.",
+        "a": "avez consisté",
+        "en": "You consisted in checking every detail of the contract before signing.",
+        "alts": [],
+        "form": "Passé composé"
+      },
+      {
+        "slot": "t|Passé composé|4",
+        "f": "tense",
+        "s": "Votre rôle ___ à coordonner les différentes équipes du projet.",
+        "a": "a consisté",
+        "en": "Your role consisted in coordinating the different project teams.",
+        "alts": [],
+        "form": "Passé composé"
+      },
+      {
+        "slot": "t|Passé composé|5",
+        "f": "tense",
+        "s": "Les travaux ___ à rénover entièrement la façade du bâtiment.",
+        "a": "ont consisté",
+        "en": "The works consisted in completely renovating the building's facade.",
+        "alts": [],
+        "form": "Passé composé"
+      },
+      {
+        "slot": "t|Passé composé|5",
+        "f": "tense",
+        "s": "Ces expériences ___ à tester de nouvelles hypothèses scientifiques.",
+        "a": "ont consisté",
+        "en": "These experiments consisted in testing new scientific hypotheses.",
+        "alts": [],
+        "form": "Passé composé"
+      },
+      {
+        "slot": "t|Imparfait|0",
+        "f": "tense",
+        "s": "Quand j'étais enfant, mon plaisir ___ à collectionner des timbres.",
+        "a": "consistait",
+        "en": "When I was a child, my pleasure consisted in collecting stamps.",
+        "alts": [],
+        "form": "Imparfait"
+      },
+      {
+        "slot": "t|Imparfait|0",
+        "f": "tense",
+        "s": "Avant, tu ___ à relire tous les documents avant chaque réunion.",
+        "a": "consistais",
+        "en": "Before, you used to consist in rereading all documents before each meeting.",
+        "alts": [],
+        "form": "Imparfait"
+      },
+      {
+        "slot": "t|Imparfait|1",
+        "f": "tense",
+        "s": "Son rôle ___ à superviser la production quotidienne de l'usine.",
+        "a": "consistait",
+        "en": "His/her role used to consist in supervising the factory's daily production.",
+        "alts": [],
+        "form": "Imparfait"
+      },
+      {
+        "slot": "t|Imparfait|1",
+        "f": "tense",
+        "s": "Le jeu ___ à deviner le mot caché en posant des questions.",
+        "a": "consistait",
+        "en": "The game used to consist in guessing the hidden word by asking questions.",
+        "alts": [],
+        "form": "Imparfait"
+      },
+      {
+        "slot": "t|Imparfait|2",
+        "f": "tense",
+        "s": "Nous ___ à surveiller les résultats en temps réel chaque jour.",
+        "a": "consistions",
+        "en": "We used to consist in monitoring results in real time every day.",
+        "alts": [],
+        "form": "Imparfait"
+      },
+      {
+        "slot": "t|Imparfait|2",
+        "f": "tense",
+        "s": "Notre mission ___ à former les nouveaux employés à l'époque.",
+        "a": "consistait",
+        "en": "Our mission used to consist in training new employees at the time.",
+        "alts": [],
+        "form": "Imparfait"
+      },
+      {
+        "slot": "t|Imparfait|3",
+        "f": "tense",
+        "s": "Vous ___ à évaluer les candidats lors des entretiens d'embauche.",
+        "a": "consistiez",
+        "en": "You used to consist in evaluating candidates during job interviews.",
+        "alts": [],
+        "form": "Imparfait"
+      },
+      {
+        "slot": "t|Imparfait|3",
+        "f": "tense",
+        "s": "Votre tâche ___ à vérifier la qualité des produits avant expédition.",
+        "a": "consistait",
+        "en": "Your task used to consist in checking product quality before shipment.",
+        "alts": [],
+        "form": "Imparfait"
+      },
+      {
+        "slot": "t|Imparfait|4",
+        "f": "tense",
+        "s": "Les cours ___ à alterner théorie et exercices pratiques.",
+        "a": "consistaient",
+        "en": "The lessons used to consist in alternating theory and practical exercises.",
+        "alts": [],
+        "form": "Imparfait"
+      },
+      {
+        "slot": "t|Imparfait|4",
+        "f": "tense",
+        "s": "Les épreuves ___ à rédiger une dissertation en trois heures.",
+        "a": "consistaient",
+        "en": "The tests used to consist in writing an essay in three hours.",
+        "alts": [],
+        "form": "Imparfait"
+      },
+      {
+        "slot": "t|Futur|0",
+        "f": "tense",
+        "s": "Je ___ à rédiger le rapport final d'ici vendredi.",
+        "a": "consisterai",
+        "en": "I will consist in writing the final report by Friday.",
+        "alts": [],
+        "form": "Futur"
+      },
+      {
+        "slot": "t|Futur|0",
+        "f": "tense",
+        "s": "Ma prochaine mission ___ à coordonner les équipes à l'étranger.",
+        "a": "consistera",
+        "en": "My next mission will consist in coordinating teams abroad.",
+        "alts": [],
+        "form": "Futur"
+      },
+      {
+        "slot": "t|Futur|1",
+        "f": "tense",
+        "s": "Tu ___ à gérer les relations avec les clients pendant mon absence.",
+        "a": "consisteras",
+        "en": "You will consist in managing client relations during my absence.",
+        "alts": [],
+        "form": "Futur"
+      },
+      {
+        "slot": "t|Futur|1",
+        "f": "tense",
+        "s": "Ton rôle ___ à présenter le projet devant le jury demain.",
+        "a": "consistera",
+        "en": "Your role will consist in presenting the project before the jury tomorrow.",
+        "alts": [],
+        "form": "Futur"
+      },
+      {
+        "slot": "t|Futur|2",
+        "f": "tense",
+        "s": "Le test ___ à résoudre dix problèmes mathématiques en une heure.",
+        "a": "consistera",
+        "en": "The test will consist in solving ten mathematical problems in one hour.",
+        "alts": [],
+        "form": "Futur"
+      },
+      {
+        "slot": "t|Futur|2",
+        "f": "tense",
+        "s": "Son défi ___ à convaincre les investisseurs lors de la présentation.",
+        "a": "consistera",
+        "en": "His/her challenge will consist in convincing investors during the presentation.",
+        "alts": [],
+        "form": "Futur"
+      },
+      {
+        "slot": "t|Futur|3",
+        "f": "tense",
+        "s": "Nous ___ à analyser les données collectées lors de l'enquête.",
+        "a": "consisterons",
+        "en": "We will consist in analysing the data collected during the survey.",
+        "alts": [],
+        "form": "Futur"
+      },
+      {
+        "slot": "t|Futur|3",
+        "f": "tense",
+        "s": "Notre travail ___ à préparer les supports de formation pour les stagiaires.",
+        "a": "consistera",
+        "en": "Our work will consist in preparing training materials for the interns.",
+        "alts": [],
+        "form": "Futur"
+      },
+      {
+        "slot": "t|Futur|4",
+        "f": "tense",
+        "s": "Vous ___ à superviser l'installation du nouveau logiciel la semaine prochaine.",
+        "a": "consisterez",
+        "en": "You will consist in supervising the installation of the new software next week.",
+        "alts": [],
+        "form": "Futur"
+      },
+      {
+        "slot": "t|Futur|4",
+        "f": "tense",
+        "s": "Votre mission ___ à évaluer les performances de chaque département.",
+        "a": "consistera",
+        "en": "Your mission will consist in evaluating the performance of each department.",
+        "alts": [],
+        "form": "Futur"
+      },
+      {
+        "slot": "t|Futur|5",
+        "f": "tense",
+        "s": "Les travaux ___ à remplacer toutes les fenêtres de l'immeuble.",
+        "a": "consisteront",
+        "en": "The works will consist in replacing all the windows of the building.",
+        "alts": [],
+        "form": "Futur"
+      },
+      {
+        "slot": "t|Futur|5",
+        "f": "tense",
+        "s": "Ces ateliers ___ à initier les élèves à la programmation informatique.",
+        "a": "consisteront",
+        "en": "These workshops will consist in introducing students to computer programming.",
+        "alts": [],
+        "form": "Futur"
+      },
+      {
+        "slot": "t|Conditionnel|0",
+        "f": "tense",
+        "s": "Si j'acceptais ce poste, mon rôle ___ à diriger l'équipe de recherche.",
+        "a": "consisterait",
+        "en": "If I accepted this position, my role would consist in leading the research team.",
+        "alts": [],
+        "form": "Conditionnel"
+      },
+      {
+        "slot": "t|Conditionnel|0",
+        "f": "tense",
+        "s": "Si tu rejoignais l'association, ta mission ___ à organiser les événements.",
+        "a": "consisterait",
+        "en": "If you joined the association, your mission would consist in organising events.",
+        "alts": [],
+        "form": "Conditionnel"
+      },
+      {
+        "slot": "t|Conditionnel|1",
+        "f": "tense",
+        "s": "Si on réorganisait l'entreprise, son rôle ___ à coordonner tous les services.",
+        "a": "consisterait",
+        "en": "If the company were reorganised, his/her role would consist in coordinating all departments.",
+        "alts": [],
+        "form": "Conditionnel"
+      },
+      {
+        "slot": "t|Conditionnel|1",
+        "f": "tense",
+        "s": "La solution idéale ___ à diviser le travail en plusieurs phases.",
+        "a": "consisterait",
+        "en": "The ideal solution would consist in dividing the work into several phases.",
+        "alts": [],
+        "form": "Conditionnel"
+      },
+      {
+        "slot": "t|Conditionnel|2",
+        "f": "tense",
+        "s": "Si nous participions au programme, nous ___ à animer des ateliers.",
+        "a": "consisterions",
+        "en": "If we participated in the programme, we would consist in running workshops.",
+        "alts": [],
+        "form": "Conditionnel"
+      },
+      {
+        "slot": "t|Conditionnel|2",
+        "f": "tense",
+        "s": "Notre approche ___ à impliquer davantage les citoyens dans les décisions.",
+        "a": "consisterait",
+        "en": "Our approach would consist in involving citizens more in decisions.",
+        "alts": [],
+        "form": "Conditionnel"
+      },
+      {
+        "slot": "t|Conditionnel|3",
+        "f": "tense",
+        "s": "Si vous acceptiez le défi, vous ___ à traverser le pays à vélo.",
+        "a": "consisteriez",
+        "en": "If you accepted the challenge, you would consist in crossing the country by bicycle.",
+        "alts": [],
+        "form": "Conditionnel"
+      },
+      {
+        "slot": "t|Conditionnel|3",
+        "f": "tense",
+        "s": "Votre travail ___ à analyser les résultats si vous intégriez ce laboratoire.",
+        "a": "consisterait",
+        "en": "Your work would consist in analysing results if you joined this laboratory.",
+        "alts": [],
+        "form": "Conditionnel"
+      },
+      {
+        "slot": "t|Conditionnel|4",
+        "f": "tense",
+        "s": "Si les élèves choisissaient cette option, leurs devoirs ___ à faire des recherches.",
+        "a": "consisteraient",
+        "en": "If the students chose this option, their assignments would consist in doing research.",
+        "alts": [],
+        "form": "Conditionnel"
+      },
+      {
+        "slot": "t|Conditionnel|4",
+        "f": "tense",
+        "s": "Ces mesures ___ à réduire les dépenses si elles étaient appliquées.",
+        "a": "consisteraient",
+        "en": "These measures would consist in reducing expenses if they were applied.",
+        "alts": [],
+        "form": "Conditionnel"
+      },
+      {
+        "slot": "t|Subjonctif",
+        "f": "subj",
+        "s": "Il faut que tu ___ à bien comprendre les règles avant de jouer.",
+        "a": "consistes",
+        "en": "You must consist in properly understanding the rules before playing.",
+        "alts": [],
+        "form": "Subjonctif présent"
+      },
+      {
+        "slot": "t|Subjonctif",
+        "f": "subj",
+        "s": "Je veux que votre approche ___ à écouter activement les besoins des clients.",
+        "a": "consiste",
+        "en": "I want your approach to consist in actively listening to clients' needs.",
+        "alts": [],
+        "form": "Subjonctif présent"
+      },
+      {
+        "slot": "s|0",
+        "f": "sense",
+        "s": "La vraie sagesse ___ à savoir reconnaître ses propres limites.",
+        "a": "consiste",
+        "en": "True wisdom consists in knowing how to recognise one's own limits.",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "s|0",
+        "f": "sense",
+        "s": "Pour lui, le bonheur ___ à passer du temps en famille.",
+        "a": "consiste",
+        "en": "For him, happiness consists in spending time with family.",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "s|1",
+        "f": "sense",
+        "s": "Cette équipe ___ en experts de domaines très variés.",
+        "a": "consiste",
+        "en": "This team consists of experts from very varied fields.",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "s|1",
+        "f": "sense",
+        "s": "Le repas ___ en une entrée, un plat principal et un dessert.",
+        "a": "consiste",
+        "en": "The meal consists of a starter, a main course and a dessert.",
+        "alts": [],
+        "form": ""
+      }
+    ]
+  }
+]

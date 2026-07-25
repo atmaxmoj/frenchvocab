@@ -1,0 +1,761 @@
+[
+  {
+    "id": 3090,
+    "qs": [
+      {
+        "slot": "s|0",
+        "f": "sense",
+        "s": "Son discours sur les victimes de la guerre était vraiment ___ .",
+        "a": "touchant",
+        "en": "His speech about the war victims was truly touching.",
+        "alts": ["émouvant"]
+      },
+      {
+        "slot": "s|0",
+        "f": "sense",
+        "s": "Le geste de cet enfant envers le vieillard était si ___ que tout le monde avait les larmes aux yeux.",
+        "a": "touchant",
+        "en": "The child's gesture toward the old man was so touching that everyone had tears in their eyes.",
+        "alts": ["émouvant"]
+      },
+      {
+        "slot": "s|1",
+        "f": "sense",
+        "s": "Ce roman raconte une histoire d'amour ___ entre deux jeunes gens séparés par la guerre.",
+        "a": "touchante",
+        "en": "This novel tells a moving love story between two young people separated by the war.",
+        "alts": ["émouvante"]
+      },
+      {
+        "slot": "s|1",
+        "f": "sense",
+        "s": "Il a interprété ce morceau de musique d'une façon très ___ .",
+        "a": "touchante",
+        "en": "He performed this piece of music in a very moving way.",
+        "alts": ["émouvante"]
+      },
+      {
+        "slot": "s|2",
+        "f": "sense",
+        "s": "___ ce sujet, le ministre a refusé de s'exprimer.",
+        "a": "Touchant",
+        "en": "With regard to this matter, the minister refused to comment.",
+        "alts": ["Concernant"]
+      },
+      {
+        "slot": "s|2",
+        "f": "sense",
+        "s": "Il n'a rien dit ___ les nouvelles mesures annoncées hier.",
+        "a": "touchant",
+        "en": "He said nothing concerning the new measures announced yesterday.",
+        "alts": ["concernant"]
+      },
+      {
+        "slot": "g|mp",
+        "f": "agree",
+        "s": "Ces récits de survivants sont profondément ___ .",
+        "a": "touchants",
+        "en": "These survivors' accounts are deeply touching.",
+        "alts": []
+      },
+      {
+        "slot": "g|mp",
+        "f": "agree",
+        "s": "Les adieux entre les deux amis étaient ___ et sincères.",
+        "a": "touchants",
+        "en": "The farewells between the two friends were touching and sincere.",
+        "alts": []
+      },
+      {
+        "slot": "g|f",
+        "f": "agree",
+        "s": "Sa générosité envers les plus démunis est vraiment ___ .",
+        "a": "touchante",
+        "en": "His generosity toward the most disadvantaged is truly touching.",
+        "alts": []
+      },
+      {
+        "slot": "g|f",
+        "f": "agree",
+        "s": "La lettre qu'il a envoyée à sa mère était très ___ .",
+        "a": "touchante",
+        "en": "The letter he sent to his mother was very touching.",
+        "alts": []
+      },
+      {
+        "slot": "g|fp",
+        "f": "agree",
+        "s": "Ces paroles de réconciliation entre les deux familles étaient ___ .",
+        "a": "touchantes",
+        "en": "These words of reconciliation between the two families were touching.",
+        "alts": []
+      },
+      {
+        "slot": "g|fp",
+        "f": "agree",
+        "s": "Les scènes finales du film sont particulièrement ___ .",
+        "a": "touchantes",
+        "en": "The final scenes of the film are particularly touching.",
+        "alts": []
+      }
+    ]
+  },
+  {
+    "id": 3091,
+    "qs": [
+      {
+        "slot": "s|0",
+        "f": "sense",
+        "s": "Les deux pays sont restés ___ l'un envers l'autre pendant des décennies.",
+        "a": "hostiles",
+        "en": "The two countries remained hostile to each other for decades.",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "s|0",
+        "f": "sense",
+        "s": "Ce gouvernement est ___ à tout accord de coopération internationale.",
+        "a": "hostile",
+        "en": "This government is hostile to any international cooperation agreement.",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "s|1",
+        "f": "sense",
+        "s": "Il m'a regardé d'un air ___ sans dire un mot.",
+        "a": "hostile",
+        "en": "He looked at me with a hostile expression without saying a word.",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "s|1",
+        "f": "sense",
+        "s": "L'accueil de la foule était ___ : des sifflets et des cris de protestation.",
+        "a": "hostile",
+        "en": "The crowd's reception was hostile: whistles and shouts of protest.",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "g|mp",
+        "f": "agree",
+        "s": "Les voisins se montrent ___ depuis le début du conflit.",
+        "a": "hostiles",
+        "en": "The neighbors have been hostile since the start of the conflict.",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "g|mp",
+        "f": "agree",
+        "s": "Ces deux groupes ont été ___ l'un envers l'autre dès le premier jour.",
+        "a": "hostiles",
+        "en": "These two groups were hostile toward each other from the very first day.",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "g|f",
+        "f": "agree",
+        "s": "La réaction de la directrice a été ___ à notre proposition.",
+        "a": "hostile",
+        "en": "The director's reaction was hostile to our proposal.",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "g|f",
+        "f": "agree",
+        "s": "La presse locale s'est montrée ___ envers le nouveau projet.",
+        "a": "hostile",
+        "en": "The local press was hostile toward the new project.",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "g|fp",
+        "f": "agree",
+        "s": "Les deux nations ont adopté des positions ___ lors des négociations.",
+        "a": "hostiles",
+        "en": "The two nations adopted hostile positions during the negotiations.",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "g|fp",
+        "f": "agree",
+        "s": "Ces remarques ___ ont blessé toute l'équipe.",
+        "a": "hostiles",
+        "en": "These hostile remarks hurt the entire team.",
+        "alts": [],
+        "form": ""
+      }
+    ]
+  },
+  {
+    "id": 3092,
+    "qs": [
+      {
+        "slot": "t|Présent|0",
+        "f": "tense",
+        "s": "Je ___ ce document avant la réunion.",
+        "a": "imprime",
+        "en": "I am printing this document before the meeting.",
+        "alts": [],
+        "form": "Présent"
+      },
+      {
+        "slot": "t|Présent|0",
+        "f": "tense",
+        "s": "La machine ___ dix pages par minute.",
+        "a": "imprime",
+        "en": "The machine prints ten pages per minute.",
+        "alts": [],
+        "form": "Présent"
+      },
+      {
+        "slot": "t|Présent|1",
+        "f": "tense",
+        "s": "Tu ___ le billet d'avion maintenant ?",
+        "a": "imprimes",
+        "en": "Are you printing the plane ticket now?",
+        "alts": [],
+        "form": "Présent"
+      },
+      {
+        "slot": "t|Présent|1",
+        "f": "tense",
+        "s": "Pourquoi tu ___ autant de pages inutiles ?",
+        "a": "imprimes",
+        "en": "Why are you printing so many useless pages?",
+        "alts": [],
+        "form": "Présent"
+      },
+      {
+        "slot": "t|Présent|2",
+        "f": "tense",
+        "s": "Nous ___ les affiches pour le spectacle.",
+        "a": "imprimons",
+        "en": "We are printing the posters for the show.",
+        "alts": [],
+        "form": "Présent"
+      },
+      {
+        "slot": "t|Présent|2",
+        "f": "tense",
+        "s": "En ce moment, nous ___ le rapport annuel.",
+        "a": "imprimons",
+        "en": "Right now, we are printing the annual report.",
+        "alts": [],
+        "form": "Présent"
+      },
+      {
+        "slot": "t|Présent|3",
+        "f": "tense",
+        "s": "Vous ___ les contrats en double exemplaire.",
+        "a": "imprimez",
+        "en": "You are printing the contracts in duplicate.",
+        "alts": [],
+        "form": "Présent"
+      },
+      {
+        "slot": "t|Présent|3",
+        "f": "tense",
+        "s": "Est-ce que vous ___ aussi les annexes ?",
+        "a": "imprimez",
+        "en": "Are you also printing the annexes?",
+        "alts": [],
+        "form": "Présent"
+      },
+      {
+        "slot": "t|Présent|4",
+        "f": "tense",
+        "s": "Ces élèves ___ leurs devoirs à la bibliothèque.",
+        "a": "impriment",
+        "en": "These students print their homework at the library.",
+        "alts": [],
+        "form": "Présent"
+      },
+      {
+        "slot": "t|Présent|4",
+        "f": "tense",
+        "s": "Les ouvriers ___ les étiquettes à la chaîne.",
+        "a": "impriment",
+        "en": "The workers print the labels on the assembly line.",
+        "alts": [],
+        "form": "Présent"
+      },
+      {
+        "slot": "t|Passé composé|0",
+        "f": "tense",
+        "s": "J'___ le formulaire ce matin.",
+        "a": "ai imprimé",
+        "en": "I printed the form this morning.",
+        "alts": [],
+        "form": "Passé composé"
+      },
+      {
+        "slot": "t|Passé composé|0",
+        "f": "tense",
+        "s": "Hier soir, j'___ les photos de voyage.",
+        "a": "ai imprimé",
+        "en": "Yesterday evening, I printed the travel photos.",
+        "alts": [],
+        "form": "Passé composé"
+      },
+      {
+        "slot": "t|Passé composé|1",
+        "f": "tense",
+        "s": "Tu ___ le ticket de caisse en double ?",
+        "a": "as imprimé",
+        "en": "Did you print the receipt twice?",
+        "alts": [],
+        "form": "Passé composé"
+      },
+      {
+        "slot": "t|Passé composé|1",
+        "f": "tense",
+        "s": "Est-ce que tu ___ les instructions avant de partir ?",
+        "a": "as imprimé",
+        "en": "Did you print the instructions before leaving?",
+        "alts": [],
+        "form": "Passé composé"
+      },
+      {
+        "slot": "t|Passé composé|2",
+        "f": "tense",
+        "s": "Le technicien ___ le rapport en couleur.",
+        "a": "a imprimé",
+        "en": "The technician printed the report in color.",
+        "alts": [],
+        "form": "Passé composé"
+      },
+      {
+        "slot": "t|Passé composé|2",
+        "f": "tense",
+        "s": "Elle ___ son CV juste avant l'entretien.",
+        "a": "a imprimé",
+        "en": "She printed her CV just before the interview.",
+        "alts": [],
+        "form": "Passé composé"
+      },
+      {
+        "slot": "t|Passé composé|3",
+        "f": "tense",
+        "s": "Nous ___ les invitations hier après-midi.",
+        "a": "avons imprimé",
+        "en": "We printed the invitations yesterday afternoon.",
+        "alts": [],
+        "form": "Passé composé"
+      },
+      {
+        "slot": "t|Passé composé|3",
+        "f": "tense",
+        "s": "Nous ___ cent exemplaires du programme.",
+        "a": "avons imprimé",
+        "en": "We printed one hundred copies of the programme.",
+        "alts": [],
+        "form": "Passé composé"
+      },
+      {
+        "slot": "t|Passé composé|4",
+        "f": "tense",
+        "s": "Vous ___ les cartes de visite la semaine dernière.",
+        "a": "avez imprimé",
+        "en": "You printed the business cards last week.",
+        "alts": [],
+        "form": "Passé composé"
+      },
+      {
+        "slot": "t|Passé composé|4",
+        "f": "tense",
+        "s": "Avez-vous ___ les nouveaux tarifs ?",
+        "a": "imprimé",
+        "en": "Have you printed the new rates?",
+        "alts": [],
+        "form": "Passé composé"
+      },
+      {
+        "slot": "t|Passé composé|5",
+        "f": "tense",
+        "s": "Les étudiants ___ leurs exposés avant le cours.",
+        "a": "ont imprimé",
+        "en": "The students printed their presentations before class.",
+        "alts": [],
+        "form": "Passé composé"
+      },
+      {
+        "slot": "t|Passé composé|5",
+        "f": "tense",
+        "s": "Ils ___ les billets de concert en avance.",
+        "a": "ont imprimé",
+        "en": "They printed the concert tickets in advance.",
+        "alts": [],
+        "form": "Passé composé"
+      },
+      {
+        "slot": "t|Imparfait|0",
+        "f": "tense",
+        "s": "Quand j'étais stagiaire, j'___ tous les documents moi-même.",
+        "a": "imprimais",
+        "en": "When I was an intern, I used to print all the documents myself.",
+        "alts": [],
+        "form": "Imparfait"
+      },
+      {
+        "slot": "t|Imparfait|0",
+        "f": "tense",
+        "s": "Avant, tu ___ les photos en noir et blanc.",
+        "a": "imprimais",
+        "en": "Before, you used to print the photos in black and white.",
+        "alts": [],
+        "form": "Imparfait"
+      },
+      {
+        "slot": "t|Imparfait|1",
+        "f": "tense",
+        "s": "Le vieux bureau ___ les flyers chaque semaine.",
+        "a": "imprimait",
+        "en": "The old office used to print the flyers every week.",
+        "alts": [],
+        "form": "Imparfait"
+      },
+      {
+        "slot": "t|Imparfait|1",
+        "f": "tense",
+        "s": "Elle ___ les recettes et les collait dans un cahier.",
+        "a": "imprimait",
+        "en": "She used to print the recipes and stick them in a notebook.",
+        "alts": [],
+        "form": "Imparfait"
+      },
+      {
+        "slot": "t|Imparfait|2",
+        "f": "tense",
+        "s": "Nous ___ les supports de cours avant chaque session.",
+        "a": "imprimions",
+        "en": "We used to print the course materials before each session.",
+        "alts": [],
+        "form": "Imparfait"
+      },
+      {
+        "slot": "t|Imparfait|2",
+        "f": "tense",
+        "s": "À l'époque, nous ___ tout en grande quantité.",
+        "a": "imprimions",
+        "en": "At the time, we used to print everything in large quantities.",
+        "alts": [],
+        "form": "Imparfait"
+      },
+      {
+        "slot": "t|Imparfait|3",
+        "f": "tense",
+        "s": "Vous ___ les rapports chaque vendredi matin.",
+        "a": "imprimiez",
+        "en": "You used to print the reports every Friday morning.",
+        "alts": [],
+        "form": "Imparfait"
+      },
+      {
+        "slot": "t|Imparfait|3",
+        "f": "tense",
+        "s": "Est-ce que vous ___ les bons de commande à l'époque ?",
+        "a": "imprimiez",
+        "en": "Did you used to print the purchase orders back then?",
+        "alts": [],
+        "form": "Imparfait"
+      },
+      {
+        "slot": "t|Imparfait|4",
+        "f": "tense",
+        "s": "Les journaux ___ des milliers d'exemplaires par jour.",
+        "a": "imprimaient",
+        "en": "The newspapers used to print thousands of copies per day.",
+        "alts": [],
+        "form": "Imparfait"
+      },
+      {
+        "slot": "t|Imparfait|4",
+        "f": "tense",
+        "s": "Ils ___ les bulletins de vote manuellement autrefois.",
+        "a": "imprimaient",
+        "en": "They used to print the ballots manually in the old days.",
+        "alts": [],
+        "form": "Imparfait"
+      },
+      {
+        "slot": "t|Futur|0",
+        "f": "tense",
+        "s": "J'___ les photos dès que j'aurai la commande.",
+        "a": "imprimerai",
+        "en": "I will print the photos as soon as I have the order.",
+        "alts": [],
+        "form": "Futur"
+      },
+      {
+        "slot": "t|Futur|0",
+        "f": "tense",
+        "s": "Demain matin, j'___ les contrats pour la réunion.",
+        "a": "imprimerai",
+        "en": "Tomorrow morning, I will print the contracts for the meeting.",
+        "alts": [],
+        "form": "Futur"
+      },
+      {
+        "slot": "t|Futur|1",
+        "f": "tense",
+        "s": "Tu ___ le plan quand tu arriveras au bureau.",
+        "a": "imprimeras",
+        "en": "You will print the plan when you arrive at the office.",
+        "alts": [],
+        "form": "Futur"
+      },
+      {
+        "slot": "t|Futur|1",
+        "f": "tense",
+        "s": "Est-ce que tu ___ les billets avant de partir ?",
+        "a": "imprimeras",
+        "en": "Will you print the tickets before leaving?",
+        "alts": [],
+        "form": "Futur"
+      },
+      {
+        "slot": "t|Futur|2",
+        "f": "tense",
+        "s": "La secrétaire ___ les documents à l'heure.",
+        "a": "imprimera",
+        "en": "The secretary will print the documents on time.",
+        "alts": [],
+        "form": "Futur"
+      },
+      {
+        "slot": "t|Futur|2",
+        "f": "tense",
+        "s": "L'imprimante ___ la page de garde en couleur.",
+        "a": "imprimera",
+        "en": "The printer will print the cover page in color.",
+        "alts": [],
+        "form": "Futur"
+      },
+      {
+        "slot": "t|Futur|3",
+        "f": "tense",
+        "s": "Nous ___ les affiches la veille du festival.",
+        "a": "imprimerons",
+        "en": "We will print the posters the day before the festival.",
+        "alts": [],
+        "form": "Futur"
+      },
+      {
+        "slot": "t|Futur|3",
+        "f": "tense",
+        "s": "Nous ___ cinq cents copies du catalogue.",
+        "a": "imprimerons",
+        "en": "We will print five hundred copies of the catalogue.",
+        "alts": [],
+        "form": "Futur"
+      },
+      {
+        "slot": "t|Futur|4",
+        "f": "tense",
+        "s": "Vous ___ les badges avant l'ouverture de l'événement.",
+        "a": "imprimerez",
+        "en": "You will print the badges before the event opens.",
+        "alts": [],
+        "form": "Futur"
+      },
+      {
+        "slot": "t|Futur|4",
+        "f": "tense",
+        "s": "Vous ___ les résultats dès que le directeur validera.",
+        "a": "imprimerez",
+        "en": "You will print the results as soon as the director approves.",
+        "alts": [],
+        "form": "Futur"
+      },
+      {
+        "slot": "t|Futur|5",
+        "f": "tense",
+        "s": "Les techniciens ___ les manuels d'utilisation demain.",
+        "a": "imprimeront",
+        "en": "The technicians will print the user manuals tomorrow.",
+        "alts": [],
+        "form": "Futur"
+      },
+      {
+        "slot": "t|Futur|5",
+        "f": "tense",
+        "s": "Elles ___ les diplômes à la fin de l'année.",
+        "a": "imprimeront",
+        "en": "They will print the diplomas at the end of the year.",
+        "alts": [],
+        "form": "Futur"
+      },
+      {
+        "slot": "t|Conditionnel|0",
+        "f": "tense",
+        "s": "Si j'avais une imprimante, j'___ le document chez moi.",
+        "a": "imprimerais",
+        "en": "If I had a printer, I would print the document at home.",
+        "alts": [],
+        "form": "Conditionnel"
+      },
+      {
+        "slot": "t|Conditionnel|0",
+        "f": "tense",
+        "s": "Si tu avais le fichier, tu ___ les étiquettes toi-même.",
+        "a": "imprimerais",
+        "en": "If you had the file, you would print the labels yourself.",
+        "alts": [],
+        "form": "Conditionnel"
+      },
+      {
+        "slot": "t|Conditionnel|1",
+        "f": "tense",
+        "s": "Si le bureau avait du papier, il ___ les formulaires.",
+        "a": "imprimerait",
+        "en": "If the office had paper, it would print the forms.",
+        "alts": [],
+        "form": "Conditionnel"
+      },
+      {
+        "slot": "t|Conditionnel|1",
+        "f": "tense",
+        "s": "La machine ___ plus vite si elle était neuve.",
+        "a": "imprimerait",
+        "en": "The machine would print faster if it were new.",
+        "alts": [],
+        "form": "Conditionnel"
+      },
+      {
+        "slot": "t|Conditionnel|2",
+        "f": "tense",
+        "s": "Si nous avions le budget, nous ___ en couleur.",
+        "a": "imprimerions",
+        "en": "If we had the budget, we would print in color.",
+        "alts": [],
+        "form": "Conditionnel"
+      },
+      {
+        "slot": "t|Conditionnel|2",
+        "f": "tense",
+        "s": "Nous ___ davantage si l'imprimante ne tombait pas en panne.",
+        "a": "imprimerions",
+        "en": "We would print more if the printer did not break down.",
+        "alts": [],
+        "form": "Conditionnel"
+      },
+      {
+        "slot": "t|Conditionnel|3",
+        "f": "tense",
+        "s": "Vous ___ les photos en grand format si vous aviez le logiciel.",
+        "a": "imprimeriez",
+        "en": "You would print the photos in large format if you had the software.",
+        "alts": [],
+        "form": "Conditionnel"
+      },
+      {
+        "slot": "t|Conditionnel|3",
+        "f": "tense",
+        "s": "Si vous aviez le temps, vous ___ les manuels vous-mêmes.",
+        "a": "imprimeriez",
+        "en": "If you had the time, you would print the manuals yourselves.",
+        "alts": [],
+        "form": "Conditionnel"
+      },
+      {
+        "slot": "t|Conditionnel|4",
+        "f": "tense",
+        "s": "Ils ___ les affiches si la machine fonctionnait.",
+        "a": "imprimeraient",
+        "en": "They would print the posters if the machine worked.",
+        "alts": [],
+        "form": "Conditionnel"
+      },
+      {
+        "slot": "t|Conditionnel|4",
+        "f": "tense",
+        "s": "Les étudiants ___ leurs notes si l'imprimante était disponible.",
+        "a": "imprimeraient",
+        "en": "The students would print their notes if the printer were available.",
+        "alts": [],
+        "form": "Conditionnel"
+      },
+      {
+        "slot": "t|Subjonctif",
+        "f": "subj",
+        "s": "Il faut que tu ___ ce document avant midi.",
+        "a": "imprimes",
+        "en": "You need to print this document before noon.",
+        "alts": [],
+        "form": "Subjonctif présent"
+      },
+      {
+        "slot": "t|Subjonctif",
+        "f": "subj",
+        "s": "Je veux qu'elle ___ les billets ce soir.",
+        "a": "imprime",
+        "en": "I want her to print the tickets this evening.",
+        "alts": [],
+        "form": "Subjonctif présent"
+      },
+      {
+        "slot": "s|0",
+        "f": "sense",
+        "s": "Je dois ___ ce rapport pour la réunion de demain.",
+        "a": "imprimer",
+        "en": "I need to print this report for tomorrow's meeting.",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "s|0",
+        "f": "sense",
+        "s": "Elle a oublié d'___ les billets d'avion.",
+        "a": "imprimer",
+        "en": "She forgot to print the plane tickets.",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "s|1",
+        "f": "sense",
+        "s": "Cette maison d'édition ___ des milliers de livres chaque année.",
+        "a": "imprime",
+        "en": "This publishing house prints thousands of books every year.",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "s|1",
+        "f": "sense",
+        "s": "La presse ___ les journaux dès minuit.",
+        "a": "imprime",
+        "en": "The press prints the newspapers from midnight.",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "s|2",
+        "f": "sense",
+        "s": "Ses pas ont ___ des traces dans la neige fraîche.",
+        "a": "imprimé",
+        "en": "His footsteps left prints in the fresh snow.",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "s|2",
+        "f": "sense",
+        "s": "Le sceau du roi ___ sa marque dans la cire.",
+        "a": "imprime",
+        "en": "The king's seal leaves its mark in the wax.",
+        "alts": [],
+        "form": ""
+      }
+    ]
+  }
+]

@@ -1,0 +1,45 @@
+[
+  {
+    "id": 2237,
+    "qs": [
+      {"slot":"s|0","f":"sense","s":"Il a refusé ___ à dîner, car il avait déjà un autre engagement ce soir-là.","a":"l'invitation","en":"He declined the invitation to dinner, as he already had another commitment that evening.","alts":[],"form":""},
+      {"slot":"s|0","f":"sense","s":"Son ___ à participer au projet m'a beaucoup touché.","a":"invitation","en":"His invitation to participate in the project touched me deeply.","alts":[],"form":""},
+      {"slot":"s|1","f":"sense","s":"J'ai reçu une ___ en papier doré pour le mariage de ma cousine.","a":"invitation","en":"I received a gold-paper invitation card for my cousin's wedding.","alts":[],"form":""},
+      {"slot":"s|1","f":"sense","s":"Elle a soigneusement rangé ___ dans son sac pour ne pas l'oublier.","a":"l'invitation","en":"She carefully put the invitation card in her bag so as not to forget it.","alts":[],"form":""},
+      {"slot":"gender","f":"gender","s":"___ invitation qu'il a envoyée était très élégante.","a":"L'","en":"The invitation he sent was very elegant.","alts":[],"form":""},
+      {"slot":"gender","f":"gender","s":"C'est ___ invitation officielle de l'ambassade.","a":"une","en":"It is an official invitation from the embassy.","alts":[],"form":""}
+    ]
+  },
+  {
+    "id": 2238,
+    "qs": [
+      {"slot":"s|0","f":"sense","s":"Le palais ___ est la résidence officielle du chef de l'État.","a":"présidentiel","en":"The presidential palace is the official residence of the head of state.","alts":[]},
+      {"slot":"s|0","f":"sense","s":"Le bureau ___ est situé au premier étage du palais de l'Élysée.","a":"présidentiel","en":"The presidential office is located on the first floor of the Élysée Palace.","alts":[]},
+      {"slot":"s|1","f":"sense","s":"Le régime ___ confère des pouvoirs étendus au chef de l'État.","a":"présidentiel","en":"The presidential system grants extensive powers to the head of state.","alts":[]},
+      {"slot":"s|1","f":"sense","s":"Le mandat ___ dure cinq ans en France.","a":"présidentiel","en":"The presidential term lasts five years in France.","alts":[]},
+      {"slot":"g|mp","f":"agree","s":"Les pouvoirs ___ sont définis par la Constitution.","a":"présidentiels","en":"Presidential powers are defined by the Constitution.","alts":[]},
+      {"slot":"g|mp","f":"agree","s":"Les discours ___ du chef de l'État sont retransmis en direct.","a":"présidentiels","en":"The presidential speeches of the head of state are broadcast live.","alts":[]},
+      {"slot":"g|f","f":"agree","s":"La course ___ opposera plusieurs candidats au second tour.","a":"présidentielle","en":"The presidential race will pit several candidates in the second round.","alts":[]},
+      {"slot":"g|f","f":"agree","s":"La villa ___ a été rénovée avant la cérémonie officielle.","a":"présidentielle","en":"The presidential villa was renovated before the official ceremony.","alts":[]},
+      {"slot":"g|fp","f":"agree","s":"Les élections ___ ont lieu tous les cinq ans en France.","a":"présidentielles","en":"Presidential elections take place every five years in France.","alts":[]},
+      {"slot":"g|fp","f":"agree","s":"Les fonctions ___ exigent une grande disponibilité et un sens aigu des responsabilités.","a":"présidentielles","en":"Presidential duties require great availability and a keen sense of responsibility.","alts":[]}
+    ]
+  },
+  {
+    "id": 2239,
+    "qs": [
+      {"slot":"s|0","f":"sense","s":"Chaque ___ doit s'inscrire avant le début de l'épreuve.","a":"concurrent","en":"Each competitor must register before the start of the event.","alts":[],"form":""},
+      {"slot":"s|0","f":"sense","s":"Le ___ arrivé en deuxième position a tout de même reçu une médaille.","a":"concurrent","en":"The competitor who finished in second place still received a medal.","alts":[],"form":""},
+      {"slot":"s|1","f":"sense","s":"Notre principal ___ vient de lancer un nouveau produit sur le marché.","a":"concurrent","en":"Our main rival has just launched a new product on the market.","alts":[],"form":""},
+      {"slot":"s|1","f":"sense","s":"Il surveille de près chaque mouvement de son ___.","a":"concurrent","en":"He closely watches every move of his rival.","alts":[],"form":""},
+      {"slot":"s|2","f":"sense","s":"Les deux entreprises ont développé des technologies ___ dans le même secteur.","a":"concurrentes","en":"The two companies developed competing technologies in the same sector.","alts":[],"form":""},
+      {"slot":"s|2","f":"sense","s":"Ces offres ___ rendent le choix difficile pour les consommateurs.","a":"concurrentes","en":"These competing offers make the choice difficult for consumers.","alts":[],"form":""},
+      {"slot":"g|mp","f":"agree","s":"Les ___ les plus sérieux ont terminé la course en moins de deux heures.","a":"concurrents","en":"The most serious competitors finished the race in less than two hours.","alts":[],"form":""},
+      {"slot":"g|mp","f":"agree","s":"Nos produits sont meilleurs que ceux de nos ___ directs.","a":"concurrents","en":"Our products are better than those of our direct rivals.","alts":[],"form":""},
+      {"slot":"g|f","f":"agree","s":"Cette société est notre principale ___ sur le marché européen.","a":"concurrente","en":"This company is our main rival on the European market.","alts":[],"form":""},
+      {"slot":"g|f","f":"agree","s":"La seule ___ capable de nous dépasser vient d'annoncer sa faillite.","a":"concurrente","en":"The only rival capable of overtaking us has just announced its bankruptcy.","alts":[],"form":""},
+      {"slot":"g|fp","f":"agree","s":"Toutes les entreprises ___ ont baissé leurs prix cette année.","a":"concurrentes","en":"All the competing companies lowered their prices this year.","alts":[],"form":""},
+      {"slot":"g|fp","f":"agree","s":"Les candidates ___ se sont affrontées lors de la finale régionale.","a":"concurrentes","en":"The rival candidates faced each other in the regional final.","alts":[],"form":""}
+    ]
+  }
+]

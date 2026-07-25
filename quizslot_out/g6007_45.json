@@ -1,0 +1,33 @@
+[
+  {
+    "id": 6330,
+    "qs": [
+      {"slot":"s|0","f":"sense","s":"Le facteur a déposé un ___ devant ma porte ce matin.","en":"The postman left a parcel in front of my door this morning.","a":"colis","alts":[]},
+      {"slot":"s|0","f":"sense","s":"J'ai reçu un ___ de ma grand-mère pour mon anniversaire.","en":"I received a parcel from my grandmother for my birthday.","a":"colis","alts":[]},
+      {"slot":"gender","f":"gender","s":"Peux-tu aller chercher ___ colis à la poste ?","en":"Can you go pick up the parcel from the post office?","a":"le","alts":[]},
+      {"slot":"gender","f":"gender","s":"Elle a envoyé ___ colis à son fils la semaine dernière.","en":"She sent a parcel to her son last week.","a":"un","alts":[]}
+    ]
+  },
+  {
+    "id": 6331,
+    "qs": [
+      {"slot":"s|0","f":"sense","s":"Le corps ___ a besoin de plus de repos.","en":"The aging body needs more rest.","a":"vieillissant","alts":[]},
+      {"slot":"s|0","f":"sense","s":"Mon oncle a un chat ___ qui dort toute la journée.","en":"My uncle has an aging cat that sleeps all day.","a":"vieillissant","alts":[]},
+      {"slot":"g|mp","f":"agree","s":"Les bâtiments ___ de ce quartier nécessitent des rénovations urgentes.","en":"The aging buildings in this neighborhood need urgent renovations.","a":"vieillissants","alts":[]},
+      {"slot":"g|mp","f":"agree","s":"Ces ordinateurs ___ ralentissent tout le bureau.","en":"These aging computers slow down the whole office.","a":"vieillissants","alts":[]},
+      {"slot":"g|f","f":"agree","s":"La population ___ de ce pays inquiète les économistes.","en":"This country's aging population worries economists.","a":"vieillissante","alts":[]},
+      {"slot":"g|f","f":"agree","s":"Elle conduit une voiture ___ pour aller au travail.","en":"She drives an aging car to get to work.","a":"vieillissante","alts":[]},
+      {"slot":"g|fp","f":"agree","s":"Les infrastructures ___ de la ville doivent être remplacées.","en":"The city's aging infrastructures must be replaced.","a":"vieillissantes","alts":[]},
+      {"slot":"g|fp","f":"agree","s":"Nos machines ___ tombent souvent en panne.","en":"Our aging machines often break down.","a":"vieillissantes","alts":[]}
+    ]
+  },
+  {
+    "id": 6332,
+    "qs": [
+      {"slot":"s|0","f":"sense","s":"En été, on entend chanter la ___ dans les arbres.","en":"In summer, you can hear the cicada singing in the trees.","a":"cigale","alts":[]},
+      {"slot":"s|0","f":"sense","s":"La ___ chante sans relâche sous le soleil brûlant du Midi.","en":"The cicada sings relentlessly under the scorching sun of southern France.","a":"cigale","alts":[]},
+      {"slot":"gender","f":"gender","s":"___ cigale chante dans le vieux platane.","en":"The cicada sings in the old plane tree.","a":"La","alts":[]},
+      {"slot":"gender","f":"gender","s":"J'ai trouvé ___ cigale morte sur le rebord de la fenêtre.","en":"I found a dead cicada on the windowsill.","a":"une","alts":[]}
+    ]
+  }
+]

@@ -1,0 +1,671 @@
+[
+  {
+    "id": 1352,
+    "qs": [
+      {
+        "slot": "s|0",
+        "f": "sense",
+        "s": "Au cours des siècles, la langue française a connu une ___ profonde qui a transformé sa grammaire et son vocabulaire.",
+        "a": "évolution",
+        "en": "Over the centuries, the French language underwent a profound transformation that changed its grammar and vocabulary.",
+        "alts": []
+      },
+      {
+        "slot": "s|0",
+        "f": "sense",
+        "s": "Les historiens étudient l'___ des mœurs dans la société européenne depuis le Moyen Âge.",
+        "a": "évolution",
+        "en": "Historians study the transformation of social customs in European society since the Middle Ages.",
+        "alts": []
+      },
+      {
+        "slot": "s|1",
+        "f": "sense",
+        "s": "Darwin a développé la théorie de l'___ des espèces en observant des animaux dans les îles Galápagos.",
+        "a": "évolution",
+        "en": "Darwin developed the theory of the evolution of species by observing animals in the Galápagos Islands.",
+        "alts": []
+      },
+      {
+        "slot": "s|1",
+        "f": "sense",
+        "s": "Selon la biologie moderne, l'___ a permis aux mammifères de s'adapter à des environnements très différents.",
+        "a": "évolution",
+        "en": "According to modern biology, evolution allowed mammals to adapt to very different environments.",
+        "alts": []
+      },
+      {
+        "slot": "s|2",
+        "f": "sense",
+        "s": "Le directeur est satisfait de l'___ du projet : toutes les étapes se déroulent comme prévu.",
+        "a": "évolution",
+        "en": "The director is pleased with the development of the project: all stages are proceeding as planned.",
+        "alts": []
+      },
+      {
+        "slot": "s|2",
+        "f": "sense",
+        "s": "Les médecins surveillent de près l'___ de l'état de santé du patient après l'opération.",
+        "a": "évolution",
+        "en": "The doctors are closely monitoring the development of the patient's health condition after the operation.",
+        "alts": []
+      },
+      {
+        "slot": "gender",
+        "f": "gender",
+        "s": "C'est ___ évolution remarquable que d'avoir inventé l'intelligence artificielle en si peu de temps.",
+        "a": "une",
+        "en": "It is a remarkable evolution to have invented artificial intelligence in such a short time.",
+        "alts": []
+      },
+      {
+        "slot": "gender",
+        "f": "gender",
+        "s": "Nous observons ___ évolution lente mais constante dans les comportements des consommateurs.",
+        "a": "une",
+        "en": "We observe a slow but steady evolution in consumer behavior.",
+        "alts": []
+      }
+    ]
+  },
+  {
+    "id": 1353,
+    "qs": [
+      {
+        "slot": "s|0",
+        "f": "sense",
+        "s": "Je suis ___ d'accord avec toi sur ce point.",
+        "a": "totalement",
+        "en": "I completely agree with you on this point.",
+        "alts": ["entièrement", "complètement"]
+      },
+      {
+        "slot": "s|0",
+        "f": "sense",
+        "s": "Cette théorie est ___ fausse, il n'y a aucun doute.",
+        "a": "totalement",
+        "en": "This theory is completely wrong, there is no doubt.",
+        "alts": ["entièrement", "complètement"]
+      },
+      {
+        "slot": "s|1",
+        "f": "sense",
+        "s": "La salle a été ___ rénovée, on ne reconnaît plus rien.",
+        "a": "totalement",
+        "en": "The room was thoroughly renovated, nothing looks the same anymore.",
+        "alts": ["entièrement", "complètement"]
+      },
+      {
+        "slot": "s|1",
+        "f": "sense",
+        "s": "Il a ___ changé d'avis après cette expérience difficile.",
+        "a": "totalement",
+        "en": "He thoroughly changed his mind after this difficult experience.",
+        "alts": ["entièrement", "complètement"]
+      }
+    ]
+  },
+  {
+    "id": 1354,
+    "qs": [
+      {
+        "slot": "t|Présent|0",
+        "f": "tense",
+        "s": "Je ___ un projet important cette semaine.",
+        "a": "gère",
+        "en": "I am managing an important project this week.",
+        "alts": [],
+        "form": "Présent"
+      },
+      {
+        "slot": "t|Présent|0",
+        "f": "tense",
+        "s": "Mon directeur ___ toute l'équipe avec efficacité.",
+        "a": "gère",
+        "en": "My director manages the whole team efficiently.",
+        "alts": [],
+        "form": "Présent"
+      },
+      {
+        "slot": "t|Présent|1",
+        "f": "tense",
+        "s": "Tu ___ bien ton budget personnel.",
+        "a": "gères",
+        "en": "You manage your personal budget well.",
+        "alts": [],
+        "form": "Présent"
+      },
+      {
+        "slot": "t|Présent|1",
+        "f": "tense",
+        "s": "Comment tu ___ plusieurs tâches à la fois ?",
+        "a": "gères",
+        "en": "How do you manage several tasks at once?",
+        "alts": [],
+        "form": "Présent"
+      },
+      {
+        "slot": "t|Présent|2",
+        "f": "tense",
+        "s": "Nous ___ ensemble les ressources du département.",
+        "a": "gérons",
+        "en": "We manage the department's resources together.",
+        "alts": [],
+        "form": "Présent"
+      },
+      {
+        "slot": "t|Présent|2",
+        "f": "tense",
+        "s": "En tant qu'associés, nous ___ la société à deux.",
+        "a": "gérons",
+        "en": "As partners, we manage the company together.",
+        "alts": [],
+        "form": "Présent"
+      },
+      {
+        "slot": "t|Présent|3",
+        "f": "tense",
+        "s": "Vous ___ cet entrepôt depuis combien de temps ?",
+        "a": "gérez",
+        "en": "How long have you been managing this warehouse?",
+        "alts": [],
+        "form": "Présent"
+      },
+      {
+        "slot": "t|Présent|3",
+        "f": "tense",
+        "s": "Vous ___ les comptes de l'entreprise avec rigueur.",
+        "a": "gérez",
+        "en": "You manage the company's accounts rigorously.",
+        "alts": [],
+        "form": "Présent"
+      },
+      {
+        "slot": "t|Présent|4",
+        "f": "tense",
+        "s": "Les deux directeurs ___ chacun leur propre service.",
+        "a": "gèrent",
+        "en": "The two directors each manage their own department.",
+        "alts": [],
+        "form": "Présent"
+      },
+      {
+        "slot": "t|Présent|4",
+        "f": "tense",
+        "s": "Elles ___ une boutique en ligne depuis peu.",
+        "a": "gèrent",
+        "en": "They have recently been managing an online shop.",
+        "alts": [],
+        "form": "Présent"
+      },
+      {
+        "slot": "t|Passé composé|0",
+        "f": "tense",
+        "s": "J'___ ce dossier difficile la semaine dernière.",
+        "a": "ai géré",
+        "en": "I managed this difficult file last week.",
+        "alts": [],
+        "form": "Passé composé"
+      },
+      {
+        "slot": "t|Passé composé|0",
+        "f": "tense",
+        "s": "Hier matin, j'___ seul la situation d'urgence.",
+        "a": "ai géré",
+        "en": "Yesterday morning, I managed the emergency situation alone.",
+        "alts": [],
+        "form": "Passé composé"
+      },
+      {
+        "slot": "t|Passé composé|1",
+        "f": "tense",
+        "s": "Tu ___ cette crise avec beaucoup de calme.",
+        "a": "as géré",
+        "en": "You handled this crisis with a lot of calm.",
+        "alts": [],
+        "form": "Passé composé"
+      },
+      {
+        "slot": "t|Passé composé|1",
+        "f": "tense",
+        "s": "Comment tu ___ ce conflit entre collègues ?",
+        "a": "as géré",
+        "en": "How did you manage this conflict between colleagues?",
+        "alts": [],
+        "form": "Passé composé"
+      },
+      {
+        "slot": "t|Passé composé|2",
+        "f": "tense",
+        "s": "Notre responsable ___ le budget du projet l'année passée.",
+        "a": "a géré",
+        "en": "Our manager managed the project budget last year.",
+        "alts": [],
+        "form": "Passé composé"
+      },
+      {
+        "slot": "t|Passé composé|2",
+        "f": "tense",
+        "s": "Elle ___ ce problème technique toute seule ce matin.",
+        "a": "a géré",
+        "en": "She handled this technical problem all by herself this morning.",
+        "alts": [],
+        "form": "Passé composé"
+      },
+      {
+        "slot": "t|Passé composé|3",
+        "f": "tense",
+        "s": "Nous ___ cette transition difficile avec succès.",
+        "a": "avons géré",
+        "en": "We managed this difficult transition successfully.",
+        "alts": [],
+        "form": "Passé composé"
+      },
+      {
+        "slot": "t|Passé composé|3",
+        "f": "tense",
+        "s": "L'année dernière, nous ___ trois projets simultanément.",
+        "a": "avons géré",
+        "en": "Last year, we managed three projects simultaneously.",
+        "alts": [],
+        "form": "Passé composé"
+      },
+      {
+        "slot": "t|Passé composé|4",
+        "f": "tense",
+        "s": "Vous ___ la situation avec professionnalisme lors de la réunion.",
+        "a": "avez géré",
+        "en": "You managed the situation professionally during the meeting.",
+        "alts": [],
+        "form": "Passé composé"
+      },
+      {
+        "slot": "t|Passé composé|4",
+        "f": "tense",
+        "s": "En mon absence, vous ___ tout le département.",
+        "a": "avez géré",
+        "en": "In my absence, you managed the entire department.",
+        "alts": [],
+        "form": "Passé composé"
+      },
+      {
+        "slot": "t|Passé composé|5",
+        "f": "tense",
+        "s": "Les bénévoles ___ l'organisation de l'événement eux-mêmes.",
+        "a": "ont géré",
+        "en": "The volunteers managed the organization of the event themselves.",
+        "alts": [],
+        "form": "Passé composé"
+      },
+      {
+        "slot": "t|Passé composé|5",
+        "f": "tense",
+        "s": "Mes collègues ___ la crise pendant mon congé.",
+        "a": "ont géré",
+        "en": "My colleagues managed the crisis during my leave.",
+        "alts": [],
+        "form": "Passé composé"
+      },
+      {
+        "slot": "t|Imparfait|0",
+        "f": "tense",
+        "s": "Quand j'étais jeune, je ___ les comptes de la famille.",
+        "a": "gérais",
+        "en": "When I was young, I managed the family accounts.",
+        "alts": [],
+        "form": "Imparfait"
+      },
+      {
+        "slot": "t|Imparfait|0",
+        "f": "tense",
+        "s": "À cette époque, tu ___ seul toute la logistique.",
+        "a": "gérais",
+        "en": "At that time, you were managing all the logistics alone.",
+        "alts": [],
+        "form": "Imparfait"
+      },
+      {
+        "slot": "t|Imparfait|1",
+        "f": "tense",
+        "s": "Avant sa retraite, mon père ___ une grande usine.",
+        "a": "gérait",
+        "en": "Before his retirement, my father managed a large factory.",
+        "alts": [],
+        "form": "Imparfait"
+      },
+      {
+        "slot": "t|Imparfait|1",
+        "f": "tense",
+        "s": "Elle ___ le service client quand le problème est survenu.",
+        "a": "gérait",
+        "en": "She was managing customer service when the problem arose.",
+        "alts": [],
+        "form": "Imparfait"
+      },
+      {
+        "slot": "t|Imparfait|2",
+        "f": "tense",
+        "s": "À l'époque, nous ___ le magasin à tour de rôle.",
+        "a": "gérions",
+        "en": "At the time, we managed the shop in turns.",
+        "alts": [],
+        "form": "Imparfait"
+      },
+      {
+        "slot": "t|Imparfait|2",
+        "f": "tense",
+        "s": "Nous ___ les réclamations des clients tous les jours.",
+        "a": "gérions",
+        "en": "We used to handle customer complaints every day.",
+        "alts": [],
+        "form": "Imparfait"
+      },
+      {
+        "slot": "t|Imparfait|3",
+        "f": "tense",
+        "s": "Avant la fusion, vous ___ une filiale indépendante.",
+        "a": "gériez",
+        "en": "Before the merger, you managed an independent subsidiary.",
+        "alts": [],
+        "form": "Imparfait"
+      },
+      {
+        "slot": "t|Imparfait|3",
+        "f": "tense",
+        "s": "Vous ___ toujours les conflits avec diplomatie.",
+        "a": "gériez",
+        "en": "You always managed conflicts with diplomacy.",
+        "alts": [],
+        "form": "Imparfait"
+      },
+      {
+        "slot": "t|Imparfait|4",
+        "f": "tense",
+        "s": "Ils ___ plusieurs boutiques dans la région à cette époque.",
+        "a": "géraient",
+        "en": "They were managing several shops in the region at that time.",
+        "alts": [],
+        "form": "Imparfait"
+      },
+      {
+        "slot": "t|Imparfait|4",
+        "f": "tense",
+        "s": "Les anciens dirigeants ___ les finances de façon très stricte.",
+        "a": "géraient",
+        "en": "The former directors managed the finances very strictly.",
+        "alts": [],
+        "form": "Imparfait"
+      },
+      {
+        "slot": "t|Futur|0",
+        "f": "tense",
+        "s": "Dès la semaine prochaine, je ___ ce nouveau service.",
+        "a": "gérerai",
+        "en": "Starting next week, I will manage this new department.",
+        "alts": [],
+        "form": "Futur"
+      },
+      {
+        "slot": "t|Futur|0",
+        "f": "tense",
+        "s": "Je ___ seul ce projet jusqu'à la fin du trimestre.",
+        "a": "gérerai",
+        "en": "I will manage this project alone until the end of the quarter.",
+        "alts": [],
+        "form": "Futur"
+      },
+      {
+        "slot": "t|Futur|1",
+        "f": "tense",
+        "s": "Tu ___ la comptabilité de l'association l'année prochaine.",
+        "a": "géreras",
+        "en": "You will manage the association's accounting next year.",
+        "alts": [],
+        "form": "Futur"
+      },
+      {
+        "slot": "t|Futur|1",
+        "f": "tense",
+        "s": "Si tu acceptes ce poste, tu ___ une équipe de dix personnes.",
+        "a": "géreras",
+        "en": "If you accept this position, you will manage a team of ten people.",
+        "alts": [],
+        "form": "Futur"
+      },
+      {
+        "slot": "t|Futur|2",
+        "f": "tense",
+        "s": "Le nouveau directeur ___ tout le département à partir de lundi.",
+        "a": "gérera",
+        "en": "The new director will manage the whole department from Monday.",
+        "alts": [],
+        "form": "Futur"
+      },
+      {
+        "slot": "t|Futur|2",
+        "f": "tense",
+        "s": "Elle ___ les relations avec les fournisseurs dès son arrivée.",
+        "a": "gérera",
+        "en": "She will manage the supplier relationships from her arrival.",
+        "alts": [],
+        "form": "Futur"
+      },
+      {
+        "slot": "t|Futur|3",
+        "f": "tense",
+        "s": "L'année prochaine, nous ___ nous-mêmes notre budget.",
+        "a": "gérerons",
+        "en": "Next year, we will manage our budget ourselves.",
+        "alts": [],
+        "form": "Futur"
+      },
+      {
+        "slot": "t|Futur|3",
+        "f": "tense",
+        "s": "Nous ___ conjointement les deux sites de production.",
+        "a": "gérerons",
+        "en": "We will jointly manage the two production sites.",
+        "alts": [],
+        "form": "Futur"
+      },
+      {
+        "slot": "t|Futur|4",
+        "f": "tense",
+        "s": "Vous ___ ce portefeuille de clients dès le mois prochain.",
+        "a": "gérerez",
+        "en": "You will manage this client portfolio from next month.",
+        "alts": [],
+        "form": "Futur"
+      },
+      {
+        "slot": "t|Futur|4",
+        "f": "tense",
+        "s": "En tant que responsables, vous ___ les plannings de l'équipe.",
+        "a": "gérerez",
+        "en": "As managers, you will manage the team's schedules.",
+        "alts": [],
+        "form": "Futur"
+      },
+      {
+        "slot": "t|Futur|5",
+        "f": "tense",
+        "s": "Les nouveaux associés ___ l'entreprise à partir de janvier.",
+        "a": "géreront",
+        "en": "The new partners will manage the company from January.",
+        "alts": [],
+        "form": "Futur"
+      },
+      {
+        "slot": "t|Futur|5",
+        "f": "tense",
+        "s": "Ils ___ eux-mêmes leur emploi du temps à l'avenir.",
+        "a": "géreront",
+        "en": "They will manage their own schedule in the future.",
+        "alts": [],
+        "form": "Futur"
+      },
+      {
+        "slot": "t|Conditionnel|0",
+        "f": "tense",
+        "s": "Si j'avais plus d'expérience, je ___ mieux les crises.",
+        "a": "gérerais",
+        "en": "If I had more experience, I would manage crises better.",
+        "alts": [],
+        "form": "Conditionnel"
+      },
+      {
+        "slot": "t|Conditionnel|0",
+        "f": "tense",
+        "s": "Si tu avais le choix, tu ___ quelle partie du projet ?",
+        "a": "gérerais",
+        "en": "If you had the choice, which part of the project would you manage?",
+        "alts": [],
+        "form": "Conditionnel"
+      },
+      {
+        "slot": "t|Conditionnel|1",
+        "f": "tense",
+        "s": "Si elle était promue, elle ___ toute la division.",
+        "a": "gérerait",
+        "en": "If she were promoted, she would manage the entire division.",
+        "alts": [],
+        "form": "Conditionnel"
+      },
+      {
+        "slot": "t|Conditionnel|1",
+        "f": "tense",
+        "s": "Il ___ ce conflit différemment s'il était à ta place.",
+        "a": "gérerait",
+        "en": "He would manage this conflict differently if he were in your place.",
+        "alts": [],
+        "form": "Conditionnel"
+      },
+      {
+        "slot": "t|Conditionnel|2",
+        "f": "tense",
+        "s": "Si nous avions plus de ressources, nous ___ le projet autrement.",
+        "a": "gérerions",
+        "en": "If we had more resources, we would manage the project differently.",
+        "alts": [],
+        "form": "Conditionnel"
+      },
+      {
+        "slot": "t|Conditionnel|2",
+        "f": "tense",
+        "s": "Nous ___ volontiers cette équipe si on nous le proposait.",
+        "a": "gérerions",
+        "en": "We would gladly manage this team if it were proposed to us.",
+        "alts": [],
+        "form": "Conditionnel"
+      },
+      {
+        "slot": "t|Conditionnel|3",
+        "f": "tense",
+        "s": "Si vous aviez plus d'autonomie, vous ___ mieux vos priorités.",
+        "a": "géreriez",
+        "en": "If you had more autonomy, you would manage your priorities better.",
+        "alts": [],
+        "form": "Conditionnel"
+      },
+      {
+        "slot": "t|Conditionnel|3",
+        "f": "tense",
+        "s": "Vous ___ ce budget différemment si vous connaissiez tous les faits.",
+        "a": "géreriez",
+        "en": "You would manage this budget differently if you knew all the facts.",
+        "alts": [],
+        "form": "Conditionnel"
+      },
+      {
+        "slot": "t|Conditionnel|4",
+        "f": "tense",
+        "s": "Si les dirigeants avaient plus de temps, ils ___ mieux leurs équipes.",
+        "a": "géreraient",
+        "en": "If the managers had more time, they would manage their teams better.",
+        "alts": [],
+        "form": "Conditionnel"
+      },
+      {
+        "slot": "t|Conditionnel|4",
+        "f": "tense",
+        "s": "Elles ___ la situation plus calmement si elles étaient moins stressées.",
+        "a": "géreraient",
+        "en": "They would manage the situation more calmly if they were less stressed.",
+        "alts": [],
+        "form": "Conditionnel"
+      },
+      {
+        "slot": "t|Subjonctif",
+        "f": "subj",
+        "s": "Il faut que tu ___ mieux ton temps.",
+        "a": "gères",
+        "en": "You need to manage your time better.",
+        "alts": [],
+        "form": "Subjonctif"
+      },
+      {
+        "slot": "t|Subjonctif",
+        "f": "subj",
+        "s": "Je souhaite qu'elle ___ ce projet avec soin.",
+        "a": "gère",
+        "en": "I wish that she would manage this project carefully.",
+        "alts": [],
+        "form": "Subjonctif"
+      },
+      {
+        "slot": "s|0",
+        "f": "sense",
+        "s": "Ce directeur ___ une équipe de cinquante employés.",
+        "a": "gère",
+        "en": "This director manages a team of fifty employees.",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "s|0",
+        "f": "sense",
+        "s": "Elle ___ l'ensemble des ressources humaines de la société.",
+        "a": "gère",
+        "en": "She manages all the human resources of the company.",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "s|1",
+        "f": "sense",
+        "s": "Notre service ___ des centaines de réclamations chaque semaine.",
+        "a": "gère",
+        "en": "Our department handles hundreds of complaints each week.",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "s|1",
+        "f": "sense",
+        "s": "Il ___ lui-même ses demandes administratives sans aide.",
+        "a": "gère",
+        "en": "He handles his administrative requests himself without help.",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "s|2",
+        "f": "sense",
+        "s": "Elle sait ___ les situations de stress au travail.",
+        "a": "gérer",
+        "en": "She knows how to cope with stressful situations at work.",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "s|2",
+        "f": "sense",
+        "s": "Mon frère ___ bien la pression lors des examens.",
+        "a": "gère",
+        "en": "My brother copes well with pressure during exams.",
+        "alts": [],
+        "form": ""
+      }
+    ]
+  }
+]

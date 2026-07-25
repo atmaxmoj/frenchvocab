@@ -1,0 +1,649 @@
+[
+  {
+    "id": 1094,
+    "qs": [
+      {
+        "slot": "s|0",
+        "f": "sense",
+        "s": "Les chefs d'État se sont réunis pour une ___ internationale sur le climat.",
+        "a": "conférence",
+        "en": "The heads of state met for an international conference on climate.",
+        "alts": []
+      },
+      {
+        "slot": "s|0",
+        "f": "sense",
+        "s": "Le ministre a tenu une ___ de presse pour annoncer les nouvelles mesures.",
+        "a": "conférence",
+        "en": "The minister held a press conference to announce the new measures.",
+        "alts": []
+      },
+      {
+        "slot": "s|1",
+        "f": "sense",
+        "s": "Les étudiants ont assisté à une ___ sur l'histoire de l'art moderne.",
+        "a": "conférence",
+        "en": "The students attended a lecture on the history of modern art.",
+        "alts": []
+      },
+      {
+        "slot": "s|1",
+        "f": "sense",
+        "s": "Ce célèbre professeur donne une ___ sur la philosophie grecque chaque semaine.",
+        "a": "conférence",
+        "en": "This famous professor gives a lecture on Greek philosophy every week.",
+        "alts": []
+      },
+      {
+        "slot": "s|2",
+        "f": "sense",
+        "s": "Le chercheur a présenté ses résultats lors d'une ___ scientifique organisée par l'université.",
+        "a": "conférence",
+        "en": "The researcher presented his results at a scientific conference organized by the university.",
+        "alts": []
+      },
+      {
+        "slot": "s|2",
+        "f": "sense",
+        "s": "Notre équipe participera à une ___ annuelle pour faire le bilan des travaux de l'année.",
+        "a": "conférence",
+        "en": "Our team will participate in an annual meeting to review the year's work.",
+        "alts": []
+      },
+      {
+        "slot": "gender",
+        "f": "gender",
+        "s": "___ conférence a duré trois heures.",
+        "a": "La",
+        "en": "The conference lasted three hours.",
+        "alts": []
+      },
+      {
+        "slot": "gender",
+        "f": "gender",
+        "s": "Il a organisé ___ conférence sur les énergies renouvelables.",
+        "a": "une",
+        "en": "He organized a conference on renewable energies.",
+        "alts": []
+      }
+    ]
+  },
+  {
+    "id": 1095,
+    "qs": [
+      {
+        "slot": "t|Présent|0",
+        "f": "tense",
+        "s": "Ce genre de commentaire ___ souvent les gens.",
+        "a": "provoque",
+        "en": "This kind of comment often provokes people.",
+        "alts": []
+      },
+      {
+        "slot": "t|Présent|0",
+        "f": "tense",
+        "s": "Je ne cherche pas à te blesser ; je ___ juste une réflexion.",
+        "a": "provoque",
+        "en": "I am not trying to hurt you; I am just sparking a thought.",
+        "alts": []
+      },
+      {
+        "slot": "t|Présent|1",
+        "f": "tense",
+        "s": "Pourquoi est-ce que tu ___ tes collègues sans raison ?",
+        "a": "provoques",
+        "en": "Why do you provoke your colleagues for no reason?",
+        "alts": []
+      },
+      {
+        "slot": "t|Présent|1",
+        "f": "tense",
+        "s": "Tu ___ toujours une réaction quand tu parles de ce sujet.",
+        "a": "provoques",
+        "en": "You always provoke a reaction when you bring up that topic.",
+        "alts": []
+      },
+      {
+        "slot": "t|Présent|2",
+        "f": "tense",
+        "s": "Nous ne ___ personne ; nous exprimons simplement notre avis.",
+        "a": "provoquons",
+        "en": "We are not provoking anyone; we are simply expressing our opinion.",
+        "alts": []
+      },
+      {
+        "slot": "t|Présent|2",
+        "f": "tense",
+        "s": "En organisant cette manifestation, nous ___ un débat nécessaire.",
+        "a": "provoquons",
+        "en": "By organizing this demonstration, we are sparking a necessary debate.",
+        "alts": []
+      },
+      {
+        "slot": "t|Présent|3",
+        "f": "tense",
+        "s": "Vous ___ inutilement une tension dans l'équipe.",
+        "a": "provoquez",
+        "en": "You are unnecessarily provoking tension within the team.",
+        "alts": []
+      },
+      {
+        "slot": "t|Présent|3",
+        "f": "tense",
+        "s": "En disant cela, vous ___ la colère de vos adversaires.",
+        "a": "provoquez",
+        "en": "By saying that, you are provoking your opponents' anger.",
+        "alts": []
+      },
+      {
+        "slot": "t|Présent|4",
+        "f": "tense",
+        "s": "Ces discours ___ des réactions violentes dans la foule.",
+        "a": "provoquent",
+        "en": "These speeches provoke violent reactions in the crowd.",
+        "alts": []
+      },
+      {
+        "slot": "t|Présent|4",
+        "f": "tense",
+        "s": "Ils ___ délibérément les autorités pour attirer l'attention.",
+        "a": "provoquent",
+        "en": "They deliberately provoke the authorities to attract attention.",
+        "alts": []
+      },
+      {
+        "slot": "t|Passé composé|0",
+        "f": "tense",
+        "s": "J'___ un accident en tournant trop vite.",
+        "a": "ai provoqué",
+        "en": "I caused an accident by turning too fast.",
+        "alts": []
+      },
+      {
+        "slot": "t|Passé composé|0",
+        "f": "tense",
+        "s": "Sans le vouloir, j'___ une dispute entre mes amis.",
+        "a": "ai provoqué",
+        "en": "Without meaning to, I triggered a dispute among my friends.",
+        "alts": []
+      },
+      {
+        "slot": "t|Passé composé|1",
+        "f": "tense",
+        "s": "Tu ___ cette crise par tes paroles imprudentes.",
+        "a": "as provoqué",
+        "en": "You triggered this crisis with your careless words.",
+        "alts": []
+      },
+      {
+        "slot": "t|Passé composé|1",
+        "f": "tense",
+        "s": "Tu l'___ exprès pour le mettre en colère.",
+        "a": "as provoqué",
+        "en": "You provoked him on purpose to make him angry.",
+        "alts": []
+      },
+      {
+        "slot": "t|Passé composé|2",
+        "f": "tense",
+        "s": "L'incendie ___ l'évacuation de tout l'immeuble.",
+        "a": "a provoqué",
+        "en": "The fire triggered the evacuation of the entire building.",
+        "alts": []
+      },
+      {
+        "slot": "t|Passé composé|2",
+        "f": "tense",
+        "s": "Le discours du ministre ___ une vive polémique.",
+        "a": "a provoqué",
+        "en": "The minister's speech sparked a heated controversy.",
+        "alts": []
+      },
+      {
+        "slot": "t|Passé composé|3",
+        "f": "tense",
+        "s": "Nous ___ involontairement une bagarre en arrivant à cette fête.",
+        "a": "avons provoqué",
+        "en": "We unintentionally triggered a fight by arriving at that party.",
+        "alts": []
+      },
+      {
+        "slot": "t|Passé composé|3",
+        "f": "tense",
+        "s": "Nous ___ une réunion d'urgence après l'incident.",
+        "a": "avons provoqué",
+        "en": "We called an emergency meeting after the incident.",
+        "alts": []
+      },
+      {
+        "slot": "t|Passé composé|4",
+        "f": "tense",
+        "s": "Vous ___ la méfiance de tout le groupe par votre comportement.",
+        "a": "avez provoqué",
+        "en": "You provoked the mistrust of the whole group through your behaviour.",
+        "alts": []
+      },
+      {
+        "slot": "t|Passé composé|4",
+        "f": "tense",
+        "s": "Vous ___ une panne en débranchant ce câble.",
+        "a": "avez provoqué",
+        "en": "You caused a breakdown by unplugging that cable.",
+        "alts": []
+      },
+      {
+        "slot": "t|Passé composé|5",
+        "f": "tense",
+        "s": "Les manifestants ___ des affrontements avec la police.",
+        "a": "ont provoqué",
+        "en": "The protesters triggered clashes with the police.",
+        "alts": []
+      },
+      {
+        "slot": "t|Passé composé|5",
+        "f": "tense",
+        "s": "Ces changements ___ une grande inquiétude parmi les employés.",
+        "a": "ont provoqué",
+        "en": "These changes caused great anxiety among the employees.",
+        "alts": []
+      },
+      {
+        "slot": "t|Imparfait|0",
+        "f": "tense",
+        "s": "Quand j'étais adolescent, je ___ souvent mes camarades pour rire.",
+        "a": "provoquais",
+        "en": "When I was a teenager, I often provoked my classmates for a laugh.",
+        "alts": []
+      },
+      {
+        "slot": "t|Imparfait|0",
+        "f": "tense",
+        "s": "Tu ___ toujours une réaction excessive chez lui dès que tu mentionnais ce sujet.",
+        "a": "provoquais",
+        "en": "You always triggered an excessive reaction from him whenever you mentioned that topic.",
+        "alts": []
+      },
+      {
+        "slot": "t|Imparfait|1",
+        "f": "tense",
+        "s": "Son comportement agressif ___ des conflits à chaque réunion.",
+        "a": "provoquait",
+        "en": "His aggressive behaviour caused conflicts at every meeting.",
+        "alts": []
+      },
+      {
+        "slot": "t|Imparfait|1",
+        "f": "tense",
+        "s": "Le bruit de la machine ___ des maux de tête chez les travailleurs.",
+        "a": "provoquait",
+        "en": "The noise from the machine caused headaches in the workers.",
+        "alts": []
+      },
+      {
+        "slot": "t|Imparfait|2",
+        "f": "tense",
+        "s": "Nous ___ des débats animés chaque fois que nous abordions ce thème.",
+        "a": "provoquions",
+        "en": "We used to spark lively debates every time we brought up that topic.",
+        "alts": []
+      },
+      {
+        "slot": "t|Imparfait|2",
+        "f": "tense",
+        "s": "À l'époque, nous ___ nos adversaires pour les déstabiliser.",
+        "a": "provoquions",
+        "en": "At the time, we were provoking our opponents to unsettle them.",
+        "alts": []
+      },
+      {
+        "slot": "t|Imparfait|3",
+        "f": "tense",
+        "s": "Vous ___ une réaction chaque fois que vous évoquiez ce sujet délicat.",
+        "a": "provoquiez",
+        "en": "You used to provoke a reaction every time you brought up that sensitive subject.",
+        "alts": []
+      },
+      {
+        "slot": "t|Imparfait|3",
+        "f": "tense",
+        "s": "Sans le savoir, vous ___ une grande inquiétude parmi vos collègues.",
+        "a": "provoquiez",
+        "en": "Without knowing it, you were causing great anxiety among your colleagues.",
+        "alts": []
+      },
+      {
+        "slot": "t|Imparfait|4",
+        "f": "tense",
+        "s": "Ces rumeurs ___ la panique dans tout le quartier.",
+        "a": "provoquaient",
+        "en": "Those rumours were causing panic throughout the whole neighbourhood.",
+        "alts": []
+      },
+      {
+        "slot": "t|Imparfait|4",
+        "f": "tense",
+        "s": "Elles ___ délibérément leurs adversaires avant chaque match.",
+        "a": "provoquaient",
+        "en": "They deliberately provoked their opponents before each match.",
+        "alts": []
+      },
+      {
+        "slot": "t|Futur|0",
+        "f": "tense",
+        "s": "Je ___ une réunion dès que possible pour clarifier la situation.",
+        "a": "provoquerai",
+        "en": "I will call a meeting as soon as possible to clarify the situation.",
+        "alts": []
+      },
+      {
+        "slot": "t|Futur|0",
+        "f": "tense",
+        "s": "Si je dis cela en public, je ___ une polémique.",
+        "a": "provoquerai",
+        "en": "If I say that in public, I will spark a controversy.",
+        "alts": []
+      },
+      {
+        "slot": "t|Futur|1",
+        "f": "tense",
+        "s": "Si tu continues ainsi, tu ___ une rupture définitive.",
+        "a": "provoqueras",
+        "en": "If you carry on like this, you will cause a definitive break.",
+        "alts": []
+      },
+      {
+        "slot": "t|Futur|1",
+        "f": "tense",
+        "s": "Tu ___ leur admiration en proposant une solution aussi innovante.",
+        "a": "provoqueras",
+        "en": "You will earn their admiration by proposing such an innovative solution.",
+        "alts": []
+      },
+      {
+        "slot": "t|Futur|2",
+        "f": "tense",
+        "s": "Cette décision ___ certainement des protestations.",
+        "a": "provoquera",
+        "en": "This decision will certainly provoke protests.",
+        "alts": []
+      },
+      {
+        "slot": "t|Futur|2",
+        "f": "tense",
+        "s": "Le tremblement de terre ___ des glissements de terrain dans la région.",
+        "a": "provoquera",
+        "en": "The earthquake will trigger landslides in the region.",
+        "alts": []
+      },
+      {
+        "slot": "t|Futur|3",
+        "f": "tense",
+        "s": "Ensemble, nous ___ un changement positif dans cette organisation.",
+        "a": "provoquerons",
+        "en": "Together, we will bring about a positive change in this organisation.",
+        "alts": []
+      },
+      {
+        "slot": "t|Futur|3",
+        "f": "tense",
+        "s": "Nous ___ une réaction immédiate en publiant ce rapport.",
+        "a": "provoquerons",
+        "en": "We will trigger an immediate reaction by publishing this report.",
+        "alts": []
+      },
+      {
+        "slot": "t|Futur|4",
+        "f": "tense",
+        "s": "Si vous continuez à agir ainsi, vous ___ leur hostilité.",
+        "a": "provoquerez",
+        "en": "If you continue to act this way, you will provoke their hostility.",
+        "alts": []
+      },
+      {
+        "slot": "t|Futur|4",
+        "f": "tense",
+        "s": "Vous ___ l'étonnement général en révélant cette information.",
+        "a": "provoquerez",
+        "en": "You will provoke general astonishment by revealing that information.",
+        "alts": []
+      },
+      {
+        "slot": "t|Futur|5",
+        "f": "tense",
+        "s": "Ces nouvelles mesures ___ des manifestations dans tout le pays.",
+        "a": "provoqueront",
+        "en": "These new measures will trigger demonstrations throughout the country.",
+        "alts": []
+      },
+      {
+        "slot": "t|Futur|5",
+        "f": "tense",
+        "s": "Les chercheurs pensent que leurs résultats ___ une révision des protocoles.",
+        "a": "provoqueront",
+        "en": "The researchers believe their findings will trigger a revision of the protocols.",
+        "alts": []
+      },
+      {
+        "slot": "t|Conditionnel|0",
+        "f": "tense",
+        "s": "Si tu avais raison, je ___ quand même une discussion avant d'agir.",
+        "a": "provoquerais",
+        "en": "If you were right, I would still spark a discussion before acting.",
+        "alts": []
+      },
+      {
+        "slot": "t|Conditionnel|0",
+        "f": "tense",
+        "s": "Si tu disais cela à la réunion, tu ___ une vive controverse.",
+        "a": "provoquerais",
+        "en": "If you said that at the meeting, you would spark a heated controversy.",
+        "alts": []
+      },
+      {
+        "slot": "t|Conditionnel|1",
+        "f": "tense",
+        "s": "Une telle annonce ___ une crise économique grave.",
+        "a": "provoquerait",
+        "en": "Such an announcement would trigger a serious economic crisis.",
+        "alts": []
+      },
+      {
+        "slot": "t|Conditionnel|1",
+        "f": "tense",
+        "s": "Si on supprimait ce service, cela ___ la colère des usagers.",
+        "a": "provoquerait",
+        "en": "If that service were scrapped, it would provoke the anger of users.",
+        "alts": []
+      },
+      {
+        "slot": "t|Conditionnel|2",
+        "f": "tense",
+        "s": "Nous ne ___ jamais une telle réaction sans raison valable.",
+        "a": "provoquerions",
+        "en": "We would never provoke such a reaction without a valid reason.",
+        "alts": []
+      },
+      {
+        "slot": "t|Conditionnel|2",
+        "f": "tense",
+        "s": "Si nous annoncions cela maintenant, nous ___ une panique inutile.",
+        "a": "provoquerions",
+        "en": "If we announced that now, we would trigger unnecessary panic.",
+        "alts": []
+      },
+      {
+        "slot": "t|Conditionnel|3",
+        "f": "tense",
+        "s": "Vous ne ___ pas une telle situation si vous étiez plus prudents.",
+        "a": "provoqueriez",
+        "en": "You would not provoke such a situation if you were more careful.",
+        "alts": []
+      },
+      {
+        "slot": "t|Conditionnel|3",
+        "f": "tense",
+        "s": "Si vous parliez de ce sujet en public, vous ___ un scandale.",
+        "a": "provoqueriez",
+        "en": "If you talked about that subject in public, you would cause a scandal.",
+        "alts": []
+      },
+      {
+        "slot": "t|Conditionnel|4",
+        "f": "tense",
+        "s": "Ces paroles ___ une rupture immédiate entre les deux parties.",
+        "a": "provoqueraient",
+        "en": "These words would trigger an immediate break between the two parties.",
+        "alts": []
+      },
+      {
+        "slot": "t|Conditionnel|4",
+        "f": "tense",
+        "s": "Elles ne ___ pas intentionnellement ce genre de conflit.",
+        "a": "provoqueraient",
+        "en": "They would not intentionally provoke this kind of conflict.",
+        "alts": []
+      },
+      {
+        "slot": "t|Subjonctif",
+        "f": "subj",
+        "s": "Il faut que tu ___ une réaction immédiate de ta part.",
+        "a": "provoques",
+        "en": "You must provoke an immediate reaction.",
+        "alts": []
+      },
+      {
+        "slot": "t|Subjonctif",
+        "f": "subj",
+        "s": "Je ne veux pas qu'il ___ un incident diplomatique.",
+        "a": "provoque",
+        "en": "I don't want him to trigger a diplomatic incident.",
+        "alts": []
+      },
+      {
+        "slot": "s|0",
+        "f": "sense",
+        "s": "Ne le ___ pas, il est déjà de mauvaise humeur.",
+        "a": "provoque",
+        "en": "Don't provoke him, he is already in a bad mood.",
+        "alts": []
+      },
+      {
+        "slot": "s|0",
+        "f": "sense",
+        "s": "Elle a ___ son patron en refusant ouvertement ses ordres.",
+        "a": "provoqué",
+        "en": "She provoked her boss by openly refusing his orders.",
+        "alts": []
+      },
+      {
+        "slot": "s|1",
+        "f": "sense",
+        "s": "La sécheresse a ___ une grave crise agricole dans la région.",
+        "a": "provoqué",
+        "en": "The drought triggered a serious agricultural crisis in the region.",
+        "alts": []
+      },
+      {
+        "slot": "s|1",
+        "f": "sense",
+        "s": "Ce médicament peut ___ des effets secondaires indésirables.",
+        "a": "provoquer",
+        "en": "This medication can cause undesirable side effects.",
+        "alts": []
+      },
+      {
+        "slot": "s|2",
+        "f": "sense",
+        "s": "Il ___ ses adversaires avant le match pour les déstabiliser.",
+        "a": "provoque",
+        "en": "He taunts his opponents before the match to unsettle them.",
+        "alts": []
+      },
+      {
+        "slot": "s|2",
+        "f": "sense",
+        "s": "Ces militants ___ délibérément les forces de l'ordre lors des manifestations.",
+        "a": "provoquent",
+        "en": "These activists deliberately taunt the security forces during demonstrations.",
+        "alts": []
+      }
+    ]
+  },
+  {
+    "id": 1096,
+    "qs": [
+      {
+        "slot": "s|0",
+        "f": "sense",
+        "s": "Ce magasin spécialisé réalise un chiffre d'affaires important grâce à la ___ de matériel informatique.",
+        "a": "vente",
+        "en": "This specialized store generates significant revenue through the sale (commercial activity) of computer equipment.",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "s|0",
+        "f": "sense",
+        "s": "La ___ en ligne a complètement transformé le commerce traditionnel ces dernières années.",
+        "a": "vente",
+        "en": "Online sales have completely transformed traditional commerce in recent years.",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "s|1",
+        "f": "sense",
+        "s": "Notre voisin a mis sa voiture en ___ après avoir acheté un nouveau modèle.",
+        "a": "vente",
+        "en": "Our neighbor put his car up for sale after buying a new model.",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "s|1",
+        "f": "sense",
+        "s": "Ce tableau rare est en ___ depuis la semaine dernière dans cette galerie.",
+        "a": "vente",
+        "en": "This rare painting has been for sale since last week in this gallery.",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "s|2",
+        "f": "sense",
+        "s": "Les meubles anciens de la maison seront dispersés lors d'une ___ aux enchères samedi prochain.",
+        "a": "vente",
+        "en": "The antique furniture from the house will be dispersed at an auction next Saturday.",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "s|2",
+        "f": "sense",
+        "s": "La ___ de cette collection d'art a attiré des acheteurs du monde entier.",
+        "a": "vente",
+        "en": "The auction of this art collection attracted buyers from around the world.",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "gender",
+        "f": "gender",
+        "s": "Mon directeur a analysé ___ vente de la semaine pour identifier les problèmes.",
+        "a": "la",
+        "en": "My manager analyzed the week's sale to identify the problems.",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "gender",
+        "f": "gender",
+        "s": "Il a organisé ___ grande vente de charité pour aider les associations locales.",
+        "a": "une",
+        "en": "He organized a big charity sale to help local associations.",
+        "alts": [],
+        "form": ""
+      }
+    ]
+  }
+]

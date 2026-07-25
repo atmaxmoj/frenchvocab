@@ -1,0 +1,695 @@
+[
+  {
+    "id": 1604,
+    "qs": [
+      {
+        "slot": "s|0",
+        "f": "sense",
+        "s": "Il fait chaud ici, ouvre la ___ s'il te plaît.",
+        "a": "fenêtre",
+        "en": "It's hot in here, please open the window.",
+        "alts": []
+      },
+      {
+        "slot": "s|0",
+        "f": "sense",
+        "s": "La ___ donnait sur un joli jardin fleuri.",
+        "a": "fenêtre",
+        "en": "The window looked out onto a pretty flower garden.",
+        "alts": []
+      },
+      {
+        "slot": "s|1",
+        "f": "sense",
+        "s": "Fermez toutes les ___ de votre navigateur avant d'éteindre l'ordinateur.",
+        "a": "fenêtres",
+        "en": "Close all the windows of your browser before turning off the computer.",
+        "alts": []
+      },
+      {
+        "slot": "s|1",
+        "f": "sense",
+        "s": "Présentez votre billet à la ___ numéro trois.",
+        "a": "fenêtre",
+        "en": "Present your ticket at window number three.",
+        "alts": []
+      },
+      {
+        "slot": "gender",
+        "f": "gender",
+        "s": "Il y a ___ fenêtre cassée dans cette salle.",
+        "a": "une",
+        "en": "There is a broken window in this room.",
+        "alts": []
+      },
+      {
+        "slot": "gender",
+        "f": "gender",
+        "s": "___ fenêtre de ma chambre est grande ouverte.",
+        "a": "La",
+        "en": "The window of my bedroom is wide open.",
+        "alts": []
+      }
+    ]
+  },
+  {
+    "id": 1605,
+    "qs": [
+      {
+        "slot": "s|0",
+        "f": "sense",
+        "s": "Ne lui confie pas ce projet : il est vraiment ___, il rate tout ce qu'il entreprend.",
+        "a": "incapable",
+        "en": "Don't entrust him with this project: he is truly incompetent, he fails at everything he undertakes.",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "s|0",
+        "f": "sense",
+        "s": "Tout le monde sait qu'il est ___ ; personne ne lui fait confiance au bureau.",
+        "a": "incapable",
+        "en": "Everyone knows he is incompetent; nobody trusts him at the office.",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "s|1",
+        "f": "sense",
+        "s": "Elle s'est révélée ___ de gérer une équipe de cette taille.",
+        "a": "incapable",
+        "en": "She turned out to be incapable of managing a team of this size.",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "s|1",
+        "f": "sense",
+        "s": "Le comité l'a jugé ___ d'assumer les responsabilités du poste.",
+        "a": "incapable",
+        "en": "The committee deemed him incapable of taking on the responsibilities of the position.",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "g|mp",
+        "f": "agree",
+        "s": "Ces deux directeurs se sont montrés ___ de résoudre la crise.",
+        "a": "incapables",
+        "en": "These two directors proved incapable of resolving the crisis.",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "g|mp",
+        "f": "agree",
+        "s": "Les techniciens jugés ___ ont été remplacés immédiatement.",
+        "a": "incapables",
+        "en": "The technicians deemed incompetent were replaced immediately.",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "g|f",
+        "f": "agree",
+        "s": "La nouvelle assistante semble ___ de rédiger un rapport sans aide.",
+        "a": "incapable",
+        "en": "The new assistant seems incapable of writing a report without help.",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "g|f",
+        "f": "agree",
+        "s": "On la considère comme ___ d'assumer ce rôle de leadership.",
+        "a": "incapable",
+        "en": "She is considered incapable of taking on this leadership role.",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "g|fp",
+        "f": "agree",
+        "s": "Ces candidates se sont révélées ___ de répondre aux exigences du poste.",
+        "a": "incapables",
+        "en": "These candidates proved incapable of meeting the requirements of the position.",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "g|fp",
+        "f": "agree",
+        "s": "Les deux secrétaires jugées ___ ont reçu un avertissement de la direction.",
+        "a": "incapables",
+        "en": "The two secretaries deemed incompetent received a warning from management.",
+        "alts": [],
+        "form": ""
+      }
+    ]
+  },
+  {
+    "id": 1606,
+    "qs": [
+      {
+        "slot": "t|Présent|0",
+        "f": "tense",
+        "s": "Je n'___ pas à te dire la vérité.",
+        "a": "hésite",
+        "en": "I don't hesitate to tell you the truth.",
+        "alts": [],
+        "form": "Présent"
+      },
+      {
+        "slot": "t|Présent|0",
+        "f": "tense",
+        "s": "Mon patron ___ avant de prendre une décision importante.",
+        "a": "hésite",
+        "en": "My boss hesitates before making an important decision.",
+        "alts": [],
+        "form": "Présent"
+      },
+      {
+        "slot": "t|Présent|1",
+        "f": "tense",
+        "s": "Tu ___ encore entre ces deux offres d'emploi ?",
+        "a": "hésites",
+        "en": "Are you still hesitating between these two job offers?",
+        "alts": [],
+        "form": "Présent"
+      },
+      {
+        "slot": "t|Présent|1",
+        "f": "tense",
+        "s": "Pourquoi tu ___ à appeler le médecin ?",
+        "a": "hésites",
+        "en": "Why do you hesitate to call the doctor?",
+        "alts": [],
+        "form": "Présent"
+      },
+      {
+        "slot": "t|Présent|2",
+        "f": "tense",
+        "s": "Nous ___ encore sur le choix du restaurant ce soir.",
+        "a": "hésitons",
+        "en": "We are still hesitating over the choice of restaurant tonight.",
+        "alts": [],
+        "form": "Présent"
+      },
+      {
+        "slot": "t|Présent|2",
+        "f": "tense",
+        "s": "Nous n'___ pas à vous aider si vous en avez besoin.",
+        "a": "hésitons",
+        "en": "We don't hesitate to help you if you need it.",
+        "alts": [],
+        "form": "Présent"
+      },
+      {
+        "slot": "t|Présent|3",
+        "f": "tense",
+        "s": "Vous ___ à poser des questions, n'est-ce pas ?",
+        "a": "hésitez",
+        "en": "You hesitate to ask questions, don't you?",
+        "alts": [],
+        "form": "Présent"
+      },
+      {
+        "slot": "t|Présent|3",
+        "f": "tense",
+        "s": "N'___ pas à me contacter si vous avez un problème.",
+        "a": "hésitez",
+        "en": "Don't hesitate to contact me if you have a problem.",
+        "alts": [],
+        "form": "Présent"
+      },
+      {
+        "slot": "t|Présent|4",
+        "f": "tense",
+        "s": "Mes collègues ___ à prendre la parole en réunion.",
+        "a": "hésitent",
+        "en": "My colleagues hesitate to speak up in meetings.",
+        "alts": [],
+        "form": "Présent"
+      },
+      {
+        "slot": "t|Présent|4",
+        "f": "tense",
+        "s": "Les clients ___ encore entre les deux modèles.",
+        "a": "hésitent",
+        "en": "The customers are still hesitating between the two models.",
+        "alts": [],
+        "form": "Présent"
+      },
+      {
+        "slot": "t|Passé composé|0",
+        "f": "tense",
+        "s": "J'___ un moment avant de répondre à sa question.",
+        "a": "ai hésité",
+        "en": "I hesitated for a moment before answering his question.",
+        "alts": [],
+        "form": "Passé composé"
+      },
+      {
+        "slot": "t|Passé composé|0",
+        "f": "tense",
+        "s": "J'___ à accepter cette proposition inattendue.",
+        "a": "ai hésité",
+        "en": "I hesitated to accept this unexpected offer.",
+        "alts": [],
+        "form": "Passé composé"
+      },
+      {
+        "slot": "t|Passé composé|1",
+        "f": "tense",
+        "s": "Tu ___ longtemps avant de choisir ta carrière.",
+        "a": "as hésité",
+        "en": "You hesitated for a long time before choosing your career.",
+        "alts": [],
+        "form": "Passé composé"
+      },
+      {
+        "slot": "t|Passé composé|1",
+        "f": "tense",
+        "s": "Est-ce que tu ___ à lui annoncer la nouvelle ?",
+        "a": "as hésité",
+        "en": "Did you hesitate to tell him the news?",
+        "alts": [],
+        "form": "Passé composé"
+      },
+      {
+        "slot": "t|Passé composé|2",
+        "f": "tense",
+        "s": "Le médecin ___ avant de poser son diagnostic.",
+        "a": "a hésité",
+        "en": "The doctor hesitated before making his diagnosis.",
+        "alts": [],
+        "form": "Passé composé"
+      },
+      {
+        "slot": "t|Passé composé|2",
+        "f": "tense",
+        "s": "Elle ___ à traverser la rue à cause du trafic dense.",
+        "a": "a hésité",
+        "en": "She hesitated to cross the street because of the heavy traffic.",
+        "alts": [],
+        "form": "Passé composé"
+      },
+      {
+        "slot": "t|Passé composé|3",
+        "f": "tense",
+        "s": "Nous ___ avant de signer le contrat.",
+        "a": "avons hésité",
+        "en": "We hesitated before signing the contract.",
+        "alts": [],
+        "form": "Passé composé"
+      },
+      {
+        "slot": "t|Passé composé|3",
+        "f": "tense",
+        "s": "Nous ___ à leur demander de l'aide.",
+        "a": "avons hésité",
+        "en": "We hesitated to ask them for help.",
+        "alts": [],
+        "form": "Passé composé"
+      },
+      {
+        "slot": "t|Passé composé|4",
+        "f": "tense",
+        "s": "Vous ___ à investir dans ce projet risqué.",
+        "a": "avez hésité",
+        "en": "You hesitated to invest in this risky project.",
+        "alts": [],
+        "form": "Passé composé"
+      },
+      {
+        "slot": "t|Passé composé|4",
+        "f": "tense",
+        "s": "Avez-vous ___ à accepter cette invitation ?",
+        "a": "hésité",
+        "en": "Did you hesitate to accept this invitation?",
+        "alts": [],
+        "form": "Passé composé"
+      },
+      {
+        "slot": "t|Passé composé|5",
+        "f": "tense",
+        "s": "Les juges ___ avant de rendre leur verdict.",
+        "a": "ont hésité",
+        "en": "The judges hesitated before delivering their verdict.",
+        "alts": [],
+        "form": "Passé composé"
+      },
+      {
+        "slot": "t|Passé composé|5",
+        "f": "tense",
+        "s": "Elles ___ à quitter leur ville natale.",
+        "a": "ont hésité",
+        "en": "They hesitated to leave their hometown.",
+        "alts": [],
+        "form": "Passé composé"
+      },
+      {
+        "slot": "t|Imparfait|0",
+        "f": "tense",
+        "s": "Quand j'étais jeune, j'___ toujours à parler devant la classe.",
+        "a": "hésitais",
+        "en": "When I was young, I always hesitated to speak in front of the class.",
+        "alts": [],
+        "form": "Imparfait"
+      },
+      {
+        "slot": "t|Imparfait|0",
+        "f": "tense",
+        "s": "Tu ___ souvent à donner ton avis lors des discussions.",
+        "a": "hésitais",
+        "en": "You often hesitated to give your opinion during discussions.",
+        "alts": [],
+        "form": "Imparfait"
+      },
+      {
+        "slot": "t|Imparfait|1",
+        "f": "tense",
+        "s": "Mon père ___ avant d'acheter quelque chose de cher.",
+        "a": "hésitait",
+        "en": "My father used to hesitate before buying something expensive.",
+        "alts": [],
+        "form": "Imparfait"
+      },
+      {
+        "slot": "t|Imparfait|1",
+        "f": "tense",
+        "s": "Elle ___ à parler de ses problèmes personnels.",
+        "a": "hésitait",
+        "en": "She used to hesitate to talk about her personal problems.",
+        "alts": [],
+        "form": "Imparfait"
+      },
+      {
+        "slot": "t|Imparfait|2",
+        "f": "tense",
+        "s": "Nous ___ à prendre des risques à l'époque.",
+        "a": "hésitions",
+        "en": "We used to hesitate to take risks back then.",
+        "alts": [],
+        "form": "Imparfait"
+      },
+      {
+        "slot": "t|Imparfait|2",
+        "f": "tense",
+        "s": "Nous ___ toujours entre le bleu et le vert pour la décoration.",
+        "a": "hésitions",
+        "en": "We always hesitated between blue and green for the decoration.",
+        "alts": [],
+        "form": "Imparfait"
+      },
+      {
+        "slot": "t|Imparfait|3",
+        "f": "tense",
+        "s": "Vous ___ à critiquer les décisions de votre supérieur.",
+        "a": "hésitiez",
+        "en": "You used to hesitate to criticize your superior's decisions.",
+        "alts": [],
+        "form": "Imparfait"
+      },
+      {
+        "slot": "t|Imparfait|3",
+        "f": "tense",
+        "s": "Vous ___ souvent avant de répondre à ses messages.",
+        "a": "hésitiez",
+        "en": "You often hesitated before replying to his messages.",
+        "alts": [],
+        "form": "Imparfait"
+      },
+      {
+        "slot": "t|Imparfait|4",
+        "f": "tense",
+        "s": "Les soldats ___ à avancer sans ordres clairs.",
+        "a": "hésitaient",
+        "en": "The soldiers used to hesitate to advance without clear orders.",
+        "alts": [],
+        "form": "Imparfait"
+      },
+      {
+        "slot": "t|Imparfait|4",
+        "f": "tense",
+        "s": "Elles ___ à exprimer leurs émotions en public.",
+        "a": "hésitaient",
+        "en": "They used to hesitate to express their emotions in public.",
+        "alts": [],
+        "form": "Imparfait"
+      },
+      {
+        "slot": "t|Futur|0",
+        "f": "tense",
+        "s": "J'___ à lui dire la vérité si je ne suis pas sûr de ses réactions.",
+        "a": "hésiterai",
+        "en": "I will hesitate to tell him the truth if I'm not sure of his reaction.",
+        "alts": [],
+        "form": "Futur"
+      },
+      {
+        "slot": "t|Futur|0",
+        "f": "tense",
+        "s": "Je n'___ pas à recommencer si c'est nécessaire.",
+        "a": "hésiterai",
+        "en": "I will not hesitate to start over if necessary.",
+        "alts": [],
+        "form": "Futur"
+      },
+      {
+        "slot": "t|Futur|1",
+        "f": "tense",
+        "s": "Tu ___ certainement face à cette décision difficile.",
+        "a": "hésiteras",
+        "en": "You will certainly hesitate when faced with this difficult decision.",
+        "alts": [],
+        "form": "Futur"
+      },
+      {
+        "slot": "t|Futur|1",
+        "f": "tense",
+        "s": "Si tu es honnête, tu n'___ pas à avouer ton erreur.",
+        "a": "hésiteras",
+        "en": "If you are honest, you will not hesitate to admit your mistake.",
+        "alts": [],
+        "form": "Futur"
+      },
+      {
+        "slot": "t|Futur|2",
+        "f": "tense",
+        "s": "Le directeur n'___ pas à sanctionner les retards répétés.",
+        "a": "hésitera",
+        "en": "The director will not hesitate to penalize repeated lateness.",
+        "alts": [],
+        "form": "Futur"
+      },
+      {
+        "slot": "t|Futur|2",
+        "f": "tense",
+        "s": "Elle ___ avant d'accepter une offre aussi importante.",
+        "a": "hésitera",
+        "en": "She will hesitate before accepting such an important offer.",
+        "alts": [],
+        "form": "Futur"
+      },
+      {
+        "slot": "t|Futur|3",
+        "f": "tense",
+        "s": "Nous n'___ pas à défendre nos droits.",
+        "a": "hésiterons",
+        "en": "We will not hesitate to defend our rights.",
+        "alts": [],
+        "form": "Futur"
+      },
+      {
+        "slot": "t|Futur|3",
+        "f": "tense",
+        "s": "Nous ___ certainement entre ces deux destinations de voyage.",
+        "a": "hésiterons",
+        "en": "We will certainly hesitate between these two travel destinations.",
+        "alts": [],
+        "form": "Futur"
+      },
+      {
+        "slot": "t|Futur|4",
+        "f": "tense",
+        "s": "Vous n'___ pas à nous appeler en cas de problème, j'espère.",
+        "a": "hésiterez",
+        "en": "You won't hesitate to call us if there's a problem, I hope.",
+        "alts": [],
+        "form": "Futur"
+      },
+      {
+        "slot": "t|Futur|4",
+        "f": "tense",
+        "s": "Vous ___ sans doute avant de changer d'emploi.",
+        "a": "hésiterez",
+        "en": "You will no doubt hesitate before changing jobs.",
+        "alts": [],
+        "form": "Futur"
+      },
+      {
+        "slot": "t|Futur|5",
+        "f": "tense",
+        "s": "Les investisseurs ___ à placer leur argent dans ce secteur instable.",
+        "a": "hésiteront",
+        "en": "Investors will hesitate to put their money in this unstable sector.",
+        "alts": [],
+        "form": "Futur"
+      },
+      {
+        "slot": "t|Futur|5",
+        "f": "tense",
+        "s": "Elles n'___ pas à protester si leurs conditions ne s'améliorent pas.",
+        "a": "hésiteront",
+        "en": "They will not hesitate to protest if their conditions don't improve.",
+        "alts": [],
+        "form": "Futur"
+      },
+      {
+        "slot": "t|Conditionnel|0",
+        "f": "tense",
+        "s": "Si j'avais plus de temps, j'___ moins à prendre cette décision.",
+        "a": "hésiterais",
+        "en": "If I had more time, I would hesitate less to make this decision.",
+        "alts": [],
+        "form": "Conditionnel"
+      },
+      {
+        "slot": "t|Conditionnel|0",
+        "f": "tense",
+        "s": "Si tu connaissais mieux la situation, tu n'___ pas autant.",
+        "a": "hésiterais",
+        "en": "If you knew the situation better, you wouldn't hesitate so much.",
+        "alts": [],
+        "form": "Conditionnel"
+      },
+      {
+        "slot": "t|Conditionnel|1",
+        "f": "tense",
+        "s": "Si elle avait confiance en elle, elle n'___ pas à prendre la parole.",
+        "a": "hésiterait",
+        "en": "If she were more confident, she wouldn't hesitate to speak up.",
+        "alts": [],
+        "form": "Conditionnel"
+      },
+      {
+        "slot": "t|Conditionnel|1",
+        "f": "tense",
+        "s": "Il ___ à partir si on lui proposait un meilleur poste à l'étranger.",
+        "a": "hésiterait",
+        "en": "He would hesitate to leave if offered a better position abroad.",
+        "alts": [],
+        "form": "Conditionnel"
+      },
+      {
+        "slot": "t|Conditionnel|2",
+        "f": "tense",
+        "s": "Nous ___ à accepter une telle offre sans garanties.",
+        "a": "hésiterions",
+        "en": "We would hesitate to accept such an offer without guarantees.",
+        "alts": [],
+        "form": "Conditionnel"
+      },
+      {
+        "slot": "t|Conditionnel|2",
+        "f": "tense",
+        "s": "Si nous étions à votre place, nous ___ avant de signer.",
+        "a": "hésiterions",
+        "en": "If we were in your shoes, we would hesitate before signing.",
+        "alts": [],
+        "form": "Conditionnel"
+      },
+      {
+        "slot": "t|Conditionnel|3",
+        "f": "tense",
+        "s": "Vous ___ sans doute à quitter un emploi aussi stable.",
+        "a": "hésiteriez",
+        "en": "You would no doubt hesitate to leave such a stable job.",
+        "alts": [],
+        "form": "Conditionnel"
+      },
+      {
+        "slot": "t|Conditionnel|3",
+        "f": "tense",
+        "s": "Si vous étiez mieux informés, vous n'___ pas autant.",
+        "a": "hésiteriez",
+        "en": "If you were better informed, you wouldn't hesitate so much.",
+        "alts": [],
+        "form": "Conditionnel"
+      },
+      {
+        "slot": "t|Conditionnel|4",
+        "f": "tense",
+        "s": "Les clients ___ à acheter ce produit si le prix était plus élevé.",
+        "a": "hésiteraient",
+        "en": "Customers would hesitate to buy this product if the price were higher.",
+        "alts": [],
+        "form": "Conditionnel"
+      },
+      {
+        "slot": "t|Conditionnel|4",
+        "f": "tense",
+        "s": "Elles n'___ pas à témoigner si elles avaient des preuves.",
+        "a": "hésiteraient",
+        "en": "They would not hesitate to testify if they had evidence.",
+        "alts": [],
+        "form": "Conditionnel"
+      },
+      {
+        "slot": "t|Subjonctif",
+        "f": "subj",
+        "s": "Il faut que tu ___ moins avant de répondre à ses questions.",
+        "a": "hésites",
+        "en": "You need to hesitate less before answering his questions.",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "t|Subjonctif",
+        "f": "subj",
+        "s": "Je ne veux pas qu'elle ___ à me demander de l'aide.",
+        "a": "hésite",
+        "en": "I don't want her to hesitate to ask me for help.",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "s|0",
+        "f": "sense",
+        "s": "Il ___ longtemps avant de choisir entre les deux candidats.",
+        "a": "hésita",
+        "en": "He hesitated for a long time before choosing between the two candidates.",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "s|0",
+        "f": "sense",
+        "s": "Je ___ souvent quand je dois prendre une décision importante.",
+        "a": "hésite",
+        "en": "I often hesitate when I have to make an important decision.",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "s|1",
+        "f": "sense",
+        "s": "Elle ___ un instant avant de sauter dans la piscine.",
+        "a": "hésita",
+        "en": "She hesitated for a moment before jumping into the pool.",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "s|1",
+        "f": "sense",
+        "s": "Il ___ en entendant la question difficile du professeur.",
+        "a": "hésita",
+        "en": "He faltered upon hearing the teacher's difficult question.",
+        "alts": [],
+        "form": ""
+      }
+    ]
+  }
+]

@@ -1,0 +1,151 @@
+[
+  {
+    "id": 6519,
+    "qs": [
+      {
+        "slot": "s|0",
+        "f": "sense",
+        "s": "Le conducteur roulait ___ sur la route verglacée.",
+        "a": "prudemment",
+        "en": "The driver was driving cautiously on the icy road.",
+        "alts": []
+      },
+      {
+        "slot": "s|0",
+        "f": "sense",
+        "s": "Face à ce client difficile, la vendeuse a répondu ___.",
+        "a": "prudemment",
+        "en": "Faced with this difficult customer, the saleswoman answered cautiously.",
+        "alts": []
+      }
+    ]
+  },
+  {
+    "id": 6520,
+    "qs": [
+      {
+        "slot": "s|0",
+        "f": "sense",
+        "s": "Ce dialogue ___ réunit des représentants de plusieurs secteurs économiques.",
+        "a": "interprofessionnel",
+        "en": "This interprofessional dialogue brings together representatives from several economic sectors.",
+        "alts": []
+      },
+      {
+        "slot": "s|0",
+        "f": "sense",
+        "s": "Un accord ___ a été signé entre les syndicats et le patronat.",
+        "a": "interprofessionnel",
+        "en": "A cross-industry agreement was signed between unions and employers.",
+        "alts": []
+      },
+      {
+        "slot": "g|mp",
+        "f": "agree",
+        "s": "Les accords ___ fixent le salaire minimum pour tous les secteurs.",
+        "a": "interprofessionnels",
+        "en": "Cross-industry agreements set the minimum wage for all sectors.",
+        "alts": []
+      },
+      {
+        "slot": "g|mp",
+        "f": "agree",
+        "s": "Ces comités ___ rassemblent des experts de différents métiers.",
+        "a": "interprofessionnels",
+        "en": "These interprofessional committees bring together experts from different trades.",
+        "alts": []
+      },
+      {
+        "slot": "g|f",
+        "f": "agree",
+        "s": "La commission ___ examine les conditions de travail dans plusieurs branches.",
+        "a": "interprofessionnelle",
+        "en": "The interprofessional commission examines working conditions across several sectors.",
+        "alts": []
+      },
+      {
+        "slot": "g|f",
+        "f": "agree",
+        "s": "Une convention ___ harmonise les règles entre les différentes professions.",
+        "a": "interprofessionnelle",
+        "en": "A cross-industry agreement harmonizes rules between different professions.",
+        "alts": []
+      },
+      {
+        "slot": "g|fp",
+        "f": "agree",
+        "s": "Les conventions ___ couvrent plusieurs secteurs d'activité.",
+        "a": "interprofessionnelles",
+        "en": "The cross-industry agreements cover several sectors of activity.",
+        "alts": []
+      },
+      {
+        "slot": "g|fp",
+        "f": "agree",
+        "s": "Ces négociations ___ concernent tous les métiers du bâtiment.",
+        "a": "interprofessionnelles",
+        "en": "These interprofessional negotiations concern all the trades in construction.",
+        "alts": []
+      }
+    ]
+  },
+  {
+    "id": 6521,
+    "qs": [
+      {
+        "slot": "s|0",
+        "f": "sense",
+        "s": "Après un repas copieux, la ___ peut prendre plusieurs heures.",
+        "a": "digestion",
+        "en": "After a heavy meal, digestion can take several hours.",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "s|0",
+        "f": "sense",
+        "s": "Le médecin lui a conseillé de marcher un peu pour faciliter la ___.",
+        "a": "digestion",
+        "en": "The doctor advised him to walk a bit to aid digestion.",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "s|1",
+        "f": "sense",
+        "s": "La ___ de toutes ces nouvelles données prendra du temps à l'équipe.",
+        "a": "digestion",
+        "en": "The team's digestion of all this new data will take time.",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "s|1",
+        "f": "sense",
+        "s": "Après la conférence, la ___ des informations reçues demande plusieurs jours de réflexion.",
+        "a": "digestion",
+        "en": "After the conference, digesting the information received requires several days of reflection.",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "gender",
+        "f": "gender",
+        "s": "___ digestion humaine dure en moyenne vingt-quatre heures.",
+        "a": "La",
+        "en": "Human digestion lasts on average twenty-four hours.",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "gender",
+        "f": "gender",
+        "s": "Ce plat est difficile à digérer, il provoque toujours ___ digestion lourde.",
+        "a": "une",
+        "en": "This dish is hard to digest, it always causes heavy digestion.",
+        "alts": [],
+        "form": ""
+      }
+    ]
+  }
+]

@@ -1,0 +1,153 @@
+[
+  {
+    "id": 5692,
+    "qs": [
+      {
+        "slot": "s|0",
+        "f": "sense",
+        "s": "Le médecin surveille son rythme ___ après l'opération.",
+        "a": "cardiaque",
+        "en": "The doctor is monitoring his heart rate after the operation.",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "s|0",
+        "f": "sense",
+        "s": "Mon grand-père a fait une crise ___ la semaine dernière.",
+        "a": "cardiaque",
+        "en": "My grandfather had a heart attack last week.",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "g|mp",
+        "f": "agree",
+        "s": "Les patients souffrant de troubles ___ doivent éviter le sel.",
+        "a": "cardiaques",
+        "en": "Patients suffering from heart problems should avoid salt.",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "g|mp",
+        "f": "agree",
+        "s": "Ces malaises ___ inquiètent les médecins.",
+        "a": "cardiaques",
+        "en": "These cardiac discomforts worry the doctors.",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "g|f",
+        "f": "agree",
+        "s": "Elle souffre d'une maladie ___ depuis son enfance.",
+        "a": "cardiaque",
+        "en": "She has been suffering from a heart disease since childhood.",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "g|f",
+        "f": "agree",
+        "s": "Une insuffisance ___ a été diagnostiquée chez le patient.",
+        "a": "cardiaque",
+        "en": "Heart failure was diagnosed in the patient.",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "g|fp",
+        "f": "agree",
+        "s": "Les maladies ___ sont la première cause de mortalité dans ce pays.",
+        "a": "cardiaques",
+        "en": "Heart diseases are the leading cause of death in this country.",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "g|fp",
+        "f": "agree",
+        "s": "Ces femmes ont des insuffisances ___ sévères.",
+        "a": "cardiaques",
+        "en": "These women have severe heart failures.",
+        "alts": [],
+        "form": ""
+      }
+    ]
+  },
+  {
+    "id": 5693,
+    "qs": [
+      {
+        "slot": "s|0",
+        "f": "sense",
+        "s": "Dans cette région des Alpes, l'___ de moutons est une activité traditionnelle transmise depuis des générations.",
+        "a": "élevage",
+        "en": "In this Alpine region, sheep farming is a traditional activity passed down for generations.",
+        "alts": []
+      },
+      {
+        "slot": "s|0",
+        "f": "sense",
+        "s": "Après le décès de son père, il a repris l'___ familial de chevaux en Normandie.",
+        "a": "élevage",
+        "en": "After his father's death, he took over the family horse farm in Normandy.",
+        "alts": []
+      },
+      {
+        "slot": "gender",
+        "f": "gender",
+        "s": "Cet agriculteur dirige ___ élevage de vaches laitières très rentable.",
+        "a": "un",
+        "en": "This farmer runs a very profitable dairy cattle farm.",
+        "alts": []
+      },
+      {
+        "slot": "gender",
+        "f": "gender",
+        "s": "Elle a créé ___ élevage de chèvres biologique dans les montagnes.",
+        "a": "un",
+        "en": "She created an organic goat farm in the mountains.",
+        "alts": []
+      }
+    ]
+  },
+  {
+    "id": 5694,
+    "qs": [
+      {
+        "slot": "s|0",
+        "f": "sense",
+        "s": "Ce ___ en droit vient de décrocher son premier poste d'avocat.",
+        "a": "diplômé",
+        "en": "This law graduate has just landed his first job as a lawyer.",
+        "alts": []
+      },
+      {
+        "slot": "s|0",
+        "f": "sense",
+        "s": "Mon frère est ___ d'une grande école de commerce.",
+        "a": "diplômé",
+        "en": "My brother is a graduate of a prestigious business school.",
+        "alts": []
+      },
+      {
+        "slot": "gender",
+        "f": "gender",
+        "s": "___ diplômé a remercié ses professeurs lors de la remise des diplômes.",
+        "a": "Le",
+        "en": "The graduate thanked his teachers during the diploma ceremony.",
+        "alts": []
+      },
+      {
+        "slot": "gender",
+        "f": "gender",
+        "s": "C'est ___ diplômé brillant, il a obtenu son poste immédiatement.",
+        "a": "un",
+        "en": "He's a brilliant graduate; he got his job immediately.",
+        "alts": []
+      }
+    ]
+  }
+]

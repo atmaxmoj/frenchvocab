@@ -1,0 +1,215 @@
+[
+  {
+    "id": 422,
+    "qs": [
+      {
+        "slot": "s|0",
+        "f": "sense",
+        "s": "Le dîner est ___, on peut passer à table.",
+        "en": "Dinner is ready, we can sit down at the table.",
+        "a": "prêt",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "s|0",
+        "f": "sense",
+        "s": "Mon rapport est enfin ___ ; je vais l'envoyer maintenant.",
+        "en": "My report is finally ready; I'm going to send it now.",
+        "a": "prêt",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "s|1",
+        "f": "sense",
+        "s": "Il est ___ à tout faire pour retrouver son passeport.",
+        "en": "He is willing to do anything to find his passport again.",
+        "a": "prêt",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "s|1",
+        "f": "sense",
+        "s": "Mon frère est ___ à m'aider à déménager ce week-end.",
+        "en": "My brother is willing to help me move this weekend.",
+        "a": "prêt",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "gender",
+        "f": "gender",
+        "s": "La banque lui a accordé ___ prêt immobilier à taux fixe.",
+        "en": "The bank granted him a fixed-rate mortgage loan.",
+        "a": "un",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "gender",
+        "f": "gender",
+        "s": "Il a remboursé ___ prêt en cinq ans.",
+        "en": "He paid off the loan in five years.",
+        "a": "le",
+        "alts": [],
+        "form": ""
+      }
+    ]
+  },
+  {
+    "id": 423,
+    "qs": [
+      {
+        "slot": "s|0",
+        "f": "sense",
+        "s": "C'est une excellente ___ de pratiquer ton français.",
+        "en": "It's an excellent opportunity to practice your French.",
+        "a": "occasion",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "s|0",
+        "f": "sense",
+        "s": "Il a saisi cette ___ pour montrer ses talents.",
+        "en": "He seized this chance to show his talents.",
+        "a": "occasion",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "s|1",
+        "f": "sense",
+        "s": "Un mariage est une ___ solennelle qui mérite une belle célébration.",
+        "en": "A wedding is a solemn occasion that deserves a fine celebration.",
+        "a": "occasion",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "s|1",
+        "f": "sense",
+        "s": "Elle porte toujours une tenue formelle pour les grandes ___.",
+        "en": "She always wears formal attire for important occasions.",
+        "a": "occasions",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "s|2",
+        "f": "sense",
+        "s": "J'ai acheté cette voiture d'___ à un très bon prix.",
+        "en": "I bought this second-hand car at a very good price.",
+        "a": "occasion",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "s|2",
+        "f": "sense",
+        "s": "Ce magasin vend des livres d'___ en bon état.",
+        "en": "This shop sells second-hand books in good condition.",
+        "a": "occasion",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "gender",
+        "f": "gender",
+        "s": "C'est ___ occasion rare de visiter ce musée.",
+        "en": "It's a rare opportunity to visit this museum.",
+        "a": "une",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "gender",
+        "f": "gender",
+        "s": "Il a profité de ___ occasion pour lui parler en privé.",
+        "en": "He took advantage of the opportunity to speak to her in private.",
+        "a": "l'",
+        "alts": [],
+        "form": ""
+      }
+    ]
+  },
+  {
+    "id": 424,
+    "qs": [
+      {
+        "slot": "s|0",
+        "f": "sense",
+        "s": "Ce ___ siège à l'Assemblée nationale et vote les lois au nom de ses électeurs.",
+        "en": "This deputy sits in the National Assembly and votes on laws on behalf of his constituents.",
+        "a": "député",
+        "alts": ["parlementaire"],
+        "form": ""
+      },
+      {
+        "slot": "s|0",
+        "f": "sense",
+        "s": "Le ___ a interpellé le ministre sur la hausse du chômage dans sa circonscription.",
+        "en": "The deputy questioned the minister about the rise in unemployment in his constituency.",
+        "a": "député",
+        "alts": ["parlementaire"],
+        "form": ""
+      },
+      {
+        "slot": "s|1",
+        "f": "sense",
+        "s": "Le syndicat a désigné un ___ pour porter leurs demandes devant la direction.",
+        "en": "The union designated a representative to present their demands to the management.",
+        "a": "député",
+        "alts": ["délégué", "représentant"],
+        "form": ""
+      },
+      {
+        "slot": "s|1",
+        "f": "sense",
+        "s": "En tant que ___ des salariés, il a défendu leurs intérêts lors des négociations.",
+        "en": "As a representative of the employees, he defended their interests during the negotiations.",
+        "a": "député",
+        "alts": ["délégué", "représentant"],
+        "form": ""
+      },
+      {
+        "slot": "s|2",
+        "f": "sense",
+        "s": "Sous la Révolution, un ___ en mission fut envoyé dans chaque département pour y appliquer les décrets de la Convention.",
+        "en": "During the Revolution, a deputy on mission was sent to each department to enforce the decrees of the Convention.",
+        "a": "député",
+        "alts": ["envoyé"],
+        "form": ""
+      },
+      {
+        "slot": "s|2",
+        "f": "sense",
+        "s": "La Convention nationale a dépêché un ___ en mission dans les villes rebelles pour rétablir l'autorité républicaine.",
+        "en": "The National Convention dispatched a deputy on mission to the rebel cities to restore republican authority.",
+        "a": "député",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "gender",
+        "f": "gender",
+        "s": "___ député de cette région est très actif lors des débats parlementaires.",
+        "en": "The deputy of this region is very active during parliamentary debates.",
+        "a": "Le",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "gender",
+        "f": "gender",
+        "s": "Son père était ___ député respecté qui a siégé pendant vingt ans à l'Assemblée nationale.",
+        "en": "His father was a respected deputy who served for twenty years in the National Assembly.",
+        "a": "un",
+        "alts": [],
+        "form": ""
+      }
+    ]
+  }
+]

@@ -1,0 +1,773 @@
+[
+  {
+    "id": 1660,
+    "qs": [
+      {
+        "slot": "s|0",
+        "f": "sense",
+        "s": "Le professeur a donné un exemple ___ pour expliquer le concept.",
+        "a": "concret",
+        "en": "The teacher gave a concrete example to explain the concept.",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "s|0",
+        "f": "sense",
+        "s": "Il faut illustrer cette théorie par un cas ___ .",
+        "a": "concret",
+        "en": "We need to illustrate this theory with a concrete case.",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "s|1",
+        "f": "sense",
+        "s": "Il cherche des résultats ___ et mesurables dans son travail.",
+        "a": "concrets",
+        "en": "He is looking for real, measurable results in his work.",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "s|1",
+        "f": "sense",
+        "s": "Cette politique a eu un impact ___ sur la vie des citoyens.",
+        "a": "concret",
+        "en": "This policy had a real impact on citizens' lives.",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "s|2",
+        "f": "sense",
+        "s": "L'argent est un bien ___ , contrairement à la réputation.",
+        "a": "concret",
+        "en": "Money is a tangible asset, unlike reputation.",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "s|2",
+        "f": "sense",
+        "s": "Les objets ___ peuvent être touchés et vus.",
+        "a": "concrets",
+        "en": "Tangible objects can be touched and seen.",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "g|mp",
+        "f": "agree",
+        "s": "Ces exemples sont très ___ et faciles à comprendre.",
+        "a": "concrets",
+        "en": "These examples are very concrete and easy to understand.",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "g|mp",
+        "f": "agree",
+        "s": "Nous avons fixé des objectifs ___ pour ce trimestre.",
+        "a": "concrets",
+        "en": "We have set concrete objectives for this quarter.",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "g|f",
+        "f": "agree",
+        "s": "Elle a proposé une solution ___ au problème.",
+        "a": "concrète",
+        "en": "She proposed a concrete solution to the problem.",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "g|f",
+        "f": "agree",
+        "s": "La réforme a eu une conséquence ___ sur l'emploi.",
+        "a": "concrète",
+        "en": "The reform had a concrete consequence on employment.",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "g|fp",
+        "f": "agree",
+        "s": "Les mesures ___ annoncées hier entreront en vigueur la semaine prochaine.",
+        "a": "concrètes",
+        "en": "The concrete measures announced yesterday will come into effect next week.",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "g|fp",
+        "f": "agree",
+        "s": "Les autorités ont pris des décisions ___ pour améliorer la sécurité.",
+        "a": "concrètes",
+        "en": "The authorities made concrete decisions to improve safety.",
+        "alts": [],
+        "form": ""
+      }
+    ]
+  },
+  {
+    "id": 1661,
+    "qs": [
+      {
+        "slot": "t|Présent|0",
+        "f": "tense",
+        "s": "Je ___ une légère odeur de rose dans cette pièce.",
+        "a": "perçois",
+        "en": "I perceive a slight smell of rose in this room.",
+        "alts": [],
+        "form": "Présent"
+      },
+      {
+        "slot": "t|Présent|0",
+        "f": "tense",
+        "s": "Tu ___ clairement les nuances de ce tableau.",
+        "a": "perçois",
+        "en": "You clearly perceive the nuances of this painting.",
+        "alts": [],
+        "form": "Présent"
+      },
+      {
+        "slot": "t|Présent|1",
+        "f": "tense",
+        "s": "Elle ___ un changement dans l'attitude de son collègue.",
+        "a": "perçoit",
+        "en": "She perceives a change in her colleague's attitude.",
+        "alts": [],
+        "form": "Présent"
+      },
+      {
+        "slot": "t|Présent|1",
+        "f": "tense",
+        "s": "Mon chat ___ les vibrations du sol avant un séisme.",
+        "a": "perçoit",
+        "en": "My cat perceives the vibrations of the ground before an earthquake.",
+        "alts": [],
+        "form": "Présent"
+      },
+      {
+        "slot": "t|Présent|2",
+        "f": "tense",
+        "s": "Nous ___ un léger changement de température dans cette salle.",
+        "a": "percevons",
+        "en": "We perceive a slight change in temperature in this room.",
+        "alts": [],
+        "form": "Présent"
+      },
+      {
+        "slot": "t|Présent|2",
+        "f": "tense",
+        "s": "Nous ___ encore les différences culturelles entre nos deux équipes.",
+        "a": "percevons",
+        "en": "We still perceive the cultural differences between our two teams.",
+        "alts": [],
+        "form": "Présent"
+      },
+      {
+        "slot": "t|Présent|3",
+        "f": "tense",
+        "s": "Vous ___ souvent des détails que les autres ignorent.",
+        "a": "percevez",
+        "en": "You often perceive details that others overlook.",
+        "alts": [],
+        "form": "Présent"
+      },
+      {
+        "slot": "t|Présent|3",
+        "f": "tense",
+        "s": "Comment ___ vous la situation actuelle dans l'entreprise ?",
+        "a": "percevez",
+        "en": "How do you perceive the current situation in the company?",
+        "alts": [],
+        "form": "Présent"
+      },
+      {
+        "slot": "t|Présent|4",
+        "f": "tense",
+        "s": "Ces artistes ___ la beauté dans les choses les plus ordinaires.",
+        "a": "perçoivent",
+        "en": "These artists perceive beauty in the most ordinary things.",
+        "alts": [],
+        "form": "Présent"
+      },
+      {
+        "slot": "t|Présent|4",
+        "f": "tense",
+        "s": "Les enfants ___ les émotions des adultes avec une grande sensibilité.",
+        "a": "perçoivent",
+        "en": "Children perceive adults' emotions with great sensitivity.",
+        "alts": [],
+        "form": "Présent"
+      },
+      {
+        "slot": "t|Passé composé|0",
+        "f": "tense",
+        "s": "J'___ une hésitation dans sa voix quand il a répondu.",
+        "a": "ai perçu",
+        "en": "I noticed a hesitation in his voice when he answered.",
+        "alts": [],
+        "form": "Passé composé"
+      },
+      {
+        "slot": "t|Passé composé|0",
+        "f": "tense",
+        "s": "Hier soir, j'___ une odeur étrange dans le couloir.",
+        "a": "ai perçu",
+        "en": "Last night, I perceived a strange smell in the hallway.",
+        "alts": [],
+        "form": "Passé composé"
+      },
+      {
+        "slot": "t|Passé composé|1",
+        "f": "tense",
+        "s": "Tu ___ le danger à temps et tu as pu éviter l'accident.",
+        "a": "as perçu",
+        "en": "You perceived the danger in time and were able to avoid the accident.",
+        "alts": [],
+        "form": "Passé composé"
+      },
+      {
+        "slot": "t|Passé composé|1",
+        "f": "tense",
+        "s": "Tu ___ une vibration sous tes pieds juste avant l'explosion.",
+        "a": "as perçu",
+        "en": "You perceived a vibration under your feet just before the explosion.",
+        "alts": [],
+        "form": "Passé composé"
+      },
+      {
+        "slot": "t|Passé composé|2",
+        "f": "tense",
+        "s": "La directrice ___ immédiatement la tension entre les deux employés.",
+        "a": "a perçu",
+        "en": "The director immediately perceived the tension between the two employees.",
+        "alts": [],
+        "form": "Passé composé"
+      },
+      {
+        "slot": "t|Passé composé|2",
+        "f": "tense",
+        "s": "Le médecin ___ un léger souffle au cœur lors de l'examen.",
+        "a": "a perçu",
+        "en": "The doctor perceived a slight heart murmur during the examination.",
+        "alts": [],
+        "form": "Passé composé"
+      },
+      {
+        "slot": "t|Passé composé|3",
+        "f": "tense",
+        "s": "Nous ___ un léger tremblement de sol ce matin-là.",
+        "a": "avons perçu",
+        "en": "We perceived a slight ground tremor that morning.",
+        "alts": [],
+        "form": "Passé composé"
+      },
+      {
+        "slot": "t|Passé composé|3",
+        "f": "tense",
+        "s": "Nous ___ très clairement l'ironie dans ses propos.",
+        "a": "avons perçu",
+        "en": "We very clearly perceived the irony in his remarks.",
+        "alts": [],
+        "form": "Passé composé"
+      },
+      {
+        "slot": "t|Passé composé|4",
+        "f": "tense",
+        "s": "Vous ___ enfin la gravité de la situation lors de cette réunion.",
+        "a": "avez perçu",
+        "en": "You finally perceived the seriousness of the situation during that meeting.",
+        "alts": [],
+        "form": "Passé composé"
+      },
+      {
+        "slot": "t|Passé composé|4",
+        "f": "tense",
+        "s": "Vous ___ un bruit suspect en entrant dans la maison.",
+        "a": "avez perçu",
+        "en": "You perceived a suspicious noise when entering the house.",
+        "alts": [],
+        "form": "Passé composé"
+      },
+      {
+        "slot": "t|Passé composé|5",
+        "f": "tense",
+        "s": "Les habitants ___ le tremblement de terre dès les premières secondes.",
+        "a": "ont perçu",
+        "en": "The inhabitants perceived the earthquake from the very first seconds.",
+        "alts": [],
+        "form": "Passé composé"
+      },
+      {
+        "slot": "t|Passé composé|5",
+        "f": "tense",
+        "s": "Mes amis ___ ma déception malgré mon sourire.",
+        "a": "ont perçu",
+        "en": "My friends perceived my disappointment despite my smile.",
+        "alts": [],
+        "form": "Passé composé"
+      },
+      {
+        "slot": "t|Imparfait|0",
+        "f": "tense",
+        "s": "Enfant, je ___ toujours les bruits nocturnes avec une grande acuité.",
+        "a": "percevais",
+        "en": "As a child, I always perceived nighttime noises with great acuity.",
+        "alts": [],
+        "form": "Imparfait"
+      },
+      {
+        "slot": "t|Imparfait|0",
+        "f": "tense",
+        "s": "Tu ___ déjà la fatigue sur son visage quand il est entré.",
+        "a": "percevais",
+        "en": "You were already noticing the fatigue on his face when he entered.",
+        "alts": [],
+        "form": "Imparfait"
+      },
+      {
+        "slot": "t|Imparfait|1",
+        "f": "tense",
+        "s": "Le vieux chien ___ encore les sons lointains malgré son âge.",
+        "a": "percevait",
+        "en": "The old dog still perceived distant sounds despite his age.",
+        "alts": [],
+        "form": "Imparfait"
+      },
+      {
+        "slot": "t|Imparfait|1",
+        "f": "tense",
+        "s": "L'artiste ___ des couleurs que les autres ne voyaient pas.",
+        "a": "percevait",
+        "en": "The artist perceived colors that others did not see.",
+        "alts": [],
+        "form": "Imparfait"
+      },
+      {
+        "slot": "t|Imparfait|2",
+        "f": "tense",
+        "s": "Nous ___ mal le sens de ce poème à l'époque.",
+        "a": "percevions",
+        "en": "We poorly grasped the meaning of this poem at the time.",
+        "alts": [],
+        "form": "Imparfait"
+      },
+      {
+        "slot": "t|Imparfait|2",
+        "f": "tense",
+        "s": "Nous ___ une légère hostilité dans le groupe dès le début.",
+        "a": "percevions",
+        "en": "We were sensing a slight hostility in the group from the start.",
+        "alts": [],
+        "form": "Imparfait"
+      },
+      {
+        "slot": "t|Imparfait|3",
+        "f": "tense",
+        "s": "Vous ___ difficilement les nuances de la langue à vos débuts.",
+        "a": "perceviez",
+        "en": "You could barely perceive the nuances of the language at the beginning.",
+        "alts": [],
+        "form": "Imparfait"
+      },
+      {
+        "slot": "t|Imparfait|3",
+        "f": "tense",
+        "s": "Vous ___ toujours les signaux de mécontentement avant les autres.",
+        "a": "perceviez",
+        "en": "You always perceived the signals of discontent before the others.",
+        "alts": [],
+        "form": "Imparfait"
+      },
+      {
+        "slot": "t|Imparfait|4",
+        "f": "tense",
+        "s": "Les musiciens ___ chaque fausse note dans la salle.",
+        "a": "percevaient",
+        "en": "The musicians perceived every false note in the hall.",
+        "alts": [],
+        "form": "Imparfait"
+      },
+      {
+        "slot": "t|Imparfait|4",
+        "f": "tense",
+        "s": "Les habitants ___ encore le danger bien après la fin de l'alerte.",
+        "a": "percevaient",
+        "en": "The inhabitants were still sensing the danger long after the alert ended.",
+        "alts": [],
+        "form": "Imparfait"
+      },
+      {
+        "slot": "t|Futur|0",
+        "f": "tense",
+        "s": "Avec de l'entraînement, je ___ mieux les tonalités musicales.",
+        "a": "percevrai",
+        "en": "With training, I will perceive musical tones better.",
+        "alts": [],
+        "form": "Futur"
+      },
+      {
+        "slot": "t|Futur|0",
+        "f": "tense",
+        "s": "Dès mon arrivée, je ___ certainement l'ambiance particulière de ce lieu.",
+        "a": "percevrai",
+        "en": "As soon as I arrive, I will certainly perceive the particular atmosphere of this place.",
+        "alts": [],
+        "form": "Futur"
+      },
+      {
+        "slot": "t|Futur|1",
+        "f": "tense",
+        "s": "Tu ___ la différence dès que tu auras lu les deux textes.",
+        "a": "percevras",
+        "en": "You will perceive the difference as soon as you have read both texts.",
+        "alts": [],
+        "form": "Futur"
+      },
+      {
+        "slot": "t|Futur|1",
+        "f": "tense",
+        "s": "Tu ___ les bienfaits de ce traitement dans quelques semaines.",
+        "a": "percevras",
+        "en": "You will perceive the benefits of this treatment in a few weeks.",
+        "alts": [],
+        "form": "Futur"
+      },
+      {
+        "slot": "t|Futur|2",
+        "f": "tense",
+        "s": "L'expert ___ rapidement les incohérences dans ce rapport.",
+        "a": "percevra",
+        "en": "The expert will quickly perceive the inconsistencies in this report.",
+        "alts": [],
+        "form": "Futur"
+      },
+      {
+        "slot": "t|Futur|2",
+        "f": "tense",
+        "s": "Elle ___ bientôt l'importance de cette décision.",
+        "a": "percevra",
+        "en": "She will soon perceive the importance of this decision.",
+        "alts": [],
+        "form": "Futur"
+      },
+      {
+        "slot": "t|Futur|3",
+        "f": "tense",
+        "s": "Nous ___ mieux la complexité de ce problème après la conférence.",
+        "a": "percevrons",
+        "en": "We will better perceive the complexity of this problem after the conference.",
+        "alts": [],
+        "form": "Futur"
+      },
+      {
+        "slot": "t|Futur|3",
+        "f": "tense",
+        "s": "Nous ___ enfin les résultats de nos efforts dans six mois.",
+        "a": "percevrons",
+        "en": "We will finally perceive the results of our efforts in six months.",
+        "alts": [],
+        "form": "Futur"
+      },
+      {
+        "slot": "t|Futur|4",
+        "f": "tense",
+        "s": "Vous ___ les améliorations dès les premiers jours d'utilisation.",
+        "a": "percevrez",
+        "en": "You will perceive the improvements from the very first days of use.",
+        "alts": [],
+        "form": "Futur"
+      },
+      {
+        "slot": "t|Futur|4",
+        "f": "tense",
+        "s": "Vous ___ un changement notable dans votre niveau d'énergie.",
+        "a": "percevrez",
+        "en": "You will perceive a notable change in your energy level.",
+        "alts": [],
+        "form": "Futur"
+      },
+      {
+        "slot": "t|Futur|5",
+        "f": "tense",
+        "s": "Les futurs ingénieurs ___ les enjeux environnementaux différemment.",
+        "a": "percevront",
+        "en": "Future engineers will perceive environmental issues differently.",
+        "alts": [],
+        "form": "Futur"
+      },
+      {
+        "slot": "t|Futur|5",
+        "f": "tense",
+        "s": "Tes parents ___ vite ton manque d'enthousiasme.",
+        "a": "percevront",
+        "en": "Your parents will quickly perceive your lack of enthusiasm.",
+        "alts": [],
+        "form": "Futur"
+      },
+      {
+        "slot": "t|Conditionnel|0",
+        "f": "tense",
+        "s": "Si j'avais de meilleures oreilles, je ___ ces sons aigus.",
+        "a": "percevrais",
+        "en": "If I had better ears, I would perceive those high-pitched sounds.",
+        "alts": [],
+        "form": "Conditionnel"
+      },
+      {
+        "slot": "t|Conditionnel|0",
+        "f": "tense",
+        "s": "Si tu étais plus attentif, tu ___ les signaux d'alarme plus tôt.",
+        "a": "percevrais",
+        "en": "If you were more attentive, you would perceive the warning signals sooner.",
+        "alts": [],
+        "form": "Conditionnel"
+      },
+      {
+        "slot": "t|Conditionnel|1",
+        "f": "tense",
+        "s": "Si elle lisait davantage, elle ___ mieux les nuances du texte.",
+        "a": "percevrait",
+        "en": "If she read more, she would perceive the nuances of the text better.",
+        "alts": [],
+        "form": "Conditionnel"
+      },
+      {
+        "slot": "t|Conditionnel|1",
+        "f": "tense",
+        "s": "Si cet appareil était plus sensible, il ___ des variations infimes de pression.",
+        "a": "percevrait",
+        "en": "If this device were more sensitive, it would perceive minute variations in pressure.",
+        "alts": [],
+        "form": "Conditionnel"
+      },
+      {
+        "slot": "t|Conditionnel|2",
+        "f": "tense",
+        "s": "Si nous étions plus concentrés, nous ___ les subtilités du discours.",
+        "a": "percevrions",
+        "en": "If we were more focused, we would perceive the subtleties of the speech.",
+        "alts": [],
+        "form": "Conditionnel"
+      },
+      {
+        "slot": "t|Conditionnel|2",
+        "f": "tense",
+        "s": "Avec une meilleure formation, nous ___ ces erreurs plus facilement.",
+        "a": "percevrions",
+        "en": "With better training, we would perceive these errors more easily.",
+        "alts": [],
+        "form": "Conditionnel"
+      },
+      {
+        "slot": "t|Conditionnel|3",
+        "f": "tense",
+        "s": "Si vous étiez moins distraits, vous ___ la fatigue dans sa voix.",
+        "a": "percevriez",
+        "en": "If you were less distracted, you would perceive the fatigue in his voice.",
+        "alts": [],
+        "form": "Conditionnel"
+      },
+      {
+        "slot": "t|Conditionnel|3",
+        "f": "tense",
+        "s": "Avec plus d'expérience, vous ___ les difficultés à venir bien plus tôt.",
+        "a": "percevriez",
+        "en": "With more experience, you would perceive the coming difficulties much sooner.",
+        "alts": [],
+        "form": "Conditionnel"
+      },
+      {
+        "slot": "t|Conditionnel|4",
+        "f": "tense",
+        "s": "Si ces capteurs étaient plus précis, ils ___ les plus petites vibrations.",
+        "a": "percevraient",
+        "en": "If these sensors were more precise, they would perceive the smallest vibrations.",
+        "alts": [],
+        "form": "Conditionnel"
+      },
+      {
+        "slot": "t|Conditionnel|4",
+        "f": "tense",
+        "s": "Si elles faisaient plus attention, elles ___ davantage les besoins des élèves.",
+        "a": "percevraient",
+        "en": "If they paid more attention, they would perceive the students' needs more.",
+        "alts": [],
+        "form": "Conditionnel"
+      },
+      {
+        "slot": "t|Subjonctif",
+        "f": "subj",
+        "s": "Il faut que tu ___ les nuances de ce contrat avant de le signer.",
+        "a": "perçoives",
+        "en": "You must perceive the nuances of this contract before signing it.",
+        "alts": [],
+        "form": "Subjonctif présent"
+      },
+      {
+        "slot": "t|Subjonctif",
+        "f": "subj",
+        "s": "Je veux que vous ___ l'urgence de la situation.",
+        "a": "perceviez",
+        "en": "I want you to perceive the urgency of the situation.",
+        "alts": [],
+        "form": "Subjonctif présent"
+      },
+      {
+        "slot": "s|0",
+        "f": "sense",
+        "s": "Les chauves-souris ___ les ultrasons grâce à leur système d'écholocation.",
+        "a": "perçoivent",
+        "en": "Bats perceive ultrasounds through their echolocation system.",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "s|0",
+        "f": "sense",
+        "s": "Je ___ une légère vibration sous mes pieds lorsque le train passe.",
+        "a": "perçois",
+        "en": "I perceive a slight vibration under my feet when the train passes.",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "s|1",
+        "f": "sense",
+        "s": "Elle ___ immédiatement la nervosité dans la voix de son interlocuteur.",
+        "a": "perçoit",
+        "en": "She immediately noticed the nervousness in her interlocutor's voice.",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "s|1",
+        "f": "sense",
+        "s": "Nous ___ un malaise dans l'équipe dès notre arrivée.",
+        "a": "percevons",
+        "en": "We noticed an unease in the team as soon as we arrived.",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "s|2",
+        "f": "sense",
+        "s": "Les étudiants ___ peu à peu la logique qui sous-tend cette théorie.",
+        "a": "perçoivent",
+        "en": "The students gradually grasp the logic underlying this theory.",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "s|2",
+        "f": "sense",
+        "s": "J'ai enfin ___ le sens profond de ce poème après plusieurs lectures.",
+        "a": "perçu",
+        "en": "I finally grasped the deep meaning of this poem after several readings.",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "s|3",
+        "f": "sense",
+        "s": "Le fisc ___ des impôts auprès de tous les contribuables chaque année.",
+        "a": "perçoit",
+        "en": "The tax authority collects taxes from all taxpayers every year.",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "s|3",
+        "f": "sense",
+        "s": "L'association ___ des cotisations de ses membres pour financer ses activités.",
+        "a": "perçoit",
+        "en": "The association collects membership fees from its members to fund its activities.",
+        "alts": [],
+        "form": ""
+      }
+    ]
+  },
+  {
+    "id": 1662,
+    "qs": [
+      {
+        "slot": "s|0",
+        "f": "sense",
+        "s": "Les enfants frappent dans leurs mains en suivant le ___ de la musique.",
+        "a": "rythme",
+        "en": "The children clap their hands following the rhythm of the music.",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "s|0",
+        "f": "sense",
+        "s": "Elle danse avec un ___ parfait, sans jamais se tromper de tempo.",
+        "a": "rythme",
+        "en": "She dances with a perfect rhythm, never missing the tempo.",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "s|1",
+        "f": "sense",
+        "s": "Le ___ de ce poème est très régulier : chaque vers compte douze syllabes.",
+        "a": "rythme",
+        "en": "The prosodic rhythm of this poem is very regular: each line has twelve syllables.",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "s|1",
+        "f": "sense",
+        "s": "L'étudiant analyse le ___ des vers de Racine dans sa dissertation.",
+        "a": "rythme",
+        "en": "The student analyses the verse rhythm of Racine in his essay.",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "s|2",
+        "f": "sense",
+        "s": "Au ___ actuel, nous terminerons ce projet dans trois mois.",
+        "a": "rythme",
+        "en": "At the current rate, we will finish this project in three months.",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "s|2",
+        "f": "sense",
+        "s": "La production augmente au ___ de deux mille unités par semaine.",
+        "a": "rythme",
+        "en": "Production is increasing at a rate of two thousand units per week.",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "gender",
+        "f": "gender",
+        "s": "J'adore ___ rythme de cette chanson.",
+        "a": "le",
+        "en": "I love the rhythm of this song.",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "gender",
+        "f": "gender",
+        "s": "Elle a trouvé ___ rythme qui lui convient pour travailler.",
+        "a": "un",
+        "en": "She found a rhythm that suits her for working.",
+        "alts": [],
+        "form": ""
+      }
+    ]
+  }
+]

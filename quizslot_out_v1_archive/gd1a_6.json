@@ -1,0 +1,24 @@
+[
+  {
+    "id": 49,
+    "qs": [
+      {"slot": "s|0", "f": "sense", "s": "Je suis allé au marché trois ___ cette semaine.", "en": "I went to the market three times this week.", "a": "fois", "alts": []},
+      {"slot": "s|0", "f": "sense", "s": "Combien de ___ as-tu vu ce film ?", "en": "How many times have you seen this film?", "a": "fois", "alts": []},
+      {"slot": "s|1", "f": "sense", "s": "Cette ___, je n'oublierai pas mon parapluie.", "en": "This time, I won't forget my umbrella.", "a": "fois", "alts": []},
+      {"slot": "s|1", "f": "sense", "s": "Il a essayé une dernière ___ avant d'abandonner.", "en": "He tried one last time before giving up.", "a": "fois", "alts": []},
+      {"slot": "s|2", "f": "sense", "s": "Cette salle est deux ___ plus grande que l'ancienne.", "en": "This room is twice as large as the old one.", "a": "fois", "alts": []},
+      {"slot": "s|2", "f": "sense", "s": "Sa voiture coûte trois ___ moins cher que la mienne.", "en": "His car costs three times less than mine.", "a": "fois", "alts": []},
+      {"slot": "gender", "f": "gender", "s": "C'était ___ première fois que je visitais Paris.", "en": "It was the first time I visited Paris.", "a": "la", "alts": []},
+      {"slot": "gender", "f": "gender", "s": "Il voudrait essayer encore ___ fois.", "en": "He would like to try one more time.", "a": "une", "alts": []}
+    ]
+  },
+  {
+    "id": 50,
+    "qs": [
+      {"slot": "s|0", "f": "sense", "s": "Monsieur le directeur, ___ êtes invité à prendre la parole.", "en": "Mr. Director, you are invited to take the floor.", "a": "vous", "alts": []},
+      {"slot": "s|0", "f": "sense", "s": "Madame, ___ pouvez compter sur notre discrétion absolue.", "en": "Madam, you can count on our absolute discretion.", "a": "vous", "alts": []},
+      {"slot": "s|1", "f": "sense", "s": "Les enfants, ___ pouvez sortir jouer dans le jardin.", "en": "Children, you can go out and play in the garden.", "a": "vous", "alts": []},
+      {"slot": "s|1", "f": "sense", "s": "Mes amis, ___ êtes tous les bienvenus à cette fête.", "en": "My friends, you are all welcome at this party.", "a": "vous", "alts": []}
+    ]
+  }
+]

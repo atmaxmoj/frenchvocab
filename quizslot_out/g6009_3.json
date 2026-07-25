@@ -1,0 +1,45 @@
+[
+  {
+    "id": 6504,
+    "qs": [
+      {"slot":"s|0","f":"sense","s":"Ce vase ___ a été façonné à la main par un artisan passionné.","en":"This ___ vase was shaped by hand by a passionate craftsman.","a":"artisanal","alts":[]},
+      {"slot":"s|0","f":"sense","s":"Ce tapis ___ est tissé à la main par des artisans locaux.","en":"This ___ rug is woven by hand by local craftsmen.","a":"artisanal","alts":[]},
+      {"slot":"s|1","f":"sense","s":"Ce fromage est fabriqué dans un atelier ___, à petite échelle, loin des grandes usines industrielles.","en":"This cheese is made in an ___ workshop, on a small scale, far from big industrial factories.","a":"artisanal","alts":[]},
+      {"slot":"s|1","f":"sense","s":"Ce savon est fabriqué selon un procédé ___, à petite échelle, sans chaîne de production industrielle.","en":"This soap is made using an ___ process, on a small scale, without an industrial production line.","a":"artisanal","alts":[]},
+      {"slot":"g|mp","f":"agree","s":"Sur ce marché, on trouve surtout des fromages ___ fabriqués par de petits producteurs locaux.","en":"At this market, you mostly find ___ cheeses made by small local producers.","a":"artisanaux","alts":[]},
+      {"slot":"g|mp","f":"agree","s":"Ces meubles ___ sont fabriqués à la main dans de petits ateliers.","en":"These ___ pieces of furniture are handmade in small workshops.","a":"artisanaux","alts":[]},
+      {"slot":"g|f","f":"agree","s":"Cette bière ___ est brassée dans une petite brasserie du village.","en":"This ___ beer is brewed in a small village brewery.","a":"artisanale","alts":[]},
+      {"slot":"g|f","f":"agree","s":"La confiture ___ que grand-mère prépare chaque été a un goût incomparable.","en":"The ___ jam that grandma makes every summer has an incomparable taste.","a":"artisanale","alts":[]},
+      {"slot":"g|fp","f":"agree","s":"Ce magasin vend uniquement des bières ___ brassées par des producteurs indépendants.","en":"This shop only sells ___ beers brewed by independent producers.","a":"artisanales","alts":[]},
+      {"slot":"g|fp","f":"agree","s":"Les poteries ___ exposées dans cette boutique sont toutes fabriquées à la main.","en":"The ___ pottery pieces displayed in this shop are all handmade.","a":"artisanales","alts":[]}
+    ]
+  },
+  {
+    "id": 6505,
+    "qs": [
+      {"slot":"s|0","f":"sense","s":"Le drapeau ___ flotte au sommet de la mairie.","a":"tricolore","en":"The tricolor (French) flag flies atop the town hall.","alts":[]},
+      {"slot":"s|0","f":"sense","s":"Le maillot ___ de l'équipe de France est célèbre dans le monde entier.","a":"tricolore","en":"The French national team's tricolor jersey is famous around the world.","alts":[]},
+      {"slot":"g|mp","f":"agree","s":"Les drapeaux ___ ornent les balcons pour le 14 juillet.","a":"tricolores","en":"Tricolor flags decorate the balconies for Bastille Day.","alts":[]},
+      {"slot":"g|mp","f":"agree","s":"Les rubans ___ décoraient l'entrée du stade.","a":"tricolores","en":"Tricolor ribbons decorated the entrance of the stadium.","alts":[]},
+      {"slot":"g|f","f":"agree","s":"Elle portait une écharpe ___ pendant le défilé du 14 juillet.","a":"tricolore","en":"She wore a tricolor scarf during the Bastille Day parade.","alts":[]},
+      {"slot":"g|f","f":"agree","s":"La cocarde ___ ornait son chapeau.","a":"tricolore","en":"The tricolor cockade adorned his hat.","alts":[]},
+      {"slot":"g|fp","f":"agree","s":"Les rosettes ___ ornaient les vestes des officiers pendant la cérémonie.","a":"tricolores","en":"Tricolor rosettes adorned the officers' jackets during the ceremony.","alts":[]},
+      {"slot":"g|fp","f":"agree","s":"Les banderoles ___ décoraient la place du village pour la fête nationale.","a":"tricolores","en":"Tricolor banners decorated the village square for the national holiday.","alts":[]}
+    ]
+  },
+  {
+    "id": 6506,
+    "qs": [
+      {"slot":"s|0","f":"sense","s":"Mon nouveau téléphone est-il ___ avec ce chargeur ?","a":"compatible","en":"Is my new phone compatible with this charger?","alts":[]},
+      {"slot":"s|0","f":"sense","s":"Ce format de fichier est ___ avec la plupart des logiciels de bureautique.","a":"compatible","en":"This file format is compatible with most office software.","alts":[]},
+      {"slot":"s|1","f":"sense","s":"Il pense qu'il n'est pas ___ avec elle sur le plan des valeurs.","a":"compatible","en":"He thinks he isn't compatible with her in terms of values.","alts":[]},
+      {"slot":"s|1","f":"sense","s":"Son caractère est ___ avec le mien, on s'entend très bien.","a":"compatible","en":"His/Her character is compatible with mine, we get along very well.","alts":[]},
+      {"slot":"g|mp","f":"agree","s":"Ces deux appareils sont ___.","a":"compatibles","en":"These two devices are compatible.","alts":[]},
+      {"slot":"g|mp","f":"agree","s":"Ces logiciels sont ___ entre eux.","a":"compatibles","en":"These software programs are compatible with each other.","alts":[]},
+      {"slot":"g|f","f":"agree","s":"Cette imprimante est ___ avec mon ordinateur.","a":"compatible","en":"This printer is compatible with my computer.","alts":[]},
+      {"slot":"g|f","f":"agree","s":"Sa personnalité est ___ avec la mienne.","a":"compatible","en":"Her personality is compatible with mine.","alts":[]},
+      {"slot":"g|fp","f":"agree","s":"Ces deux applications sont ___.","a":"compatibles","en":"These two applications are compatible.","alts":[]},
+      {"slot":"g|fp","f":"agree","s":"Leurs personnalités sont ___, ils s'entendent à merveille.","a":"compatibles","en":"Their personalities are compatible, they get along wonderfully.","alts":[]}
+    ]
+  }
+]

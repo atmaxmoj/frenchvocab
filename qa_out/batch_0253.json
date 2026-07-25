@@ -1,0 +1,20 @@
+[
+  {
+    "id": "2028",
+    "fix": {
+      "examples": [
+        {
+          "fr": "La réunion a été reportée à la semaine prochaine en raison d'un problème technique.",
+          "en": "The meeting was postponed to next week due to a technical problem.",
+          "target": "reportée"
+        },
+        {
+          "fr": "Le comptable a reporté le solde du mois précédent sur la nouvelle page du registre.",
+          "en": "The accountant carried the previous month's balance over to the new page of the ledger.",
+          "target": "reporté"
+        }
+      ]
+    },
+    "reasons": ["second example used 'reporter les faits' as 'to report news', which is an anglicism; reporter in French means postpone/carry over, not report news"]
+  }
+]

@@ -1,0 +1,37 @@
+[
+  {
+    "id": 5505,
+    "qs": [
+      {"slot": "s|0", "f": "sense", "s": "Ce laboratoire utilise des équipements ___ pour ses recherches.", "en": "This laboratory uses high-tech equipment for its research.", "a": "high-tech", "alts": [], "form": ""},
+      {"slot": "s|0", "f": "sense", "s": "Elle travaille pour une start-up ___ à San Francisco.", "en": "She works for a high-tech startup in San Francisco.", "a": "high-tech", "alts": [], "form": ""},
+      {"slot": "g|mp", "f": "agree", "s": "Ces appareils sont ___ et coûtent très cher.", "en": "These devices are high-tech and cost a lot.", "a": "high-tech", "alts": [], "form": ""},
+      {"slot": "g|mp", "f": "agree", "s": "Les systèmes de sécurité de la banque sont ___.", "en": "The bank's security systems are high-tech.", "a": "high-tech", "alts": [], "form": ""},
+      {"slot": "g|f", "f": "agree", "s": "Cette caméra est ___ et filme en très haute définition.", "en": "This camera is high-tech and films in very high definition.", "a": "high-tech", "alts": [], "form": ""},
+      {"slot": "g|f", "f": "agree", "s": "La montre qu'il porte est ___.", "en": "The watch he's wearing is high-tech.", "a": "high-tech", "alts": [], "form": ""},
+      {"slot": "g|fp", "f": "agree", "s": "Ces lunettes de réalité augmentée sont vraiment ___.", "en": "These augmented reality glasses are really high-tech.", "a": "high-tech", "alts": [], "form": ""},
+      {"slot": "g|fp", "f": "agree", "s": "Les voitures électriques de cette marque sont très ___.", "en": "This brand's electric cars are very high-tech.", "a": "high-tech", "alts": [], "form": ""}
+    ]
+  },
+  {
+    "id": 5506,
+    "qs": [
+      {"slot": "s|0", "f": "sense", "s": "Le ___ a fait disparaître le lapin devant les enfants émerveillés.", "a": "magicien", "en": "The magician made the rabbit disappear in front of the amazed children.", "alts": []},
+      {"slot": "s|0", "f": "sense", "s": "Pendant le spectacle, le ___ a sorti des cartes de sa manche.", "a": "magicien", "en": "During the show, the magician pulled cards out of his sleeve.", "alts": []},
+      {"slot": "gender", "f": "gender", "s": "___ magicien a impressionné tout le public avec son tour de cartes.", "a": "Le", "en": "The magician impressed the whole audience with his card trick.", "alts": []},
+      {"slot": "gender", "f": "gender", "s": "Elle a engagé ___ magicien pour l'anniversaire de son fils.", "a": "un", "en": "She hired a magician for her son's birthday party.", "alts": []}
+    ]
+  },
+  {
+    "id": 5507,
+    "qs": [
+      {"slot": "s|0", "f": "sense", "s": "Je suis ___, je n'ai pas le temps de discuter.", "a": "pressé", "en": "I'm in a hurry, I don't have time to chat.", "alts": []},
+      {"slot": "s|0", "f": "sense", "s": "Mon collègue est ___ ce matin, il doit attraper son train.", "a": "pressé", "en": "My colleague is in a hurry this morning, he has to catch his train.", "alts": []},
+      {"slot": "g|mp", "f": "agree", "s": "Les touristes sont ___, le bus va partir.", "a": "pressés", "en": "The tourists are in a hurry, the bus is about to leave.", "alts": []},
+      {"slot": "g|mp", "f": "agree", "s": "Ces employés sont toujours ___ le matin.", "a": "pressés", "en": "These employees are always in a hurry in the morning.", "alts": []},
+      {"slot": "g|f", "f": "agree", "s": "Ma sœur est ___, elle a un rendez-vous dans dix minutes.", "a": "pressée", "en": "My sister is in a hurry, she has an appointment in ten minutes.", "alts": []},
+      {"slot": "g|f", "f": "agree", "s": "Cette cliente semblait ___ à la caisse.", "a": "pressée", "en": "This customer seemed in a hurry at the checkout.", "alts": []},
+      {"slot": "g|fp", "f": "agree", "s": "Les femmes étaient ___ de rentrer avant la pluie.", "a": "pressées", "en": "The women were in a hurry to get home before the rain.", "alts": []},
+      {"slot": "g|fp", "f": "agree", "s": "Mes filles sont ___, elles vont être en retard à l'école.", "a": "pressées", "en": "My daughters are in a hurry, they are going to be late for school.", "alts": []}
+    ]
+  }
+]

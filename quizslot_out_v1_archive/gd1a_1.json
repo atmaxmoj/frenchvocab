@@ -1,0 +1,414 @@
+[
+  {
+    "id": 9,
+    "qs": [
+      {
+        "slot": "s|0",
+        "f": "sense",
+        "s": "Il est évident ___ tu as raison.",
+        "a": "que",
+        "en": "It is obvious that you are right.",
+        "alts": []
+      },
+      {
+        "slot": "s|0",
+        "f": "sense",
+        "s": "Je sais ___ elle viendra demain.",
+        "a": "que",
+        "en": "I know that she will come tomorrow.",
+        "alts": []
+      },
+      {
+        "slot": "s|1",
+        "f": "sense",
+        "s": "Le livre ___ j'ai lu hier était passionnant.",
+        "a": "que",
+        "en": "The book that I read yesterday was fascinating.",
+        "alts": []
+      },
+      {
+        "slot": "s|1",
+        "f": "sense",
+        "s": "C'est l'ami ___ tu m'as présenté la semaine dernière.",
+        "a": "que",
+        "en": "That is the friend whom you introduced me to last week.",
+        "alts": []
+      },
+      {
+        "slot": "s|2",
+        "f": "sense",
+        "s": "___ est-ce que tu veux manger ce soir ?",
+        "a": "Qu'",
+        "en": "What do you want to eat tonight?",
+        "alts": []
+      },
+      {
+        "slot": "s|2",
+        "f": "sense",
+        "s": "___ fais-tu dans le jardin à cette heure-ci ?",
+        "a": "Que",
+        "en": "What are you doing in the garden at this hour?",
+        "alts": []
+      }
+    ]
+  },
+  {
+    "id": 10,
+    "qs": [
+      {
+        "slot": "s|0",
+        "f": "sense",
+        "s": "Elle étudie tous les soirs ___ réussir son examen.",
+        "a": "pour",
+        "en": "She studies every evening in order to pass her exam.",
+        "alts": []
+      },
+      {
+        "slot": "s|0",
+        "f": "sense",
+        "s": "Il part tôt le matin ___ éviter les embouteillages.",
+        "a": "pour",
+        "en": "He leaves early in the morning in order to avoid traffic jams.",
+        "alts": []
+      },
+      {
+        "slot": "s|1",
+        "f": "sense",
+        "s": "___ moi, ce film est vraiment ennuyeux.",
+        "a": "Pour",
+        "en": "For me, this film is really boring.",
+        "alts": []
+      },
+      {
+        "slot": "s|1",
+        "f": "sense",
+        "s": "Ce règlement est difficile à comprendre ___ les débutants.",
+        "a": "pour",
+        "en": "This regulation is difficult to understand for beginners.",
+        "alts": []
+      },
+      {
+        "slot": "s|2",
+        "f": "sense",
+        "s": "Il a été puni ___ avoir menti à ses parents.",
+        "a": "pour",
+        "en": "He was punished because he lied to his parents.",
+        "alts": []
+      },
+      {
+        "slot": "s|2",
+        "f": "sense",
+        "s": "Elle a été félicitée ___ son excellent travail.",
+        "a": "pour",
+        "en": "She was praised because of her excellent work.",
+        "alts": []
+      }
+    ]
+  },
+  {
+    "id": 11,
+    "qs": [
+      {
+        "slot": "s|0",
+        "f": "sense",
+        "s": "Le chat dort ___ la maison.",
+        "a": "dans",
+        "en": "The cat is sleeping in the house.",
+        "alts": []
+      },
+      {
+        "slot": "s|0",
+        "f": "sense",
+        "s": "Il y a beaucoup de livres ___ cette bibliothèque.",
+        "a": "dans",
+        "en": "There are many books in this library.",
+        "alts": []
+      },
+      {
+        "slot": "s|1",
+        "f": "sense",
+        "s": "Elle est entrée ___ la salle sans frapper.",
+        "a": "dans",
+        "en": "She walked into the room without knocking.",
+        "alts": []
+      },
+      {
+        "slot": "s|1",
+        "f": "sense",
+        "s": "Les enfants ont couru ___ le jardin.",
+        "a": "dans",
+        "en": "The children ran into the garden.",
+        "alts": []
+      },
+      {
+        "slot": "s|2",
+        "f": "sense",
+        "s": "Il a pris le stylo ___ la trousse.",
+        "a": "dans",
+        "en": "He took the pen from the pencil case.",
+        "alts": []
+      },
+      {
+        "slot": "s|2",
+        "f": "sense",
+        "s": "Elle a trouvé les clés ___ son sac.",
+        "a": "dans",
+        "en": "She found the keys in her bag.",
+        "alts": []
+      }
+    ]
+  },
+  {
+    "id": 12,
+    "qs": [
+      {
+        "slot": "s|0",
+        "f": "sense",
+        "s": "___ livre est vraiment intéressant, tu devrais le lire.",
+        "a": "Ce",
+        "en": "This book is really interesting, you should read it.",
+        "alts": []
+      },
+      {
+        "slot": "s|0",
+        "f": "sense",
+        "s": "Je veux acheter ___ robe rouge que tu portes.",
+        "a": "cette",
+        "en": "I want to buy that red dress you are wearing.",
+        "alts": []
+      },
+      {
+        "slot": "s|1",
+        "f": "sense",
+        "s": "___ est exactement ce dont j'avais besoin.",
+        "a": "C'",
+        "en": "That is exactly what I needed.",
+        "alts": ["Ce"]
+      },
+      {
+        "slot": "s|1",
+        "f": "sense",
+        "s": "Il ne comprend pas ___ que tu veux dire.",
+        "a": "ce",
+        "en": "He does not understand what you mean.",
+        "alts": []
+      }
+    ]
+  },
+  {
+    "id": 13,
+    "qs": [
+      {
+        "slot": "s|0",
+        "f": "sense",
+        "s": "Marc est mon meilleur ami — ___ m'aide toujours quand j'ai des problèmes.",
+        "a": "il",
+        "en": "Marc is my best friend — he always helps me when I have problems.",
+        "alts": []
+      },
+      {
+        "slot": "s|0",
+        "f": "sense",
+        "s": "Mon père travaille à Lyon ; ___ rentre à la maison chaque vendredi soir.",
+        "a": "il",
+        "en": "My father works in Lyon; he comes home every Friday evening.",
+        "alts": []
+      },
+      {
+        "slot": "s|1",
+        "f": "sense",
+        "s": "J'ai acheté un nouveau vélo hier. ___ est rouge et très rapide.",
+        "a": "Il",
+        "en": "I bought a new bicycle yesterday. It is red and very fast.",
+        "alts": []
+      },
+      {
+        "slot": "s|1",
+        "f": "sense",
+        "s": "Où est mon stylo ? ___ était sur le bureau il y a un instant.",
+        "a": "Il",
+        "en": "Where is my pen? It was on the desk a moment ago.",
+        "alts": []
+      }
+    ]
+  },
+  {
+    "id": 14,
+    "qs": [
+      {
+        "slot": "s|0",
+        "f": "sense",
+        "s": "— ___ a appelé ce matin ? — C'est Marie.",
+        "a": "Qui",
+        "en": "— Who called this morning? — It's Marie.",
+        "alts": []
+      },
+      {
+        "slot": "s|0",
+        "f": "sense",
+        "s": "Tu sais ___ est responsable de ce projet ?",
+        "a": "qui",
+        "en": "Do you know who is responsible for this project?",
+        "alts": []
+      },
+      {
+        "slot": "s|1",
+        "f": "sense",
+        "s": "C'est lui ___ m'a aidé à déménager la semaine dernière.",
+        "a": "qui",
+        "en": "He is the one who helped me move last week.",
+        "alts": []
+      },
+      {
+        "slot": "s|1",
+        "f": "sense",
+        "s": "Je cherche quelqu'un ___ parle couramment le japonais.",
+        "a": "qui",
+        "en": "I am looking for someone who speaks Japanese fluently.",
+        "alts": []
+      }
+    ]
+  },
+  {
+    "id": 15,
+    "qs": [
+      {
+        "slot": "s|0",
+        "f": "sense",
+        "s": "Je ___ mange pas de viande.",
+        "a": "ne",
+        "en": "I don't eat meat.",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "s|0",
+        "f": "sense",
+        "s": "Elle ___ comprend pas cette règle.",
+        "a": "ne",
+        "en": "She doesn't understand this rule.",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "s|1",
+        "f": "sense",
+        "s": "Il ___ dort jamais avant minuit.",
+        "a": "ne",
+        "en": "He never sleeps before midnight.",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "s|1",
+        "f": "sense",
+        "s": "Nous ___ faisons jamais d'erreurs pareilles.",
+        "a": "ne",
+        "en": "We never make such mistakes.",
+        "alts": [],
+        "form": ""
+      }
+    ]
+  },
+  {
+    "id": 16,
+    "qs": [
+      {
+        "slot": "s|0",
+        "f": "sense",
+        "s": "Le chat dort ___ le canapé.",
+        "a": "sur",
+        "en": "The cat is sleeping on the sofa.",
+        "alts": []
+      },
+      {
+        "slot": "s|0",
+        "f": "sense",
+        "s": "Elle a posé les clés ___ la table.",
+        "a": "sur",
+        "en": "She placed the keys on the table.",
+        "alts": []
+      },
+      {
+        "slot": "s|1",
+        "f": "sense",
+        "s": "Il a écrit un article ___ la Révolution française.",
+        "a": "sur",
+        "en": "He wrote an article about the French Revolution.",
+        "alts": []
+      },
+      {
+        "slot": "s|1",
+        "f": "sense",
+        "s": "Nous avons eu une longue discussion ___ ce problème.",
+        "a": "sur",
+        "en": "We had a long discussion about this problem.",
+        "alts": []
+      },
+      {
+        "slot": "s|2",
+        "f": "sense",
+        "s": "Elle a choisi le restaurant ___ la recommandation d'un ami.",
+        "a": "sur",
+        "en": "She chose the restaurant based on a friend's recommendation.",
+        "alts": []
+      },
+      {
+        "slot": "s|2",
+        "f": "sense",
+        "s": "Il a pris la décision ___ les conseils du médecin.",
+        "a": "sur",
+        "en": "He made the decision based on the doctor's advice.",
+        "alts": []
+      },
+      {
+        "slot": "g|mp",
+        "f": "agree",
+        "s": "Ces fruits sont encore ___, il vaut mieux attendre.",
+        "a": "surs",
+        "en": "These fruits are still sour, it's better to wait.",
+        "alts": []
+      },
+      {
+        "slot": "g|mp",
+        "f": "agree",
+        "s": "Les citrons de ce jardin sont trop ___ pour être mangés nature.",
+        "a": "surs",
+        "en": "The lemons from this garden are too sour to be eaten plain.",
+        "alts": []
+      },
+      {
+        "slot": "g|f",
+        "f": "agree",
+        "s": "Cette cerise est un peu ___, mais elle reste agréable.",
+        "a": "sure",
+        "en": "This cherry is a bit sour, but it remains pleasant.",
+        "alts": ["sûre"]
+      },
+      {
+        "slot": "g|f",
+        "f": "agree",
+        "s": "La pomme verte est très ___ en début de saison.",
+        "a": "sure",
+        "en": "The green apple is very sour at the beginning of the season.",
+        "alts": ["sûre"]
+      },
+      {
+        "slot": "g|fp",
+        "f": "agree",
+        "s": "Ces groseilles ___ se marient bien avec du sucre.",
+        "a": "sures",
+        "en": "These sour currants go well with sugar.",
+        "alts": ["sûres"]
+      },
+      {
+        "slot": "g|fp",
+        "f": "agree",
+        "s": "Les baies cueillies tôt sont souvent ___ et peu sucrées.",
+        "a": "sures",
+        "en": "Berries picked early are often sour and not very sweet.",
+        "alts": ["sûres"]
+      }
+    ]
+  }
+]

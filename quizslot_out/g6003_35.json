@@ -1,0 +1,35 @@
+[
+  {
+    "id": 5701,
+    "qs": [
+      {"slot":"s|0","f":"sense","s":"Ce musée est un lieu ___ pour tous les touristes qui visitent la ville.","a":"incontournable","en":"This museum is a must-see place for all tourists visiting the city.","alts":[],"form":""},
+      {"slot":"s|0","f":"sense","s":"Pour réussir cet examen, la révision quotidienne est ___.","a":"incontournable","en":"To pass this exam, daily review is essential.","alts":[],"form":""},
+      {"slot":"g|mp","f":"agree","s":"Ces arguments sont ___ dans ce débat.","a":"incontournables","en":"These arguments are unavoidable in this debate.","alts":[],"form":""},
+      {"slot":"g|mp","f":"agree","s":"Les festivals de musique sont devenus des événements ___ chaque été.","a":"incontournables","en":"Music festivals have become must-attend events every summer.","alts":[],"form":""},
+      {"slot":"g|f","f":"agree","s":"Cette règle est ___ pour garantir la sécurité de tous.","a":"incontournable","en":"This rule is essential to guarantee everyone's safety.","alts":[],"form":""},
+      {"slot":"g|f","f":"agree","s":"La ponctualité est ___ dans ce métier.","a":"incontournable","en":"Punctuality is essential in this profession.","alts":[],"form":""},
+      {"slot":"g|fp","f":"agree","s":"Ces étapes sont ___ avant de soumettre le dossier.","a":"incontournables","en":"These steps are unavoidable before submitting the file.","alts":[],"form":""},
+      {"slot":"g|fp","f":"agree","s":"Les traditions locales restent ___ pendant les fêtes du village.","a":"incontournables","en":"Local traditions remain essential during the village festivities.","alts":[],"form":""}
+    ]
+  },
+  {
+    "id": 5702,
+    "qs": [
+      {"slot":"s|0","f":"sense","s":"Le randonneur a reculé en apercevant l'___ profond au bord du sentier.","a":"abîme","en":"The hiker stepped back upon noticing the deep abyss at the edge of the trail.","alts":[],"form":""},
+      {"slot":"s|0","f":"sense","s":"La grotte se terminait par un ___ sans fond que personne n'avait exploré.","a":"abîme","en":"The cave ended in a bottomless chasm that no one had explored.","alts":[],"form":""},
+      {"slot":"s|1","f":"sense","s":"Un véritable ___ sépare désormais les deux partis politiques sur cette question.","a":"abîme","en":"A real gulf now separates the two political parties on this issue.","alts":[],"form":""},
+      {"slot":"s|1","f":"sense","s":"Leur trahison a creusé un ___ entre les deux frères, qui ne se parlent plus.","a":"abîme","en":"Their betrayal created a rift between the two brothers, who no longer speak to each other.","alts":[],"form":""},
+      {"slot":"gender","f":"gender","s":"Il a plongé dans ___ abîme de désespoir après avoir perdu son emploi.","a":"un","en":"He plunged into an abyss of despair after losing his job.","alts":[],"form":""},
+      {"slot":"gender","f":"gender","s":"Après leur dispute, ___ abîme immense s'est installé entre les deux amis.","a":"un","en":"After their argument, an immense gulf grew between the two friends.","alts":[],"form":""}
+    ]
+  },
+  {
+    "id": 5703,
+    "qs": [
+      {"slot":"s|0","f":"sense","s":"Le ___ est une maladie virale qui affaiblit progressivement le système immunitaire.","a":"sida","en":"AIDS is a viral disease that gradually weakens the immune system.","alts":[],"form":""},
+      {"slot":"s|0","f":"sense","s":"Grâce aux traitements antirétroviraux, les personnes atteintes du ___ vivent aujourd'hui beaucoup plus longtemps.","a":"sida","en":"Thanks to antiretroviral treatments, people living with AIDS now live much longer.","alts":[],"form":""},
+      {"slot":"gender","f":"gender","s":"___ sida se transmet principalement par le sang et les rapports sexuels non protégés.","a":"le","en":"AIDS is transmitted mainly through blood and unprotected sex.","alts":[],"form":""},
+      {"slot":"gender","f":"gender","s":"Les campagnes de sensibilisation informent le public sur les dangers ___ sida.","a":"du","en":"Awareness campaigns inform the public about the dangers of AIDS.","alts":[],"form":""}
+    ]
+  }
+]

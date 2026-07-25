@@ -1,0 +1,233 @@
+[
+  {
+    "id": 475,
+    "qs": [
+      {
+        "slot": "s|0",
+        "f": "sense",
+        "s": "Après une longue randonnée, il n'avait plus d'___ dans sa gourde.",
+        "en": "After a long hike, he had no more water in his flask.",
+        "a": "eau",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "s|0",
+        "f": "sense",
+        "s": "Elle boit un verre d'___ chaque matin avant le petit-déjeuner.",
+        "en": "She drinks a glass of water every morning before breakfast.",
+        "a": "eau",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "gender",
+        "f": "gender",
+        "s": "Est-ce que tu veux ___ eau minérale ou du jus d'orange ?",
+        "en": "Do you want a mineral water or an orange juice?",
+        "a": "une",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "gender",
+        "f": "gender",
+        "s": "___ eau du robinet est potable dans cette ville.",
+        "en": "The tap water is drinkable in this city.",
+        "a": "L'",
+        "alts": [],
+        "form": ""
+      }
+    ]
+  },
+  {
+    "id": 476,
+    "qs": [
+      {
+        "slot": "s|0",
+        "f": "sense",
+        "s": "Tout le monde était présent ___ Marie, qui était malade.",
+        "en": "Everyone was present except Marie, who was sick.",
+        "a": "sauf",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "s|0",
+        "f": "sense",
+        "s": "J'aime tous les légumes ___ les épinards.",
+        "en": "I like all vegetables except spinach.",
+        "a": "sauf",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "s|1",
+        "f": "sense",
+        "s": "L'enfant est ___ : il n'a pas été blessé dans l'accident.",
+        "en": "The child is safe — he was not injured in the accident.",
+        "a": "sauf",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "s|1",
+        "f": "sense",
+        "s": "Grâce aux pompiers, le blessé est sorti ___ de l'incendie.",
+        "en": "Thanks to the firefighters, the injured man came out safe from the fire.",
+        "a": "sauf",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "s|2",
+        "f": "sense",
+        "s": "Après le tremblement de terre, les habitants ont appris que leur famille était ___.",
+        "en": "After the earthquake, the residents learned that their family was unharmed.",
+        "a": "sauve",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "s|2",
+        "f": "sense",
+        "s": "Le médecin a confirmé que le patient était ___ et hors de danger.",
+        "en": "The doctor confirmed that the patient was unharmed and out of danger.",
+        "a": "sauf",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "g|mp",
+        "f": "agree",
+        "s": "Les passagers du vol sont sortis ___ de l'avion après l'atterrissage d'urgence.",
+        "en": "The passengers of the flight came out unharmed from the plane after the emergency landing.",
+        "a": "saufs",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "g|mp",
+        "f": "agree",
+        "s": "Les deux soldats sont revenus ___ du combat.",
+        "en": "The two soldiers came back safe from combat.",
+        "a": "saufs",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "g|f",
+        "f": "agree",
+        "s": "La rescapée est ___ : elle n'a aucune blessure grave.",
+        "en": "The survivor is safe — she has no serious injury.",
+        "a": "sauve",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "g|f",
+        "f": "agree",
+        "s": "La petite fille a été retrouvée ___ après une nuit dans la forêt.",
+        "en": "The little girl was found safe after a night in the forest.",
+        "a": "sauve",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "g|fp",
+        "f": "agree",
+        "s": "Les otages ont été libérées ___ par les négociateurs.",
+        "en": "The hostages were released safe by the negotiators.",
+        "a": "sauves",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "g|fp",
+        "f": "agree",
+        "s": "Toutes les victimes de l'inondation ont été retrouvées ___ sur une colline voisine.",
+        "en": "All the victims of the flood were found unharmed on a nearby hill.",
+        "a": "sauves",
+        "alts": [],
+        "form": ""
+      }
+    ]
+  },
+  {
+    "id": 477,
+    "qs": [
+      {
+        "slot": "s|0",
+        "f": "sense",
+        "s": "Les enfants vont à l'___ tous les matins.",
+        "en": "The children go to school every morning.",
+        "a": "école",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "s|0",
+        "f": "sense",
+        "s": "Mon fils a commencé l'___ cette année.",
+        "en": "My son started school this year.",
+        "a": "école",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "s|1",
+        "f": "sense",
+        "s": "L'impressionnisme est une ___ picturale née au XIXe siècle.",
+        "en": "Impressionism is a pictorial school born in the 19th century.",
+        "a": "école",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "s|1",
+        "f": "sense",
+        "s": "Cette ___ de peinture a révolutionné l'art moderne.",
+        "en": "This school of painting revolutionized modern art.",
+        "a": "école",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "s|2",
+        "f": "sense",
+        "s": "L'___ de Francfort a profondément influencé la sociologie critique.",
+        "en": "The Frankfurt School profoundly influenced critical sociology.",
+        "a": "école",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "s|2",
+        "f": "sense",
+        "s": "Cette ___ de pensée rejette les dogmes traditionnels.",
+        "en": "This school of thought rejects traditional dogmas.",
+        "a": "école",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "gender",
+        "f": "gender",
+        "s": "Je vais chercher ma fille à ___ école.",
+        "en": "I'm going to pick up my daughter from school.",
+        "a": "l'",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "gender",
+        "f": "gender",
+        "s": "Il rêve d'ouvrir ___ école de musique dans sa ville.",
+        "en": "He dreams of opening a music school in his town.",
+        "a": "une",
+        "alts": [],
+        "form": ""
+      }
+    ]
+  }
+]

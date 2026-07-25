@@ -1,0 +1,713 @@
+[
+  {
+    "id": 460,
+    "qs": [
+      {
+        "slot": "s|0",
+        "f": "sense",
+        "s": "Il sait que c'est dangereux ; il le fait ___ .",
+        "a": "pourtant",
+        "en": "He knows it's dangerous; yet he does it anyway.",
+        "alts": ["néanmoins", "cependant", "toutefois"]
+      },
+      {
+        "slot": "s|0",
+        "f": "sense",
+        "s": "Le ciel était couvert, ___ il n'a pas plu de toute la journée.",
+        "a": "pourtant",
+        "en": "The sky was overcast; yet it didn't rain all day.",
+        "alts": ["néanmoins", "cependant", "toutefois"]
+      },
+      {
+        "slot": "s|1",
+        "f": "sense",
+        "s": "Elle était épuisée ; ___ , elle a continué à travailler sans se plaindre.",
+        "a": "pourtant",
+        "en": "She was exhausted; nonetheless, she kept working without complaining.",
+        "alts": ["néanmoins", "cependant", "toutefois"]
+      },
+      {
+        "slot": "s|1",
+        "f": "sense",
+        "s": "Le projet semblait impossible ; l'équipe a ___ réussi à le terminer dans les délais.",
+        "a": "pourtant",
+        "en": "The project seemed impossible; the team nonetheless managed to finish it on time.",
+        "alts": ["néanmoins", "cependant", "toutefois"]
+      },
+      {
+        "slot": "s|2",
+        "f": "sense",
+        "s": "Je lui ai expliqué plusieurs fois, il ne comprend ___ pas.",
+        "a": "pourtant",
+        "en": "I explained it to him several times, but he still doesn't understand.",
+        "alts": []
+      },
+      {
+        "slot": "s|2",
+        "f": "sense",
+        "s": "C'est une recette simple, ___ peu de gens la connaissent.",
+        "a": "pourtant",
+        "en": "It's a simple recipe, but few people know it.",
+        "alts": ["cependant", "néanmoins", "toutefois"]
+      }
+    ]
+  },
+  {
+    "id": 461,
+    "qs": [
+      {
+        "slot": "s|0",
+        "f": "sense",
+        "s": "La ___ européenne a adopté de nouvelles règles sur le commerce.",
+        "a": "commission",
+        "en": "The European Commission has adopted new rules on trade.",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "s|0",
+        "f": "sense",
+        "s": "Les membres de la ___ ont voté en faveur du projet de loi.",
+        "a": "commission",
+        "en": "The members of the committee voted in favor of the bill.",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "s|1",
+        "f": "sense",
+        "s": "L'agent immobilier prend une ___ de cinq pour cent sur chaque vente.",
+        "a": "commission",
+        "en": "The real estate agent takes a five percent commission on each sale.",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "s|1",
+        "f": "sense",
+        "s": "Il a reçu une ___ généreuse pour avoir conclu ce contrat.",
+        "a": "commission",
+        "en": "He received a generous commission for having closed this contract.",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "s|2",
+        "f": "sense",
+        "s": "Le général a confié à son officier une ___ délicate à remplir.",
+        "a": "commission",
+        "en": "The general entrusted his officer with a delicate mission to carry out.",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "s|2",
+        "f": "sense",
+        "s": "Le président lui a donné une ___ importante à accomplir avant la fin de la semaine.",
+        "a": "commission",
+        "en": "The president gave him an important task to accomplish before the end of the week.",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "s|3",
+        "f": "sense",
+        "s": "Ma mère m'a envoyé faire une ___ au marché ce matin.",
+        "a": "commission",
+        "en": "My mother sent me to run an errand at the market this morning.",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "s|3",
+        "f": "sense",
+        "s": "J'ai plusieurs ___ à faire en ville avant de rentrer à la maison.",
+        "a": "commissions",
+        "en": "I have several errands to run in town before going home.",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "gender",
+        "f": "gender",
+        "s": "___ commission européenne se réunit chaque mois à Bruxelles.",
+        "a": "La",
+        "en": "The European Commission meets every month in Brussels.",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "gender",
+        "f": "gender",
+        "s": "Il préside ___ commission parlementaire très influente.",
+        "a": "une",
+        "en": "He chairs a very influential parliamentary committee.",
+        "alts": [],
+        "form": ""
+      }
+    ]
+  },
+  {
+    "id": 462,
+    "qs": [
+      {
+        "slot": "t|Présent|0",
+        "f": "tense",
+        "s": "Je ___ de fumer depuis ce matin.",
+        "a": "cesse",
+        "en": "I stop smoking from this morning.",
+        "alts": [],
+        "form": "Présent"
+      },
+      {
+        "slot": "t|Présent|0",
+        "f": "tense",
+        "s": "La pluie ___ enfin après des heures.",
+        "a": "cesse",
+        "en": "The rain finally stops after hours.",
+        "alts": [],
+        "form": "Présent"
+      },
+      {
+        "slot": "t|Présent|1",
+        "f": "tense",
+        "s": "Tu ___ de parler quand il entre dans la pièce.",
+        "a": "cesses",
+        "en": "You stop talking when he enters the room.",
+        "alts": [],
+        "form": "Présent"
+      },
+      {
+        "slot": "t|Présent|1",
+        "f": "tense",
+        "s": "Est-ce que tu ___ toujours tes activités à midi ?",
+        "a": "cesses",
+        "en": "Do you always stop your activities at noon?",
+        "alts": [],
+        "form": "Présent"
+      },
+      {
+        "slot": "t|Présent|2",
+        "f": "tense",
+        "s": "Nous ___ le travail à dix-huit heures chaque soir.",
+        "a": "cessons",
+        "en": "We stop work at six o'clock every evening.",
+        "alts": [],
+        "form": "Présent"
+      },
+      {
+        "slot": "t|Présent|2",
+        "f": "tense",
+        "s": "Nous ___ de nous disputer et faisons la paix.",
+        "a": "cessons",
+        "en": "We stop arguing and make peace.",
+        "alts": [],
+        "form": "Présent"
+      },
+      {
+        "slot": "t|Présent|3",
+        "f": "tense",
+        "s": "Vous ___ de jouer du piano quand votre voisin frappe.",
+        "a": "cessez",
+        "en": "You stop playing the piano when your neighbor knocks.",
+        "alts": [],
+        "form": "Présent"
+      },
+      {
+        "slot": "t|Présent|3",
+        "f": "tense",
+        "s": "Vous ___ toujours vos efforts trop tôt.",
+        "a": "cessez",
+        "en": "You always stop your efforts too early.",
+        "alts": [],
+        "form": "Présent"
+      },
+      {
+        "slot": "t|Présent|4",
+        "f": "tense",
+        "s": "Les enfants ___ de crier dès que la maîtresse arrive.",
+        "a": "cessent",
+        "en": "The children stop shouting as soon as the teacher arrives.",
+        "alts": [],
+        "form": "Présent"
+      },
+      {
+        "slot": "t|Présent|4",
+        "f": "tense",
+        "s": "Ces machines ne ___ jamais de fonctionner, même la nuit.",
+        "a": "cessent",
+        "en": "These machines never stop running, even at night.",
+        "alts": [],
+        "form": "Présent"
+      },
+      {
+        "slot": "t|Passé composé|0",
+        "f": "tense",
+        "s": "J'___ de fumer il y a trois ans.",
+        "a": "ai cessé",
+        "en": "I stopped smoking three years ago.",
+        "alts": [],
+        "form": "Passé composé"
+      },
+      {
+        "slot": "t|Passé composé|0",
+        "f": "tense",
+        "s": "J'___ toute activité sportive après ma blessure.",
+        "a": "ai cessé",
+        "en": "I stopped all sports activity after my injury.",
+        "alts": [],
+        "form": "Passé composé"
+      },
+      {
+        "slot": "t|Passé composé|1",
+        "f": "tense",
+        "s": "Tu ___ de travailler le jour de ton anniversaire.",
+        "a": "as cessé",
+        "en": "You stopped working on your birthday.",
+        "alts": [],
+        "form": "Passé composé"
+      },
+      {
+        "slot": "t|Passé composé|1",
+        "f": "tense",
+        "s": "Tu ___ d'envoyer des messages à minuit passé.",
+        "a": "as cessé",
+        "en": "You stopped sending messages after midnight.",
+        "alts": [],
+        "form": "Passé composé"
+      },
+      {
+        "slot": "t|Passé composé|2",
+        "f": "tense",
+        "s": "Le vent ___ brusquement vers minuit.",
+        "a": "a cessé",
+        "en": "The wind stopped suddenly around midnight.",
+        "alts": [],
+        "form": "Passé composé"
+      },
+      {
+        "slot": "t|Passé composé|2",
+        "f": "tense",
+        "s": "Elle ___ de pleurer après avoir lu la lettre.",
+        "a": "a cessé",
+        "en": "She stopped crying after reading the letter.",
+        "alts": [],
+        "form": "Passé composé"
+      },
+      {
+        "slot": "t|Passé composé|3",
+        "f": "tense",
+        "s": "Nous ___ de produire ce modèle l'année dernière.",
+        "a": "avons cessé",
+        "en": "We stopped producing this model last year.",
+        "alts": [],
+        "form": "Passé composé"
+      },
+      {
+        "slot": "t|Passé composé|3",
+        "f": "tense",
+        "s": "Nous ___ nos activités commerciales dans cette région.",
+        "a": "avons cessé",
+        "en": "We stopped our commercial activities in this region.",
+        "alts": [],
+        "form": "Passé composé"
+      },
+      {
+        "slot": "t|Passé composé|4",
+        "f": "tense",
+        "s": "Vous ___ de vous plaindre après l'annonce des résultats.",
+        "a": "avez cessé",
+        "en": "You stopped complaining after the announcement of the results.",
+        "alts": [],
+        "form": "Passé composé"
+      },
+      {
+        "slot": "t|Passé composé|4",
+        "f": "tense",
+        "s": "Vous ___ tout contact avec cette entreprise en janvier.",
+        "a": "avez cessé",
+        "en": "You stopped all contact with this company in January.",
+        "alts": [],
+        "form": "Passé composé"
+      },
+      {
+        "slot": "t|Passé composé|5",
+        "f": "tense",
+        "s": "Les combats ___ après la signature du traité.",
+        "a": "ont cessé",
+        "en": "The fighting stopped after the signing of the treaty.",
+        "alts": [],
+        "form": "Passé composé"
+      },
+      {
+        "slot": "t|Passé composé|5",
+        "f": "tense",
+        "s": "Ils ___ de collaborer dès le début du conflit.",
+        "a": "ont cessé",
+        "en": "They stopped collaborating at the start of the conflict.",
+        "alts": [],
+        "form": "Passé composé"
+      },
+      {
+        "slot": "t|Imparfait|0",
+        "f": "tense",
+        "s": "Je ___ de rire chaque fois qu'il me regardait.",
+        "a": "cessais",
+        "en": "I stopped laughing every time he looked at me.",
+        "alts": [],
+        "form": "Imparfait"
+      },
+      {
+        "slot": "t|Imparfait|0",
+        "f": "tense",
+        "s": "Tu ___ de parler dès qu'on mentionnait ce sujet.",
+        "a": "cessais",
+        "en": "You stopped talking as soon as that topic was mentioned.",
+        "alts": [],
+        "form": "Imparfait"
+      },
+      {
+        "slot": "t|Imparfait|1",
+        "f": "tense",
+        "s": "La musique ___ toujours à onze heures du soir.",
+        "a": "cessait",
+        "en": "The music always stopped at eleven o'clock in the evening.",
+        "alts": [],
+        "form": "Imparfait"
+      },
+      {
+        "slot": "t|Imparfait|1",
+        "f": "tense",
+        "s": "Il ___ de travailler pour regarder par la fenêtre.",
+        "a": "cessait",
+        "en": "He stopped working to look out the window.",
+        "alts": [],
+        "form": "Imparfait"
+      },
+      {
+        "slot": "t|Imparfait|2",
+        "f": "tense",
+        "s": "Nous ___ nos réunions dès que la situation se calmait.",
+        "a": "cessions",
+        "en": "We stopped our meetings as soon as the situation calmed down.",
+        "alts": [],
+        "form": "Imparfait"
+      },
+      {
+        "slot": "t|Imparfait|2",
+        "f": "tense",
+        "s": "Nous ___ de chanter quand le professeur entrait.",
+        "a": "cessions",
+        "en": "We stopped singing when the teacher came in.",
+        "alts": [],
+        "form": "Imparfait"
+      },
+      {
+        "slot": "t|Imparfait|3",
+        "f": "tense",
+        "s": "Vous ___ de vous plaindre quand il était présent.",
+        "a": "cessiez",
+        "en": "You stopped complaining when he was present.",
+        "alts": [],
+        "form": "Imparfait"
+      },
+      {
+        "slot": "t|Imparfait|3",
+        "f": "tense",
+        "s": "Vous ___ toujours vos activités le dimanche.",
+        "a": "cessiez",
+        "en": "You always stopped your activities on Sundays.",
+        "alts": [],
+        "form": "Imparfait"
+      },
+      {
+        "slot": "t|Imparfait|4",
+        "f": "tense",
+        "s": "Les ouvriers ___ de travailler à la tombée de la nuit.",
+        "a": "cessaient",
+        "en": "The workers stopped working at nightfall.",
+        "alts": [],
+        "form": "Imparfait"
+      },
+      {
+        "slot": "t|Imparfait|4",
+        "f": "tense",
+        "s": "Ils ___ de se disputer dès qu'un adulte apparaissait.",
+        "a": "cessaient",
+        "en": "They stopped arguing as soon as an adult appeared.",
+        "alts": [],
+        "form": "Imparfait"
+      },
+      {
+        "slot": "t|Futur|0",
+        "f": "tense",
+        "s": "Je ___ de fumer dès le mois prochain.",
+        "a": "cesserai",
+        "en": "I will stop smoking starting next month.",
+        "alts": [],
+        "form": "Futur"
+      },
+      {
+        "slot": "t|Futur|0",
+        "f": "tense",
+        "s": "Je ___ mes études à la fin de l'année.",
+        "a": "cesserai",
+        "en": "I will stop my studies at the end of the year.",
+        "alts": [],
+        "form": "Futur"
+      },
+      {
+        "slot": "t|Futur|1",
+        "f": "tense",
+        "s": "Tu ___ de te plaindre quand tu verras les résultats.",
+        "a": "cesseras",
+        "en": "You will stop complaining when you see the results.",
+        "alts": [],
+        "form": "Futur"
+      },
+      {
+        "slot": "t|Futur|1",
+        "f": "tense",
+        "s": "Tu ___ tes activités professionnelles à soixante ans.",
+        "a": "cesseras",
+        "en": "You will stop your professional activities at sixty.",
+        "alts": [],
+        "form": "Futur"
+      },
+      {
+        "slot": "t|Futur|2",
+        "f": "tense",
+        "s": "La tempête ___ demain matin selon la météo.",
+        "a": "cessera",
+        "en": "The storm will stop tomorrow morning according to the weather forecast.",
+        "alts": [],
+        "form": "Futur"
+      },
+      {
+        "slot": "t|Futur|2",
+        "f": "tense",
+        "s": "Elle ___ de courir quand elle atteindra la ligne d'arrivée.",
+        "a": "cessera",
+        "en": "She will stop running when she reaches the finish line.",
+        "alts": [],
+        "form": "Futur"
+      },
+      {
+        "slot": "t|Futur|3",
+        "f": "tense",
+        "s": "Nous ___ de travailler ensemble à la fin du projet.",
+        "a": "cesserons",
+        "en": "We will stop working together at the end of the project.",
+        "alts": [],
+        "form": "Futur"
+      },
+      {
+        "slot": "t|Futur|3",
+        "f": "tense",
+        "s": "Nous ___ la production de ce produit en décembre.",
+        "a": "cesserons",
+        "en": "We will stop production of this product in December.",
+        "alts": [],
+        "form": "Futur"
+      },
+      {
+        "slot": "t|Futur|4",
+        "f": "tense",
+        "s": "Vous ___ vos activités commerciales à la retraite.",
+        "a": "cesserez",
+        "en": "You will stop your commercial activities upon retirement.",
+        "alts": [],
+        "form": "Futur"
+      },
+      {
+        "slot": "t|Futur|4",
+        "f": "tense",
+        "s": "Vous ___ de vous inquiéter quand vous connaîtrez la vérité.",
+        "a": "cesserez",
+        "en": "You will stop worrying when you know the truth.",
+        "alts": [],
+        "form": "Futur"
+      },
+      {
+        "slot": "t|Futur|5",
+        "f": "tense",
+        "s": "Les négociations ___ si aucun accord n'est trouvé.",
+        "a": "cesseront",
+        "en": "The negotiations will stop if no agreement is reached.",
+        "alts": [],
+        "form": "Futur"
+      },
+      {
+        "slot": "t|Futur|5",
+        "f": "tense",
+        "s": "Ils ___ de se battre quand ils seront épuisés.",
+        "a": "cesseront",
+        "en": "They will stop fighting when they are exhausted.",
+        "alts": [],
+        "form": "Futur"
+      },
+      {
+        "slot": "t|Conditionnel|0",
+        "f": "tense",
+        "s": "Si j'avais plus de temps, je ___ de travailler le week-end.",
+        "a": "cesserais",
+        "en": "If I had more time, I would stop working on weekends.",
+        "alts": [],
+        "form": "Conditionnel"
+      },
+      {
+        "slot": "t|Conditionnel|0",
+        "f": "tense",
+        "s": "Si tu étais moins stressé, tu ___ de te ronger les ongles.",
+        "a": "cesserais",
+        "en": "If you were less stressed, you would stop biting your nails.",
+        "alts": [],
+        "form": "Conditionnel"
+      },
+      {
+        "slot": "t|Conditionnel|1",
+        "f": "tense",
+        "s": "Si la douleur était moins forte, il ___ de prendre des médicaments.",
+        "a": "cesserait",
+        "en": "If the pain were less severe, he would stop taking medication.",
+        "alts": [],
+        "form": "Conditionnel"
+      },
+      {
+        "slot": "t|Conditionnel|1",
+        "f": "tense",
+        "s": "La pluie ___ plus tôt si le vent changeait de direction.",
+        "a": "cesserait",
+        "en": "The rain would stop sooner if the wind changed direction.",
+        "alts": [],
+        "form": "Conditionnel"
+      },
+      {
+        "slot": "t|Conditionnel|2",
+        "f": "tense",
+        "s": "Nous ___ ces réunions si elles n'étaient plus utiles.",
+        "a": "cesserions",
+        "en": "We would stop these meetings if they were no longer useful.",
+        "alts": [],
+        "form": "Conditionnel"
+      },
+      {
+        "slot": "t|Conditionnel|2",
+        "f": "tense",
+        "s": "Si nous avions assez d'argent, nous ___ de louer cet appartement.",
+        "a": "cesserions",
+        "en": "If we had enough money, we would stop renting this apartment.",
+        "alts": [],
+        "form": "Conditionnel"
+      },
+      {
+        "slot": "t|Conditionnel|3",
+        "f": "tense",
+        "s": "Si vous étiez moins timides, vous ___ d'éviter les réunions.",
+        "a": "cesseriez",
+        "en": "If you were less shy, you would stop avoiding meetings.",
+        "alts": [],
+        "form": "Conditionnel"
+      },
+      {
+        "slot": "t|Conditionnel|3",
+        "f": "tense",
+        "s": "Vous ___ de douter si vous voyiez les preuves.",
+        "a": "cesseriez",
+        "en": "You would stop doubting if you saw the evidence.",
+        "alts": [],
+        "form": "Conditionnel"
+      },
+      {
+        "slot": "t|Conditionnel|4",
+        "f": "tense",
+        "s": "Ils ___ de se plaindre s'ils avaient de meilleures conditions.",
+        "a": "cesseraient",
+        "en": "They would stop complaining if they had better conditions.",
+        "alts": [],
+        "form": "Conditionnel"
+      },
+      {
+        "slot": "t|Conditionnel|4",
+        "f": "tense",
+        "s": "Les conflits ___ si les deux parties se respectaient.",
+        "a": "cesseraient",
+        "en": "The conflicts would stop if both sides respected each other.",
+        "alts": [],
+        "form": "Conditionnel"
+      },
+      {
+        "slot": "t|Subjonctif",
+        "f": "subj",
+        "s": "Il faut que tu ___ de faire du bruit immédiatement.",
+        "a": "cesses",
+        "en": "It is necessary that you stop making noise immediately.",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "t|Subjonctif",
+        "f": "subj",
+        "s": "Je veux qu'elle ___ de mentir à sa famille.",
+        "a": "cesse",
+        "en": "I want her to stop lying to her family.",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "s|0",
+        "f": "sense",
+        "s": "Le médecin lui a conseillé de ___ de fumer.",
+        "a": "cesser",
+        "en": "The doctor advised him to stop smoking.",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "s|0",
+        "f": "sense",
+        "s": "La machine ___ de fonctionner à cause d'une panne.",
+        "a": "cesse",
+        "en": "The machine stops working due to a breakdown.",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "s|1",
+        "f": "sense",
+        "s": "Le gouvernement a décidé de ___ les négociations avec ce pays.",
+        "a": "cesser",
+        "en": "The government decided to suspend the negotiations with that country.",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "s|1",
+        "f": "sense",
+        "s": "L'entreprise ___ ses activités dans cette région pour une durée indéterminée.",
+        "a": "cesse",
+        "en": "The company suspends its activities in this region for an indefinite period.",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "s|2",
+        "f": "sense",
+        "s": "Depuis son déménagement, elle ne ___ de penser à sa ville natale.",
+        "a": "cesse",
+        "en": "Since moving away, she never stops thinking about her hometown.",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "s|2",
+        "f": "sense",
+        "s": "Il ne ___ de répéter les mêmes erreurs malgré les avertissements.",
+        "a": "cesse",
+        "en": "He never stops repeating the same mistakes despite the warnings.",
+        "alts": [],
+        "form": ""
+      }
+    ]
+  }
+]

@@ -1,0 +1,701 @@
+[
+  {
+    "id": 107,
+    "qs": [
+      {
+        "slot": "s|0",
+        "f": "sense",
+        "s": "Mon père est très ___ ; il soulève des sacs de vingt kilos sans effort.",
+        "en": "My father is very strong; he lifts twenty-kilo bags without effort.",
+        "a": "fort",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "s|0",
+        "f": "sense",
+        "s": "Pour déménager ce piano, il faut être vraiment ___ .",
+        "en": "To move this piano, you really need to be strong.",
+        "a": "fort",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "s|1",
+        "f": "sense",
+        "s": "Le vent est trop ___ aujourd'hui pour sortir en bateau.",
+        "en": "The wind is too strong today to go out by boat.",
+        "a": "fort",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "s|1",
+        "f": "sense",
+        "s": "Cette épice dégage une odeur très ___ qui envahit toute la cuisine.",
+        "en": "This spice gives off a very strong smell that fills the whole kitchen.",
+        "a": "forte",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "s|2",
+        "f": "sense",
+        "s": "Elle est très ___ en mathématiques et résout les problèmes rapidement.",
+        "en": "She is very good at mathematics and solves problems quickly.",
+        "a": "forte",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "s|2",
+        "f": "sense",
+        "s": "Tu es ___ en langues : tu parles déjà trois langues étrangères.",
+        "en": "You are good at languages: you already speak three foreign languages.",
+        "a": "fort",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "gender",
+        "f": "gender",
+        "s": "Le café est ___ bon remontant quand on est fatigué.",
+        "en": "Coffee is a good pick-me-up when you are tired.",
+        "a": "un",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "gender",
+        "f": "gender",
+        "s": "Ce château médiéval était ___ fort imprenable au Moyen Âge.",
+        "en": "This medieval castle was an impregnable stronghold in the Middle Ages.",
+        "a": "un",
+        "alts": [],
+        "form": ""
+      }
+    ]
+  },
+  {
+    "id": 108,
+    "qs": [
+      {
+        "slot": "t|Présent|0",
+        "f": "tense",
+        "s": "Je ___ ma carte d'identité au policier.",
+        "en": "I show my ID to the police officer.",
+        "a": "montre",
+        "alts": [],
+        "form": "Présent"
+      },
+      {
+        "slot": "t|Présent|0",
+        "f": "tense",
+        "s": "Le guide ___ les monuments aux touristes.",
+        "en": "The guide shows the monuments to the tourists.",
+        "a": "montre",
+        "alts": [],
+        "form": "Présent"
+      },
+      {
+        "slot": "t|Présent|1",
+        "f": "tense",
+        "s": "Tu ___ du courage dans cette situation difficile.",
+        "en": "You show courage in this difficult situation.",
+        "a": "montres",
+        "alts": [],
+        "form": "Présent"
+      },
+      {
+        "slot": "t|Présent|1",
+        "f": "tense",
+        "s": "Tu ___ le chemin à tes camarades.",
+        "en": "You show the way to your classmates.",
+        "a": "montres",
+        "alts": [],
+        "form": "Présent"
+      },
+      {
+        "slot": "t|Présent|2",
+        "f": "tense",
+        "s": "Nous ___ nos photos de voyage à nos amis.",
+        "en": "We show our travel photos to our friends.",
+        "a": "montrons",
+        "alts": [],
+        "form": "Présent"
+      },
+      {
+        "slot": "t|Présent|2",
+        "f": "tense",
+        "s": "Nous ___ l'exemple à nos enfants.",
+        "en": "We show/set an example for our children.",
+        "a": "montrons",
+        "alts": [],
+        "form": "Présent"
+      },
+      {
+        "slot": "t|Présent|3",
+        "f": "tense",
+        "s": "Vous ___ votre billet à l'entrée du musée.",
+        "en": "You show your ticket at the museum entrance.",
+        "a": "montrez",
+        "alts": [],
+        "form": "Présent"
+      },
+      {
+        "slot": "t|Présent|3",
+        "f": "tense",
+        "s": "Vous ___ beaucoup de patience avec les enfants.",
+        "en": "You show a lot of patience with the children.",
+        "a": "montrez",
+        "alts": [],
+        "form": "Présent"
+      },
+      {
+        "slot": "t|Présent|4",
+        "f": "tense",
+        "s": "Les professeurs ___ aux élèves comment résoudre le problème.",
+        "en": "The teachers show the students how to solve the problem.",
+        "a": "montrent",
+        "alts": [],
+        "form": "Présent"
+      },
+      {
+        "slot": "t|Présent|4",
+        "f": "tense",
+        "s": "Elles ___ leurs dessins à la classe.",
+        "en": "They show their drawings to the class.",
+        "a": "montrent",
+        "alts": [],
+        "form": "Présent"
+      },
+      {
+        "slot": "t|Passé composé|0",
+        "f": "tense",
+        "s": "Hier, j'___ mes résultats scolaires à mes parents.",
+        "en": "Yesterday, I showed my school results to my parents.",
+        "a": "ai montré",
+        "alts": [],
+        "form": "Passé composé"
+      },
+      {
+        "slot": "t|Passé composé|0",
+        "f": "tense",
+        "s": "J'___ ma nouvelle voiture à mon voisin ce matin.",
+        "en": "I showed my new car to my neighbor this morning.",
+        "a": "ai montré",
+        "alts": [],
+        "form": "Passé composé"
+      },
+      {
+        "slot": "t|Passé composé|1",
+        "f": "tense",
+        "s": "Tu ___ trop d'impatience lors de la réunion.",
+        "en": "You showed too much impatience during the meeting.",
+        "a": "as montré",
+        "alts": [],
+        "form": "Passé composé"
+      },
+      {
+        "slot": "t|Passé composé|1",
+        "f": "tense",
+        "s": "Tu ___ le bon exemple à tes collègues la semaine dernière.",
+        "en": "You showed a good example to your colleagues last week.",
+        "a": "as montré",
+        "alts": [],
+        "form": "Passé composé"
+      },
+      {
+        "slot": "t|Passé composé|2",
+        "f": "tense",
+        "s": "Le médecin ___ les résultats de l'analyse au patient.",
+        "en": "The doctor showed the test results to the patient.",
+        "a": "a montré",
+        "alts": [],
+        "form": "Passé composé"
+      },
+      {
+        "slot": "t|Passé composé|2",
+        "f": "tense",
+        "s": "Elle ___ ses talents artistiques lors du concours.",
+        "en": "She showed her artistic talents during the contest.",
+        "a": "a montré",
+        "alts": [],
+        "form": "Passé composé"
+      },
+      {
+        "slot": "t|Passé composé|3",
+        "f": "tense",
+        "s": "Nous ___ notre appartement aux futurs locataires.",
+        "en": "We showed our apartment to the prospective tenants.",
+        "a": "avons montré",
+        "alts": [],
+        "form": "Passé composé"
+      },
+      {
+        "slot": "t|Passé composé|3",
+        "f": "tense",
+        "s": "Nous ___ une grande générosité envers nos voisins pendant la crise.",
+        "en": "We showed great generosity toward our neighbors during the crisis.",
+        "a": "avons montré",
+        "alts": [],
+        "form": "Passé composé"
+      },
+      {
+        "slot": "t|Passé composé|4",
+        "f": "tense",
+        "s": "Vous ___ votre passeport à la douane sans problème.",
+        "en": "You showed your passport at customs without any problem.",
+        "a": "avez montré",
+        "alts": [],
+        "form": "Passé composé"
+      },
+      {
+        "slot": "t|Passé composé|4",
+        "f": "tense",
+        "s": "Vous ___ votre détermination tout au long du projet.",
+        "en": "You showed your determination throughout the project.",
+        "a": "avez montré",
+        "alts": [],
+        "form": "Passé composé"
+      },
+      {
+        "slot": "t|Passé composé|5",
+        "f": "tense",
+        "s": "Les élèves ___ leurs travaux à l'exposition.",
+        "en": "The students showed their work at the exhibition.",
+        "a": "ont montré",
+        "alts": [],
+        "form": "Passé composé"
+      },
+      {
+        "slot": "t|Passé composé|5",
+        "f": "tense",
+        "s": "Ils ___ beaucoup d'enthousiasme lors de la compétition.",
+        "en": "They showed a lot of enthusiasm during the competition.",
+        "a": "ont montré",
+        "alts": [],
+        "form": "Passé composé"
+      },
+      {
+        "slot": "t|Imparfait|0",
+        "f": "tense",
+        "s": "Quand j'étais enfant, je ___ mes dessins à ma grand-mère.",
+        "en": "When I was a child, I used to show my drawings to my grandmother.",
+        "a": "montrais",
+        "alts": [],
+        "form": "Imparfait"
+      },
+      {
+        "slot": "t|Imparfait|0",
+        "f": "tense",
+        "s": "Avant, tu ___ toujours ta confiance à tes amis.",
+        "en": "Before, you always showed your trust to your friends.",
+        "a": "montrais",
+        "alts": [],
+        "form": "Imparfait"
+      },
+      {
+        "slot": "t|Imparfait|1",
+        "f": "tense",
+        "s": "Le directeur ___ les nouveaux employés dans les bureaux chaque lundi.",
+        "en": "The manager used to show the new employees around the offices every Monday.",
+        "a": "montrait",
+        "alts": [],
+        "form": "Imparfait"
+      },
+      {
+        "slot": "t|Imparfait|1",
+        "f": "tense",
+        "s": "Elle ___ souvent ses bijoux à ses amies.",
+        "en": "She often showed her jewelry to her friends.",
+        "a": "montrait",
+        "alts": [],
+        "form": "Imparfait"
+      },
+      {
+        "slot": "t|Imparfait|2",
+        "f": "tense",
+        "s": "Nous ___ nos progrès à notre professeur chaque semaine.",
+        "en": "We used to show our progress to our teacher every week.",
+        "a": "montrions",
+        "alts": [],
+        "form": "Imparfait"
+      },
+      {
+        "slot": "t|Imparfait|2",
+        "f": "tense",
+        "s": "Nous ___ de la patience avec les jeunes recrues à cette époque.",
+        "en": "We used to show patience with the young recruits at that time.",
+        "a": "montrions",
+        "alts": [],
+        "form": "Imparfait"
+      },
+      {
+        "slot": "t|Imparfait|3",
+        "f": "tense",
+        "s": "Vous ___ toujours vos créations avec fierté lors des expositions.",
+        "en": "You always showed your creations with pride at the exhibitions.",
+        "a": "montriez",
+        "alts": [],
+        "form": "Imparfait"
+      },
+      {
+        "slot": "t|Imparfait|3",
+        "f": "tense",
+        "s": "Autrefois, vous ___ plus d'enthousiasme pour ce travail.",
+        "en": "In the past, you used to show more enthusiasm for this work.",
+        "a": "montriez",
+        "alts": [],
+        "form": "Imparfait"
+      },
+      {
+        "slot": "t|Imparfait|4",
+        "f": "tense",
+        "s": "Les parents ___ les photos de famille aux enfants chaque dimanche.",
+        "en": "The parents used to show the family photos to the children every Sunday.",
+        "a": "montraient",
+        "alts": [],
+        "form": "Imparfait"
+      },
+      {
+        "slot": "t|Imparfait|4",
+        "f": "tense",
+        "s": "Ils ___ beaucoup de respect envers les anciens.",
+        "en": "They used to show a lot of respect toward the elders.",
+        "a": "montraient",
+        "alts": [],
+        "form": "Imparfait"
+      },
+      {
+        "slot": "t|Futur|0",
+        "f": "tense",
+        "s": "Demain, je ___ mon projet à la directrice.",
+        "en": "Tomorrow, I will show my project to the director.",
+        "a": "montrerai",
+        "alts": [],
+        "form": "Futur"
+      },
+      {
+        "slot": "t|Futur|0",
+        "f": "tense",
+        "s": "Je ___ ma nouvelle maison à mes parents le week-end prochain.",
+        "en": "I will show my new house to my parents next weekend.",
+        "a": "montrerai",
+        "alts": [],
+        "form": "Futur"
+      },
+      {
+        "slot": "t|Futur|1",
+        "f": "tense",
+        "s": "Tu ___ tes talents lors de la prochaine audition.",
+        "en": "You will show your talents at the next audition.",
+        "a": "montreras",
+        "alts": [],
+        "form": "Futur"
+      },
+      {
+        "slot": "t|Futur|1",
+        "f": "tense",
+        "s": "Tu ___ le bon chemin à ton frère quand il sera perdu.",
+        "en": "You will show your brother the right way when he is lost.",
+        "a": "montreras",
+        "alts": [],
+        "form": "Futur"
+      },
+      {
+        "slot": "t|Futur|2",
+        "f": "tense",
+        "s": "Le conférencier ___ ses recherches au public la semaine prochaine.",
+        "en": "The speaker will show his research to the public next week.",
+        "a": "montrera",
+        "alts": [],
+        "form": "Futur"
+      },
+      {
+        "slot": "t|Futur|2",
+        "f": "tense",
+        "s": "Elle ___ son nouveau tableau à la galerie ce soir.",
+        "en": "She will show her new painting at the gallery this evening.",
+        "a": "montrera",
+        "alts": [],
+        "form": "Futur"
+      },
+      {
+        "slot": "t|Futur|3",
+        "f": "tense",
+        "s": "Nous ___ les résultats de notre étude lors de la conférence.",
+        "en": "We will show the results of our study at the conference.",
+        "a": "montrerons",
+        "alts": [],
+        "form": "Futur"
+      },
+      {
+        "slot": "t|Futur|3",
+        "f": "tense",
+        "s": "Nous ___ notre soutien à l'équipe jusqu'à la fin du match.",
+        "en": "We will show our support for the team until the end of the match.",
+        "a": "montrerons",
+        "alts": [],
+        "form": "Futur"
+      },
+      {
+        "slot": "t|Futur|4",
+        "f": "tense",
+        "s": "Vous ___ votre travail au jury lors de la finale.",
+        "en": "You will show your work to the jury at the final.",
+        "a": "montrerez",
+        "alts": [],
+        "form": "Futur"
+      },
+      {
+        "slot": "t|Futur|4",
+        "f": "tense",
+        "s": "Vous ___ que vous êtes capables de réussir.",
+        "en": "You will show that you are capable of succeeding.",
+        "a": "montrerez",
+        "alts": [],
+        "form": "Futur"
+      },
+      {
+        "slot": "t|Futur|5",
+        "f": "tense",
+        "s": "Les scientifiques ___ leurs découvertes au monde entier.",
+        "en": "The scientists will show their discoveries to the whole world.",
+        "a": "montreront",
+        "alts": [],
+        "form": "Futur"
+      },
+      {
+        "slot": "t|Futur|5",
+        "f": "tense",
+        "s": "Elles ___ leur solidarité lors de la manifestation de vendredi.",
+        "en": "They will show their solidarity at Friday's demonstration.",
+        "a": "montreront",
+        "alts": [],
+        "form": "Futur"
+      },
+      {
+        "slot": "t|Conditionnel|0",
+        "f": "tense",
+        "s": "Si j'avais le temps, je te ___ comment faire ce gâteau.",
+        "en": "If I had time, I would show you how to make this cake.",
+        "a": "montrerais",
+        "alts": [],
+        "form": "Conditionnel"
+      },
+      {
+        "slot": "t|Conditionnel|0",
+        "f": "tense",
+        "s": "Tu ___ plus de respect si tu comprenais la situation.",
+        "en": "You would show more respect if you understood the situation.",
+        "a": "montrerais",
+        "alts": [],
+        "form": "Conditionnel"
+      },
+      {
+        "slot": "t|Conditionnel|1",
+        "f": "tense",
+        "s": "Si on lui demandait, il ___ son passeport sans hésiter.",
+        "en": "If asked, he would show his passport without hesitating.",
+        "a": "montrerait",
+        "alts": [],
+        "form": "Conditionnel"
+      },
+      {
+        "slot": "t|Conditionnel|1",
+        "f": "tense",
+        "s": "Elle ___ plus d'intérêt pour ce projet si le budget était suffisant.",
+        "en": "She would show more interest in this project if the budget were sufficient.",
+        "a": "montrerait",
+        "alts": [],
+        "form": "Conditionnel"
+      },
+      {
+        "slot": "t|Conditionnel|2",
+        "f": "tense",
+        "s": "Si nous avions un guide, nous ___ la ville aux visiteurs.",
+        "en": "If we had a guide, we would show the city to the visitors.",
+        "a": "montrerions",
+        "alts": [],
+        "form": "Conditionnel"
+      },
+      {
+        "slot": "t|Conditionnel|2",
+        "f": "tense",
+        "s": "Nous ___ plus de créativité si les conditions de travail étaient meilleures.",
+        "en": "We would show more creativity if the working conditions were better.",
+        "a": "montrerions",
+        "alts": [],
+        "form": "Conditionnel"
+      },
+      {
+        "slot": "t|Conditionnel|3",
+        "f": "tense",
+        "s": "Si vous étiez disponibles, vous ___ votre appartement aux acheteurs potentiels.",
+        "en": "If you were available, you would show your apartment to potential buyers.",
+        "a": "montreriez",
+        "alts": [],
+        "form": "Conditionnel"
+      },
+      {
+        "slot": "t|Conditionnel|3",
+        "f": "tense",
+        "s": "Vous ___ plus d'ambition si vous croyiez davantage en vous.",
+        "en": "You would show more ambition if you believed in yourself more.",
+        "a": "montreriez",
+        "alts": [],
+        "form": "Conditionnel"
+      },
+      {
+        "slot": "t|Conditionnel|4",
+        "f": "tense",
+        "s": "Si les parents étaient là, les enfants ___ leurs bulletins de notes.",
+        "en": "If the parents were there, the children would show their report cards.",
+        "a": "montreraient",
+        "alts": [],
+        "form": "Conditionnel"
+      },
+      {
+        "slot": "t|Conditionnel|4",
+        "f": "tense",
+        "s": "Ils ___ plus de solidarité s'ils se connaissaient mieux.",
+        "en": "They would show more solidarity if they knew each other better.",
+        "a": "montreraient",
+        "alts": [],
+        "form": "Conditionnel"
+      },
+      {
+        "slot": "t|Subjonctif",
+        "f": "subj",
+        "s": "Il faut que tu ___ ton billet avant de monter dans le train.",
+        "en": "You need to show your ticket before boarding the train.",
+        "a": "montres",
+        "alts": [],
+        "form": "Subjonctif"
+      },
+      {
+        "slot": "t|Subjonctif",
+        "f": "subj",
+        "s": "Je veux qu'elle ___ plus de courage face aux difficultés.",
+        "en": "I want her to show more courage in the face of difficulties.",
+        "a": "montre",
+        "alts": [],
+        "form": "Subjonctif"
+      },
+      {
+        "slot": "s|0",
+        "f": "sense",
+        "s": "Le professeur ___ ses tableaux dans la salle de classe pour que les élèves les voient.",
+        "en": "The teacher displays/shows his paintings in the classroom for the students to see.",
+        "a": "montre",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "s|0",
+        "f": "sense",
+        "s": "Elle ___ sa collection de robes à ses amies lors de la soirée.",
+        "en": "She shows her dress collection to her friends at the party.",
+        "a": "montre",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "s|1",
+        "f": "sense",
+        "s": "L'expert ___ les erreurs dans le rapport lors de la réunion.",
+        "en": "The expert points out the errors in the report during the meeting.",
+        "a": "montre",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "s|1",
+        "f": "sense",
+        "s": "Le médecin ___ du doigt l'endroit exact où la douleur se manifeste.",
+        "en": "The doctor points to the exact spot where the pain occurs.",
+        "a": "montre",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "s|2",
+        "f": "sense",
+        "s": "Ce silence ___ qu'il n'est pas d'accord avec la décision.",
+        "en": "This silence shows/indicates that he does not agree with the decision.",
+        "a": "montre",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "s|2",
+        "f": "sense",
+        "s": "Les chiffres ___ que l'économie est en train de se redresser.",
+        "en": "The figures show/indicate that the economy is recovering.",
+        "a": "montrent",
+        "alts": [],
+        "form": ""
+      }
+    ]
+  },
+  {
+    "id": 109,
+    "qs": [
+      {
+        "slot": "s|0",
+        "f": "sense",
+        "s": "Elle habite loin d'ici ; je ne peux pas aller ___ à pied.",
+        "en": "She lives far from here; I can't go there on foot.",
+        "a": "là",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "s|0",
+        "f": "sense",
+        "s": "Regarde cette montagne au loin — il paraît qu'il y a un lac caché ___ .",
+        "en": "Look at that mountain in the distance — they say there is a hidden lake there.",
+        "a": "là",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "s|1",
+        "f": "sense",
+        "s": "Reste ___ , ne bouge pas, j'arrive dans une seconde.",
+        "en": "Stay here, don't move, I'll be there in a second.",
+        "a": "là",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "s|1",
+        "f": "sense",
+        "s": "— Où es-tu ? — Je suis ___ , dans la cuisine !",
+        "en": "— Where are you? — I'm here, in the kitchen!",
+        "a": "là",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "s|2",
+        "f": "sense",
+        "s": "Le règlement en vigueur ___ interdit tout bruit après vingt-deux heures.",
+        "en": "The regulations in force at this location (here/此处) prohibit any noise after ten o'clock at night.",
+        "a": "là",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "s|2",
+        "f": "sense",
+        "s": "Toutes les personnes présentes ___ doivent signer le registre d'entrée.",
+        "en": "All persons present at this location (here/此处) must sign the entry register.",
+        "a": "là",
+        "alts": [],
+        "form": ""
+      }
+    ]
+  }
+]

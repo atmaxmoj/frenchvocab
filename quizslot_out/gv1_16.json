@@ -1,0 +1,84 @@
+[
+  {
+    "id": 3349,
+    "qs": [
+      {
+        "slot": "s|0",
+        "f": "sense",
+        "s": "Le ministre est intervenu ___ pour remercier les participants avant de partir.",
+        "a": "brièvement",
+        "en": "The minister briefly intervened to thank the participants before leaving.",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "s|0",
+        "f": "sense",
+        "s": "Elle s'est arrêtée ___ devant la vitrine, puis elle a continué son chemin.",
+        "a": "brièvement",
+        "en": "She stopped briefly in front of the shop window, then continued on her way.",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "s|1",
+        "f": "sense",
+        "s": "Le professeur nous a demandé d'exposer ___ nos idées principales en une seule phrase.",
+        "a": "brièvement",
+        "en": "The professor asked us to present our main ideas concisely in a single sentence.",
+        "alts": ["succinctement", "concisément"],
+        "form": ""
+      },
+      {
+        "slot": "s|1",
+        "f": "sense",
+        "s": "Dans son introduction, l'auteur explique ___ la méthode qu'il a suivie tout au long de l'ouvrage.",
+        "a": "brièvement",
+        "en": "In his introduction, the author concisely explains the method he followed throughout the work.",
+        "alts": ["succinctement", "concisément"],
+        "form": ""
+      }
+    ]
+  },
+  {
+    "id": 3350,
+    "qs": [
+      {
+        "slot": "s|0",
+        "f": "sense",
+        "s": "Chaque ___ a le droit de voter lors de l'assemblée générale.",
+        "a": "actionnaire",
+        "en": "Each shareholder has the right to vote at the general meeting.",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "s|0",
+        "f": "sense",
+        "s": "En tant que principal ___ de l'entreprise, il reçoit des dividendes chaque année.",
+        "a": "actionnaire",
+        "en": "As the main shareholder of the company, he receives dividends every year.",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "gender",
+        "f": "gender",
+        "s": "Mon père est ___ actionnaire majoritaire de cette société.",
+        "a": "l'",
+        "en": "My father is the majority shareholder of this company.",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "gender",
+        "f": "gender",
+        "s": "Il est devenu ___ actionnaire important après avoir racheté des parts.",
+        "a": "un",
+        "en": "He became an important shareholder after buying back shares.",
+        "alts": [],
+        "form": ""
+      }
+    ]
+  }
+]

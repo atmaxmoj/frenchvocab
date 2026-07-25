@@ -1,0 +1,677 @@
+[
+  {
+    "id": 2887,
+    "qs": [
+      {
+        "slot": "s|0",
+        "f": "sense",
+        "s": "Le ___ de la Saint-Barthélemy reste l'un des événements les plus tragiques de l'histoire de France.",
+        "a": "massacre",
+        "en": "The St. Bartholomew's Day massacre remains one of the most tragic events in French history.",
+        "alts": []
+      },
+      {
+        "slot": "s|0",
+        "f": "sense",
+        "s": "Le ___ de Nanjing a causé la mort de centaines de milliers de civils en 1937.",
+        "a": "massacre",
+        "en": "The Nanjing massacre caused the death of hundreds of thousands of civilians in 1937.",
+        "alts": []
+      },
+      {
+        "slot": "s|1",
+        "f": "sense",
+        "s": "Les soldats ont commis un véritable ___ parmi les habitants du village.",
+        "a": "massacre",
+        "en": "The soldiers committed a real slaughter among the village's inhabitants.",
+        "alts": []
+      },
+      {
+        "slot": "s|1",
+        "f": "sense",
+        "s": "L'armée envahissante a procédé au ___ systématique de la population locale.",
+        "a": "massacre",
+        "en": "The invading army carried out the systematic slaughter of the local population.",
+        "alts": []
+      },
+      {
+        "slot": "gender",
+        "f": "gender",
+        "s": "C'était ___ massacre horrible que personne n'a pu oublier.",
+        "a": "un",
+        "en": "It was a horrible massacre that no one could forget.",
+        "alts": []
+      },
+      {
+        "slot": "gender",
+        "f": "gender",
+        "s": "Les historiens étudient encore ___ massacre qui a eu lieu pendant la guerre.",
+        "a": "le",
+        "en": "Historians still study the massacre that took place during the war.",
+        "alts": []
+      }
+    ]
+  },
+  {
+    "id": 2888,
+    "qs": [
+      {
+        "slot": "s|0",
+        "f": "sense",
+        "s": "Ce journaliste suit de près ___ nationale et internationale depuis vingt ans.",
+        "a": "l'actualité",
+        "en": "This journalist has been closely following national and international current affairs for twenty years.",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "s|0",
+        "f": "sense",
+        "s": "Les étudiants en sciences politiques doivent se tenir informés de ___ du monde.",
+        "a": "l'actualité",
+        "en": "Political science students must keep up with current affairs around the world.",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "s|1",
+        "f": "sense",
+        "s": "Elle regarde ___ à vingt heures chaque soir sur la première chaîne.",
+        "a": "l'actualité",
+        "en": "She watches the news at eight o'clock every evening on the first channel.",
+        "alts": ["les informations", "le journal"],
+        "form": ""
+      },
+      {
+        "slot": "s|1",
+        "f": "sense",
+        "s": "Le présentateur résume ___ du jour en quelques minutes.",
+        "a": "l'actualité",
+        "en": "The presenter summarises the day's news in a few minutes.",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "s|2",
+        "f": "sense",
+        "s": "Ce rapport analyse ___ économique des douze derniers mois.",
+        "a": "l'actualité",
+        "en": "This report analyses the current economic events of the past twelve months.",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "s|2",
+        "f": "sense",
+        "s": "Il est difficile de rester indifférent à ___ sociale qui nous entoure.",
+        "a": "l'actualité",
+        "en": "It is difficult to remain indifferent to the current social events that surround us.",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "gender",
+        "f": "gender",
+        "s": "Mon père lit ___ actualité sportive dans le journal chaque matin.",
+        "a": "l'",
+        "en": "My father reads the sports news in the newspaper every morning.",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "gender",
+        "f": "gender",
+        "s": "C'est ___ actualité brûlante qui passionne toute la rédaction.",
+        "a": "une",
+        "en": "It is a hot-button piece of current news that fascinates the entire newsroom.",
+        "alts": [],
+        "form": ""
+      }
+    ]
+  },
+  {
+    "id": 2889,
+    "qs": [
+      {
+        "slot": "t|Présent|0",
+        "f": "tense",
+        "s": "Après quelques semaines de repos, je ___ moi-même.",
+        "a": "redeviens",
+        "en": "After a few weeks of rest, I become myself again.",
+        "alts": [],
+        "form": "Présent"
+      },
+      {
+        "slot": "t|Présent|0",
+        "f": "tense",
+        "s": "Tu ___ optimiste dès que le soleil se lève.",
+        "a": "redeviens",
+        "en": "You become optimistic again as soon as the sun rises.",
+        "alts": [],
+        "form": "Présent"
+      },
+      {
+        "slot": "t|Présent|1",
+        "f": "tense",
+        "s": "Avec le temps, leur amitié ___ aussi forte qu'avant.",
+        "a": "redevient",
+        "en": "With time, their friendship becomes as strong as before again.",
+        "alts": [],
+        "form": "Présent"
+      },
+      {
+        "slot": "t|Présent|1",
+        "f": "tense",
+        "s": "La ville ___ calme après le départ des touristes.",
+        "a": "redevient",
+        "en": "The city becomes calm again after the tourists leave.",
+        "alts": [],
+        "form": "Présent"
+      },
+      {
+        "slot": "t|Présent|2",
+        "f": "tense",
+        "s": "Après cette dispute, nous ___ amis comme si rien ne s'était passé.",
+        "a": "redevenons",
+        "en": "After this argument, we become friends again as if nothing had happened.",
+        "alts": [],
+        "form": "Présent"
+      },
+      {
+        "slot": "t|Présent|2",
+        "f": "tense",
+        "s": "Chaque été, nous ___ des enfants insouciants.",
+        "a": "redevenons",
+        "en": "Every summer, we become carefree children again.",
+        "alts": [],
+        "form": "Présent"
+      },
+      {
+        "slot": "t|Présent|3",
+        "f": "tense",
+        "s": "Vous ___ sérieux quand le directeur entre dans la salle.",
+        "a": "redevenez",
+        "en": "You become serious again when the director enters the room.",
+        "alts": [],
+        "form": "Présent"
+      },
+      {
+        "slot": "t|Présent|3",
+        "f": "tense",
+        "s": "Est-ce que vous ___ collègues après avoir été rivaux ?",
+        "a": "redevenez",
+        "en": "Are you becoming colleagues again after having been rivals?",
+        "alts": [],
+        "form": "Présent"
+      },
+      {
+        "slot": "t|Présent|4",
+        "f": "tense",
+        "s": "Les deux pays ___ alliés après des années de tension.",
+        "a": "redeviennent",
+        "en": "The two countries become allies again after years of tension.",
+        "alts": [],
+        "form": "Présent"
+      },
+      {
+        "slot": "t|Présent|4",
+        "f": "tense",
+        "s": "Ils ___ nerveux chaque fois qu'ils passent un examen.",
+        "a": "redeviennent",
+        "en": "They become nervous again every time they take an exam.",
+        "alts": [],
+        "form": "Présent"
+      },
+      {
+        "slot": "t|Passé composé|0",
+        "f": "tense",
+        "s": "Après ma guérison, j' ___ actif comme avant.",
+        "a": "suis redevenu",
+        "en": "After my recovery, I became active again as before.",
+        "alts": [],
+        "form": "Passé composé"
+      },
+      {
+        "slot": "t|Passé composé|0",
+        "f": "tense",
+        "s": "Suite à ce traitement, j' ___ capable de travailler.",
+        "a": "suis redevenu",
+        "en": "Following this treatment, I became capable of working again.",
+        "alts": [],
+        "form": "Passé composé"
+      },
+      {
+        "slot": "t|Passé composé|1",
+        "f": "tense",
+        "s": "Tu ___ toi-même après ces vacances bien méritées.",
+        "a": "es redevenu",
+        "en": "You became yourself again after this well-deserved holiday.",
+        "alts": [],
+        "form": "Passé composé"
+      },
+      {
+        "slot": "t|Passé composé|1",
+        "f": "tense",
+        "s": "Tu ___ confiant depuis que tu as réussi cet entretien.",
+        "a": "es redevenu",
+        "en": "You became confident again since you succeeded in that interview.",
+        "alts": [],
+        "form": "Passé composé"
+      },
+      {
+        "slot": "t|Passé composé|2",
+        "f": "tense",
+        "s": "Mon frère ___ calme après quelques heures de sommeil.",
+        "a": "est redevenu",
+        "en": "My brother became calm again after a few hours of sleep.",
+        "alts": [],
+        "form": "Passé composé"
+      },
+      {
+        "slot": "t|Passé composé|2",
+        "f": "tense",
+        "s": "Le quartier ___ animé grâce aux nouveaux commerces.",
+        "a": "est redevenu",
+        "en": "The neighborhood became lively again thanks to the new shops.",
+        "alts": [],
+        "form": "Passé composé"
+      },
+      {
+        "slot": "t|Passé composé|3",
+        "f": "tense",
+        "s": "Nous ___ proches après nous être retrouvés à cette réunion.",
+        "a": "sommes redevenus",
+        "en": "We became close again after meeting at that gathering.",
+        "alts": [],
+        "form": "Passé composé"
+      },
+      {
+        "slot": "t|Passé composé|3",
+        "f": "tense",
+        "s": "Nous ___ efficaces une fois la crise passée.",
+        "a": "sommes redevenus",
+        "en": "We became efficient again once the crisis was over.",
+        "alts": [],
+        "form": "Passé composé"
+      },
+      {
+        "slot": "t|Passé composé|4",
+        "f": "tense",
+        "s": "Vous ___ disponibles dès la fin du projet.",
+        "a": "êtes redevenus",
+        "en": "You became available again as soon as the project ended.",
+        "alts": [],
+        "form": "Passé composé"
+      },
+      {
+        "slot": "t|Passé composé|4",
+        "f": "tense",
+        "s": "Vous ___ partenaires après avoir réglé vos différends.",
+        "a": "êtes redevenus",
+        "en": "You became partners again after settling your differences.",
+        "alts": [],
+        "form": "Passé composé"
+      },
+      {
+        "slot": "t|Passé composé|5",
+        "f": "tense",
+        "s": "Les enfants ___ sages dès que l'institutrice est entrée.",
+        "a": "sont redevenus",
+        "en": "The children became well-behaved again as soon as the teacher came in.",
+        "alts": [],
+        "form": "Passé composé"
+      },
+      {
+        "slot": "t|Passé composé|5",
+        "f": "tense",
+        "s": "Les deux équipes ___ rivales lors du dernier match.",
+        "a": "sont redevenues",
+        "en": "The two teams became rivals again during the last match.",
+        "alts": [],
+        "form": "Passé composé"
+      },
+      {
+        "slot": "t|Imparfait|0",
+        "f": "tense",
+        "s": "Chaque soir, je ___ anxieux à l'idée du lendemain.",
+        "a": "redevenais",
+        "en": "Every evening, I would become anxious again at the thought of the next day.",
+        "alts": [],
+        "form": "Imparfait"
+      },
+      {
+        "slot": "t|Imparfait|0",
+        "f": "tense",
+        "s": "Tu ___ heureux dès que tu voyais ta famille.",
+        "a": "redevenais",
+        "en": "You would become happy again as soon as you saw your family.",
+        "alts": [],
+        "form": "Imparfait"
+      },
+      {
+        "slot": "t|Imparfait|1",
+        "f": "tense",
+        "s": "La mer ___ agitée chaque fois que le vent soufflait.",
+        "a": "redevenait",
+        "en": "The sea would become rough again every time the wind blew.",
+        "alts": [],
+        "form": "Imparfait"
+      },
+      {
+        "slot": "t|Imparfait|1",
+        "f": "tense",
+        "s": "Mon père ___ jeune en esprit pendant les vacances d'été.",
+        "a": "redevenait",
+        "en": "My father would become young at heart again during the summer holidays.",
+        "alts": [],
+        "form": "Imparfait"
+      },
+      {
+        "slot": "t|Imparfait|2",
+        "f": "tense",
+        "s": "Nous ___ amis à chaque fois que nous nous retrouvions.",
+        "a": "redevenions",
+        "en": "We would become friends again every time we got together.",
+        "alts": [],
+        "form": "Imparfait"
+      },
+      {
+        "slot": "t|Imparfait|2",
+        "f": "tense",
+        "s": "Après chaque dispute, nous ___ complices comme avant.",
+        "a": "redevenions",
+        "en": "After each argument, we would become close again like before.",
+        "alts": [],
+        "form": "Imparfait"
+      },
+      {
+        "slot": "t|Imparfait|3",
+        "f": "tense",
+        "s": "Vous ___ sérieux dès que le professeur posait une question.",
+        "a": "redeveniez",
+        "en": "You would become serious again as soon as the teacher asked a question.",
+        "alts": [],
+        "form": "Imparfait"
+      },
+      {
+        "slot": "t|Imparfait|3",
+        "f": "tense",
+        "s": "Vous ___ productifs après quelques minutes de pause.",
+        "a": "redeveniez",
+        "en": "You would become productive again after a few minutes of break.",
+        "alts": [],
+        "form": "Imparfait"
+      },
+      {
+        "slot": "t|Imparfait|4",
+        "f": "tense",
+        "s": "Les rues ___ désertes chaque nuit passé minuit.",
+        "a": "redevenaient",
+        "en": "The streets would become deserted again every night past midnight.",
+        "alts": [],
+        "form": "Imparfait"
+      },
+      {
+        "slot": "t|Imparfait|4",
+        "f": "tense",
+        "s": "Mes amis ___ bavards dès qu'ils se sentaient à l'aise.",
+        "a": "redevenaient",
+        "en": "My friends would become talkative again as soon as they felt at ease.",
+        "alts": [],
+        "form": "Imparfait"
+      },
+      {
+        "slot": "t|Futur|0",
+        "f": "tense",
+        "s": "Après ce stage, je ___ compétitif sur le marché du travail.",
+        "a": "redeviendrai",
+        "en": "After this internship, I will become competitive on the job market again.",
+        "alts": [],
+        "form": "Futur"
+      },
+      {
+        "slot": "t|Futur|0",
+        "f": "tense",
+        "s": "Je ___ libre dès que j'aurai fini mes obligations.",
+        "a": "redeviendrai",
+        "en": "I will become free again as soon as I have finished my obligations.",
+        "alts": [],
+        "form": "Futur"
+      },
+      {
+        "slot": "t|Futur|1",
+        "f": "tense",
+        "s": "Tu ___ fort après quelques semaines d'entraînement.",
+        "a": "redeviendras",
+        "en": "You will become strong again after a few weeks of training.",
+        "alts": [],
+        "form": "Futur"
+      },
+      {
+        "slot": "t|Futur|1",
+        "f": "tense",
+        "s": "Tu ___ toi-même une fois que tu auras surmonté cette épreuve.",
+        "a": "redeviendras",
+        "en": "You will become yourself again once you have overcome this ordeal.",
+        "alts": [],
+        "form": "Futur"
+      },
+      {
+        "slot": "t|Futur|2",
+        "f": "tense",
+        "s": "Ce monument ___ un lieu de rencontre populaire après les travaux.",
+        "a": "redeviendra",
+        "en": "This monument will become a popular meeting place again after the renovations.",
+        "alts": [],
+        "form": "Futur"
+      },
+      {
+        "slot": "t|Futur|2",
+        "f": "tense",
+        "s": "Le marché ___ florissant dès que la situation économique s'améliorera.",
+        "a": "redeviendra",
+        "en": "The market will become flourishing again as soon as the economic situation improves.",
+        "alts": [],
+        "form": "Futur"
+      },
+      {
+        "slot": "t|Futur|3",
+        "f": "tense",
+        "s": "Nous ___ indépendants une fois la dette remboursée.",
+        "a": "redeviendrons",
+        "en": "We will become independent again once the debt is repaid.",
+        "alts": [],
+        "form": "Futur"
+      },
+      {
+        "slot": "t|Futur|3",
+        "f": "tense",
+        "s": "Nous ___ voisins si nous achetons cet appartement.",
+        "a": "redeviendrons",
+        "en": "We will become neighbors again if we buy this apartment.",
+        "alts": [],
+        "form": "Futur"
+      },
+      {
+        "slot": "t|Futur|4",
+        "f": "tense",
+        "s": "Vous ___ populaires grâce à cette nouvelle initiative.",
+        "a": "redeviendrez",
+        "en": "You will become popular again thanks to this new initiative.",
+        "alts": [],
+        "form": "Futur"
+      },
+      {
+        "slot": "t|Futur|4",
+        "f": "tense",
+        "s": "Vous ___ partenaires commerciaux après cette négociation.",
+        "a": "redeviendrez",
+        "en": "You will become business partners again after this negotiation.",
+        "alts": [],
+        "form": "Futur"
+      },
+      {
+        "slot": "t|Futur|5",
+        "f": "tense",
+        "s": "Les forêts ___ luxuriantes après les pluies de printemps.",
+        "a": "redeviendront",
+        "en": "The forests will become lush again after the spring rains.",
+        "alts": [],
+        "form": "Futur"
+      },
+      {
+        "slot": "t|Futur|5",
+        "f": "tense",
+        "s": "Les deux anciens amis ___ inséparables dès qu'ils se reverront.",
+        "a": "redeviendront",
+        "en": "The two old friends will become inseparable again as soon as they see each other.",
+        "alts": [],
+        "form": "Futur"
+      },
+      {
+        "slot": "t|Conditionnel|0",
+        "f": "tense",
+        "s": "Si tu prenais du repos, tu ___ plus énergique.",
+        "a": "redeviendrais",
+        "en": "If you rested, you would become more energetic again.",
+        "alts": [],
+        "form": "Conditionnel"
+      },
+      {
+        "slot": "t|Conditionnel|0",
+        "f": "tense",
+        "s": "Si j'acceptais ce poste, je ___ responsable de toute l'équipe.",
+        "a": "redeviendrais",
+        "en": "If I accepted this position, I would become responsible for the whole team again.",
+        "alts": [],
+        "form": "Conditionnel"
+      },
+      {
+        "slot": "t|Conditionnel|1",
+        "f": "tense",
+        "s": "Si elle s'entraînait davantage, elle ___ championne.",
+        "a": "redeviendrait",
+        "en": "If she trained more, she would become a champion again.",
+        "alts": [],
+        "form": "Conditionnel"
+      },
+      {
+        "slot": "t|Conditionnel|1",
+        "f": "tense",
+        "s": "Si ce pays adoptait ces réformes, il ___ prospère.",
+        "a": "redeviendrait",
+        "en": "If this country adopted these reforms, it would become prosperous again.",
+        "alts": [],
+        "form": "Conditionnel"
+      },
+      {
+        "slot": "t|Conditionnel|2",
+        "f": "tense",
+        "s": "Si nous travaillions ensemble, nous ___ une force redoutable.",
+        "a": "redeviendrions",
+        "en": "If we worked together, we would become a formidable force again.",
+        "alts": [],
+        "form": "Conditionnel"
+      },
+      {
+        "slot": "t|Conditionnel|2",
+        "f": "tense",
+        "s": "Avec un peu d'efforts, nous ___ compétitifs sur ce marché.",
+        "a": "redeviendrions",
+        "en": "With a little effort, we would become competitive on this market again.",
+        "alts": [],
+        "form": "Conditionnel"
+      },
+      {
+        "slot": "t|Conditionnel|3",
+        "f": "tense",
+        "s": "Si vous acceptiez ces conditions, vous ___ membres à part entière.",
+        "a": "redeviendriez",
+        "en": "If you accepted these conditions, you would become full members again.",
+        "alts": [],
+        "form": "Conditionnel"
+      },
+      {
+        "slot": "t|Conditionnel|3",
+        "f": "tense",
+        "s": "Avec cette formation, vous ___ experts dans votre domaine.",
+        "a": "redeviendriez",
+        "en": "With this training, you would become experts in your field again.",
+        "alts": [],
+        "form": "Conditionnel"
+      },
+      {
+        "slot": "t|Conditionnel|4",
+        "f": "tense",
+        "s": "Si ces acteurs collaboraient, ils ___ une référence dans le cinéma.",
+        "a": "redeviendraient",
+        "en": "If these actors collaborated, they would become a reference in cinema again.",
+        "alts": [],
+        "form": "Conditionnel"
+      },
+      {
+        "slot": "t|Conditionnel|4",
+        "f": "tense",
+        "s": "Si les deux entreprises fusionnaient, elles ___ leader du marché.",
+        "a": "redeviendraient",
+        "en": "If the two companies merged, they would become market leader again.",
+        "alts": [],
+        "form": "Conditionnel"
+      },
+      {
+        "slot": "t|Subjonctif",
+        "f": "subj",
+        "s": "Il faut que tu ___ sérieux si tu veux réussir.",
+        "a": "redeviennes",
+        "en": "It is necessary that you become serious again if you want to succeed.",
+        "alts": [],
+        "form": "Subjonctif"
+      },
+      {
+        "slot": "t|Subjonctif",
+        "f": "subj",
+        "s": "Je veux qu'il ___ le chef de ce projet.",
+        "a": "redevienne",
+        "en": "I want him to become the leader of this project again.",
+        "alts": [],
+        "form": "Subjonctif"
+      },
+      {
+        "slot": "s|0",
+        "f": "sense",
+        "s": "Après des années d'absence, la région ___ une destination touristique prisée.",
+        "a": "redevient",
+        "en": "After years of absence, the region becomes a sought-after tourist destination again.",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "s|0",
+        "f": "sense",
+        "s": "Grâce à la thérapie, il ___ l'homme qu'il était autrefois.",
+        "a": "redevient",
+        "en": "Thanks to therapy, he becomes the man he once was again.",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "s|1",
+        "f": "sense",
+        "s": "Après sa retraite forcée, le champion ___ actif dans le monde du sport.",
+        "a": "redevient",
+        "en": "After his forced retirement, the champion becomes active in the sports world once more.",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "s|1",
+        "f": "sense",
+        "s": "Les deux anciens ennemis ___ alliés face à la menace commune.",
+        "a": "redeviennent",
+        "en": "The two former enemies become allies once more in the face of the common threat.",
+        "alts": [],
+        "form": ""
+      }
+    ]
+  }
+]

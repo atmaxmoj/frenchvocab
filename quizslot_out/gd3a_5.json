@@ -1,0 +1,179 @@
+[
+  {
+    "id": 166,
+    "qs": [
+      {
+        "slot": "s|0",
+        "f": "sense",
+        "s": "Pour aller au centre-ville, tu peux prendre soit le métro ___ le bus.",
+        "en": "To get to the city center, you can take either the metro or the bus.",
+        "a": "soit",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "s|0",
+        "f": "sense",
+        "s": "Il faut choisir ___ rester ici soit partir tout de suite.",
+        "en": "You have to choose either to stay here or to leave right away.",
+        "a": "soit",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "s|1",
+        "f": "sense",
+        "s": "— Je préfère qu'on se retrouve à dix heures. — ___, rendez-vous à dix heures.",
+        "en": "— I'd rather we meet at ten o'clock. — Very well, see you at ten.",
+        "a": "Soit",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "s|1",
+        "f": "sense",
+        "s": "Tu veux qu'on annule la réunion ? ___, mais préviens tout le monde.",
+        "en": "You want us to cancel the meeting? Fine, but let everyone know.",
+        "a": "Soit",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "s|2",
+        "f": "sense",
+        "s": "Ce repas coûte vingt euros par personne, ___ quarante euros pour deux.",
+        "en": "This meal costs twenty euros per person, that is to say forty euros for two.",
+        "a": "soit",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "s|2",
+        "f": "sense",
+        "s": "La réunion dure deux heures, ___ de quatorze heures à seize heures.",
+        "en": "The meeting lasts two hours, that is to say from 2 p.m. to 4 p.m.",
+        "a": "soit",
+        "alts": [],
+        "form": ""
+      }
+    ]
+  },
+  {
+    "id": 167,
+    "qs": [
+      {
+        "slot": "s|0",
+        "f": "sense",
+        "s": "Venez ___, j'ai quelque chose d'important à vous montrer.",
+        "en": "Come here, I have something important to show you.",
+        "a": "ici",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "s|0",
+        "f": "sense",
+        "s": "D'___ à la gare, il faut compter dix minutes à pied.",
+        "en": "From here to the station, it takes ten minutes on foot.",
+        "a": "ici",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "s|1",
+        "f": "sense",
+        "s": "Il est strictement interdit de fumer ___.",
+        "en": "Smoking is strictly prohibited here (in this place).",
+        "a": "ici",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "s|1",
+        "f": "sense",
+        "s": "Tous les documents mentionnés ___ doivent être fournis en original.",
+        "en": "All documents mentioned here must be provided in original form.",
+        "a": "ici",
+        "alts": [],
+        "form": ""
+      }
+    ]
+  },
+  {
+    "id": 168,
+    "qs": [
+      {
+        "slot": "s|0",
+        "f": "sense",
+        "s": "J'ai cherché mes clés partout, mais je n'ai trouvé ___ .",
+        "en": "I searched for my keys everywhere, but I found nothing.",
+        "a": "rien",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "s|0",
+        "f": "sense",
+        "s": "Il a ouvert le tiroir et n'y a vu ___ d'intéressant.",
+        "en": "He opened the drawer and saw nothing interesting in it.",
+        "a": "rien",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "s|1",
+        "f": "sense",
+        "s": "— Tu as l'air fatigué. Ça va ? — Ce n'est ___ , juste une longue journée.",
+        "en": "— You look tired. Are you okay? — It's nothing, just a long day.",
+        "a": "rien",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "s|1",
+        "f": "sense",
+        "s": "Ne t'inquiète pas, il ne se passe ___ d'anormal ici.",
+        "en": "Don't worry, nothing unusual is happening here.",
+        "a": "rien",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "s|2",
+        "f": "sense",
+        "s": "Ce retard ne change ___ à nos plans.",
+        "en": "This delay does not change our plans in the least.",
+        "a": "rien",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "s|2",
+        "f": "sense",
+        "s": "Il n'est en ___ responsable de cet accident.",
+        "en": "He is in no way responsible for this accident.",
+        "a": "rien",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "gender",
+        "f": "gender",
+        "s": "Il se met en colère pour ___ rien.",
+        "en": "He gets angry over the slightest thing.",
+        "a": "un",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "gender",
+        "f": "gender",
+        "s": "Les philosophes s'interrogent sur ___ rien absolu, l'absence totale d'existence.",
+        "en": "Philosophers reflect on absolute nothingness, the total absence of existence.",
+        "a": "le",
+        "alts": [],
+        "form": ""
+      }
+    ]
+  }
+]

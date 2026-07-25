@@ -1,0 +1,43 @@
+[
+  {
+    "id": 109,
+    "qs": [
+      {"slot":"s|0","f":"sense","s":"Tu vois ce bâtiment ___ ? C'est l'hôtel de ville.","a":"là","en":"Do you see that building there? That's the town hall.","alts":[],"form":""},
+      {"slot":"s|0","f":"sense","s":"Il a posé ses affaires ___ et il est parti sans un mot.","a":"là","en":"He put his things there and left without a word.","alts":[],"form":""},
+      {"slot":"s|1","f":"sense","s":"Ne t'inquiète pas, je suis ___ si tu as besoin d'aide.","a":"là","en":"Don't worry, I'm here if you need help.","alts":[],"form":""},
+      {"slot":"s|1","f":"sense","s":"Reste ___, je reviens dans cinq minutes.","a":"là","en":"Stay here, I'll be back in five minutes.","alts":[],"form":""},
+      {"slot":"s|2","f":"sense","s":"C'est ___ que réside toute la difficulté du problème.","a":"là","en":"It is here (at this point) that the entire difficulty of the problem lies.","alts":[],"form":""},
+      {"slot":"s|2","f":"sense","s":"Il reconnut son erreur, et c'est ___ qu'il décida de tout changer.","a":"là","en":"He acknowledged his mistake, and it is at that point that he decided to change everything.","alts":[],"form":""}
+    ]
+  },
+  {
+    "id": 280,
+    "qs": [
+      {"slot":"s|0","f":"sense","s":"Le ___ de l'emploi est très compétitif en ce moment.","a":"marché","en":"The job market is very competitive right now.","alts":[],"form":""},
+      {"slot":"s|0","f":"sense","s":"Les prix sur le ___ immobilier ont beaucoup augmenté ces dernières années.","a":"marché","en":"Prices on the real estate market have risen a lot in recent years.","alts":[],"form":""},
+      {"slot":"s|1","f":"sense","s":"Nous avons conclu un ___ avantageux avec ce fournisseur.","a":"marché","en":"We made an advantageous deal with this supplier.","alts":[],"form":""},
+      {"slot":"s|1","f":"sense","s":"C'est un bon ___ : tu paies moins cher et tu obtiens plus.","a":"marché","en":"It's a good deal: you pay less and you get more.","alts":[],"form":""},
+      {"slot":"s|2","f":"sense","s":"Le dimanche matin, je vais au ___ acheter des légumes frais.","a":"marché","en":"On Sunday morning, I go to the market to buy fresh vegetables.","alts":[],"form":""},
+      {"slot":"s|2","f":"sense","s":"Ce ___ en plein air a lieu tous les samedis sur la place centrale.","a":"marché","en":"This open-air market takes place every Saturday in the main square.","alts":[],"form":""},
+      {"slot":"gender","f":"gender","s":"___ marché du village attire beaucoup de touristes chaque week-end.","a":"Le","en":"The village market attracts many tourists every weekend.","alts":[],"form":""},
+      {"slot":"gender","f":"gender","s":"Elle cherche ___ marché où acheter des fleurs fraîches à bon prix.","a":"un","en":"She is looking for a market where she can buy fresh flowers at a good price.","alts":[],"form":""}
+    ]
+  },
+  {
+    "id": 274,
+    "qs": [
+      {"slot":"s|0","f":"sense","s":"Ce film est vraiment ___ ; je ne le recommande à personne.","a":"mauvais","en":"This film is really bad; I don't recommend it to anyone.","alts":[]},
+      {"slot":"s|0","f":"sense","s":"Il a eu une ___ note à son examen parce qu'il n'avait pas étudié.","a":"mauvaise","en":"He got a bad grade on his exam because he hadn't studied.","alts":[]},
+      {"slot":"s|1","f":"sense","s":"Désolé, vous avez composé le ___ numéro.","a":"mauvais","en":"Sorry, you dialed the wrong number.","alts":[]},
+      {"slot":"s|1","f":"sense","s":"Tu as pris la ___ direction ; il fallait tourner à gauche.","a":"mauvaise","en":"You took the wrong direction; you should have turned left.","alts":[]},
+      {"slot":"s|2","f":"sense","s":"À cause du ___ temps, le match a été annulé.","a":"mauvais","en":"Because of the awful weather, the match was cancelled.","alts":[]},
+      {"slot":"s|2","f":"sense","s":"Les secouristes ont travaillé dans de ___ conditions pendant toute la nuit.","a":"mauvaises","en":"The rescue workers worked in harsh conditions throughout the night.","alts":[]},
+      {"slot":"g|mp","f":"agree","s":"Ces ___ élèves perturbent constamment le cours.","a":"mauvais","en":"These bad students constantly disrupt the class.","alts":[]},
+      {"slot":"g|mp","f":"agree","s":"Il a pris de ___ médicaments sans ordonnance et c'était dangereux.","a":"mauvais","en":"He took wrong medications without a prescription and it was dangerous.","alts":[]},
+      {"slot":"g|f","f":"agree","s":"C'est une ___ idée de sortir sans manteau en hiver.","a":"mauvaise","en":"It's a bad idea to go out without a coat in winter.","alts":[]},
+      {"slot":"g|f","f":"agree","s":"Elle a eu une ___ surprise en découvrant que son vol était annulé.","a":"mauvaise","en":"She had a bad surprise when she discovered her flight was cancelled.","alts":[]},
+      {"slot":"g|fp","f":"agree","s":"Ces ___ habitudes peuvent nuire à ta santé sur le long terme.","a":"mauvaises","en":"These bad habits can harm your health in the long term.","alts":[]},
+      {"slot":"g|fp","f":"agree","s":"Il a reçu de ___ nouvelles ce matin et il est très triste.","a":"mauvaises","en":"He received bad news this morning and he is very sad.","alts":[]}
+    ]
+  }
+]

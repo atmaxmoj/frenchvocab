@@ -1,0 +1,227 @@
+[
+  {
+    "id": 4001,
+    "qs": [
+      {
+        "slot": "s|0",
+        "f": "sense",
+        "s": "Mon professeur a corrigé mon ___ de mathématiques.",
+        "a": "cahier",
+        "en": "My teacher corrected my math exercise book.",
+        "alts": []
+      },
+      {
+        "slot": "s|0",
+        "f": "sense",
+        "s": "Ouvre ton ___ d'exercices et complète les phrases.",
+        "a": "cahier",
+        "en": "Open your exercise book and complete the sentences.",
+        "alts": []
+      },
+      {
+        "slot": "s|1",
+        "f": "sense",
+        "s": "J'écris mes idées dans un ___ que je garde toujours dans mon sac.",
+        "a": "cahier",
+        "en": "I write my ideas in a notebook that I always keep in my bag.",
+        "alts": ["carnet"]
+      },
+      {
+        "slot": "s|1",
+        "f": "sense",
+        "s": "Elle a noté le numéro de téléphone dans son ___.",
+        "a": "cahier",
+        "en": "She wrote down the phone number in her notebook.",
+        "alts": ["carnet"]
+      },
+      {
+        "slot": "gender",
+        "f": "gender",
+        "s": "J'ai acheté ___ cahier neuf pour la rentrée.",
+        "a": "un",
+        "en": "I bought a new notebook for the start of the school year.",
+        "alts": []
+      },
+      {
+        "slot": "gender",
+        "f": "gender",
+        "s": "___ cahier de Marie est couvert de dessins.",
+        "a": "Le",
+        "en": "Marie's notebook is covered in drawings.",
+        "alts": []
+      }
+    ]
+  },
+  {
+    "id": 4002,
+    "qs": [
+      {
+        "slot": "s|0",
+        "f": "sense",
+        "s": "Ce canapé est léger et ___ : on peut le déplacer facilement d'une pièce à l'autre.",
+        "a": "portable",
+        "en": "This sofa is light and portable: you can easily move it from one room to another.",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "s|0",
+        "f": "sense",
+        "s": "Ils cherchent un générateur ___ pour leurs expéditions en montagne.",
+        "a": "portable",
+        "en": "They are looking for a portable generator for their mountain expeditions.",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "s|1",
+        "f": "sense",
+        "s": "Mon ___ a sonné pendant la réunion, ce qui était très gênant.",
+        "a": "portable",
+        "en": "My cell phone rang during the meeting, which was very embarrassing.",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "s|1",
+        "f": "sense",
+        "s": "Elle a oublié son ___ à la maison et ne peut pas appeler ses amis.",
+        "a": "portable",
+        "en": "She forgot her cell phone at home and cannot call her friends.",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "s|2",
+        "f": "sense",
+        "s": "Il a posé son ___ sur la table et a commencé à taper son rapport.",
+        "a": "portable",
+        "en": "He put his laptop on the table and started typing his report.",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "s|2",
+        "f": "sense",
+        "s": "Elle travaille souvent dans des cafés avec son ___ et une connexion Wi-Fi.",
+        "a": "portable",
+        "en": "She often works in cafes with her laptop and a Wi-Fi connection.",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "gender",
+        "f": "gender",
+        "s": "J'ai besoin d'acheter ___ portable pour pouvoir travailler en déplacement.",
+        "a": "un",
+        "en": "I need to buy a laptop/portable device to be able to work while travelling.",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "gender",
+        "f": "gender",
+        "s": "Tu as vu ___ portable de Marie ? Il est tout neuf.",
+        "a": "le",
+        "en": "Have you seen Marie's cell phone/laptop? It is brand new.",
+        "alts": [],
+        "form": ""
+      }
+    ]
+  },
+  {
+    "id": 4003,
+    "qs": [
+      {
+        "slot": "s|0",
+        "f": "sense",
+        "s": "Cet enfant ___ a commencé à marcher à seulement huit mois.",
+        "a": "précoce",
+        "en": "This precocious child started walking at only eight months.",
+        "alts": ["avancé"],
+        "form": ""
+      },
+      {
+        "slot": "s|0",
+        "f": "sense",
+        "s": "On dit que Mozart était un musicien ___ : il composait déjà à l'âge de cinq ans.",
+        "a": "précoce",
+        "en": "They say Mozart was a precocious musician: he was already composing at the age of five.",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "s|1",
+        "f": "sense",
+        "s": "Sa retraite ___ à cinquante ans a surpris tout le monde dans l'entreprise.",
+        "a": "précoce",
+        "en": "His early retirement at fifty surprised everyone in the company.",
+        "alts": ["prématurée"],
+        "form": ""
+      },
+      {
+        "slot": "s|1",
+        "f": "sense",
+        "s": "Le médecin a évoqué le risque d'une mort ___ si le patient ne changeait pas de mode de vie.",
+        "a": "précoce",
+        "en": "The doctor mentioned the risk of a premature death if the patient didn't change his lifestyle.",
+        "alts": ["prématurée"],
+        "form": ""
+      },
+      {
+        "slot": "g|mp",
+        "f": "agree",
+        "s": "Ces enfants ___ ont appris à lire bien avant leurs camarades.",
+        "a": "précoces",
+        "en": "These precocious children learned to read well before their peers.",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "g|mp",
+        "f": "agree",
+        "s": "Ses deux fils sont des élèves ___ qui sautent souvent une classe.",
+        "a": "précoces",
+        "en": "His two sons are precocious students who often skip a grade.",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "g|f",
+        "f": "agree",
+        "s": "Ma nièce est une enfant ___ : elle parle trois langues à l'âge de six ans.",
+        "a": "précoce",
+        "en": "My niece is a precocious child: she speaks three languages at the age of six.",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "g|f",
+        "f": "agree",
+        "s": "Cette adolescente ___ a quitté le lycée à seize ans pour entrer à l'université.",
+        "a": "précoce",
+        "en": "This precocious teenager left high school at sixteen to enter university.",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "g|fp",
+        "f": "agree",
+        "s": "Ces petites filles ___ savent déjà lire avant d'entrer à l'école primaire.",
+        "a": "précoces",
+        "en": "These precocious little girls already know how to read before starting primary school.",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "g|fp",
+        "f": "agree",
+        "s": "Les fleurs ___ de ce cerisier ont souffert du gel au mois de mars.",
+        "a": "précoces",
+        "en": "The early flowers of this cherry tree suffered from frost in March.",
+        "alts": [],
+        "form": ""
+      }
+    ]
+  }
+]

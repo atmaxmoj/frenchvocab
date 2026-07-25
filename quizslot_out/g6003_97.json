@@ -1,0 +1,35 @@
+[
+  {
+    "id": 5887,
+    "qs": [
+      {"slot":"s|0","f":"sense","s":"Avant son mariage, elle a consulté un ___ pour connaître son avenir.","a":"voyant","en":"Before her wedding, she consulted a clairvoyant to find out about her future.","alts":[],"form":""},
+      {"slot":"s|0","f":"sense","s":"Ce ___ prétendait pouvoir prédire l'avenir en lisant les lignes de la main.","a":"voyant","en":"This seer claimed to be able to predict the future by reading palms.","alts":[],"form":""},
+      {"slot":"s|1","f":"sense","s":"Le ___ rouge du tableau de bord s'est allumé pendant le trajet.","a":"voyant","en":"The red indicator light on the dashboard came on during the trip.","alts":[],"form":""},
+      {"slot":"s|1","f":"sense","s":"Vérifie si le ___ de la batterie clignote sur l'appareil.","a":"voyant","en":"Check whether the battery indicator light is blinking on the device.","alts":[],"form":""},
+      {"slot":"gender","f":"gender","s":"___ voyant s'est mis à clignoter dès le démarrage de la voiture.","a":"Le","en":"The indicator light started blinking as soon as the car started.","alts":[],"form":""},
+      {"slot":"gender","f":"gender","s":"Elle est allée voir ___ voyant réputé du quartier.","a":"un","en":"She went to see a well-known seer in the neighborhood.","alts":[],"form":""}
+    ]
+  },
+  {
+    "id": 5888,
+    "qs": [
+      {"slot":"s|0","f":"sense","s":"Cet ___ soudain pour les réseaux sociaux ne durera sans doute pas longtemps.","a":"engouement","en":"This sudden craze for social media probably won't last long.","alts":[],"form":""},
+      {"slot":"s|0","f":"sense","s":"Son ___ pour ce chanteur est passé aussi vite qu'il était venu.","a":"engouement","en":"Her infatuation with this singer faded as quickly as it had come.","alts":[],"form":""},
+      {"slot":"gender","f":"gender","s":"Il y a eu ___ engouement massif pour ce jeu vidéo l'été dernier.","a":"un","en":"There was a massive craze for this video game last summer.","alts":[],"form":""},
+      {"slot":"gender","f":"gender","s":"Cette marque connaît ___ engouement inattendu depuis quelques mois.","a":"un","en":"This brand has been experiencing an unexpected craze for a few months.","alts":[],"form":""}
+    ]
+  },
+  {
+    "id": 5889,
+    "qs": [
+      {"slot":"s|0","f":"sense","s":"La défaite de l'équipe semblait ___ après le premier but encaissé.","a":"inéluctable","en":"The team's defeat seemed inevitable after conceding the first goal.","alts":[],"form":""},
+      {"slot":"s|0","f":"sense","s":"Face à la crise économique, une hausse des prix est ___.","a":"inéluctable","en":"Faced with the economic crisis, a price increase is inevitable.","alts":[],"form":""},
+      {"slot":"g|mp","f":"agree","s":"Les changements climatiques sont désormais ___.","a":"inéluctables","en":"Climate changes are now inevitable.","alts":[],"form":""},
+      {"slot":"g|mp","f":"agree","s":"Ces conflits semblaient ___ vu les tensions accumulées.","a":"inéluctables","en":"These conflicts seemed inevitable given the accumulated tensions.","alts":[],"form":""},
+      {"slot":"g|f","f":"agree","s":"Sa décision de partir était ___.","a":"inéluctable","en":"Her decision to leave was inevitable.","alts":[],"form":""},
+      {"slot":"g|f","f":"agree","s":"Cette défaite paraissait ___ dès le début du match.","a":"inéluctable","en":"This defeat seemed inevitable from the start of the match.","alts":[],"form":""},
+      {"slot":"g|fp","f":"agree","s":"Les conséquences de ce choix sont ___.","a":"inéluctables","en":"The consequences of this choice are inevitable.","alts":[],"form":""},
+      {"slot":"g|fp","f":"agree","s":"Ces catastrophes naturelles semblent ___ face au réchauffement climatique.","a":"inéluctables","en":"These natural disasters seem inevitable in the face of global warming.","alts":[],"form":""}
+    ]
+  }
+]

@@ -1,0 +1,203 @@
+[
+  {
+    "id": 3971,
+    "qs": [
+      {
+        "slot": "s|0",
+        "f": "sense",
+        "s": "Ce médecin a recommandé sa patiente à un ___ spécialiste dans un autre hôpital.",
+        "en": "This doctor referred his patient to a fellow practitioner who is a specialist at another hospital.",
+        "a": "confrère",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "s|0",
+        "f": "sense",
+        "s": "L'avocat a consulté un ___ du barreau de Lyon avant de plaider l'affaire.",
+        "en": "The lawyer consulted a fellow practitioner from the Lyon bar before pleading the case.",
+        "a": "confrère",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "s|1",
+        "f": "sense",
+        "s": "Il a présenté ses recherches à ses ___ du service de cardiologie.",
+        "en": "He presented his research to his colleagues in the cardiology department.",
+        "a": "confrères",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "s|1",
+        "f": "sense",
+        "s": "Les notaires ont invité leurs ___ de la même étude à une réunion professionnelle.",
+        "en": "The notaries invited their colleagues from the same office to a professional meeting.",
+        "a": "confrères",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "gender",
+        "f": "gender",
+        "s": "Mon patron a demandé l'avis d'___ avant de prendre une décision.",
+        "en": "My boss asked the opinion of a colleague (in the same profession) before making a decision.",
+        "a": "un confrère",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "gender",
+        "f": "gender",
+        "s": "Elle a salué ___ confrère qu'elle avait rencontré au congrès l'année dernière.",
+        "en": "She greeted the colleague (in the same profession) she had met at the conference the year before.",
+        "a": "le",
+        "alts": [],
+        "form": ""
+      }
+    ]
+  },
+  {
+    "id": 3972,
+    "qs": [
+      {
+        "slot": "s|0",
+        "f": "sense",
+        "s": "Cette bouteille contient exactement un ___ d'eau.",
+        "en": "This bottle contains exactly one litre of water.",
+        "a": "litre",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "s|0",
+        "f": "sense",
+        "s": "Il faut deux ___ de lait pour faire cette recette.",
+        "en": "You need two litres of milk to make this recipe.",
+        "a": "litres",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "gender",
+        "f": "gender",
+        "s": "J'ai acheté ___ litre d'huile d'olive au marché.",
+        "en": "I bought a litre of olive oil at the market.",
+        "a": "un",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "gender",
+        "f": "gender",
+        "s": "Il a bu ___ litre entier de jus d'orange ce matin.",
+        "en": "He drank a whole litre of orange juice this morning.",
+        "a": "un",
+        "alts": [],
+        "form": ""
+      }
+    ]
+  },
+  {
+    "id": 3973,
+    "qs": [
+      {
+        "slot": "s|0",
+        "f": "sense",
+        "s": "Après l'opération, le médecin a prévu un rendez-vous ___ pour vérifier la guérison.",
+        "en": "After the operation, the doctor scheduled a follow-up appointment to check on recovery.",
+        "a": "suivi",
+        "alts": []
+      },
+      {
+        "slot": "s|0",
+        "f": "sense",
+        "s": "Sans un ___ régulier, il est difficile de mesurer les progrès du patient.",
+        "en": "Without regular follow-up, it is difficult to measure the patient's progress.",
+        "a": "suivi",
+        "alts": []
+      },
+      {
+        "slot": "s|1",
+        "f": "sense",
+        "s": "Ce cours de musique est très ___ : les élèves progressent semaine après semaine.",
+        "en": "This music course is very consistent: the students make progress week after week.",
+        "a": "suivi",
+        "alts": []
+      },
+      {
+        "slot": "s|1",
+        "f": "sense",
+        "s": "Il faut un effort ___ et régulier pour apprendre une nouvelle langue.",
+        "en": "A continuous and regular effort is needed to learn a new language.",
+        "a": "suivi",
+        "alts": []
+      },
+      {
+        "slot": "s|2",
+        "f": "sense",
+        "s": "Son discours n'était pas très ___ : il passait d'un sujet à l'autre sans logique.",
+        "en": "His speech was not very coherent: he jumped from one subject to another without logic.",
+        "a": "suivi",
+        "alts": []
+      },
+      {
+        "slot": "s|2",
+        "f": "sense",
+        "s": "La narration de ce roman est parfaitement ___ et facile à comprendre.",
+        "en": "The narrative of this novel is perfectly coherent and easy to understand.",
+        "a": "suivie",
+        "alts": []
+      },
+      {
+        "slot": "g|mp",
+        "f": "agree",
+        "s": "Les entretiens ___ ont permis d'évaluer l'évolution des candidats.",
+        "en": "The follow-up interviews allowed the candidates' progress to be evaluated.",
+        "a": "suivis",
+        "alts": []
+      },
+      {
+        "slot": "g|mp",
+        "f": "agree",
+        "s": "Ces programmes ___ ont montré des résultats constants sur plusieurs années.",
+        "en": "These consistent programs showed steady results over several years.",
+        "a": "suivis",
+        "alts": []
+      },
+      {
+        "slot": "g|f",
+        "f": "agree",
+        "s": "Une politique commerciale ___ est essentielle pour fidéliser les clients.",
+        "en": "A consistent commercial policy is essential for building customer loyalty.",
+        "a": "suivie",
+        "alts": []
+      },
+      {
+        "slot": "g|f",
+        "f": "agree",
+        "s": "Elle a besoin d'une thérapie ___ pour surmonter cette période difficile.",
+        "en": "She needs continuous therapy to overcome this difficult period.",
+        "a": "suivie",
+        "alts": []
+      },
+      {
+        "slot": "g|fp",
+        "f": "agree",
+        "s": "Des formations ___ sont proposées aux employés tout au long de l'année.",
+        "en": "Continuous training sessions are offered to employees throughout the year.",
+        "a": "suivies",
+        "alts": []
+      },
+      {
+        "slot": "g|fp",
+        "f": "agree",
+        "s": "Ces consultations ___ avec le spécialiste ont été très bénéfiques pour lui.",
+        "en": "These follow-up consultations with the specialist were very beneficial for him.",
+        "a": "suivies",
+        "alts": []
+      }
+    ]
+  }
+]

@@ -1,0 +1,683 @@
+[
+  {
+    "id": 1355,
+    "qs": [
+      {
+        "slot": "s|0",
+        "f": "sense",
+        "s": "Nous avons prévu une sortie ___ prochain avec toute la famille.",
+        "a": "samedi",
+        "en": "We have planned an outing next Saturday with the whole family.",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "s|0",
+        "f": "sense",
+        "s": "Le cours de danse a lieu chaque ___ matin.",
+        "a": "samedi",
+        "en": "The dance class takes place every Saturday morning.",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "gender",
+        "f": "gender",
+        "s": "___ samedi est mon jour préféré de la semaine.",
+        "a": "Le",
+        "en": "Saturday is my favorite day of the week.",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "gender",
+        "f": "gender",
+        "s": "Je préfère ___ samedi au dimanche pour faire mes courses.",
+        "a": "le",
+        "en": "I prefer Saturday to Sunday for doing my shopping.",
+        "alts": [],
+        "form": ""
+      }
+    ]
+  },
+  {
+    "id": 1356,
+    "qs": [
+      {
+        "slot": "t|Présent|0",
+        "f": "tense",
+        "s": "Je t'___ dès que j'ai du nouveau.",
+        "a": "informe",
+        "en": "I inform you as soon as I have any news.",
+        "alts": [],
+        "form": "Présent"
+      },
+      {
+        "slot": "t|Présent|0",
+        "f": "tense",
+        "s": "Le médecin ___ le patient de son diagnostic.",
+        "a": "informe",
+        "en": "The doctor informs the patient of his diagnosis.",
+        "alts": [],
+        "form": "Présent"
+      },
+      {
+        "slot": "t|Présent|1",
+        "f": "tense",
+        "s": "Tu ___ tes parents de ta décision ?",
+        "a": "informes",
+        "en": "Are you informing your parents of your decision?",
+        "alts": [],
+        "form": "Présent"
+      },
+      {
+        "slot": "t|Présent|1",
+        "f": "tense",
+        "s": "Est-ce que tu ___ bien le responsable avant de partir ?",
+        "a": "informes",
+        "en": "Do you properly inform the manager before leaving?",
+        "alts": [],
+        "form": "Présent"
+      },
+      {
+        "slot": "t|Présent|2",
+        "f": "tense",
+        "s": "Nous ___ tous les employés des nouvelles règles.",
+        "a": "informons",
+        "en": "We inform all employees of the new rules.",
+        "alts": [],
+        "form": "Présent"
+      },
+      {
+        "slot": "t|Présent|2",
+        "f": "tense",
+        "s": "Nous ___ nos clients par e-mail chaque semaine.",
+        "a": "informons",
+        "en": "We inform our clients by email every week.",
+        "alts": [],
+        "form": "Présent"
+      },
+      {
+        "slot": "t|Présent|3",
+        "f": "tense",
+        "s": "Vous ___ les autorités en cas d'urgence ?",
+        "a": "informez",
+        "en": "Do you inform the authorities in case of emergency?",
+        "alts": [],
+        "form": "Présent"
+      },
+      {
+        "slot": "t|Présent|3",
+        "f": "tense",
+        "s": "Vous ___ vos collègues de tout changement de planning.",
+        "a": "informez",
+        "en": "You inform your colleagues of any schedule change.",
+        "alts": [],
+        "form": "Présent"
+      },
+      {
+        "slot": "t|Présent|4",
+        "f": "tense",
+        "s": "Les journalistes ___ le public des événements récents.",
+        "a": "informent",
+        "en": "The journalists inform the public of recent events.",
+        "alts": [],
+        "form": "Présent"
+      },
+      {
+        "slot": "t|Présent|4",
+        "f": "tense",
+        "s": "Elles ___ leurs proches de leur arrivée.",
+        "a": "informent",
+        "en": "They inform their loved ones of their arrival.",
+        "alts": [],
+        "form": "Présent"
+      },
+      {
+        "slot": "t|Passé composé|0",
+        "f": "tense",
+        "s": "J'___ mon patron de mon absence ce matin.",
+        "a": "ai informé",
+        "en": "I informed my boss of my absence this morning.",
+        "alts": [],
+        "form": "Passé composé"
+      },
+      {
+        "slot": "t|Passé composé|0",
+        "f": "tense",
+        "s": "J'___ la police de ce que j'avais vu.",
+        "a": "ai informé",
+        "en": "I informed the police of what I had seen.",
+        "alts": [],
+        "form": "Passé composé"
+      },
+      {
+        "slot": "t|Passé composé|1",
+        "f": "tense",
+        "s": "Tu ___ ta famille de la bonne nouvelle ?",
+        "a": "as informé",
+        "en": "Did you inform your family of the good news?",
+        "alts": [],
+        "form": "Passé composé"
+      },
+      {
+        "slot": "t|Passé composé|1",
+        "f": "tense",
+        "s": "Tu ___ le médecin de tes symptômes hier ?",
+        "a": "as informé",
+        "en": "Did you inform the doctor of your symptoms yesterday?",
+        "alts": [],
+        "form": "Passé composé"
+      },
+      {
+        "slot": "t|Passé composé|2",
+        "f": "tense",
+        "s": "Le directeur ___ les parents des résultats.",
+        "a": "a informé",
+        "en": "The principal informed the parents of the results.",
+        "alts": [],
+        "form": "Passé composé"
+      },
+      {
+        "slot": "t|Passé composé|2",
+        "f": "tense",
+        "s": "Elle ___ son équipe du changement de date.",
+        "a": "a informé",
+        "en": "She informed her team of the date change.",
+        "alts": [],
+        "form": "Passé composé"
+      },
+      {
+        "slot": "t|Passé composé|3",
+        "f": "tense",
+        "s": "Nous ___ tous les participants de l'annulation.",
+        "a": "avons informé",
+        "en": "We informed all participants of the cancellation.",
+        "alts": [],
+        "form": "Passé composé"
+      },
+      {
+        "slot": "t|Passé composé|3",
+        "f": "tense",
+        "s": "Nous ___ les autorités dès que l'incident s'est produit.",
+        "a": "avons informé",
+        "en": "We informed the authorities as soon as the incident occurred.",
+        "alts": [],
+        "form": "Passé composé"
+      },
+      {
+        "slot": "t|Passé composé|4",
+        "f": "tense",
+        "s": "Vous ___ le client de ses droits lors de la réunion ?",
+        "a": "avez informé",
+        "en": "Did you inform the client of his rights during the meeting?",
+        "alts": [],
+        "form": "Passé composé"
+      },
+      {
+        "slot": "t|Passé composé|4",
+        "f": "tense",
+        "s": "Vous ___ le directeur de votre retard ce matin.",
+        "a": "avez informé",
+        "en": "You informed the director of your delay this morning.",
+        "alts": [],
+        "form": "Passé composé"
+      },
+      {
+        "slot": "t|Passé composé|5",
+        "f": "tense",
+        "s": "Les médecins ___ la famille du patient de son état.",
+        "a": "ont informé",
+        "en": "The doctors informed the patient's family of his condition.",
+        "alts": [],
+        "form": "Passé composé"
+      },
+      {
+        "slot": "t|Passé composé|5",
+        "f": "tense",
+        "s": "Ils ___ leurs supérieurs du problème survenu la veille.",
+        "a": "ont informé",
+        "en": "They informed their superiors of the problem that occurred the day before.",
+        "alts": [],
+        "form": "Passé composé"
+      },
+      {
+        "slot": "t|Imparfait|0",
+        "f": "tense",
+        "s": "Je t'___ chaque semaine de mes progrès à l'époque.",
+        "a": "informais",
+        "en": "I used to inform you every week of my progress back then.",
+        "alts": [],
+        "form": "Imparfait"
+      },
+      {
+        "slot": "t|Imparfait|0",
+        "f": "tense",
+        "s": "Tu ___ toujours tes collègues avant de prendre une décision.",
+        "a": "informais",
+        "en": "You always informed your colleagues before making a decision.",
+        "alts": [],
+        "form": "Imparfait"
+      },
+      {
+        "slot": "t|Imparfait|1",
+        "f": "tense",
+        "s": "Le portail ___ les utilisateurs des nouvelles mises à jour.",
+        "a": "informait",
+        "en": "The portal used to inform users of new updates.",
+        "alts": [],
+        "form": "Imparfait"
+      },
+      {
+        "slot": "t|Imparfait|1",
+        "f": "tense",
+        "s": "Elle ___ régulièrement ses proches de l'état de sa santé.",
+        "a": "informait",
+        "en": "She regularly informed her loved ones of her health condition.",
+        "alts": [],
+        "form": "Imparfait"
+      },
+      {
+        "slot": "t|Imparfait|2",
+        "f": "tense",
+        "s": "Nous ___ nos clients par courrier à cette époque.",
+        "a": "informions",
+        "en": "We used to inform our clients by mail back then.",
+        "alts": [],
+        "form": "Imparfait"
+      },
+      {
+        "slot": "t|Imparfait|2",
+        "f": "tense",
+        "s": "Nous ___ toujours le responsable avant d'agir.",
+        "a": "informions",
+        "en": "We always informed the manager before acting.",
+        "alts": [],
+        "form": "Imparfait"
+      },
+      {
+        "slot": "t|Imparfait|3",
+        "f": "tense",
+        "s": "Vous ___ l'équipe de chaque changement à l'époque.",
+        "a": "informiez",
+        "en": "You used to inform the team of every change back then.",
+        "alts": [],
+        "form": "Imparfait"
+      },
+      {
+        "slot": "t|Imparfait|3",
+        "f": "tense",
+        "s": "Avant, vous ___ les participants par téléphone.",
+        "a": "informiez",
+        "en": "Before, you used to inform participants by phone.",
+        "alts": [],
+        "form": "Imparfait"
+      },
+      {
+        "slot": "t|Imparfait|4",
+        "f": "tense",
+        "s": "Les responsables ___ les équipes des décisions chaque lundi.",
+        "a": "informaient",
+        "en": "The managers used to inform the teams of decisions every Monday.",
+        "alts": [],
+        "form": "Imparfait"
+      },
+      {
+        "slot": "t|Imparfait|4",
+        "f": "tense",
+        "s": "Ils ___ toujours leurs parents de leurs résultats scolaires.",
+        "a": "informaient",
+        "en": "They always informed their parents of their school results.",
+        "alts": [],
+        "form": "Imparfait"
+      },
+      {
+        "slot": "t|Futur|0",
+        "f": "tense",
+        "s": "J'___ les autorités dès que j'aurai des preuves.",
+        "a": "informerai",
+        "en": "I will inform the authorities as soon as I have evidence.",
+        "alts": [],
+        "form": "Futur simple"
+      },
+      {
+        "slot": "t|Futur|0",
+        "f": "tense",
+        "s": "Je t'___ de ma décision demain matin.",
+        "a": "informerai",
+        "en": "I will inform you of my decision tomorrow morning.",
+        "alts": [],
+        "form": "Futur simple"
+      },
+      {
+        "slot": "t|Futur|1",
+        "f": "tense",
+        "s": "Tu ___ tes parents de tes résultats dès que tu les recevras.",
+        "a": "informeras",
+        "en": "You will inform your parents of your results as soon as you receive them.",
+        "alts": [],
+        "form": "Futur simple"
+      },
+      {
+        "slot": "t|Futur|1",
+        "f": "tense",
+        "s": "Tu ___ le client de l'avancement du dossier la semaine prochaine.",
+        "a": "informeras",
+        "en": "You will inform the client of the progress of the case next week.",
+        "alts": [],
+        "form": "Futur simple"
+      },
+      {
+        "slot": "t|Futur|2",
+        "f": "tense",
+        "s": "Le secrétaire ___ tous les membres de la prochaine réunion.",
+        "a": "informera",
+        "en": "The secretary will inform all members of the next meeting.",
+        "alts": [],
+        "form": "Futur simple"
+      },
+      {
+        "slot": "t|Futur|2",
+        "f": "tense",
+        "s": "Elle ___ son équipe des nouvelles consignes demain.",
+        "a": "informera",
+        "en": "She will inform her team of the new instructions tomorrow.",
+        "alts": [],
+        "form": "Futur simple"
+      },
+      {
+        "slot": "t|Futur|3",
+        "f": "tense",
+        "s": "Nous ___ tous les candidats de notre choix d'ici vendredi.",
+        "a": "informerons",
+        "en": "We will inform all candidates of our choice by Friday.",
+        "alts": [],
+        "form": "Futur simple"
+      },
+      {
+        "slot": "t|Futur|3",
+        "f": "tense",
+        "s": "Nous ___ les résidents du quartier des travaux prévus.",
+        "a": "informerons",
+        "en": "We will inform the neighborhood residents of the planned works.",
+        "alts": [],
+        "form": "Futur simple"
+      },
+      {
+        "slot": "t|Futur|4",
+        "f": "tense",
+        "s": "Vous ___ vos clients des nouvelles conditions dès que possible.",
+        "a": "informerez",
+        "en": "You will inform your clients of the new conditions as soon as possible.",
+        "alts": [],
+        "form": "Futur simple"
+      },
+      {
+        "slot": "t|Futur|4",
+        "f": "tense",
+        "s": "Vous ___ les participants de tout changement de programme.",
+        "a": "informerez",
+        "en": "You will inform the participants of any program change.",
+        "alts": [],
+        "form": "Futur simple"
+      },
+      {
+        "slot": "t|Futur|5",
+        "f": "tense",
+        "s": "Les autorités ___ la population en cas de danger.",
+        "a": "informeront",
+        "en": "The authorities will inform the population in case of danger.",
+        "alts": [],
+        "form": "Futur simple"
+      },
+      {
+        "slot": "t|Futur|5",
+        "f": "tense",
+        "s": "Ils ___ leurs supérieurs du résultat de l'enquête.",
+        "a": "informeront",
+        "en": "They will inform their superiors of the investigation result.",
+        "alts": [],
+        "form": "Futur simple"
+      },
+      {
+        "slot": "t|Conditionnel|0",
+        "f": "tense",
+        "s": "Si j'avais plus d'informations, je t'___ immédiatement.",
+        "a": "informerais",
+        "en": "If I had more information, I would inform you immediately.",
+        "alts": [],
+        "form": "Conditionnel présent"
+      },
+      {
+        "slot": "t|Conditionnel|0",
+        "f": "tense",
+        "s": "Tu ___ les clients si tu connaissais leur adresse.",
+        "a": "informerais",
+        "en": "You would inform the clients if you knew their address.",
+        "alts": [],
+        "form": "Conditionnel présent"
+      },
+      {
+        "slot": "t|Conditionnel|1",
+        "f": "tense",
+        "s": "Le directeur ___ toute l'équipe s'il avait de nouvelles données.",
+        "a": "informerait",
+        "en": "The director would inform the whole team if he had new data.",
+        "alts": [],
+        "form": "Conditionnel présent"
+      },
+      {
+        "slot": "t|Conditionnel|1",
+        "f": "tense",
+        "s": "Elle ___ ses parents si elle changeait de ville.",
+        "a": "informerait",
+        "en": "She would inform her parents if she moved to another city.",
+        "alts": [],
+        "form": "Conditionnel présent"
+      },
+      {
+        "slot": "t|Conditionnel|2",
+        "f": "tense",
+        "s": "Nous ___ tous les membres si nous recevions une réponse.",
+        "a": "informerions",
+        "en": "We would inform all members if we received a reply.",
+        "alts": [],
+        "form": "Conditionnel présent"
+      },
+      {
+        "slot": "t|Conditionnel|2",
+        "f": "tense",
+        "s": "Nous ___ la presse si l'événement était confirmé.",
+        "a": "informerions",
+        "en": "We would inform the press if the event were confirmed.",
+        "alts": [],
+        "form": "Conditionnel présent"
+      },
+      {
+        "slot": "t|Conditionnel|3",
+        "f": "tense",
+        "s": "Vous ___ vos clients plus souvent si vous aviez le temps.",
+        "a": "informeriez",
+        "en": "You would inform your clients more often if you had the time.",
+        "alts": [],
+        "form": "Conditionnel présent"
+      },
+      {
+        "slot": "t|Conditionnel|3",
+        "f": "tense",
+        "s": "Vous ___ les autorités si vous découvriez une fraude.",
+        "a": "informeriez",
+        "en": "You would inform the authorities if you discovered a fraud.",
+        "alts": [],
+        "form": "Conditionnel présent"
+      },
+      {
+        "slot": "t|Conditionnel|4",
+        "f": "tense",
+        "s": "Les services de secours ___ la population s'il y avait une alerte.",
+        "a": "informeraient",
+        "en": "Emergency services would inform the population if there were an alert.",
+        "alts": [],
+        "form": "Conditionnel présent"
+      },
+      {
+        "slot": "t|Conditionnel|4",
+        "f": "tense",
+        "s": "Ils ___ leurs collègues s'ils trouvaient une solution.",
+        "a": "informeraient",
+        "en": "They would inform their colleagues if they found a solution.",
+        "alts": [],
+        "form": "Conditionnel présent"
+      },
+      {
+        "slot": "t|Subjonctif",
+        "f": "subj",
+        "s": "Il faut que tu ___ le directeur de ta décision.",
+        "a": "informes",
+        "en": "It is necessary that you inform the director of your decision.",
+        "alts": [],
+        "form": "Subjonctif présent"
+      },
+      {
+        "slot": "t|Subjonctif",
+        "f": "subj",
+        "s": "Je veux qu'elle ___ ses parents avant de partir.",
+        "a": "informe",
+        "en": "I want her to inform her parents before leaving.",
+        "alts": [],
+        "form": "Subjonctif présent"
+      },
+      {
+        "slot": "s|0",
+        "f": "sense",
+        "s": "Le médecin doit ___ le patient de son état de santé.",
+        "a": "informer",
+        "en": "The doctor must notify the patient of his health condition.",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "s|0",
+        "f": "sense",
+        "s": "La mairie a le devoir d'___ les habitants des décisions municipales.",
+        "a": "informer",
+        "en": "The town hall has a duty to notify residents of municipal decisions.",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "s|1",
+        "f": "sense",
+        "s": "Pouvez-vous ___ votre responsable de votre retard ?",
+        "a": "informer",
+        "en": "Can you let your manager know about your delay?",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "s|1",
+        "f": "sense",
+        "s": "Il est important d'___ les clients de tout changement de tarif.",
+        "a": "informer",
+        "en": "It is important to let clients know about any price change.",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "s|2",
+        "f": "sense",
+        "s": "Ce documentaire cherche à ___ le grand public sur les risques climatiques.",
+        "a": "informer",
+        "en": "This documentary seeks to educate the general public about climate risks.",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "s|2",
+        "f": "sense",
+        "s": "L'école organise des ateliers pour ___ les élèves sur les dangers d'Internet.",
+        "a": "informer",
+        "en": "The school organizes workshops to make students aware of the dangers of the Internet.",
+        "alts": [],
+        "form": ""
+      }
+    ]
+  },
+  {
+    "id": 1357,
+    "qs": [
+      {
+        "slot": "s|0",
+        "f": "sense",
+        "s": "On a dû appeler la police parce que ___ dans la rue criait et frappait les voitures.",
+        "a": "le fou",
+        "en": "They had to call the police because the madman in the street was shouting and hitting cars.",
+        "alts": ["un fou"],
+        "form": ""
+      },
+      {
+        "slot": "s|0",
+        "f": "sense",
+        "s": "Les voisins ont peur de lui ; ils disent que c'est ___ qui s'est échappé de l'hôpital psychiatrique.",
+        "a": "un fou",
+        "en": "The neighbours are afraid of him; they say he is a madman who escaped from the psychiatric hospital.",
+        "alts": ["le fou"],
+        "form": ""
+      },
+      {
+        "slot": "s|1",
+        "f": "sense",
+        "s": "Mon oncle est ___ de vitesse : il passe ses week-ends à la piste de karting.",
+        "a": "un fou",
+        "en": "My uncle is a speed fanatic: he spends his weekends at the karting track.",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "s|1",
+        "f": "sense",
+        "s": "Pour ce ___ de travail, les vacances n'existent tout simplement pas.",
+        "a": "fou",
+        "en": "For this workaholic fanatic, holidays simply do not exist.",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "s|2",
+        "f": "sense",
+        "s": "Il a avancé ___ en diagonale pour mettre le roi adverse en danger.",
+        "a": "le fou",
+        "en": "He moved the bishop diagonally to put the opposing king in danger.",
+        "alts": ["son fou"],
+        "form": ""
+      },
+      {
+        "slot": "s|2",
+        "f": "sense",
+        "s": "Aux échecs, ___ ne se déplace que sur les cases de sa couleur.",
+        "a": "le fou",
+        "en": "In chess, the bishop only moves on squares of its own colour.",
+        "alts": ["un fou"],
+        "form": ""
+      },
+      {
+        "slot": "gender",
+        "f": "gender",
+        "s": "Dans la rue, ___ fou gesticulait et parlait seul depuis une heure.",
+        "a": "un",
+        "en": "In the street, a madman had been gesticulating and talking to himself for an hour.",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "gender",
+        "f": "gender",
+        "s": "On raconte que ___ fou vivait autrefois dans cette vieille maison abandonnée.",
+        "a": "un",
+        "en": "They say that a madman once lived in this old abandoned house.",
+        "alts": [],
+        "form": ""
+      }
+    ]
+  }
+]

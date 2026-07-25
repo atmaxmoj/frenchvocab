@@ -1,0 +1,165 @@
+[
+  {
+    "id": 5115,
+    "qs": [
+      {
+        "slot": "s|0",
+        "f": "sense",
+        "s": "Ce moteur diesel est très ___ .",
+        "en": "This diesel engine is very polluting.",
+        "a": "polluant",
+        "alts": []
+      },
+      {
+        "slot": "s|0",
+        "f": "sense",
+        "s": "Le rejet ___ de cette usine inquiète les habitants.",
+        "en": "The polluting discharge from this factory worries the residents.",
+        "a": "polluant",
+        "alts": []
+      },
+      {
+        "slot": "g|mp",
+        "f": "agree",
+        "s": "Les gaz ___ s'échappent de la cheminée jour et nuit.",
+        "en": "The polluting gases escape from the chimney day and night.",
+        "a": "polluants",
+        "alts": []
+      },
+      {
+        "slot": "g|mp",
+        "f": "agree",
+        "s": "Ces produits ___ sont désormais interdits en Europe.",
+        "en": "These polluting products are now banned in Europe.",
+        "a": "polluants",
+        "alts": []
+      },
+      {
+        "slot": "g|f",
+        "f": "agree",
+        "s": "Cette vieille usine est particulièrement ___ .",
+        "en": "This old factory is particularly polluting.",
+        "a": "polluante",
+        "alts": []
+      },
+      {
+        "slot": "g|f",
+        "f": "agree",
+        "s": "La fumée ___ de l'incendie envahit la ville.",
+        "en": "The polluting smoke from the fire is spreading over the city.",
+        "a": "polluante",
+        "alts": []
+      },
+      {
+        "slot": "g|fp",
+        "f": "agree",
+        "s": "Ces industries sont considérées comme très ___ .",
+        "en": "These industries are considered very polluting.",
+        "a": "polluantes",
+        "alts": []
+      },
+      {
+        "slot": "g|fp",
+        "f": "agree",
+        "s": "Les voitures ___ seront bientôt interdites en centre-ville.",
+        "en": "Polluting cars will soon be banned from the city center.",
+        "a": "polluantes",
+        "alts": []
+      }
+    ]
+  },
+  {
+    "id": 5116,
+    "qs": [
+      {
+        "slot": "s|0",
+        "f": "sense",
+        "s": "Chaque soir, ma grand-mère regarde son ___ préféré à la télévision.",
+        "en": "Every evening, my grandmother watches her favorite soap opera on television.",
+        "a": "feuilleton",
+        "alts": []
+      },
+      {
+        "slot": "s|0",
+        "f": "sense",
+        "s": "Ce ___ télévisé raconte l'histoire d'une famille pendant plusieurs saisons.",
+        "en": "This television series tells the story of a family over several seasons.",
+        "a": "feuilleton",
+        "alts": []
+      },
+      {
+        "slot": "s|1",
+        "f": "sense",
+        "s": "Le journal publie chaque semaine un nouveau chapitre de son ___.",
+        "en": "The newspaper publishes a new chapter of its serial every week.",
+        "a": "feuilleton",
+        "alts": []
+      },
+      {
+        "slot": "s|1",
+        "f": "sense",
+        "s": "Cet écrivain a publié son premier roman sous forme de ___ dans un quotidien parisien.",
+        "en": "This writer published his first novel as a serial in a Parisian daily newspaper.",
+        "a": "feuilleton",
+        "alts": []
+      },
+      {
+        "slot": "gender",
+        "f": "gender",
+        "s": "Je regarde ___ feuilleton tous les soirs à 20 heures.",
+        "en": "I watch the serial every evening at 8 pm.",
+        "a": "le",
+        "alts": []
+      },
+      {
+        "slot": "gender",
+        "f": "gender",
+        "s": "Elle a acheté ___ vieux feuilleton en DVD au marché aux puces.",
+        "en": "She bought an old TV serial on DVD at the flea market.",
+        "a": "un",
+        "alts": []
+      }
+    ]
+  },
+  {
+    "id": 5117,
+    "qs": [
+      {
+        "slot": "s|0",
+        "f": "sense",
+        "s": "Ce soir, on va manger dans un petit ___ pas cher.",
+        "en": "Tonight we're going to eat at a small, inexpensive restaurant.",
+        "a": "resto",
+        "alts": ["restaurant"],
+        "form": ""
+      },
+      {
+        "slot": "s|0",
+        "f": "sense",
+        "s": "Mes copains m'ont invité au ___ pour mon anniversaire.",
+        "en": "My friends invited me to the restaurant for my birthday.",
+        "a": "resto",
+        "alts": ["restaurant"],
+        "form": ""
+      },
+      {
+        "slot": "gender",
+        "f": "gender",
+        "s": "Il y a ___ resto japonais juste en face de chez moi.",
+        "en": "There's a Japanese restaurant right across from my place.",
+        "a": "un",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "gender",
+        "f": "gender",
+        "s": "J'ai oublié mon portefeuille dans ___ resto où on a dîné hier soir.",
+        "en": "I forgot my wallet at the restaurant where we had dinner last night.",
+        "a": "le",
+        "alts": [],
+        "form": ""
+      }
+    ]
+  }
+]

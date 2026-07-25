@@ -1,0 +1,171 @@
+[
+  {
+    "id": 246,
+    "qs": [
+      {
+        "slot": "s|0",
+        "f": "sense",
+        "s": "Ces deux candidats sont ___ qualifiés pour le poste.",
+        "en": "Both candidates are equally qualified for the position.",
+        "a": "également",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "s|0",
+        "f": "sense",
+        "s": "Les deux films sont ___ réussis ; je ne sais pas lequel choisir.",
+        "en": "Both films are equally successful; I don't know which one to choose.",
+        "a": "également",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "s|1",
+        "f": "sense",
+        "s": "J'aime la littérature et j'apprécie ___ la philosophie.",
+        "en": "I love literature and I also appreciate philosophy.",
+        "a": "également",
+        "alts": ["aussi"],
+        "form": ""
+      },
+      {
+        "slot": "s|1",
+        "f": "sense",
+        "s": "Il parle anglais et comprend ___ l'espagnol.",
+        "en": "He speaks English and also understands Spanish.",
+        "a": "également",
+        "alts": ["aussi"],
+        "form": ""
+      },
+      {
+        "slot": "s|2",
+        "f": "sense",
+        "s": "La loi doit s'appliquer ___ à tous les citoyens, sans exception.",
+        "en": "The law must apply equally to all citizens, without exception.",
+        "a": "également",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "s|2",
+        "f": "sense",
+        "s": "Les ressources sont distribuées ___ entre toutes les régions du pays.",
+        "en": "Resources are distributed equally among all regions of the country.",
+        "a": "également",
+        "alts": [],
+        "form": ""
+      }
+    ]
+  },
+  {
+    "id": 247,
+    "qs": [
+      {
+        "slot": "s|0",
+        "f": "sense",
+        "s": "Il cherche ses lunettes par-___ par-là depuis une heure.",
+        "a": "ci",
+        "en": "He has been looking for his glasses here and there for an hour.",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "s|0",
+        "f": "sense",
+        "s": "Les enfants couraient de-___ de-là dans le jardin.",
+        "a": "ci",
+        "en": "The children were running here and there in the garden.",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "s|1",
+        "f": "sense",
+        "s": "Tu préfères ce manteau-là ou ce manteau-___ ?",
+        "a": "ci",
+        "en": "Do you prefer that coat or this coat (here)?",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "s|1",
+        "f": "sense",
+        "s": "J'ai deux stylos : celui-là est rouge et celui-___ est bleu.",
+        "a": "ci",
+        "en": "I have two pens: that one is red and this one (here) is blue.",
+        "alts": [],
+        "form": ""
+      }
+    ]
+  },
+  {
+    "id": 248,
+    "qs": [
+      {
+        "slot": "s|0",
+        "f": "sense",
+        "s": "Chacun apprend à sa propre ___, il n'y a pas de règle universelle.",
+        "a": "façon",
+        "en": "Everyone learns in their own way; there is no universal rule.",
+        "alts": ["manière"]
+      },
+      {
+        "slot": "s|0",
+        "f": "sense",
+        "s": "Tu peux résoudre ce problème de ___ simple ou compliquée, c'est ton choix.",
+        "a": "façon",
+        "en": "You can solve this problem in a simple or complicated way — it's your choice.",
+        "alts": ["manière"]
+      },
+      {
+        "slot": "s|1",
+        "f": "sense",
+        "s": "J'admire sa ___ de gérer les conflits sans élever la voix.",
+        "a": "façon",
+        "en": "I admire his way of handling conflicts without raising his voice.",
+        "alts": ["manière"]
+      },
+      {
+        "slot": "s|1",
+        "f": "sense",
+        "s": "La ___ dont elle prépare ce plat est transmise de génération en génération.",
+        "a": "façon",
+        "en": "The way she prepares this dish has been passed down from generation to generation.",
+        "alts": ["manière"]
+      },
+      {
+        "slot": "s|2",
+        "f": "sense",
+        "s": "Il m'a regardé d'une ___ étrange, comme s'il ne me reconnaissait pas.",
+        "a": "façon",
+        "en": "He looked at me in a strange way, as if he didn't recognise me.",
+        "alts": ["manière"]
+      },
+      {
+        "slot": "s|2",
+        "f": "sense",
+        "s": "Sa ___ de s'habiller attire toujours les regards dans la rue.",
+        "a": "façon",
+        "en": "The way she dresses always draws looks in the street.",
+        "alts": ["manière"]
+      },
+      {
+        "slot": "gender",
+        "f": "gender",
+        "s": "Il a trouvé ___ façon originale de féliciter ses collègues.",
+        "a": "une",
+        "en": "He found an original way to congratulate his colleagues.",
+        "alts": []
+      },
+      {
+        "slot": "gender",
+        "f": "gender",
+        "s": "___ façon dont il parle reflète son éducation.",
+        "a": "La",
+        "en": "The way he speaks reflects his upbringing.",
+        "alts": []
+      }
+    ]
+  }
+]

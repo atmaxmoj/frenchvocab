@@ -1,0 +1,665 @@
+[
+  {
+    "id": 2481,
+    "qs": [
+      {
+        "slot": "s|0",
+        "f": "sense",
+        "s": "Le médecin a nettoyé la ___ sur son genou avant de la bander.",
+        "a": "blessure",
+        "en": "The doctor cleaned the wound on his knee before bandaging it.",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "s|0",
+        "f": "sense",
+        "s": "Sa ___ au bras gauche nécessitait plusieurs points de suture.",
+        "a": "blessure",
+        "en": "His wound on the left arm needed several stitches.",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "s|1",
+        "f": "sense",
+        "s": "Ses paroles cruelles lui ont causé une ___ profonde qu'elle a du mal à oublier.",
+        "a": "blessure",
+        "en": "His cruel words caused her a deep hurt that she has trouble forgetting.",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "s|1",
+        "f": "sense",
+        "s": "Cette trahison reste une ___ intérieure que le temps n'a pas encore guérie.",
+        "a": "blessure",
+        "en": "This betrayal remains an inner wound that time has not yet healed.",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "gender",
+        "f": "gender",
+        "s": "Il a soigné ___ blessure avec attention.",
+        "a": "la",
+        "en": "He tended to the wound carefully.",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "gender",
+        "f": "gender",
+        "s": "Elle a reçu ___ blessure grave lors de l'accident.",
+        "a": "une",
+        "en": "She received a serious injury during the accident.",
+        "alts": [],
+        "form": ""
+      }
+    ]
+  },
+  {
+    "id": 2482,
+    "qs": [
+      {
+        "slot": "t|Présent|0",
+        "f": "tense",
+        "s": "Je ___ toujours la qualité plutôt que la quantité.",
+        "a": "privilégie",
+        "en": "I always favour quality over quantity.",
+        "alts": [],
+        "form": "Présent"
+      },
+      {
+        "slot": "t|Présent|0",
+        "f": "tense",
+        "s": "Notre entreprise ___ les solutions durables dans tous ses projets.",
+        "a": "privilégie",
+        "en": "Our company favours sustainable solutions in all its projects.",
+        "alts": [],
+        "form": "Présent"
+      },
+      {
+        "slot": "t|Présent|1",
+        "f": "tense",
+        "s": "Tu ___ souvent les transports en commun pour tes déplacements ?",
+        "a": "privilégies",
+        "en": "Do you often favour public transport for your travel?",
+        "alts": [],
+        "form": "Présent"
+      },
+      {
+        "slot": "t|Présent|1",
+        "f": "tense",
+        "s": "En matière d'alimentation, tu ___ les produits bio.",
+        "a": "privilégies",
+        "en": "When it comes to food, you favour organic products.",
+        "alts": [],
+        "form": "Présent"
+      },
+      {
+        "slot": "t|Présent|2",
+        "f": "tense",
+        "s": "En équipe, nous ___ le dialogue avant toute décision.",
+        "a": "privilégions",
+        "en": "As a team, we favour dialogue before any decision.",
+        "alts": [],
+        "form": "Présent"
+      },
+      {
+        "slot": "t|Présent|2",
+        "f": "tense",
+        "s": "Cette année, nous ___ les réunions en présentiel.",
+        "a": "privilégions",
+        "en": "This year, we favour in-person meetings.",
+        "alts": [],
+        "form": "Présent"
+      },
+      {
+        "slot": "t|Présent|3",
+        "f": "tense",
+        "s": "Vous ___ les candidats ayant une expérience internationale ?",
+        "a": "privilégiez",
+        "en": "Do you favour candidates with international experience?",
+        "alts": [],
+        "form": "Présent"
+      },
+      {
+        "slot": "t|Présent|3",
+        "f": "tense",
+        "s": "Dans votre établissement, vous ___ l'approche par projet.",
+        "a": "privilégiez",
+        "en": "In your institution, you favour the project-based approach.",
+        "alts": [],
+        "form": "Présent"
+      },
+      {
+        "slot": "t|Présent|4",
+        "f": "tense",
+        "s": "Les jeunes parents ___ souvent l'école proche de leur domicile.",
+        "a": "privilégient",
+        "en": "Young parents often favour the school close to their home.",
+        "alts": [],
+        "form": "Présent"
+      },
+      {
+        "slot": "t|Présent|4",
+        "f": "tense",
+        "s": "Les chercheurs ___ les données de terrain pour valider leurs hypothèses.",
+        "a": "privilégient",
+        "en": "The researchers favour field data to validate their hypotheses.",
+        "alts": [],
+        "form": "Présent"
+      },
+      {
+        "slot": "t|Passé composé|0",
+        "f": "tense",
+        "s": "Pour ce voyage, j'___ le train plutôt que l'avion.",
+        "a": "ai privilégié",
+        "en": "For this trip, I favoured the train rather than the plane.",
+        "alts": [],
+        "form": "Passé composé"
+      },
+      {
+        "slot": "t|Passé composé|0",
+        "f": "tense",
+        "s": "Dans mon rapport, j'___ les sources académiques.",
+        "a": "ai privilégié",
+        "en": "In my report, I favoured academic sources.",
+        "alts": [],
+        "form": "Passé composé"
+      },
+      {
+        "slot": "t|Passé composé|1",
+        "f": "tense",
+        "s": "Tu ___ la sécurité au détriment du confort, et c'était le bon choix.",
+        "a": "as privilégié",
+        "en": "You favoured safety at the expense of comfort, and it was the right choice.",
+        "alts": [],
+        "form": "Passé composé"
+      },
+      {
+        "slot": "t|Passé composé|1",
+        "f": "tense",
+        "s": "Lors de la négociation, tu ___ une approche conciliante.",
+        "a": "as privilégié",
+        "en": "During the negotiation, you favoured a conciliatory approach.",
+        "alts": [],
+        "form": "Passé composé"
+      },
+      {
+        "slot": "t|Passé composé|2",
+        "f": "tense",
+        "s": "Le directeur ___ les employés les plus expérimentés pour ce poste.",
+        "a": "a privilégié",
+        "en": "The director favoured the most experienced employees for this position.",
+        "alts": [],
+        "form": "Passé composé"
+      },
+      {
+        "slot": "t|Passé composé|2",
+        "f": "tense",
+        "s": "La commission ___ les projets à impact environnemental positif.",
+        "a": "a privilégié",
+        "en": "The committee favoured projects with a positive environmental impact.",
+        "alts": [],
+        "form": "Passé composé"
+      },
+      {
+        "slot": "t|Passé composé|3",
+        "f": "tense",
+        "s": "Nous ___ une communication directe avec nos clients tout au long du projet.",
+        "a": "avons privilégié",
+        "en": "We favoured direct communication with our clients throughout the project.",
+        "alts": [],
+        "form": "Passé composé"
+      },
+      {
+        "slot": "t|Passé composé|3",
+        "f": "tense",
+        "s": "Lors du recrutement, nous ___ les profils polyvalents.",
+        "a": "avons privilégié",
+        "en": "During recruitment, we favoured versatile profiles.",
+        "alts": [],
+        "form": "Passé composé"
+      },
+      {
+        "slot": "t|Passé composé|4",
+        "f": "tense",
+        "s": "Vous ___ les fournisseurs locaux l'année dernière, n'est-ce pas ?",
+        "a": "avez privilégié",
+        "en": "You favoured local suppliers last year, didn't you?",
+        "alts": [],
+        "form": "Passé composé"
+      },
+      {
+        "slot": "t|Passé composé|4",
+        "f": "tense",
+        "s": "Dans votre dernier projet, vous ___ la rapidité sur la précision.",
+        "a": "avez privilégié",
+        "en": "In your last project, you favoured speed over precision.",
+        "alts": [],
+        "form": "Passé composé"
+      },
+      {
+        "slot": "t|Passé composé|5",
+        "f": "tense",
+        "s": "Les architectes ___ les matériaux naturels pour cette construction.",
+        "a": "ont privilégié",
+        "en": "The architects favoured natural materials for this construction.",
+        "alts": [],
+        "form": "Passé composé"
+      },
+      {
+        "slot": "t|Passé composé|5",
+        "f": "tense",
+        "s": "Les organisateurs ___ les intervenants locaux pour la conférence.",
+        "a": "ont privilégié",
+        "en": "The organisers favoured local speakers for the conference.",
+        "alts": [],
+        "form": "Passé composé"
+      },
+      {
+        "slot": "t|Imparfait|0",
+        "f": "tense",
+        "s": "Quand j'étais étudiant, je ___ les cours du matin.",
+        "a": "privilégiais",
+        "en": "When I was a student, I used to favour morning classes.",
+        "alts": [],
+        "form": "Imparfait"
+      },
+      {
+        "slot": "t|Imparfait|0",
+        "f": "tense",
+        "s": "Avant, tu ___ les vacances à la montagne plutôt qu'à la mer.",
+        "a": "privilégiais",
+        "en": "Before, you used to favour mountain holidays rather than the seaside.",
+        "alts": [],
+        "form": "Imparfait"
+      },
+      {
+        "slot": "t|Imparfait|1",
+        "f": "tense",
+        "s": "Le gouvernement ___ autrefois les grandes industries au détriment des PME.",
+        "a": "privilégiait",
+        "en": "The government used to favour large industries at the expense of small businesses.",
+        "alts": [],
+        "form": "Imparfait"
+      },
+      {
+        "slot": "t|Imparfait|1",
+        "f": "tense",
+        "s": "Dans sa méthode d'enseignement, cette professeure ___ le travail en groupe.",
+        "a": "privilégiait",
+        "en": "In her teaching method, this teacher used to favour group work.",
+        "alts": [],
+        "form": "Imparfait"
+      },
+      {
+        "slot": "t|Imparfait|2",
+        "f": "tense",
+        "s": "À cette époque, nous ___ les réunions en face à face.",
+        "a": "privilégiions",
+        "en": "At that time, we used to favour face-to-face meetings.",
+        "alts": [],
+        "form": "Imparfait"
+      },
+      {
+        "slot": "t|Imparfait|2",
+        "f": "tense",
+        "s": "Avant la crise, nous ___ les investissements à long terme.",
+        "a": "privilégiions",
+        "en": "Before the crisis, we used to favour long-term investments.",
+        "alts": [],
+        "form": "Imparfait"
+      },
+      {
+        "slot": "t|Imparfait|3",
+        "f": "tense",
+        "s": "À l'époque, vous ___ les solutions rapides sans analyser les risques.",
+        "a": "privilégiiez",
+        "en": "At the time, you used to favour quick solutions without analysing the risks.",
+        "alts": [],
+        "form": "Imparfait"
+      },
+      {
+        "slot": "t|Imparfait|3",
+        "f": "tense",
+        "s": "Dans votre ancienne politique, vous ___ les exportations vers l'Europe.",
+        "a": "privilégiiez",
+        "en": "In your former policy, you used to favour exports to Europe.",
+        "alts": [],
+        "form": "Imparfait"
+      },
+      {
+        "slot": "t|Imparfait|4",
+        "f": "tense",
+        "s": "Les étudiants ___ les bibliothèques calmes pour réviser.",
+        "a": "privilégiaient",
+        "en": "The students used to favour quiet libraries to study.",
+        "alts": [],
+        "form": "Imparfait"
+      },
+      {
+        "slot": "t|Imparfait|4",
+        "f": "tense",
+        "s": "Les ingénieurs ___ alors les matériaux bon marché pour réduire les coûts.",
+        "a": "privilégiaient",
+        "en": "The engineers used to favour cheap materials to reduce costs.",
+        "alts": [],
+        "form": "Imparfait"
+      },
+      {
+        "slot": "t|Futur|0",
+        "f": "tense",
+        "s": "À l'avenir, je ___ le télétravail deux jours par semaine.",
+        "a": "privilégierai",
+        "en": "In the future, I will favour remote work two days a week.",
+        "alts": [],
+        "form": "Futur"
+      },
+      {
+        "slot": "t|Futur|0",
+        "f": "tense",
+        "s": "Dans mes prochains achats, je ___ les marques écoresponsables.",
+        "a": "privilégierai",
+        "en": "In my next purchases, I will favour eco-responsible brands.",
+        "alts": [],
+        "form": "Futur"
+      },
+      {
+        "slot": "t|Futur|1",
+        "f": "tense",
+        "s": "Si tu veux progresser rapidement, tu ___ la pratique quotidienne.",
+        "a": "privilégieras",
+        "en": "If you want to progress quickly, you will favour daily practice.",
+        "alts": [],
+        "form": "Futur"
+      },
+      {
+        "slot": "t|Futur|1",
+        "f": "tense",
+        "s": "Dans ta carrière, tu ___ sans doute les postes à l'international.",
+        "a": "privilégieras",
+        "en": "In your career, you will no doubt favour international positions.",
+        "alts": [],
+        "form": "Futur"
+      },
+      {
+        "slot": "t|Futur|2",
+        "f": "tense",
+        "s": "Le nouveau ministre ___ les investissements dans l'éducation.",
+        "a": "privilégiera",
+        "en": "The new minister will favour investments in education.",
+        "alts": [],
+        "form": "Futur"
+      },
+      {
+        "slot": "t|Futur|2",
+        "f": "tense",
+        "s": "La prochaine version du logiciel ___ la simplicité d'utilisation.",
+        "a": "privilégiera",
+        "en": "The next version of the software will favour ease of use.",
+        "alts": [],
+        "form": "Futur"
+      },
+      {
+        "slot": "t|Futur|3",
+        "f": "tense",
+        "s": "Dans notre nouvelle stratégie, nous ___ les partenariats locaux.",
+        "a": "privilégierons",
+        "en": "In our new strategy, we will favour local partnerships.",
+        "alts": [],
+        "form": "Futur"
+      },
+      {
+        "slot": "t|Futur|3",
+        "f": "tense",
+        "s": "L'année prochaine, nous ___ la formation continue de nos employés.",
+        "a": "privilégierons",
+        "en": "Next year, we will favour ongoing training for our employees.",
+        "alts": [],
+        "form": "Futur"
+      },
+      {
+        "slot": "t|Futur|4",
+        "f": "tense",
+        "s": "Lors de votre prochain recrutement, vous ___ les candidats bilingues ?",
+        "a": "privilégierez",
+        "en": "In your next recruitment, will you favour bilingual candidates?",
+        "alts": [],
+        "form": "Futur"
+      },
+      {
+        "slot": "t|Futur|4",
+        "f": "tense",
+        "s": "Dans vos futurs projets, vous ___ les énergies renouvelables.",
+        "a": "privilégierez",
+        "en": "In your future projects, you will favour renewable energies.",
+        "alts": [],
+        "form": "Futur"
+      },
+      {
+        "slot": "t|Futur|5",
+        "f": "tense",
+        "s": "Les consommateurs ___ de plus en plus les produits locaux.",
+        "a": "privilégieront",
+        "en": "Consumers will increasingly favour local products.",
+        "alts": [],
+        "form": "Futur"
+      },
+      {
+        "slot": "t|Futur|5",
+        "f": "tense",
+        "s": "Les entreprises innovantes ___ les talents créatifs dans leurs équipes.",
+        "a": "privilégieront",
+        "en": "Innovative companies will favour creative talents in their teams.",
+        "alts": [],
+        "form": "Futur"
+      },
+      {
+        "slot": "t|Conditionnel|0",
+        "f": "tense",
+        "s": "Si j'avais plus de budget, je ___ les matériaux haut de gamme.",
+        "a": "privilégierais",
+        "en": "If I had a bigger budget, I would favour premium materials.",
+        "alts": [],
+        "form": "Conditionnel"
+      },
+      {
+        "slot": "t|Conditionnel|0",
+        "f": "tense",
+        "s": "Si tu étais à ma place, tu ___ quelle solution ?",
+        "a": "privilégierais",
+        "en": "If you were in my position, which solution would you favour?",
+        "alts": [],
+        "form": "Conditionnel"
+      },
+      {
+        "slot": "t|Conditionnel|1",
+        "f": "tense",
+        "s": "Si elle avait le choix, elle ___ vivre à la campagne.",
+        "a": "privilégierait",
+        "en": "If she had the choice, she would favour living in the countryside.",
+        "alts": [],
+        "form": "Conditionnel"
+      },
+      {
+        "slot": "t|Conditionnel|1",
+        "f": "tense",
+        "s": "Si le gouvernement était plus ambitieux, il ___ les transports verts.",
+        "a": "privilégierait",
+        "en": "If the government were more ambitious, it would favour green transport.",
+        "alts": [],
+        "form": "Conditionnel"
+      },
+      {
+        "slot": "t|Conditionnel|2",
+        "f": "tense",
+        "s": "Si nous avions plus de temps, nous ___ une approche plus progressive.",
+        "a": "privilégierions",
+        "en": "If we had more time, we would favour a more gradual approach.",
+        "alts": [],
+        "form": "Conditionnel"
+      },
+      {
+        "slot": "t|Conditionnel|2",
+        "f": "tense",
+        "s": "Si nous obtenions ce financement, nous ___ l'embauche de jeunes diplômés.",
+        "a": "privilégierions",
+        "en": "If we obtained this funding, we would favour hiring recent graduates.",
+        "alts": [],
+        "form": "Conditionnel"
+      },
+      {
+        "slot": "t|Conditionnel|3",
+        "f": "tense",
+        "s": "Si vous aviez le choix, vous ___ quel mode de travail ?",
+        "a": "privilégieriez",
+        "en": "If you had the choice, which working mode would you favour?",
+        "alts": [],
+        "form": "Conditionnel"
+      },
+      {
+        "slot": "t|Conditionnel|3",
+        "f": "tense",
+        "s": "Si vous étiez directeurs, vous ___ la communication interne.",
+        "a": "privilégieriez",
+        "en": "If you were managers, you would favour internal communication.",
+        "alts": [],
+        "form": "Conditionnel"
+      },
+      {
+        "slot": "t|Conditionnel|4",
+        "f": "tense",
+        "s": "Si les délais étaient plus longs, ils ___ une solution plus élaborée.",
+        "a": "privilégieraient",
+        "en": "If the deadlines were longer, they would favour a more elaborate solution.",
+        "alts": [],
+        "form": "Conditionnel"
+      },
+      {
+        "slot": "t|Conditionnel|4",
+        "f": "tense",
+        "s": "Si elles avaient davantage de ressources, elles ___ les projets sociaux.",
+        "a": "privilégieraient",
+        "en": "If they had more resources, they would favour social projects.",
+        "alts": [],
+        "form": "Conditionnel"
+      },
+      {
+        "slot": "t|Subjonctif",
+        "f": "subj",
+        "s": "Il faut que tu ___ l'écoute active dans ta communication.",
+        "a": "privilégies",
+        "en": "It is necessary that you favour active listening in your communication.",
+        "alts": [],
+        "form": "Subjonctif"
+      },
+      {
+        "slot": "t|Subjonctif",
+        "f": "subj",
+        "s": "Je souhaite que l'équipe ___ la collaboration plutôt que la compétition.",
+        "a": "privilégie",
+        "en": "I wish that the team favour collaboration rather than competition.",
+        "alts": [],
+        "form": "Subjonctif"
+      },
+      {
+        "slot": "s|0",
+        "f": "sense",
+        "s": "Pour ce poste, le jury a décidé de ___ les candidats avec une expérience terrain.",
+        "a": "privilégier",
+        "en": "For this position, the jury decided to favour candidates with field experience.",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "s|0",
+        "f": "sense",
+        "s": "Face à plusieurs options, il est sage de ___ celle qui offre le meilleur rapport qualité-prix.",
+        "a": "privilégier",
+        "en": "Faced with several options, it is wise to favour the one offering the best value for money.",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "s|1",
+        "f": "sense",
+        "s": "Certains régimes autoritaires ont tendance à ___ une élite au détriment du reste de la population.",
+        "a": "privilégier",
+        "en": "Some authoritarian regimes tend to give privileges to an elite at the expense of the rest of the population.",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "s|1",
+        "f": "sense",
+        "s": "Ce traitement préférentiel consiste à ___ certains citoyens en leur accordant des droits spéciaux.",
+        "a": "privilégier",
+        "en": "This preferential treatment consists in granting privileges to certain citizens by giving them special rights.",
+        "alts": [],
+        "form": ""
+      }
+    ]
+  },
+  {
+    "id": 2483,
+    "qs": [
+      {
+        "slot": "s|0",
+        "f": "sense",
+        "s": "On se retrouve à ___ devant la fontaine.",
+        "a": "midi",
+        "en": "We meet at noon in front of the fountain.",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "s|0",
+        "f": "sense",
+        "s": "Le soleil est au plus haut à ___.",
+        "a": "midi",
+        "en": "The sun is at its highest at noon.",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "s|1",
+        "f": "sense",
+        "s": "Il a décidé de s'installer dans le ___ de la France pour profiter du soleil.",
+        "a": "Midi",
+        "en": "He decided to settle in the south of France to enjoy the sun.",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "s|1",
+        "f": "sense",
+        "s": "Les vignobles du ___ de la France sont réputés dans le monde entier.",
+        "a": "Midi",
+        "en": "The vineyards of the south of France are renowned all over the world.",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "gender",
+        "f": "gender",
+        "s": "Vers ___ midi, la place du marché se remplit de monde.",
+        "a": "le",
+        "en": "Around noon, the market square fills up with people.",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "gender",
+        "f": "gender",
+        "s": "Je me souviens d'___ midi de juillet où nous avons pique-niqué au bord de la rivière.",
+        "a": "un",
+        "en": "I remember a July noon when we had a picnic by the river.",
+        "alts": [],
+        "form": ""
+      }
+    ]
+  }
+]

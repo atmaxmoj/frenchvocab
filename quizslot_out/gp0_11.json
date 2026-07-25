@@ -1,0 +1,659 @@
+[
+  {
+    "id": 2384,
+    "qs": [
+      {
+        "slot": "s|0",
+        "f": "sense",
+        "s": "___, les gens voyageaient à cheval pour aller d'une ville à l'autre.",
+        "a": "Autrefois",
+        "en": "In the past, people traveled on horseback to go from one town to another.",
+        "alts": ["Jadis"],
+        "form": ""
+      },
+      {
+        "slot": "s|0",
+        "f": "sense",
+        "s": "___, il n'existait pas d'électricité et les familles s'éclairaient à la bougie.",
+        "a": "Autrefois",
+        "en": "In the past, electricity did not exist and families lit their homes with candles.",
+        "alts": ["Jadis"],
+        "form": ""
+      },
+      {
+        "slot": "s|1",
+        "f": "sense",
+        "s": "Ce vieux quartier a perdu le charme qu'il possédait ___.",
+        "a": "autrefois",
+        "en": "This old neighborhood has lost the charm it once had in former days.",
+        "alts": ["jadis"],
+        "form": ""
+      },
+      {
+        "slot": "s|1",
+        "f": "sense",
+        "s": "Les ruines de ce château témoignent de la splendeur ___ de cette région.",
+        "a": "autrefois",
+        "en": "The ruins of this castle bear witness to the former splendor of this region.",
+        "alts": ["jadis"],
+        "form": ""
+      }
+    ]
+  },
+  {
+    "id": 2385,
+    "qs": [
+      {
+        "slot": "t|Présent|0",
+        "f": "tense",
+        "s": "Chaque matin, je ___ ma peur de parler en public.",
+        "a": "surmonte",
+        "en": "Every morning, I overcome my fear of speaking in public.",
+        "alts": [],
+        "form": "Présent"
+      },
+      {
+        "slot": "t|Présent|0",
+        "f": "tense",
+        "s": "Mon fils ___ toujours les obstacles avec courage.",
+        "a": "surmonte",
+        "en": "My son always overcomes obstacles with courage.",
+        "alts": [],
+        "form": "Présent"
+      },
+      {
+        "slot": "t|Présent|1",
+        "f": "tense",
+        "s": "Est-ce que tu ___ facilement la timidité ?",
+        "a": "surmontes",
+        "en": "Do you easily overcome shyness?",
+        "alts": [],
+        "form": "Présent"
+      },
+      {
+        "slot": "t|Présent|1",
+        "f": "tense",
+        "s": "Tu ___ tes difficultés grâce à ta persévérance.",
+        "a": "surmontes",
+        "en": "You overcome your difficulties thanks to your perseverance.",
+        "alts": [],
+        "form": "Présent"
+      },
+      {
+        "slot": "t|Présent|2",
+        "f": "tense",
+        "s": "Ensemble, nous ___ toutes les épreuves.",
+        "a": "surmontons",
+        "en": "Together, we overcome all trials.",
+        "alts": [],
+        "form": "Présent"
+      },
+      {
+        "slot": "t|Présent|2",
+        "f": "tense",
+        "s": "Nous ___ nos différences pour avancer en équipe.",
+        "a": "surmontons",
+        "en": "We overcome our differences to move forward as a team.",
+        "alts": [],
+        "form": "Présent"
+      },
+      {
+        "slot": "t|Présent|3",
+        "f": "tense",
+        "s": "Comment est-ce que vous ___ le stress au travail ?",
+        "a": "surmontez",
+        "en": "How do you overcome stress at work?",
+        "alts": [],
+        "form": "Présent"
+      },
+      {
+        "slot": "t|Présent|3",
+        "f": "tense",
+        "s": "Vous ___ vos peurs en vous entraînant chaque jour.",
+        "a": "surmontez",
+        "en": "You overcome your fears by training every day.",
+        "alts": [],
+        "form": "Présent"
+      },
+      {
+        "slot": "t|Présent|4",
+        "f": "tense",
+        "s": "Les athlètes ___ leurs limites lors de chaque compétition.",
+        "a": "surmontent",
+        "en": "Athletes overcome their limits at every competition.",
+        "alts": [],
+        "form": "Présent"
+      },
+      {
+        "slot": "t|Présent|4",
+        "f": "tense",
+        "s": "Elles ___ les crises avec beaucoup de sang-froid.",
+        "a": "surmontent",
+        "en": "They overcome crises with a great deal of composure.",
+        "alts": [],
+        "form": "Présent"
+      },
+      {
+        "slot": "t|Passé composé|0",
+        "f": "tense",
+        "s": "J'___ ma peur des hauteurs grâce à ce stage.",
+        "a": "ai surmonté",
+        "en": "I overcame my fear of heights thanks to this training course.",
+        "alts": [],
+        "form": "Passé composé"
+      },
+      {
+        "slot": "t|Passé composé|0",
+        "f": "tense",
+        "s": "Cette année, j'___ de nombreux défis professionnels.",
+        "a": "ai surmonté",
+        "en": "This year, I overcame numerous professional challenges.",
+        "alts": [],
+        "form": "Passé composé"
+      },
+      {
+        "slot": "t|Passé composé|1",
+        "f": "tense",
+        "s": "Tu ___ cet obstacle avec beaucoup de volonté.",
+        "a": "as surmonté",
+        "en": "You overcame that obstacle with a great deal of willpower.",
+        "alts": [],
+        "form": "Passé composé"
+      },
+      {
+        "slot": "t|Passé composé|1",
+        "f": "tense",
+        "s": "Tu ___ ta timidité lors de cette présentation.",
+        "a": "as surmonté",
+        "en": "You overcame your shyness during that presentation.",
+        "alts": [],
+        "form": "Passé composé"
+      },
+      {
+        "slot": "t|Passé composé|2",
+        "f": "tense",
+        "s": "Mon frère ___ ses problèmes de santé l'an dernier.",
+        "a": "a surmonté",
+        "en": "My brother overcame his health problems last year.",
+        "alts": [],
+        "form": "Passé composé"
+      },
+      {
+        "slot": "t|Passé composé|2",
+        "f": "tense",
+        "s": "Elle ___ sa peur de l'eau après des mois d'entraînement.",
+        "a": "a surmonté",
+        "en": "She overcame her fear of water after months of training.",
+        "alts": [],
+        "form": "Passé composé"
+      },
+      {
+        "slot": "t|Passé composé|3",
+        "f": "tense",
+        "s": "Nous ___ ensemble cette période difficile.",
+        "a": "avons surmonté",
+        "en": "We overcame that difficult period together.",
+        "alts": [],
+        "form": "Passé composé"
+      },
+      {
+        "slot": "t|Passé composé|3",
+        "f": "tense",
+        "s": "En travaillant dur, nous ___ tous les obstacles.",
+        "a": "avons surmonté",
+        "en": "By working hard, we overcame all the obstacles.",
+        "alts": [],
+        "form": "Passé composé"
+      },
+      {
+        "slot": "t|Passé composé|4",
+        "f": "tense",
+        "s": "Vous ___ vos différences pour réussir ce projet.",
+        "a": "avez surmonté",
+        "en": "You overcame your differences to succeed in this project.",
+        "alts": [],
+        "form": "Passé composé"
+      },
+      {
+        "slot": "t|Passé composé|4",
+        "f": "tense",
+        "s": "Comment avez-vous ___ cette épreuve si difficile ?",
+        "a": "surmonté",
+        "en": "How did you overcome such a difficult ordeal?",
+        "alts": [],
+        "form": "Passé composé"
+      },
+      {
+        "slot": "t|Passé composé|5",
+        "f": "tense",
+        "s": "Les soldats ___ leur peur avant la bataille.",
+        "a": "ont surmonté",
+        "en": "The soldiers overcame their fear before the battle.",
+        "alts": [],
+        "form": "Passé composé"
+      },
+      {
+        "slot": "t|Passé composé|5",
+        "f": "tense",
+        "s": "Ils ___ toutes les difficultés du parcours.",
+        "a": "ont surmonté",
+        "en": "They overcame all the difficulties of the course.",
+        "alts": [],
+        "form": "Passé composé"
+      },
+      {
+        "slot": "t|Imparfait|0",
+        "f": "tense",
+        "s": "Avant, je ___ mes angoisses en faisant du sport.",
+        "a": "surmontais",
+        "en": "Before, I used to overcome my anxieties by doing sport.",
+        "alts": [],
+        "form": "Imparfait"
+      },
+      {
+        "slot": "t|Imparfait|0",
+        "f": "tense",
+        "s": "Quand tu étais enfant, tu ___ tes peurs plus facilement.",
+        "a": "surmontais",
+        "en": "When you were a child, you used to overcome your fears more easily.",
+        "alts": [],
+        "form": "Imparfait"
+      },
+      {
+        "slot": "t|Imparfait|1",
+        "f": "tense",
+        "s": "Le héros ___ chaque obstacle sur son chemin.",
+        "a": "surmontait",
+        "en": "The hero used to overcome every obstacle in his path.",
+        "alts": [],
+        "form": "Imparfait"
+      },
+      {
+        "slot": "t|Imparfait|1",
+        "f": "tense",
+        "s": "Elle ___ sa douleur grâce à sa foi.",
+        "a": "surmontait",
+        "en": "She used to overcome her pain thanks to her faith.",
+        "alts": [],
+        "form": "Imparfait"
+      },
+      {
+        "slot": "t|Imparfait|2",
+        "f": "tense",
+        "s": "Nous ___ nos peurs en nous soutenant mutuellement.",
+        "a": "surmontions",
+        "en": "We used to overcome our fears by supporting each other.",
+        "alts": [],
+        "form": "Imparfait"
+      },
+      {
+        "slot": "t|Imparfait|2",
+        "f": "tense",
+        "s": "À cette époque, nous ___ les crises sans aide extérieure.",
+        "a": "surmontions",
+        "en": "At that time, we used to overcome crises without outside help.",
+        "alts": [],
+        "form": "Imparfait"
+      },
+      {
+        "slot": "t|Imparfait|3",
+        "f": "tense",
+        "s": "Vous ___ vos désaccords avec beaucoup de diplomatie.",
+        "a": "surmontiez",
+        "en": "You used to overcome your disagreements with a great deal of diplomacy.",
+        "alts": [],
+        "form": "Imparfait"
+      },
+      {
+        "slot": "t|Imparfait|3",
+        "f": "tense",
+        "s": "Comment ___ -vous les obstacles quand vous étiez jeunes ?",
+        "a": "surmontiez",
+        "en": "How did you used to overcome obstacles when you were young?",
+        "alts": [],
+        "form": "Imparfait"
+      },
+      {
+        "slot": "t|Imparfait|4",
+        "f": "tense",
+        "s": "Les pionniers ___ les épreuves du voyage avec courage.",
+        "a": "surmontaient",
+        "en": "The pioneers used to overcome the hardships of the journey with courage.",
+        "alts": [],
+        "form": "Imparfait"
+      },
+      {
+        "slot": "t|Imparfait|4",
+        "f": "tense",
+        "s": "Ils ___ leurs différences pour construire une équipe unie.",
+        "a": "surmontaient",
+        "en": "They used to overcome their differences to build a united team.",
+        "alts": [],
+        "form": "Imparfait"
+      },
+      {
+        "slot": "t|Futur|0",
+        "f": "tense",
+        "s": "Je ___ cette peur grâce à mes efforts.",
+        "a": "surmonterai",
+        "en": "I will overcome this fear thanks to my efforts.",
+        "alts": [],
+        "form": "Futur"
+      },
+      {
+        "slot": "t|Futur|0",
+        "f": "tense",
+        "s": "Un jour, je ___ tous mes doutes.",
+        "a": "surmonterai",
+        "en": "One day, I will overcome all my doubts.",
+        "alts": [],
+        "form": "Futur"
+      },
+      {
+        "slot": "t|Futur|1",
+        "f": "tense",
+        "s": "Tu ___ cet obstacle si tu t'entraînes assidûment.",
+        "a": "surmonteras",
+        "en": "You will overcome this obstacle if you train diligently.",
+        "alts": [],
+        "form": "Futur"
+      },
+      {
+        "slot": "t|Futur|1",
+        "f": "tense",
+        "s": "Je suis sûr que tu ___ ta timidité.",
+        "a": "surmonteras",
+        "en": "I am sure that you will overcome your shyness.",
+        "alts": [],
+        "form": "Futur"
+      },
+      {
+        "slot": "t|Futur|2",
+        "f": "tense",
+        "s": "Notre équipe ___ cette difficulté ensemble.",
+        "a": "surmontera",
+        "en": "Our team will overcome this difficulty together.",
+        "alts": [],
+        "form": "Futur"
+      },
+      {
+        "slot": "t|Futur|2",
+        "f": "tense",
+        "s": "Elle ___ sa déprime grâce au soutien de ses amis.",
+        "a": "surmontera",
+        "en": "She will overcome her depression thanks to the support of her friends.",
+        "alts": [],
+        "form": "Futur"
+      },
+      {
+        "slot": "t|Futur|3",
+        "f": "tense",
+        "s": "Nous ___ ces obstacles grâce à notre solidarité.",
+        "a": "surmonterons",
+        "en": "We will overcome these obstacles thanks to our solidarity.",
+        "alts": [],
+        "form": "Futur"
+      },
+      {
+        "slot": "t|Futur|3",
+        "f": "tense",
+        "s": "Avec de la détermination, nous ___ toutes les crises.",
+        "a": "surmonterons",
+        "en": "With determination, we will overcome all crises.",
+        "alts": [],
+        "form": "Futur"
+      },
+      {
+        "slot": "t|Futur|4",
+        "f": "tense",
+        "s": "Vous ___ vos craintes lors de ce stage intensif.",
+        "a": "surmonterez",
+        "en": "You will overcome your fears during this intensive training course.",
+        "alts": [],
+        "form": "Futur"
+      },
+      {
+        "slot": "t|Futur|4",
+        "f": "tense",
+        "s": "J'espère que vous ___ cet échec et que vous réussirez.",
+        "a": "surmonterez",
+        "en": "I hope that you will overcome this failure and that you will succeed.",
+        "alts": [],
+        "form": "Futur"
+      },
+      {
+        "slot": "t|Futur|5",
+        "f": "tense",
+        "s": "Les équipes ___ leurs rivalités pour travailler ensemble.",
+        "a": "surmonteront",
+        "en": "The teams will overcome their rivalries to work together.",
+        "alts": [],
+        "form": "Futur"
+      },
+      {
+        "slot": "t|Futur|5",
+        "f": "tense",
+        "s": "Ils ___ toutes les épreuves avec persévérance.",
+        "a": "surmonteront",
+        "en": "They will overcome all the trials with perseverance.",
+        "alts": [],
+        "form": "Futur"
+      },
+      {
+        "slot": "t|Conditionnel|0",
+        "f": "tense",
+        "s": "Si tu m'aidais, je ___ cette difficulté plus facilement.",
+        "a": "surmonterais",
+        "en": "If you helped me, I would overcome this difficulty more easily.",
+        "alts": [],
+        "form": "Conditionnel"
+      },
+      {
+        "slot": "t|Conditionnel|0",
+        "f": "tense",
+        "s": "Si tu avais plus confiance en toi, tu ___ tes peurs.",
+        "a": "surmonterais",
+        "en": "If you had more confidence in yourself, you would overcome your fears.",
+        "alts": [],
+        "form": "Conditionnel"
+      },
+      {
+        "slot": "t|Conditionnel|1",
+        "f": "tense",
+        "s": "Avec plus de soutien, il ___ sa dépression plus vite.",
+        "a": "surmonterait",
+        "en": "With more support, he would overcome his depression faster.",
+        "alts": [],
+        "form": "Conditionnel"
+      },
+      {
+        "slot": "t|Conditionnel|1",
+        "f": "tense",
+        "s": "Si elle avait davantage d'expérience, elle ___ ce problème seule.",
+        "a": "surmonterait",
+        "en": "If she had more experience, she would overcome this problem alone.",
+        "alts": [],
+        "form": "Conditionnel"
+      },
+      {
+        "slot": "t|Conditionnel|2",
+        "f": "tense",
+        "s": "Si nous travaillions ensemble, nous ___ ces obstacles.",
+        "a": "surmonterions",
+        "en": "If we worked together, we would overcome these obstacles.",
+        "alts": [],
+        "form": "Conditionnel"
+      },
+      {
+        "slot": "t|Conditionnel|2",
+        "f": "tense",
+        "s": "Avec plus de ressources, nous ___ la crise plus rapidement.",
+        "a": "surmonterions",
+        "en": "With more resources, we would overcome the crisis more quickly.",
+        "alts": [],
+        "form": "Conditionnel"
+      },
+      {
+        "slot": "t|Conditionnel|3",
+        "f": "tense",
+        "s": "Si vous étiez plus unis, vous ___ ces défis.",
+        "a": "surmonteriez",
+        "en": "If you were more united, you would overcome these challenges.",
+        "alts": [],
+        "form": "Conditionnel"
+      },
+      {
+        "slot": "t|Conditionnel|3",
+        "f": "tense",
+        "s": "Avec de l'entraînement, vous ___ facilement vos peurs.",
+        "a": "surmonteriez",
+        "en": "With training, you would easily overcome your fears.",
+        "alts": [],
+        "form": "Conditionnel"
+      },
+      {
+        "slot": "t|Conditionnel|4",
+        "f": "tense",
+        "s": "Si les joueurs s'entraînaient davantage, ils ___ cette pression.",
+        "a": "surmonteraient",
+        "en": "If the players trained more, they would overcome this pressure.",
+        "alts": [],
+        "form": "Conditionnel"
+      },
+      {
+        "slot": "t|Conditionnel|4",
+        "f": "tense",
+        "s": "Avec plus de cohésion, elles ___ toutes les épreuves.",
+        "a": "surmonteraient",
+        "en": "With more cohesion, they would overcome all the trials.",
+        "alts": [],
+        "form": "Conditionnel"
+      },
+      {
+        "slot": "t|Subjonctif",
+        "f": "subj",
+        "s": "Il faut que tu ___ ta peur avant le concours.",
+        "a": "surmontes",
+        "en": "It is necessary that you overcome your fear before the competition.",
+        "alts": [],
+        "form": "Subjonctif présent"
+      },
+      {
+        "slot": "t|Subjonctif",
+        "f": "subj",
+        "s": "Je veux qu'elle ___ cet obstacle par elle-même.",
+        "a": "surmonte",
+        "en": "I want her to overcome this obstacle by herself.",
+        "alts": [],
+        "form": "Subjonctif présent"
+      },
+      {
+        "slot": "s|0",
+        "f": "sense",
+        "s": "Elle a réussi à ___ sa peur du vide après des années de thérapie.",
+        "a": "surmonter",
+        "en": "She managed to overcome her fear of heights after years of therapy.",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "s|0",
+        "f": "sense",
+        "s": "Pour réussir, il faut ___ les obstacles qui se dressent devant soi.",
+        "a": "surmonter",
+        "en": "To succeed, one must overcome the obstacles that stand in one's way.",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "s|1",
+        "f": "sense",
+        "s": "Les champions savent ___ l'adversité pour atteindre la victoire.",
+        "a": "surmonter",
+        "en": "Champions know how to defeat adversity to achieve victory.",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "s|1",
+        "f": "sense",
+        "s": "Il a réussi à ___ la maladie grâce à sa combativité.",
+        "a": "surmonter",
+        "en": "He managed to overcome the illness thanks to his fighting spirit.",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "s|2",
+        "f": "sense",
+        "s": "Une statue dorée ___ le dôme de la cathédrale.",
+        "a": "surmonte",
+        "en": "A golden statue tops the dome of the cathedral.",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "s|2",
+        "f": "sense",
+        "s": "Un aigle de pierre ___ le portail d'entrée du palais.",
+        "a": "surmonte",
+        "en": "A stone eagle tops the entrance gate of the palace.",
+        "alts": [],
+        "form": ""
+      }
+    ]
+  },
+  {
+    "id": 2386,
+    "qs": [
+      {
+        "slot": "s|0",
+        "f": "sense",
+        "s": "Ce magasin vend des ___ de luxe importées d'Italie.",
+        "a": "marchandises",
+        "en": "This store sells luxury merchandise imported from Italy.",
+        "alts": []
+      },
+      {
+        "slot": "s|0",
+        "f": "sense",
+        "s": "Les clients sont attirés par la qualité de la ___ exposée en vitrine.",
+        "a": "marchandise",
+        "en": "Customers are attracted by the quality of the merchandise displayed in the shop window.",
+        "alts": []
+      },
+      {
+        "slot": "s|1",
+        "f": "sense",
+        "s": "Le camion transporte des ___ depuis l'entrepôt jusqu'au port.",
+        "a": "marchandises",
+        "en": "The truck transports goods from the warehouse to the port.",
+        "alts": []
+      },
+      {
+        "slot": "s|1",
+        "f": "sense",
+        "s": "La douane a inspecté toute la ___ avant de l'autoriser à entrer sur le territoire.",
+        "a": "marchandise",
+        "en": "Customs inspected all the goods before allowing them to enter the territory.",
+        "alts": []
+      },
+      {
+        "slot": "gender",
+        "f": "gender",
+        "s": "Il a acheté ___ marchandise au marché ce matin.",
+        "a": "la",
+        "en": "He bought the merchandise at the market this morning.",
+        "alts": ["une"]
+      },
+      {
+        "slot": "gender",
+        "f": "gender",
+        "s": "C'est ___ marchandise de très bonne qualité.",
+        "a": "une",
+        "en": "It is merchandise of very good quality.",
+        "alts": []
+      }
+    ]
+  }
+]

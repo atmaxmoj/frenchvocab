@@ -1,0 +1,45 @@
+[
+  {
+    "id": 399,
+    "qs": [
+      {"slot":"s|0","f":"sense","s":"Le ___ de cet article est trop long.","a":"titre","en":"The title of this article is too long.","alts":[],"form":""},
+      {"slot":"s|0","f":"sense","s":"Elle a du mal à trouver un ___ accrocheur pour son roman.","a":"titre","en":"She has trouble finding a catchy title for her novel.","alts":[],"form":""},
+      {"slot":"s|1","f":"sense","s":"Le professeur porte le ___ de docteur en médecine.","a":"titre","en":"The professor holds the title of doctor of medicine.","alts":[],"form":""},
+      {"slot":"s|1","f":"sense","s":"Le roi lui a accordé le ___ de chevalier lors de la cérémonie.","a":"titre","en":"The king granted him the title of knight at the ceremony.","alts":[],"form":""},
+      {"slot":"s|2","f":"sense","s":"Il a obtenu un ___ de propriété sur cette maison.","a":"titre","en":"He obtained a title deed for this house.","alts":[],"form":""},
+      {"slot":"s|2","f":"sense","s":"Vous devez présenter un ___ universitaire pour postuler à ce poste.","a":"titre","en":"You must present a university certificate to apply for this position.","alts":[],"form":""},
+      {"slot":"s|3","f":"sense","s":"Il participe à ce tournoi à ___ de champion national.","a":"titre","en":"He participates in this tournament by virtue of his status as national champion.","alts":[],"form":""},
+      {"slot":"s|3","f":"sense","s":"À quel ___ avez-vous le droit d'entrer dans cette salle ?","a":"titre","en":"On what grounds do you have the right to enter this room?","alts":[],"form":""},
+      {"slot":"gender","f":"gender","s":"Elle rêve d'obtenir ___ titre de champion du monde.","a":"le","en":"She dreams of winning the world championship title.","alts":[],"form":""},
+      {"slot":"gender","f":"gender","s":"Le directeur a modifié ___ titre du rapport avant de le publier.","a":"le","en":"The director changed the title of the report before publishing it.","alts":[],"form":""}
+    ]
+  },
+  {
+    "id": 440,
+    "qs": [
+      {"slot":"s|0","f":"sense","s":"Quel ___ de musique préfères-tu ?","a":"type","en":"What type of music do you prefer?","alts":["genre","sorte"]},
+      {"slot":"s|0","f":"sense","s":"Ce ___ de contrat est très courant dans les grandes entreprises.","a":"type","en":"This type of contract is very common in large companies.","alts":["genre","sorte"]},
+      {"slot":"s|1","f":"sense","s":"On trouve toutes sortes de produits, mais ce ___ de fromage reste le plus populaire.","a":"type","en":"You can find all kinds of products, but this kind of cheese remains the most popular.","alts":["genre","sorte"]},
+      {"slot":"s|1","f":"sense","s":"Il existe plusieurs ___ de sols dans cette région.","a":"types","en":"There are several kinds of soils in this region.","alts":["genres","sortes"]},
+      {"slot":"s|2","f":"sense","s":"Tu connais ce ___ qui traîne toujours devant la boulangerie ?","a":"type","en":"Do you know that guy who always hangs around in front of the bakery?","alts":[]},
+      {"slot":"s|2","f":"sense","s":"C'est un ___ bizarre, il ne parle jamais à personne.","a":"type","en":"He's a weird guy, he never talks to anyone.","alts":[]},
+      {"slot":"gender","f":"gender","s":"___ type de véhicule le plus vendu cette année est le SUV.","a":"Le","en":"The best-selling type of vehicle this year is the SUV.","alts":[]},
+      {"slot":"gender","f":"gender","s":"Elle cherche ___ type d'appartement calme et lumineux.","a":"un","en":"She is looking for a quiet and bright type of apartment.","alts":[]}
+    ]
+  },
+  {
+    "id": 402,
+    "qs": [
+      {"slot":"s|0","f":"sense","s":"Chaque être humain est ___, personne n'est exactement comme une autre.","a":"unique","en":"Every human being is unique; no one is exactly like another.","alts":[]},
+      {"slot":"s|0","f":"sense","s":"Ce tableau a un style ___ qu'on ne trouve nulle part ailleurs.","a":"unique","en":"This painting has a unique style found nowhere else.","alts":[]},
+      {"slot":"s|1","f":"sense","s":"Elle est l'étudiante ___ de sa promotion à avoir obtenu cette bourse.","a":"unique","en":"She is the only student in her cohort to have received this scholarship.","alts":[]},
+      {"slot":"s|1","f":"sense","s":"C'est le ___ restaurant ouvert le dimanche dans ce quartier.","a":"unique","en":"It is the only restaurant open on Sundays in this neighborhood.","alts":[]},
+      {"slot":"g|mp","f":"agree","s":"Ces deux artistes ont des talents ___, on ne peut pas les comparer.","a":"uniques","en":"These two artists have unique talents; they cannot be compared.","alts":[]},
+      {"slot":"g|mp","f":"agree","s":"Les flocons de neige sont tous ___ : aucun n'est identique.","a":"uniques","en":"All snowflakes are unique: none is identical.","alts":[]},
+      {"slot":"g|f","f":"agree","s":"Cette opportunité est vraiment ___ ; tu ne dois pas la laisser passer.","a":"unique","en":"This opportunity is truly unique; you must not let it pass.","alts":[]},
+      {"slot":"g|f","f":"agree","s":"La cuisine de ma grand-mère a une saveur ___ que j'adore.","a":"unique","en":"My grandmother's cooking has a unique flavor that I love.","alts":[]},
+      {"slot":"g|fp","f":"agree","s":"Ces sculptures ont des formes ___ que l'artiste a créées lui-même.","a":"uniques","en":"These sculptures have unique shapes that the artist created himself.","alts":[]},
+      {"slot":"g|fp","f":"agree","s":"Les empreintes digitales de chaque personne sont ___ et inimitables.","a":"uniques","en":"Each person's fingerprints are unique and inimitable.","alts":[]}
+    ]
+  }
+]

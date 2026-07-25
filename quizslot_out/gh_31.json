@@ -1,0 +1,675 @@
+[
+  {
+    "id": 1394,
+    "qs": [
+      {
+        "slot": "s|0",
+        "f": "sense",
+        "s": "Après cet échec, il a eu besoin d'une longue ___ sur ses erreurs passées.",
+        "a": "réflexion",
+        "en": "After that failure, he needed a long reflection on his past mistakes.",
+        "alts": []
+      },
+      {
+        "slot": "s|0",
+        "f": "sense",
+        "s": "Cette expérience douloureuse l'a conduit à une ___ profonde sur sa façon de vivre.",
+        "a": "réflexion",
+        "en": "That painful experience led him to a deep reflection on his way of living.",
+        "alts": []
+      },
+      {
+        "slot": "s|1",
+        "f": "sense",
+        "s": "Avant de répondre, elle a marqué un moment de ___ pour peser ses mots.",
+        "a": "réflexion",
+        "en": "Before answering, she paused for a moment of thought to weigh her words.",
+        "alts": []
+      },
+      {
+        "slot": "s|1",
+        "f": "sense",
+        "s": "Ce problème complexe mérite une ___ sérieuse avant toute décision.",
+        "a": "réflexion",
+        "en": "This complex problem deserves serious thought before any decision.",
+        "alts": []
+      },
+      {
+        "slot": "s|2",
+        "f": "sense",
+        "s": "La ___ de la lumière sur la surface de l'eau crée un magnifique spectacle.",
+        "a": "réflexion",
+        "en": "The reflection of light on the surface of the water creates a magnificent spectacle.",
+        "alts": []
+      },
+      {
+        "slot": "s|2",
+        "f": "sense",
+        "s": "En physique, la ___ d'un rayon lumineux sur un miroir obéit à des lois précises.",
+        "a": "réflexion",
+        "en": "In physics, the reflection of a light ray on a mirror follows precise laws.",
+        "alts": []
+      },
+      {
+        "slot": "gender",
+        "f": "gender",
+        "s": "Il faut du temps : c'est ___ réflexion difficile mais nécessaire.",
+        "a": "une",
+        "en": "It takes time: it is a difficult but necessary reflection.",
+        "alts": []
+      },
+      {
+        "slot": "gender",
+        "f": "gender",
+        "s": "Il apprécie ___ réflexion calme du soir avant de dormir.",
+        "a": "la",
+        "en": "He appreciates the calm reflection of the evening before sleeping.",
+        "alts": []
+      }
+    ]
+  },
+  {
+    "id": 1395,
+    "qs": [
+      {
+        "slot": "s|0",
+        "f": "sense",
+        "s": "Il ne reste ___ cinq minutes avant la fin du film.",
+        "a": "uniquement",
+        "en": "There are merely five minutes left before the end of the film.",
+        "alts": ["seulement"],
+        "form": ""
+      },
+      {
+        "slot": "s|0",
+        "f": "sense",
+        "s": "Elle a ___ bu un verre d'eau depuis ce matin.",
+        "a": "uniquement",
+        "en": "She has merely had a glass of water since this morning.",
+        "alts": ["seulement"],
+        "form": ""
+      },
+      {
+        "slot": "s|1",
+        "f": "sense",
+        "s": "Ce médicament est destiné ___ aux adultes.",
+        "a": "uniquement",
+        "en": "This medication is intended solely for adults.",
+        "alts": ["exclusivement"],
+        "form": ""
+      },
+      {
+        "slot": "s|1",
+        "f": "sense",
+        "s": "L'entrée est réservée ___ aux membres du club.",
+        "a": "uniquement",
+        "en": "Entry is reserved exclusively for club members.",
+        "alts": ["exclusivement"],
+        "form": ""
+      }
+    ]
+  },
+  {
+    "id": 1396,
+    "qs": [
+      {
+        "slot": "t|Présent|0",
+        "f": "tense",
+        "s": "Cette décision ___ tous les employés de l'entreprise.",
+        "a": "affecte",
+        "en": "This decision affects all the employees of the company.",
+        "alts": [],
+        "form": "Présent"
+      },
+      {
+        "slot": "t|Présent|0",
+        "f": "tense",
+        "s": "Je sais que le bruit ___ ma concentration au travail.",
+        "a": "affecte",
+        "en": "I know that the noise affects my concentration at work.",
+        "alts": [],
+        "form": "Présent"
+      },
+      {
+        "slot": "t|Présent|1",
+        "f": "tense",
+        "s": "Tu ___ vraiment les autres quand tu te comportes ainsi.",
+        "a": "affectes",
+        "en": "You really affect others when you behave like that.",
+        "alts": [],
+        "form": "Présent"
+      },
+      {
+        "slot": "t|Présent|1",
+        "f": "tense",
+        "s": "Est-ce que tu ___ ta santé avec ce manque de sommeil ?",
+        "a": "affectes",
+        "en": "Are you affecting your health with this lack of sleep?",
+        "alts": [],
+        "form": "Présent"
+      },
+      {
+        "slot": "t|Présent|2",
+        "f": "tense",
+        "s": "Nous ___ les ressources selon les besoins de chaque département.",
+        "a": "affectons",
+        "en": "We allocate the resources according to the needs of each department.",
+        "alts": [],
+        "form": "Présent"
+      },
+      {
+        "slot": "t|Présent|2",
+        "f": "tense",
+        "s": "Nous ___ tous les membres du groupe avec notre attitude négative.",
+        "a": "affectons",
+        "en": "We affect all the members of the group with our negative attitude.",
+        "alts": [],
+        "form": "Présent"
+      },
+      {
+        "slot": "t|Présent|3",
+        "f": "tense",
+        "s": "Comment vous ___ -vous de ne pas être touchés par cette crise ?",
+        "a": "affectez",
+        "en": "How do you pretend not to be affected by this crisis?",
+        "alts": [],
+        "form": "Présent"
+      },
+      {
+        "slot": "t|Présent|3",
+        "f": "tense",
+        "s": "Vous ___ profondément la qualité de vie dans ce quartier.",
+        "a": "affectez",
+        "en": "You profoundly affect the quality of life in this neighborhood.",
+        "alts": [],
+        "form": "Présent"
+      },
+      {
+        "slot": "t|Présent|4",
+        "f": "tense",
+        "s": "Les changements climatiques ___ de nombreuses espèces animales.",
+        "a": "affectent",
+        "en": "Climate changes affect many animal species.",
+        "alts": [],
+        "form": "Présent"
+      },
+      {
+        "slot": "t|Présent|4",
+        "f": "tense",
+        "s": "Elles ___ une indifférence qu'elles ne ressentent pas vraiment.",
+        "a": "affectent",
+        "en": "They feign an indifference that they don't really feel.",
+        "alts": [],
+        "form": "Présent"
+      },
+      {
+        "slot": "t|Passé composé|0",
+        "f": "tense",
+        "s": "J'___ ma performance à cause du stress de la semaine dernière.",
+        "a": "ai affecté",
+        "en": "I affected my performance because of last week's stress.",
+        "alts": [],
+        "form": "Passé composé"
+      },
+      {
+        "slot": "t|Passé composé|0",
+        "f": "tense",
+        "s": "Hier soir, j'___ ma joie devant mes collègues pour ne pas les inquiéter.",
+        "a": "ai affecté",
+        "en": "Last night, I feigned my joy in front of my colleagues so as not to worry them.",
+        "alts": [],
+        "form": "Passé composé"
+      },
+      {
+        "slot": "t|Passé composé|1",
+        "f": "tense",
+        "s": "Tu ___ beaucoup de personnes avec ta décision d'hier.",
+        "a": "as affecté",
+        "en": "You affected many people with your decision yesterday.",
+        "alts": [],
+        "form": "Passé composé"
+      },
+      {
+        "slot": "t|Passé composé|1",
+        "f": "tense",
+        "s": "Est-ce que tu ___ ta santé en travaillant trop ce mois-ci ?",
+        "a": "as affecté",
+        "en": "Did you affect your health by working too much this month?",
+        "alts": [],
+        "form": "Passé composé"
+      },
+      {
+        "slot": "t|Passé composé|2",
+        "f": "tense",
+        "s": "Cette nouvelle ___ profondément mon père quand il l'a apprise.",
+        "a": "a affecté",
+        "en": "This news deeply affected my father when he heard it.",
+        "alts": [],
+        "form": "Passé composé"
+      },
+      {
+        "slot": "t|Passé composé|2",
+        "f": "tense",
+        "s": "Le tremblement de terre ___ des milliers de familles dans la région.",
+        "a": "a affecté",
+        "en": "The earthquake affected thousands of families in the region.",
+        "alts": [],
+        "form": "Passé composé"
+      },
+      {
+        "slot": "t|Passé composé|3",
+        "f": "tense",
+        "s": "Nous ___ notre moral après cet échec lors de la réunion.",
+        "a": "avons affecté",
+        "en": "We affected our morale after that failure during the meeting.",
+        "alts": [],
+        "form": "Passé composé"
+      },
+      {
+        "slot": "t|Passé composé|3",
+        "f": "tense",
+        "s": "Nous ___ l'ensemble de l'équipe avec nos mauvaises décisions.",
+        "a": "avons affecté",
+        "en": "We affected the entire team with our poor decisions.",
+        "alts": [],
+        "form": "Passé composé"
+      },
+      {
+        "slot": "t|Passé composé|4",
+        "f": "tense",
+        "s": "Vous ___ la production de l'usine avec votre grève la semaine passée.",
+        "a": "avez affecté",
+        "en": "You affected the factory's production with your strike last week.",
+        "alts": [],
+        "form": "Passé composé"
+      },
+      {
+        "slot": "t|Passé composé|4",
+        "f": "tense",
+        "s": "Avez-vous ___ votre humeur en ne dormant pas assez cette nuit ?",
+        "a": "affecté",
+        "en": "Did you affect your mood by not sleeping enough last night?",
+        "alts": [],
+        "form": "Passé composé"
+      },
+      {
+        "slot": "t|Passé composé|5",
+        "f": "tense",
+        "s": "Les inondations ___ plusieurs villages de la vallée ce printemps.",
+        "a": "ont affecté",
+        "en": "The floods affected several villages in the valley this spring.",
+        "alts": [],
+        "form": "Passé composé"
+      },
+      {
+        "slot": "t|Passé composé|5",
+        "f": "tense",
+        "s": "Ils ___ une grande tristesse pour attirer la sympathie de leurs proches.",
+        "a": "ont affecté",
+        "en": "They feigned great sadness to attract the sympathy of their loved ones.",
+        "alts": [],
+        "form": "Passé composé"
+      },
+      {
+        "slot": "t|Imparfait|0",
+        "f": "tense",
+        "s": "Quand j'étais enfant, le bruit de la rue m'___ beaucoup.",
+        "a": "affectait",
+        "en": "When I was a child, the noise from the street affected me a lot.",
+        "alts": [],
+        "form": "Imparfait"
+      },
+      {
+        "slot": "t|Imparfait|0",
+        "f": "tense",
+        "s": "Tu ___ une certaine nonchalance, mais tout le monde voyait ta nervosité.",
+        "a": "affectais",
+        "en": "You affected a certain nonchalance, but everyone could see your nervousness.",
+        "alts": [],
+        "form": "Imparfait"
+      },
+      {
+        "slot": "t|Imparfait|1",
+        "f": "tense",
+        "s": "La pollution ___ la santé des habitants du quartier chaque hiver.",
+        "a": "affectait",
+        "en": "Pollution affected the health of the neighborhood residents every winter.",
+        "alts": [],
+        "form": "Imparfait"
+      },
+      {
+        "slot": "t|Imparfait|1",
+        "f": "tense",
+        "s": "Elle ___ une indifférence totale face aux critiques de ses supérieurs.",
+        "a": "affectait",
+        "en": "She feigned total indifference to her superiors' criticism.",
+        "alts": [],
+        "form": "Imparfait"
+      },
+      {
+        "slot": "t|Imparfait|2",
+        "f": "tense",
+        "s": "Nous ___ nos collègues sans le vouloir avec nos discussions négatives.",
+        "a": "affections",
+        "en": "We were affecting our colleagues without meaning to with our negative discussions.",
+        "alts": [],
+        "form": "Imparfait"
+      },
+      {
+        "slot": "t|Imparfait|2",
+        "f": "tense",
+        "s": "Nous ___ une grande assurance pour masquer notre peur lors des débats.",
+        "a": "affections",
+        "en": "We feigned great confidence to hide our fear during the debates.",
+        "alts": [],
+        "form": "Imparfait"
+      },
+      {
+        "slot": "t|Imparfait|3",
+        "f": "tense",
+        "s": "Vous ___ votre sérénité, mais on sentait votre inquiétude derrière.",
+        "a": "affectiez",
+        "en": "You feigned your serenity, but one could sense your worry behind it.",
+        "alts": [],
+        "form": "Imparfait"
+      },
+      {
+        "slot": "t|Imparfait|3",
+        "f": "tense",
+        "s": "Vous ___ profondément le moral de l'équipe chaque fois que vous critiquez.",
+        "a": "affectiez",
+        "en": "You were deeply affecting the team's morale every time you criticized.",
+        "alts": [],
+        "form": "Imparfait"
+      },
+      {
+        "slot": "t|Imparfait|4",
+        "f": "tense",
+        "s": "Les tempêtes ___ régulièrement les récoltes des agriculteurs de la région.",
+        "a": "affectaient",
+        "en": "The storms regularly affected the harvests of the farmers in the region.",
+        "alts": [],
+        "form": "Imparfait"
+      },
+      {
+        "slot": "t|Imparfait|4",
+        "f": "tense",
+        "s": "Ils ___ un calme olympien alors qu'ils étaient très stressés intérieurement.",
+        "a": "affectaient",
+        "en": "They feigned an olympian calm while they were very stressed internally.",
+        "alts": [],
+        "form": "Imparfait"
+      },
+      {
+        "slot": "t|Futur|0",
+        "f": "tense",
+        "s": "J'___ mes habitudes alimentaires si ma santé se détériore.",
+        "a": "affecterai",
+        "en": "I will affect my eating habits if my health deteriorates.",
+        "alts": [],
+        "form": "Futur"
+      },
+      {
+        "slot": "t|Futur|0",
+        "f": "tense",
+        "s": "Si je néglige mon sommeil, j'___ ma santé à long terme.",
+        "a": "affecterai",
+        "en": "If I neglect my sleep, I will affect my health in the long term.",
+        "alts": [],
+        "form": "Futur"
+      },
+      {
+        "slot": "t|Futur|1",
+        "f": "tense",
+        "s": "Tu ___ beaucoup de gens avec ce discours que tu prononceras demain.",
+        "a": "affecteras",
+        "en": "You will affect many people with the speech you will give tomorrow.",
+        "alts": [],
+        "form": "Futur"
+      },
+      {
+        "slot": "t|Futur|1",
+        "f": "tense",
+        "s": "Tu ___ une surprise quand tu arriveras à la fête, j'en suis sûr.",
+        "a": "affecteras",
+        "en": "You will feign surprise when you arrive at the party, I am sure of it.",
+        "alts": [],
+        "form": "Futur"
+      },
+      {
+        "slot": "t|Futur|2",
+        "f": "tense",
+        "s": "Cette réforme ___ profondément l'économie du pays dans les années à venir.",
+        "a": "affectera",
+        "en": "This reform will profoundly affect the country's economy in the years to come.",
+        "alts": [],
+        "form": "Futur"
+      },
+      {
+        "slot": "t|Futur|2",
+        "f": "tense",
+        "s": "Mon frère ___ une certaine joie lors de la cérémonie pour ne pas gêner.",
+        "a": "affectera",
+        "en": "My brother will feign a certain joy during the ceremony so as not to cause awkwardness.",
+        "alts": [],
+        "form": "Futur"
+      },
+      {
+        "slot": "t|Futur|3",
+        "f": "tense",
+        "s": "Nous ___ nos stratégies si les résultats ne s'améliorent pas ce trimestre.",
+        "a": "affecterons",
+        "en": "We will adjust our strategies if the results do not improve this quarter.",
+        "alts": [],
+        "form": "Futur"
+      },
+      {
+        "slot": "t|Futur|3",
+        "f": "tense",
+        "s": "Nous ___ davantage de ressources au projet dès que le budget sera approuvé.",
+        "a": "affecterons",
+        "en": "We will allocate more resources to the project as soon as the budget is approved.",
+        "alts": [],
+        "form": "Futur"
+      },
+      {
+        "slot": "t|Futur|4",
+        "f": "tense",
+        "s": "Vous ___ votre crédibilité si vous continuez à mentir ainsi.",
+        "a": "affecterez",
+        "en": "You will affect your credibility if you continue to lie like that.",
+        "alts": [],
+        "form": "Futur"
+      },
+      {
+        "slot": "t|Futur|4",
+        "f": "tense",
+        "s": "Vous ___ les enfants avec vos disputes si vous ne faites pas attention.",
+        "a": "affecterez",
+        "en": "You will affect the children with your arguments if you are not careful.",
+        "alts": [],
+        "form": "Futur"
+      },
+      {
+        "slot": "t|Futur|5",
+        "f": "tense",
+        "s": "Les nouvelles mesures fiscales ___ surtout les petites entreprises.",
+        "a": "affecteront",
+        "en": "The new tax measures will mainly affect small businesses.",
+        "alts": [],
+        "form": "Futur"
+      },
+      {
+        "slot": "t|Futur|5",
+        "f": "tense",
+        "s": "Ils ___ une grande surprise quand ils découvriront le cadeau.",
+        "a": "affecteront",
+        "en": "They will feign great surprise when they discover the gift.",
+        "alts": [],
+        "form": "Futur"
+      },
+      {
+        "slot": "t|Conditionnel|0",
+        "f": "tense",
+        "s": "Si j'avais plus de responsabilités, j'___ davantage la vie de mes collègues.",
+        "a": "affecterais",
+        "en": "If I had more responsibilities, I would affect my colleagues' lives more.",
+        "alts": [],
+        "form": "Conditionnel"
+      },
+      {
+        "slot": "t|Conditionnel|0",
+        "f": "tense",
+        "s": "Si tu avais moins de stress, tu ___ moins ta santé au quotidien.",
+        "a": "affecterais",
+        "en": "If you had less stress, you would affect your health less on a daily basis.",
+        "alts": [],
+        "form": "Conditionnel"
+      },
+      {
+        "slot": "t|Conditionnel|1",
+        "f": "tense",
+        "s": "Une telle décision ___ gravement la réputation de notre société.",
+        "a": "affecterait",
+        "en": "Such a decision would seriously affect our company's reputation.",
+        "alts": [],
+        "form": "Conditionnel"
+      },
+      {
+        "slot": "t|Conditionnel|1",
+        "f": "tense",
+        "s": "Elle ___ une indifférence si elle apprenait la vérité, mais au fond elle souffrirait.",
+        "a": "affecterait",
+        "en": "She would feign indifference if she learned the truth, but deep down she would suffer.",
+        "alts": [],
+        "form": "Conditionnel"
+      },
+      {
+        "slot": "t|Conditionnel|2",
+        "f": "tense",
+        "s": "Si nous avions plus de moyens, nous ___ positivement toute la communauté.",
+        "a": "affecterions",
+        "en": "If we had more means, we would positively affect the whole community.",
+        "alts": [],
+        "form": "Conditionnel"
+      },
+      {
+        "slot": "t|Conditionnel|2",
+        "f": "tense",
+        "s": "Nous ___ une plus grande confiance si nous étions mieux préparés.",
+        "a": "affecterions",
+        "en": "We would feign greater confidence if we were better prepared.",
+        "alts": [],
+        "form": "Conditionnel"
+      },
+      {
+        "slot": "t|Conditionnel|3",
+        "f": "tense",
+        "s": "Si vous aviez moins de pression, vous ___ moins votre équipe.",
+        "a": "affecteriez",
+        "en": "If you had less pressure, you would affect your team less.",
+        "alts": [],
+        "form": "Conditionnel"
+      },
+      {
+        "slot": "t|Conditionnel|3",
+        "f": "tense",
+        "s": "Vous ___ une meilleure humeur si vous étiez en vacances, j'en suis certain.",
+        "a": "affecteriez",
+        "en": "You would feign a better mood if you were on vacation, I am certain of it.",
+        "alts": [],
+        "form": "Conditionnel"
+      },
+      {
+        "slot": "t|Conditionnel|4",
+        "f": "tense",
+        "s": "Des coupures d'électricité ___ gravement les hôpitaux de la ville.",
+        "a": "affecteraient",
+        "en": "Power cuts would seriously affect the city's hospitals.",
+        "alts": [],
+        "form": "Conditionnel"
+      },
+      {
+        "slot": "t|Conditionnel|4",
+        "f": "tense",
+        "s": "Ils ___ une grande sérénité si la situation devenait critique, pour rassurer.",
+        "a": "affecteraient",
+        "en": "They would feign great serenity if the situation became critical, to reassure others.",
+        "alts": [],
+        "form": "Conditionnel"
+      },
+      {
+        "slot": "t|Subjonctif",
+        "f": "subj",
+        "s": "Il faut que tu ___ moins de travail à cet employé déjà débordé.",
+        "a": "affectes",
+        "en": "It is necessary that you assign less work to this already overwhelmed employee.",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "t|Subjonctif",
+        "f": "subj",
+        "s": "Je veux que cette décision n'___ pas négativement notre relation.",
+        "a": "affecte",
+        "en": "I want this decision not to negatively affect our relationship.",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "s|0",
+        "f": "sense",
+        "s": "La pollution de l'air ___ la qualité de vie des habitants des grandes villes.",
+        "a": "affecte",
+        "en": "Air pollution affects the quality of life of inhabitants of large cities.",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "s|0",
+        "f": "sense",
+        "s": "La crise économique a profondément ___ les conditions de travail des ouvriers.",
+        "a": "affecté",
+        "en": "The economic crisis has profoundly affected the workers' working conditions.",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "s|1",
+        "f": "sense",
+        "s": "La mort de son chien l'a beaucoup ___ ; il n'a pas pu dormir pendant des jours.",
+        "a": "affecté",
+        "en": "The death of his dog deeply distressed him; he could not sleep for days.",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "s|1",
+        "f": "sense",
+        "s": "Ces mauvaises nouvelles ___ toujours profondément ma grand-mère.",
+        "a": "affectent",
+        "en": "These bad news always deeply distress my grandmother.",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "s|2",
+        "f": "sense",
+        "s": "Il ___ de ne pas comprendre la question pour éviter de répondre.",
+        "a": "affecte",
+        "en": "He pretends not to understand the question to avoid answering.",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "s|2",
+        "f": "sense",
+        "s": "Elle ___ une grande joie à l'annonce du résultat, mais elle était déçue en réalité.",
+        "a": "affectait",
+        "en": "She feigned great joy at the announcement of the result, but she was actually disappointed.",
+        "alts": [],
+        "form": ""
+      }
+    ]
+  }
+]

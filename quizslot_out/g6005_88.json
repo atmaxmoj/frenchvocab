@@ -1,0 +1,43 @@
+[
+  {
+    "id": 6159,
+    "qs": [
+      {"slot": "s|0", "f": "sense", "s": "Le directeur a réagi ___ à notre proposition de projet.", "en": "The director reacted positively to our project proposal.", "a": "positivement", "alts": []},
+      {"slot": "s|0", "f": "sense", "s": "Malgré les difficultés, elle essaie toujours de penser ___.", "en": "Despite the difficulties, she always tries to think positively.", "a": "positivement", "alts": []},
+      {"slot": "s|1", "f": "sense", "s": "Ce spectacle était ___ magnifique, on en parle encore aujourd'hui.", "en": "That show was downright magnificent, people are still talking about it today.", "a": "positivement", "alts": []},
+      {"slot": "s|1", "f": "sense", "s": "Il fait ___ un froid glacial ce matin.", "en": "It is truly freezing cold this morning.", "a": "positivement", "alts": []}
+    ]
+  },
+  {
+    "id": 6160,
+    "qs": [
+      {"slot": "s|0", "f": "sense", "s": "Le palais royal est absolument ___ avec ses dorures et ses jardins.", "en": "The royal palace is absolutely splendid with its gilding and gardens.", "a": "splendide", "alts": [], "form": ""},
+      {"slot": "s|0", "f": "sense", "s": "Les acrobates ont donné un spectacle ___ devant des milliers de spectateurs.", "en": "The acrobats put on a splendid show in front of thousands of spectators.", "a": "splendide", "alts": [], "form": ""},
+      {"slot": "s|1", "f": "sense", "s": "Le temps était ___ pendant tout le week-end : ciel bleu et soleil radieux.", "en": "The weather was gorgeous all weekend: blue sky and radiant sun.", "a": "splendide", "alts": [], "form": ""},
+      {"slot": "s|1", "f": "sense", "s": "Il faisait un temps ___ pour la fête en plein air, sans un seul nuage.", "en": "The weather was gorgeous for the outdoor party, without a single cloud.", "a": "splendide", "alts": [], "form": ""},
+      {"slot": "s|2", "f": "sense", "s": "Dans sa robe de mariée, elle était absolument ___ ce jour-là.", "en": "In her wedding dress, she looked absolutely radiant that day.", "a": "splendide", "alts": [], "form": ""},
+      {"slot": "s|2", "f": "sense", "s": "Elle était ___ dans sa robe rouge lors de la soirée de gala.", "en": "She looked radiant in her red dress at the gala evening.", "a": "splendide", "alts": [], "form": ""},
+      {"slot": "g|mp", "f": "agree", "s": "Les jardins du château sont ___ en cette saison fleurie.", "en": "The castle's gardens are splendid in this flowering season.", "a": "splendides", "alts": [], "form": ""},
+      {"slot": "g|mp", "f": "agree", "s": "Ces paysages de montagne sont vraiment ___ au coucher du soleil.", "en": "These mountain landscapes are truly splendid at sunset.", "a": "splendides", "alts": [], "form": ""},
+      {"slot": "g|f", "f": "agree", "s": "La vue depuis le sommet est ___ par temps clair.", "en": "The view from the summit is splendid in clear weather.", "a": "splendide", "alts": [], "form": ""},
+      {"slot": "g|f", "f": "agree", "s": "La cérémonie de mariage était ___ du début à la fin.", "en": "The wedding ceremony was splendid from beginning to end.", "a": "splendide", "alts": [], "form": ""},
+      {"slot": "g|fp", "f": "agree", "s": "Les couleurs de l'automne sont ___ dans cette forêt.", "en": "The autumn colors are splendid in this forest.", "a": "splendides", "alts": [], "form": ""},
+      {"slot": "g|fp", "f": "agree", "s": "Les robes présentées lors du défilé étaient ___ cette année.", "en": "The dresses shown at the fashion show were splendid this year.", "a": "splendides", "alts": [], "form": ""}
+    ]
+  },
+  {
+    "id": 6161,
+    "qs": [
+      {"slot": "s|0", "f": "sense", "s": "Notre entreprise a adopté une politique ___ pour réduire ses déchets plastiques.", "en": "Our company adopted an environmentalist/ecological policy to reduce its plastic waste.", "a": "écologiste", "alts": []},
+      {"slot": "s|0", "f": "sense", "s": "Il mène une vie ___ en recyclant tout ce qu'il peut.", "en": "He leads an environmentalist lifestyle by recycling everything he can.", "a": "écologiste", "alts": []},
+      {"slot": "s|1", "f": "sense", "s": "Le candidat ___ a obtenu quinze pour cent des voix aux élections municipales.", "en": "The Green Party candidate got fifteen percent of the votes in the municipal elections.", "a": "écologiste", "alts": []},
+      {"slot": "s|1", "f": "sense", "s": "Le parti ___ a présenté son programme électoral hier soir.", "en": "The Green Party presented its electoral platform last night.", "a": "écologiste", "alts": []},
+      {"slot": "g|mp", "f": "agree", "s": "Plusieurs partis ___ se sont unis pour former une coalition avant les élections.", "en": "Several green parties united to form a coalition before the elections.", "a": "écologistes", "alts": []},
+      {"slot": "g|mp", "f": "agree", "s": "Les mouvements ___ ont organisé une grande marche pour le climat samedi dernier.", "en": "The environmentalist movements organized a big march for the climate last Saturday.", "a": "écologistes", "alts": []},
+      {"slot": "g|f", "f": "agree", "s": "Cette association ___ sensibilise les enfants au tri des déchets.", "en": "This environmentalist association raises children's awareness about waste sorting.", "a": "écologiste", "alts": []},
+      {"slot": "g|f", "f": "agree", "s": "La députée ___ a proposé une loi contre la déforestation.", "en": "The Green Party deputy proposed a law against deforestation.", "a": "écologiste", "alts": []},
+      {"slot": "g|fp", "f": "agree", "s": "Les associations ___ dénoncent la pollution des rivières locales.", "en": "The environmentalist associations denounce the pollution of local rivers.", "a": "écologistes", "alts": []},
+      {"slot": "g|fp", "f": "agree", "s": "Les députées ___ ont voté contre ce projet de loi sur les pesticides.", "en": "The Green Party deputies voted against this bill on pesticides.", "a": "écologistes", "alts": []}
+    ]
+  }
+]

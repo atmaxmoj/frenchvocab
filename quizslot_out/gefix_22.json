@@ -1,0 +1,241 @@
+[
+  {
+    "id": 833,
+    "qs": [
+      {
+        "slot": "s|0",
+        "f": "sense",
+        "s": "Après une bonne nuit de sommeil, il se sent tout à fait ___ .",
+        "a": "normal",
+        "en": "After a good night's sleep, he feels completely normal.",
+        "alts": []
+      },
+      {
+        "slot": "s|0",
+        "f": "sense",
+        "s": "C'est ___ d'avoir peur avant un examen important.",
+        "a": "normal",
+        "en": "It's normal to be afraid before an important exam.",
+        "alts": []
+      },
+      {
+        "slot": "s|1",
+        "f": "sense",
+        "s": "Il préfère un billet de train ___ , sans surclassement.",
+        "a": "normal",
+        "en": "He prefers a standard/ordinary train ticket, without an upgrade.",
+        "alts": []
+      },
+      {
+        "slot": "s|1",
+        "f": "sense",
+        "s": "Elle a pris un café ___ , sans rien de spécial.",
+        "a": "normal",
+        "en": "She had an ordinary coffee, nothing special.",
+        "alts": []
+      },
+      {
+        "slot": "g|mp",
+        "f": "agree",
+        "s": "Ces horaires de travail ne sont pas ___ pour un étudiant.",
+        "a": "normaux",
+        "en": "These working hours are not normal for a student.",
+        "alts": []
+      },
+      {
+        "slot": "g|mp",
+        "f": "agree",
+        "s": "Les médecins ont confirmé que ses résultats d'analyses étaient ___ .",
+        "a": "normaux",
+        "en": "The doctors confirmed that his test results were normal.",
+        "alts": []
+      },
+      {
+        "slot": "g|f",
+        "f": "agree",
+        "s": "Sa réaction face à cette nouvelle était tout à fait ___ .",
+        "a": "normale",
+        "en": "Her reaction to this news was perfectly normal.",
+        "alts": []
+      },
+      {
+        "slot": "g|f",
+        "f": "agree",
+        "s": "La température du corps est ___ quand elle est autour de 37 degrés.",
+        "a": "normale",
+        "en": "Body temperature is normal when it is around 37 degrees.",
+        "alts": []
+      },
+      {
+        "slot": "g|fp",
+        "f": "agree",
+        "s": "Ces situations sont ___ dans ce type de contexte professionnel.",
+        "a": "normales",
+        "en": "These situations are normal in this type of professional context.",
+        "alts": []
+      },
+      {
+        "slot": "g|fp",
+        "f": "agree",
+        "s": "Les variations de température en automne sont tout à fait ___ .",
+        "a": "normales",
+        "en": "Temperature variations in autumn are perfectly normal.",
+        "alts": []
+      }
+    ]
+  },
+  {
+    "id": 834,
+    "qs": [
+      {
+        "slot": "s|0",
+        "f": "sense",
+        "s": "Face à cette crise, le gouvernement a adopté une ___ ferme et sans concession.",
+        "a": "attitude",
+        "en": "In the face of this crisis, the government adopted a firm and uncompromising attitude (stance).",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "s|0",
+        "f": "sense",
+        "s": "Son ___ envers les nouveaux élèves est toujours bienveillante et encourageante.",
+        "a": "attitude",
+        "en": "Her attitude toward new students is always kind and encouraging.",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "s|1",
+        "f": "sense",
+        "s": "Le danseur a maintenu une ___ élégante tout au long de la représentation.",
+        "a": "attitude",
+        "en": "The dancer maintained an elegant posture throughout the performance.",
+        "alts": ["posture"],
+        "form": ""
+      },
+      {
+        "slot": "s|1",
+        "f": "sense",
+        "s": "Le sculpteur a représenté la déesse dans une ___ majestueuse, les bras levés vers le ciel.",
+        "a": "attitude",
+        "en": "The sculptor depicted the goddess in a majestic posture, arms raised toward the sky.",
+        "alts": ["posture"],
+        "form": ""
+      },
+      {
+        "slot": "s|2",
+        "f": "sense",
+        "s": "Les parents sont préoccupés par l'___ irrespectueuse de leur fils à l'école.",
+        "a": "attitude",
+        "en": "The parents are worried about their son's disrespectful conduct at school.",
+        "alts": ["comportement"],
+        "form": ""
+      },
+      {
+        "slot": "s|2",
+        "f": "sense",
+        "s": "Son ___ en public reflète une excellente éducation.",
+        "a": "attitude",
+        "en": "Her conduct in public reflects an excellent upbringing.",
+        "alts": ["comportement"],
+        "form": ""
+      },
+      {
+        "slot": "gender",
+        "f": "gender",
+        "s": "J'admire ___ positive qu'il garde malgré les difficultés.",
+        "a": "l'attitude",
+        "en": "I admire the positive attitude he maintains despite the difficulties.",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "gender",
+        "f": "gender",
+        "s": "Nous avons critiqué ___ arrogante de ce manager.",
+        "a": "l'attitude",
+        "en": "We criticized that manager's arrogant attitude.",
+        "alts": [],
+        "form": ""
+      }
+    ]
+  },
+  {
+    "id": 835,
+    "qs": [
+      {
+        "slot": "s|0",
+        "f": "sense",
+        "s": "L'étudiant a fait une ___ dans son calcul et a perdu des points.",
+        "a": "faute",
+        "en": "The student made a mistake in his calculation and lost points.",
+        "alts": ["erreur"],
+        "form": ""
+      },
+      {
+        "slot": "s|0",
+        "f": "sense",
+        "s": "Le professeur a corrigé chaque ___ d'orthographe dans la rédaction.",
+        "a": "faute",
+        "en": "The teacher corrected every spelling mistake in the essay.",
+        "alts": ["erreur"],
+        "form": ""
+      },
+      {
+        "slot": "s|1",
+        "f": "sense",
+        "s": "Ce n'est pas ma ___ si nous sommes arrivés en retard.",
+        "a": "faute",
+        "en": "It is not my fault if we arrived late.",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "s|1",
+        "f": "sense",
+        "s": "Le tribunal a établi la ___ du conducteur dans cet accident.",
+        "a": "faute",
+        "en": "The court established the driver's fault in this accident.",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "s|2",
+        "f": "sense",
+        "s": "Il reconnaît ses ___ et fait des efforts pour s'améliorer.",
+        "a": "fautes",
+        "en": "He acknowledges his shortcomings and makes efforts to improve.",
+        "alts": ["défauts"],
+        "form": ""
+      },
+      {
+        "slot": "s|2",
+        "f": "sense",
+        "s": "L'humilité consiste à reconnaître ses propres ___ sans chercher d'excuses.",
+        "a": "fautes",
+        "en": "Humility consists in acknowledging one's own flaws without making excuses.",
+        "alts": ["défauts"],
+        "form": ""
+      },
+      {
+        "slot": "gender",
+        "f": "gender",
+        "s": "Il a commis ___ faute impardonnable lors de la réunion.",
+        "a": "une",
+        "en": "He committed an unforgivable mistake during the meeting.",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "gender",
+        "f": "gender",
+        "s": "On lui a reproché ___ faute qu'il avait commise il y a des années.",
+        "a": "la",
+        "en": "He was reproached for the mistake he had made years ago.",
+        "alts": [],
+        "form": ""
+      }
+    ]
+  }
+]

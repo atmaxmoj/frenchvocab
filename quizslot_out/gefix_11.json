@@ -1,0 +1,43 @@
+[
+  {
+    "id": 778,
+    "qs": [
+      {"slot":"s|0","f":"sense","s":"Tous les élèves de la ___ ont passé l'examen ce matin.","en":"All the students in the class took the exam this morning.","a":"classe","alts":[],"form":""},
+      {"slot":"s|0","f":"sense","s":"Notre ___ compte trente élèves cette année.","en":"Our class has thirty students this year.","a":"classe","alts":[],"form":""},
+      {"slot":"s|1","f":"sense","s":"La ___ de mathématiques commence à huit heures.","en":"The math class starts at eight o'clock.","a":"classe","alts":[],"form":""},
+      {"slot":"s|1","f":"sense","s":"Je n'ai pas pu assister à la ___ d'histoire hier, j'étais malade.","en":"I couldn't attend the history class yesterday, I was sick.","a":"classe","alts":[],"form":""},
+      {"slot":"s|2","f":"sense","s":"Marx analysait les conflits entre les ___ sociales.","en":"Marx analyzed the conflicts between social classes.","a":"classes","alts":[],"form":""},
+      {"slot":"s|2","f":"sense","s":"La révolution a profondément modifié la structure des ___ dans ce pays.","en":"The revolution profoundly changed the class structure in that country.","a":"classes","alts":[],"form":""},
+      {"slot":"s|3","f":"sense","s":"Ils ont voyagé en ___ affaires lors de leur vol vers Tokyo.","en":"They traveled in business class on their flight to Tokyo.","a":"classe","alts":[],"form":""},
+      {"slot":"s|3","f":"sense","s":"Cet hôtel appartient à la ___ des établissements cinq étoiles.","en":"This hotel belongs to the five-star category.","a":"classe","alts":[],"form":""},
+      {"slot":"gender","f":"gender","s":"Il est entré dans ___ classe sans frapper à la porte.","en":"He entered the class without knocking on the door.","a":"la","alts":[],"form":""},
+      {"slot":"gender","f":"gender","s":"C'est ___ classe très animée, les enfants participent beaucoup.","en":"It is a very lively class, the children participate a lot.","a":"une","alts":[],"form":""}
+    ]
+  },
+  {
+    "id": 779,
+    "qs": [
+      {"slot":"s|0","f":"sense","s":"Ce tableau est ___ bien exécuté : chaque détail a été soigné avec soin.","en":"This painting is particularly well executed: every detail has been carefully crafted.","a":"particulièrement","alts":[],"form":""},
+      {"slot":"s|0","f":"sense","s":"Elle a trouvé ce film ___ touchant, bien plus qu'elle ne l'avait imaginé.","en":"She found this film particularly moving, much more than she had imagined.","a":"particulièrement","alts":[],"form":""},
+      {"slot":"s|1","f":"sense","s":"J'aime tous les fruits, mais ___ les fraises.","en":"I like all fruits, but especially strawberries.","a":"particulièrement","alts":["surtout"],"form":""},
+      {"slot":"s|1","f":"sense","s":"Tous les élèves ont bien travaillé, et ___ ceux qui avaient des difficultés au départ.","en":"All the students worked well, and especially those who had difficulties at the start.","a":"particulièrement","alts":["surtout","notamment"],"form":""}
+    ]
+  },
+  {
+    "id": 780,
+    "qs": [
+      {"slot":"s|0","f":"sense","s":"Les deux pays ont des intérêts ___ dans cette région.","en":"The two countries have common (shared) interests in this region.","a":"communs","alts":[],"form":""},
+      {"slot":"s|0","f":"sense","s":"Ils ont décidé de mettre leurs ressources ___ pour réussir le projet.","en":"They decided to pool their resources to succeed in the project.","a":"en commun","alts":[],"form":""},
+      {"slot":"s|1","f":"sense","s":"C'est un homme ___, sans titre ni fortune particulière.","en":"He is an ordinary man, with no particular title or fortune.","a":"commun","alts":[],"form":""},
+      {"slot":"s|1","f":"sense","s":"Ce repas était très ___, rien d'extraordinaire.","en":"This meal was very ordinary, nothing extraordinary.","a":"commun","alts":[],"form":""},
+      {"slot":"s|2","f":"sense","s":"Les rhumes sont des maladies ___ en hiver.","en":"Colds are common illnesses in winter.","a":"communes","alts":[],"form":""},
+      {"slot":"s|2","f":"sense","s":"Ce type d'erreur est très ___ chez les débutants.","en":"This type of error is very common among beginners.","a":"commun","alts":[],"form":""},
+      {"slot":"g|mp","f":"agree","s":"Leurs objectifs professionnels sont ___ depuis le début.","en":"Their professional goals have been shared from the beginning.","a":"communs","alts":[],"form":""},
+      {"slot":"g|mp","f":"agree","s":"Ces deux quartiers ont des problèmes ___ de circulation.","en":"These two neighborhoods have common traffic problems.","a":"communs","alts":[],"form":""},
+      {"slot":"g|f","f":"agree","s":"La langue ___ entre ces deux pays est le français.","en":"The common language between these two countries is French.","a":"commune","alts":[],"form":""},
+      {"slot":"g|f","f":"agree","s":"Cette pratique est ___ dans les grandes villes européennes.","en":"This practice is common in large European cities.","a":"commune","alts":[],"form":""},
+      {"slot":"g|fp","f":"agree","s":"Ces deux équipes ont des valeurs ___ : le respect et l'effort.","en":"These two teams share common values: respect and effort.","a":"communes","alts":[],"form":""},
+      {"slot":"g|fp","f":"agree","s":"Les maladies respiratoires sont ___ dans les régions polluées.","en":"Respiratory diseases are common in polluted regions.","a":"communes","alts":[],"form":""}
+    ]
+  }
+]

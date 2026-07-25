@@ -1,0 +1,665 @@
+[
+  {
+    "id": 603,
+    "qs": [
+      {
+        "slot": "s|0",
+        "f": "sense",
+        "s": "La Révolution française a eu lieu à la fin du dix-huitième ___ .",
+        "en": "The French Revolution took place at the end of the eighteenth century.",
+        "a": "siècle",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "s|0",
+        "f": "sense",
+        "s": "Les pyramides d'Égypte ont été construites il y a plus de quarante ___ s.",
+        "en": "The Egyptian pyramids were built more than forty centuries ago.",
+        "a": "siècle",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "s|1",
+        "f": "sense",
+        "s": "Internet a complètement transformé notre façon de vivre : c'est l'invention majeure de ce ___ .",
+        "en": "The internet has completely transformed the way we live: it is the major invention of this age.",
+        "a": "siècle",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "s|1",
+        "f": "sense",
+        "s": "Les artistes de ce ___ cherchent de nouvelles formes d'expression pour refléter les bouleversements du monde moderne.",
+        "en": "The artists of this age seek new forms of expression to reflect the upheavals of the modern world.",
+        "a": "siècle",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "gender",
+        "f": "gender",
+        "s": "Au Moyen Âge, ___ siècle durait cent ans comme aujourd'hui, mais les gens vivaient bien moins longtemps.",
+        "en": "In the Middle Ages, a century lasted a hundred years just as today, but people lived much shorter lives.",
+        "a": "un",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "gender",
+        "f": "gender",
+        "s": "Nous sommes au début ___ vingt et unième siècle.",
+        "en": "We are at the beginning of the twenty-first century.",
+        "a": "du",
+        "alts": [],
+        "form": ""
+      }
+    ]
+  },
+  {
+    "id": 604,
+    "qs": [
+      {
+        "slot": "s|0",
+        "f": "sense",
+        "s": "Elle a publié ___ dans un grand journal national.",
+        "en": "She published an article in a major national newspaper.",
+        "a": "un article",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "s|0",
+        "f": "sense",
+        "s": "J'ai lu ___ très intéressant sur les changements climatiques.",
+        "en": "I read a very interesting article on climate change.",
+        "a": "un article",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "s|1",
+        "f": "sense",
+        "s": "L'avocat a cité ___ 12 du Code civil.",
+        "en": "The lawyer cited article 12 of the Civil Code.",
+        "a": "l'article",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "s|1",
+        "f": "sense",
+        "s": "Nous devons respecter ___ premier du contrat.",
+        "en": "We must respect the first article of the contract.",
+        "a": "l'article",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "s|2",
+        "f": "sense",
+        "s": "Ce magasin propose des ___ de sport à prix réduit.",
+        "en": "This store offers sports goods at reduced prices.",
+        "a": "articles",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "s|2",
+        "f": "sense",
+        "s": "Cet ___ est actuellement en rupture de stock.",
+        "en": "This item is currently out of stock.",
+        "a": "article",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "gender",
+        "f": "gender",
+        "s": "C'est ___ article très bien écrit.",
+        "en": "It's a very well-written article.",
+        "a": "un",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "gender",
+        "f": "gender",
+        "s": "Je parle de ___ article que j'ai lu hier soir.",
+        "en": "I'm talking about the article I read last night.",
+        "a": "l'",
+        "alts": [],
+        "form": ""
+      }
+    ]
+  },
+  {
+    "id": 605,
+    "qs": [
+      {
+        "slot": "t|Présent|0",
+        "f": "tense",
+        "s": "Ce concert ___ environ deux heures.",
+        "en": "This concert lasts about two hours.",
+        "a": "dure",
+        "alts": [],
+        "form": "Présent"
+      },
+      {
+        "slot": "t|Présent|0",
+        "f": "tense",
+        "s": "Je pense que cette réunion ___ trop longtemps.",
+        "en": "I think this meeting lasts too long.",
+        "a": "dure",
+        "alts": [],
+        "form": "Présent"
+      },
+      {
+        "slot": "t|Présent|1",
+        "f": "tense",
+        "s": "Tu ___ depuis combien de temps dans ce travail ?",
+        "en": "How long have you been lasting in this job?",
+        "a": "dures",
+        "alts": [],
+        "form": "Présent"
+      },
+      {
+        "slot": "t|Présent|1",
+        "f": "tense",
+        "s": "Tu ___ encore dans ces conditions difficiles, c'est courageux.",
+        "en": "You still last in these difficult conditions — that's brave.",
+        "a": "dures",
+        "alts": [],
+        "form": "Présent"
+      },
+      {
+        "slot": "t|Présent|2",
+        "f": "tense",
+        "s": "Nous ___ depuis dix ans ensemble dans cette entreprise.",
+        "en": "We have been lasting together in this company for ten years.",
+        "a": "durons",
+        "alts": [],
+        "form": "Présent"
+      },
+      {
+        "slot": "t|Présent|2",
+        "f": "tense",
+        "s": "Ensemble, nous ___ malgré tous les obstacles.",
+        "en": "Together, we last despite all the obstacles.",
+        "a": "durons",
+        "alts": [],
+        "form": "Présent"
+      },
+      {
+        "slot": "t|Présent|3",
+        "f": "tense",
+        "s": "Vous ___ depuis longtemps dans ce métier, c'est impressionnant.",
+        "en": "You have been lasting a long time in this profession — it's impressive.",
+        "a": "durez",
+        "alts": [],
+        "form": "Présent"
+      },
+      {
+        "slot": "t|Présent|3",
+        "f": "tense",
+        "s": "Combien de temps ___ vous dans cette situation ?",
+        "en": "How long do you last in this situation?",
+        "a": "durez",
+        "alts": [],
+        "form": "Présent"
+      },
+      {
+        "slot": "t|Présent|4",
+        "f": "tense",
+        "s": "Les négociations ___ depuis plusieurs jours.",
+        "en": "The negotiations last several days.",
+        "a": "durent",
+        "alts": [],
+        "form": "Présent"
+      },
+      {
+        "slot": "t|Présent|4",
+        "f": "tense",
+        "s": "Ces effets secondaires ___ généralement une semaine.",
+        "en": "These side effects generally last a week.",
+        "a": "durent",
+        "alts": [],
+        "form": "Présent"
+      },
+      {
+        "slot": "t|Passé composé|0",
+        "f": "tense",
+        "s": "J'___ toute la nuit sans dormir pendant cette panne.",
+        "en": "I lasted the whole night without sleeping during that breakdown.",
+        "a": "ai duré",
+        "alts": [],
+        "form": "Passé composé"
+      },
+      {
+        "slot": "t|Passé composé|0",
+        "f": "tense",
+        "s": "J'___ trois mois dans ce poste avant de démissionner.",
+        "en": "I lasted three months in that position before resigning.",
+        "a": "ai duré",
+        "alts": [],
+        "form": "Passé composé"
+      },
+      {
+        "slot": "t|Passé composé|1",
+        "f": "tense",
+        "s": "Tu ___ combien de temps dans ce club de sport ?",
+        "en": "How long did you last in that sports club?",
+        "a": "as duré",
+        "alts": [],
+        "form": "Passé composé"
+      },
+      {
+        "slot": "t|Passé composé|1",
+        "f": "tense",
+        "s": "Tu ___ six mois à ce régime, c'est remarquable.",
+        "en": "You lasted six months on this diet — that's remarkable.",
+        "a": "as duré",
+        "alts": [],
+        "form": "Passé composé"
+      },
+      {
+        "slot": "t|Passé composé|2",
+        "f": "tense",
+        "s": "Le discours du président ___ plus d'une heure.",
+        "en": "The president's speech lasted more than an hour.",
+        "a": "a duré",
+        "alts": [],
+        "form": "Passé composé"
+      },
+      {
+        "slot": "t|Passé composé|2",
+        "f": "tense",
+        "s": "La tempête ___ toute la nuit.",
+        "en": "The storm lasted all night.",
+        "a": "a duré",
+        "alts": [],
+        "form": "Passé composé"
+      },
+      {
+        "slot": "t|Passé composé|3",
+        "f": "tense",
+        "s": "Nous ___ deux ans dans cette ville avant de déménager.",
+        "en": "We lasted two years in that city before moving.",
+        "a": "avons duré",
+        "alts": [],
+        "form": "Passé composé"
+      },
+      {
+        "slot": "t|Passé composé|3",
+        "f": "tense",
+        "s": "Nous ___ jusqu'à la fin malgré les difficultés.",
+        "en": "We lasted until the end despite the difficulties.",
+        "a": "avons duré",
+        "alts": [],
+        "form": "Passé composé"
+      },
+      {
+        "slot": "t|Passé composé|4",
+        "f": "tense",
+        "s": "Vous ___ combien de temps dans cette formation ?",
+        "en": "How long did you last in this training program?",
+        "a": "avez duré",
+        "alts": [],
+        "form": "Passé composé"
+      },
+      {
+        "slot": "t|Passé composé|4",
+        "f": "tense",
+        "s": "Vous ___ plus longtemps que prévu dans ce projet.",
+        "en": "You lasted longer than expected in this project.",
+        "a": "avez duré",
+        "alts": [],
+        "form": "Passé composé"
+      },
+      {
+        "slot": "t|Passé composé|5",
+        "f": "tense",
+        "s": "Les travaux ___ presque un an.",
+        "en": "The construction works lasted almost a year.",
+        "a": "ont duré",
+        "alts": [],
+        "form": "Passé composé"
+      },
+      {
+        "slot": "t|Passé composé|5",
+        "f": "tense",
+        "s": "Ces vacances ___ deux semaines.",
+        "en": "These holidays lasted two weeks.",
+        "a": "ont duré",
+        "alts": [],
+        "form": "Passé composé"
+      },
+      {
+        "slot": "t|Imparfait|0",
+        "f": "tense",
+        "s": "Je ___ rarement plus d'une heure en réunion sans m'ennuyer.",
+        "en": "I rarely lasted more than an hour in a meeting without getting bored.",
+        "a": "durais",
+        "alts": [],
+        "form": "Imparfait"
+      },
+      {
+        "slot": "t|Imparfait|0",
+        "f": "tense",
+        "s": "Tu ___ des heures à la bibliothèque chaque jour.",
+        "en": "You used to last hours at the library every day.",
+        "a": "durais",
+        "alts": [],
+        "form": "Imparfait"
+      },
+      {
+        "slot": "t|Imparfait|1",
+        "f": "tense",
+        "s": "Le film ___ trois heures, c'était long.",
+        "en": "The film lasted three hours — it was long.",
+        "a": "durait",
+        "alts": [],
+        "form": "Imparfait"
+      },
+      {
+        "slot": "t|Imparfait|1",
+        "f": "tense",
+        "s": "La fête ___ jusqu'à l'aube chaque week-end.",
+        "en": "The party used to last until dawn every weekend.",
+        "a": "durait",
+        "alts": [],
+        "form": "Imparfait"
+      },
+      {
+        "slot": "t|Imparfait|2",
+        "f": "tense",
+        "s": "Nous ___ des heures à table pendant les fêtes de famille.",
+        "en": "We used to last hours at the table during family celebrations.",
+        "a": "durions",
+        "alts": [],
+        "form": "Imparfait"
+      },
+      {
+        "slot": "t|Imparfait|2",
+        "f": "tense",
+        "s": "Avant, nous ___ des semaines sans voir nos amis.",
+        "en": "Before, we used to last weeks without seeing our friends.",
+        "a": "durions",
+        "alts": [],
+        "form": "Imparfait"
+      },
+      {
+        "slot": "t|Imparfait|3",
+        "f": "tense",
+        "s": "Vous ___ des heures en réunion sans pause.",
+        "en": "You used to last hours in meetings without a break.",
+        "a": "duriez",
+        "alts": [],
+        "form": "Imparfait"
+      },
+      {
+        "slot": "t|Imparfait|3",
+        "f": "tense",
+        "s": "Combien de temps ___ vous dans ce travail sans vacances ?",
+        "en": "How long did you used to last in this job without holidays?",
+        "a": "duriez",
+        "alts": [],
+        "form": "Imparfait"
+      },
+      {
+        "slot": "t|Imparfait|4",
+        "f": "tense",
+        "s": "Les hivers ___ longtemps dans cette région autrefois.",
+        "en": "Winters used to last a long time in that region in the past.",
+        "a": "duraient",
+        "alts": [],
+        "form": "Imparfait"
+      },
+      {
+        "slot": "t|Imparfait|4",
+        "f": "tense",
+        "s": "Les embouteillages ___ des heures dans ce quartier.",
+        "en": "The traffic jams used to last hours in that neighbourhood.",
+        "a": "duraient",
+        "alts": [],
+        "form": "Imparfait"
+      },
+      {
+        "slot": "t|Futur|0",
+        "f": "tense",
+        "s": "Je ___ encore longtemps dans ce club, j'espère.",
+        "en": "I will last a long time in this club, I hope.",
+        "a": "durerai",
+        "alts": [],
+        "form": "Futur"
+      },
+      {
+        "slot": "t|Futur|0",
+        "f": "tense",
+        "s": "Je ne ___ pas longtemps sans café le matin.",
+        "en": "I will not last long without coffee in the morning.",
+        "a": "durerai",
+        "alts": [],
+        "form": "Futur"
+      },
+      {
+        "slot": "t|Futur|1",
+        "f": "tense",
+        "s": "Tu ___ combien de temps dans ce nouveau poste ?",
+        "en": "How long will you last in this new position?",
+        "a": "dureras",
+        "alts": [],
+        "form": "Futur"
+      },
+      {
+        "slot": "t|Futur|1",
+        "f": "tense",
+        "s": "Si tu travailles dur, tu ___ longtemps dans cette carrière.",
+        "en": "If you work hard, you will last a long time in this career.",
+        "a": "dureras",
+        "alts": [],
+        "form": "Futur"
+      },
+      {
+        "slot": "t|Futur|2",
+        "f": "tense",
+        "s": "Ce médicament ___ environ six mois.",
+        "en": "This medication will last about six months.",
+        "a": "durera",
+        "alts": [],
+        "form": "Futur"
+      },
+      {
+        "slot": "t|Futur|2",
+        "f": "tense",
+        "s": "La cérémonie ___ toute la matinée.",
+        "en": "The ceremony will last all morning.",
+        "a": "durera",
+        "alts": [],
+        "form": "Futur"
+      },
+      {
+        "slot": "t|Futur|3",
+        "f": "tense",
+        "s": "Nous ___ encore des années ensemble, j'en suis certain.",
+        "en": "We will last many more years together, I am certain of it.",
+        "a": "durerons",
+        "alts": [],
+        "form": "Futur"
+      },
+      {
+        "slot": "t|Futur|3",
+        "f": "tense",
+        "s": "Nous ___ aussi longtemps que nécessaire pour finir ce projet.",
+        "en": "We will last as long as necessary to finish this project.",
+        "a": "durerons",
+        "alts": [],
+        "form": "Futur"
+      },
+      {
+        "slot": "t|Futur|4",
+        "f": "tense",
+        "s": "Vous ___ longtemps dans cette région avec ce climat.",
+        "en": "You will last a long time in this region with this climate.",
+        "a": "durerez",
+        "alts": [],
+        "form": "Futur"
+      },
+      {
+        "slot": "t|Futur|4",
+        "f": "tense",
+        "s": "Combien de temps ___ vous dans ces nouvelles conditions ?",
+        "en": "How long will you last in these new conditions?",
+        "a": "durerez",
+        "alts": [],
+        "form": "Futur"
+      },
+      {
+        "slot": "t|Futur|5",
+        "f": "tense",
+        "s": "Ces fleurs ___ environ une semaine dans le vase.",
+        "en": "These flowers will last about a week in the vase.",
+        "a": "dureront",
+        "alts": [],
+        "form": "Futur"
+      },
+      {
+        "slot": "t|Futur|5",
+        "f": "tense",
+        "s": "Les négociations ___ encore quelques jours.",
+        "en": "The negotiations will last a few more days.",
+        "a": "dureront",
+        "alts": [],
+        "form": "Futur"
+      },
+      {
+        "slot": "t|Conditionnel|0",
+        "f": "tense",
+        "s": "Si j'avais plus d'énergie, je ___ davantage dans ce travail.",
+        "en": "If I had more energy, I would last longer in this job.",
+        "a": "durerais",
+        "alts": [],
+        "form": "Conditionnel"
+      },
+      {
+        "slot": "t|Conditionnel|0",
+        "f": "tense",
+        "s": "Si tu t'entraînais chaque jour, tu ___ plus longtemps dans la course.",
+        "en": "If you trained every day, you would last longer in the race.",
+        "a": "durerais",
+        "alts": [],
+        "form": "Conditionnel"
+      },
+      {
+        "slot": "t|Conditionnel|1",
+        "f": "tense",
+        "s": "Sans l'aide de ses collègues, ce projet ne ___ pas longtemps.",
+        "en": "Without the help of his colleagues, this project would not last long.",
+        "a": "durerait",
+        "alts": [],
+        "form": "Conditionnel"
+      },
+      {
+        "slot": "t|Conditionnel|1",
+        "f": "tense",
+        "s": "Si on réduisait les dépenses, la réserve ___ plus longtemps.",
+        "en": "If we reduced expenses, the reserve would last longer.",
+        "a": "durerait",
+        "alts": [],
+        "form": "Conditionnel"
+      },
+      {
+        "slot": "t|Conditionnel|2",
+        "f": "tense",
+        "s": "Si nous nous reposions davantage, nous ___ plus longtemps dans l'effort.",
+        "en": "If we rested more, we would last longer under effort.",
+        "a": "durerions",
+        "alts": [],
+        "form": "Conditionnel"
+      },
+      {
+        "slot": "t|Conditionnel|2",
+        "f": "tense",
+        "s": "Avec un meilleur équipement, nous ___ encore plusieurs années.",
+        "en": "With better equipment, we would last several more years.",
+        "a": "durerions",
+        "alts": [],
+        "form": "Conditionnel"
+      },
+      {
+        "slot": "t|Conditionnel|3",
+        "f": "tense",
+        "s": "Si vous aviez plus de soutien, vous ___ plus longtemps dans ce poste.",
+        "en": "If you had more support, you would last longer in this position.",
+        "a": "dureriez",
+        "alts": [],
+        "form": "Conditionnel"
+      },
+      {
+        "slot": "t|Conditionnel|3",
+        "f": "tense",
+        "s": "Avec une meilleure organisation, vous ___ moins longtemps en réunion.",
+        "en": "With better organization, you would last less time in meetings.",
+        "a": "dureriez",
+        "alts": [],
+        "form": "Conditionnel"
+      },
+      {
+        "slot": "t|Conditionnel|4",
+        "f": "tense",
+        "s": "Si les provisions étaient suffisantes, ils ___ plusieurs semaines.",
+        "en": "If the supplies were sufficient, they would last several weeks.",
+        "a": "dureraient",
+        "alts": [],
+        "form": "Conditionnel"
+      },
+      {
+        "slot": "t|Conditionnel|4",
+        "f": "tense",
+        "s": "Ces batteries ___ plus longtemps si on les chargeait correctement.",
+        "en": "These batteries would last longer if they were charged correctly.",
+        "a": "dureraient",
+        "alts": [],
+        "form": "Conditionnel"
+      },
+      {
+        "slot": "t|Subjonctif",
+        "f": "subj",
+        "s": "Il faut que cette trêve ___ au moins une semaine.",
+        "en": "This truce must last at least one week.",
+        "a": "dure",
+        "alts": [],
+        "form": "Subjonctif"
+      },
+      {
+        "slot": "t|Subjonctif",
+        "f": "subj",
+        "s": "Je veux que la fête ___ jusqu'à minuit.",
+        "en": "I want the party to last until midnight.",
+        "a": "dure",
+        "alts": [],
+        "form": "Subjonctif"
+      },
+      {
+        "slot": "s|0",
+        "f": "sense",
+        "s": "Cette amitié ___ depuis vingt ans.",
+        "en": "This friendship has lasted twenty years.",
+        "a": "dure",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "s|0",
+        "f": "sense",
+        "s": "La douleur ne ___ que quelques minutes après la piqûre.",
+        "en": "The pain only lasts a few minutes after the injection.",
+        "a": "dure",
+        "alts": [],
+        "form": ""
+      }
+    ]
+  }
+]

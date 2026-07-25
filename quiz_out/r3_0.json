@@ -1,0 +1,88 @@
+[
+  {
+    "id": "1001",
+    "qs": [
+      {"f": "sense", "s": "Je n'avais jamais visité Paris auparavant.", "en": "I had never visited Paris before.", "a": "auparavant", "alts": ["avant"], "form": "past temporal reference"},
+      {"f": "sense", "s": "Les professeurs nous avaient expliqué ce concept auparavant, mais je ne m'en souvenais pas.", "en": "The teachers had explained this concept to us beforehand, but I didn't remember it.", "a": "auparavant", "alts": ["avant", "précédemment"], "form": "previous instruction"},
+      {"f": "sense", "s": "Contrairement à ce qu'il pensait auparavant, la réunion s'est bien passée.", "en": "Contrary to what he thought before, the meeting went well.", "a": "auparavant", "alts": ["avant", "précédemment"], "form": "prior expectation"},
+      {"f": "sense", "s": "Il n'avait jamais eu cette responsabilité auparavant.", "en": "He had never had this responsibility before.", "a": "auparavant", "alts": ["avant"], "form": "past experience"}
+    ]
+  },
+  {
+    "id": "1002",
+    "qs": [
+      {"f": "gender", "s": "Le monde ___ fascine les enfants.", "en": "The animal world fascinates children.", "a": "animal", "alts": [], "form": "masculine singular agreeing with monde"},
+      {"f": "gender", "s": "Les instincts ___ sont puissants chez tous les êtres vivants.", "en": "Animal instincts are powerful in all living beings.", "a": "animaux", "alts": [], "form": "masculine plural agreeing with instincts"},
+      {"f": "gender", "s": "La nature ___ de cet homme transparaît dans son comportement agressif.", "en": "This man's animal nature shines through in his aggressive behavior.", "a": "animale", "alts": [], "form": "feminine singular agreeing with nature"},
+      {"f": "gender", "s": "Les créatures ___ du royaume marin sont incroyablement diversifiées.", "en": "The animal creatures of the marine kingdom are incredibly diverse.", "a": "animales", "alts": [], "form": "feminine plural agreeing with créatures"},
+      {"f": "sense", "s": "Ses pulsions ___ l'ont submergé et il a perdu tout contrôle.", "en": "His animal impulses overwhelmed him and he lost all control.", "a": "animales", "alts": [], "form": "feminine plural agreeing with pulsions"},
+      {"f": "sense", "s": "Ce refuge accueille des espèces ___ menacées d'extinction.", "en": "This sanctuary welcomes animal species threatened with extinction.", "a": "animales", "alts": [], "form": "feminine plural agreeing with espèces"},
+      {"f": "sense", "s": "La rage ___ qui brillait dans ses yeux était effrayante.", "en": "The animal fury that shone in his eyes was frightening.", "a": "animale", "alts": [], "form": "feminine singular agreeing with rage"},
+      {"f": "sense", "s": "Les biologistes étudient le comportement ___ de ces mammifères.", "en": "Biologists study the animal behavior of these mammals.", "a": "animal", "alts": [], "form": "masculine singular agreeing with comportement"},
+      {"f": "sense", "s": "Avec ses cris ___, il ressemblait à une bête sauvage.", "en": "With his wild animal cries, he resembled a wild beast.", "a": "animaux", "alts": [], "form": "masculine plural agreeing with cris"},
+      {"f": "sense", "s": "La passion ___ de ce danseur captive tout le public.", "en": "The primal passion of this dancer captivates the entire audience.", "a": "animale", "alts": [], "form": "feminine singular agreeing with passion"},
+      {"f": "usage", "s": "Ses appétits ___ dégoûtaient sa famille.", "en": "His animal appetites disgusted his family.", "a": "animaux", "alts": [], "form": "masculine plural agreeing with appétits"},
+      {"f": "usage", "s": "Le royaume ___ comprend des millions d'espèces différentes.", "en": "The animal kingdom comprises millions of different species.", "a": "animal", "alts": [], "form": "masculine singular agreeing with royaume"}
+    ]
+  },
+  {
+    "id": "1003-articles",
+    "qs": [
+      {"f": "gender", "s": "___ solution est simple mais utile.", "en": "The solution is simple but useful.", "a": "La", "alts": [], "form": "feminine singular + definite article"},
+      {"f": "gender", "s": "___ conseil m'a beaucoup aidé.", "en": "The advice was very helpful to me.", "a": "Le", "alts": [], "form": "masculine singular + definite article"},
+      {"f": "gender", "s": "J'ai besoin d'___ pour terminer le projet.", "en": "I need some information to complete the project.", "a": "informations", "alts": [], "form": "feminine plural noun after de"},
+      {"f": "gender", "s": "Voici ___ ressources pour améliorer votre français.", "en": "Here are some resources to improve your French.", "a": "des", "alts": [], "form": "plural + indefinite article"},
+      {"f": "gender", "s": "Nous avons reçu ___ documentation pour le projet.", "en": "We received some documentation for the project.", "a": "de la", "alts": [], "form": "feminine singular + partitive article"}
+    ]
+  },
+  {
+    "id": "1003-adjectives",
+    "qs": [
+      {"f": "sense", "s": "Ce dictionnaire est très ___ quand je traduis.", "en": "This dictionary is very useful when I translate.", "a": "utile", "alts": [], "form": "masculine singular"},
+      {"f": "sense", "s": "Votre expérience sera ___ pour notre équipe.", "en": "Your experience will be useful for our team.", "a": "utile", "alts": [], "form": "feminine singular"},
+      {"f": "sense", "s": "Ces techniques sont ___ aux entrepreneurs modernes.", "en": "These techniques are useful to modern entrepreneurs.", "a": "utiles", "alts": [], "form": "feminine plural"},
+      {"f": "sense", "s": "Il n'est jamais ___ de pleurer sur le passé.", "en": "It is never useful to dwell on the past.", "a": "utile", "alts": [], "form": "masculine singular impersonal"},
+      {"f": "sense", "s": "Une visite à ce musée serait ___ pour ta culture générale.", "en": "A visit to this museum would be useful for your general knowledge.", "a": "utile", "alts": [], "form": "feminine singular"},
+      {"f": "sense", "s": "Les conseils ___ sont souvent les plus simples.", "en": "Useful advice is often the simplest.", "a": "utiles", "alts": [], "form": "masculine plural attributive"},
+      {"f": "sense", "s": "Tes suggestions sont ___ pour la réunion de demain.", "en": "Your suggestions are useful for tomorrow's meeting.", "a": "utiles", "alts": [], "form": "feminine plural"},
+      {"f": "sense", "s": "Avoir un bon sommeil est ___ à la santé.", "en": "Having good sleep is beneficial for health.", "a": "utile", "alts": [], "form": "masculine singular"},
+      {"f": "sense", "s": "Ses remarques étaient vraiment ___.", "en": "His remarks were truly useful.", "a": "utiles", "alts": [], "form": "feminine plural predicative"}
+    ]
+  },
+  {
+    "id": "1004",
+    "qs": [
+      {"f": "tense", "s": "Les enfants ___ leurs noms sur le registre de l'école.", "en": "The children write down their names in the school register.", "a": "inscrivent", "alts": [], "form": "Présent 3pl"},
+      {"f": "tense", "s": "Tu ___ ton email sur ce formulaire?", "en": "Do you write down your email on this form?", "a": "inscris", "alts": [], "form": "Présent 2sg"},
+      {"f": "tense", "s": "Nous ___ tous les détails importants dans le dossier.", "en": "We write down all the important details in the file.", "a": "inscrivons", "alts": [], "form": "Présent 1pl"},
+      {"f": "tense", "s": "Vous ___ vos enfants à l'université cette année.", "en": "You are registering your children at the university this year.", "a": "inscrivez", "alts": [], "form": "Présent 2pl"},
+      {"f": "tense", "s": "J'___ déjà au cours de français l'année dernière.", "en": "I already registered for the French class last year.", "a": "ai inscrit", "alts": [], "form": "Passé composé 1sg"},
+      {"f": "tense", "s": "Elle ___ son numéro de téléphone en bas de la page.", "en": "She wrote down her phone number at the bottom of the page.", "a": "a inscrit", "alts": [], "form": "Passé composé 3sg"},
+      {"f": "tense", "s": "Nous ___ les noms de tous les participants.", "en": "We wrote down the names of all the participants.", "a": "avons inscrit", "alts": [], "form": "Passé composé 1pl"},
+      {"f": "tense", "s": "Vous ___ vos enfants à cette école en septembre?", "en": "Did you register your children at this school in September?", "a": "avez inscrit", "alts": [], "form": "Passé composé 2pl"},
+      {"f": "tense", "s": "Ils ___ leur candidature pour le concours.", "en": "They registered their application for the competition.", "a": "ont inscrit", "alts": [], "form": "Passé composé 3pl"},
+      {"f": "tense", "s": "Tu ___ ce numéro dans ton carnet quand tu travaillais au café.", "en": "You used to write down that number in your notebook when you worked at the café.", "a": "inscrivais", "alts": [], "form": "Imparfait 2sg"},
+      {"f": "tense", "s": "Chaque été, nous ___ les enfants à un camp de vacances.", "en": "Every summer, we would register the children at a holiday camp.", "a": "inscrivions", "alts": [], "form": "Imparfait 1pl"},
+      {"f": "tense", "s": "Il ___ régulièrement ses observations scientifiques dans son journal.", "en": "He regularly wrote down his scientific observations in his journal.", "a": "inscrivait", "alts": [], "form": "Imparfait 3sg"},
+      {"f": "tense", "s": "Vous ___ vos dépenses professionnelles tous les mois.", "en": "You would write down your professional expenses every month.", "a": "inscriviez", "alts": [], "form": "Imparfait 2pl"},
+      {"f": "tense", "s": "Elles ___ les points des équipes sur le tableau noir.", "en": "They used to write down the teams' points on the blackboard.", "a": "inscrivaient", "alts": [], "form": "Imparfait 3pl"},
+      {"f": "tense", "s": "Je ___ mes enfants à l'école dès la prochaine rentrée.", "en": "I will register my children at school at the next school year.", "a": "inscrirai", "alts": [], "form": "Futur 1sg"},
+      {"f": "tense", "s": "Tu ___ ton nom sur cette liste avant demain.", "en": "You will write down your name on this list before tomorrow.", "a": "inscriras", "alts": [], "form": "Futur 2sg"},
+      {"f": "tense", "s": "Il ___ les détails dans le registre officiel.", "en": "He will write down the details in the official register.", "a": "inscrira", "alts": [], "form": "Futur 3sg"},
+      {"f": "tense", "s": "Nous ___ cette date importante sur notre calendrier.", "en": "We will write down this important date on our calendar.", "a": "inscrirons", "alts": [], "form": "Futur 1pl"},
+      {"f": "tense", "s": "Vous ___ vos coordonnées complètes dans le formulaire.", "en": "You will write down your complete contact details in the form.", "a": "inscrirez", "alts": [], "form": "Futur 2pl"},
+      {"f": "tense", "s": "Ils ___ tous au marathon de la ville.", "en": "They will register for the city marathon.", "a": "inscriront", "alts": [], "form": "Futur 3pl"},
+      {"f": "tense", "s": "Si j'___ mon enfant maintenant, il aurait une place garantie.", "en": "If I registered my child now, he would have a guaranteed place.", "a": "inscrivais", "alts": [], "form": "Imparfait 1sg (si-clause)"},
+      {"f": "tense", "s": "Tu ___ ton adresse sur le contrat si tu le relisais.", "en": "You would write down your address on the contract if you read it again.", "a": "inscrirais", "alts": [], "form": "Conditionnel présent 2sg"},
+      {"f": "tense", "s": "Il ___ ses enfants à cette université prestigieuse s'il en avait les moyens.", "en": "He would register his children at this prestigious university if he could afford it.", "a": "inscrirait", "alts": [], "form": "Conditionnel présent 3sg"},
+      {"f": "tense", "s": "Vous ___ votre candidature avant la date limite?", "en": "Would you register your application before the deadline?", "a": "inscririez", "alts": [], "form": "Conditionnel présent 2pl"},
+      {"f": "tense", "s": "Elles ___ leurs prénoms sur la liste si on le leur demandait.", "en": "They would write down their first names on the list if we asked them to.", "a": "inscriraient", "alts": [], "form": "Conditionnel présent 3pl"},
+      {"f": "tense", "s": "Il faut que je ___ mon nom sur cette feuille.", "en": "I must write down my name on this sheet.", "a": "inscrive", "alts": [], "form": "Subjonctif 1sg"},
+      {"f": "tense", "s": "Il est important que tu ___ tes enfants au lycée avant le 30 juin.", "en": "It is important that you register your children at high school before June 30.", "a": "inscrives", "alts": [], "form": "Subjonctif 2sg"},
+      {"f": "tense", "s": "Je veux qu'il ___ tous les détails du contrat.", "en": "I want him to write down all the contract details.", "a": "inscrive", "alts": [], "form": "Subjonctif 3sg"},
+      {"f": "tense", "s": "Il est douteux que nous ___ les modifications à temps.", "en": "It is doubtful that we will write down the changes in time.", "a": "inscrivions", "alts": [], "form": "Subjonctif 1pl"},
+      {"f": "tense", "s": "Pourvu que vous ___ vos enfants pour le cours de natation!", "en": "Provided that you register your children for the swimming class!", "a": "inscriviez", "alts": [], "form": "Subjonctif 2pl"},
+      {"f": "tense", "s": "Je doute qu'ils ___ leurs noms correctement.", "en": "I doubt that they will write down their names correctly.", "a": "inscrivent", "alts": [], "form": "Subjonctif 3pl"}
+    ]
+  }
+]

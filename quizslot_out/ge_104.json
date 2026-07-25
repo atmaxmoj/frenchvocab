@@ -1,0 +1,665 @@
+[
+  {
+    "id": 982,
+    "qs": [
+      {
+        "slot": "s|0",
+        "f": "sense",
+        "s": "Mon anniversaire est en ___ .",
+        "en": "My birthday is in November.",
+        "a": "novembre",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "s|0",
+        "f": "sense",
+        "s": "Les feuilles tombent souvent en ___ dans ce pays.",
+        "en": "The leaves often fall in November in this country.",
+        "a": "novembre",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "gender",
+        "f": "gender",
+        "s": "En France, ___ novembre est un mois d'automne.",
+        "en": "In France, November is an autumn month.",
+        "a": "le",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "gender",
+        "f": "gender",
+        "s": "Nous avons passé ___ novembre entier à préparer les examens.",
+        "en": "We spent the entire November preparing for exams.",
+        "a": "le",
+        "alts": [],
+        "form": ""
+      }
+    ]
+  },
+  {
+    "id": 983,
+    "qs": [
+      {
+        "slot": "s|0",
+        "f": "sense",
+        "s": "L'association manque de ___ pour financer ses projets.",
+        "en": "The association lacks funds to finance its projects.",
+        "a": "fonds",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "s|0",
+        "f": "sense",
+        "s": "Nous avons réussi à rassembler suffisamment de ___ pour lancer l'entreprise.",
+        "en": "We managed to raise enough funds to launch the business.",
+        "a": "fonds",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "s|1",
+        "f": "sense",
+        "s": "Il a placé ses économies dans un ___ d'investissement.",
+        "en": "He put his savings into an investment fund.",
+        "a": "fonds",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "s|1",
+        "f": "sense",
+        "s": "Ce ___ de pension garantit une retraite confortable aux employés.",
+        "en": "This pension fund guarantees a comfortable retirement for the employees.",
+        "a": "fonds",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "s|2",
+        "f": "sense",
+        "s": "Les scientifiques explorent les ___ marins à bord d'un sous-marin.",
+        "en": "The scientists are exploring the seabed aboard a submarine.",
+        "a": "fonds",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "s|2",
+        "f": "sense",
+        "s": "Des épaves reposent sur les ___ de l'océan depuis des siècles.",
+        "en": "Shipwrecks have been resting on the ocean floor for centuries.",
+        "a": "fonds",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "gender",
+        "f": "gender",
+        "s": "Le gouvernement a débloqué ___ nécessaires pour reconstruire les infrastructures.",
+        "en": "The government released the necessary funds to rebuild the infrastructure.",
+        "a": "les",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "gender",
+        "f": "gender",
+        "s": "Elle dirige ___ commun de placement depuis trois ans.",
+        "en": "She has been managing a mutual fund for three years.",
+        "a": "un",
+        "alts": [],
+        "form": ""
+      }
+    ]
+  },
+  {
+    "id": 984,
+    "qs": [
+      {
+        "slot": "t|Présent|0",
+        "f": "tense",
+        "s": "Ce livre ___ vingt euros dans cette librairie.",
+        "en": "This book costs twenty euros in this bookstore.",
+        "a": "coûte",
+        "alts": [],
+        "form": "Présent"
+      },
+      {
+        "slot": "t|Présent|0",
+        "f": "tense",
+        "s": "Je trouve que l'essence ___ trop cher en ce moment.",
+        "en": "I find that gas costs too much right now.",
+        "a": "coûte",
+        "alts": [],
+        "form": "Présent"
+      },
+      {
+        "slot": "t|Présent|1",
+        "f": "tense",
+        "s": "Combien ___ tu pour ton loyer chaque mois ?",
+        "en": "How much does it cost you for your rent each month?",
+        "a": "coûtes",
+        "alts": [],
+        "form": "Présent"
+      },
+      {
+        "slot": "t|Présent|1",
+        "f": "tense",
+        "s": "Tu ___ trop cher, je vais chercher ailleurs.",
+        "en": "You cost too much, I'll look elsewhere.",
+        "a": "coûtes",
+        "alts": [],
+        "form": "Présent"
+      },
+      {
+        "slot": "t|Présent|2",
+        "f": "tense",
+        "s": "Ensemble, nous ___ moins cher à l'entreprise qu'un seul consultant externe.",
+        "en": "Together, we cost the company less than a single external consultant.",
+        "a": "coûtons",
+        "alts": [],
+        "form": "Présent"
+      },
+      {
+        "slot": "t|Présent|2",
+        "f": "tense",
+        "s": "Nous ___ beaucoup moins cher si vous achetez en grande quantité.",
+        "en": "We cost much less if you buy in large quantities.",
+        "a": "coûtons",
+        "alts": [],
+        "form": "Présent"
+      },
+      {
+        "slot": "t|Présent|3",
+        "f": "tense",
+        "s": "Vous ___ combien par heure pour ce service ?",
+        "en": "How much do you cost per hour for this service?",
+        "a": "coûtez",
+        "alts": [],
+        "form": "Présent"
+      },
+      {
+        "slot": "t|Présent|3",
+        "f": "tense",
+        "s": "Vous ___ trop cher pour mon budget actuel.",
+        "en": "You cost too much for my current budget.",
+        "a": "coûtez",
+        "alts": [],
+        "form": "Présent"
+      },
+      {
+        "slot": "t|Présent|4",
+        "f": "tense",
+        "s": "Ces chaussures de luxe ___ plusieurs centaines d'euros.",
+        "en": "These luxury shoes cost several hundred euros.",
+        "a": "coûtent",
+        "alts": [],
+        "form": "Présent"
+      },
+      {
+        "slot": "t|Présent|4",
+        "f": "tense",
+        "s": "Les billets d'avion ___ beaucoup plus cher pendant les vacances.",
+        "en": "Plane tickets cost much more during the holidays.",
+        "a": "coûtent",
+        "alts": [],
+        "form": "Présent"
+      },
+      {
+        "slot": "t|Passé composé|0",
+        "f": "tense",
+        "s": "J'___ très cher pour ce voyage en Asie.",
+        "en": "This trip to Asia cost me a lot.",
+        "a": "ai coûté",
+        "alts": [],
+        "form": "Passé composé"
+      },
+      {
+        "slot": "t|Passé composé|0",
+        "f": "tense",
+        "s": "Ce réfrigérateur, j'___ une fortune.",
+        "en": "This refrigerator cost me a fortune.",
+        "a": "ai coûté",
+        "alts": [],
+        "form": "Passé composé"
+      },
+      {
+        "slot": "t|Passé composé|1",
+        "f": "tense",
+        "s": "Tu ___ beaucoup en prenant un taxi jusqu'à l'aéroport.",
+        "en": "You cost a lot by taking a taxi to the airport.",
+        "a": "as coûté",
+        "alts": [],
+        "form": "Passé composé"
+      },
+      {
+        "slot": "t|Passé composé|1",
+        "f": "tense",
+        "s": "Tu ___ cher à réparer cette fois-ci.",
+        "en": "You cost a lot to repair this time.",
+        "a": "as coûté",
+        "alts": [],
+        "form": "Passé composé"
+      },
+      {
+        "slot": "t|Passé composé|2",
+        "f": "tense",
+        "s": "La rénovation de la cuisine ___ plus de dix mille euros.",
+        "en": "The kitchen renovation cost more than ten thousand euros.",
+        "a": "a coûté",
+        "alts": [],
+        "form": "Passé composé"
+      },
+      {
+        "slot": "t|Passé composé|2",
+        "f": "tense",
+        "s": "Ce médicament rare ___ une somme considérable à la famille.",
+        "en": "This rare medicine cost the family a considerable sum.",
+        "a": "a coûté",
+        "alts": [],
+        "form": "Passé composé"
+      },
+      {
+        "slot": "t|Passé composé|3",
+        "f": "tense",
+        "s": "Nous ___ beaucoup pour organiser cette conférence internationale.",
+        "en": "We cost a lot to organize this international conference.",
+        "a": "avons coûté",
+        "alts": [],
+        "form": "Passé composé"
+      },
+      {
+        "slot": "t|Passé composé|3",
+        "f": "tense",
+        "s": "Au total, nous ___ moins cher que prévu grâce aux remises obtenues.",
+        "en": "In total, we cost less than expected thanks to the discounts obtained.",
+        "a": "avons coûté",
+        "alts": [],
+        "form": "Passé composé"
+      },
+      {
+        "slot": "t|Passé composé|4",
+        "f": "tense",
+        "s": "Vous ___ beaucoup plus que le devis initial, messieurs.",
+        "en": "You cost much more than the initial estimate, gentlemen.",
+        "a": "avez coûté",
+        "alts": [],
+        "form": "Passé composé"
+      },
+      {
+        "slot": "t|Passé composé|4",
+        "f": "tense",
+        "s": "Avec tous ces extras, vous ___ le double du budget prévu.",
+        "en": "With all these extras, you cost double the planned budget.",
+        "a": "avez coûté",
+        "alts": [],
+        "form": "Passé composé"
+      },
+      {
+        "slot": "t|Passé composé|5",
+        "f": "tense",
+        "s": "Ces travaux ___ finalement trois fois plus cher que prévu.",
+        "en": "These works finally cost three times more than expected.",
+        "a": "ont coûté",
+        "alts": [],
+        "form": "Passé composé"
+      },
+      {
+        "slot": "t|Passé composé|5",
+        "f": "tense",
+        "s": "Les ingrédients bio ___ plus cher que ceux de la recette habituelle.",
+        "en": "The organic ingredients cost more than those in the usual recipe.",
+        "a": "ont coûté",
+        "alts": [],
+        "form": "Passé composé"
+      },
+      {
+        "slot": "t|Imparfait|0",
+        "f": "tense",
+        "s": "Quand j'étais étudiant, je ne ___ presque rien à mes parents.",
+        "en": "When I was a student, I barely cost my parents anything.",
+        "a": "coûtais",
+        "alts": [],
+        "form": "Imparfait"
+      },
+      {
+        "slot": "t|Imparfait|0",
+        "f": "tense",
+        "s": "Tu ___ moins cher à l'époque, avant que tu ne deviennes célèbre.",
+        "en": "You cost less back then, before you became famous.",
+        "a": "coûtais",
+        "alts": [],
+        "form": "Imparfait"
+      },
+      {
+        "slot": "t|Imparfait|1",
+        "f": "tense",
+        "s": "L'essence ___ deux fois moins cher il y a vingt ans.",
+        "en": "Gas cost twice as little twenty years ago.",
+        "a": "coûtait",
+        "alts": [],
+        "form": "Imparfait"
+      },
+      {
+        "slot": "t|Imparfait|1",
+        "f": "tense",
+        "s": "À l'époque, ce restaurant ___ très peu cher et les portions étaient généreuses.",
+        "en": "At that time, this restaurant cost very little and the portions were generous.",
+        "a": "coûtait",
+        "alts": [],
+        "form": "Imparfait"
+      },
+      {
+        "slot": "t|Imparfait|2",
+        "f": "tense",
+        "s": "Nous ___ peu cher à l'entreprise quand nous étions stagiaires.",
+        "en": "We cost the company little when we were interns.",
+        "a": "coûtions",
+        "alts": [],
+        "form": "Imparfait"
+      },
+      {
+        "slot": "t|Imparfait|2",
+        "f": "tense",
+        "s": "En tant que petite équipe, nous ___ moins cher à maintenir.",
+        "en": "As a small team, we cost less to maintain.",
+        "a": "coûtions",
+        "alts": [],
+        "form": "Imparfait"
+      },
+      {
+        "slot": "t|Imparfait|3",
+        "f": "tense",
+        "s": "Vous ___ beaucoup moins cher avant de changer de prestataire.",
+        "en": "You cost much less before changing service providers.",
+        "a": "coûtiez",
+        "alts": [],
+        "form": "Imparfait"
+      },
+      {
+        "slot": "t|Imparfait|3",
+        "f": "tense",
+        "s": "Vous ___ moins que vos concurrents à l'époque, c'était votre avantage.",
+        "en": "You cost less than your competitors at the time, that was your advantage.",
+        "a": "coûtiez",
+        "alts": [],
+        "form": "Imparfait"
+      },
+      {
+        "slot": "t|Imparfait|4",
+        "f": "tense",
+        "s": "Avant, les vacances en Europe ___ bien moins cher qu'aujourd'hui.",
+        "en": "Before, vacations in Europe cost much less than today.",
+        "a": "coûtaient",
+        "alts": [],
+        "form": "Imparfait"
+      },
+      {
+        "slot": "t|Imparfait|4",
+        "f": "tense",
+        "s": "Ces appareils électroniques ___ une fortune dans les années 1980.",
+        "en": "These electronic devices cost a fortune in the 1980s.",
+        "a": "coûtaient",
+        "alts": [],
+        "form": "Imparfait"
+      },
+      {
+        "slot": "t|Futur|0",
+        "f": "tense",
+        "s": "Je ___ moins cher si je réserve à l'avance.",
+        "en": "I will cost less if I book in advance.",
+        "a": "coûterai",
+        "alts": [],
+        "form": "Futur"
+      },
+      {
+        "slot": "t|Futur|0",
+        "f": "tense",
+        "s": "Avec la nouvelle offre, je ___ moins cher que mes concurrents.",
+        "en": "With the new offer, I will cost less than my competitors.",
+        "a": "coûterai",
+        "alts": [],
+        "form": "Futur"
+      },
+      {
+        "slot": "t|Futur|1",
+        "f": "tense",
+        "s": "Tu ___ moins cher si tu prends le forfait annuel.",
+        "en": "You will cost less if you take the annual package.",
+        "a": "coûteras",
+        "alts": [],
+        "form": "Futur"
+      },
+      {
+        "slot": "t|Futur|1",
+        "f": "tense",
+        "s": "Avec ces nouvelles options, tu ___ plus cher à l'entreprise.",
+        "en": "With these new options, you will cost the company more.",
+        "a": "coûteras",
+        "alts": [],
+        "form": "Futur"
+      },
+      {
+        "slot": "t|Futur|2",
+        "f": "tense",
+        "s": "Ce projet ___ environ cinquante mille euros selon l'architecte.",
+        "en": "This project will cost about fifty thousand euros according to the architect.",
+        "a": "coûtera",
+        "alts": [],
+        "form": "Futur"
+      },
+      {
+        "slot": "t|Futur|2",
+        "f": "tense",
+        "s": "La nouvelle voiture électrique ___ certainement moins cher à entretenir.",
+        "en": "The new electric car will certainly cost less to maintain.",
+        "a": "coûtera",
+        "alts": [],
+        "form": "Futur"
+      },
+      {
+        "slot": "t|Futur|3",
+        "f": "tense",
+        "s": "Nous ___ moins cher à l'avenir grâce à nos nouvelles méthodes de travail.",
+        "en": "We will cost less in the future thanks to our new working methods.",
+        "a": "coûterons",
+        "alts": [],
+        "form": "Futur"
+      },
+      {
+        "slot": "t|Futur|3",
+        "f": "tense",
+        "s": "Nous ___ beaucoup moins cher si nous regroupons nos achats.",
+        "en": "We will cost much less if we pool our purchases.",
+        "a": "coûterons",
+        "alts": [],
+        "form": "Futur"
+      },
+      {
+        "slot": "t|Futur|4",
+        "f": "tense",
+        "s": "Vous ___ plus cher dès l'année prochaine, selon les nouvelles tarifications.",
+        "en": "You will cost more starting next year, according to the new pricing.",
+        "a": "coûterez",
+        "alts": [],
+        "form": "Futur"
+      },
+      {
+        "slot": "t|Futur|4",
+        "f": "tense",
+        "s": "Messieurs, vous ___ beaucoup moins cher si vous acceptez nos conditions.",
+        "en": "Gentlemen, you will cost much less if you accept our terms.",
+        "a": "coûterez",
+        "alts": [],
+        "form": "Futur"
+      },
+      {
+        "slot": "t|Futur|5",
+        "f": "tense",
+        "s": "Les travaux de rénovation ___ plus cher si on attend encore.",
+        "en": "The renovation works will cost more if we wait any longer.",
+        "a": "coûteront",
+        "alts": [],
+        "form": "Futur"
+      },
+      {
+        "slot": "t|Futur|5",
+        "f": "tense",
+        "s": "Ces nouvelles machines ___ moins cher à la longue qu'employer du personnel supplémentaire.",
+        "en": "These new machines will cost less in the long run than hiring additional staff.",
+        "a": "coûteront",
+        "alts": [],
+        "form": "Futur"
+      },
+      {
+        "slot": "t|Conditionnel|0",
+        "f": "tense",
+        "s": "Si tu réservais maintenant, je ___ moins cher.",
+        "en": "If you booked now, I would cost less.",
+        "a": "coûterais",
+        "alts": [],
+        "form": "Conditionnel"
+      },
+      {
+        "slot": "t|Conditionnel|0",
+        "f": "tense",
+        "s": "Tu ___ moins cher si tu choisissais le modèle de base.",
+        "en": "You would cost less if you chose the basic model.",
+        "a": "coûterais",
+        "alts": [],
+        "form": "Conditionnel"
+      },
+      {
+        "slot": "t|Conditionnel|1",
+        "f": "tense",
+        "s": "Si on attendait les soldes, ce manteau ___ deux fois moins cher.",
+        "en": "If we waited for the sales, this coat would cost twice as little.",
+        "a": "coûterait",
+        "alts": [],
+        "form": "Conditionnel"
+      },
+      {
+        "slot": "t|Conditionnel|1",
+        "f": "tense",
+        "s": "Ce voyage ___ moins cher si on partageait les frais.",
+        "en": "This trip would cost less if we shared the expenses.",
+        "a": "coûterait",
+        "alts": [],
+        "form": "Conditionnel"
+      },
+      {
+        "slot": "t|Conditionnel|2",
+        "f": "tense",
+        "s": "Nous ___ moins cher si nous achetions nos fournitures en gros.",
+        "en": "We would cost less if we bought our supplies in bulk.",
+        "a": "coûterions",
+        "alts": [],
+        "form": "Conditionnel"
+      },
+      {
+        "slot": "t|Conditionnel|2",
+        "f": "tense",
+        "s": "Sans les heures supplémentaires, nous ___ beaucoup moins cher à l'entreprise.",
+        "en": "Without overtime, we would cost the company much less.",
+        "a": "coûterions",
+        "alts": [],
+        "form": "Conditionnel"
+      },
+      {
+        "slot": "t|Conditionnel|3",
+        "f": "tense",
+        "s": "Si vous réduisiez vos exigences, vous ___ moins cher à former.",
+        "en": "If you reduced your requirements, you would cost less to train.",
+        "a": "coûteriez",
+        "alts": [],
+        "form": "Conditionnel"
+      },
+      {
+        "slot": "t|Conditionnel|3",
+        "f": "tense",
+        "s": "Vous ___ moins cher si vous acceptiez un contrat à long terme.",
+        "en": "You would cost less if you accepted a long-term contract.",
+        "a": "coûteriez",
+        "alts": [],
+        "form": "Conditionnel"
+      },
+      {
+        "slot": "t|Conditionnel|4",
+        "f": "tense",
+        "s": "Ces réparations ___ moins cher si on s'y prenait plus tôt.",
+        "en": "These repairs would cost less if we dealt with them sooner.",
+        "a": "coûteraient",
+        "alts": [],
+        "form": "Conditionnel"
+      },
+      {
+        "slot": "t|Conditionnel|4",
+        "f": "tense",
+        "s": "Les matériaux importés ___ moins cher si les droits de douane diminuaient.",
+        "en": "Imported materials would cost less if customs duties decreased.",
+        "a": "coûteraient",
+        "alts": [],
+        "form": "Conditionnel"
+      },
+      {
+        "slot": "t|Subjonctif",
+        "f": "subj",
+        "s": "Il faut que ce projet ___ moins de mille euros au total.",
+        "en": "This project must cost less than a thousand euros in total.",
+        "a": "coûte",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "t|Subjonctif",
+        "f": "subj",
+        "s": "Je tiens à ce que tu ___ le moins possible pendant ce voyage.",
+        "en": "I want you to cost as little as possible during this trip.",
+        "a": "coûtes",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "s|0",
+        "f": "sense",
+        "s": "Cette robe ___ cent cinquante euros dans la boutique en ligne.",
+        "en": "This dress costs one hundred and fifty euros in the online shop.",
+        "a": "coûte",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "s|0",
+        "f": "sense",
+        "s": "Les billets de train ___ beaucoup moins cher quand on réserve à l'avance.",
+        "en": "Train tickets cost much less when you book in advance.",
+        "a": "coûtent",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "s|1",
+        "f": "sense",
+        "s": "Cette erreur de jugement lui a ___ sa carrière.",
+        "en": "This error of judgment cost him his career.",
+        "a": "coûté",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "s|1",
+        "f": "sense",
+        "s": "La négligence dans ce domaine peut ___ la vie des travailleurs.",
+        "en": "Negligence in this area can cost workers their lives.",
+        "a": "coûter",
+        "alts": [],
+        "form": ""
+      }
+    ]
+  }
+]

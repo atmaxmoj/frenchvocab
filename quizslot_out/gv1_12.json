@@ -1,0 +1,43 @@
+[
+  {
+    "id": 3337,
+    "qs": [
+      {"slot": "s|0", "f": "sense", "s": "Le sol était ___ de neige après la tempête.", "a": "couvert", "en": "The ground was covered with snow after the storm.", "alts": [], "form": ""},
+      {"slot": "s|0", "f": "sense", "s": "Son visage était ___ de taches de rousseur.", "a": "couvert", "en": "His face was covered with freckles.", "alts": [], "form": ""},
+      {"slot": "s|1", "f": "sense", "s": "Le ciel est ___ aujourd'hui, on ne voit pas le soleil.", "a": "couvert", "en": "The sky is overcast today, we can't see the sun.", "alts": [], "form": ""},
+      {"slot": "s|1", "f": "sense", "s": "Le temps est ___ ce matin ; il risque de pleuvoir cet après-midi.", "a": "couvert", "en": "The weather is overcast this morning; it may rain this afternoon.", "alts": [], "form": ""},
+      {"slot": "s|2", "f": "sense", "s": "Le restaurant avait réservé un ___ pour chaque invité.", "a": "couvert", "en": "The restaurant had reserved a place setting for each guest.", "alts": [], "form": ""},
+      {"slot": "s|2", "f": "sense", "s": "Pouvez-vous ajouter un ___ pour notre ami qui vient de nous rejoindre ?", "a": "couvert", "en": "Can you add a place setting for our friend who has just joined us?", "alts": [], "form": ""},
+      {"slot": "s|3", "f": "sense", "s": "Elle a sorti les ___ du tiroir pour mettre la table.", "a": "couverts", "en": "She took the cutlery out of the drawer to set the table.", "alts": [], "form": ""},
+      {"slot": "s|3", "f": "sense", "s": "N'oublie pas de placer les ___ à côté des assiettes avant le dîner.", "a": "couverts", "en": "Don't forget to place the cutlery beside the plates before dinner.", "alts": [], "form": ""},
+      {"slot": "g|mp", "f": "agree", "s": "Les jardins sont ___ de feuilles mortes en automne.", "a": "couverts", "en": "The gardens are covered with dead leaves in autumn.", "alts": [], "form": ""},
+      {"slot": "g|mp", "f": "agree", "s": "Les murs du vieux château étaient ___ de lierre.", "a": "couverts", "en": "The walls of the old castle were covered with ivy.", "alts": [], "form": ""},
+      {"slot": "g|f", "f": "agree", "s": "La montagne est ___ de neige en hiver.", "a": "couverte", "en": "The mountain is covered with snow in winter.", "alts": [], "form": ""},
+      {"slot": "g|f", "f": "agree", "s": "La piscine doit rester ___ quand elle n'est pas utilisée.", "a": "couverte", "en": "The swimming pool must remain covered when it is not in use.", "alts": [], "form": ""},
+      {"slot": "g|fp", "f": "agree", "s": "Les collines étaient ___ de vignes à perte de vue.", "a": "couvertes", "en": "The hills were covered with vineyards as far as the eye could see.", "alts": [], "form": ""},
+      {"slot": "g|fp", "f": "agree", "s": "Les tables étaient ___ de fleurs fraîches pour la cérémonie.", "a": "couvertes", "en": "The tables were covered with fresh flowers for the ceremony.", "alts": [], "form": ""}
+    ]
+  },
+  {
+    "id": 3338,
+    "qs": [
+      {"slot": "s|0", "f": "sense", "s": "Le trajet en train jusqu'à Lyon dure environ une ___.", "a": "demi-heure", "en": "The train journey to Lyon takes about half an hour.", "alts": []},
+      {"slot": "s|0", "f": "sense", "s": "La réunion a commencé il y a une ___ et elle n'est toujours pas terminée.", "a": "demi-heure", "en": "The meeting started half an hour ago and it's still not over.", "alts": []},
+      {"slot": "gender", "f": "gender", "s": "Il a profité de ___ demi-heure de pause pour appeler sa famille.", "a": "la", "en": "He took advantage of the half-hour break to call his family.", "alts": []},
+      {"slot": "gender", "f": "gender", "s": "J'ai réservé ___ demi-heure pour répondre à tes questions.", "a": "une", "en": "I set aside half an hour to answer your questions.", "alts": []}
+    ]
+  },
+  {
+    "id": 3339,
+    "qs": [
+      {"slot": "s|0", "f": "sense", "s": "Mon conseiller financier m'a recommandé un ___ en bourse pour diversifier mon portefeuille.", "a": "placement", "en": "My financial advisor recommended an investment in the stock market to diversify my portfolio.", "alts": [], "form": ""},
+      {"slot": "s|0", "f": "sense", "s": "Ce ___ immobilier a rapporté un rendement de cinq pour cent par an.", "a": "placement", "en": "This real estate investment yielded a return of five percent per year.", "alts": [], "form": ""},
+      {"slot": "s|1", "f": "sense", "s": "L'agence s'occupe du ___ des travailleurs dans des entreprises adaptées à leurs compétences.", "a": "placement", "en": "The agency handles the placing of workers in companies suited to their skills.", "alts": [], "form": ""},
+      {"slot": "s|1", "f": "sense", "s": "Le service social a assuré le ___ de l'enfant dans une famille d'accueil bienveillante.", "a": "placement", "en": "The social services ensured the placement of the child in a caring foster family.", "alts": [], "form": ""},
+      {"slot": "s|2", "f": "sense", "s": "Le décorateur a soigné le ___ des meubles pour optimiser l'espace dans le salon.", "a": "placement", "en": "The decorator carefully arranged the placement of the furniture to optimize space in the living room.", "alts": [], "form": ""},
+      {"slot": "s|2", "f": "sense", "s": "Le régisseur est responsable du ___ des objets sur scène avant chaque représentation.", "a": "placement", "en": "The stage manager is responsible for the placement of props on stage before each performance.", "alts": [], "form": ""},
+      {"slot": "gender", "f": "gender", "s": "Son conseiller lui a proposé ___ placement à long terme pour sa retraite.", "a": "un", "en": "His advisor proposed a long-term investment for his retirement.", "alts": [], "form": ""},
+      {"slot": "gender", "f": "gender", "s": "___ placement de ce tableau au-dessus de la cheminée met en valeur toute la pièce.", "a": "Le", "en": "The placement of this painting above the fireplace enhances the whole room.", "alts": [], "form": ""}
+    ]
+  }
+]

@@ -1,0 +1,683 @@
+[
+  {
+    "id": 1601,
+    "qs": [
+      {
+        "slot": "t|Présent|0",
+        "f": "tense",
+        "s": "Je ___ la réunion en quelques mots.",
+        "en": "I summarize the meeting in a few words.",
+        "a": "résume",
+        "alts": [],
+        "form": "Présent"
+      },
+      {
+        "slot": "t|Présent|0",
+        "f": "tense",
+        "s": "Le professeur ___ le chapitre avant l'examen.",
+        "en": "The teacher summarizes the chapter before the exam.",
+        "a": "résume",
+        "alts": [],
+        "form": "Présent"
+      },
+      {
+        "slot": "t|Présent|1",
+        "f": "tense",
+        "s": "Tu ___ bien les points essentiels du texte.",
+        "en": "You summarize the key points of the text well.",
+        "a": "résumes",
+        "alts": [],
+        "form": "Présent"
+      },
+      {
+        "slot": "t|Présent|1",
+        "f": "tense",
+        "s": "Est-ce que tu ___ toujours tes notes après le cours ?",
+        "en": "Do you always summarize your notes after class?",
+        "a": "résumes",
+        "alts": [],
+        "form": "Présent"
+      },
+      {
+        "slot": "t|Présent|2",
+        "f": "tense",
+        "s": "Nous ___ les résultats de la recherche ensemble.",
+        "en": "We summarize the research results together.",
+        "a": "résumons",
+        "alts": [],
+        "form": "Présent"
+      },
+      {
+        "slot": "t|Présent|2",
+        "f": "tense",
+        "s": "Nous ___ la situation en une seule phrase.",
+        "en": "We sum up the situation in a single sentence.",
+        "a": "résumons",
+        "alts": [],
+        "form": "Présent"
+      },
+      {
+        "slot": "t|Présent|3",
+        "f": "tense",
+        "s": "Vous ___ votre rapport devant le comité.",
+        "en": "You summarize your report in front of the committee.",
+        "a": "résumez",
+        "alts": [],
+        "form": "Présent"
+      },
+      {
+        "slot": "t|Présent|3",
+        "f": "tense",
+        "s": "Est-ce que vous ___ chaque article avant de le soumettre ?",
+        "en": "Do you summarize each article before submitting it?",
+        "a": "résumez",
+        "alts": [],
+        "form": "Présent"
+      },
+      {
+        "slot": "t|Présent|4",
+        "f": "tense",
+        "s": "Les élèves ___ le livre à la fin du semestre.",
+        "en": "The students summarize the book at the end of the semester.",
+        "a": "résument",
+        "alts": [],
+        "form": "Présent"
+      },
+      {
+        "slot": "t|Présent|4",
+        "f": "tense",
+        "s": "Ils ___ les débats en quelques lignes.",
+        "en": "They sum up the debates in a few lines.",
+        "a": "résument",
+        "alts": [],
+        "form": "Présent"
+      },
+      {
+        "slot": "t|Passé composé|0",
+        "f": "tense",
+        "s": "J'___ le rapport en moins d'une page.",
+        "en": "I summarized the report in less than a page.",
+        "a": "ai résumé",
+        "alts": [],
+        "form": "Passé composé"
+      },
+      {
+        "slot": "t|Passé composé|0",
+        "f": "tense",
+        "s": "Hier, j'___ les points clés de la conférence.",
+        "en": "Yesterday, I summarized the key points of the conference.",
+        "a": "ai résumé",
+        "alts": [],
+        "form": "Passé composé"
+      },
+      {
+        "slot": "t|Passé composé|1",
+        "f": "tense",
+        "s": "Tu ___ le film en quelques phrases.",
+        "en": "You summarized the film in a few sentences.",
+        "a": "as résumé",
+        "alts": [],
+        "form": "Passé composé"
+      },
+      {
+        "slot": "t|Passé composé|1",
+        "f": "tense",
+        "s": "Est-ce que tu ___ le chapitre pour la classe ?",
+        "en": "Did you summarize the chapter for the class?",
+        "a": "as résumé",
+        "alts": [],
+        "form": "Passé composé"
+      },
+      {
+        "slot": "t|Passé composé|2",
+        "f": "tense",
+        "s": "Le journaliste ___ l'événement dans son article.",
+        "en": "The journalist summarized the event in his article.",
+        "a": "a résumé",
+        "alts": [],
+        "form": "Passé composé"
+      },
+      {
+        "slot": "t|Passé composé|2",
+        "f": "tense",
+        "s": "Elle ___ ses recherches lors de la présentation.",
+        "en": "She summarized her research during the presentation.",
+        "a": "a résumé",
+        "alts": [],
+        "form": "Passé composé"
+      },
+      {
+        "slot": "t|Passé composé|3",
+        "f": "tense",
+        "s": "Nous ___ nos conclusions en fin de réunion.",
+        "en": "We summarized our conclusions at the end of the meeting.",
+        "a": "avons résumé",
+        "alts": [],
+        "form": "Passé composé"
+      },
+      {
+        "slot": "t|Passé composé|3",
+        "f": "tense",
+        "s": "Nous ___ le projet en une seule diapositive.",
+        "en": "We summed up the project in a single slide.",
+        "a": "avons résumé",
+        "alts": [],
+        "form": "Passé composé"
+      },
+      {
+        "slot": "t|Passé composé|4",
+        "f": "tense",
+        "s": "Vous ___ l'ensemble du dossier très clairement.",
+        "en": "You summarized the whole file very clearly.",
+        "a": "avez résumé",
+        "alts": [],
+        "form": "Passé composé"
+      },
+      {
+        "slot": "t|Passé composé|4",
+        "f": "tense",
+        "s": "Vous ___ vos travaux pour la publication ?",
+        "en": "Have you summarized your work for publication?",
+        "a": "avez résumé",
+        "alts": [],
+        "form": "Passé composé"
+      },
+      {
+        "slot": "t|Passé composé|5",
+        "f": "tense",
+        "s": "Les étudiants ___ leurs exposés en cinq minutes.",
+        "en": "The students summarized their presentations in five minutes.",
+        "a": "ont résumé",
+        "alts": [],
+        "form": "Passé composé"
+      },
+      {
+        "slot": "t|Passé composé|5",
+        "f": "tense",
+        "s": "Ils ___ la situation économique dans ce tableau.",
+        "en": "They summarized the economic situation in this table.",
+        "a": "ont résumé",
+        "alts": [],
+        "form": "Passé composé"
+      },
+      {
+        "slot": "t|Imparfait|0",
+        "f": "tense",
+        "s": "Quand j'étais lycéen, je ___ chaque cours dans mon carnet.",
+        "en": "When I was in high school, I used to summarize each class in my notebook.",
+        "a": "résumais",
+        "alts": [],
+        "form": "Imparfait"
+      },
+      {
+        "slot": "t|Imparfait|0",
+        "f": "tense",
+        "s": "Tu ___ toujours les textes en quelques lignes.",
+        "en": "You always used to summarize the texts in a few lines.",
+        "a": "résumais",
+        "alts": [],
+        "form": "Imparfait"
+      },
+      {
+        "slot": "t|Imparfait|1",
+        "f": "tense",
+        "s": "Le directeur ___ les décisions à la fin de chaque session.",
+        "en": "The director used to summarize the decisions at the end of each session.",
+        "a": "résumait",
+        "alts": [],
+        "form": "Imparfait"
+      },
+      {
+        "slot": "t|Imparfait|1",
+        "f": "tense",
+        "s": "Elle ___ ses lectures dans un cahier dédié.",
+        "en": "She used to summarize her readings in a dedicated notebook.",
+        "a": "résumait",
+        "alts": [],
+        "form": "Imparfait"
+      },
+      {
+        "slot": "t|Imparfait|2",
+        "f": "tense",
+        "s": "Nous ___ les actualités chaque matin en équipe.",
+        "en": "We used to summarize the news every morning as a team.",
+        "a": "résumions",
+        "alts": [],
+        "form": "Imparfait"
+      },
+      {
+        "slot": "t|Imparfait|2",
+        "f": "tense",
+        "s": "Avant la réforme, nous ___ chaque rapport en une page.",
+        "en": "Before the reform, we used to summarize each report in one page.",
+        "a": "résumions",
+        "alts": [],
+        "form": "Imparfait"
+      },
+      {
+        "slot": "t|Imparfait|3",
+        "f": "tense",
+        "s": "Vous ___ vos notes avant chaque examen.",
+        "en": "You used to summarize your notes before each exam.",
+        "a": "résumiez",
+        "alts": [],
+        "form": "Imparfait"
+      },
+      {
+        "slot": "t|Imparfait|3",
+        "f": "tense",
+        "s": "Comment ___ vous les résultats à l'époque ?",
+        "en": "How did you used to summarize the results back then?",
+        "a": "résumiez",
+        "alts": [],
+        "form": "Imparfait"
+      },
+      {
+        "slot": "t|Imparfait|4",
+        "f": "tense",
+        "s": "Les professeurs ___ les leçons avec un schéma au tableau.",
+        "en": "The teachers used to summarize the lessons with a diagram on the board.",
+        "a": "résumaient",
+        "alts": [],
+        "form": "Imparfait"
+      },
+      {
+        "slot": "t|Imparfait|4",
+        "f": "tense",
+        "s": "Ils ___ chaque séance de travail par un compte rendu.",
+        "en": "They used to summarize each work session with a report.",
+        "a": "résumaient",
+        "alts": [],
+        "form": "Imparfait"
+      },
+      {
+        "slot": "t|Futur|0",
+        "f": "tense",
+        "s": "Demain, je ___ les grandes lignes de la réunion.",
+        "en": "Tomorrow, I will summarize the main points of the meeting.",
+        "a": "résumerai",
+        "alts": [],
+        "form": "Futur"
+      },
+      {
+        "slot": "t|Futur|0",
+        "f": "tense",
+        "s": "Je ___ mes recherches dans ma thèse finale.",
+        "en": "I will summarize my research in my final thesis.",
+        "a": "résumerai",
+        "alts": [],
+        "form": "Futur"
+      },
+      {
+        "slot": "t|Futur|1",
+        "f": "tense",
+        "s": "Tu ___ le contenu de l'article pour le groupe.",
+        "en": "You will summarize the content of the article for the group.",
+        "a": "résumeras",
+        "alts": [],
+        "form": "Futur"
+      },
+      {
+        "slot": "t|Futur|1",
+        "f": "tense",
+        "s": "Est-ce que tu ___ tes notes avant de partir ?",
+        "en": "Will you summarize your notes before you leave?",
+        "a": "résumeras",
+        "alts": [],
+        "form": "Futur"
+      },
+      {
+        "slot": "t|Futur|2",
+        "f": "tense",
+        "s": "Le rapporteur ___ les débats à la fin de la séance.",
+        "en": "The rapporteur will summarize the debates at the end of the session.",
+        "a": "résumera",
+        "alts": [],
+        "form": "Futur"
+      },
+      {
+        "slot": "t|Futur|2",
+        "f": "tense",
+        "s": "Elle ___ ses conclusions devant le jury.",
+        "en": "She will summarize her conclusions before the jury.",
+        "a": "résumera",
+        "alts": [],
+        "form": "Futur"
+      },
+      {
+        "slot": "t|Futur|3",
+        "f": "tense",
+        "s": "Nous ___ les propositions dans un document commun.",
+        "en": "We will summarize the proposals in a shared document.",
+        "a": "résumerons",
+        "alts": [],
+        "form": "Futur"
+      },
+      {
+        "slot": "t|Futur|3",
+        "f": "tense",
+        "s": "Nous ___ les points importants lors de la prochaine réunion.",
+        "en": "We will sum up the important points at the next meeting.",
+        "a": "résumerons",
+        "alts": [],
+        "form": "Futur"
+      },
+      {
+        "slot": "t|Futur|4",
+        "f": "tense",
+        "s": "Vous ___ vos travaux à la conférence annuelle.",
+        "en": "You will summarize your work at the annual conference.",
+        "a": "résumerez",
+        "alts": [],
+        "form": "Futur"
+      },
+      {
+        "slot": "t|Futur|4",
+        "f": "tense",
+        "s": "Est-ce que vous ___ les nouvelles politiques pour l'équipe ?",
+        "en": "Will you summarize the new policies for the team?",
+        "a": "résumerez",
+        "alts": [],
+        "form": "Futur"
+      },
+      {
+        "slot": "t|Futur|5",
+        "f": "tense",
+        "s": "Les intervenants ___ leurs présentations en fin de journée.",
+        "en": "The speakers will summarize their presentations at the end of the day.",
+        "a": "résumeront",
+        "alts": [],
+        "form": "Futur"
+      },
+      {
+        "slot": "t|Futur|5",
+        "f": "tense",
+        "s": "Ils ___ les résultats dans leur rapport final.",
+        "en": "They will summarize the results in their final report.",
+        "a": "résumeront",
+        "alts": [],
+        "form": "Futur"
+      },
+      {
+        "slot": "t|Conditionnel|0",
+        "f": "tense",
+        "s": "Si tu me le demandais, je ___ le rapport en une page.",
+        "en": "If you asked me, I would summarize the report in one page.",
+        "a": "résumerais",
+        "alts": [],
+        "form": "Conditionnel"
+      },
+      {
+        "slot": "t|Conditionnel|0",
+        "f": "tense",
+        "s": "Tu ___ mieux tes idées si tu faisais un plan.",
+        "en": "You would summarize your ideas better if you made an outline.",
+        "a": "résumerais",
+        "alts": [],
+        "form": "Conditionnel"
+      },
+      {
+        "slot": "t|Conditionnel|1",
+        "f": "tense",
+        "s": "Le conférencier ___ ses travaux en dix minutes si on lui donnait la parole.",
+        "en": "The speaker would summarize his work in ten minutes if given the floor.",
+        "a": "résumerait",
+        "alts": [],
+        "form": "Conditionnel"
+      },
+      {
+        "slot": "t|Conditionnel|1",
+        "f": "tense",
+        "s": "Elle ___ la situation en quelques mots si elle était là.",
+        "en": "She would sum up the situation in a few words if she were there.",
+        "a": "résumerait",
+        "alts": [],
+        "form": "Conditionnel"
+      },
+      {
+        "slot": "t|Conditionnel|2",
+        "f": "tense",
+        "s": "Nous ___ le projet plus efficacement avec plus de temps.",
+        "en": "We would summarize the project more efficiently with more time.",
+        "a": "résumerions",
+        "alts": [],
+        "form": "Conditionnel"
+      },
+      {
+        "slot": "t|Conditionnel|2",
+        "f": "tense",
+        "s": "Si nous avions un tableau, nous ___ les données plus facilement.",
+        "en": "If we had a chart, we would summarize the data more easily.",
+        "a": "résumerions",
+        "alts": [],
+        "form": "Conditionnel"
+      },
+      {
+        "slot": "t|Conditionnel|3",
+        "f": "tense",
+        "s": "Vous ___ mieux le texte si vous le lisiez attentivement.",
+        "en": "You would summarize the text better if you read it carefully.",
+        "a": "résumeriez",
+        "alts": [],
+        "form": "Conditionnel"
+      },
+      {
+        "slot": "t|Conditionnel|3",
+        "f": "tense",
+        "s": "Est-ce que vous ___ les enjeux si on vous le demandait ?",
+        "en": "Would you summarize the issues if asked to?",
+        "a": "résumeriez",
+        "alts": [],
+        "form": "Conditionnel"
+      },
+      {
+        "slot": "t|Conditionnel|4",
+        "f": "tense",
+        "s": "Les membres du jury ___ leurs observations si le temps le permettait.",
+        "en": "The jury members would summarize their observations if time allowed.",
+        "a": "résumeraient",
+        "alts": [],
+        "form": "Conditionnel"
+      },
+      {
+        "slot": "t|Conditionnel|4",
+        "f": "tense",
+        "s": "Ils ___ leurs conclusions plus clairement avec une meilleure méthode.",
+        "en": "They would summarize their conclusions more clearly with a better method.",
+        "a": "résumeraient",
+        "alts": [],
+        "form": "Conditionnel"
+      },
+      {
+        "slot": "t|Subjonctif",
+        "f": "subj",
+        "s": "Il faut que tu ___ ce texte avant demain.",
+        "en": "You need to summarize this text before tomorrow.",
+        "a": "résumes",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "t|Subjonctif",
+        "f": "subj",
+        "s": "Je souhaite que vous ___ vos idées en quelques phrases.",
+        "en": "I wish that you would summarize your ideas in a few sentences.",
+        "a": "résumiez",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "s|0",
+        "f": "sense",
+        "s": "L'enseignante nous demande de ___ le texte en quelques lignes.",
+        "en": "The teacher asks us to summarize the text in a few lines.",
+        "a": "résumer",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "s|0",
+        "f": "sense",
+        "s": "Il a réussi à ___ la conférence en un paragraphe.",
+        "en": "He managed to summarize the conference in one paragraph.",
+        "a": "résumer",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "s|1",
+        "f": "sense",
+        "s": "Ce tableau permet de ___ la situation en un coup d'œil.",
+        "en": "This table allows one to sum up the situation at a glance.",
+        "a": "résumer",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "s|1",
+        "f": "sense",
+        "s": "Pour ___ les grandes lignes, la réforme touche trois domaines principaux.",
+        "en": "To sum up the main points, the reform affects three main areas.",
+        "a": "résumer",
+        "alts": [],
+        "form": ""
+      }
+    ]
+  },
+  {
+    "id": 1602,
+    "qs": [
+      {
+        "slot": "s|0",
+        "f": "sense",
+        "s": "Le scientifique a publié ses ___ sur l'évolution du climat au cours du prochain siècle.",
+        "en": "The scientist published his predictions about how the climate will evolve over the next century.",
+        "a": "prévisions",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "s|0",
+        "f": "sense",
+        "s": "Sa ___ sur l'issue du vote s'est révélée exacte.",
+        "en": "His prediction about the outcome of the vote turned out to be correct.",
+        "a": "prévision",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "s|1",
+        "f": "sense",
+        "s": "Les ___ météorologiques annoncent de fortes pluies pour ce week-end.",
+        "en": "The weather forecasts announce heavy rain for this weekend.",
+        "a": "prévisions",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "s|1",
+        "f": "sense",
+        "s": "D'après la ___ de Météo France, il neigera dans les Alpes dès demain matin.",
+        "en": "According to the weather forecast from Météo France, it will snow in the Alps starting tomorrow morning.",
+        "a": "prévision",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "s|2",
+        "f": "sense",
+        "s": "Les résultats trimestriels de l'entreprise ont largement dépassé les ___ des analystes.",
+        "en": "The company's quarterly results far exceeded analysts' expectations.",
+        "a": "prévisions",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "s|2",
+        "f": "sense",
+        "s": "Elle a acheté des provisions supplémentaires en ___ des fêtes de fin d'année.",
+        "en": "She bought extra supplies in anticipation of the year-end holidays.",
+        "a": "prévision",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "gender",
+        "f": "gender",
+        "s": "___ prévision météo du jour annonce du soleil et des températures douces.",
+        "en": "Today's weather forecast announces sunshine and mild temperatures.",
+        "a": "La",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "gender",
+        "f": "gender",
+        "s": "C'est ___ prévision difficile à établir avec certitude.",
+        "en": "It is a prediction that is difficult to establish with certainty.",
+        "a": "une",
+        "alts": [],
+        "form": ""
+      }
+    ]
+  },
+  {
+    "id": 1603,
+    "qs": [
+      {
+        "slot": "s|0",
+        "f": "sense",
+        "s": "Il habite au ___ étage de cet immeuble.",
+        "en": "He lives on the fourth floor of this building.",
+        "a": "quatrième",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "s|0",
+        "f": "sense",
+        "s": "La réunion se tient le ___ lundi du mois.",
+        "en": "The meeting is held on the fourth Monday of the month.",
+        "a": "quatrième",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "s|1",
+        "f": "sense",
+        "s": "Trois candidats ont réussi l'examen, mais le ___ a échoué.",
+        "en": "Three candidates passed the exam, but the fourth one failed.",
+        "a": "quatrième",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "s|1",
+        "f": "sense",
+        "s": "On a interrogé cinq témoins ; le ___ a donné les informations les plus utiles.",
+        "en": "Five witnesses were questioned; the fourth one gave the most useful information.",
+        "a": "quatrième",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "gender",
+        "f": "gender",
+        "s": "Il s'est classé ___ quatrième dans le concours.",
+        "en": "He ranked fourth in the competition.",
+        "a": "le",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "gender",
+        "f": "gender",
+        "s": "C'est ___ quatrième participant à s'inscrire.",
+        "en": "He is the fourth participant to register.",
+        "a": "le",
+        "alts": [],
+        "form": ""
+      }
+    ]
+  }
+]

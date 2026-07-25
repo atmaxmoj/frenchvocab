@@ -1,0 +1,37 @@
+[
+  {
+    "id": 5812,
+    "qs": [
+      {"slot":"s|0","f":"sense","s":"Après le marathon, il ressent une forte douleur ___ dans les jambes.","a":"musculaire","en":"After the marathon, he feels a strong muscle pain in his legs.","alts":[]},
+      {"slot":"s|0","f":"sense","s":"Le médecin a diagnostiqué une faiblesse ___ chez le patient.","a":"musculaire","en":"The doctor diagnosed muscular weakness in the patient.","alts":[]},
+      {"slot":"g|mp","f":"agree","s":"Les tissus ___ du sportif se sont bien développés après l'entraînement.","a":"musculaires","en":"The athlete's muscular tissues developed well after the training.","alts":[]},
+      {"slot":"g|mp","f":"agree","s":"Ces efforts ___ intenses ont fatigué le coureur.","a":"musculaires","en":"These intense muscular efforts tired out the runner.","alts":[]},
+      {"slot":"g|f","f":"agree","s":"Elle souffre d'une tension ___ dans le dos.","a":"musculaire","en":"She suffers from muscular tension in her back.","alts":[]},
+      {"slot":"g|f","f":"agree","s":"La fatigue ___ l'empêche de continuer l'exercice.","a":"musculaire","en":"Muscular fatigue prevents her from continuing the exercise.","alts":[]},
+      {"slot":"g|fp","f":"agree","s":"Il ressent des douleurs ___ après la course.","a":"musculaires","en":"He feels muscular pains after the run.","alts":[]},
+      {"slot":"g|fp","f":"agree","s":"Les fibres ___ se contractent pendant l'effort.","a":"musculaires","en":"The muscular fibers contract during exertion.","alts":[]}
+    ]
+  },
+  {
+    "id": 5813,
+    "qs": [
+      {"slot":"s|0","f":"sense","s":"Ce petit village de montagne est vraiment ___ avec ses maisons en pierre et ses toits en ardoise.","a":"pittoresque","en":"This little mountain village is truly picturesque with its stone houses and slate roofs.","alts":[]},
+      {"slot":"s|0","f":"sense","s":"Le vieux port de pêcheurs reste très ___, avec ses bateaux colorés amarrés le long du quai.","a":"pittoresque","en":"The old fishing harbor remains very picturesque, with its colorful boats moored along the quay.","alts":[]},
+      {"slot":"g|mp","f":"agree","s":"Les quartiers ___ du centre historique séduisent les touristes chaque été.","a":"pittoresques","en":"The picturesque neighborhoods of the historic center charm tourists every summer.","alts":[]},
+      {"slot":"g|mp","f":"agree","s":"J'ai adoré les chemins ___ qui traversent la campagne provençale.","a":"pittoresques","en":"I loved the picturesque paths that cross the Provençal countryside.","alts":[]},
+      {"slot":"g|f","f":"agree","s":"La vieille ville est particulièrement ___ avec ses ruelles étroites et ses façades anciennes.","a":"pittoresque","en":"The old town is particularly picturesque with its narrow lanes and ancient facades.","alts":[]},
+      {"slot":"g|f","f":"agree","s":"Cette région ___ attire chaque année des milliers de peintres et de photographes.","a":"pittoresque","en":"This picturesque region attracts thousands of painters and photographers every year.","alts":[]},
+      {"slot":"g|fp","f":"agree","s":"Les rues ___ du vieux quartier sont bordées de maisons colorées.","a":"pittoresques","en":"The picturesque streets of the old neighborhood are lined with colorful houses.","alts":[]},
+      {"slot":"g|fp","f":"agree","s":"Elle a photographié les places ___ de la ville pendant son séjour.","a":"pittoresques","en":"She photographed the picturesque squares of the city during her stay.","alts":[]}
+    ]
+  },
+  {
+    "id": 5814,
+    "qs": [
+      {"slot":"s|0","f":"sense","s":"Le ___ est responsable de nombreuses maladies respiratoires.","a":"tabagisme","en":"Smoking is responsible for many respiratory diseases.","alts":[],"form":""},
+      {"slot":"s|0","f":"sense","s":"Depuis qu'il a commencé à fumer au lycée, il souffre d'un ___ difficile à combattre.","a":"tabagisme","en":"Since he started smoking in high school, he has been struggling with a tobacco addiction that is hard to fight.","alts":[],"form":""},
+      {"slot":"gender","f":"gender","s":"Ce programme vise à réduire ___ tabagisme chez les adolescents.","a":"le","en":"This program aims to reduce smoking among teenagers.","alts":[],"form":""},
+      {"slot":"gender","f":"gender","s":"Elle souffre d'___ tabagisme sévère depuis son adolescence.","a":"un","en":"She has been suffering from a severe tobacco addiction since her adolescence.","alts":[],"form":""}
+    ]
+  }
+]

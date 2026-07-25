@@ -1,0 +1,98 @@
+[
+  {
+    "id": "1091",
+    "qs": [
+      {"f": "gender", "s": "Elle a rendez-vous ___ prochain à 14 heures.", "en": "She has an appointment next ___ at 2 PM.", "a": "lundi", "alts": [], "form": "noun after adjective (lundi prochain)"},
+      {"f": "gender", "s": "Nous avons cours le ___ et le vendredi.", "en": "We have class ___ and Friday.", "a": "lundi", "alts": [], "form": "noun after article"},
+      {"f": "gender", "s": "À partir ___, les magasins ouvrent plus tard.", "en": "Starting ___, the shops open later.", "a": "du lundi", "alts": [], "form": "du = de + le"},
+      {"f": "sense", "s": "Quoi ? C'est déjà ___. La fin de semaine est terminée.", "en": "What? It's already ___. The weekend is over.", "a": "lundi", "alts": [], "form": "noun without article (predicate of date)"},
+      {"f": "gender", "s": "Elle travaille du ___ au vendredi, sans exception.", "en": "She works from ___ to Friday, without exception.", "a": "lundi", "alts": [], "form": "noun after preposition du"},
+      {"f": "gender", "s": "Tous ___, l'équipe se réunit pour discuter des objectifs.", "en": "Every ___, the team meets to discuss objectives.", "a": "les lundis", "alts": [], "form": "definite article (plural) + noun"},
+      {"f": "sense", "s": "Il déteste ___ à cause du travail qui l'attend.", "en": "He hates ___ because of the work that awaits him.", "a": "le lundi", "alts": [], "form": "definite article + noun (recurrent day)"},
+      {"f": "gender", "s": "Nous nous voyons une fois par semaine, chaque ___.", "en": "We see each other once a week, every ___.", "a": "lundi", "alts": [], "form": "noun after chaque"}
+    ]
+  },
+  {
+    "id": "1092",
+    "qs": [
+      {"f": "gender", "s": "Le ___ de la maison m'a enseigné beaucoup de choses.", "en": "The master of the house taught me many things.", "a": "maître", "alts": [], "form": "singular masculine, definite article"},
+      {"f": "gender", "s": "Les ___ du domaine vivaient dans ce château.", "en": "The masters of the estate lived in this castle.", "a": "maîtres", "alts": [], "form": "plural masculine, definite article"},
+      {"f": "gender", "s": "C'est un vrai ___ en cuisine, un vrai artiste.", "en": "He's a real master in the kitchen, a true artist.", "a": "maître", "alts": [], "form": "singular masculine, indefinite article"},
+      {"f": "gender", "s": "Les travaux de ces ___ sont reconnus mondialement.", "en": "The works of these masters are recognized worldwide.", "a": "maîtres", "alts": [], "form": "plural masculine, demonstrative"},
+      {"f": "gender", "s": "Aucun ___ n'accepterait cette erreur.", "en": "No master would accept this mistake.", "a": "maître", "alts": [], "form": "singular masculine after aucun"},
+      {"f": "sense", "s": "Mon ___ m'enseigne l'art martial depuis trois ans.", "en": "My master has been teaching me martial arts for three years.", "a": "maître", "alts": [], "form": "sense: teacher/instructor"},
+      {"f": "sense", "s": "Le ___ d'hôtel supervise tout le service.", "en": "The head waiter supervises all the service.", "a": "maître", "alts": [], "form": "fixed expression maître d'hôtel"},
+      {"f": "usage", "s": "Les ___ du jeu d'échecs se réunissaient chaque semaine.", "en": "The chess masters gathered every week.", "a": "maîtres", "alts": [], "form": "plural in specialized context"}
+    ]
+  },
+  {
+    "id": "1093",
+    "qs": [
+      {"f": "tense", "form": "Présent", "s": "Le policier ___ le suspect sur les circonstances du crime.", "en": "The police officer questions the suspect about the circumstances of the crime.", "a": "interroge", "alts": []},
+      {"f": "tense", "form": "Présent", "s": "Tu ___ toujours tes amis sur leurs opinions politiques.", "en": "You always question your friends about their political opinions.", "a": "interroges", "alts": []},
+      {"f": "tense", "form": "Présent", "s": "Nous ___ les témoins pour comprendre ce qui s'est passé.", "en": "We question the witnesses to understand what happened.", "a": "interrogeons", "alts": []},
+      {"f": "tense", "form": "Passé composé", "s": "L'inspecteur ___ plusieurs suspects hier après-midi.", "en": "The inspector questioned several suspects yesterday afternoon.", "a": "a interrogé", "alts": []},
+      {"f": "tense", "form": "Passé composé", "s": "Vous ___ les enfants sur ce qu'ils avaient vu.", "en": "You questioned the children about what they had seen.", "a": "avez interrogé", "alts": []},
+      {"f": "tense", "form": "Passé composé", "s": "Ils ___ le professeur sur la théorie de l'évolution.", "en": "They questioned the teacher about the theory of evolution.", "a": "ont interrogé", "alts": []},
+      {"f": "tense", "form": "Imparfait", "s": "Le juge ___ l'accusé sur ses antécédents criminels.", "en": "The judge was questioning the accused about his criminal record.", "a": "interrogeait", "alts": []},
+      {"f": "tense", "form": "Imparfait", "s": "Nous ___ régulièrement nos clients sur leur satisfaction.", "en": "We regularly used to question our clients about their satisfaction.", "a": "interrogions", "alts": []},
+      {"f": "tense", "form": "Imparfait", "s": "Vous ___ toujours vos enfants sur leur journée à l'école.", "en": "You used to always question your children about their day at school.", "a": "interrogiez", "alts": []},
+      {"f": "tense", "form": "Futur", "s": "Le commissaire ___ tous les habitants du quartier demain.", "en": "The police superintendent will question all the neighborhood residents tomorrow.", "a": "interrogera", "alts": []},
+      {"f": "tense", "form": "Futur", "s": "Nous ___ les experts pour confirmer nos hypothèses.", "en": "We will question the experts to confirm our hypotheses.", "a": "interrogerons", "alts": []},
+      {"f": "tense", "form": "Futur", "s": "Vous ___ les candidats pendant les entretiens d'embauche.", "en": "You will question the candidates during job interviews.", "a": "interrogerez", "alts": []},
+      {"f": "tense", "form": "Conditionnel", "s": "Si j'étais avocat, je ___ minutieusement chaque témoin.", "en": "If I were a lawyer, I would question each witness carefully.", "a": "interrogerais", "alts": []},
+      {"f": "tense", "form": "Conditionnel", "s": "Ils ___ le directeur s'ils avaient des preuves supplémentaires.", "en": "They would question the director if they had additional evidence.", "a": "interrogeraient", "alts": []},
+      {"f": "tense", "form": "Subjonctif", "s": "Il faut que vous ___ chaque détail de son témoignage.", "en": "You must question each detail of his testimony.", "a": "interrogiez", "alts": []},
+      {"f": "tense", "form": "Subjonctif", "s": "Je doute qu'elle ___ réellement la décision du jury.", "en": "I doubt that she truly questions the jury's decision.", "a": "interroge", "alts": []},
+      {"f": "tense", "form": "Subjonctif", "s": "Bien qu'ils ___ les motivations de l'accusé, ils ne trouvent pas de réponses claires.", "en": "Although they question the accused's motives, they find no clear answers.", "a": "interrogent", "alts": []},
+      {"f": "sense", "s": "Cette catastrophe nous force à nous ___ sur nos responsabilités.", "en": "This disaster forces us to question ourselves about our responsibilities.", "a": "interroger", "alts": [], "form": "Infinitif réfléchi"},
+      {"f": "sense", "s": "Je m'___ sur la validité de ces statistiques douteuses.", "en": "I question the validity of these dubious statistics.", "a": "interroge", "alts": [], "form": "Présent pronominal"}
+    ]
+  },
+  {
+    "id": "1094",
+    "qs": [
+      {"f": "gender", "s": "Je dois assister à ___ sur les changements climatiques demain matin.", "en": "I must attend a conference on climate change tomorrow morning.", "a": "une conférence", "alts": [], "form": "indefinite article"},
+      {"f": "gender", "s": "___ du professeur Martin était vraiment captivante et instructive.", "en": "Professor Martin's lecture was truly captivating and educational.", "a": "La conférence", "alts": [], "form": "definite article (subject)"},
+      {"f": "gender", "s": "Nous avons écouté ___ intéressante sur l'art contemporain hier soir.", "en": "We listened to an interesting lecture on contemporary art last evening.", "a": "une conférence", "alts": [], "form": "indefinite + feminine adjective"},
+      {"f": "gender", "s": "___ internationale a réuni plus de mille participants de différents pays.", "en": "The international conference brought together more than a thousand participants.", "a": "La conférence", "alts": [], "form": "definite + feminine adjective"},
+      {"f": "gender", "s": "Pendant ___ de presse, le ministre a expliqué sa nouvelle politique.", "en": "During the press conference, the minister explained his new policy.", "a": "la conférence", "alts": [], "form": "definite article"},
+      {"f": "gender", "s": "Elle a donné ___ remarquable sur ses découvertes scientifiques.", "en": "She gave a remarkable lecture on her scientific discoveries.", "a": "une conférence", "alts": [], "form": "indefinite + feminine adjective"},
+      {"f": "gender", "s": "Les ___ annuelles se tiennent toujours au mois de novembre.", "en": "The annual conferences are always held in November.", "a": "conférences", "alts": [], "form": "plural + feminine adjective"},
+      {"f": "gender", "s": "J'ai assisté à plusieurs ___ durant cette semaine chargée.", "en": "I attended several conferences during this busy week.", "a": "conférences", "alts": [], "form": "plural after plusieurs"},
+      {"f": "gender", "s": "J'ai pris des notes pendant ___ du conférencier invité.", "en": "I took notes during the guest speaker's lecture.", "a": "la conférence", "alts": [], "form": "definite article"},
+      {"f": "sense", "s": "L'orateur a donné ___ fascinante sur l'histoire de la Renaissance.", "en": "The speaker delivered a fascinating presentation on the history of the Renaissance.", "a": "une conférence", "alts": [], "form": "indefinite + feminine adjective"},
+      {"f": "sense", "s": "Cette ___ académique a attiré des experts de tous les domaines scientifiques.", "en": "This academic conference drew experts from all scientific fields.", "a": "conférence", "alts": [], "form": "after demonstrative cette"},
+      {"f": "sense", "s": "Le professeur présente sa ___ hebdomadaire à l'amphithéâtre.", "en": "The professor presents his weekly lecture in the amphitheater.", "a": "conférence", "alts": [], "form": "after possessive sa"},
+      {"f": "sense", "s": "___ de la ministre sur les réformes éducatives a duré deux heures.", "en": "The minister's presentation on educational reforms lasted two hours.", "a": "La conférence", "alts": [], "form": "definite article (subject)"}
+    ]
+  },
+  {
+    "id": "1095",
+    "qs": [
+      {"f": "tense", "s": "Ce bruit ___ chez moi une grande irritation.", "en": "This noise provokes great irritation in me.", "a": "provoque", "alts": [], "form": "Présent"},
+      {"f": "tense", "s": "Ses commentaires ___ toujours des réactions négatives.", "en": "His comments always provoke negative reactions.", "a": "provoquent", "alts": [], "form": "Présent"},
+      {"f": "tense", "s": "Vous ne devriez pas ___ cet homme; il peut devenir dangereux.", "en": "You should not provoke that man; he can become dangerous.", "a": "provoquer", "alts": [], "form": "Infinitif"},
+      {"f": "sense", "s": "L'augmentation des prix ___ une crise économique.", "en": "The rise in prices provokes an economic crisis.", "a": "provoque", "alts": [], "form": "Présent"},
+      {"f": "sense", "s": "Son discours ___ des controverses dans toute la ville.", "en": "His speech provokes controversies throughout the city.", "a": "provoque", "alts": [], "form": "Présent"},
+      {"f": "tense", "s": "J'ai ___ un accident en conduisant trop vite.", "en": "I provoked an accident by driving too fast.", "a": "provoqué", "alts": [], "form": "Passé composé"},
+      {"f": "tense", "s": "Elle a ___ la colère de son père avec ses mensonges.", "en": "She provoked her father's anger with her lies.", "a": "provoqué", "alts": [], "form": "Passé composé"},
+      {"f": "tense", "s": "Nous avons ___ une réunion d'urgence après cet incident.", "en": "We called an emergency meeting after this incident.", "a": "provoqué", "alts": [], "form": "Passé composé"},
+      {"f": "sense", "s": "Vous avez ___ une querelle entre vos deux amis avec vos paroles malheureuses.", "en": "You provoked a quarrel between your two friends with your unfortunate words.", "a": "provoqué", "alts": [], "form": "Passé composé"},
+      {"f": "tense", "s": "À l'époque, ses actions ___ des troubles dans la région.", "en": "At that time, his actions provoked troubles in the region.", "a": "provoquaient", "alts": [], "form": "Imparfait"},
+      {"f": "tense", "s": "Quand il parlait, il ___ toujours des rires dans la salle.", "en": "When he spoke, he always provoked laughter in the room.", "a": "provoquait", "alts": [], "form": "Imparfait"},
+      {"f": "tense", "s": "Les deux joueurs se ___ constamment pendant le match.", "en": "The two players constantly provoked each other during the match.", "a": "provoquaient", "alts": [], "form": "Imparfait"},
+      {"f": "sense", "s": "Cette période politique tumultueuse ___ une grande anxiété parmi les citoyens.", "en": "This tumultuous political period provoked great anxiety among citizens.", "a": "provoquait", "alts": [], "form": "Imparfait"},
+      {"f": "tense", "s": "Demain, cette décision ___ certainement une réaction du public.", "en": "Tomorrow, this decision will certainly provoke a public reaction.", "a": "provoquera", "alts": [], "form": "Futur"},
+      {"f": "tense", "s": "Ces mesures ___ une forte opposition du gouvernement.", "en": "These measures will provoke strong opposition from the government.", "a": "provoqueront", "alts": [], "form": "Futur"},
+      {"f": "tense", "s": "Si vous continuez ainsi, vous ___ un conflit avec vos collègues.", "en": "If you continue like that, you will provoke a conflict with your colleagues.", "a": "provoquerez", "alts": [], "form": "Futur"},
+      {"f": "tense", "s": "Je ___ une discussion si cela était nécessaire.", "en": "I would provoke a discussion if it were necessary.", "a": "provoquerais", "alts": [], "form": "Conditionnel"},
+      {"f": "tense", "s": "Elle ___ une crise diplomatique si elle faisait cette déclaration.", "en": "She would provoke a diplomatic crisis if she made that statement.", "a": "provoquerait", "alts": [], "form": "Conditionnel"},
+      {"f": "tense", "s": "Nous ne ___ pas intentionnellement un scandale.", "en": "We would not intentionally provoke a scandal.", "a": "provoquerions", "alts": [], "form": "Conditionnel"},
+      {"f": "tense", "s": "Il faut que tu ne ___ pas d'incident avant la fin du projet.", "en": "You must not provoke any incident before the end of the project.", "a": "provoques", "alts": [], "form": "Subjonctif"},
+      {"f": "tense", "s": "Je craignais qu'il ne ___ une bagarre.", "en": "I was afraid that he would provoke a fight.", "a": "provoque", "alts": [], "form": "Subjonctif"},
+      {"f": "tense", "s": "Il est possible que ces décisions ___ du mécontentement.", "en": "It is possible that these decisions will provoke discontent.", "a": "provoquent", "alts": [], "form": "Subjonctif"},
+      {"f": "sense", "s": "On doute que vous ___ vraiment cette réaction forte chez lui.", "en": "It is doubted that you truly provoke that strong reaction from him.", "a": "provoquiez", "alts": [], "form": "Subjonctif"}
+    ]
+  }
+]

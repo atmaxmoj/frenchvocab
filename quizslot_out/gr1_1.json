@@ -1,0 +1,41 @@
+[
+  {
+    "id": 2704,
+    "qs": [
+      {"slot": "s|0", "f": "sense", "s": "Elle travaillait comme ___ dans un quartier mal famé de la ville.", "en": "She used to work as a prostitute in a disreputable neighborhood.", "a": "putain", "alts": [], "form": ""},
+      {"slot": "s|0", "f": "sense", "s": "La police l'a arrêtée car elle était soupçonnée d'être une ___.", "en": "The police arrested her because she was suspected of being a prostitute.", "a": "putain", "alts": [], "form": ""},
+      {"slot": "s|1", "f": "sense", "s": "___ ! J'ai encore raté mon bus ce matin.", "en": "Damn it! I missed my bus again this morning.", "a": "Putain", "alts": [], "form": ""},
+      {"slot": "s|1", "f": "sense", "s": "___ ! Tu aurais pu me prévenir avant de partir !", "en": "Damn it! You could have warned me before leaving!", "a": "Putain", "alts": [], "form": ""},
+      {"slot": "s|2", "f": "sense", "s": "Ne l'écoute pas, ce type est une vraie ___ — il ne comprend rien.", "en": "Don't listen to him, that guy is a real idiot — he understands nothing.", "a": "putain", "alts": [], "form": ""},
+      {"slot": "s|2", "f": "sense", "s": "Quelle ___ ! Il a encore oublié de fermer la porte à clé en partant.", "en": "What an idiot! He forgot to lock the door when leaving again.", "a": "putain", "alts": [], "form": ""},
+      {"slot": "gender", "f": "gender", "s": "C'est ___ putain qui travaillait dans ce coin de la ville.", "en": "She is a prostitute who worked in that part of the city.", "a": "une", "alts": [], "form": ""},
+      {"slot": "gender", "f": "gender", "s": "On entendait souvent ___ putain du quartier crier dans la nuit.", "en": "You could often hear the prostitute from the neighborhood screaming in the night.", "a": "la", "alts": [], "form": ""}
+    ]
+  },
+  {
+    "id": 2705,
+    "qs": [
+      {"slot": "s|0", "f": "sense", "s": "Il manque d'___ pour trouver des solutions créatives.", "en": "He lacks imagination to find creative solutions.", "a": "imagination", "alts": [], "form": ""},
+      {"slot": "s|0", "f": "sense", "s": "Elle a une grande ___ qui lui permet de créer des histoires captivantes.", "en": "She has a great imagination that allows her to create captivating stories.", "a": "imagination", "alts": [], "form": ""},
+      {"slot": "s|1", "f": "sense", "s": "Ce monstre n'existe que dans ton ___, il n'est pas réel.", "en": "This monster exists only in your imagination, it is not real.", "a": "imagination", "alts": [], "form": ""},
+      {"slot": "s|1", "f": "sense", "s": "Laisse ton ___ te guider et tu trouveras la réponse.", "en": "Let your imagination guide you and you will find the answer.", "a": "imagination", "alts": [], "form": ""},
+      {"slot": "gender", "f": "gender", "s": "___ imagination fertile est un don précieux pour tout artiste.", "en": "A fertile imagination is a precious gift for any artist.", "a": "Une", "alts": [], "form": ""},
+      {"slot": "gender", "f": "gender", "s": "Les enfants ont souvent ___ imagination très vive.", "en": "Children often have a very vivid imagination.", "a": "une", "alts": [], "form": ""}
+    ]
+  },
+  {
+    "id": 2706,
+    "qs": [
+      {"slot": "s|0", "f": "sense", "s": "Dans ce procès, la partie ___ a le droit d'être représentée par un avocat.", "en": "In this trial, the defendant party has the right to be represented by a lawyer.", "a": "accusée", "alts": [], "form": ""},
+      {"slot": "s|0", "f": "sense", "s": "Le juge a demandé à l'homme ___ de se lever et de décliner son identité.", "en": "The judge asked the defendant man to stand up and state his identity.", "a": "accusé", "alts": [], "form": ""},
+      {"slot": "s|1", "f": "sense", "s": "Le suspect ___ de fraude a nié toutes les charges retenues contre lui.", "en": "The suspect charged with fraud denied all the charges brought against him.", "a": "accusé", "alts": [], "form": ""},
+      {"slot": "s|1", "f": "sense", "s": "Elle est ___ d'avoir détourné des fonds publics pendant plusieurs années.", "en": "She is accused of having embezzled public funds for several years.", "a": "accusée", "alts": [], "form": ""},
+      {"slot": "g|mp", "f": "agree", "s": "Les deux hommes ___ dans cette affaire de corruption ont comparu devant le tribunal ce matin.", "en": "The two men accused in this corruption case appeared before the court this morning.", "a": "accusés", "alts": [], "form": ""},
+      {"slot": "g|mp", "f": "agree", "s": "Les prisonniers ___ de trahison ont été transférés dans un établissement de haute sécurité.", "en": "The prisoners accused of treason were transferred to a high-security facility.", "a": "accusés", "alts": [], "form": ""},
+      {"slot": "g|f", "f": "agree", "s": "La femme ___ de meurtre a refusé de répondre aux questions du procureur.", "en": "The woman accused of murder refused to answer the prosecutor's questions.", "a": "accusée", "alts": [], "form": ""},
+      {"slot": "g|f", "f": "agree", "s": "La directrice ___ de malversation a démissionné avant l'ouverture du procès.", "en": "The director accused of embezzlement resigned before the trial began.", "a": "accusée", "alts": [], "form": ""},
+      {"slot": "g|fp", "f": "agree", "s": "Les trois employées ___ de vol ont demandé à être jugées séparément.", "en": "The three female employees accused of theft asked to be tried separately.", "a": "accusées", "alts": [], "form": ""},
+      {"slot": "g|fp", "f": "agree", "s": "Les personnes ___ dans ce dossier ont toutes le droit de présenter leur défense.", "en": "The persons accused in this case all have the right to present their defense.", "a": "accusées", "alts": [], "form": ""}
+    ]
+  }
+]

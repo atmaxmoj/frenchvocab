@@ -1,0 +1,643 @@
+[
+  {
+    "id": 1543,
+    "qs": [
+      {
+        "slot": "s|0",
+        "f": "sense",
+        "s": "Il a glissé sur le verglas et ___, il s'est cassé le poignet.",
+        "a": "malheureusement",
+        "en": "He slipped on the ice and unfortunately, he broke his wrist.",
+        "alts": ["par malheur", "par malchance"]
+      },
+      {
+        "slot": "s|0",
+        "f": "sense",
+        "s": "___, l'incendie a détruit toute la maison avant l'arrivée des pompiers.",
+        "a": "malheureusement",
+        "en": "Unfortunately, the fire destroyed the whole house before the firefighters arrived.",
+        "alts": ["par malheur", "par malchance"]
+      },
+      {
+        "slot": "s|1",
+        "f": "sense",
+        "s": "Nous ne pourrons pas vous accorder ce poste ; ___, votre profil ne correspond pas à nos besoins actuels.",
+        "a": "malheureusement",
+        "en": "We cannot offer you this position; regrettably, your profile does not match our current needs.",
+        "alts": []
+      },
+      {
+        "slot": "s|1",
+        "f": "sense",
+        "s": "___, je dois vous annoncer que la réunion de demain est annulée.",
+        "a": "malheureusement",
+        "en": "Regrettably, I must inform you that tomorrow's meeting is cancelled.",
+        "alts": []
+      }
+    ]
+  },
+  {
+    "id": 1544,
+    "qs": [
+      {
+        "slot": "t|Présent|0",
+        "f": "tense",
+        "s": "J'___ les risques avant de prendre une décision.",
+        "a": "évalue",
+        "en": "I evaluate the risks before making a decision.",
+        "alts": [],
+        "form": "Présent"
+      },
+      {
+        "slot": "t|Présent|0",
+        "f": "tense",
+        "s": "Le professeur ___ les travaux de ses élèves chaque semaine.",
+        "a": "évalue",
+        "en": "The teacher evaluates his students' work every week.",
+        "alts": [],
+        "form": "Présent"
+      },
+      {
+        "slot": "t|Présent|1",
+        "f": "tense",
+        "s": "Tu ___ bien la situation, je pense.",
+        "a": "évalues",
+        "en": "You evaluate the situation well, I think.",
+        "alts": [],
+        "form": "Présent"
+      },
+      {
+        "slot": "t|Présent|1",
+        "f": "tense",
+        "s": "Est-ce que tu ___ toi-même tes progrès en français ?",
+        "a": "évalues",
+        "en": "Do you evaluate your own progress in French?",
+        "alts": [],
+        "form": "Présent"
+      },
+      {
+        "slot": "t|Présent|2",
+        "f": "tense",
+        "s": "Nous ___ ensemble les résultats du projet.",
+        "a": "évaluons",
+        "en": "We evaluate the project results together.",
+        "alts": [],
+        "form": "Présent"
+      },
+      {
+        "slot": "t|Présent|2",
+        "f": "tense",
+        "s": "En équipe, nous ___ les besoins des clients avant de proposer une solution.",
+        "a": "évaluons",
+        "en": "As a team, we evaluate the clients' needs before proposing a solution.",
+        "alts": [],
+        "form": "Présent"
+      },
+      {
+        "slot": "t|Présent|3",
+        "f": "tense",
+        "s": "Vous ___ la performance des employés chaque trimestre.",
+        "a": "évaluez",
+        "en": "You evaluate employee performance every quarter.",
+        "alts": [],
+        "form": "Présent"
+      },
+      {
+        "slot": "t|Présent|3",
+        "f": "tense",
+        "s": "Comment vous ___ les candidats lors des entretiens ?",
+        "a": "évaluez",
+        "en": "How do you evaluate candidates during interviews?",
+        "alts": [],
+        "form": "Présent"
+      },
+      {
+        "slot": "t|Présent|4",
+        "f": "tense",
+        "s": "Les experts ___ les dégâts causés par la tempête.",
+        "a": "évaluent",
+        "en": "The experts evaluate the damage caused by the storm.",
+        "alts": [],
+        "form": "Présent"
+      },
+      {
+        "slot": "t|Présent|4",
+        "f": "tense",
+        "s": "Elles ___ constamment les risques liés à leur activité.",
+        "a": "évaluent",
+        "en": "They constantly evaluate the risks related to their activity.",
+        "alts": [],
+        "form": "Présent"
+      },
+      {
+        "slot": "t|Passé composé|0",
+        "f": "tense",
+        "s": "J'___ les coûts du projet hier soir.",
+        "a": "ai évalué",
+        "en": "I evaluated the project costs last night.",
+        "alts": [],
+        "form": "Passé composé"
+      },
+      {
+        "slot": "t|Passé composé|0",
+        "f": "tense",
+        "s": "J'___ la situation et j'ai pris une décision.",
+        "a": "ai évalué",
+        "en": "I evaluated the situation and made a decision.",
+        "alts": [],
+        "form": "Passé composé"
+      },
+      {
+        "slot": "t|Passé composé|1",
+        "f": "tense",
+        "s": "Tu ___ correctement les risques avant de partir.",
+        "a": "as évalué",
+        "en": "You correctly evaluated the risks before leaving.",
+        "alts": [],
+        "form": "Passé composé"
+      },
+      {
+        "slot": "t|Passé composé|1",
+        "f": "tense",
+        "s": "Est-ce que tu ___ le temps nécessaire pour ce travail ?",
+        "a": "as évalué",
+        "en": "Did you evaluate the time needed for this work?",
+        "alts": [],
+        "form": "Passé composé"
+      },
+      {
+        "slot": "t|Passé composé|2",
+        "f": "tense",
+        "s": "Le médecin ___ l'état du patient à son arrivée.",
+        "a": "a évalué",
+        "en": "The doctor evaluated the patient's condition upon arrival.",
+        "alts": [],
+        "form": "Passé composé"
+      },
+      {
+        "slot": "t|Passé composé|2",
+        "f": "tense",
+        "s": "L'architecte ___ le budget nécessaire pour la rénovation.",
+        "a": "a évalué",
+        "en": "The architect evaluated the budget needed for the renovation.",
+        "alts": [],
+        "form": "Passé composé"
+      },
+      {
+        "slot": "t|Passé composé|3",
+        "f": "tense",
+        "s": "Nous ___ les options disponibles avant de choisir.",
+        "a": "avons évalué",
+        "en": "We evaluated the available options before choosing.",
+        "alts": [],
+        "form": "Passé composé"
+      },
+      {
+        "slot": "t|Passé composé|3",
+        "f": "tense",
+        "s": "Nous ___ les résultats du test lors de la réunion.",
+        "a": "avons évalué",
+        "en": "We evaluated the test results during the meeting.",
+        "alts": [],
+        "form": "Passé composé"
+      },
+      {
+        "slot": "t|Passé composé|4",
+        "f": "tense",
+        "s": "Vous ___ les candidats lors du concours la semaine dernière.",
+        "a": "avez évalué",
+        "en": "You evaluated the candidates during the competition last week.",
+        "alts": [],
+        "form": "Passé composé"
+      },
+      {
+        "slot": "t|Passé composé|4",
+        "f": "tense",
+        "s": "Vous ___ l'impact de cette décision sur l'entreprise.",
+        "a": "avez évalué",
+        "en": "You evaluated the impact of this decision on the company.",
+        "alts": [],
+        "form": "Passé composé"
+      },
+      {
+        "slot": "t|Passé composé|5",
+        "f": "tense",
+        "s": "Les ingénieurs ___ les dommages après le tremblement de terre.",
+        "a": "ont évalué",
+        "en": "The engineers evaluated the damage after the earthquake.",
+        "alts": [],
+        "form": "Passé composé"
+      },
+      {
+        "slot": "t|Passé composé|5",
+        "f": "tense",
+        "s": "Ils ___ les performances du système après la mise à jour.",
+        "a": "ont évalué",
+        "en": "They evaluated the system's performance after the update.",
+        "alts": [],
+        "form": "Passé composé"
+      },
+      {
+        "slot": "t|Imparfait|0",
+        "f": "tense",
+        "s": "Quand j'étais étudiant, j'___ toujours mes chances de réussite avant un examen.",
+        "a": "évaluais",
+        "en": "When I was a student, I always evaluated my chances of success before an exam.",
+        "alts": [],
+        "form": "Imparfait"
+      },
+      {
+        "slot": "t|Imparfait|0",
+        "f": "tense",
+        "s": "Tu ___ constamment la qualité de ton travail à cette époque.",
+        "a": "évaluais",
+        "en": "You constantly evaluated the quality of your work at that time.",
+        "alts": [],
+        "form": "Imparfait"
+      },
+      {
+        "slot": "t|Imparfait|1",
+        "f": "tense",
+        "s": "Le comité ___ chaque dossier selon des critères précis.",
+        "a": "évaluait",
+        "en": "The committee evaluated each file according to precise criteria.",
+        "alts": [],
+        "form": "Imparfait"
+      },
+      {
+        "slot": "t|Imparfait|1",
+        "f": "tense",
+        "s": "L'entreprise ___ régulièrement la satisfaction de ses clients.",
+        "a": "évaluait",
+        "en": "The company regularly evaluated its customers' satisfaction.",
+        "alts": [],
+        "form": "Imparfait"
+      },
+      {
+        "slot": "t|Imparfait|2",
+        "f": "tense",
+        "s": "Nous ___ les progrès des élèves à la fin de chaque mois.",
+        "a": "évaluions",
+        "en": "We evaluated the students' progress at the end of each month.",
+        "alts": [],
+        "form": "Imparfait"
+      },
+      {
+        "slot": "t|Imparfait|2",
+        "f": "tense",
+        "s": "Avant la réforme, nous ___ les candidats différemment.",
+        "a": "évaluions",
+        "en": "Before the reform, we evaluated the candidates differently.",
+        "alts": [],
+        "form": "Imparfait"
+      },
+      {
+        "slot": "t|Imparfait|3",
+        "f": "tense",
+        "s": "Vous ___ les risques avec beaucoup de prudence à l'époque.",
+        "a": "évaluiez",
+        "en": "You evaluated the risks with great caution at the time.",
+        "alts": [],
+        "form": "Imparfait"
+      },
+      {
+        "slot": "t|Imparfait|3",
+        "f": "tense",
+        "s": "Comment vous ___ les performances de votre équipe avant ?",
+        "a": "évaluiez",
+        "en": "How did you evaluate your team's performance before?",
+        "alts": [],
+        "form": "Imparfait"
+      },
+      {
+        "slot": "t|Imparfait|4",
+        "f": "tense",
+        "s": "Les juges ___ les œuvres selon leur originalité.",
+        "a": "évaluaient",
+        "en": "The judges evaluated the works according to their originality.",
+        "alts": [],
+        "form": "Imparfait"
+      },
+      {
+        "slot": "t|Imparfait|4",
+        "f": "tense",
+        "s": "Elles ___ les besoins des patients chaque matin lors de leurs tournées.",
+        "a": "évaluaient",
+        "en": "They evaluated the patients' needs every morning during their rounds.",
+        "alts": [],
+        "form": "Imparfait"
+      },
+      {
+        "slot": "t|Futur|0",
+        "f": "tense",
+        "s": "J'___ les résultats dès que j'aurai les données.",
+        "a": "évaluerai",
+        "en": "I will evaluate the results as soon as I have the data.",
+        "alts": [],
+        "form": "Futur"
+      },
+      {
+        "slot": "t|Futur|0",
+        "f": "tense",
+        "s": "J'___ les candidatures reçues la semaine prochaine.",
+        "a": "évaluerai",
+        "en": "I will evaluate the applications received next week.",
+        "alts": [],
+        "form": "Futur"
+      },
+      {
+        "slot": "t|Futur|1",
+        "f": "tense",
+        "s": "Tu ___ tes options avant de prendre une décision finale.",
+        "a": "évalueras",
+        "en": "You will evaluate your options before making a final decision.",
+        "alts": [],
+        "form": "Futur"
+      },
+      {
+        "slot": "t|Futur|1",
+        "f": "tense",
+        "s": "Tu ___ les progrès de l'élève à la fin du trimestre.",
+        "a": "évalueras",
+        "en": "You will evaluate the student's progress at the end of the term.",
+        "alts": [],
+        "form": "Futur"
+      },
+      {
+        "slot": "t|Futur|2",
+        "f": "tense",
+        "s": "Le jury ___ les projets soumis lors de la finale.",
+        "a": "évaluera",
+        "en": "The jury will evaluate the projects submitted during the final.",
+        "alts": [],
+        "form": "Futur"
+      },
+      {
+        "slot": "t|Futur|2",
+        "f": "tense",
+        "s": "Le directeur ___ le rendement de chaque département en décembre.",
+        "a": "évaluera",
+        "en": "The director will evaluate each department's performance in December.",
+        "alts": [],
+        "form": "Futur"
+      },
+      {
+        "slot": "t|Futur|3",
+        "f": "tense",
+        "s": "Nous ___ l'impact de ce programme après six mois.",
+        "a": "évaluerons",
+        "en": "We will evaluate the impact of this program after six months.",
+        "alts": [],
+        "form": "Futur"
+      },
+      {
+        "slot": "t|Futur|3",
+        "f": "tense",
+        "s": "Ensemble, nous ___ les risques avant de signer le contrat.",
+        "a": "évaluerons",
+        "en": "Together, we will evaluate the risks before signing the contract.",
+        "alts": [],
+        "form": "Futur"
+      },
+      {
+        "slot": "t|Futur|4",
+        "f": "tense",
+        "s": "Vous ___ les résultats lors de la prochaine réunion.",
+        "a": "évaluerez",
+        "en": "You will evaluate the results at the next meeting.",
+        "alts": [],
+        "form": "Futur"
+      },
+      {
+        "slot": "t|Futur|4",
+        "f": "tense",
+        "s": "Vous ___ les candidats dès leur arrivée.",
+        "a": "évaluerez",
+        "en": "You will evaluate the candidates upon their arrival.",
+        "alts": [],
+        "form": "Futur"
+      },
+      {
+        "slot": "t|Futur|5",
+        "f": "tense",
+        "s": "Les chercheurs ___ les données collectées pendant l'expérience.",
+        "a": "évalueront",
+        "en": "The researchers will evaluate the data collected during the experiment.",
+        "alts": [],
+        "form": "Futur"
+      },
+      {
+        "slot": "t|Futur|5",
+        "f": "tense",
+        "s": "Ils ___ les offres reçues avant de choisir le meilleur fournisseur.",
+        "a": "évalueront",
+        "en": "They will evaluate the offers received before choosing the best supplier.",
+        "alts": [],
+        "form": "Futur"
+      },
+      {
+        "slot": "t|Conditionnel|0",
+        "f": "tense",
+        "s": "Si j'avais plus de temps, j'___ chaque option plus soigneusement.",
+        "a": "évaluerais",
+        "en": "If I had more time, I would evaluate each option more carefully.",
+        "alts": [],
+        "form": "Conditionnel"
+      },
+      {
+        "slot": "t|Conditionnel|0",
+        "f": "tense",
+        "s": "Si tu recevais ce dossier, tu ___ les risques toi-même ?",
+        "a": "évaluerais",
+        "en": "If you received this file, would you evaluate the risks yourself?",
+        "alts": [],
+        "form": "Conditionnel"
+      },
+      {
+        "slot": "t|Conditionnel|1",
+        "f": "tense",
+        "s": "Si elle avait les compétences nécessaires, elle ___ le projet seule.",
+        "a": "évaluerait",
+        "en": "If she had the necessary skills, she would evaluate the project alone.",
+        "alts": [],
+        "form": "Conditionnel"
+      },
+      {
+        "slot": "t|Conditionnel|1",
+        "f": "tense",
+        "s": "Le comité ___ les candidatures plus rapidement s'il avait plus de membres.",
+        "a": "évaluerait",
+        "en": "The committee would evaluate the applications more quickly if it had more members.",
+        "alts": [],
+        "form": "Conditionnel"
+      },
+      {
+        "slot": "t|Conditionnel|2",
+        "f": "tense",
+        "s": "Si nous avions les ressources, nous ___ chaque dossier individuellement.",
+        "a": "évaluerions",
+        "en": "If we had the resources, we would evaluate each file individually.",
+        "alts": [],
+        "form": "Conditionnel"
+      },
+      {
+        "slot": "t|Conditionnel|2",
+        "f": "tense",
+        "s": "Nous ___ mieux la situation si nous avions plus d'informations.",
+        "a": "évaluerions",
+        "en": "We would evaluate the situation better if we had more information.",
+        "alts": [],
+        "form": "Conditionnel"
+      },
+      {
+        "slot": "t|Conditionnel|3",
+        "f": "tense",
+        "s": "Si vous aviez le temps, vous ___ les candidats plus attentivement.",
+        "a": "évalueriez",
+        "en": "If you had the time, you would evaluate the candidates more carefully.",
+        "alts": [],
+        "form": "Conditionnel"
+      },
+      {
+        "slot": "t|Conditionnel|3",
+        "f": "tense",
+        "s": "Vous ___ mieux ce programme si vous en connaissiez tous les détails.",
+        "a": "évalueriez",
+        "en": "You would evaluate this program better if you knew all the details.",
+        "alts": [],
+        "form": "Conditionnel"
+      },
+      {
+        "slot": "t|Conditionnel|4",
+        "f": "tense",
+        "s": "Si les experts avaient accès aux données, ils ___ les risques avec précision.",
+        "a": "évalueraient",
+        "en": "If the experts had access to the data, they would evaluate the risks precisely.",
+        "alts": [],
+        "form": "Conditionnel"
+      },
+      {
+        "slot": "t|Conditionnel|4",
+        "f": "tense",
+        "s": "Elles ___ le projet plus facilement si elles avaient un meilleur outil.",
+        "a": "évalueraient",
+        "en": "They would evaluate the project more easily if they had a better tool.",
+        "alts": [],
+        "form": "Conditionnel"
+      },
+      {
+        "slot": "t|Subjonctif",
+        "f": "subj",
+        "s": "Il faut que tu ___ les risques avant de te lancer.",
+        "a": "évalues",
+        "en": "It is necessary that you evaluate the risks before starting.",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "t|Subjonctif",
+        "f": "subj",
+        "s": "Je souhaite que nous ___ ensemble les résultats de l'enquête.",
+        "a": "évaluions",
+        "en": "I wish that we evaluate the survey results together.",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "s|0",
+        "f": "sense",
+        "s": "Le comité doit ___ les candidatures selon des critères stricts.",
+        "a": "évaluer",
+        "en": "The committee must evaluate the applications according to strict criteria.",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "s|0",
+        "f": "sense",
+        "s": "Notre mission est d'___ l'efficacité de ce programme d'aide.",
+        "a": "évaluer",
+        "en": "Our mission is to evaluate the effectiveness of this aid program.",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "s|1",
+        "f": "sense",
+        "s": "Il est difficile d'___ exactement le coût total des réparations.",
+        "a": "évaluer",
+        "en": "It is difficult to estimate the total cost of repairs exactly.",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "s|1",
+        "f": "sense",
+        "s": "L'expert a été chargé d'___ la valeur de ce tableau ancien.",
+        "a": "évaluer",
+        "en": "The expert was tasked with estimating the value of this old painting.",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "s|2",
+        "f": "sense",
+        "s": "Les élèves apprennent à ___ les arguments dans un débat.",
+        "a": "évaluer",
+        "en": "The students learn to assess the arguments in a debate.",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "s|2",
+        "f": "sense",
+        "s": "Il est important de savoir ___ le travail de ses collègues avec objectivité.",
+        "a": "évaluer",
+        "en": "It is important to know how to assess one's colleagues' work objectively.",
+        "alts": [],
+        "form": ""
+      }
+    ]
+  },
+  {
+    "id": 1545,
+    "qs": [
+      {
+        "slot": "s|0",
+        "f": "sense",
+        "s": "Ce problème est ___ grave et doit être résolu sans délai.",
+        "a": "extrêmement",
+        "en": "This problem is extremely serious and must be resolved without delay.",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "s|0",
+        "f": "sense",
+        "s": "La montée des eaux était ___ rapide : les villageois n'ont pas eu le temps de fuir.",
+        "a": "extrêmement",
+        "en": "The rise of the water was extremely rapid: the villagers had no time to flee.",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "s|1",
+        "f": "sense",
+        "s": "Elle est ___ contente de t'avoir retrouvé après toutes ces années.",
+        "a": "extrêmement",
+        "en": "She is extremely (very) pleased to have found you again after all these years.",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "s|1",
+        "f": "sense",
+        "s": "Ce quartier est ___ calme, ce qui plaît beaucoup aux familles.",
+        "a": "extrêmement",
+        "en": "This neighbourhood is extremely (very) quiet, which families find very appealing.",
+        "alts": [],
+        "form": ""
+      }
+    ]
+  }
+]

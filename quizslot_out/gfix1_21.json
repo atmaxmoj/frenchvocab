@@ -1,0 +1,39 @@
+[
+  {
+    "id": 223,
+    "qs": [
+      {"slot":"s|0","f":"sense","s":"Pouvez-vous m'expliquer la ___ actuelle du projet ?","a":"situation","en":"Can you explain to me the current situation of the project?","alts":[],"form":""},
+      {"slot":"s|0","f":"sense","s":"La ___ économique du pays s'est améliorée l'année dernière.","a":"situation","en":"The economic situation of the country improved last year.","alts":[],"form":""},
+      {"slot":"s|1","f":"sense","s":"Les négociateurs ont réussi à maîtriser la ___ lors de la crise.","a":"situation","en":"The negotiators managed to bring the situation under control during the crisis.","alts":[],"form":""},
+      {"slot":"s|1","f":"sense","s":"Face à cette ___ tendue, il faut agir avec prudence.","a":"situation","en":"Faced with this tense situation, we must act with caution.","alts":[],"form":""},
+      {"slot":"s|2","f":"sense","s":"Il se retrouve dans une ___ difficile après avoir perdu son emploi.","a":"situation","en":"He finds himself in a difficult predicament after losing his job.","alts":[],"form":""},
+      {"slot":"s|2","f":"sense","s":"Elle ne sait pas comment sortir de sa ___ précaire.","a":"situation","en":"She doesn't know how to get out of her precarious situation.","alts":[],"form":""},
+      {"slot":"s|3","f":"sense","s":"L'hôtel bénéficie d'une ___ idéale en plein centre-ville.","a":"situation","en":"The hotel benefits from an ideal location right in the city center.","alts":[],"form":""},
+      {"slot":"s|3","f":"sense","s":"La ___ géographique de ce village le rend difficile d'accès en hiver.","a":"situation","en":"The geographical position of this village makes it hard to reach in winter.","alts":[],"form":""},
+      {"slot":"gender","f":"gender","s":"C'est ___ situation très complexe que nous devons gérer ensemble.","a":"une","en":"It is a very complex situation that we must manage together.","alts":[],"form":""},
+      {"slot":"gender","f":"gender","s":"Je ne comprends pas bien ___ situation dans laquelle tu te trouves.","a":"la","en":"I don't quite understand the situation you are in.","alts":[],"form":""}
+    ]
+  },
+  {
+    "id": 295,
+    "qs": [
+      {"slot":"s|0","f":"sense","s":"La ___ moderne doit faire face à de nombreux défis économiques.","a":"société","en":"Modern society must face many economic challenges.","alts":[],"form":""},
+      {"slot":"s|0","f":"sense","s":"Les médias jouent un rôle essentiel dans notre ___.","a":"société","en":"The media play an essential role in our society.","alts":[],"form":""},
+      {"slot":"s|1","f":"sense","s":"Il a fondé une ___ spécialisée dans le développement de logiciels.","a":"société","en":"He founded a company specializing in software development.","alts":["entreprise"],"form":""},
+      {"slot":"s|1","f":"sense","s":"La ___ a annoncé des bénéfices record lors de l'assemblée générale.","a":"société","en":"The company announced record profits at the general meeting.","alts":["entreprise"],"form":""},
+      {"slot":"s|2","f":"sense","s":"Il est membre actif d'une ___ de protection de l'environnement.","a":"société","en":"He is an active member of an environmental protection association.","alts":["association"],"form":""},
+      {"slot":"s|2","f":"sense","s":"La ___ littéraire organise des conférences mensuelles autour de la poésie.","a":"société","en":"The literary society organizes monthly lectures on poetry.","alts":["association"],"form":""},
+      {"slot":"gender","f":"gender","s":"Il a créé ___ nouvelle société l'année dernière.","a":"une","en":"He founded a new company last year.","alts":[],"form":""},
+      {"slot":"gender","f":"gender","s":"___ société française est en pleine mutation depuis dix ans.","a":"La","en":"French society has been undergoing major changes for ten years.","alts":[],"form":""}
+    ]
+  },
+  {
+    "id": 287,
+    "qs": [
+      {"slot":"s|0","f":"sense","s":"Il va ___ au cinéma le week-end.","a":"souvent","en":"He often goes to the cinema on weekends.","alts":["fréquemment"],"form":""},
+      {"slot":"s|0","f":"sense","s":"Elle oublie ___ ses clés en partant.","a":"souvent","en":"She often forgets her keys when leaving.","alts":["fréquemment"],"form":""},
+      {"slot":"s|1","f":"sense","s":"Mon voisin joue ___ de la guitare le soir.","a":"souvent","en":"My neighbor often plays guitar in the evening.","alts":["fréquemment"],"form":""},
+      {"slot":"s|1","f":"sense","s":"Nous parlons ___ de nos projets ensemble.","a":"souvent","en":"We often talk about our projects together.","alts":["fréquemment"],"form":""}
+    ]
+  }
+]

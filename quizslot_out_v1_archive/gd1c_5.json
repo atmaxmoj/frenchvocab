@@ -1,0 +1,618 @@
+[
+  {
+    "id": 141,
+    "qs": [
+      {
+        "slot": "s|0",
+        "f": "sense",
+        "s": "Il faut reconnaître ce ___ : le chômage a augmenté cette année.",
+        "a": "fait",
+        "en": "We must acknowledge this fact: unemployment has increased this year.",
+        "alts": []
+      },
+      {
+        "slot": "s|0",
+        "f": "sense",
+        "s": "En ___, les résultats de l'enquête confirment nos hypothèses initiales.",
+        "a": "fait",
+        "en": "In fact, the results of the investigation confirm our initial hypotheses.",
+        "alts": []
+      },
+      {
+        "slot": "s|1",
+        "f": "sense",
+        "s": "Son ___ généreux a touché tout le monde dans le quartier.",
+        "a": "fait",
+        "en": "His generous act/deed touched everyone in the neighbourhood.",
+        "alts": []
+      },
+      {
+        "slot": "s|1",
+        "f": "sense",
+        "s": "Elle sera jugée pour ses ___ et non pour ses paroles.",
+        "a": "faits",
+        "en": "She will be judged for her actions and not for her words.",
+        "alts": []
+      },
+      {
+        "slot": "s|2",
+        "f": "sense",
+        "s": "Le journal rapporte un ___ divers survenu hier soir dans la banlieue.",
+        "a": "fait",
+        "en": "The newspaper reports a news event that occurred last night in the suburbs.",
+        "alts": []
+      },
+      {
+        "slot": "s|2",
+        "f": "sense",
+        "s": "Ces ___ récents ont provoqué une vive émotion dans la population.",
+        "a": "faits",
+        "en": "These recent events have caused strong emotion among the population.",
+        "alts": []
+      },
+      {
+        "slot": "gender",
+        "f": "gender",
+        "s": "___ fait que tu cites est tout à fait exact.",
+        "a": "Le",
+        "en": "The fact that you are citing is entirely accurate.",
+        "alts": []
+      },
+      {
+        "slot": "gender",
+        "f": "gender",
+        "s": "Elle n'était pas au courant d'___ fait aussi important.",
+        "a": "un",
+        "en": "She was not aware of such an important fact.",
+        "alts": []
+      }
+    ]
+  },
+  {
+    "id": 142,
+    "qs": [
+      {
+        "slot": "s|0",
+        "f": "sense",
+        "s": "Je n'ai jamais vu ___ comportement de sa part.",
+        "a": "tel",
+        "en": "I have never seen such behavior from him.",
+        "alts": []
+      },
+      {
+        "slot": "s|0",
+        "f": "sense",
+        "s": "Une ___ situation nécessite une réponse immédiate.",
+        "a": "telle",
+        "en": "Such a situation requires an immediate response.",
+        "alts": []
+      },
+      {
+        "slot": "s|1",
+        "f": "sense",
+        "s": "Il parle avec ___ enthousiasme qu'on l'écoute avec plaisir.",
+        "a": "tel",
+        "en": "He speaks with such enthusiasm that one listens to him with pleasure.",
+        "alts": []
+      },
+      {
+        "slot": "s|1",
+        "f": "sense",
+        "s": "Elle a ___ confiance en lui qu'elle lui confie tout.",
+        "a": "telle",
+        "en": "She has such confidence in him that she tells him everything.",
+        "alts": []
+      },
+      {
+        "slot": "s|2",
+        "f": "sense",
+        "s": "M. ___ a appelé ce matin mais n'a pas laissé de message.",
+        "a": "Tel",
+        "en": "Mr. So-and-so called this morning but did not leave a message.",
+        "alts": ["tel"]
+      },
+      {
+        "slot": "s|2",
+        "f": "sense",
+        "s": "On attend toujours que tel ou ___ responsable prenne une décision.",
+        "a": "tel",
+        "en": "We are still waiting for such-and-such a manager to make a decision.",
+        "alts": []
+      },
+      {
+        "slot": "g|mp",
+        "f": "agree",
+        "s": "De ___ résultats sont très encourageants pour l'équipe.",
+        "a": "tels",
+        "en": "Such results are very encouraging for the team.",
+        "alts": []
+      },
+      {
+        "slot": "g|mp",
+        "f": "agree",
+        "s": "On ne s'attendait pas à voir de ___ progrès en si peu de temps.",
+        "a": "tels",
+        "en": "We did not expect to see such progress in so little time.",
+        "alts": []
+      },
+      {
+        "slot": "g|f",
+        "f": "agree",
+        "s": "Une ___ décision ne peut pas être prise à la légère.",
+        "a": "telle",
+        "en": "Such a decision cannot be taken lightly.",
+        "alts": []
+      },
+      {
+        "slot": "g|f",
+        "f": "agree",
+        "s": "Je n'ai jamais rencontré une ___ personnalité dans ma carrière.",
+        "a": "telle",
+        "en": "I have never encountered such a personality in my career.",
+        "alts": []
+      },
+      {
+        "slot": "g|fp",
+        "f": "agree",
+        "s": "De ___ erreurs peuvent avoir de graves conséquences.",
+        "a": "telles",
+        "en": "Such mistakes can have serious consequences.",
+        "alts": []
+      },
+      {
+        "slot": "g|fp",
+        "f": "agree",
+        "s": "Il est rare de trouver de ___ occasions dans ce domaine.",
+        "a": "telles",
+        "en": "It is rare to find such opportunities in this field.",
+        "alts": []
+      }
+    ]
+  },
+  {
+    "id": 143,
+    "qs": [
+      {
+        "slot": "s|0",
+        "f": "sense",
+        "s": "Chaque citoyen a le ___ de voter librement.",
+        "a": "droit",
+        "en": "Every citizen has the right to vote freely.",
+        "alts": []
+      },
+      {
+        "slot": "s|0",
+        "f": "sense",
+        "s": "Les enfants ont le ___ d'accéder à une éducation de qualité.",
+        "a": "droit",
+        "en": "Children have the right to access quality education.",
+        "alts": []
+      },
+      {
+        "slot": "s|1",
+        "f": "sense",
+        "s": "Le ___ interdit toute forme de discrimination.",
+        "a": "droit",
+        "en": "The law prohibits all forms of discrimination.",
+        "alts": []
+      },
+      {
+        "slot": "s|1",
+        "f": "sense",
+        "s": "Il faut respecter le ___ en vigueur dans ce pays.",
+        "a": "droit",
+        "en": "You must respect the law in force in this country.",
+        "alts": []
+      },
+      {
+        "slot": "s|2",
+        "f": "sense",
+        "s": "Elle a choisi d'étudier le ___ à l'université de Paris.",
+        "a": "droit",
+        "en": "She chose to study law at the University of Paris.",
+        "alts": []
+      },
+      {
+        "slot": "s|2",
+        "f": "sense",
+        "s": "Un diplôme en ___ ouvre de nombreuses portes dans le monde professionnel.",
+        "a": "droit",
+        "en": "A degree in law opens many doors in the professional world.",
+        "alts": []
+      },
+      {
+        "slot": "gender",
+        "f": "gender",
+        "s": "C'est ___ droit fondamental de tout être humain.",
+        "a": "un",
+        "en": "It is a fundamental right of every human being.",
+        "alts": []
+      },
+      {
+        "slot": "gender",
+        "f": "gender",
+        "s": "___ droit pénal est enseigné dès la première année.",
+        "a": "Le",
+        "en": "Criminal law is taught from the first year.",
+        "alts": []
+      }
+    ]
+  },
+  {
+    "id": 144,
+    "qs": [
+      {
+        "slot": "s|0",
+        "f": "sense",
+        "s": "L'enseignant a posé une ___ difficile aux élèves.",
+        "a": "question",
+        "en": "The teacher asked the students a difficult question.",
+        "alts": []
+      },
+      {
+        "slot": "s|0",
+        "f": "sense",
+        "s": "Je n'ai pas pu répondre à sa ___ pendant l'examen.",
+        "a": "question",
+        "en": "I was unable to answer his question during the exam.",
+        "alts": []
+      },
+      {
+        "slot": "s|1",
+        "f": "sense",
+        "s": "Il a exprimé une ___ sur la vérité de cette affirmation.",
+        "a": "question",
+        "en": "He expressed a doubt about the truth of that statement.",
+        "alts": []
+      },
+      {
+        "slot": "s|1",
+        "f": "sense",
+        "s": "Son discours a soulevé une ___ dans mon esprit.",
+        "a": "question",
+        "en": "His speech raised a doubt in my mind.",
+        "alts": []
+      },
+      {
+        "slot": "s|2",
+        "f": "sense",
+        "s": "La ___ de ses méthodes par ses collègues l'a beaucoup perturbé.",
+        "a": "question",
+        "en": "The questioning of his methods by his colleagues disturbed him greatly.",
+        "alts": []
+      },
+      {
+        "slot": "s|2",
+        "f": "sense",
+        "s": "Cette décision fait l'objet d'une ___ sérieuse de la part du comité.",
+        "a": "question",
+        "en": "This decision is the subject of serious questioning by the committee.",
+        "alts": []
+      },
+      {
+        "slot": "gender",
+        "f": "gender",
+        "s": "___ question posée hier était très complexe.",
+        "a": "La",
+        "en": "The question asked yesterday was very complex.",
+        "alts": []
+      },
+      {
+        "slot": "gender",
+        "f": "gender",
+        "s": "Il a répondu à ___ question sans hésiter.",
+        "a": "une",
+        "en": "He answered a question without hesitating.",
+        "alts": []
+      }
+    ]
+  },
+  {
+    "id": 145,
+    "qs": [
+      {
+        "slot": "s|0",
+        "f": "sense",
+        "s": "Il pleuvait fort, ___ nous avons annulé la sortie.",
+        "a": "donc",
+        "en": "It was raining hard, therefore we cancelled the outing.",
+        "alts": []
+      },
+      {
+        "slot": "s|0",
+        "f": "sense",
+        "s": "Elle était malade, ___ elle n'a pas pu venir au travail.",
+        "a": "donc",
+        "en": "She was sick, therefore she couldn't come to work.",
+        "alts": []
+      },
+      {
+        "slot": "s|1",
+        "f": "sense",
+        "s": "J'avais faim, ___ j'ai commandé une pizza.",
+        "a": "donc",
+        "en": "I was hungry, so I ordered a pizza.",
+        "alts": []
+      },
+      {
+        "slot": "s|1",
+        "f": "sense",
+        "s": "Le train était en retard, ___ nous avons raté la réunion.",
+        "a": "donc",
+        "en": "The train was late, so we missed the meeting.",
+        "alts": []
+      },
+      {
+        "slot": "s|2",
+        "f": "sense",
+        "s": "Tu es prêt ? ___ on y va !",
+        "a": "Donc",
+        "en": "You're ready? Then let's go!",
+        "alts": ["donc"]
+      },
+      {
+        "slot": "s|2",
+        "f": "sense",
+        "s": "Si tu as fini, ___ tu peux partir.",
+        "a": "donc",
+        "en": "If you're done, then you can leave.",
+        "alts": []
+      }
+    ]
+  },
+  {
+    "id": 146,
+    "qs": [
+      {
+        "slot": "s|0",
+        "f": "sense",
+        "s": "___ livre veux-tu emprunter à la bibliothèque ?",
+        "a": "Quel",
+        "en": "Which book do you want to borrow from the library?",
+        "alts": []
+      },
+      {
+        "slot": "s|0",
+        "f": "sense",
+        "s": "Il y a plusieurs chemins pour y aller — ___ chemin préfères-tu ?",
+        "a": "quel",
+        "en": "There are several paths to get there — which path do you prefer?",
+        "alts": []
+      },
+      {
+        "slot": "s|1",
+        "f": "sense",
+        "s": "___ courage il faut pour traverser cette épreuve !",
+        "a": "Quel",
+        "en": "What courage it takes to get through this ordeal!",
+        "alts": []
+      },
+      {
+        "slot": "s|1",
+        "f": "sense",
+        "s": "___ beau paysage nous offre cette montagne !",
+        "a": "Quel",
+        "en": "What a beautiful landscape this mountain offers us!",
+        "alts": []
+      },
+      {
+        "slot": "g|mp",
+        "f": "agree",
+        "s": "___ sont les pays que tu as visités en Europe ?",
+        "a": "Quels",
+        "en": "Which countries have you visited in Europe?",
+        "alts": []
+      },
+      {
+        "slot": "g|mp",
+        "f": "agree",
+        "s": "___ documents dois-je apporter pour l'inscription ?",
+        "a": "Quels",
+        "en": "Which documents do I need to bring for registration?",
+        "alts": []
+      },
+      {
+        "slot": "g|f",
+        "f": "agree",
+        "s": "___ heure est-il maintenant ?",
+        "a": "Quelle",
+        "en": "What time is it now?",
+        "alts": []
+      },
+      {
+        "slot": "g|f",
+        "f": "agree",
+        "s": "___ langue parles-tu à la maison ?",
+        "a": "Quelle",
+        "en": "Which language do you speak at home?",
+        "alts": []
+      },
+      {
+        "slot": "g|fp",
+        "f": "agree",
+        "s": "___ sont tes matières préférées à l'école ?",
+        "a": "Quelles",
+        "en": "Which are your favorite subjects at school?",
+        "alts": []
+      },
+      {
+        "slot": "g|fp",
+        "f": "agree",
+        "s": "___ chaussures as-tu choisies pour la soirée ?",
+        "a": "Quelles",
+        "en": "Which shoes did you choose for the evening?",
+        "alts": []
+      }
+    ]
+  },
+  {
+    "id": 147,
+    "qs": [
+      {
+        "slot": "s|0",
+        "f": "sense",
+        "s": "L'état a présenté un bilan ___ de la situation économique.",
+        "a": "général",
+        "en": "The state presented an overall assessment of the economic situation.",
+        "alts": []
+      },
+      {
+        "slot": "s|0",
+        "f": "sense",
+        "s": "Il a donné un aperçu ___ du projet avant d'entrer dans les détails.",
+        "a": "général",
+        "en": "He gave an overall overview of the project before going into details.",
+        "alts": []
+      },
+      {
+        "slot": "s|1",
+        "f": "sense",
+        "s": "L'usage de ce mot est devenu ___ dans la langue courante.",
+        "a": "général",
+        "en": "The use of this word has become widespread in everyday language.",
+        "alts": []
+      },
+      {
+        "slot": "s|1",
+        "f": "sense",
+        "s": "Ce phénomène est ___ dans toutes les grandes villes du monde.",
+        "a": "général",
+        "en": "This phenomenon is widespread in all major cities of the world.",
+        "alts": []
+      },
+      {
+        "slot": "s|2",
+        "f": "sense",
+        "s": "En règle ___, il vaut mieux arriver à l'heure aux réunions.",
+        "a": "générale",
+        "en": "As a general rule, it is better to arrive on time to meetings.",
+        "alts": []
+      },
+      {
+        "slot": "s|2",
+        "f": "sense",
+        "s": "La médecine ___ traite les maladies courantes sans spécialisation.",
+        "a": "générale",
+        "en": "General medicine treats common illnesses without specialization.",
+        "alts": []
+      },
+      {
+        "slot": "g|mp",
+        "f": "agree",
+        "s": "Les principes ___ de cette théorie sont bien établis.",
+        "a": "généraux",
+        "en": "The general principles of this theory are well established.",
+        "alts": []
+      },
+      {
+        "slot": "g|mp",
+        "f": "agree",
+        "s": "Il a abordé les problèmes ___ avant de traiter les cas particuliers.",
+        "a": "généraux",
+        "en": "He addressed the general problems before dealing with specific cases.",
+        "alts": []
+      },
+      {
+        "slot": "g|f",
+        "f": "agree",
+        "s": "La direction ___ de l'entreprise a changé cette année.",
+        "a": "générale",
+        "en": "The general management of the company changed this year.",
+        "alts": []
+      },
+      {
+        "slot": "g|f",
+        "f": "agree",
+        "s": "La culture ___ est indispensable pour comprendre le monde moderne.",
+        "a": "générale",
+        "en": "General culture is indispensable for understanding the modern world.",
+        "alts": []
+      },
+      {
+        "slot": "g|fp",
+        "f": "agree",
+        "s": "Les connaissances ___ acquises à l'école servent toute la vie.",
+        "a": "générales",
+        "en": "The general knowledge acquired at school serves you throughout life.",
+        "alts": []
+      },
+      {
+        "slot": "g|fp",
+        "f": "agree",
+        "s": "Les conditions ___ du contrat ont été acceptées par les deux parties.",
+        "a": "générales",
+        "en": "The general terms of the contract were accepted by both parties.",
+        "alts": []
+      }
+    ]
+  },
+  {
+    "id": 148,
+    "qs": [
+      {
+        "slot": "s|0",
+        "f": "sense",
+        "s": "C'est un ___ que je n'oublierai jamais : la naissance de ma fille.",
+        "a": "moment",
+        "en": "It is a moment I will never forget: the birth of my daughter.",
+        "alts": []
+      },
+      {
+        "slot": "s|0",
+        "f": "sense",
+        "s": "À ce ___ précis, il a compris que sa vie allait changer.",
+        "a": "moment",
+        "en": "At that precise moment, he understood that his life was going to change.",
+        "alts": []
+      },
+      {
+        "slot": "s|1",
+        "f": "sense",
+        "s": "Attendez un ___, je reviens tout de suite.",
+        "a": "moment",
+        "en": "Wait a moment, I'll be right back.",
+        "alts": []
+      },
+      {
+        "slot": "s|1",
+        "f": "sense",
+        "s": "Elle s'est arrêtée un ___ pour reprendre son souffle avant de continuer.",
+        "a": "moment",
+        "en": "She stopped for a moment to catch her breath before continuing.",
+        "alts": []
+      },
+      {
+        "slot": "s|2",
+        "f": "sense",
+        "s": "Il faut choisir le bon ___ pour lancer ce projet, sinon il échouera.",
+        "a": "moment",
+        "en": "You need to choose the right moment to launch this project, otherwise it will fail.",
+        "alts": []
+      },
+      {
+        "slot": "s|2",
+        "f": "sense",
+        "s": "Le négociateur attendait le ___ idéal pour proposer un accord.",
+        "a": "moment",
+        "en": "The negotiator was waiting for the ideal moment to propose a deal.",
+        "alts": []
+      },
+      {
+        "slot": "gender",
+        "f": "gender",
+        "s": "Je me souviens encore de ___ moment où nous nous sommes rencontrés.",
+        "a": "ce",
+        "en": "I still remember the moment when we met.",
+        "alts": []
+      },
+      {
+        "slot": "gender",
+        "f": "gender",
+        "s": "Profite de ___ moment présent, car il ne reviendra pas.",
+        "a": "ce",
+        "en": "Enjoy this present moment, for it will not come back.",
+        "alts": []
+      }
+    ]
+  }
+]

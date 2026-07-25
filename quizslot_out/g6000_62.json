@@ -1,0 +1,35 @@
+[
+  {
+    "id": 5187,
+    "qs": [
+      {"slot":"s|0","f":"sense","s":"Le médecin m'a prescrit un ___ contre la toux.","en":"The doctor prescribed me a cough syrup.","a":"sirop","alts":[]},
+      {"slot":"s|0","f":"sense","s":"Elle a versé du ___ d'érable sur ses crêpes avant de les manger.","en":"She poured maple syrup over her pancakes before eating them.","a":"sirop","alts":[]},
+      {"slot":"s|1","f":"sense","s":"En été, les enfants adorent boire du ___ de menthe dilué avec de l'eau fraîche.","en":"In summer, children love drinking mint cordial diluted with cool water.","a":"sirop","alts":[]},
+      {"slot":"s|1","f":"sense","s":"Au café, j'ai commandé un ___ de fraise bien frais avec des glaçons.","en":"At the café, I ordered a nice cold strawberry fruit drink with ice cubes.","a":"sirop","alts":[]},
+      {"slot":"gender","f":"gender","s":"___ sirop de menthe est resté sur la table toute la journée.","en":"The mint syrup stayed on the table all day.","a":"Le","alts":[]},
+      {"slot":"gender","f":"gender","s":"Peux-tu m'apporter ___ sirop pour cette toux, s'il te plaît ?","en":"Can you bring me a cough syrup, please?","a":"un","alts":[]}
+    ]
+  },
+  {
+    "id": 5188,
+    "qs": [
+      {"slot":"s|0","f":"sense","s":"Le barman a versé du ___ dans son cocktail.","en":"The bartender poured rum into his cocktail.","a":"rhum","alts":[]},
+      {"slot":"s|0","f":"sense","s":"Après le dîner, mon oncle aime boire un petit verre de ___.","en":"After dinner, my uncle likes to drink a small glass of rum.","a":"rhum","alts":[]},
+      {"slot":"gender","f":"gender","s":"___ rhum de la Martinique est très réputé.","en":"Rum from Martinique is very renowned.","a":"Le","alts":[]},
+      {"slot":"gender","f":"gender","s":"Elle a mis ___ rhum dans la sauce pour parfumer le dessert.","en":"She put some rum in the sauce to flavor the dessert.","a":"du","alts":[]}
+    ]
+  },
+  {
+    "id": 5189,
+    "qs": [
+      {"slot":"s|0","f":"sense","s":"Ce film est vraiment ___.","en":"This movie is really funny.","a":"marrant","alts":[]},
+      {"slot":"s|0","f":"sense","s":"Ton copain est ___, il raconte toujours des blagues.","en":"Your buddy is funny, he's always telling jokes.","a":"marrant","alts":[]},
+      {"slot":"g|mp","f":"agree","s":"Ses jeux de mots sont toujours ___.","en":"His puns are always funny.","a":"marrants","alts":[]},
+      {"slot":"g|mp","f":"agree","s":"Ces dessins animés sont vraiment ___.","en":"These cartoons are really funny.","a":"marrants","alts":[]},
+      {"slot":"g|f","f":"agree","s":"Cette histoire est ___.","en":"This story is funny.","a":"marrante","alts":[]},
+      {"slot":"g|f","f":"agree","s":"Ta blague était vraiment ___.","en":"Your joke was really funny.","a":"marrante","alts":[]},
+      {"slot":"g|fp","f":"agree","s":"Ces histoires sont ___.","en":"These stories are funny.","a":"marrantes","alts":[]},
+      {"slot":"g|fp","f":"agree","s":"Ses blagues sont toujours ___.","en":"Her jokes are always funny.","a":"marrantes","alts":[]}
+    ]
+  }
+]

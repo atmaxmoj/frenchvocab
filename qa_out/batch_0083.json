@@ -1,0 +1,21 @@
+[
+  {
+    "id": "671",
+    "fix": {
+      "zh": "老人",
+      "examples": [
+        {
+          "fr": "Le vieux du quartier racontait chaque soir des histoires de sa jeunesse.",
+          "en": "The old man from the neighbourhood told stories from his youth every evening.",
+          "target": "vieux"
+        },
+        {
+          "fr": "Dans ce village, les vieux se retrouvent chaque après-midi sur la place pour discuter.",
+          "en": "In this village, the old folks gather every afternoon in the square to chat.",
+          "target": "vieux"
+        }
+      ]
+    },
+    "reasons": ["second example wrongly used 'les vieux' to mean antiques/old things; 'vieux' as a noun means old people", "zh '老旧的东西' is not a valid noun sense of 'vieux'"]
+  }
+]

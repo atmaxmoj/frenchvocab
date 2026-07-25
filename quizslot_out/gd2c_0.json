@@ -1,0 +1,41 @@
+[
+  {
+    "id": 101,
+    "qs": [
+      {"slot":"s|0","f":"sense","s":"Il a fait ce long voyage ___ , sans aucun compagnon.","en":"He made this long journey alone, without any companion.","a":"seul","alts":[],"form":""},
+      {"slot":"s|0","f":"sense","s":"Elle a grandi ___ après le départ de ses parents.","en":"She grew up on her own after her parents left.","a":"seule","alts":[],"form":""},
+      {"slot":"s|1","f":"sense","s":"C'est la ___ solution possible dans cette situation difficile.","en":"It is the only possible solution in this difficult situation.","a":"seule","alts":[],"form":""},
+      {"slot":"s|1","f":"sense","s":"Il est le ___ étudiant à avoir réussi cet examen.","en":"He is the only student to have passed this exam.","a":"seul","alts":[],"form":""},
+      {"slot":"s|2","f":"sense","s":"Depuis que ses amis sont partis, il se sent très ___ .","en":"Since his friends left, he feels very lonely.","a":"seul","alts":["solitaire"],"form":""},
+      {"slot":"s|2","f":"sense","s":"Elle était ___ et triste dans cette grande ville qu'elle ne connaissait pas.","en":"She was lonely and sad in that big city she did not know.","a":"seule","alts":["solitaire"],"form":""},
+      {"slot":"g|mp","f":"agree","s":"Ces enfants jouaient ___ dans le parc sans aucune surveillance.","en":"These children were playing alone in the park with no supervision.","a":"seuls","alts":[],"form":""},
+      {"slot":"g|mp","f":"agree","s":"Ils étaient les ___ à avoir défendu ce projet lors de la réunion.","en":"They were the only ones to have defended this project at the meeting.","a":"seuls","alts":[],"form":""},
+      {"slot":"g|f","f":"agree","s":"Ma sœur est rentrée ___ à la maison ce soir-là.","en":"My sister came home alone that evening.","a":"seule","alts":[],"form":""},
+      {"slot":"g|f","f":"agree","s":"Elle préfère travailler ___ , sans se faire déranger.","en":"She prefers to work alone, without being disturbed.","a":"seule","alts":[],"form":""},
+      {"slot":"g|fp","f":"agree","s":"Ces femmes ont décidé de voyager ___ à travers l'Europe.","en":"These women decided to travel on their own across Europe.","a":"seules","alts":[],"form":""},
+      {"slot":"g|fp","f":"agree","s":"Elles étaient ___ à comprendre l'importance de cette décision.","en":"They were the only ones to understand the importance of this decision.","a":"seules","alts":[],"form":""}
+    ]
+  },
+  {
+    "id": 102,
+    "qs": [
+      {"slot":"s|0","f":"sense","s":"Bonne ___ à toi et à toute ta famille !","en":"Happy New Year to you and your whole family!","a":"année","alts":[],"form":""},
+      {"slot":"s|0","f":"sense","s":"L'___ scolaire commence en septembre en France.","en":"The school year starts in September in France.","a":"année","alts":[],"form":""},
+      {"slot":"s|1","f":"sense","s":"Il a travaillé dur pendant toute l'___ pour financer ses études.","en":"He worked hard throughout the entire year to finance his studies.","a":"année","alts":[],"form":""},
+      {"slot":"s|1","f":"sense","s":"Cette ___ a été marquée par de nombreux changements dans sa vie.","en":"This year has been marked by many changes in his life.","a":"année","alts":[],"form":""},
+      {"slot":"gender","f":"gender","s":"C'est l'___ la plus difficile de ma carrière.","en":"It is the most difficult year of my career.","a":"année","alts":[],"form":""},
+      {"slot":"gender","f":"gender","s":"Nous avons passé une ___ formidable ensemble.","en":"We spent a wonderful year together.","a":"année","alts":[],"form":""}
+    ]
+  },
+  {
+    "id": 103,
+    "qs": [
+      {"slot":"s|0","f":"sense","s":"Elle ___ se lève à six heures du matin, même le week-end.","en":"She always gets up at six in the morning, even on weekends.","a":"toujours","alts":[],"form":""},
+      {"slot":"s|0","f":"sense","s":"Mon grand-père ___ boit son café sans sucre depuis soixante ans.","en":"My grandfather always drinks his coffee without sugar, and has done so for sixty years.","a":"toujours","alts":[],"form":""},
+      {"slot":"s|1","f":"sense","s":"Il a quitté la ville il y a dix ans, mais sa famille y habite ___.","en":"He left the city ten years ago, but his family still lives there.","a":"toujours","alts":[],"form":""},
+      {"slot":"s|1","f":"sense","s":"Tu n'as ___ pas reçu la réponse que tu attendais ?","en":"You still haven't received the answer you were waiting for?","a":"toujours","alts":[],"form":""},
+      {"slot":"s|2","f":"sense","s":"Je ne suis pas sûr de la solution, mais on peut ___ essayer.","en":"I'm not sure about the solution, but we can still (always) give it a try.","a":"toujours","alts":[],"form":""},
+      {"slot":"s|2","f":"sense","s":"Ce n'est pas idéal, mais c'est ___ mieux que rien.","en":"It's not ideal, but it's still better than nothing.","a":"toujours","alts":[],"form":""}
+    ]
+  }
+]

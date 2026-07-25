@@ -1,0 +1,89 @@
+[
+  {
+    "id": 6600,
+    "qs": [
+      {"slot":"s|0","f":"sense","s":"Beaucoup considèrent l'égalité parfaite entre tous les hommes comme une simple ___.","en":"Many consider perfect equality among all men to be a mere utopia (pipe dream).","a":"utopie","alts":[]},
+      {"slot":"s|0","f":"sense","s":"Pour lui, un monde sans aucune guerre n'est qu'une ___ irréalisable.","en":"For him, a world without any war is just an unattainable utopia (pipe dream).","a":"utopie","alts":[]},
+      {"slot":"gender","f":"gender","s":"Il a présenté ___ utopie séduisante mais totalement irréalisable.","en":"He presented an appealing but totally unrealistic utopia.","a":"une","alts":[]},
+      {"slot":"gender","f":"gender","s":"Ce roman décrit ___ utopie où la pauvreté n'existe plus.","en":"This novel describes a utopia where poverty no longer exists.","a":"une","alts":[]}
+    ]
+  },
+  {
+    "id": 6601,
+    "qs": [
+      {"slot":"s|0","f":"sense","s":"Le président a ___ annoncé la nouvelle loi devant le Parlement.","en":"The president solemnly announced the new law before Parliament.","a":"solennellement","alts":[]},
+      {"slot":"s|0","f":"sense","s":"Les mariés ont ___ juré fidélité devant leurs proches.","en":"The newlyweds solemnly swore fidelity in front of their loved ones.","a":"solennellement","alts":[]}
+    ]
+  },
+  {
+    "id": 6602,
+    "qs": [
+      {"slot":"t|Présent|0","f":"tense","s":"Tous les midis, j'___ mon fils avant de servir le repas.","en":"Every day at noon, I sit my son down at the table before serving the meal.","a":"attable","alts":[],"form":"Présent"},
+      {"slot":"t|Présent|0","f":"tense","s":"Le maître d'hôtel ___ les invités dès leur arrivée.","en":"The maître d'hôtel seats the guests as soon as they arrive.","a":"attable","alts":[],"form":"Présent"},
+      {"slot":"t|Présent|1","f":"tense","s":"Tu ___ toujours les enfants avant les adultes.","en":"You always seat the children before the adults.","a":"attables","alts":[],"form":"Présent"},
+      {"slot":"t|Présent|1","f":"tense","s":"Ce soir, tu ___ nos invités près de la fenêtre.","en":"Tonight, you are seating our guests near the window.","a":"attables","alts":[],"form":"Présent"},
+      {"slot":"t|Présent|2","f":"tense","s":"Nous ___ les convives autour de la grande table en bois.","en":"We seat the guests around the big wooden table.","a":"attablons","alts":[],"form":"Présent"},
+      {"slot":"t|Présent|2","f":"tense","s":"D'habitude, nous ___ les enfants à part des adultes.","en":"Usually, we seat the children apart from the adults.","a":"attablons","alts":[],"form":"Présent"},
+      {"slot":"t|Présent|3","f":"tense","s":"Vous ___ vos invités avant de leur servir l'apéritif.","en":"You seat your guests before serving them the aperitif.","a":"attablez","alts":[],"form":"Présent"},
+      {"slot":"t|Présent|3","f":"tense","s":"Vous ___ toujours les clients près de la cuisine.","en":"You always seat the customers near the kitchen.","a":"attablez","alts":[],"form":"Présent"},
+      {"slot":"t|Présent|4","f":"tense","s":"Les serveurs ___ les clients dès qu'une table se libère.","en":"The waiters seat the customers as soon as a table becomes free.","a":"attablent","alts":[],"form":"Présent"},
+      {"slot":"t|Présent|4","f":"tense","s":"Elles ___ leurs invités selon un plan de table précis.","en":"They seat their guests according to a precise seating plan.","a":"attablent","alts":[],"form":"Présent"},
+
+      {"slot":"t|Passé composé|0","f":"tense","s":"Hier soir, j'___ mes parents avant l'arrivée des autres invités.","en":"Last night, I seated my parents before the other guests arrived.","a":"ai attablé","alts":[],"form":"Passé composé"},
+      {"slot":"t|Passé composé|0","f":"tense","s":"Ce matin, j'___ mon petit frère pour le petit-déjeuner.","en":"This morning, I seated my little brother for breakfast.","a":"ai attablé","alts":[],"form":"Passé composé"},
+      {"slot":"t|Passé composé|1","f":"tense","s":"Hier, tu ___ les invités trop tôt.","en":"Yesterday, you seated the guests too early.","a":"as attablé","alts":[],"form":"Passé composé"},
+      {"slot":"t|Passé composé|1","f":"tense","s":"Tu ___ ton collègue à côté du directeur pendant le dîner.","en":"You seated your colleague next to the director during the dinner.","a":"as attablé","alts":[],"form":"Passé composé"},
+      {"slot":"t|Passé composé|2","f":"tense","s":"Le maître d'hôtel ___ les clients dès leur arrivée.","en":"The maître d'hôtel seated the customers as soon as they arrived.","a":"a attablé","alts":[],"form":"Passé composé"},
+      {"slot":"t|Passé composé|2","f":"tense","s":"Elle ___ ses invités autour de la table dressée.","en":"She seated her guests around the set table.","a":"a attablé","alts":[],"form":"Passé composé"},
+      {"slot":"t|Passé composé|3","f":"tense","s":"Nous ___ les enfants avant de sortir le gâteau.","en":"We seated the children before bringing out the cake.","a":"avons attablé","alts":[],"form":"Passé composé"},
+      {"slot":"t|Passé composé|3","f":"tense","s":"Hier, nous ___ nos amis dans le jardin pour le déjeuner.","en":"Yesterday, we seated our friends in the garden for lunch.","a":"avons attablé","alts":[],"form":"Passé composé"},
+      {"slot":"t|Passé composé|4","f":"tense","s":"Vous ___ tous les invités en une minute.","en":"You seated all the guests in one minute.","a":"avez attablé","alts":[],"form":"Passé composé"},
+      {"slot":"t|Passé composé|4","f":"tense","s":"Vous ___ les enfants séparément hier soir.","en":"You seated the children separately last night.","a":"avez attablé","alts":[],"form":"Passé composé"},
+      {"slot":"t|Passé composé|5","f":"tense","s":"Les organisateurs ___ les invités selon le plan prévu.","en":"The organizers seated the guests according to the planned layout.","a":"ont attablé","alts":[],"form":"Passé composé"},
+      {"slot":"t|Passé composé|5","f":"tense","s":"Elles ___ leurs amis avant le début du spectacle.","en":"They seated their friends before the show began.","a":"ont attablé","alts":[],"form":"Passé composé"},
+
+      {"slot":"t|Imparfait|0","f":"tense","s":"Quand j'étais enfant, j'___ toujours mes poupées pour le goûter.","en":"When I was a child, I always used to sit my dolls at the table for snack time.","a":"attablais","alts":[],"form":"Imparfait"},
+      {"slot":"t|Imparfait|0","f":"tense","s":"Autrefois, tu ___ tes camarades avant chaque repas de classe.","en":"In the past, you used to seat your classmates before every class meal.","a":"attablais","alts":[],"form":"Imparfait"},
+      {"slot":"t|Imparfait|1","f":"tense","s":"Chaque dimanche, le grand-père ___ toute la famille pour le déjeuner.","en":"Every Sunday, grandfather used to seat the whole family for lunch.","a":"attablait","alts":[],"form":"Imparfait"},
+      {"slot":"t|Imparfait|1","f":"tense","s":"On ___ les invités par ordre d'arrivée à cette époque.","en":"At that time, they used to seat guests in order of arrival.","a":"attablait","alts":[],"form":"Imparfait"},
+      {"slot":"t|Imparfait|2","f":"tense","s":"Nous ___ nos invités dès leur arrivée, chaque samedi.","en":"We used to seat our guests as soon as they arrived, every Saturday.","a":"attablions","alts":[],"form":"Imparfait"},
+      {"slot":"t|Imparfait|2","f":"tense","s":"À cette époque, nous ___ les enfants séparément des adultes.","en":"At that time, we used to seat the children separately from the adults.","a":"attablions","alts":[],"form":"Imparfait"},
+      {"slot":"t|Imparfait|3","f":"tense","s":"Vous ___ toujours vos invités selon leur ancienneté.","en":"You always used to seat your guests according to seniority.","a":"attabliez","alts":[],"form":"Imparfait"},
+      {"slot":"t|Imparfait|3","f":"tense","s":"Chaque année, vous ___ les gagnants à la table d'honneur.","en":"Every year, you used to seat the winners at the table of honor.","a":"attabliez","alts":[],"form":"Imparfait"},
+      {"slot":"t|Imparfait|4","f":"tense","s":"Les serveurs ___ les clients dès que la salle ouvrait.","en":"The waiters used to seat customers as soon as the room opened.","a":"attablaient","alts":[],"form":"Imparfait"},
+      {"slot":"t|Imparfait|4","f":"tense","s":"Elles ___ leurs invités avant le début de la cérémonie.","en":"They used to seat their guests before the ceremony began.","a":"attablaient","alts":[],"form":"Imparfait"},
+
+      {"slot":"t|Futur|0","f":"tense","s":"Demain, j'___ mes invités à midi pile.","en":"Tomorrow, I will seat my guests at exactly noon.","a":"attablerai","alts":[],"form":"Futur"},
+      {"slot":"t|Futur|0","f":"tense","s":"Pour la fête, j'___ les enfants à une table séparée.","en":"For the party, I will seat the children at a separate table.","a":"attablerai","alts":[],"form":"Futur"},
+      {"slot":"t|Futur|1","f":"tense","s":"Demain soir, tu ___ tes invités dans le jardin.","en":"Tomorrow evening, you will seat your guests in the garden.","a":"attableras","alts":[],"form":"Futur"},
+      {"slot":"t|Futur|1","f":"tense","s":"Tu ___ ton frère à côté de moi pendant le dîner.","en":"You will seat your brother next to me during the dinner.","a":"attableras","alts":[],"form":"Futur"},
+      {"slot":"t|Futur|2","f":"tense","s":"Le majordome ___ les invités dès leur arrivée.","en":"The butler will seat the guests as soon as they arrive.","a":"attablera","alts":[],"form":"Futur"},
+      {"slot":"t|Futur|2","f":"tense","s":"On ___ les enfants avant les adultes lors du banquet.","en":"They will seat the children before the adults at the banquet.","a":"attablera","alts":[],"form":"Futur"},
+      {"slot":"t|Futur|3","f":"tense","s":"Nous ___ tous les convives à dix-neuf heures.","en":"We will seat all the guests at seven p.m.","a":"attablerons","alts":[],"form":"Futur"},
+      {"slot":"t|Futur|3","f":"tense","s":"Pour l'anniversaire, nous ___ les invités autour de la grande table.","en":"For the birthday, we will seat the guests around the big table.","a":"attablerons","alts":[],"form":"Futur"},
+      {"slot":"t|Futur|4","f":"tense","s":"Vous ___ les invités selon le plan de table que vous avez préparé.","en":"You will seat the guests according to the seating plan you prepared.","a":"attablerez","alts":[],"form":"Futur"},
+      {"slot":"t|Futur|4","f":"tense","s":"Demain, vous ___ les clients dès l'ouverture du restaurant.","en":"Tomorrow, you will seat the customers as soon as the restaurant opens.","a":"attablerez","alts":[],"form":"Futur"},
+      {"slot":"t|Futur|5","f":"tense","s":"Les serveurs ___ les clients par ordre d'arrivée.","en":"The waiters will seat the customers in order of arrival.","a":"attableront","alts":[],"form":"Futur"},
+      {"slot":"t|Futur|5","f":"tense","s":"Elles ___ leurs invités avant le discours du maire.","en":"They will seat their guests before the mayor's speech.","a":"attableront","alts":[],"form":"Futur"},
+
+      {"slot":"t|Conditionnel|0","f":"tense","s":"Si j'avais plus de place, j'___ tous mes cousins ensemble.","en":"If I had more room, I would seat all my cousins together.","a":"attablerais","alts":[],"form":"Conditionnel"},
+      {"slot":"t|Conditionnel|0","f":"tense","s":"Si tu étais organisateur, tu ___ les invités par affinité.","en":"If you were the organizer, you would seat the guests by affinity.","a":"attablerais","alts":[],"form":"Conditionnel"},
+      {"slot":"t|Conditionnel|1","f":"tense","s":"Si le restaurant était plein, le patron ___ les clients au bar.","en":"If the restaurant were full, the owner would seat the customers at the bar.","a":"attablerait","alts":[],"form":"Conditionnel"},
+      {"slot":"t|Conditionnel|1","f":"tense","s":"Si on avait plus de chaises, on ___ tout le monde ensemble.","en":"If we had more chairs, we would seat everyone together.","a":"attablerait","alts":[],"form":"Conditionnel"},
+      {"slot":"t|Conditionnel|2","f":"tense","s":"Si nous avions une plus grande salle, nous ___ tous les invités.","en":"If we had a bigger room, we would seat all the guests.","a":"attablerions","alts":[],"form":"Conditionnel"},
+      {"slot":"t|Conditionnel|2","f":"tense","s":"Si le temps le permettait, nous ___ les convives dans le jardin.","en":"If the weather allowed it, we would seat the guests in the garden.","a":"attablerions","alts":[],"form":"Conditionnel"},
+      {"slot":"t|Conditionnel|3","f":"tense","s":"Si vous étiez le maître d'hôtel, vous ___ les invités près de la scène.","en":"If you were the maître d'hôtel, you would seat the guests near the stage.","a":"attableriez","alts":[],"form":"Conditionnel"},
+      {"slot":"t|Conditionnel|3","f":"tense","s":"Si vous aviez plus de tables, vous ___ les familles séparément.","en":"If you had more tables, you would seat the families separately.","a":"attableriez","alts":[],"form":"Conditionnel"},
+      {"slot":"t|Conditionnel|4","f":"tense","s":"Si les serveurs avaient le temps, ils ___ les clients plus vite.","en":"If the waiters had time, they would seat the customers faster.","a":"attableraient","alts":[],"form":"Conditionnel"},
+      {"slot":"t|Conditionnel|4","f":"tense","s":"Si elles organisaient la fête, elles ___ les invités par groupe d'âge.","en":"If they organized the party, they would seat the guests by age group.","a":"attableraient","alts":[],"form":"Conditionnel"},
+
+      {"slot":"t|Subjonctif","f":"subj","s":"Il faut que tu ___ les invités avant l'arrivée du chef.","en":"It is necessary that you seat the guests before the chef arrives.","a":"attables","alts":[],"form":"Subjonctif"},
+      {"slot":"t|Subjonctif","f":"subj","s":"Je veux qu'elle ___ les enfants séparément des adultes.","en":"I want her to seat the children separately from the adults.","a":"attable","alts":[],"form":"Subjonctif"},
+
+      {"slot":"s|0","f":"sense","s":"La serveuse va ___ les clients près de la fenêtre.","en":"The waitress is going to seat the customers near the window.","a":"attabler","alts":[]},
+      {"slot":"s|0","f":"sense","s":"Le maître d'hôtel a pour habitude d'___ les invités par ordre d'arrivée.","en":"The maître d'hôtel usually seats the guests in order of arrival.","a":"attabler","alts":[]},
+      {"slot":"s|1","f":"sense","s":"Toute la famille va ___ pour le repas du dimanche.","en":"The whole family is going to sit down at the table for Sunday's meal.","a":"s'attabler","alts":[]},
+      {"slot":"s|1","f":"sense","s":"Après la messe, ils aiment ___ tous ensemble pour le déjeuner.","en":"After mass, they like to sit down together at the table for lunch.","a":"s'attabler","alts":[]}
+    ]
+  }
+]

@@ -1,0 +1,41 @@
+[
+  {
+    "id": 3690,
+    "qs": [
+      {"slot":"s|0","f":"sense","s":"Ce travail manuel est ___, mais il le fait sans se plaindre.","en":"This manual work is hard, but he does it without complaining.","a":"pénible","alts":[],"form":""},
+      {"slot":"s|0","f":"sense","s":"La randonnée de huit heures a été ___ pour les débutants.","en":"The eight-hour hike was hard for the beginners.","a":"pénible","alts":[],"form":""},
+      {"slot":"s|1","f":"sense","s":"Perdre un ami proche est une expérience vraiment ___.","en":"Losing a close friend is a truly painful experience.","a":"pénible","alts":[],"form":""},
+      {"slot":"s|1","f":"sense","s":"Il a vécu une séparation ___ après des années de vie commune.","en":"He went through a painful separation after years of life together.","a":"pénible","alts":[],"form":""},
+      {"slot":"s|2","f":"sense","s":"Arrête de te plaindre tout le temps, tu es vraiment ___ !","en":"Stop complaining all the time, you are really tiresome!","a":"pénible","alts":[],"form":""},
+      {"slot":"s|2","f":"sense","s":"Il pose toujours les mêmes questions ; il est si ___.","en":"He always asks the same questions; he is so tiresome.","a":"pénible","alts":[],"form":""},
+      {"slot":"g|mp","f":"agree","s":"Ces travaux de construction sont ___ pour les habitants du quartier.","en":"These construction works are tiresome for the neighborhood residents.","a":"pénibles","alts":[],"form":""},
+      {"slot":"g|mp","f":"agree","s":"Les efforts fournis ont été ___ mais nécessaires pour terminer le projet.","en":"The efforts made were hard but necessary to finish the project.","a":"pénibles","alts":[],"form":""},
+      {"slot":"g|f","f":"agree","s":"Cette situation est vraiment ___ à supporter au quotidien.","en":"This situation is really hard to bear on a daily basis.","a":"pénible","alts":[],"form":""},
+      {"slot":"g|f","f":"agree","s":"La longue attente aux urgences a été ___ pour les patients.","en":"The long wait in the emergency room was painful for the patients.","a":"pénible","alts":[],"form":""},
+      {"slot":"g|fp","f":"agree","s":"Ces journées de canicule sont ___ pour les personnes âgées.","en":"These heatwave days are hard on the elderly.","a":"pénibles","alts":[],"form":""},
+      {"slot":"g|fp","f":"agree","s":"Les conditions de travail dans cette usine sont jugées ___.","en":"The working conditions in this factory are deemed difficult.","a":"pénibles","alts":[],"form":""}
+    ]
+  },
+  {
+    "id": 3691,
+    "qs": [
+      {"slot":"s|0","f":"sense","s":"Toute la ville s'est préparée pour accueillir la ___ du président.","en":"The whole city prepared to welcome the president's coming.","a":"venue","alts":["arrivée"]},
+      {"slot":"s|0","f":"sense","s":"Les enfants attendaient avec impatience la ___ de leur grand-mère.","en":"The children were eagerly awaiting their grandmother's coming.","a":"venue","alts":["arrivée"]},
+      {"slot":"s|1","f":"sense","s":"Les agriculteurs espèrent que la ___ des pluies mettra fin à la sécheresse.","en":"The farmers hope that the coming of the rains will end the drought.","a":"venue","alts":[]},
+      {"slot":"s|1","f":"sense","s":"Avec la ___ de l'hiver, les températures ont chuté brutalement.","en":"With the coming of winter, temperatures dropped sharply.","a":"venue","alts":[]},
+      {"slot":"gender","f":"gender","s":"La directrice a annoncé la ___ de plusieurs nouveaux collègues la semaine prochaine.","en":"The director announced the coming of several new colleagues next week.","a":"venue","alts":[]},
+      {"slot":"gender","f":"gender","s":"C'était une ___ inattendue qui a changé le cours de la réunion.","en":"It was an unexpected coming that changed the course of the meeting.","a":"venue","alts":[]}
+    ]
+  },
+  {
+    "id": 3692,
+    "qs": [
+      {"slot":"s|0","f":"sense","s":"Les enfants jouent avec un ___ dans la cour de récréation.","en":"The children are playing with a ball in the schoolyard.","a":"ballon","alts":[],"form":""},
+      {"slot":"s|0","f":"sense","s":"Le gardien de but a attrapé le ___ au dernier moment.","en":"The goalkeeper caught the ball at the last moment.","a":"ballon","alts":[],"form":""},
+      {"slot":"s|1","f":"sense","s":"La petite fille pleure parce que son ___ s'est envolé dans le ciel.","en":"The little girl is crying because her balloon flew away into the sky.","a":"ballon","alts":[],"form":""},
+      {"slot":"s|1","f":"sense","s":"On a décoré la salle avec des ___ colorés pour la fête.","en":"We decorated the room with colorful balloons for the party.","a":"ballons","alts":[],"form":""},
+      {"slot":"gender","f":"gender","s":"J'ai acheté ___ ballon pour offrir à mon neveu.","en":"I bought a ball to give to my nephew.","a":"un","alts":[],"form":""},
+      {"slot":"gender","f":"gender","s":"___ ballon de foot traîne dans le couloir depuis ce matin.","en":"The football has been lying in the hallway since this morning.","a":"Le","alts":[],"form":""}
+    ]
+  }
+]

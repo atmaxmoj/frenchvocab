@@ -1,0 +1,43 @@
+[
+  {
+    "id": 818,
+    "qs": [
+      {"slot":"s|0","f":"sense","s":"Dans cette école, le ___ des règles est obligatoire pour tout le monde.","a":"respect","en":"In this school, respect for the rules is mandatory for everyone.","alts":[],"form":""},
+      {"slot":"s|0","f":"sense","s":"Le ___ de l'environnement est la responsabilité de chaque citoyen.","a":"respect","en":"Respect for the environment is the responsibility of every citizen.","alts":[],"form":""},
+      {"slot":"s|1","f":"sense","s":"Elle a beaucoup de ___ pour son professeur, qui l'a beaucoup aidée.","a":"respect","en":"She has a great deal of respect (esteem) for her teacher, who helped her a lot.","alts":[],"form":""},
+      {"slot":"s|1","f":"sense","s":"Les élèves ont témoigné leur ___ au directeur lors de son départ à la retraite.","a":"respect","en":"The students expressed their respect (regard) to the principal upon his retirement.","alts":[],"form":""},
+      {"slot":"gender","f":"gender","s":"Il est important de montrer ___ respect envers les personnes âgées.","a":"le","en":"It is important to show respect toward elderly people.","alts":[],"form":""},
+      {"slot":"gender","f":"gender","s":"Elle lui a rendu ___ respect qu'il méritait vraiment.","a":"le","en":"She showed him the respect he truly deserved.","alts":[],"form":""}
+    ]
+  },
+  {
+    "id": 819,
+    "qs": [
+      {"slot":"s|0","f":"sense","s":"Elle a commis un ___ affreux dont toute la ville a été choquée.","a":"crime","en":"She committed a horrible crime that shocked the whole town.","alts":[],"form":""},
+      {"slot":"s|0","f":"sense","s":"Le détective a mis des semaines à élucider ce ___ mystérieux.","a":"crime","en":"The detective spent weeks solving this mysterious crime.","alts":[],"form":""},
+      {"slot":"s|1","f":"sense","s":"Il a basculé dans le ___ à l'âge de seize ans.","a":"crime","en":"He fell into a life of crime at the age of sixteen.","alts":[],"form":""},
+      {"slot":"s|1","f":"sense","s":"La pauvreté et le chômage peuvent pousser certaines personnes vers le ___.","a":"crime","en":"Poverty and unemployment can push some people toward crime.","alts":[],"form":""},
+      {"slot":"s|2","f":"sense","s":"Le meurtre est un ___ jugé par la cour d'assises, la juridiction compétente pour les infractions les plus graves.","a":"crime","en":"Murder is a felony tried by the assize court, the court responsible for the most serious offenses.","alts":[],"form":""},
+      {"slot":"s|2","f":"sense","s":"L'accusé a été reconnu coupable d'un ___ passible de vingt ans de réclusion criminelle.","a":"crime","en":"The defendant was found guilty of a felony punishable by twenty years of criminal imprisonment.","alts":[],"form":""},
+      {"slot":"gender","f":"gender","s":"___ crime organisé est difficile à combattre pour les autorités.","a":"Le","en":"Organized crime is difficult for the authorities to combat.","alts":[],"form":""},
+      {"slot":"gender","f":"gender","s":"Il a avoué avoir commis ___ crime dans un moment de désespoir.","a":"un","en":"He admitted to having committed a crime in a moment of despair.","alts":[],"form":""}
+    ]
+  },
+  {
+    "id": 820,
+    "qs": [
+      {"slot":"s|0","f":"sense","s":"Il avait déjà essayé cette méthode lors d'une tentative ___ , mais sans succès.","a":"précédente","en":"He had already tried this method during a previous attempt, but without success.","alts":[],"form":""},
+      {"slot":"s|0","f":"sense","s":"Dans un emploi ___ , elle travaillait comme ingénieure.","a":"précédent","en":"In a previous job, she worked as an engineer.","alts":[],"form":""},
+      {"slot":"s|1","f":"sense","s":"Veuillez relire le chapitre ___ avant de continuer.","a":"précédent","en":"Please re-read the previous chapter before continuing.","alts":[],"form":""},
+      {"slot":"s|1","f":"sense","s":"Comme indiqué sur la page ___ , les résultats sont positifs.","a":"précédente","en":"As indicated on the previous page, the results are positive.","alts":[],"form":""},
+      {"slot":"s|2","f":"sense","s":"Cette décision de justice a créé un ___ important pour les affaires futures.","a":"précédent","en":"This court ruling created an important precedent for future cases.","alts":[],"form":""},
+      {"slot":"s|2","f":"sense","s":"Un tel accord commercial est sans ___ dans l'histoire de l'Union européenne.","a":"précédent","en":"Such a trade agreement is without precedent in the history of the European Union.","alts":[],"form":""},
+      {"slot":"g|mp","f":"agree","s":"Les gouvernements ___ avaient signé cet accord dès le début.","a":"précédents","en":"The previous governments had signed this agreement from the start.","alts":[],"form":""},
+      {"slot":"g|mp","f":"agree","s":"Les résultats des examens ___ ont été publiés en ligne.","a":"précédents","en":"The results of the previous exams have been published online.","alts":[],"form":""},
+      {"slot":"g|f","f":"agree","s":"La semaine ___ , nous avons organisé une réunion d'équipe.","a":"précédente","en":"The previous week, we organized a team meeting.","alts":[],"form":""},
+      {"slot":"g|f","f":"agree","s":"La génération ___ n'avait pas accès à Internet.","a":"précédente","en":"The previous generation did not have access to the Internet.","alts":[],"form":""},
+      {"slot":"g|fp","f":"agree","s":"Les éditions ___ de ce festival avaient lieu en juillet.","a":"précédentes","en":"The previous editions of this festival took place in July.","alts":[],"form":""},
+      {"slot":"g|fp","f":"agree","s":"Les tentatives ___ de réforme avaient toutes échoué.","a":"précédentes","en":"The previous attempts at reform had all failed.","alts":[],"form":""}
+    ]
+  }
+]

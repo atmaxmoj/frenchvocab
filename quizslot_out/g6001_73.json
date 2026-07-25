@@ -1,0 +1,113 @@
+[
+  {
+    "id": 5433,
+    "qs": [
+      {
+        "slot": "s|0",
+        "f": "sense",
+        "s": "Peux-tu sortir la ___ avant qu'elle ne déborde ?",
+        "a": "poubelle",
+        "en": "Can you take out the trash can before it overflows?",
+        "alts": []
+      },
+      {
+        "slot": "s|0",
+        "f": "sense",
+        "s": "Il a jeté l'emballage vide dans la ___ de la cuisine.",
+        "a": "poubelle",
+        "en": "He threw the empty packaging into the kitchen trash bin.",
+        "alts": []
+      },
+      {
+        "slot": "gender",
+        "f": "gender",
+        "s": "___ poubelle de la cuisine est déjà pleine.",
+        "a": "La",
+        "en": "The kitchen trash can is already full.",
+        "alts": []
+      },
+      {
+        "slot": "gender",
+        "f": "gender",
+        "s": "Chaque immeuble possède ___ poubelle commune dans la cour.",
+        "a": "une",
+        "en": "Each building has a shared trash can in the courtyard.",
+        "alts": []
+      }
+    ]
+  },
+  {
+    "id": 5434,
+    "qs": [
+      {
+        "slot": "s|0",
+        "f": "sense",
+        "s": "Cette théière est en ___ fine.",
+        "a": "porcelaine",
+        "en": "This teapot is made of fine porcelain.",
+        "alts": []
+      },
+      {
+        "slot": "s|0",
+        "f": "sense",
+        "s": "Il a cassé une tasse en ___ hier soir.",
+        "a": "porcelaine",
+        "en": "He broke a porcelain cup last night.",
+        "alts": []
+      },
+      {
+        "slot": "gender",
+        "f": "gender",
+        "s": "Ma grand-mère achète toujours ___ porcelaine pour ses invités.",
+        "a": "de la",
+        "en": "My grandmother always buys some porcelain for her guests.",
+        "alts": []
+      },
+      {
+        "slot": "gender",
+        "f": "gender",
+        "s": "Sophie adore ___ porcelaine ancienne.",
+        "a": "la",
+        "en": "Sophie loves antique porcelain.",
+        "alts": []
+      }
+    ]
+  },
+  {
+    "id": 5435,
+    "qs": [
+      {
+        "slot": "s|0",
+        "f": "sense",
+        "s": "Mon grand-père se déplaçait toujours en ___ dans son village.",
+        "a": "mobylette",
+        "en": "My grandfather always got around on a moped in his village.",
+        "alts": []
+      },
+      {
+        "slot": "s|0",
+        "f": "sense",
+        "s": "Elle a acheté une vieille ___ pour aller au travail chaque matin.",
+        "a": "mobylette",
+        "en": "She bought an old moped to go to work every morning.",
+        "alts": []
+      },
+      {
+        "slot": "gender",
+        "f": "gender",
+        "s": "___ mobylette de mon voisin est tombée en panne hier soir.",
+        "a": "La",
+        "en": "My neighbor's moped broke down last night.",
+        "alts": []
+      },
+      {
+        "slot": "gender",
+        "f": "gender",
+        "s": "Il a acheté ___ mobylette d'occasion pour se rendre au lycée.",
+        "a": "une",
+        "en": "He bought a used moped to get to high school.",
+        "alts": []
+      }
+    ]
+  }
+]

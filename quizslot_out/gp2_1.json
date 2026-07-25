@@ -1,0 +1,43 @@
+[
+  {
+    "id": 2454,
+    "qs": [
+      {"slot":"s|0","f":"sense","s":"La ___ d'une maison est souvent le rêve de toute une vie.","en":"Owning a house is often a lifelong dream.","a":"possession","alts":[],"form":""},
+      {"slot":"s|0","f":"sense","s":"La ___ d'un diplôme universitaire lui a ouvert de nombreuses portes.","en":"Holding a university degree opened many doors for him.","a":"possession","alts":[],"form":""},
+      {"slot":"s|1","f":"sense","s":"L'armée a pris ___ de la ville après une longue bataille.","en":"The army took possession of the city after a long battle.","a":"possession","alts":[],"form":""},
+      {"slot":"s|1","f":"sense","s":"Le propriétaire a repris ___ de son appartement à la fin du bail.","en":"The landlord reclaimed possession of his apartment at the end of the lease.","a":"possession","alts":[],"form":""},
+      {"slot":"s|2","f":"sense","s":"Ses ___ les plus précieuses sont ses livres et ses tableaux.","en":"His most precious possessions are his books and paintings.","a":"possessions","alts":[],"form":""},
+      {"slot":"s|2","f":"sense","s":"Elle a vendu toutes ses ___ avant de partir vivre à l'étranger.","en":"She sold all her possessions before going to live abroad.","a":"possessions","alts":[],"form":""},
+      {"slot":"gender","f":"gender","s":"Il est attaché à ___ possession de cette vieille montre de famille.","en":"He is attached to the possession of this old family watch.","a":"la","alts":[],"form":""},
+      {"slot":"gender","f":"gender","s":"Cette bague est ___ possession qui lui vient de sa grand-mère.","en":"This ring is a possession that comes to her from her grandmother.","a":"une","alts":[],"form":""}
+    ]
+  },
+  {
+    "id": 2455,
+    "qs": [
+      {"slot":"s|0","f":"sense","s":"Sa candidature a essuyé un ___ catégorique de la part du jury.","en":"His application suffered an outright rejection from the jury.","a":"rejet","alts":[],"form":""},
+      {"slot":"s|0","f":"sense","s":"Elle a du mal à surmonter le ___ qu'elle a ressenti après sa rupture.","en":"She struggles to overcome the rejection she felt after her breakup.","a":"rejet","alts":[],"form":""},
+      {"slot":"s|1","f":"sense","s":"Après la greffe, les médecins surveillent attentivement les signes de ___.","en":"After the transplant, the doctors closely monitor the signs of rejection.","a":"rejet","alts":[],"form":""},
+      {"slot":"s|1","f":"sense","s":"Le ___ de cet enfant par ses camarades de classe a profondément inquiété ses parents.","en":"The rejection of that child by his classmates deeply worried his parents.","a":"rejet","alts":[],"form":""},
+      {"slot":"s|2","f":"sense","s":"Le juge a ordonné le ___ de la plainte, faute de preuves suffisantes.","en":"The judge ordered the dismissal of the complaint for lack of sufficient evidence.","a":"rejet","alts":[],"form":""},
+      {"slot":"s|2","f":"sense","s":"Le ___ de l'amendement par l'Assemblée nationale a déçu les associations.","en":"The rejection of the amendment by the National Assembly disappointed the associations.","a":"rejet","alts":[],"form":""},
+      {"slot":"gender","f":"gender","s":"C'est ___ rejet douloureux qu'elle n'avait pas anticipé.","en":"It is a painful rejection that she had not anticipated.","a":"un","alts":[],"form":""},
+      {"slot":"gender","f":"gender","s":"Les médecins ont confirmé ___ rejet de la greffe dès le troisième jour.","en":"The doctors confirmed the rejection of the graft as early as the third day.","a":"le","alts":[],"form":""}
+    ]
+  },
+  {
+    "id": 2456,
+    "qs": [
+      {"slot":"s|0","f":"sense","s":"Le corps ___ de cette école compte une trentaine de professeurs.","en":"The teaching staff of this school has about thirty teachers.","a":"enseignant","alts":[],"form":""},
+      {"slot":"s|0","f":"sense","s":"La communauté ___ se réunit chaque lundi matin pour discuter des programmes.","en":"The teaching community meets every Monday morning to discuss the curricula.","a":"enseignante","alts":[],"form":""},
+      {"slot":"s|1","f":"sense","s":"Mon père est ___ dans un collège de province depuis vingt ans.","en":"My father has been a teacher at a secondary school in the provinces for twenty years.","a":"enseignant","alts":[],"form":""},
+      {"slot":"s|1","f":"sense","s":"Cette réforme touche directement les ___ du secteur public.","en":"This reform directly affects teachers in the public sector.","a":"enseignants","alts":["enseignantes"],"form":""},
+      {"slot":"g|mp","f":"agree","s":"Les élèves respectent beaucoup leurs professeurs ___ .","en":"The students greatly respect their teaching professors.","a":"enseignants","alts":[],"form":""},
+      {"slot":"g|mp","f":"agree","s":"Tous les membres ___ du lycée ont participé à la journée de formation.","en":"All the teaching members of the high school took part in the training day.","a":"enseignants","alts":[],"form":""},
+      {"slot":"g|f","f":"agree","s":"Ma mère est une femme ___ très dévouée à ses élèves.","en":"My mother is a very dedicated female teacher devoted to her students.","a":"enseignante","alts":[],"form":""},
+      {"slot":"g|f","f":"agree","s":"La population ___ de cette région manque cruellement de ressources.","en":"The teaching population of this region is critically lacking in resources.","a":"enseignante","alts":[],"form":""},
+      {"slot":"g|fp","f":"agree","s":"Les femmes ___ représentent la majorité du personnel de ce primaire.","en":"Female teachers make up the majority of the staff at this primary school.","a":"enseignantes","alts":[],"form":""},
+      {"slot":"g|fp","f":"agree","s":"Ces formatrices ___ transmettent leur passion à chaque cours.","en":"These female teaching trainers pass on their passion in every class.","a":"enseignantes","alts":[],"form":""}
+    ]
+  }
+]

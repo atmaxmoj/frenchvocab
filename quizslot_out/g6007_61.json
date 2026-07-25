@@ -1,0 +1,47 @@
+[
+  {
+    "id": 6378,
+    "qs": [
+      {"slot":"s|0","f":"sense","s":"En géométrie, un angle inférieur à 90 degrés est appelé un angle ___.","a":"aigu","en":"In geometry, an angle smaller than 90 degrees is called an acute angle.","alts":[]},
+      {"slot":"s|0","f":"sense","s":"Ce couteau a un tranchant très ___, alors fais attention en le manipulant.","a":"aigu","en":"This knife has a very sharp edge, so be careful when handling it.","alts":[]},
+      {"slot":"s|1","f":"sense","s":"Le son ___ de la sirène a réveillé tout le quartier.","a":"aigu","en":"The shrill sound of the siren woke up the whole neighborhood.","alts":[]},
+      {"slot":"s|1","f":"sense","s":"Il a poussé un cri ___ en voyant l'araignée sur le mur.","a":"aigu","en":"He let out a shrill scream upon seeing the spider on the wall.","alts":[]},
+      {"slot":"s|2","f":"sense","s":"Après l'accident, il a souffert d'un stress ___ pendant plusieurs jours.","a":"aigu","en":"After the accident, he suffered from acute stress for several days.","alts":[]},
+      {"slot":"s|2","f":"sense","s":"Il ressent un mal de dos ___ depuis ce matin.","a":"aigu","en":"He has felt an acute backache since this morning.","alts":[]},
+      {"slot":"g|mp","f":"agree","s":"Les sons ___ me dérangent beaucoup.","a":"aigus","en":"High-pitched sounds bother me a lot.","alts":[]},
+      {"slot":"g|mp","f":"agree","s":"Ces angles sont tous ___ sur le schéma.","a":"aigus","en":"These angles are all acute on the diagram.","alts":[]},
+      {"slot":"g|f","f":"agree","s":"Après l'opération, la douleur était très ___.","a":"aiguë","en":"After the operation, the pain was very acute.","alts":["aigüe"]},
+      {"slot":"g|f","f":"agree","s":"Sa voix devient ___ quand elle s'énerve.","a":"aiguë","en":"Her voice becomes shrill when she gets upset.","alts":["aigüe"]},
+      {"slot":"g|fp","f":"agree","s":"Ces douleurs sont ___ depuis hier soir.","a":"aiguës","en":"These pains have been acute since last night.","alts":["aigües"]},
+      {"slot":"g|fp","f":"agree","s":"Les crises sont de plus en plus ___ dans cette région.","a":"aiguës","en":"The crises are becoming more and more acute in this region.","alts":["aigües"]}
+    ]
+  },
+  {
+    "id": 6379,
+    "qs": [
+      {"slot":"s|0","f":"sense","s":"Ce nouvel emploi est très ___, je n'ai plus de temps libre le soir.","a":"contraignant","en":"This new job is very restrictive; I no longer have free time in the evening.","alts":[]},
+      {"slot":"s|0","f":"sense","s":"Porter cet uniforme tous les jours est assez ___.","a":"contraignant","en":"Wearing this uniform every day is quite constraining.","alts":[]},
+      {"slot":"s|1","f":"sense","s":"Ce règlement est ___ pour tous les employés.","a":"contraignant","en":"This regulation is binding for all employees.","alts":[]},
+      {"slot":"s|1","f":"sense","s":"Ce décret est ___ : il s'applique à toutes les entreprises.","a":"contraignant","en":"This decree is mandatory: it applies to all companies.","alts":[]},
+      {"slot":"g|mp","f":"agree","s":"Ces horaires sont trop ___, je préfère un emploi du temps flexible.","a":"contraignants","en":"These schedules are too restrictive; I prefer a flexible timetable.","alts":[]},
+      {"slot":"g|mp","f":"agree","s":"Les règlements de cette entreprise sont très ___.","a":"contraignants","en":"This company's regulations are very restrictive.","alts":[]},
+      {"slot":"g|f","f":"agree","s":"Cette règle est trop ___ pour être respectée facilement.","a":"contraignante","en":"This rule is too restrictive to be easily followed.","alts":[]},
+      {"slot":"g|f","f":"agree","s":"La procédure administrative est assez ___.","a":"contraignante","en":"The administrative procedure is quite restrictive.","alts":[]},
+      {"slot":"g|fp","f":"agree","s":"Ces conditions de travail sont trop ___ pour les jeunes parents.","a":"contraignantes","en":"These working conditions are too restrictive for young parents.","alts":[]},
+      {"slot":"g|fp","f":"agree","s":"Les obligations contractuelles sont très ___.","a":"contraignantes","en":"The contractual obligations are very binding.","alts":[]}
+    ]
+  },
+  {
+    "id": 6380,
+    "qs": [
+      {"slot":"s|0","f":"sense","s":"La ___ de cette dentelle faite à la main impressionne tous les visiteurs.","a":"finesse","en":"The delicacy of this handmade lace impresses all the visitors.","alts":[]},
+      {"slot":"s|0","f":"sense","s":"Cette horlogerie suisse est réputée pour la ___ de ses mécanismes.","a":"finesse","en":"This Swiss watchmaking is renowned for the delicacy of its mechanisms.","alts":[]},
+      {"slot":"s|1","f":"sense","s":"Il a analysé la situation politique avec une grande ___.","a":"finesse","en":"He analyzed the political situation with great subtlety.","alts":[]},
+      {"slot":"s|1","f":"sense","s":"Grâce à la ___ de son palais, le sommelier a détecté un arôme de vanille dans le vin.","a":"finesse","en":"Thanks to the subtlety of his palate, the sommelier detected a hint of vanilla in the wine.","alts":[]},
+      {"slot":"s|2","f":"sense","s":"Elle admire la ___ de ses poignets, si fins qu'un simple bracelet suffit à les orner.","a":"finesse","en":"She admires the slenderness of her wrists, so slim that a simple bracelet is enough to adorn them.","alts":[]},
+      {"slot":"s|2","f":"sense","s":"Ce mannequin est connu pour la ___ de sa silhouette.","a":"finesse","en":"This model is known for the slenderness of her figure.","alts":[]},
+      {"slot":"gender","f":"gender","s":"___ finesse de la dentelle prouve le talent de l'artisan qui l'a tissée.","a":"La","en":"The delicacy of the lace proves the talent of the craftsman who wove it.","alts":[]},
+      {"slot":"gender","f":"gender","s":"Ce dessin au crayon révèle ___ finesse peu commune.","a":"une","en":"This pencil drawing reveals an uncommon finesse.","alts":[]}
+    ]
+  }
+]

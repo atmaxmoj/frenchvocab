@@ -1,0 +1,150 @@
+[
+  {
+    "id": 349,
+    "qs": [
+      {
+        "slot": "s|0",
+        "f": "sense",
+        "s": "Après des heures d'attente, le train est ___ arrivé.",
+        "a": "enfin",
+        "en": "After hours of waiting, the train finally arrived (at last).",
+        "alts": []
+      },
+      {
+        "slot": "s|0",
+        "f": "sense",
+        "s": "Tu es ___ là ! Je t'attendais depuis ce matin.",
+        "a": "enfin",
+        "en": "You're finally here! I've been waiting for you since this morning.",
+        "alts": []
+      },
+      {
+        "slot": "s|1",
+        "f": "sense",
+        "s": "Après de longues négociations, les deux pays ont ___ signé un accord de paix.",
+        "a": "enfin",
+        "en": "After lengthy negotiations, the two countries ultimately signed a peace agreement.",
+        "alts": []
+      },
+      {
+        "slot": "s|1",
+        "f": "sense",
+        "s": "Le projet a duré trois ans et a ___ abouti à un résultat satisfaisant.",
+        "a": "enfin",
+        "en": "The project lasted three years and ultimately led to a satisfactory result.",
+        "alts": []
+      },
+      {
+        "slot": "s|2",
+        "f": "sense",
+        "s": "Il est intelligent, travailleur et honnête ; ___, c'est quelqu'un en qui on peut avoir confiance.",
+        "a": "enfin",
+        "en": "He is intelligent, hardworking and honest; in short, he is someone you can trust.",
+        "alts": ["bref"]
+      },
+      {
+        "slot": "s|2",
+        "f": "sense",
+        "s": "Le voyage était long, la chambre d'hôtel était bruyante et la nourriture était mauvaise ; ___, des vacances ratées.",
+        "a": "enfin",
+        "en": "The trip was long, the hotel room was noisy and the food was bad; in short, a failed vacation.",
+        "alts": ["bref"]
+      }
+    ]
+  },
+  {
+    "id": 350,
+    "qs": [
+      {
+        "slot": "s|0",
+        "f": "sense",
+        "s": "Ce restaurant est complètement ___ de celui que nous avons visité la semaine dernière.",
+        "a": "différent",
+        "en": "This restaurant is completely different from the one we visited last week.",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "s|0",
+        "f": "sense",
+        "s": "Nos deux méthodes de travail sont très ___ l'une de l'autre.",
+        "a": "différentes",
+        "en": "Our two working methods are very different from each other.",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "s|1",
+        "f": "sense",
+        "s": "Elle a exercé ___ métiers avant de devenir médecin.",
+        "a": "différents",
+        "en": "She worked in various professions before becoming a doctor.",
+        "alts": ["plusieurs", "divers"],
+        "form": ""
+      },
+      {
+        "slot": "s|1",
+        "f": "sense",
+        "s": "Il a abordé ce problème sous ___ angles lors de sa conférence.",
+        "a": "différents",
+        "en": "He approached this problem from various angles during his talk.",
+        "alts": ["plusieurs", "divers"],
+        "form": ""
+      },
+      {
+        "slot": "g|mp",
+        "f": "agree",
+        "s": "Ces deux tableaux sont peints dans des styles très ___.",
+        "a": "différents",
+        "en": "These two paintings are painted in very different styles.",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "g|mp",
+        "f": "agree",
+        "s": "Les résultats obtenus par les deux équipes sont ___ du tout.",
+        "a": "différents",
+        "en": "The results obtained by the two teams are completely different.",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "g|f",
+        "f": "agree",
+        "s": "L'approche adoptée cette année est totalement ___ de celle de l'an passé.",
+        "a": "différente",
+        "en": "The approach adopted this year is totally different from last year's.",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "g|f",
+        "f": "agree",
+        "s": "Sa personnalité est très ___ de celle de sa sœur.",
+        "a": "différente",
+        "en": "Her personality is very different from her sister's.",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "g|fp",
+        "f": "agree",
+        "s": "Les deux villes ont des atmosphères complètement ___.",
+        "a": "différentes",
+        "en": "The two cities have completely different atmospheres.",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "g|fp",
+        "f": "agree",
+        "s": "Leurs opinions sur cette question sont tout à fait ___.",
+        "a": "différentes",
+        "en": "Their opinions on this question are quite different.",
+        "alts": [],
+        "form": ""
+      }
+    ]
+  }
+]

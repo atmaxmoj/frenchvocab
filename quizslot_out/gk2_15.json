@@ -1,0 +1,39 @@
+[
+  {
+    "id": 1746,
+    "qs": [
+      {"slot":"s|0","f":"sense","s":"L'eau est ___ à la vie.","en":"Water is indispensable to life.","a":"indispensable","alts":[],"form":""},
+      {"slot":"s|0","f":"sense","s":"Cet outil est ___ pour réparer la voiture.","en":"This tool is indispensable for repairing the car.","a":"indispensable","alts":[],"form":""},
+      {"slot":"s|1","f":"sense","s":"Une bonne communication est ___ dans une équipe.","en":"Good communication is essential in a team.","a":"indispensable","alts":[],"form":""},
+      {"slot":"s|1","f":"sense","s":"Le sommeil est ___ pour la santé.","en":"Sleep is essential for health.","a":"indispensable","alts":[],"form":""},
+      {"slot":"g|mp","f":"agree","s":"Ces documents sont ___ pour obtenir le visa.","en":"These documents are essential for obtaining the visa.","a":"indispensables","alts":[],"form":""},
+      {"slot":"g|mp","f":"agree","s":"Les médicaments sont ___ pour les patients chroniques.","en":"The medications are essential for chronic patients.","a":"indispensables","alts":[],"form":""},
+      {"slot":"g|f","f":"agree","s":"La patience est une qualité ___ pour enseigner.","en":"Patience is an essential quality for teaching.","a":"indispensable","alts":[],"form":""},
+      {"slot":"g|f","f":"agree","s":"Une bonne préparation est ___ avant l'examen.","en":"Good preparation is essential before the exam.","a":"indispensable","alts":[],"form":""},
+      {"slot":"g|fp","f":"agree","s":"Des connaissances de base sont ___ pour commencer ce cours.","en":"Basic knowledge is essential to start this course.","a":"indispensables","alts":[],"form":""},
+      {"slot":"g|fp","f":"agree","s":"Ces compétences techniques sont ___ pour ce poste.","en":"These technical skills are essential for this position.","a":"indispensables","alts":[],"form":""}
+    ]
+  },
+  {
+    "id": 1747,
+    "qs": [
+      {"slot":"s|0","f":"sense","s":"Nous avons eu une longue ___ autour d'un café ce matin.","en":"We had a long chat over a coffee this morning.","a":"conversation","alts":[],"form":""},
+      {"slot":"s|0","f":"sense","s":"J'ai interrompu leur ___ parce que le dîner était prêt.","en":"I interrupted their chat because dinner was ready.","a":"conversation","alts":[],"form":""},
+      {"slot":"s|1","f":"sense","s":"Les deux présidents ont engagé une ___ diplomatique pour résoudre le conflit.","en":"The two presidents engaged in a diplomatic dialogue to resolve the conflict.","a":"conversation","alts":[],"form":""},
+      {"slot":"s|1","f":"sense","s":"Ce roman est écrit entièrement sous forme de ___ entre deux personnages.","en":"This novel is written entirely in the form of a dialogue between two characters.","a":"conversation","alts":[],"form":""},
+      {"slot":"gender","f":"gender","s":"Il a entamé ___ conversation avec son voisin dans le train.","en":"He struck up a conversation with his neighbour on the train.","a":"une","alts":[],"form":""},
+      {"slot":"gender","f":"gender","s":"___ conversation que nous avons eue hier m'a beaucoup appris.","en":"The conversation we had yesterday taught me a lot.","a":"La","alts":[],"form":""}
+    ]
+  },
+  {
+    "id": 1748,
+    "qs": [
+      {"slot":"s|0","f":"sense","s":"La ___ de la table est très lisse.","en":"The surface of the table is very smooth.","a":"surface","alts":[],"form":""},
+      {"slot":"s|0","f":"sense","s":"Les astronautes ont marché sur la ___ de la Lune.","en":"The astronauts walked on the surface of the Moon.","a":"surface","alts":[],"form":""},
+      {"slot":"s|1","f":"sense","s":"Cet appartement a une ___ de soixante mètres carrés.","en":"This apartment has a surface area of sixty square meters.","a":"surface","alts":["superficie"],"form":""},
+      {"slot":"s|1","f":"sense","s":"Quelle est la ___ totale de ce terrain ?","en":"What is the total surface area of this plot of land?","a":"surface","alts":["superficie"],"form":""},
+      {"slot":"gender","f":"gender","s":"Il a nettoyé ___ surface du bureau avec soin.","en":"He carefully cleaned the surface of the desk.","a":"la","alts":[],"form":""},
+      {"slot":"gender","f":"gender","s":"___ surface de l'eau reflétait les nuages.","en":"The surface of the water reflected the clouds.","a":"La","alts":[],"form":""}
+    ]
+  }
+]

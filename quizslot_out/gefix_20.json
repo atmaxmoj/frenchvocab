@@ -1,0 +1,209 @@
+[
+  {
+    "id": 827,
+    "qs": [
+      {
+        "slot": "s|0",
+        "f": "sense",
+        "s": "Elle est tombée malade, alors elle a pris rendez-vous chez le ___ .",
+        "a": "médecin",
+        "en": "She fell ill, so she made an appointment with the doctor.",
+        "alts": ["docteur"],
+        "form": ""
+      },
+      {
+        "slot": "s|0",
+        "f": "sense",
+        "s": "Mon ___ m'a conseillé de me reposer pendant une semaine.",
+        "a": "médecin",
+        "en": "My doctor advised me to rest for a week.",
+        "alts": ["docteur"],
+        "form": ""
+      },
+      {
+        "slot": "s|1",
+        "f": "sense",
+        "s": "Pour exercer cette profession, il faut être ___ diplômé.",
+        "a": "médecin",
+        "en": "To practice this profession, one must be a qualified physician.",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "s|1",
+        "f": "sense",
+        "s": "Le rapport indique que chaque ___ doit respecter le secret médical.",
+        "a": "médecin",
+        "en": "The report states that every physician must respect medical confidentiality.",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "gender",
+        "f": "gender",
+        "s": "Paul veut devenir ___ médecin quand il sera grand.",
+        "a": "un",
+        "en": "Paul wants to become a doctor when he grows up.",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "gender",
+        "f": "gender",
+        "s": "___ médecin de famille nous suit depuis des années.",
+        "a": "Le",
+        "en": "The family doctor has been looking after us for years.",
+        "alts": [],
+        "form": ""
+      }
+    ]
+  },
+  {
+    "id": 828,
+    "qs": [
+      {
+        "slot": "s|0",
+        "f": "sense",
+        "s": "Le gouvernement ___ a adopté un nouveau budget cette année.",
+        "a": "fédéral",
+        "en": "The federal government adopted a new budget this year.",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "s|0",
+        "f": "sense",
+        "s": "L'agent du Bureau ___ a mené l'enquête pendant plusieurs mois.",
+        "a": "fédéral",
+        "en": "The federal bureau's agent led the investigation for several months.",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "s|1",
+        "f": "sense",
+        "s": "Certains pays adoptent un modèle ___ pour mieux répartir les pouvoirs entre régions.",
+        "a": "fédéral",
+        "en": "Some countries adopt a federal model to better distribute power among regions.",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "s|1",
+        "f": "sense",
+        "s": "Le système ___ permet aux États membres de conserver une large autonomie.",
+        "a": "fédéral",
+        "en": "The federal system allows member states to retain broad autonomy.",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "g|mp",
+        "f": "agree",
+        "s": "Les États ___ disposent chacun de leur propre constitution.",
+        "a": "fédéraux",
+        "en": "The federal states each have their own constitution.",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "g|mp",
+        "f": "agree",
+        "s": "Les tribunaux ___ sont compétents pour les affaires qui dépassent les frontières régionales.",
+        "a": "fédéraux",
+        "en": "Federal courts have jurisdiction over cases that cross regional boundaries.",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "g|f",
+        "f": "agree",
+        "s": "La loi ___ interdit toute discrimination fondée sur l'origine ethnique.",
+        "a": "fédérale",
+        "en": "The federal law prohibits any discrimination based on ethnic origin.",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "g|f",
+        "f": "agree",
+        "s": "La capitale ___ accueille chaque année des délégations du monde entier.",
+        "a": "fédérale",
+        "en": "The federal capital welcomes delegations from around the world every year.",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "g|fp",
+        "f": "agree",
+        "s": "Les autorités ___ ont annoncé un plan de relance économique.",
+        "a": "fédérales",
+        "en": "The federal authorities announced an economic recovery plan.",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "g|fp",
+        "f": "agree",
+        "s": "Les élections ___ auront lieu au mois de novembre prochain.",
+        "a": "fédérales",
+        "en": "The federal elections will take place next November.",
+        "alts": [],
+        "form": ""
+      }
+    ]
+  },
+  {
+    "id": 829,
+    "qs": [
+      {
+        "slot": "s|0",
+        "f": "sense",
+        "s": "Quand il a vu l'agression, il a tout de suite appelé ___ .",
+        "a": "la police",
+        "en": "When he saw the assault, he immediately called the police.",
+        "alts": []
+      },
+      {
+        "slot": "s|0",
+        "f": "sense",
+        "s": "___ est arrivée en moins de cinq minutes après l'appel d'urgence.",
+        "a": "La police",
+        "en": "The police arrived in less than five minutes after the emergency call.",
+        "alts": []
+      },
+      {
+        "slot": "s|1",
+        "f": "sense",
+        "s": "___ a ouvert une enquête sur le vol commis la nuit dernière.",
+        "a": "La police",
+        "en": "The police (as an authority) opened an investigation into the theft committed last night.",
+        "alts": []
+      },
+      {
+        "slot": "s|1",
+        "f": "sense",
+        "s": "Selon le communiqué officiel, ___ a identifié le principal suspect.",
+        "a": "la police",
+        "en": "According to the official statement, the police authorities identified the main suspect.",
+        "alts": []
+      },
+      {
+        "slot": "gender",
+        "f": "gender",
+        "s": "Dans notre ville, ___ police locale collabore étroitement avec la mairie.",
+        "a": "la",
+        "en": "In our city, the local police work closely with the town hall.",
+        "alts": []
+      },
+      {
+        "slot": "gender",
+        "f": "gender",
+        "s": "Il rêve de rejoindre ___ police nationale quand il sera grand.",
+        "a": "la",
+        "en": "He dreams of joining the national police when he grows up.",
+        "alts": []
+      }
+    ]
+  }
+]

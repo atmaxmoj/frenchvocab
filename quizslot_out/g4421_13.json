@@ -1,0 +1,43 @@
+[
+  {
+    "id": 4460,
+    "qs": [
+      {"slot":"s|0","f":"sense","s":"Il m'a laissé une note ___ sur la table avant de partir.","en":"He left me a handwritten note on the table before leaving.","a":"manuscrite","alts":[],"form":""},
+      {"slot":"s|0","f":"sense","s":"Elle préfère envoyer des lettres ___ plutôt que des e-mails.","en":"She prefers sending handwritten letters rather than emails.","a":"manuscrites","alts":[],"form":""},
+      {"slot":"s|1","f":"sense","s":"Les chercheurs ont découvert un texte ___ du XVe siècle dans la bibliothèque.","en":"Researchers discovered a manuscript text from the 15th century in the library.","a":"manuscrit","alts":[],"form":""},
+      {"slot":"s|1","f":"sense","s":"Ces pages ___ appartiennent au premier roman de Flaubert.","en":"These manuscript pages belong to Flaubert's first novel.","a":"manuscrites","alts":[],"form":""},
+      {"slot":"g|mp","f":"agree","s":"Le musée conserve plusieurs documents ___ très anciens.","en":"The museum preserves several very old manuscript documents.","a":"manuscrits","alts":[],"form":""},
+      {"slot":"g|mp","f":"agree","s":"Les textes ___ sont difficiles à lire pour les non-initiés.","en":"Manuscript texts are difficult to read for non-specialists.","a":"manuscrits","alts":[],"form":""},
+      {"slot":"g|f","f":"agree","s":"Il a retrouvé une lettre ___ de sa grand-mère dans un vieux tiroir.","en":"He found a handwritten letter from his grandmother in an old drawer.","a":"manuscrite","alts":[],"form":""},
+      {"slot":"g|f","f":"agree","s":"La dédicace ___ de l'auteur rend ce livre particulièrement précieux.","en":"The handwritten dedication from the author makes this book particularly precious.","a":"manuscrite","alts":[],"form":""},
+      {"slot":"g|fp","f":"agree","s":"Ces annotations ___ en marge du livre révèlent la pensée de l'écrivain.","en":"These handwritten annotations in the margin of the book reveal the writer's thoughts.","a":"manuscrites","alts":[],"form":""},
+      {"slot":"g|fp","f":"agree","s":"Les corrections ___ sur le manuscrit original montrent son perfectionnisme.","en":"The handwritten corrections on the original manuscript show his perfectionism.","a":"manuscrites","alts":[],"form":""}
+    ]
+  },
+  {
+    "id": 4461,
+    "qs": [
+      {"slot":"s|0","f":"sense","s":"Le joueur a lancé le ballon dans le ___ et a marqué deux points.","en":"The player threw the ball into the basket and scored two points.","a":"panier","alts":[],"form":""},
+      {"slot":"s|0","f":"sense","s":"Elle a tressé un ___ en osier pour y ranger des fruits.","en":"She wove a wicker basket to store fruit in.","a":"panier","alts":[],"form":""},
+      {"slot":"s|1","f":"sense","s":"Elle a ajouté plusieurs articles dans son ___ avant de passer à la caisse en ligne.","en":"She added several items to her shopping cart before checking out online.","a":"panier","alts":[],"form":""},
+      {"slot":"s|1","f":"sense","s":"Mon ___ de courses est presque plein, je dois bientôt payer.","en":"My shopping basket is almost full, I need to pay soon.","a":"panier","alts":[],"form":""},
+      {"slot":"gender","f":"gender","s":"Elle a posé ___ panier sur la table de la cuisine.","en":"She put the basket on the kitchen table.","a":"le","alts":[],"form":""},
+      {"slot":"gender","f":"gender","s":"Il a acheté ___ panier en bambou au marché.","en":"He bought a bamboo basket at the market.","a":"un","alts":[],"form":""}
+    ]
+  },
+  {
+    "id": 4462,
+    "qs": [
+      {"slot":"s|0","f":"sense","s":"Appuie sur ce ___ pour ouvrir la porte.","en":"Press this button to open the door.","a":"bouton","alts":[],"form":""},
+      {"slot":"s|0","f":"sense","s":"Elle a appuyé sur le ___ de l'ascenseur pour monter au cinquième étage.","en":"She pressed the elevator button to go up to the fifth floor.","a":"bouton","alts":[],"form":""},
+      {"slot":"s|1","f":"sense","s":"Tourne le ___ pour augmenter le volume de la radio.","en":"Turn the knob to increase the radio volume.","a":"bouton","alts":[],"form":""},
+      {"slot":"s|1","f":"sense","s":"Le ___ du chauffage est cassé, on ne peut plus régler la température.","en":"The heating knob is broken; we can no longer adjust the temperature.","a":"bouton","alts":[],"form":""},
+      {"slot":"s|2","f":"sense","s":"Il manque un ___ à ta chemise.","en":"There is a button missing from your shirt.","a":"bouton","alts":[],"form":""},
+      {"slot":"s|2","f":"sense","s":"Ma grand-mère a cousu un ___ sur mon manteau pour remplacer celui qui était tombé.","en":"My grandmother sewed a button on my coat to replace the one that had fallen off.","a":"bouton","alts":[],"form":""},
+      {"slot":"s|3","f":"sense","s":"Il a un ___ sur le front depuis ce matin.","en":"He has had a spot on his forehead since this morning.","a":"bouton","alts":[],"form":""},
+      {"slot":"s|3","f":"sense","s":"Elle ne voulait pas aller à la fête parce qu'elle avait un gros ___ sur le nez.","en":"She didn't want to go to the party because she had a big spot on her nose.","a":"bouton","alts":[],"form":""},
+      {"slot":"gender","f":"gender","s":"Pour allumer la lumière, appuie sur ___ bouton rouge au mur.","en":"To turn on the light, press the red button on the wall.","a":"le","alts":[],"form":""},
+      {"slot":"gender","f":"gender","s":"J'ai perdu ___ bouton de ma veste ce matin.","en":"I lost a button from my jacket this morning.","a":"un","alts":[],"form":""}
+    ]
+  }
+]

@@ -1,0 +1,53 @@
+[
+  {
+    "id": 2531,
+    "qs": [
+      {"slot":"s|0","f":"sense","s":"Cette photocopie n'est pas ___ à l'original ; il manque une page.","a":"conforme","en":"This photocopy does not match the original; a page is missing.","alts":[],"form":""},
+      {"slot":"s|0","f":"sense","s":"Le produit livré est ___ au modèle présenté en vitrine.","a":"conforme","en":"The delivered product matches the model displayed in the window.","alts":[],"form":""},
+      {"slot":"s|1","f":"sense","s":"Sa réaction était tout à fait ___ à ce que nous attendions de lui.","a":"conforme","en":"His reaction was entirely consistent with what we expected of him.","alts":[],"form":""},
+      {"slot":"s|1","f":"sense","s":"Cette décision est ___ aux valeurs que défend notre organisation.","a":"conforme","en":"This decision is consistent with the values our organization upholds.","alts":[],"form":""},
+      {"slot":"s|2","f":"sense","s":"L'installation électrique doit être ___ aux normes en vigueur.","a":"conforme","en":"The electrical installation must comply with the regulations in force.","alts":[],"form":""},
+      {"slot":"s|2","f":"sense","s":"Votre dossier sera accepté uniquement s'il est ___ au règlement intérieur.","a":"conforme","en":"Your file will be accepted only if it complies with the internal regulations.","alts":[],"form":""},
+      {"slot":"g|mp","f":"agree","s":"Les résultats obtenus sont ___ aux objectifs fixés au début de l'année.","a":"conformes","en":"The results obtained are in conformity with the objectives set at the beginning of the year.","alts":[],"form":""},
+      {"slot":"g|mp","f":"agree","s":"Ces documents doivent être ___ aux standards internationaux pour être acceptés.","a":"conformes","en":"These documents must comply with international standards to be accepted.","alts":[],"form":""},
+      {"slot":"g|f","f":"agree","s":"La traduction est ___ au texte source, sans aucune omission.","a":"conforme","en":"The translation matches the source text, with no omissions.","alts":[],"form":""},
+      {"slot":"g|f","f":"agree","s":"Cette procédure est ___ à la directive européenne publiée l'an dernier.","a":"conforme","en":"This procedure is compliant with the European directive published last year.","alts":[],"form":""},
+      {"slot":"g|fp","f":"agree","s":"Les pièces jointes doivent être ___ aux exigences mentionnées dans le formulaire.","a":"conformes","en":"The attachments must comply with the requirements stated in the form.","alts":[],"form":""},
+      {"slot":"g|fp","f":"agree","s":"Toutes les installations seront déclarées ___ après le contrôle technique.","a":"conformes","en":"All installations will be declared compliant after the technical inspection.","alts":[],"form":""}
+    ]
+  },
+  {
+    "id": 2532,
+    "qs": [
+      {"slot":"s|0","f":"sense","s":"Il a été nommé directeur ___ du département des ressources humaines.","a":"adjoint","en":"He was appointed assistant director of the human resources department.","alts":[],"form":""},
+      {"slot":"s|0","f":"sense","s":"Elle travaille comme professeure ___ à l'université depuis trois ans.","a":"adjointe","en":"She has been working as an assistant professor at the university for three years.","alts":[],"form":""},
+      {"slot":"s|1","f":"sense","s":"Le maire ___ a présidé la réunion en l'absence du maire.","a":"adjoint","en":"The deputy mayor chaired the meeting in the absence of the mayor.","alts":[],"form":""},
+      {"slot":"s|1","f":"sense","s":"La directrice ___ a pris les décisions importantes pendant le congé de son supérieur.","a":"adjointe","en":"The deputy director made the important decisions during her superior's leave.","alts":[],"form":""},
+      {"slot":"s|2","f":"sense","s":"Son ___ s'occupe de la gestion quotidienne des dossiers.","a":"adjoint","en":"His assistant handles the day-to-day management of the files.","alts":["adjointe"],"form":""},
+      {"slot":"s|2","f":"sense","s":"Le ministre a confié cette mission à l'un de ses ___ .","a":"adjoints","en":"The minister entrusted this mission to one of his deputies.","alts":[],"form":""},
+      {"slot":"g|mp","f":"agree","s":"Les deux directeurs ___ ont signé le rapport ensemble.","a":"adjoints","en":"The two assistant directors signed the report together.","alts":[],"form":""},
+      {"slot":"g|mp","f":"agree","s":"Les professeurs ___ participeront à la conférence la semaine prochaine.","a":"adjoints","en":"The assistant professors will participate in the conference next week.","alts":[],"form":""},
+      {"slot":"g|f","f":"agree","s":"La secrétaire ___ a organisé toute la cérémonie avec beaucoup de soin.","a":"adjointe","en":"The assistant secretary organized the entire ceremony with great care.","alts":[],"form":""},
+      {"slot":"g|f","f":"agree","s":"La maire ___ représente la ville lors des événements officiels.","a":"adjointe","en":"The deputy mayor represents the city at official events.","alts":[],"form":""},
+      {"slot":"g|fp","f":"agree","s":"Les directrices ___ ont présenté leurs propositions au conseil d'administration.","a":"adjointes","en":"The deputy directors presented their proposals to the board of directors.","alts":[],"form":""},
+      {"slot":"g|fp","f":"agree","s":"Les professeures ___ de cette faculté publient régulièrement des articles de recherche.","a":"adjointes","en":"The assistant professors of this faculty regularly publish research articles.","alts":[],"form":""}
+    ]
+  },
+  {
+    "id": 2533,
+    "qs": [
+      {"slot":"s|0","f":"sense","s":"La décision ___ appartient au juge, et personne ne peut la contester.","a":"ultime","en":"The definitive (ultimate) decision belongs to the judge, and no one can contest it.","alts":[],"form":""},
+      {"slot":"s|0","f":"sense","s":"Leur ___ objectif est de parvenir à un accord de paix durable.","a":"ultime","en":"Their ultimate objective is to reach a lasting peace agreement.","alts":[],"form":""},
+      {"slot":"s|1","f":"sense","s":"C'est sa ___ chance de rattraper son retard avant la fin du semestre.","a":"ultime","en":"It is her last chance to catch up before the end of the semester.","alts":[],"form":""},
+      {"slot":"s|1","f":"sense","s":"Il a prononcé ses ___ mots avant de quitter la scène pour toujours.","a":"ultimes","en":"He spoke his last words before leaving the stage forever.","alts":[],"form":""},
+      {"slot":"s|2","f":"sense","s":"Ce restaurant représente l'expérience ___ de la gastronomie française.","a":"ultime","en":"This restaurant represents the ultimate experience of French gastronomy.","alts":[],"form":""},
+      {"slot":"s|2","f":"sense","s":"Pour beaucoup de surfeurs, attraper cette vague géante est le défi ___.","a":"ultime","en":"For many surfers, catching that giant wave is the ultimate challenge.","alts":[],"form":""},
+      {"slot":"g|mp","f":"agree","s":"Les préparatifs ___ avant le lancement de la fusée sont en cours.","a":"ultimes","en":"The final preparations before the rocket launch are underway.","alts":[],"form":""},
+      {"slot":"g|mp","f":"agree","s":"Les négociateurs ont fait des efforts ___ pour éviter la rupture des pourparlers.","a":"ultimes","en":"The negotiators made ultimate efforts to avoid the breakdown of talks.","alts":[],"form":""},
+      {"slot":"g|f","f":"agree","s":"La tentative ___ de sauvetage a été lancée à l'aube.","a":"ultime","en":"The ultimate rescue attempt was launched at dawn.","alts":[],"form":""},
+      {"slot":"g|f","f":"agree","s":"Cette étape ___ du parcours est la plus difficile de toute l'épreuve.","a":"ultime","en":"This final stage of the course is the hardest of the entire event.","alts":[],"form":""},
+      {"slot":"g|fp","f":"agree","s":"Les autorités ont pris des mesures ___ pour contenir la propagation du virus.","a":"ultimes","en":"The authorities took ultimate measures to contain the spread of the virus.","alts":[],"form":""},
+      {"slot":"g|fp","f":"agree","s":"Les équipes de secours ont lancé leurs interventions ___ avant la tombée de la nuit.","a":"ultimes","en":"The rescue teams launched their final interventions before nightfall.","alts":[],"form":""}
+    ]
+  }
+]

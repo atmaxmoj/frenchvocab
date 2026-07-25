@@ -1,0 +1,677 @@
+[
+  {
+    "id": 1208,
+    "qs": [
+      {
+        "slot": "s|0",
+        "f": "sense",
+        "s": "Les vacances d'été arrivent ___, il faut préparer les valises.",
+        "a": "bientôt",
+        "en": "Summer vacation is coming soon, we need to prepare the suitcases.",
+        "alts": ["prochainement"]
+      },
+      {
+        "slot": "s|0",
+        "f": "sense",
+        "s": "Il fera ___ nuit, rentrons avant qu'il fasse trop sombre.",
+        "a": "bientôt",
+        "en": "It will be dark soon, let's go back before it gets too dark.",
+        "alts": []
+      },
+      {
+        "slot": "s|1",
+        "f": "sense",
+        "s": "Ne t'inquiète pas, tu t'y habitueras ___ à ta nouvelle école.",
+        "a": "bientôt",
+        "en": "Don't worry, you'll get used to your new school very quickly.",
+        "alts": ["vite"]
+      },
+      {
+        "slot": "s|1",
+        "f": "sense",
+        "s": "Avec un peu de pratique, tu maîtriseras ___ cette technique.",
+        "a": "bientôt",
+        "en": "With a little practice, you'll master this technique very quickly.",
+        "alts": ["vite"]
+      },
+      {
+        "slot": "s|2",
+        "f": "sense",
+        "s": "Dépêche-toi, le concert va ___ commencer !",
+        "a": "bientôt",
+        "en": "Hurry up, the concert is about to start!",
+        "alts": []
+      },
+      {
+        "slot": "s|2",
+        "f": "sense",
+        "s": "Reste là, je reviens ___ !",
+        "a": "bientôt",
+        "en": "Stay there, I'll be right back!",
+        "alts": []
+      }
+    ]
+  },
+  {
+    "id": 1209,
+    "qs": [
+      {
+        "slot": "t|Présent|0",
+        "f": "tense",
+        "s": "Chaque matin, j'___ les données recueillies la veille.",
+        "a": "analyse",
+        "en": "Every morning, I analyse the data collected the day before.",
+        "alts": [],
+        "form": "Présent"
+      },
+      {
+        "slot": "t|Présent|0",
+        "f": "tense",
+        "s": "Le médecin ___ les résultats des examens avec soin.",
+        "a": "analyse",
+        "en": "The doctor analyses the test results carefully.",
+        "alts": [],
+        "form": "Présent"
+      },
+      {
+        "slot": "t|Présent|1",
+        "f": "tense",
+        "s": "Tu ___ la situation avant de prendre une décision ?",
+        "a": "analyses",
+        "en": "Are you analysing the situation before making a decision?",
+        "alts": [],
+        "form": "Présent"
+      },
+      {
+        "slot": "t|Présent|1",
+        "f": "tense",
+        "s": "Tu ___ ce texte pour le cours de demain ?",
+        "a": "analyses",
+        "en": "Are you analysing this text for tomorrow's class?",
+        "alts": [],
+        "form": "Présent"
+      },
+      {
+        "slot": "t|Présent|2",
+        "f": "tense",
+        "s": "Nous ___ les résultats en équipe chaque semaine.",
+        "a": "analysons",
+        "en": "We analyse the results as a team every week.",
+        "alts": [],
+        "form": "Présent"
+      },
+      {
+        "slot": "t|Présent|2",
+        "f": "tense",
+        "s": "En ce moment, nous ___ les causes de l'échec du projet.",
+        "a": "analysons",
+        "en": "Right now, we are analysing the causes of the project's failure.",
+        "alts": [],
+        "form": "Présent"
+      },
+      {
+        "slot": "t|Présent|3",
+        "f": "tense",
+        "s": "Est-ce que vous ___ les données avant de rédiger le rapport ?",
+        "a": "analysez",
+        "en": "Do you analyse the data before writing the report?",
+        "alts": [],
+        "form": "Présent"
+      },
+      {
+        "slot": "t|Présent|3",
+        "f": "tense",
+        "s": "Vous ___ chaque argument des deux côtés.",
+        "a": "analysez",
+        "en": "You analyse every argument on both sides.",
+        "alts": [],
+        "form": "Présent"
+      },
+      {
+        "slot": "t|Présent|4",
+        "f": "tense",
+        "s": "Les chercheurs ___ les échantillons au laboratoire.",
+        "a": "analysent",
+        "en": "The researchers analyse the samples in the laboratory.",
+        "alts": [],
+        "form": "Présent"
+      },
+      {
+        "slot": "t|Présent|4",
+        "f": "tense",
+        "s": "Elles ___ le comportement des consommateurs pour mieux cibler leurs clients.",
+        "a": "analysent",
+        "en": "They analyse consumer behaviour to better target their customers.",
+        "alts": [],
+        "form": "Présent"
+      },
+      {
+        "slot": "t|Passé composé|0",
+        "f": "tense",
+        "s": "J'___ les statistiques avant de rédiger ma conclusion.",
+        "a": "ai analysé",
+        "en": "I analysed the statistics before writing my conclusion.",
+        "alts": [],
+        "form": "Passé composé"
+      },
+      {
+        "slot": "t|Passé composé|0",
+        "f": "tense",
+        "s": "Hier soir, j'___ les données du sondage.",
+        "a": "ai analysé",
+        "en": "Last night, I analysed the survey data.",
+        "alts": [],
+        "form": "Passé composé"
+      },
+      {
+        "slot": "t|Passé composé|1",
+        "f": "tense",
+        "s": "Tu ___ ce problème et tu as trouvé la solution ?",
+        "a": "as analysé",
+        "en": "Did you analyse this problem and find the solution?",
+        "alts": [],
+        "form": "Passé composé"
+      },
+      {
+        "slot": "t|Passé composé|1",
+        "f": "tense",
+        "s": "Tu ___ toutes les options avant de choisir ?",
+        "a": "as analysé",
+        "en": "Did you analyse all the options before choosing?",
+        "alts": [],
+        "form": "Passé composé"
+      },
+      {
+        "slot": "t|Passé composé|2",
+        "f": "tense",
+        "s": "Le scientifique ___ les résultats de l'expérience hier matin.",
+        "a": "a analysé",
+        "en": "The scientist analysed the results of the experiment yesterday morning.",
+        "alts": [],
+        "form": "Passé composé"
+      },
+      {
+        "slot": "t|Passé composé|2",
+        "f": "tense",
+        "s": "On ___ les causes de l'accident et on a rédigé un rapport.",
+        "a": "a analysé",
+        "en": "We analysed the causes of the accident and wrote a report.",
+        "alts": [],
+        "form": "Passé composé"
+      },
+      {
+        "slot": "t|Passé composé|3",
+        "f": "tense",
+        "s": "Nous ___ les données et nous avons présenté nos conclusions.",
+        "a": "avons analysé",
+        "en": "We analysed the data and presented our conclusions.",
+        "alts": [],
+        "form": "Passé composé"
+      },
+      {
+        "slot": "t|Passé composé|3",
+        "f": "tense",
+        "s": "Hier, nous ___ chaque clause du contrat.",
+        "a": "avons analysé",
+        "en": "Yesterday, we analysed every clause of the contract.",
+        "alts": [],
+        "form": "Passé composé"
+      },
+      {
+        "slot": "t|Passé composé|4",
+        "f": "tense",
+        "s": "Vous ___ les risques avant de lancer le projet ?",
+        "a": "avez analysé",
+        "en": "Did you analyse the risks before launching the project?",
+        "alts": [],
+        "form": "Passé composé"
+      },
+      {
+        "slot": "t|Passé composé|4",
+        "f": "tense",
+        "s": "Vous ___ les résultats du test hier ?",
+        "a": "avez analysé",
+        "en": "Did you analyse the test results yesterday?",
+        "alts": [],
+        "form": "Passé composé"
+      },
+      {
+        "slot": "t|Passé composé|5",
+        "f": "tense",
+        "s": "Les experts ___ les images satellite pour identifier la zone touchée.",
+        "a": "ont analysé",
+        "en": "The experts analysed the satellite images to identify the affected area.",
+        "alts": [],
+        "form": "Passé composé"
+      },
+      {
+        "slot": "t|Passé composé|5",
+        "f": "tense",
+        "s": "Elles ___ les données et ont publié leur étude.",
+        "a": "ont analysé",
+        "en": "They analysed the data and published their study.",
+        "alts": [],
+        "form": "Passé composé"
+      },
+      {
+        "slot": "t|Imparfait|0",
+        "f": "tense",
+        "s": "Quand j'étais étudiant, j'___ souvent les textes philosophiques.",
+        "a": "analysais",
+        "en": "When I was a student, I often analysed philosophical texts.",
+        "alts": [],
+        "form": "Imparfait"
+      },
+      {
+        "slot": "t|Imparfait|0",
+        "f": "tense",
+        "s": "Tu ___ les données pendant que je rédigeais le rapport.",
+        "a": "analysais",
+        "en": "You were analysing the data while I was writing the report.",
+        "alts": [],
+        "form": "Imparfait"
+      },
+      {
+        "slot": "t|Imparfait|1",
+        "f": "tense",
+        "s": "Le chercheur ___ les résultats quand la machine est tombée en panne.",
+        "a": "analysait",
+        "en": "The researcher was analysing the results when the machine broke down.",
+        "alts": [],
+        "form": "Imparfait"
+      },
+      {
+        "slot": "t|Imparfait|1",
+        "f": "tense",
+        "s": "Elle ___ toujours les problèmes avec méthode.",
+        "a": "analysait",
+        "en": "She always analysed problems methodically.",
+        "alts": [],
+        "form": "Imparfait"
+      },
+      {
+        "slot": "t|Imparfait|2",
+        "f": "tense",
+        "s": "Nous ___ les chiffres ensemble chaque vendredi matin.",
+        "a": "analysions",
+        "en": "We used to analyse the figures together every Friday morning.",
+        "alts": [],
+        "form": "Imparfait"
+      },
+      {
+        "slot": "t|Imparfait|2",
+        "f": "tense",
+        "s": "À l'époque, nous ___ chaque risque potentiel avant de décider.",
+        "a": "analysions",
+        "en": "At the time, we used to analyse every potential risk before deciding.",
+        "alts": [],
+        "form": "Imparfait"
+      },
+      {
+        "slot": "t|Imparfait|3",
+        "f": "tense",
+        "s": "Vous ___ les résultats avec votre superviseur chaque semaine.",
+        "a": "analysiez",
+        "en": "You used to analyse the results with your supervisor every week.",
+        "alts": [],
+        "form": "Imparfait"
+      },
+      {
+        "slot": "t|Imparfait|3",
+        "f": "tense",
+        "s": "Vous ___ le marché quand la crise a éclaté.",
+        "a": "analysiez",
+        "en": "You were analysing the market when the crisis broke out.",
+        "alts": [],
+        "form": "Imparfait"
+      },
+      {
+        "slot": "t|Imparfait|4",
+        "f": "tense",
+        "s": "Les techniciens ___ les données en temps réel lors de l'incident.",
+        "a": "analysaient",
+        "en": "The technicians were analysing the data in real time during the incident.",
+        "alts": [],
+        "form": "Imparfait"
+      },
+      {
+        "slot": "t|Imparfait|4",
+        "f": "tense",
+        "s": "Ils ___ les résultats pendant des heures sans trouver d'erreur.",
+        "a": "analysaient",
+        "en": "They were analysing the results for hours without finding an error.",
+        "alts": [],
+        "form": "Imparfait"
+      },
+      {
+        "slot": "t|Futur|0",
+        "f": "tense",
+        "s": "Demain matin, j'___ les résultats du sondage.",
+        "a": "analyserai",
+        "en": "Tomorrow morning, I will analyse the survey results.",
+        "alts": [],
+        "form": "Futur"
+      },
+      {
+        "slot": "t|Futur|0",
+        "f": "tense",
+        "s": "J'___ chaque hypothèse avant de rendre mon rapport.",
+        "a": "analyserai",
+        "en": "I will analyse every hypothesis before submitting my report.",
+        "alts": [],
+        "form": "Futur"
+      },
+      {
+        "slot": "t|Futur|1",
+        "f": "tense",
+        "s": "Tu ___ ces données demain matin avec ton équipe ?",
+        "a": "analyseras",
+        "en": "Will you analyse this data tomorrow morning with your team?",
+        "alts": [],
+        "form": "Futur"
+      },
+      {
+        "slot": "t|Futur|1",
+        "f": "tense",
+        "s": "Tu ___ les résultats dès que tu auras terminé l'expérience.",
+        "a": "analyseras",
+        "en": "You will analyse the results as soon as you have finished the experiment.",
+        "alts": [],
+        "form": "Futur"
+      },
+      {
+        "slot": "t|Futur|2",
+        "f": "tense",
+        "s": "Le laboratoire ___ les échantillons dès leur réception.",
+        "a": "analysera",
+        "en": "The laboratory will analyse the samples as soon as they are received.",
+        "alts": [],
+        "form": "Futur"
+      },
+      {
+        "slot": "t|Futur|2",
+        "f": "tense",
+        "s": "Elle ___ la situation et proposera des solutions adaptées.",
+        "a": "analysera",
+        "en": "She will analyse the situation and suggest appropriate solutions.",
+        "alts": [],
+        "form": "Futur"
+      },
+      {
+        "slot": "t|Futur|3",
+        "f": "tense",
+        "s": "Nous ___ les résultats lors de la prochaine réunion.",
+        "a": "analyserons",
+        "en": "We will analyse the results at the next meeting.",
+        "alts": [],
+        "form": "Futur"
+      },
+      {
+        "slot": "t|Futur|3",
+        "f": "tense",
+        "s": "Nous ___ l'impact de cette décision dans les semaines à venir.",
+        "a": "analyserons",
+        "en": "We will analyse the impact of this decision in the coming weeks.",
+        "alts": [],
+        "form": "Futur"
+      },
+      {
+        "slot": "t|Futur|4",
+        "f": "tense",
+        "s": "Vous ___ les données avant de rédiger votre rapport final.",
+        "a": "analyserez",
+        "en": "You will analyse the data before writing your final report.",
+        "alts": [],
+        "form": "Futur"
+      },
+      {
+        "slot": "t|Futur|4",
+        "f": "tense",
+        "s": "Vous ___ les résultats dès que vous aurez accès au logiciel.",
+        "a": "analyserez",
+        "en": "You will analyse the results as soon as you have access to the software.",
+        "alts": [],
+        "form": "Futur"
+      },
+      {
+        "slot": "t|Futur|5",
+        "f": "tense",
+        "s": "Les économistes ___ l'impact de cette mesure sur le marché.",
+        "a": "analyseront",
+        "en": "The economists will analyse the impact of this measure on the market.",
+        "alts": [],
+        "form": "Futur"
+      },
+      {
+        "slot": "t|Futur|5",
+        "f": "tense",
+        "s": "Elles ___ les résultats et présenteront leurs conclusions la semaine prochaine.",
+        "a": "analyseront",
+        "en": "They will analyse the results and present their conclusions next week.",
+        "alts": [],
+        "form": "Futur"
+      },
+      {
+        "slot": "t|Conditionnel|0",
+        "f": "tense",
+        "s": "Si tu me donnais les fichiers, j'___ les données immédiatement.",
+        "a": "analyserais",
+        "en": "If you gave me the files, I would analyse the data immediately.",
+        "alts": [],
+        "form": "Conditionnel"
+      },
+      {
+        "slot": "t|Conditionnel|0",
+        "f": "tense",
+        "s": "Tu ___ mieux le problème si tu avais plus de données.",
+        "a": "analyserais",
+        "en": "You would analyse the problem better if you had more data.",
+        "alts": [],
+        "form": "Conditionnel"
+      },
+      {
+        "slot": "t|Conditionnel|1",
+        "f": "tense",
+        "s": "Le spécialiste ___ les risques si on lui fournissait les rapports.",
+        "a": "analyserait",
+        "en": "The specialist would analyse the risks if the reports were provided to him.",
+        "alts": [],
+        "form": "Conditionnel"
+      },
+      {
+        "slot": "t|Conditionnel|1",
+        "f": "tense",
+        "s": "Elle ___ la situation différemment si elle avait plus d'expérience.",
+        "a": "analyserait",
+        "en": "She would analyse the situation differently if she had more experience.",
+        "alts": [],
+        "form": "Conditionnel"
+      },
+      {
+        "slot": "t|Conditionnel|2",
+        "f": "tense",
+        "s": "Si nous avions plus de temps, nous ___ chaque facteur en détail.",
+        "a": "analyserions",
+        "en": "If we had more time, we would analyse every factor in detail.",
+        "alts": [],
+        "form": "Conditionnel"
+      },
+      {
+        "slot": "t|Conditionnel|2",
+        "f": "tense",
+        "s": "Nous ___ les résultats avec plus de soin si nous disposions des bons outils.",
+        "a": "analyserions",
+        "en": "We would analyse the results more carefully if we had the right tools.",
+        "alts": [],
+        "form": "Conditionnel"
+      },
+      {
+        "slot": "t|Conditionnel|3",
+        "f": "tense",
+        "s": "Vous ___ mieux ces données si vous suiviez la formation appropriée.",
+        "a": "analyseriez",
+        "en": "You would analyse this data better if you took the appropriate training.",
+        "alts": [],
+        "form": "Conditionnel"
+      },
+      {
+        "slot": "t|Conditionnel|3",
+        "f": "tense",
+        "s": "Si vous disposiez d'un logiciel adapté, vous ___ les résultats en quelques secondes.",
+        "a": "analyseriez",
+        "en": "If you had suitable software, you would analyse the results in a few seconds.",
+        "alts": [],
+        "form": "Conditionnel"
+      },
+      {
+        "slot": "t|Conditionnel|4",
+        "f": "tense",
+        "s": "Ils ___ les données plus rapidement si le serveur fonctionnait.",
+        "a": "analyseraient",
+        "en": "They would analyse the data more quickly if the server were working.",
+        "alts": [],
+        "form": "Conditionnel"
+      },
+      {
+        "slot": "t|Conditionnel|4",
+        "f": "tense",
+        "s": "Les scientifiques ___ les échantillons si on leur accordait le budget nécessaire.",
+        "a": "analyseraient",
+        "en": "The scientists would analyse the samples if they were given the necessary budget.",
+        "alts": [],
+        "form": "Conditionnel"
+      },
+      {
+        "slot": "t|Subjonctif",
+        "f": "subj",
+        "s": "Il faut que tu ___ les données avant de tirer des conclusions.",
+        "a": "analyses",
+        "en": "You must analyse the data before drawing conclusions.",
+        "alts": [],
+        "form": "Subjonctif"
+      },
+      {
+        "slot": "t|Subjonctif",
+        "f": "subj",
+        "s": "Je veux qu'il ___ les résultats avec soin.",
+        "a": "analyse",
+        "en": "I want him to analyse the results carefully.",
+        "alts": [],
+        "form": "Subjonctif"
+      },
+      {
+        "slot": "s|0",
+        "f": "sense",
+        "s": "Le médecin doit ___ les symptômes pour poser un diagnostic précis.",
+        "a": "analyser",
+        "en": "The doctor must analyse the symptoms to make an accurate diagnosis.",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "s|0",
+        "f": "sense",
+        "s": "L'économiste a passé des heures à ___ les tendances du marché.",
+        "a": "analyser",
+        "en": "The economist spent hours analysing market trends.",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "s|1",
+        "f": "sense",
+        "s": "Le logiciel permet d'___ automatiquement le code source pour détecter les erreurs.",
+        "a": "analyser",
+        "en": "The software makes it possible to automatically parse the source code to detect errors.",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "s|1",
+        "f": "sense",
+        "s": "L'interpréteur ___ la syntaxe du programme ligne par ligne.",
+        "a": "analyse",
+        "en": "The interpreter parses the programme's syntax line by line.",
+        "alts": [],
+        "form": ""
+      }
+    ]
+  },
+  {
+    "id": 1210,
+    "qs": [
+      {
+        "slot": "s|0",
+        "f": "sense",
+        "s": "Leurs parents espèrent que leur ___ durera toute la vie.",
+        "a": "mariage",
+        "en": "Their parents hope that their marriage (lifelong bond) will last a lifetime.",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "s|0",
+        "f": "sense",
+        "s": "Le ___ est une institution reconnue par la loi dans de nombreux pays.",
+        "a": "mariage",
+        "en": "Marriage is an institution recognized by law in many countries.",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "s|1",
+        "f": "sense",
+        "s": "Nous sommes tous invités au ___ de Sophie et Thomas samedi prochain.",
+        "a": "mariage",
+        "en": "We are all invited to Sophie and Thomas's wedding next Saturday.",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "s|1",
+        "f": "sense",
+        "s": "Elle portait une robe blanche magnifique lors du ___.",
+        "a": "mariage",
+        "en": "She wore a magnificent white dress at the wedding.",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "s|2",
+        "f": "sense",
+        "s": "Ce plat est un ___ réussi entre la cuisine française et la cuisine japonaise.",
+        "a": "mariage",
+        "en": "This dish is a successful union (blend) of French and Japanese cuisine.",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "s|2",
+        "f": "sense",
+        "s": "Ce vin représente un ___ parfait de deux cépages différents.",
+        "a": "mariage",
+        "en": "This wine represents a perfect blend of two different grape varieties.",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "gender",
+        "f": "gender",
+        "s": "C'est ___ mariage traditionnel qui a réuni deux grandes familles.",
+        "a": "un",
+        "en": "It is a traditional wedding that brought two great families together.",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "gender",
+        "f": "gender",
+        "s": "Quel est ton avis sur ___ mariage civil ?",
+        "a": "le",
+        "en": "What is your opinion on civil marriage?",
+        "alts": [],
+        "form": ""
+      }
+    ]
+  }
+]

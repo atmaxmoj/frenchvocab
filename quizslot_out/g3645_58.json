@@ -1,0 +1,41 @@
+[
+  {
+    "id": 3819,
+    "qs": [
+      {"slot":"s|0","f":"sense","s":"La nuit était ___ et on ne voyait presque rien.","en":"The night was dark and one could hardly see anything.","a":"obscure","alts":[],"form":""},
+      {"slot":"s|0","f":"sense","s":"Ils avançaient dans un couloir ___, sans aucune lumière.","en":"They were walking down a dark corridor, without any light.","a":"obscur","alts":[],"form":""},
+      {"slot":"s|1","f":"sense","s":"Ce texte philosophique est tellement ___ que personne ne le comprend.","en":"This philosophical text is so obscure/vague that nobody understands it.","a":"obscur","alts":[],"form":""},
+      {"slot":"s|1","f":"sense","s":"Ses explications étaient ___ et les élèves sont sortis de la classe désorientés.","en":"His explanations were vague/obscure and the students left the classroom disoriented.","a":"obscures","alts":[],"form":""},
+      {"slot":"s|2","f":"sense","s":"Cet auteur est resté ___ toute sa vie, sans jamais connaître la célébrité.","en":"This author remained obscure/unknown his whole life, never achieving fame.","a":"obscur","alts":[],"form":""},
+      {"slot":"s|2","f":"sense","s":"Cette peinture vient d'un artiste ___, découvert par hasard dans une petite galerie.","en":"This painting is by an obscure/unknown artist, discovered by chance in a small gallery.","a":"obscur","alts":[],"form":""},
+      {"slot":"g|mp","f":"agree","s":"Ces passages ___ du roman ont déconcerté même les critiques les plus expérimentés.","en":"These obscure passages of the novel disconcerted even the most experienced critics.","a":"obscurs","alts":[],"form":""},
+      {"slot":"g|mp","f":"agree","s":"Les couloirs ___ du vieux château faisaient peur aux visiteurs.","en":"The dark corridors of the old castle frightened the visitors.","a":"obscurs","alts":[],"form":""},
+      {"slot":"g|f","f":"agree","s":"Cette référence est trop ___ pour que les lecteurs la reconnaissent.","en":"This reference is too obscure for readers to recognize it.","a":"obscure","alts":[],"form":""},
+      {"slot":"g|f","f":"agree","s":"La salle était ___, à peine éclairée par une bougie.","en":"The room was dark, barely lit by a candle.","a":"obscure","alts":[],"form":""},
+      {"slot":"g|fp","f":"agree","s":"Ces rues ___ du vieux quartier sont dangereuses la nuit.","en":"These dark streets of the old neighborhood are dangerous at night.","a":"obscures","alts":[],"form":""},
+      {"slot":"g|fp","f":"agree","s":"Les théories ___ de ce philosophe n'ont jamais été comprises du grand public.","en":"The obscure theories of this philosopher were never understood by the general public.","a":"obscures","alts":[],"form":""}
+    ]
+  },
+  {
+    "id": 3820,
+    "qs": [
+      {"slot":"s|0","f":"sense","s":"Le médecin lui a examiné le ___ pour voir si les ganglions étaient gonflés.","en":"The doctor examined his neck to see if the lymph nodes were swollen.","a":"cou","alts":[]},
+      {"slot":"s|0","f":"sense","s":"Elle porte une écharpe autour du ___ pour protéger sa nuque du froid.","en":"She wears a scarf around her neck to protect her nape from the cold.","a":"cou","alts":[]},
+      {"slot":"s|1","f":"sense","s":"Il a tourné la tête et s'est fait mal au ___.","en":"He turned his head and hurt his neck.","a":"cou","alts":[]},
+      {"slot":"s|1","f":"sense","s":"L'enfant a sauté dans les bras de sa mère et l'a serrée par le ___.","en":"The child jumped into his mother's arms and hugged her around the neck.","a":"cou","alts":[]},
+      {"slot":"gender","f":"gender","s":"Il s'est cassé ___ cou en tombant du cheval.","en":"He broke his neck falling off the horse.","a":"le","alts":[]},
+      {"slot":"gender","f":"gender","s":"La girafe a ___ cou très long qui lui permet d'atteindre les feuilles en hauteur.","en":"The giraffe has a very long neck that allows it to reach leaves up high.","a":"un","alts":[]}
+    ]
+  },
+  {
+    "id": 3821,
+    "qs": [
+      {"slot":"s|0","f":"sense","s":"Le téléphone est une ___ qui a changé la façon dont les gens communiquent.","en":"The telephone is an invention that changed the way people communicate.","a":"invention","alts":[]},
+      {"slot":"s|0","f":"sense","s":"On attribue cette ___ révolutionnaire à un ingénieur américain du XIXe siècle.","en":"This revolutionary invention is attributed to an American engineer of the 19th century.","a":"invention","alts":[]},
+      {"slot":"s|1","f":"sense","s":"L'écriture de ce roman est une ___ totale : chaque personnage sort de l'imagination de l'auteur.","en":"The writing of this novel is a total creation: every character comes from the author's imagination.","a":"invention","alts":[]},
+      {"slot":"s|1","f":"sense","s":"Cette mélodie est une pure ___ de sa part ; il n'a copié personne.","en":"This melody is a pure creation on his part; he copied no one.","a":"invention","alts":[]},
+      {"slot":"gender","f":"gender","s":"C'est ___ invention remarquable qui a transformé notre quotidien.","en":"It is a remarkable invention that has transformed our daily life.","a":"une","alts":[]},
+      {"slot":"gender","f":"gender","s":"___ invention de la machine à vapeur a marqué le début de l'ère industrielle.","en":"The invention of the steam engine marked the beginning of the industrial era.","a":"L'","alts":[]}
+    ]
+  }
+]

@@ -1,0 +1,719 @@
+[
+  {
+    "id": 1901,
+    "qs": [
+      {
+        "slot": "s|0",
+        "f": "sense",
+        "s": "Elle a obtenu son master en ___ à l'université de Paris.",
+        "a": "statistique",
+        "en": "She obtained her master's degree in statistics at the University of Paris.",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "s|0",
+        "f": "sense",
+        "s": "La ___ est une discipline mathématique qui permet de modéliser et d'interpréter des phénomènes aléatoires.",
+        "a": "statistique",
+        "en": "Statistics is a mathematical discipline that makes it possible to model and interpret random phenomena.",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "s|1",
+        "f": "sense",
+        "s": "Les ___ publiées hier montrent que le taux de chômage a baissé de deux points.",
+        "a": "statistiques",
+        "en": "The statistics published yesterday show that the unemployment rate dropped by two points.",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "s|1",
+        "f": "sense",
+        "s": "Selon les ___ officielles, la population de la ville a augmenté de trois millions en dix ans.",
+        "a": "statistiques",
+        "en": "According to the official statistics, the city's population increased by three million over ten years.",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "gender",
+        "f": "gender",
+        "s": "Mon professeur enseigne ___ statistique depuis plus de vingt ans.",
+        "a": "la",
+        "en": "My professor has been teaching statistics for more than twenty years.",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "gender",
+        "f": "gender",
+        "s": "C'est ___ statistique vraiment alarmante : un enfant sur cinq vit sous le seuil de pauvreté.",
+        "a": "une",
+        "en": "It is a truly alarming statistic: one child in five lives below the poverty line.",
+        "alts": [],
+        "form": ""
+      }
+    ]
+  },
+  {
+    "id": 1902,
+    "qs": [
+      {
+        "slot": "s|0",
+        "f": "sense",
+        "s": "L'avion attend l'autorisation de s'engager sur la ___ avant de décoller.",
+        "a": "piste",
+        "en": "The plane is waiting for clearance to taxi onto the runway before takeoff.",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "s|0",
+        "f": "sense",
+        "s": "La ___ d'atterrissage était verglacée ce matin, ce qui a retardé tous les vols.",
+        "a": "piste",
+        "en": "The runway was icy this morning, which delayed all flights.",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "s|1",
+        "f": "sense",
+        "s": "Les pilotes ont effectué plusieurs tours de ___ pour se qualifier.",
+        "a": "piste",
+        "en": "The drivers completed several laps around the track to qualify.",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "s|1",
+        "f": "sense",
+        "s": "La ___ de Formule 1 de Monaco est réputée pour ses virages étroits et dangereux.",
+        "a": "piste",
+        "en": "The Formula 1 track in Monaco is known for its narrow and dangerous bends.",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "s|2",
+        "f": "sense",
+        "s": "La police enquête sur cette affaire mais n'a trouvé aucune ___ sérieuse jusqu'à présent.",
+        "a": "piste",
+        "en": "The police are investigating this case but have found no serious lead so far.",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "s|2",
+        "f": "sense",
+        "s": "Les détectives ont suivi plusieurs ___ avant de retrouver le suspect.",
+        "a": "pistes",
+        "en": "The detectives followed several leads before finding the suspect.",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "s|3",
+        "f": "sense",
+        "s": "Nous avons suivi une ___ forestière pendant des heures avant d'atteindre le sommet.",
+        "a": "piste",
+        "en": "We followed a forest trail for hours before reaching the summit.",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "s|3",
+        "f": "sense",
+        "s": "La ___ qui mène au village de montagne est difficile à trouver sans guide.",
+        "a": "piste",
+        "en": "The trail leading to the mountain village is hard to find without a guide.",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "gender",
+        "f": "gender",
+        "s": "Il y avait ___ piste enneigée réservée aux débutants sur ce domaine skiable.",
+        "a": "une",
+        "en": "There was a snow-covered trail reserved for beginners on this ski resort.",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "gender",
+        "f": "gender",
+        "s": "L'athlète s'est entraîné toute la journée sur ___ piste du stade.",
+        "a": "la",
+        "en": "The athlete trained all day on the stadium track.",
+        "alts": [],
+        "form": ""
+      }
+    ]
+  },
+  {
+    "id": 1903,
+    "qs": [
+      {
+        "slot": "t|Présent|0",
+        "f": "tense",
+        "s": "Je ___ toujours mes données personnelles en ligne.",
+        "a": "préserve",
+        "en": "I always preserve my personal data online.",
+        "alts": [],
+        "form": "Présent"
+      },
+      {
+        "slot": "t|Présent|0",
+        "f": "tense",
+        "s": "Ce traité ___ les droits des minorités dans le pays.",
+        "a": "préserve",
+        "en": "This treaty preserves the rights of minorities in the country.",
+        "alts": [],
+        "form": "Présent"
+      },
+      {
+        "slot": "t|Présent|1",
+        "f": "tense",
+        "s": "Tu ___ bien tes affaires, on dirait.",
+        "a": "préserves",
+        "en": "You preserve your belongings well, it seems.",
+        "alts": [],
+        "form": "Présent"
+      },
+      {
+        "slot": "t|Présent|1",
+        "f": "tense",
+        "s": "Est-ce que tu ___ vraiment l'environnement en faisant du covoiturage ?",
+        "a": "préserves",
+        "en": "Do you really preserve the environment by carpooling?",
+        "alts": [],
+        "form": "Présent"
+      },
+      {
+        "slot": "t|Présent|2",
+        "f": "tense",
+        "s": "Nous ___ la biodiversité grâce à ces nouvelles mesures.",
+        "a": "préservons",
+        "en": "We preserve biodiversity thanks to these new measures.",
+        "alts": [],
+        "form": "Présent"
+      },
+      {
+        "slot": "t|Présent|2",
+        "f": "tense",
+        "s": "Dans notre association, nous ___ les archives historiques du village.",
+        "a": "préservons",
+        "en": "In our association, we preserve the historical archives of the village.",
+        "alts": [],
+        "form": "Présent"
+      },
+      {
+        "slot": "t|Présent|3",
+        "f": "tense",
+        "s": "Vous ___ vos traditions familiales depuis des générations.",
+        "a": "préservez",
+        "en": "You preserve your family traditions for generations.",
+        "alts": [],
+        "form": "Présent"
+      },
+      {
+        "slot": "t|Présent|3",
+        "f": "tense",
+        "s": "Comment est-ce que vous ___ l'intégrité de ces documents anciens ?",
+        "a": "préservez",
+        "en": "How do you preserve the integrity of these old documents?",
+        "alts": [],
+        "form": "Présent"
+      },
+      {
+        "slot": "t|Présent|4",
+        "f": "tense",
+        "s": "Ces lois ___ les espèces menacées de l'extinction.",
+        "a": "préservent",
+        "en": "These laws preserve endangered species from extinction.",
+        "alts": [],
+        "form": "Présent"
+      },
+      {
+        "slot": "t|Présent|4",
+        "f": "tense",
+        "s": "Les parents ___ souvent les dessins de leurs enfants comme souvenirs.",
+        "a": "préservent",
+        "en": "Parents often preserve their children's drawings as souvenirs.",
+        "alts": [],
+        "form": "Présent"
+      },
+      {
+        "slot": "t|Passé composé|0",
+        "f": "tense",
+        "s": "J'___ toutes les photos de famille sur un disque dur externe.",
+        "a": "ai préservé",
+        "en": "I preserved all the family photos on an external hard drive.",
+        "alts": [],
+        "form": "Passé composé"
+      },
+      {
+        "slot": "t|Passé composé|0",
+        "f": "tense",
+        "s": "Grâce à mon action rapide, j'___ l'intégrité du document.",
+        "a": "ai préservé",
+        "en": "Thanks to my quick action, I preserved the integrity of the document.",
+        "alts": [],
+        "form": "Passé composé"
+      },
+      {
+        "slot": "t|Passé composé|1",
+        "f": "tense",
+        "s": "Tu ___ le secret pendant toute l'enquête, bravo !",
+        "a": "as préservé",
+        "en": "You preserved the secret throughout the investigation, well done!",
+        "alts": [],
+        "form": "Passé composé"
+      },
+      {
+        "slot": "t|Passé composé|1",
+        "f": "tense",
+        "s": "Tu ___ cet écosystème fragile par tes efforts constants.",
+        "a": "as préservé",
+        "en": "You preserved this fragile ecosystem through your constant efforts.",
+        "alts": [],
+        "form": "Passé composé"
+      },
+      {
+        "slot": "t|Passé composé|2",
+        "f": "tense",
+        "s": "La municipalité ___ le vieux quartier en interdisant les démolitions.",
+        "a": "a préservé",
+        "en": "The municipality preserved the old neighborhood by banning demolitions.",
+        "alts": [],
+        "form": "Passé composé"
+      },
+      {
+        "slot": "t|Passé composé|2",
+        "f": "tense",
+        "s": "Cette décision ___ des milliers d'emplois dans la région.",
+        "a": "a préservé",
+        "en": "This decision preserved thousands of jobs in the region.",
+        "alts": [],
+        "form": "Passé composé"
+      },
+      {
+        "slot": "t|Passé composé|3",
+        "f": "tense",
+        "s": "Nous ___ la forêt en créant une réserve naturelle.",
+        "a": "avons préservé",
+        "en": "We preserved the forest by creating a nature reserve.",
+        "alts": [],
+        "form": "Passé composé"
+      },
+      {
+        "slot": "t|Passé composé|3",
+        "f": "tense",
+        "s": "Ensemble, nous ___ notre héritage culturel pour les générations futures.",
+        "a": "avons préservé",
+        "en": "Together, we preserved our cultural heritage for future generations.",
+        "alts": [],
+        "form": "Passé composé"
+      },
+      {
+        "slot": "t|Passé composé|4",
+        "f": "tense",
+        "s": "Vous ___ ces peintures rares grâce à une restauration minutieuse.",
+        "a": "avez préservé",
+        "en": "You preserved these rare paintings through meticulous restoration.",
+        "alts": [],
+        "form": "Passé composé"
+      },
+      {
+        "slot": "t|Passé composé|4",
+        "f": "tense",
+        "s": "Comment est-ce que vous ___ cet édifice du XVIIe siècle ?",
+        "a": "avez préservé",
+        "en": "How did you preserve this 17th-century building?",
+        "alts": [],
+        "form": "Passé composé"
+      },
+      {
+        "slot": "t|Passé composé|5",
+        "f": "tense",
+        "s": "Les scientifiques ___ des échantillons de cette plante rare avant qu'elle disparaisse.",
+        "a": "ont préservé",
+        "en": "The scientists preserved samples of this rare plant before it disappeared.",
+        "alts": [],
+        "form": "Passé composé"
+      },
+      {
+        "slot": "t|Passé composé|5",
+        "f": "tense",
+        "s": "Les bénévoles ___ plusieurs espèces en danger grâce à leurs efforts.",
+        "a": "ont préservé",
+        "en": "The volunteers preserved several endangered species through their efforts.",
+        "alts": [],
+        "form": "Passé composé"
+      },
+      {
+        "slot": "t|Imparfait|0",
+        "f": "tense",
+        "s": "Quand j'étais enfant, je ___ soigneusement tous mes livres.",
+        "a": "préservais",
+        "en": "When I was a child, I carefully preserved all my books.",
+        "alts": [],
+        "form": "Imparfait"
+      },
+      {
+        "slot": "t|Imparfait|0",
+        "f": "tense",
+        "s": "Tu ___ toujours un équilibre entre vie professionnelle et vie privée.",
+        "a": "préservais",
+        "en": "You always preserved a balance between professional and personal life.",
+        "alts": [],
+        "form": "Imparfait"
+      },
+      {
+        "slot": "t|Imparfait|1",
+        "f": "tense",
+        "s": "Le gardien ___ jalousement les archives du musée.",
+        "a": "préservait",
+        "en": "The guard jealously preserved the museum's archives.",
+        "alts": [],
+        "form": "Imparfait"
+      },
+      {
+        "slot": "t|Imparfait|1",
+        "f": "tense",
+        "s": "Cette coutume ancienne ___ l'harmonie dans la communauté.",
+        "a": "préservait",
+        "en": "This ancient custom preserved harmony in the community.",
+        "alts": [],
+        "form": "Imparfait"
+      },
+      {
+        "slot": "t|Imparfait|2",
+        "f": "tense",
+        "s": "Nous ___ les semences rares dans un entrepôt réfrigéré.",
+        "a": "préservions",
+        "en": "We preserved the rare seeds in a refrigerated warehouse.",
+        "alts": [],
+        "form": "Imparfait"
+      },
+      {
+        "slot": "t|Imparfait|2",
+        "f": "tense",
+        "s": "À l'époque, nous ___ l'eau en limitant son utilisation.",
+        "a": "préservions",
+        "en": "At that time, we preserved water by limiting its use.",
+        "alts": [],
+        "form": "Imparfait"
+      },
+      {
+        "slot": "t|Imparfait|3",
+        "f": "tense",
+        "s": "Vous ___ la paix sociale en évitant les conflits inutiles.",
+        "a": "préserviez",
+        "en": "You preserved social peace by avoiding unnecessary conflicts.",
+        "alts": [],
+        "form": "Imparfait"
+      },
+      {
+        "slot": "t|Imparfait|3",
+        "f": "tense",
+        "s": "Comment est-ce que vous ___ vos récoltes contre le gel, autrefois ?",
+        "a": "préserviez",
+        "en": "How did you used to preserve your harvests against frost?",
+        "alts": [],
+        "form": "Imparfait"
+      },
+      {
+        "slot": "t|Imparfait|4",
+        "f": "tense",
+        "s": "Les anciens ___ leurs aliments en les salant ou en les séchant.",
+        "a": "préservaient",
+        "en": "The ancients preserved their food by salting or drying it.",
+        "alts": [],
+        "form": "Imparfait"
+      },
+      {
+        "slot": "t|Imparfait|4",
+        "f": "tense",
+        "s": "Ces règles ___ la confidentialité des données des utilisateurs.",
+        "a": "préservaient",
+        "en": "These rules preserved the confidentiality of users' data.",
+        "alts": [],
+        "form": "Imparfait"
+      },
+      {
+        "slot": "t|Futur|0",
+        "f": "tense",
+        "s": "Je ___ ces lettres de ma grand-mère toute ma vie.",
+        "a": "préserverai",
+        "en": "I will preserve these letters from my grandmother all my life.",
+        "alts": [],
+        "form": "Futur"
+      },
+      {
+        "slot": "t|Futur|0",
+        "f": "tense",
+        "s": "Je ___ la mémoire de ceux qui ont combattu pour notre liberté.",
+        "a": "préserverai",
+        "en": "I will preserve the memory of those who fought for our freedom.",
+        "alts": [],
+        "form": "Futur"
+      },
+      {
+        "slot": "t|Futur|1",
+        "f": "tense",
+        "s": "Tu ___ mieux ta santé si tu fais du sport régulièrement.",
+        "a": "préserveras",
+        "en": "You will preserve your health better if you exercise regularly.",
+        "alts": [],
+        "form": "Futur"
+      },
+      {
+        "slot": "t|Futur|1",
+        "f": "tense",
+        "s": "Tu ___ ces documents dans un coffre-fort, n'est-ce pas ?",
+        "a": "préserveras",
+        "en": "You will preserve these documents in a safe, won't you?",
+        "alts": [],
+        "form": "Futur"
+      },
+      {
+        "slot": "t|Futur|2",
+        "f": "tense",
+        "s": "Ce nouveau règlement ___ la biodiversité de la région.",
+        "a": "préservera",
+        "en": "This new regulation will preserve the biodiversity of the region.",
+        "alts": [],
+        "form": "Futur"
+      },
+      {
+        "slot": "t|Futur|2",
+        "f": "tense",
+        "s": "Le musée ___ ces œuvres pour les générations à venir.",
+        "a": "préservera",
+        "en": "The museum will preserve these works for generations to come.",
+        "alts": [],
+        "form": "Futur"
+      },
+      {
+        "slot": "t|Futur|3",
+        "f": "tense",
+        "s": "Nous ___ cet accord de paix coûte que coûte.",
+        "a": "préserverons",
+        "en": "We will preserve this peace agreement no matter what.",
+        "alts": [],
+        "form": "Futur"
+      },
+      {
+        "slot": "t|Futur|3",
+        "f": "tense",
+        "s": "Ensemble, nous ___ les ressources naturelles pour l'avenir.",
+        "a": "préserverons",
+        "en": "Together, we will preserve natural resources for the future.",
+        "alts": [],
+        "form": "Futur"
+      },
+      {
+        "slot": "t|Futur|4",
+        "f": "tense",
+        "s": "Vous ___ le silence dans cette zone protégée, je vous le demande.",
+        "a": "préserverez",
+        "en": "You will preserve the silence in this protected area, I ask you.",
+        "alts": [],
+        "form": "Futur"
+      },
+      {
+        "slot": "t|Futur|4",
+        "f": "tense",
+        "s": "En signant ce contrat, vous ___ vos droits d'auteur.",
+        "a": "préserverez",
+        "en": "By signing this contract, you will preserve your copyrights.",
+        "alts": [],
+        "form": "Futur"
+      },
+      {
+        "slot": "t|Futur|5",
+        "f": "tense",
+        "s": "Ces nouvelles lois ___ l'environnement pour les décennies à venir.",
+        "a": "préserveront",
+        "en": "These new laws will preserve the environment for decades to come.",
+        "alts": [],
+        "form": "Futur"
+      },
+      {
+        "slot": "t|Futur|5",
+        "f": "tense",
+        "s": "Les ingénieurs ___ l'intégrité du bâtiment grâce à ces rénovations.",
+        "a": "préserveront",
+        "en": "The engineers will preserve the integrity of the building through these renovations.",
+        "alts": [],
+        "form": "Futur"
+      },
+      {
+        "slot": "t|Conditionnel|0",
+        "f": "tense",
+        "s": "Si j'avais plus de moyens, je ___ davantage ces zones naturelles.",
+        "a": "préserverais",
+        "en": "If I had more resources, I would preserve these natural areas more.",
+        "alts": [],
+        "form": "Conditionnel"
+      },
+      {
+        "slot": "t|Conditionnel|0",
+        "f": "tense",
+        "s": "Si tu acceptais ce poste, tu ___ l'avenir de l'entreprise.",
+        "a": "préserverais",
+        "en": "If you accepted this position, you would preserve the future of the company.",
+        "alts": [],
+        "form": "Conditionnel"
+      },
+      {
+        "slot": "t|Conditionnel|1",
+        "f": "tense",
+        "s": "Une meilleure loi ___ ces espèces en voie de disparition.",
+        "a": "préserverait",
+        "en": "A better law would preserve these species in danger of extinction.",
+        "alts": [],
+        "form": "Conditionnel"
+      },
+      {
+        "slot": "t|Conditionnel|1",
+        "f": "tense",
+        "s": "Si on investissait davantage, le gouvernement ___ mieux le patrimoine national.",
+        "a": "préserverait",
+        "en": "If more were invested, the government would better preserve the national heritage.",
+        "alts": [],
+        "form": "Conditionnel"
+      },
+      {
+        "slot": "t|Conditionnel|2",
+        "f": "tense",
+        "s": "Si nous avions plus de fonds, nous ___ ces monuments historiques.",
+        "a": "préserverions",
+        "en": "If we had more funds, we would preserve these historic monuments.",
+        "alts": [],
+        "form": "Conditionnel"
+      },
+      {
+        "slot": "t|Conditionnel|2",
+        "f": "tense",
+        "s": "Nous ___ mieux la paix si chacun faisait un effort.",
+        "a": "préserverions",
+        "en": "We would better preserve peace if everyone made an effort.",
+        "alts": [],
+        "form": "Conditionnel"
+      },
+      {
+        "slot": "t|Conditionnel|3",
+        "f": "tense",
+        "s": "Si vous réduisiez vos déchets, vous ___ davantage les océans.",
+        "a": "préserveriez",
+        "en": "If you reduced your waste, you would preserve the oceans more.",
+        "alts": [],
+        "form": "Conditionnel"
+      },
+      {
+        "slot": "t|Conditionnel|3",
+        "f": "tense",
+        "s": "Vous ___ mieux votre réputation si vous respectiez vos engagements.",
+        "a": "préserveriez",
+        "en": "You would better preserve your reputation if you honored your commitments.",
+        "alts": [],
+        "form": "Conditionnel"
+      },
+      {
+        "slot": "t|Conditionnel|4",
+        "f": "tense",
+        "s": "Si les pays coopéraient, ils ___ mieux les ressources de la planète.",
+        "a": "préserveraient",
+        "en": "If countries cooperated, they would better preserve the planet's resources.",
+        "alts": [],
+        "form": "Conditionnel"
+      },
+      {
+        "slot": "t|Conditionnel|4",
+        "f": "tense",
+        "s": "Ces entreprises ___ la forêt si elles adoptaient des pratiques durables.",
+        "a": "préserveraient",
+        "en": "These companies would preserve the forest if they adopted sustainable practices.",
+        "alts": [],
+        "form": "Conditionnel"
+      },
+      {
+        "slot": "t|Subjonctif",
+        "f": "subj",
+        "s": "Il faut que tu ___ la confidentialité de ces informations.",
+        "a": "préserves",
+        "en": "It is necessary that you preserve the confidentiality of this information.",
+        "alts": [],
+        "form": "Subjonctif"
+      },
+      {
+        "slot": "t|Subjonctif",
+        "f": "subj",
+        "s": "Nous souhaitons que le gouvernement ___ ces espaces naturels protégés.",
+        "a": "préserve",
+        "en": "We wish that the government preserve these protected natural spaces.",
+        "alts": [],
+        "form": "Subjonctif"
+      },
+      {
+        "slot": "s|0",
+        "f": "sense",
+        "s": "Il est important de ___ les espèces animales menacées par la chasse.",
+        "a": "préserver",
+        "en": "It is important to protect endangered animal species from hunting.",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "s|0",
+        "f": "sense",
+        "s": "Ces lois visent à ___ les populations civiles des conflits armés.",
+        "a": "préserver",
+        "en": "These laws aim to protect civilian populations from armed conflicts.",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "s|1",
+        "f": "sense",
+        "s": "Le sel permet de ___ les aliments pendant de longues périodes.",
+        "a": "préserver",
+        "en": "Salt makes it possible to preserve food for long periods.",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "s|1",
+        "f": "sense",
+        "s": "On utilise des techniques spéciales pour ___ les manuscrits anciens.",
+        "a": "préserver",
+        "en": "Special techniques are used to preserve ancient manuscripts.",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "s|2",
+        "f": "sense",
+        "s": "Le gouvernement a pris des mesures pour ___ la paix sociale dans le pays.",
+        "a": "préserver",
+        "en": "The government has taken measures to maintain social peace in the country.",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "s|2",
+        "f": "sense",
+        "s": "Il est essentiel de ___ la neutralité de cette institution internationale.",
+        "a": "préserver",
+        "en": "It is essential to maintain the neutrality of this international institution.",
+        "alts": [],
+        "form": ""
+      }
+    ]
+  }
+]

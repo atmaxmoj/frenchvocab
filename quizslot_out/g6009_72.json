@@ -1,0 +1,41 @@
+[
+  {
+    "id": 6711,
+    "qs": [
+      {"slot":"s|0","f":"sense","s":"Cet artiste est très ___ : il imagine sans cesse de nouvelles formes.","en":"This artist is very inventive: he constantly imagines new forms.","a":"inventif","alts":[],"form":""},
+      {"slot":"s|0","f":"sense","s":"Ce jeune chercheur s'est montré ___ en proposant une théorie totalement originale.","en":"This young researcher proved inventive by proposing a completely original theory.","a":"inventif","alts":[],"form":""},
+      {"slot":"s|1","f":"sense","s":"Mon collègue est très ___ : il trouve toujours une solution ingénieuse aux problèmes techniques.","en":"My colleague is very resourceful: he always finds a clever solution to technical problems.","a":"inventif","alts":[],"form":""},
+      {"slot":"s|1","f":"sense","s":"Le bricoleur du village est réputé ___ ; il répare tout avec les moyens du bord.","en":"The village handyman is known for being resourceful; he fixes everything with whatever is on hand.","a":"inventif","alts":[],"form":""},
+      {"slot":"g|mp","f":"agree","s":"Les ingénieurs de cette équipe sont particulièrement ___ pour résoudre les pannes.","en":"The engineers on this team are particularly inventive at fixing breakdowns.","a":"inventifs","alts":[],"form":""},
+      {"slot":"g|mp","f":"agree","s":"Ces enfants sont vraiment ___ quand il s'agit d'inventer de nouveaux jeux.","en":"These children are really inventive when it comes to inventing new games.","a":"inventifs","alts":[],"form":""},
+      {"slot":"g|f","f":"agree","s":"Cette designer est ___ ; elle crée des objets qu'on n'a jamais vus ailleurs.","en":"This designer is inventive; she creates objects that have never been seen elsewhere.","a":"inventive","alts":[],"form":""},
+      {"slot":"g|f","f":"agree","s":"La solution qu'elle a proposée est vraiment ___.","en":"The solution she proposed is really inventive.","a":"inventive","alts":[],"form":""},
+      {"slot":"g|fp","f":"agree","s":"Ces entreprises sont très ___ dans leur façon d'aborder le marché.","en":"These companies are very inventive in their approach to the market.","a":"inventives","alts":[],"form":""},
+      {"slot":"g|fp","f":"agree","s":"Les solutions qu'elle propose sont toujours ___.","en":"The solutions she proposes are always inventive.","a":"inventives","alts":[],"form":""}
+    ]
+  },
+  {
+    "id": 6712,
+    "qs": [
+      {"slot":"s|0","f":"sense","s":"Ce projet vise à réduire l'écart ___ entre les quartiers de la ville.","en":"This project aims to reduce the sociocultural gap between the city's neighborhoods.","a":"socioculturel","alts":[]},
+      {"slot":"s|0","f":"sense","s":"Le contexte ___ influence fortement la réussite scolaire des enfants.","en":"The sociocultural context strongly influences children's academic success.","a":"socioculturel","alts":[]},
+      {"slot":"g|mp","f":"agree","s":"Ces événements ___ favorisent le dialogue entre les communautés.","en":"These sociocultural events encourage dialogue between communities.","a":"socioculturels","alts":[]},
+      {"slot":"g|mp","f":"agree","s":"Les facteurs ___ expliquent en partie ces inégalités.","en":"Sociocultural factors partly explain these inequalities.","a":"socioculturels","alts":[]},
+      {"slot":"g|f","f":"agree","s":"Cette association organise une rencontre ___ chaque mois.","en":"This association organizes a sociocultural gathering every month.","a":"socioculturelle","alts":[]},
+      {"slot":"g|f","f":"agree","s":"La diversité ___ de ce quartier est une richesse.","en":"The sociocultural diversity of this neighborhood is an asset.","a":"socioculturelle","alts":[]},
+      {"slot":"g|fp","f":"agree","s":"Les traditions ___ varient beaucoup d'une région à l'autre.","en":"Sociocultural traditions vary a lot from one region to another.","a":"socioculturelles","alts":[]},
+      {"slot":"g|fp","f":"agree","s":"Ces différences ___ compliquent parfois la communication.","en":"These sociocultural differences sometimes complicate communication.","a":"socioculturelles","alts":[]}
+    ]
+  },
+  {
+    "id": 6713,
+    "qs": [
+      {"slot":"s|0","f":"sense","s":"Ce peintre était un véritable ___ qui a rompu avec les traditions académiques.","en":"This painter was a true innovator who broke away from academic traditions.","a":"novateur","alts":[],"form":""},
+      {"slot":"s|0","f":"sense","s":"Dans le domaine de la médecine, ce chercheur est considéré comme un grand ___.","en":"In the field of medicine, this researcher is considered a great innovator.","a":"novateur","alts":[],"form":""},
+      {"slot":"s|1","f":"sense","s":"Cette start-up a été fondée par un jeune ___ passionné de technologie.","en":"This startup was founded by a young innovator passionate about technology.","a":"novateur","alts":[],"form":""},
+      {"slot":"s|1","f":"sense","s":"Il est reconnu comme un ___ dans l'industrie automobile grâce à ses inventions.","en":"He is recognized as an innovator in the automotive industry thanks to his inventions.","a":"novateur","alts":[],"form":""},
+      {"slot":"gender","f":"gender","s":"Dans notre équipe, ___ novateur a proposé une idée révolutionnaire.","en":"In our team, an innovator proposed a revolutionary idea.","a":"un","alts":[],"form":""},
+      {"slot":"gender","f":"gender","s":"___ novateur qui a inventé cette machine est aujourd'hui célèbre.","en":"The innovator who invented this machine is famous today.","a":"le","alts":[],"form":""}
+    ]
+  }
+]

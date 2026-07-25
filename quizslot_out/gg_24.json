@@ -1,0 +1,47 @@
+[
+  {
+    "id": 1223,
+    "qs": [
+      {"slot":"s|0","f":"sense","s":"Elle a enfilé un ___ dans l'aiguille avant de recoudre le bouton.","a":"fil","en":"She threaded a thread through the needle before sewing the button back on.","alts":[],"form":""},
+      {"slot":"s|0","f":"sense","s":"Le ___ de la bobine s'est emmêlé et la machine à coudre ne fonctionne plus.","a":"fil","en":"The thread on the bobbin got tangled and the sewing machine no longer works.","alts":[],"form":""},
+      {"slot":"s|1","f":"sense","s":"Elle brode ce motif avec un ___ de soie rouge.","a":"fil","en":"She embroiders this pattern with a red silk thread.","alts":[],"form":""},
+      {"slot":"s|1","f":"sense","s":"Ce tissu précieux est tissé avec un ___ de soie très fin et délicat.","a":"fil","en":"This precious fabric is woven with a very fine and delicate silk thread.","alts":[],"form":""},
+      {"slot":"s|2","f":"sense","s":"L'électricien a remplacé le ___ électrique endommagé derrière le mur.","a":"fil","en":"The electrician replaced the damaged electrical wire behind the wall.","alts":[],"form":""},
+      {"slot":"s|2","f":"sense","s":"Ne touche pas ce ___, il est sous tension et tu risques de te blesser.","a":"fil","en":"Don't touch this wire, it is live and you might hurt yourself.","alts":[],"form":""},
+      {"slot":"s|3","f":"sense","s":"Il a été interrompu par des questions et a perdu le ___ de son raisonnement.","a":"fil","en":"He was interrupted by questions and lost the thread of his reasoning.","alts":[],"form":""},
+      {"slot":"s|3","f":"sense","s":"Après cette digression, il a eu du mal à retrouver le ___ de ses idées.","a":"fil","en":"After that digression, he had trouble finding the thread of his ideas again.","alts":[],"form":""},
+      {"slot":"gender","f":"gender","s":"Elle a cherché ___ fil dans la boîte à couture pour réparer la robe.","a":"le","en":"She looked for the thread in the sewing box to repair the dress.","alts":[],"form":""},
+      {"slot":"gender","f":"gender","s":"J'ai acheté ___ fil solide pour coudre les boutons de mon manteau.","a":"un","en":"I bought a sturdy thread to sew the buttons on my coat.","alts":[],"form":""}
+    ]
+  },
+  {
+    "id": 1224,
+    "qs": [
+      {"slot":"s|0","f":"sense","s":"Le syndicat a signé un accord ___ avec la direction de l'entreprise.","a":"collectif","en":"The union signed a collective agreement with the company management.","alts":[],"form":""},
+      {"slot":"s|0","f":"sense","s":"Le travail ___ permet d'atteindre des objectifs que l'on ne peut pas réaliser seul.","a":"collectif","en":"Collective work makes it possible to achieve goals that one cannot accomplish alone.","alts":[],"form":""},
+      {"slot":"s|1","f":"sense","s":"La protection de l'environnement est une responsabilité ___ qui concerne chaque citoyen.","a":"collective","en":"Protecting the environment is a shared responsibility that concerns every citizen.","alts":[],"form":""},
+      {"slot":"s|1","f":"sense","s":"Il faut défendre l'intérêt ___ plutôt que les intérêts particuliers.","a":"collectif","en":"We must defend the common interest rather than individual interests.","alts":[],"form":""},
+      {"slot":"g|mp","f":"agree","s":"Les équipements sportifs ___ sont ouverts à tous les habitants du quartier.","a":"collectifs","en":"The collective sports facilities are open to all residents of the neighbourhood.","alts":[],"form":""},
+      {"slot":"g|mp","f":"agree","s":"Ces projets ___ ont été financés par la municipalité.","a":"collectifs","en":"These collective projects were funded by the municipality.","alts":[],"form":""},
+      {"slot":"g|f","f":"agree","s":"La mémoire ___ d'un peuple se transmet de génération en génération.","a":"collective","en":"The collective memory of a people is passed down from generation to generation.","alts":[],"form":""},
+      {"slot":"g|f","f":"agree","s":"Une décision ___ a été prise après une longue réunion.","a":"collective","en":"A collective decision was made after a long meeting.","alts":[],"form":""},
+      {"slot":"g|fp","f":"agree","s":"Les actions ___ des employés ont permis d'améliorer les conditions de travail.","a":"collectives","en":"The collective actions of the employees made it possible to improve working conditions.","alts":[],"form":""},
+      {"slot":"g|fp","f":"agree","s":"Ces négociations ___ ont abouti à un accord satisfaisant pour les deux parties.","a":"collectives","en":"These collective negotiations led to a satisfactory agreement for both parties.","alts":[],"form":""}
+    ]
+  },
+  {
+    "id": 1225,
+    "qs": [
+      {"slot":"s|0","f":"sense","s":"Ce restaurant propose une cuisine ___, je recommande vivement d'y aller.","a":"excellente","en":"This restaurant offers excellent cuisine, I highly recommend going there.","alts":[],"form":""},
+      {"slot":"s|0","f":"sense","s":"Le temps est ___ aujourd'hui, parfait pour une promenade.","a":"excellent","en":"The weather is excellent today, perfect for a walk.","alts":[],"form":""},
+      {"slot":"s|1","f":"sense","s":"C'est un scientifique ___, reconnu dans le monde entier pour ses découvertes.","a":"excellent","en":"He is an outstanding scientist, recognized worldwide for his discoveries.","alts":[],"form":""},
+      {"slot":"s|1","f":"sense","s":"Elle a reçu la mention ___ à la fin de ses études supérieures.","a":"excellente","en":"She received the distinction of outstanding at the end of her higher education.","alts":[],"form":""},
+      {"slot":"g|mp","f":"agree","s":"Ses résultats scolaires sont ___ cette année.","a":"excellents","en":"His school results are excellent this year.","alts":[],"form":""},
+      {"slot":"g|mp","f":"agree","s":"Les vins de cette région sont ___.","a":"excellents","en":"The wines from this region are excellent.","alts":[],"form":""},
+      {"slot":"g|f","f":"agree","s":"C'est une ___ idée de partir en voyage cet été.","a":"excellente","en":"It is an excellent idea to travel this summer.","alts":[],"form":""},
+      {"slot":"g|f","f":"agree","s":"La qualité de ce tissu est vraiment ___.","a":"excellente","en":"The quality of this fabric is truly excellent.","alts":[],"form":""},
+      {"slot":"g|fp","f":"agree","s":"Les conditions météorologiques sont ___ pour naviguer.","a":"excellentes","en":"The weather conditions are excellent for sailing.","alts":[],"form":""},
+      {"slot":"g|fp","f":"agree","s":"Ses performances lors du concours étaient vraiment ___.","a":"excellentes","en":"Her performances during the competition were truly excellent.","alts":[],"form":""}
+    ]
+  }
+]

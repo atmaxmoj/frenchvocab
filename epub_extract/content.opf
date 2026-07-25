@@ -1,0 +1,78 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+  <metadata xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:opf="http://www.idpf.org/2007/opf" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:calibre="http://calibre.kovidgoyal.net/2009/metadata" xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:publisher>Taylor and Francis</dc:publisher>
+    <dc:language>en</dc:language>
+    <dc:creator opf:file-as="Le Bras, Yvon" opf:role="aut">Yvon Le Bras</dc:creator>
+    <dc:creator opf:file-as="Le Bras, Yvon" opf:role="aut">Deryle Lonsdale</dc:creator>
+    <meta name="calibre:timestamp" content="2014-06-27T19:27:59.380673+00:00"/>
+    <dc:title>A Frequency Dictionary of French: Core Vocabulary for Learners (Routledge Frequency Dictionaries)</dc:title>
+    <meta name="cover" content="cover"/>
+    <dc:date>2009-03-25T00:00:00+00:00</dc:date>
+    <dc:contributor opf:role="bkp">calibre (1.41.0) [http://calibre-ebook.com]</dc:contributor>
+    <dc:identifier opf:scheme="MOBI-ASIN">B0025CTGV0</dc:identifier>
+    <dc:identifier id="uuid_id" opf:scheme="uuid">e3d1451f-5d4c-4950-925d-beb312efd5ab</dc:identifier>
+  </metadata>
+  <manifest>
+    <item href="images/00002.jpeg" id="cover" media-type="image/jpeg"/>
+    <item href="images/00001.gif" id="id21" media-type="image/gif"/>
+    <item href="page_styles.css" id="page_css" media-type="text/css"/>
+    <item href="stylesheet.css" id="css" media-type="text/css"/>
+    <item href="text/part0000.html" id="id2" media-type="application/xhtml+xml"/>
+    <item href="text/part0001.html" id="id4" media-type="application/xhtml+xml"/>
+    <item href="text/part0002.html" id="id9" media-type="application/xhtml+xml"/>
+    <item href="text/part0003.html" id="id14" media-type="application/xhtml+xml"/>
+    <item href="text/part0004.html" id="id8" media-type="application/xhtml+xml"/>
+    <item href="text/part0005.html" id="id6" media-type="application/xhtml+xml"/>
+    <item href="text/part0006.html" id="id18" media-type="application/xhtml+xml"/>
+    <item href="text/part0007.html" id="id5" media-type="application/xhtml+xml"/>
+    <item href="text/part0008.html" id="id19" media-type="application/xhtml+xml"/>
+    <item href="text/part0009.html" id="id17" media-type="application/xhtml+xml"/>
+    <item href="text/part0010.html" id="id3" media-type="application/xhtml+xml"/>
+    <item href="text/part0011.html" id="id1" media-type="application/xhtml+xml"/>
+    <item href="text/part0012.html" id="id12" media-type="application/xhtml+xml"/>
+    <item href="text/part0013.html" id="id11" media-type="application/xhtml+xml"/>
+    <item href="text/part0014.html" id="id13" media-type="application/xhtml+xml"/>
+    <item href="text/part0015.html" id="id16" media-type="application/xhtml+xml"/>
+    <item href="text/part0016.html" id="id10" media-type="application/xhtml+xml"/>
+    <item href="text/part0017.html" id="id15" media-type="application/xhtml+xml"/>
+    <item href="text/part0018.html" id="id7" media-type="application/xhtml+xml"/>
+    <item href="text/part0019.html" id="id20" media-type="application/xhtml+xml"/>
+    <item href="titlepage.xhtml" id="titlepage" media-type="application/xhtml+xml"/>
+    <item href="toc.ncx" id="ncx" media-type="application/x-dtbncx+xml"/>
+  </manifest>
+  <spine toc="ncx">
+    <itemref idref="titlepage"/>
+    <itemref idref="id2"/>
+    <itemref idref="id4"/>
+    <itemref idref="id9"/>
+    <itemref idref="id14"/>
+    <itemref idref="id8"/>
+    <itemref idref="id6"/>
+    <itemref idref="id18"/>
+    <itemref idref="id5"/>
+    <itemref idref="id19"/>
+    <itemref idref="id17"/>
+    <itemref idref="id3"/>
+    <itemref idref="id1"/>
+    <itemref idref="id12"/>
+    <itemref idref="id11"/>
+    <itemref idref="id13"/>
+    <itemref idref="id16"/>
+    <itemref idref="id10"/>
+    <itemref idref="id15"/>
+    <itemref idref="id7"/>
+    <itemref idref="id20"/>
+  </spine>
+  <guide>
+    <reference href="text/part0015.html" title="Index" type="index"/>
+    <reference href="text/part0006.html" title="References" type="bibliography"/>
+    <reference href="text/part0004.html" title="Table of Contents" type="text"/>
+    <reference href="text/part0003.html" title="Copyright" type="copyright-page"/>
+    <reference href="titlepage.xhtml" title="Cover" type="cover"/>
+    <reference href="text/part0006.html" title="Preface" type="preface"/>
+    <reference href="text/part0004.html" title="Table of Contents" type="toc"/>
+    <reference href="text/part0007.html" title="Acknowledgements" type="acknowledgements"/>
+    <reference href="text/part0002.html" title="Title" type="title-page"/>
+  </guide>
+</package>

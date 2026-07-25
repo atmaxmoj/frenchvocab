@@ -1,0 +1,611 @@
+[
+  {
+    "id": 6510,
+    "qs": [
+      {
+        "slot": "s|0",
+        "f": "sense",
+        "s": "À cause d'une grève, le procès a été reporté ___, sans nouvelle date fixée.",
+        "en": "Because of a strike, the trial has been postponed indefinitely, with no new date set.",
+        "a": "indéfiniment",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "s|0",
+        "f": "sense",
+        "s": "Le gouvernement ne peut pas continuer ___ à repousser cette réforme.",
+        "en": "The government cannot keep putting off this reform indefinitely.",
+        "a": "indéfiniment",
+        "alts": [],
+        "form": ""
+      }
+    ]
+  },
+  {
+    "id": 6511,
+    "qs": [
+      {
+        "slot": "t|Présent|0",
+        "f": "tense",
+        "s": "Chaque soir, je ___ la porte d'entrée avant de me coucher.",
+        "a": "verrouille",
+        "en": "Every evening, I lock the front door before going to bed.",
+        "alts": [],
+        "form": "Présent"
+      },
+      {
+        "slot": "t|Présent|0",
+        "f": "tense",
+        "s": "Il ___ toujours sa voiture en sortant du parking.",
+        "a": "verrouille",
+        "en": "He always locks his car when leaving the parking lot.",
+        "alts": [],
+        "form": "Présent"
+      },
+      {
+        "slot": "t|Présent|1",
+        "f": "tense",
+        "s": "Tu ___ la porte du garage avant de partir au travail ?",
+        "a": "verrouilles",
+        "en": "Do you lock the garage door before leaving for work?",
+        "alts": [],
+        "form": "Présent"
+      },
+      {
+        "slot": "t|Présent|1",
+        "f": "tense",
+        "s": "Le soir, tu ___ systématiquement les fenêtres de l'appartement.",
+        "a": "verrouilles",
+        "en": "In the evening, you systematically lock the apartment windows.",
+        "alts": [],
+        "form": "Présent"
+      },
+      {
+        "slot": "t|Présent|2",
+        "f": "tense",
+        "s": "Nous ___ le coffre-fort dès que la caissière a terminé.",
+        "a": "verrouillons",
+        "en": "We lock the safe as soon as the cashier is done.",
+        "alts": [],
+        "form": "Présent"
+      },
+      {
+        "slot": "t|Présent|2",
+        "f": "tense",
+        "s": "Chaque nuit, nous ___ toutes les portes du magasin.",
+        "a": "verrouillons",
+        "en": "Every night, we lock all the store's doors.",
+        "alts": [],
+        "form": "Présent"
+      },
+      {
+        "slot": "t|Présent|3",
+        "f": "tense",
+        "s": "Vous ___ votre téléphone avec un code à quatre chiffres.",
+        "a": "verrouillez",
+        "en": "You lock your phone with a four-digit code.",
+        "alts": [],
+        "form": "Présent"
+      },
+      {
+        "slot": "t|Présent|3",
+        "f": "tense",
+        "s": "Avant de quitter le bureau, vous ___ toujours votre ordinateur.",
+        "a": "verrouillez",
+        "en": "Before leaving the office, you always lock your computer.",
+        "alts": [],
+        "form": "Présent"
+      },
+      {
+        "slot": "t|Présent|4",
+        "f": "tense",
+        "s": "Les employés ___ la caisse à la fin de la journée.",
+        "a": "verrouillent",
+        "en": "The employees lock the register at the end of the day.",
+        "alts": [],
+        "form": "Présent"
+      },
+      {
+        "slot": "t|Présent|4",
+        "f": "tense",
+        "s": "Elles ___ leurs vélos devant la bibliothèque.",
+        "a": "verrouillent",
+        "en": "They lock their bikes in front of the library.",
+        "alts": [],
+        "form": "Présent"
+      },
+      {
+        "slot": "t|Passé composé|0",
+        "f": "tense",
+        "s": "Hier soir, j'___ la porte avant de partir en vacances.",
+        "a": "ai verrouillé",
+        "en": "Last night, I locked the door before leaving on vacation.",
+        "alts": [],
+        "form": "Passé composé"
+      },
+      {
+        "slot": "t|Passé composé|0",
+        "f": "tense",
+        "s": "Ce matin, j'___ mon ordinateur en quittant mon bureau.",
+        "a": "ai verrouillé",
+        "en": "This morning, I locked my computer when leaving my desk.",
+        "alts": [],
+        "form": "Passé composé"
+      },
+      {
+        "slot": "t|Passé composé|1",
+        "f": "tense",
+        "s": "Est-ce que tu ___ la voiture avant d'entrer dans le magasin ?",
+        "a": "as verrouillé",
+        "en": "Did you lock the car before going into the store?",
+        "alts": [],
+        "form": "Passé composé"
+      },
+      {
+        "slot": "t|Passé composé|1",
+        "f": "tense",
+        "s": "Tu ___ le portail hier soir, n'est-ce pas ?",
+        "a": "as verrouillé",
+        "en": "You locked the gate last night, didn't you?",
+        "alts": [],
+        "form": "Passé composé"
+      },
+      {
+        "slot": "t|Passé composé|2",
+        "f": "tense",
+        "s": "Il ___ la porte du bureau avant de partir en réunion.",
+        "a": "a verrouillé",
+        "en": "He locked the office door before going to the meeting.",
+        "alts": [],
+        "form": "Passé composé"
+      },
+      {
+        "slot": "t|Passé composé|2",
+        "f": "tense",
+        "s": "Elle ___ sa valise avant de descendre à la réception.",
+        "a": "a verrouillé",
+        "en": "She locked her suitcase before going down to the front desk.",
+        "alts": [],
+        "form": "Passé composé"
+      },
+      {
+        "slot": "t|Passé composé|3",
+        "f": "tense",
+        "s": "Nous ___ toutes les issues avant l'arrivée de la tempête.",
+        "a": "avons verrouillé",
+        "en": "We locked all the exits before the storm arrived.",
+        "alts": [],
+        "form": "Passé composé"
+      },
+      {
+        "slot": "t|Passé composé|3",
+        "f": "tense",
+        "s": "Hier, nous ___ le local à vélos par sécurité.",
+        "a": "avons verrouillé",
+        "en": "Yesterday, we locked the bike room for safety.",
+        "alts": [],
+        "form": "Passé composé"
+      },
+      {
+        "slot": "t|Passé composé|4",
+        "f": "tense",
+        "s": "Vous ___ le coffre avant de quitter la banque ?",
+        "a": "avez verrouillé",
+        "en": "Did you lock the safe before leaving the bank?",
+        "alts": [],
+        "form": "Passé composé"
+      },
+      {
+        "slot": "t|Passé composé|4",
+        "f": "tense",
+        "s": "Vous ___ la salle des serveurs après l'intervention.",
+        "a": "avez verrouillé",
+        "en": "You locked the server room after the intervention.",
+        "alts": [],
+        "form": "Passé composé"
+      },
+      {
+        "slot": "t|Passé composé|5",
+        "f": "tense",
+        "s": "Ils ___ toutes les portes du bâtiment avant de partir.",
+        "a": "ont verrouillé",
+        "en": "They locked all the building's doors before leaving.",
+        "alts": [],
+        "form": "Passé composé"
+      },
+      {
+        "slot": "t|Passé composé|5",
+        "f": "tense",
+        "s": "Elles ___ leurs casiers avant d'aller en cours.",
+        "a": "ont verrouillé",
+        "en": "They locked their lockers before going to class.",
+        "alts": [],
+        "form": "Passé composé"
+      },
+      {
+        "slot": "t|Imparfait|0",
+        "f": "tense",
+        "s": "Quand j'étais enfant, je ___ toujours la porte de ma chambre par jeu.",
+        "a": "verrouillais",
+        "en": "When I was a child, I always used to lock my bedroom door for fun.",
+        "alts": [],
+        "form": "Imparfait"
+      },
+      {
+        "slot": "t|Imparfait|0",
+        "f": "tense",
+        "s": "À l'époque, tu ___ rarement ta bicyclette dans la cour.",
+        "a": "verrouillais",
+        "en": "Back then, you rarely used to lock your bike in the yard.",
+        "alts": [],
+        "form": "Imparfait"
+      },
+      {
+        "slot": "t|Imparfait|1",
+        "f": "tense",
+        "s": "Chaque soir, mon grand-père ___ soigneusement toutes les fenêtres.",
+        "a": "verrouillait",
+        "en": "Every evening, my grandfather used to carefully lock all the windows.",
+        "alts": [],
+        "form": "Imparfait"
+      },
+      {
+        "slot": "t|Imparfait|1",
+        "f": "tense",
+        "s": "Quand elle sortait, elle ___ toujours la porte à double tour.",
+        "a": "verrouillait",
+        "en": "When she went out, she always used to double-lock the door.",
+        "alts": [],
+        "form": "Imparfait"
+      },
+      {
+        "slot": "t|Imparfait|2",
+        "f": "tense",
+        "s": "Autrefois, nous ___ le hangar avec un simple cadenas.",
+        "a": "verrouillions",
+        "en": "In the past, we used to lock the shed with a simple padlock.",
+        "alts": [],
+        "form": "Imparfait"
+      },
+      {
+        "slot": "t|Imparfait|2",
+        "f": "tense",
+        "s": "Nous ___ toujours la caisse avant la pause déjeuner.",
+        "a": "verrouillions",
+        "en": "We always used to lock the register before the lunch break.",
+        "alts": [],
+        "form": "Imparfait"
+      },
+      {
+        "slot": "t|Imparfait|3",
+        "f": "tense",
+        "s": "Vous ___ votre bureau tous les soirs à cette époque.",
+        "a": "verrouilliez",
+        "en": "You used to lock your office every evening back then.",
+        "alts": [],
+        "form": "Imparfait"
+      },
+      {
+        "slot": "t|Imparfait|3",
+        "f": "tense",
+        "s": "À l'époque, vous ___ toujours la porte du jardin en partant.",
+        "a": "verrouilliez",
+        "en": "Back then, you always used to lock the garden door when leaving.",
+        "alts": [],
+        "form": "Imparfait"
+      },
+      {
+        "slot": "t|Imparfait|4",
+        "f": "tense",
+        "s": "Mes voisins ___ rarement leur portail par le passé.",
+        "a": "verrouillaient",
+        "en": "My neighbors rarely used to lock their gate in the past.",
+        "alts": [],
+        "form": "Imparfait"
+      },
+      {
+        "slot": "t|Imparfait|4",
+        "f": "tense",
+        "s": "Autrefois, elles ___ systématiquement leurs casiers avant l'entraînement.",
+        "a": "verrouillaient",
+        "en": "In the past, they used to systematically lock their lockers before practice.",
+        "alts": [],
+        "form": "Imparfait"
+      },
+      {
+        "slot": "t|Futur|0",
+        "f": "tense",
+        "s": "Ce soir, je ___ la porte avant de me coucher.",
+        "a": "verrouillerai",
+        "en": "Tonight, I will lock the door before going to bed.",
+        "alts": [],
+        "form": "Futur"
+      },
+      {
+        "slot": "t|Futur|0",
+        "f": "tense",
+        "s": "Demain matin, je ___ le bureau avant de partir en congé.",
+        "a": "verrouillerai",
+        "en": "Tomorrow morning, I will lock the office before going on leave.",
+        "alts": [],
+        "form": "Futur"
+      },
+      {
+        "slot": "t|Futur|1",
+        "f": "tense",
+        "s": "Tu ___ la voiture dès que tu seras arrivé.",
+        "a": "verrouilleras",
+        "en": "You will lock the car as soon as you have arrived.",
+        "alts": [],
+        "form": "Futur"
+      },
+      {
+        "slot": "t|Futur|1",
+        "f": "tense",
+        "s": "Ce soir, tu ___ toutes les fenêtres avant de partir.",
+        "a": "verrouilleras",
+        "en": "Tonight, you will lock all the windows before leaving.",
+        "alts": [],
+        "form": "Futur"
+      },
+      {
+        "slot": "t|Futur|2",
+        "f": "tense",
+        "s": "Le gardien ___ le portail à vingt-deux heures précises.",
+        "a": "verrouillera",
+        "en": "The caretaker will lock the gate at exactly ten p.m.",
+        "alts": [],
+        "form": "Futur"
+      },
+      {
+        "slot": "t|Futur|2",
+        "f": "tense",
+        "s": "On ___ la salle dès que la réunion sera terminée.",
+        "a": "verrouillera",
+        "en": "We will lock the room as soon as the meeting is over.",
+        "alts": [],
+        "form": "Futur"
+      },
+      {
+        "slot": "t|Futur|3",
+        "f": "tense",
+        "s": "Nous ___ l'entrepôt avant l'arrivée de l'orage.",
+        "a": "verrouillerons",
+        "en": "We will lock the warehouse before the storm arrives.",
+        "alts": [],
+        "form": "Futur"
+      },
+      {
+        "slot": "t|Futur|3",
+        "f": "tense",
+        "s": "Ce soir, nous ___ toutes les issues du bâtiment.",
+        "a": "verrouillerons",
+        "en": "Tonight, we will lock all the building's exits.",
+        "alts": [],
+        "form": "Futur"
+      },
+      {
+        "slot": "t|Futur|4",
+        "f": "tense",
+        "s": "Vous ___ le coffre-fort après avoir compté la recette.",
+        "a": "verrouillerez",
+        "en": "You will lock the safe after counting the takings.",
+        "alts": [],
+        "form": "Futur"
+      },
+      {
+        "slot": "t|Futur|4",
+        "f": "tense",
+        "s": "Demain, vous ___ votre casier avant l'entraînement.",
+        "a": "verrouillerez",
+        "en": "Tomorrow, you will lock your locker before practice.",
+        "alts": [],
+        "form": "Futur"
+      },
+      {
+        "slot": "t|Futur|5",
+        "f": "tense",
+        "s": "Les techniciens ___ l'accès au serveur après la mise à jour.",
+        "a": "verrouilleront",
+        "en": "The technicians will lock access to the server after the update.",
+        "alts": [],
+        "form": "Futur"
+      },
+      {
+        "slot": "t|Futur|5",
+        "f": "tense",
+        "s": "Elles ___ leurs vélos avant d'entrer au concert.",
+        "a": "verrouilleront",
+        "en": "They will lock their bikes before entering the concert.",
+        "alts": [],
+        "form": "Futur"
+      },
+      {
+        "slot": "t|Conditionnel|0",
+        "f": "tense",
+        "s": "Si j'avais un coffre-fort, je ___ mes documents importants dedans.",
+        "a": "verrouillerais",
+        "en": "If I had a safe, I would lock my important documents in it.",
+        "alts": [],
+        "form": "Conditionnel"
+      },
+      {
+        "slot": "t|Conditionnel|0",
+        "f": "tense",
+        "s": "Si tu avais la clé, tu ___ cette porte tous les soirs.",
+        "a": "verrouillerais",
+        "en": "If you had the key, you would lock this door every evening.",
+        "alts": [],
+        "form": "Conditionnel"
+      },
+      {
+        "slot": "t|Conditionnel|1",
+        "f": "tense",
+        "s": "Si le gardien était plus prudent, il ___ toujours le portail.",
+        "a": "verrouillerait",
+        "en": "If the caretaker were more careful, he would always lock the gate.",
+        "alts": [],
+        "form": "Conditionnel"
+      },
+      {
+        "slot": "t|Conditionnel|1",
+        "f": "tense",
+        "s": "Si elle avait peur des cambriolages, elle ___ chaque fenêtre.",
+        "a": "verrouillerait",
+        "en": "If she were afraid of burglaries, she would lock every window.",
+        "alts": [],
+        "form": "Conditionnel"
+      },
+      {
+        "slot": "t|Conditionnel|2",
+        "f": "tense",
+        "s": "Si nous avions un système d'alarme, nous ___ moins souvent les portes.",
+        "a": "verrouillerions",
+        "en": "If we had an alarm system, we would lock the doors less often.",
+        "alts": [],
+        "form": "Conditionnel"
+      },
+      {
+        "slot": "t|Conditionnel|2",
+        "f": "tense",
+        "s": "Si nous vivions dans ce quartier, nous ___ toujours la voiture.",
+        "a": "verrouillerions",
+        "en": "If we lived in this neighborhood, we would always lock the car.",
+        "alts": [],
+        "form": "Conditionnel"
+      },
+      {
+        "slot": "t|Conditionnel|3",
+        "f": "tense",
+        "s": "Si vous étiez responsable du magasin, vous ___ la caisse chaque soir.",
+        "a": "verrouilleriez",
+        "en": "If you were in charge of the store, you would lock the register every evening.",
+        "alts": [],
+        "form": "Conditionnel"
+      },
+      {
+        "slot": "t|Conditionnel|3",
+        "f": "tense",
+        "s": "Si vous aviez ce mot de passe, vous ___ facilement l'ordinateur.",
+        "a": "verrouilleriez",
+        "en": "If you had this password, you would easily lock the computer.",
+        "alts": [],
+        "form": "Conditionnel"
+      },
+      {
+        "slot": "t|Conditionnel|4",
+        "f": "tense",
+        "s": "Si les employés étaient plus soigneux, ils ___ systématiquement le local.",
+        "a": "verrouilleraient",
+        "en": "If the employees were more careful, they would systematically lock the room.",
+        "alts": [],
+        "form": "Conditionnel"
+      },
+      {
+        "slot": "t|Conditionnel|4",
+        "f": "tense",
+        "s": "Si elles avaient un cadenas, elles ___ leurs casiers.",
+        "a": "verrouilleraient",
+        "en": "If they had a padlock, they would lock their lockers.",
+        "alts": [],
+        "form": "Conditionnel"
+      },
+      {
+        "slot": "t|Subjonctif",
+        "f": "subj",
+        "s": "Il faut que tu ___ la porte avant de partir.",
+        "a": "verrouilles",
+        "en": "You must lock the door before leaving.",
+        "alts": [],
+        "form": "Subjonctif"
+      },
+      {
+        "slot": "t|Subjonctif",
+        "f": "subj",
+        "s": "Le directeur exige que nous ___ le bâtiment chaque soir à dix-huit heures.",
+        "a": "verrouillions",
+        "en": "The director requires that we lock the building every evening at six p.m.",
+        "alts": [],
+        "form": "Subjonctif"
+      },
+      {
+        "slot": "s|0",
+        "f": "sense",
+        "s": "Chaque soir avant de se coucher, elle ___ la porte d'entrée à double tour.",
+        "a": "verrouille",
+        "en": "Every evening before going to bed, she locks the front door twice.",
+        "alts": [],
+        "form": "Présent"
+      },
+      {
+        "slot": "s|0",
+        "f": "sense",
+        "s": "Le vigile ___ toutes les issues du bâtiment à la fermeture.",
+        "a": "verrouille",
+        "en": "The security guard locks all the building's exits at closing time.",
+        "alts": [],
+        "form": "Présent"
+      },
+      {
+        "slot": "s|1",
+        "f": "sense",
+        "s": "Pour des raisons de sécurité, le système ___ automatiquement le compte après trois tentatives échouées.",
+        "a": "verrouille",
+        "en": "For security reasons, the system automatically locks the account after three failed attempts.",
+        "alts": [],
+        "form": "Présent"
+      },
+      {
+        "slot": "s|1",
+        "f": "sense",
+        "s": "L'administrateur a décidé de ___ l'accès au réseau interne après la cyberattaque.",
+        "a": "verrouiller",
+        "en": "The administrator decided to lock down access to the internal network after the cyberattack.",
+        "alts": [],
+        "form": "Infinitif"
+      }
+    ]
+  },
+  {
+    "id": 6512,
+    "qs": [
+      {
+        "slot": "s|0",
+        "f": "sense",
+        "s": "L'___ de l'Allemagne en 1871 a marqué un tournant historique.",
+        "en": "The unification of Germany in 1871 marked a historic turning point.",
+        "a": "unification",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "s|0",
+        "f": "sense",
+        "s": "Les dirigeants européens continuent de discuter de l'___ monétaire du continent.",
+        "en": "European leaders continue to discuss the monetary unification of the continent.",
+        "a": "unification",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "gender",
+        "f": "gender",
+        "s": "Le président a évoqué ___ unification du pays après la guerre.",
+        "en": "The president mentioned this unification of the country after the war.",
+        "a": "cette",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "gender",
+        "f": "gender",
+        "s": "Les experts proposent ___ unification progressive des deux systèmes de santé.",
+        "en": "Experts are proposing a gradual unification of the two health systems.",
+        "a": "une",
+        "alts": [],
+        "form": ""
+      }
+    ]
+  }
+]

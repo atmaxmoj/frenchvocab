@@ -1,0 +1,35 @@
+[
+  {
+    "id": 6486,
+    "qs": [
+      {"slot":"s|0","f":"sense","s":"Au restaurant, j'ai commandé un ___ bien frais avec mon burger.","a":"coca","en":"At the restaurant, I ordered a nice cold Coke with my burger.","alts":["cola"]},
+      {"slot":"s|0","f":"sense","s":"Les enfants adorent boire du ___ pendant les fêtes d'anniversaire.","a":"coca","en":"Children love drinking Coke during birthday parties.","alts":["cola"]},
+      {"slot":"s|1","f":"sense","s":"Les feuilles de ___ sont mâchées par certains peuples andins depuis des siècles.","a":"coca","en":"Coca leaves have been chewed by some Andean peoples for centuries.","alts":[]},
+      {"slot":"s|1","f":"sense","s":"La culture du ___ reste traditionnelle dans certaines régions de Bolivie.","a":"coca","en":"Coca cultivation remains traditional in certain regions of Bolivia.","alts":[]},
+      {"slot":"gender","f":"gender","s":"Peux-tu m'apporter ___ coca bien frais, s'il te plaît ?","a":"un","en":"Can you bring me a nice cold Coke, please?","alts":[]},
+      {"slot":"gender","f":"gender","s":"___ coca que j'ai bu tout à l'heure était vraiment sucré.","a":"Le","en":"The Coke I drank earlier was really sweet.","alts":[]}
+    ]
+  },
+  {
+    "id": 6487,
+    "qs": [
+      {"slot":"s|0","f":"sense","s":"Une ___ correspond à la quantité d'énergie nécessaire pour élever d'un degré la température d'un gramme d'eau.","a":"calorie","en":"A calorie corresponds to the amount of energy needed to raise the temperature of one gram of water by one degree.","alts":[]},
+      {"slot":"s|0","f":"sense","s":"Pour maigrir, elle compte soigneusement les ___ qu'elle consomme chaque jour.","a":"calories","en":"To lose weight, she carefully counts the calories she consumes every day.","alts":[]},
+      {"slot":"gender","f":"gender","s":"___ calorie est une unité de mesure de l'énergie utilisée en nutrition.","a":"La","en":"The calorie is a unit of energy measurement used in nutrition.","alts":[]},
+      {"slot":"gender","f":"gender","s":"En montant ces quelques marches, il a brûlé ___ calorie de plus.","a":"une","en":"By climbing these few steps, he burned one extra calorie.","alts":[]}
+    ]
+  },
+  {
+    "id": 6488,
+    "qs": [
+      {"slot":"s|0","f":"sense","s":"La ___ de cette phrase est un peu maladroite.","a":"formulation","en":"The wording of this sentence is a bit clumsy.","alts":[],"form":""},
+      {"slot":"s|0","f":"sense","s":"Le professeur a critiqué la ___ de la question d'examen.","a":"formulation","en":"The teacher criticized the wording of the exam question.","alts":[],"form":""},
+      {"slot":"s|1","f":"sense","s":"Le fabricant garde secrète la ___ exacte de sa boisson énergisante.","a":"formulation","en":"The manufacturer keeps the exact formulation of its energy drink secret.","alts":[],"form":""},
+      {"slot":"s|1","f":"sense","s":"Cette crème a une ___ à base de plantes, sans produits chimiques.","a":"formulation","en":"This cream has a plant-based formulation, without chemical products.","alts":[],"form":""},
+      {"slot":"s|2","f":"sense","s":"La ___ de ce médicament se déroule en plusieurs étapes précises en laboratoire.","a":"formulation","en":"The formulation (compounding) of this medication takes place in several precise steps in the laboratory.","alts":[],"form":""},
+      {"slot":"s|2","f":"sense","s":"Les chimistes ont passé des mois sur la ___ de ce nouvel alliage.","a":"formulation","en":"The chemists spent months on the formulation of this new alloy.","alts":[],"form":""},
+      {"slot":"gender","f":"gender","s":"Le juriste a relu ___ formulation du contrat avant de le signer.","a":"la","en":"The lawyer reread the wording of the contract before signing it.","alts":[],"form":""},
+      {"slot":"gender","f":"gender","s":"Le chercheur a proposé ___ formulation originale pour cette molécule.","a":"une","en":"The researcher proposed an original formulation for this molecule.","alts":[],"form":""}
+    ]
+  }
+]

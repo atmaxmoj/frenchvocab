@@ -1,0 +1,37 @@
+[
+  {
+    "id": 3908,
+    "qs": [
+      {"slot":"s|0","f":"sense","s":"C'est un fait ___ : on ne peut plus revenir en arrière.","a":"accompli","en":"It is a done deal: we can no longer go back.","alts":[],"form":""},
+      {"slot":"s|0","f":"sense","s":"La mission est ___ ; toute l'équipe peut se reposer maintenant.","a":"accomplie","en":"The mission is accomplished; the whole team can rest now.","alts":[],"form":""},
+      {"slot":"s|1","f":"sense","s":"C'est un musicien très ___, reconnu dans le monde entier.","a":"accompli","en":"He is a very accomplished musician, recognized all over the world.","alts":[],"form":""},
+      {"slot":"s|1","f":"sense","s":"Elle est devenue une danseuse ___, après des années de travail acharné.","a":"accomplie","en":"She became an accomplished dancer after years of hard work.","alts":[],"form":""},
+      {"slot":"g|mp","f":"agree","s":"Ces artistes ___ ont reçu de nombreuses récompenses au cours de leur carrière.","a":"accomplis","en":"These accomplished artists have received many awards throughout their careers.","alts":[],"form":""},
+      {"slot":"g|mp","f":"agree","s":"Les chefs cuisiniers ___ savent adapter leurs recettes aux ingrédients disponibles.","a":"accomplis","en":"Accomplished head chefs know how to adapt their recipes to available ingredients.","alts":[],"form":""},
+      {"slot":"g|f","f":"agree","s":"Ma sœur est une pianiste ___, capable de jouer les œuvres les plus complexes.","a":"accomplie","en":"My sister is an accomplished pianist, capable of playing the most complex works.","alts":[],"form":""},
+      {"slot":"g|f","f":"agree","s":"La tâche enfin ___, il put souffler un peu.","a":"accomplie","en":"The task finally accomplished, he was able to take a breath.","alts":[],"form":""},
+      {"slot":"g|fp","f":"agree","s":"Ces femmes ___ dans leur domaine servent d'inspiration à la jeune génération.","a":"accomplies","en":"These accomplished women in their field serve as inspiration to the younger generation.","alts":[],"form":""},
+      {"slot":"g|fp","f":"agree","s":"Les négociations ___, les deux parties ont signé un accord de paix.","a":"accomplies","en":"The negotiations accomplished, both parties signed a peace agreement.","alts":[],"form":""}
+    ]
+  },
+  {
+    "id": 3909,
+    "qs": [
+      {"slot":"s|0","f":"sense","s":"La scène de l'accident était ___ violente ; les témoins en étaient choqués.","a":"terriblement","en":"The scene of the accident was terribly violent; the witnesses were shocked by it.","alts":[],"form":""},
+      {"slot":"s|0","f":"sense","s":"Il a souffert ___ pendant la guerre, et il n'en parle jamais.","a":"terriblement","en":"He suffered terribly during the war, and he never speaks of it.","alts":[],"form":""},
+      {"slot":"s|1","f":"sense","s":"Ce film est ___ ennuyeux ; je me suis endormi au bout de dix minutes.","a":"terriblement","en":"This film is awfully boring; I fell asleep after ten minutes.","alts":["extrêmement","vraiment","particulièrement"],"form":""},
+      {"slot":"s|1","f":"sense","s":"Elle est ___ douée pour les langues ; elle en parle six couramment.","a":"terriblement","en":"She is extremely gifted at languages; she speaks six of them fluently.","alts":["extrêmement","vraiment","particulièrement"],"form":""}
+    ]
+  },
+  {
+    "id": 3910,
+    "qs": [
+      {"slot":"s|0","f":"sense","s":"Ce secteur manque de ___ qualifiée pour faire tourner les usines.","a":"main-d'œuvre","en":"This sector lacks qualified manpower to keep the factories running.","alts":[],"form":""},
+      {"slot":"s|0","f":"sense","s":"Les entreprises cherchent une ___ bon marché pour rester compétitives.","a":"main-d'œuvre","en":"Companies are looking for cheap labor to stay competitive.","alts":[],"form":""},
+      {"slot":"s|1","f":"sense","s":"Le devis comprend les matériaux et la ___, soit deux cents euros au total.","a":"main-d'œuvre","en":"The quote includes the materials and the labor, totaling two hundred euros.","alts":[],"form":""},
+      {"slot":"s|1","f":"sense","s":"La facture du plombier détaille le coût des pièces et celui de la ___.","a":"main-d'œuvre","en":"The plumber's invoice details the cost of parts and the cost of labor.","alts":[],"form":""},
+      {"slot":"gender","f":"gender","s":"Pour réduire les coûts, cette usine a recours à ___ étrangère.","a":"la","en":"To reduce costs, this factory uses foreign labor.","alts":["une"],"form":""},
+      {"slot":"gender","f":"gender","s":"Le patron a embauché ___ main-d'œuvre supplémentaire pour la saison.","a":"une","en":"The boss hired additional labor for the season.","alts":[],"form":""}
+    ]
+  }
+]

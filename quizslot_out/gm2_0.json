@@ -1,0 +1,751 @@
+[
+  {
+    "id": 2001,
+    "qs": [
+      {
+        "slot": "s|0",
+        "f": "sense",
+        "s": "Ce scandale financier a jeté une ___ sur toute la réputation de l'entreprise.",
+        "a": "ombre",
+        "en": "This financial scandal cast a shadow over the company's entire reputation.",
+        "alts": []
+      },
+      {
+        "slot": "s|0",
+        "f": "sense",
+        "s": "Il y a une ___ au tableau : les résultats sont bons, mais les coûts ont explosé.",
+        "a": "ombre",
+        "en": "There is a dark cloud over the picture: the results are good, but costs have skyrocketed.",
+        "alts": []
+      },
+      {
+        "slot": "s|1",
+        "f": "sense",
+        "s": "Au coucher du soleil, mon ___ s'étire très loin derrière moi.",
+        "a": "ombre",
+        "en": "At sunset, my shadow stretches very far behind me.",
+        "alts": []
+      },
+      {
+        "slot": "s|1",
+        "f": "sense",
+        "s": "L'___ de l'arbre se dessine nettement sur le mur blanc.",
+        "a": "ombre",
+        "en": "The shadow of the tree is clearly outlined on the white wall.",
+        "alts": []
+      },
+      {
+        "slot": "s|2",
+        "f": "sense",
+        "s": "Après une longue marche sous le soleil, nous nous sommes assis à l'___ d'un grand chêne.",
+        "a": "ombre",
+        "en": "After a long walk in the sun, we sat in the shade of a large oak tree.",
+        "alts": []
+      },
+      {
+        "slot": "s|2",
+        "f": "sense",
+        "s": "Les enfants jouent à l'___ pour éviter la chaleur.",
+        "a": "ombre",
+        "en": "The children are playing in the shade to avoid the heat.",
+        "alts": []
+      },
+      {
+        "slot": "gender",
+        "f": "gender",
+        "s": "Au crépuscule, ___ ombre enveloppe doucement le jardin.",
+        "a": "une",
+        "en": "At dusk, a shadow gently envelops the garden.",
+        "alts": []
+      },
+      {
+        "slot": "gender",
+        "f": "gender",
+        "s": "Nous avons cherché ___ ombre pour nous reposer un moment.",
+        "a": "de l'",
+        "en": "We looked for some shade to rest for a moment.",
+        "alts": []
+      }
+    ]
+  },
+  {
+    "id": 2002,
+    "qs": [
+      {
+        "slot": "t|Présent|0",
+        "f": "tense",
+        "s": "Je ___ mon rendez-vous chez le médecin parce que je me sens mieux.",
+        "a": "annule",
+        "en": "I cancel my doctor's appointment because I feel better.",
+        "alts": [],
+        "form": "Présent"
+      },
+      {
+        "slot": "t|Présent|0",
+        "f": "tense",
+        "s": "Le directeur ___ la réunion prévue pour ce soir.",
+        "a": "annule",
+        "en": "The director cancels the meeting scheduled for tonight.",
+        "alts": [],
+        "form": "Présent"
+      },
+      {
+        "slot": "t|Présent|1",
+        "f": "tense",
+        "s": "Tu ___ ta commande en ligne avant la livraison ?",
+        "a": "annules",
+        "en": "Are you cancelling your online order before delivery?",
+        "alts": [],
+        "form": "Présent"
+      },
+      {
+        "slot": "t|Présent|1",
+        "f": "tense",
+        "s": "Pourquoi est-ce que tu ___ ton abonnement à la salle de sport ?",
+        "a": "annules",
+        "en": "Why are you cancelling your gym membership?",
+        "alts": [],
+        "form": "Présent"
+      },
+      {
+        "slot": "t|Présent|2",
+        "f": "tense",
+        "s": "Nous ___ le voyage prévu à cause de la mauvaise météo.",
+        "a": "annulons",
+        "en": "We cancel the planned trip because of the bad weather.",
+        "alts": [],
+        "form": "Présent"
+      },
+      {
+        "slot": "t|Présent|2",
+        "f": "tense",
+        "s": "Nous ___ notre réservation au restaurant et nous rentrons chez nous.",
+        "a": "annulons",
+        "en": "We cancel our restaurant reservation and go home.",
+        "alts": [],
+        "form": "Présent"
+      },
+      {
+        "slot": "t|Présent|3",
+        "f": "tense",
+        "s": "Vous ___ votre participation à la conférence de demain ?",
+        "a": "annulez",
+        "en": "Are you cancelling your participation in tomorrow's conference?",
+        "alts": [],
+        "form": "Présent"
+      },
+      {
+        "slot": "t|Présent|3",
+        "f": "tense",
+        "s": "Vous ___ le contrat sans prévenir les clients ?",
+        "a": "annulez",
+        "en": "You are cancelling the contract without notifying the clients?",
+        "alts": [],
+        "form": "Présent"
+      },
+      {
+        "slot": "t|Présent|4",
+        "f": "tense",
+        "s": "Les organisateurs ___ tous les événements en plein air en raison de la tempête.",
+        "a": "annulent",
+        "en": "The organizers cancel all outdoor events due to the storm.",
+        "alts": [],
+        "form": "Présent"
+      },
+      {
+        "slot": "t|Présent|4",
+        "f": "tense",
+        "s": "Mes collègues ___ leurs congés pour finir le projet à temps.",
+        "a": "annulent",
+        "en": "My colleagues cancel their leave to finish the project on time.",
+        "alts": [],
+        "form": "Présent"
+      },
+      {
+        "slot": "t|Passé composé|0",
+        "f": "tense",
+        "s": "Hier matin, j' ___ mon vol à cause d'une urgence familiale.",
+        "a": "ai annulé",
+        "en": "Yesterday morning, I cancelled my flight because of a family emergency.",
+        "alts": [],
+        "form": "Passé composé"
+      },
+      {
+        "slot": "t|Passé composé|0",
+        "f": "tense",
+        "s": "J' ___ ma réservation à l'hôtel ce matin.",
+        "a": "ai annulé",
+        "en": "I cancelled my hotel reservation this morning.",
+        "alts": [],
+        "form": "Passé composé"
+      },
+      {
+        "slot": "t|Passé composé|1",
+        "f": "tense",
+        "s": "Tu ___ le rendez-vous sans me prévenir !",
+        "a": "as annulé",
+        "en": "You cancelled the appointment without warning me!",
+        "alts": [],
+        "form": "Passé composé"
+      },
+      {
+        "slot": "t|Passé composé|1",
+        "f": "tense",
+        "s": "Tu ___ ta commande juste avant qu'elle soit expédiée ?",
+        "a": "as annulé",
+        "en": "You cancelled your order just before it was shipped?",
+        "alts": [],
+        "form": "Passé composé"
+      },
+      {
+        "slot": "t|Passé composé|2",
+        "f": "tense",
+        "s": "L'organisateur ___ le spectacle en raison de la maladie du chanteur principal.",
+        "a": "a annulé",
+        "en": "The organizer cancelled the show due to the lead singer's illness.",
+        "alts": [],
+        "form": "Passé composé"
+      },
+      {
+        "slot": "t|Passé composé|2",
+        "f": "tense",
+        "s": "Elle ___ son abonnement après avoir reçu une mauvaise expérience client.",
+        "a": "a annulé",
+        "en": "She cancelled her subscription after having a bad customer experience.",
+        "alts": [],
+        "form": "Passé composé"
+      },
+      {
+        "slot": "t|Passé composé|3",
+        "f": "tense",
+        "s": "Nous ___ notre excursion à cause des fortes pluies.",
+        "a": "avons annulé",
+        "en": "We cancelled our excursion because of the heavy rain.",
+        "alts": [],
+        "form": "Passé composé"
+      },
+      {
+        "slot": "t|Passé composé|3",
+        "f": "tense",
+        "s": "Nous ___ le contrat avec ce fournisseur la semaine dernière.",
+        "a": "avons annulé",
+        "en": "We cancelled the contract with that supplier last week.",
+        "alts": [],
+        "form": "Passé composé"
+      },
+      {
+        "slot": "t|Passé composé|4",
+        "f": "tense",
+        "s": "Vous ___ votre abonnement sans lire les conditions ?",
+        "a": "avez annulé",
+        "en": "You cancelled your subscription without reading the terms?",
+        "alts": [],
+        "form": "Passé composé"
+      },
+      {
+        "slot": "t|Passé composé|4",
+        "f": "tense",
+        "s": "Vous ___ la réunion de lundi dernier, n'est-ce pas ?",
+        "a": "avez annulé",
+        "en": "You cancelled last Monday's meeting, didn't you?",
+        "alts": [],
+        "form": "Passé composé"
+      },
+      {
+        "slot": "t|Passé composé|5",
+        "f": "tense",
+        "s": "Les autorités ___ tous les vols au départ de l'aéroport ce matin.",
+        "a": "ont annulé",
+        "en": "The authorities cancelled all departing flights from the airport this morning.",
+        "alts": [],
+        "form": "Passé composé"
+      },
+      {
+        "slot": "t|Passé composé|5",
+        "f": "tense",
+        "s": "Mes amis ___ leur visite à la dernière minute.",
+        "a": "ont annulé",
+        "en": "My friends cancelled their visit at the last minute.",
+        "alts": [],
+        "form": "Passé composé"
+      },
+      {
+        "slot": "t|Imparfait|0",
+        "f": "tense",
+        "s": "Quand j'étais étudiant, j' ___ souvent mes cours le vendredi matin.",
+        "a": "annulais",
+        "en": "When I was a student, I often cancelled my Friday morning classes.",
+        "alts": [],
+        "form": "Imparfait"
+      },
+      {
+        "slot": "t|Imparfait|0",
+        "f": "tense",
+        "s": "Tu ___ toujours tes rendez-vous à la dernière minute quand tu étais chef de projet.",
+        "a": "annulais",
+        "en": "You always cancelled your appointments at the last minute when you were project manager.",
+        "alts": [],
+        "form": "Imparfait"
+      },
+      {
+        "slot": "t|Imparfait|1",
+        "f": "tense",
+        "s": "Le professeur ___ ses cours chaque fois qu'il était malade.",
+        "a": "annulait",
+        "en": "The teacher cancelled his classes every time he was ill.",
+        "alts": [],
+        "form": "Imparfait"
+      },
+      {
+        "slot": "t|Imparfait|1",
+        "f": "tense",
+        "s": "Elle ___ régulièrement ses séances de sport par manque de motivation.",
+        "a": "annulait",
+        "en": "She regularly cancelled her workout sessions for lack of motivation.",
+        "alts": [],
+        "form": "Imparfait"
+      },
+      {
+        "slot": "t|Imparfait|2",
+        "f": "tense",
+        "s": "Nous ___ nos sorties chaque hiver à cause du mauvais temps.",
+        "a": "annulions",
+        "en": "We used to cancel our outings every winter because of the bad weather.",
+        "alts": [],
+        "form": "Imparfait"
+      },
+      {
+        "slot": "t|Imparfait|2",
+        "f": "tense",
+        "s": "Nous ___ les réunions hebdomadaires quand le directeur était en voyage.",
+        "a": "annulions",
+        "en": "We cancelled the weekly meetings when the director was travelling.",
+        "alts": [],
+        "form": "Imparfait"
+      },
+      {
+        "slot": "t|Imparfait|3",
+        "f": "tense",
+        "s": "Vous ___ vos commandes sans raison valable à l'époque.",
+        "a": "annuliez",
+        "en": "You used to cancel your orders without valid reason back then.",
+        "alts": [],
+        "form": "Imparfait"
+      },
+      {
+        "slot": "t|Imparfait|3",
+        "f": "tense",
+        "s": "Vous ___ souvent les événements de dernière minute quand vous étiez responsables du planning.",
+        "a": "annuliez",
+        "en": "You often cancelled last-minute events when you were in charge of planning.",
+        "alts": [],
+        "form": "Imparfait"
+      },
+      {
+        "slot": "t|Imparfait|4",
+        "f": "tense",
+        "s": "Les pilotes ___ les vols dès que les conditions météo se dégradaient.",
+        "a": "annulaient",
+        "en": "The pilots cancelled flights as soon as weather conditions deteriorated.",
+        "alts": [],
+        "form": "Imparfait"
+      },
+      {
+        "slot": "t|Imparfait|4",
+        "f": "tense",
+        "s": "Elles ___ leurs abonnements dès qu'elles n'étaient plus satisfaites du service.",
+        "a": "annulaient",
+        "en": "They cancelled their subscriptions as soon as they were no longer satisfied with the service.",
+        "alts": [],
+        "form": "Imparfait"
+      },
+      {
+        "slot": "t|Futur|0",
+        "f": "tense",
+        "s": "Si je ne reçois pas de confirmation, j' ___ ma réservation demain.",
+        "a": "annulerai",
+        "en": "If I don't receive confirmation, I will cancel my reservation tomorrow.",
+        "alts": [],
+        "form": "Futur"
+      },
+      {
+        "slot": "t|Futur|0",
+        "f": "tense",
+        "s": "J' ___ mon abonnement à la fin du mois si le service ne s'améliore pas.",
+        "a": "annulerai",
+        "en": "I will cancel my subscription at the end of the month if the service doesn't improve.",
+        "alts": [],
+        "form": "Futur"
+      },
+      {
+        "slot": "t|Futur|1",
+        "f": "tense",
+        "s": "Tu ___ ton rendez-vous si tu te sens toujours aussi fatigué demain.",
+        "a": "annuleras",
+        "en": "You will cancel your appointment if you still feel as tired tomorrow.",
+        "alts": [],
+        "form": "Futur"
+      },
+      {
+        "slot": "t|Futur|1",
+        "f": "tense",
+        "s": "Tu ___ ton vol si la réunion est reportée, n'est-ce pas ?",
+        "a": "annuleras",
+        "en": "You will cancel your flight if the meeting is postponed, won't you?",
+        "alts": [],
+        "form": "Futur"
+      },
+      {
+        "slot": "t|Futur|2",
+        "f": "tense",
+        "s": "Le gouvernement ___ cet accord international le mois prochain.",
+        "a": "annulera",
+        "en": "The government will cancel this international agreement next month.",
+        "alts": [],
+        "form": "Futur"
+      },
+      {
+        "slot": "t|Futur|2",
+        "f": "tense",
+        "s": "Elle ___ sa participation si elle ne reçoit pas de réponse d'ici vendredi.",
+        "a": "annulera",
+        "en": "She will cancel her participation if she doesn't receive a reply by Friday.",
+        "alts": [],
+        "form": "Futur"
+      },
+      {
+        "slot": "t|Futur|3",
+        "f": "tense",
+        "s": "Nous ___ l'événement si le nombre de participants est insuffisant.",
+        "a": "annulerons",
+        "en": "We will cancel the event if the number of participants is insufficient.",
+        "alts": [],
+        "form": "Futur"
+      },
+      {
+        "slot": "t|Futur|3",
+        "f": "tense",
+        "s": "Nous ___ toutes nos commandes auprès de ce fournisseur dès la semaine prochaine.",
+        "a": "annulerons",
+        "en": "We will cancel all our orders with this supplier starting next week.",
+        "alts": [],
+        "form": "Futur"
+      },
+      {
+        "slot": "t|Futur|4",
+        "f": "tense",
+        "s": "Vous ___ votre abonnement si les tarifs augmentent encore ?",
+        "a": "annulerez",
+        "en": "Will you cancel your subscription if the prices go up again?",
+        "alts": [],
+        "form": "Futur"
+      },
+      {
+        "slot": "t|Futur|4",
+        "f": "tense",
+        "s": "Vous ___ le contrat dès que vous aurez trouvé un meilleur partenaire.",
+        "a": "annulerez",
+        "en": "You will cancel the contract as soon as you find a better partner.",
+        "alts": [],
+        "form": "Futur"
+      },
+      {
+        "slot": "t|Futur|5",
+        "f": "tense",
+        "s": "Les organisateurs ___ le festival si les conditions de sécurité ne sont pas remplies.",
+        "a": "annuleront",
+        "en": "The organizers will cancel the festival if the safety conditions are not met.",
+        "alts": [],
+        "form": "Futur"
+      },
+      {
+        "slot": "t|Futur|5",
+        "f": "tense",
+        "s": "Mes parents ___ leur voyage si grand-mère tombe malade.",
+        "a": "annuleront",
+        "en": "My parents will cancel their trip if grandmother gets ill.",
+        "alts": [],
+        "form": "Futur"
+      },
+      {
+        "slot": "t|Conditionnel|0",
+        "f": "tense",
+        "s": "Si j'avais un empêchement de dernière minute, j' ___ ma réservation.",
+        "a": "annulerais",
+        "en": "If I had a last-minute obstacle, I would cancel my reservation.",
+        "alts": [],
+        "form": "Conditionnel"
+      },
+      {
+        "slot": "t|Conditionnel|0",
+        "f": "tense",
+        "s": "Tu ___ ton abonnement si le prix augmentait encore, n'est-ce pas ?",
+        "a": "annulerais",
+        "en": "You would cancel your subscription if the price went up again, wouldn't you?",
+        "alts": [],
+        "form": "Conditionnel"
+      },
+      {
+        "slot": "t|Conditionnel|1",
+        "f": "tense",
+        "s": "Le directeur ___ la réunion si la salle n'était pas disponible.",
+        "a": "annulerait",
+        "en": "The director would cancel the meeting if the room were not available.",
+        "alts": [],
+        "form": "Conditionnel"
+      },
+      {
+        "slot": "t|Conditionnel|1",
+        "f": "tense",
+        "s": "Elle ___ son voyage si elle apprenait que les routes étaient bloquées.",
+        "a": "annulerait",
+        "en": "She would cancel her trip if she learned that the roads were blocked.",
+        "alts": [],
+        "form": "Conditionnel"
+      },
+      {
+        "slot": "t|Conditionnel|2",
+        "f": "tense",
+        "s": "Nous ___ notre participation si les conditions changeaient.",
+        "a": "annulerions",
+        "en": "We would cancel our participation if the conditions changed.",
+        "alts": [],
+        "form": "Conditionnel"
+      },
+      {
+        "slot": "t|Conditionnel|2",
+        "f": "tense",
+        "s": "Nous ___ le contrat si le fournisseur ne respectait pas les délais.",
+        "a": "annulerions",
+        "en": "We would cancel the contract if the supplier did not meet the deadlines.",
+        "alts": [],
+        "form": "Conditionnel"
+      },
+      {
+        "slot": "t|Conditionnel|3",
+        "f": "tense",
+        "s": "Vous ___ votre réservation si l'hôtel n'offrait pas le petit-déjeuner inclus ?",
+        "a": "annuleriez",
+        "en": "Would you cancel your reservation if the hotel didn't include breakfast?",
+        "alts": [],
+        "form": "Conditionnel"
+      },
+      {
+        "slot": "t|Conditionnel|3",
+        "f": "tense",
+        "s": "Vous ___ votre abonnement si vous trouviez une meilleure offre ?",
+        "a": "annuleriez",
+        "en": "Would you cancel your subscription if you found a better offer?",
+        "alts": [],
+        "form": "Conditionnel"
+      },
+      {
+        "slot": "t|Conditionnel|4",
+        "f": "tense",
+        "s": "Les élèves ___ leur voyage scolaire si le car tombait en panne.",
+        "a": "annuleraient",
+        "en": "The students would cancel their school trip if the coach broke down.",
+        "alts": [],
+        "form": "Conditionnel"
+      },
+      {
+        "slot": "t|Conditionnel|4",
+        "f": "tense",
+        "s": "Mes collègues ___ toutes leurs réunions s'ils pouvaient travailler à distance.",
+        "a": "annuleraient",
+        "en": "My colleagues would cancel all their meetings if they could work remotely.",
+        "alts": [],
+        "form": "Conditionnel"
+      },
+      {
+        "slot": "t|Subjonctif",
+        "f": "subj",
+        "s": "Il faut que tu ___ ta réservation avant minuit.",
+        "a": "annules",
+        "en": "It is necessary that you cancel your reservation before midnight.",
+        "alts": [],
+        "form": "Subjonctif"
+      },
+      {
+        "slot": "t|Subjonctif",
+        "f": "subj",
+        "s": "Je veux qu'il ___ ce contrat immédiatement.",
+        "a": "annule",
+        "en": "I want him to cancel this contract immediately.",
+        "alts": [],
+        "form": "Subjonctif"
+      },
+      {
+        "slot": "s|0",
+        "f": "sense",
+        "s": "Je dois ___ mon rendez-vous chez le dentiste, je ne suis pas disponible ce jour-là.",
+        "a": "annuler",
+        "en": "I have to cancel my dentist appointment; I'm not available that day.",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "s|0",
+        "f": "sense",
+        "s": "L'organisateur a décidé d' ___ le concert en raison du mauvais temps.",
+        "a": "annuler",
+        "en": "The organizer decided to cancel the concert due to bad weather.",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "s|1",
+        "f": "sense",
+        "s": "Le tribunal a ordonné d' ___ la décision prise par l'administration.",
+        "a": "annuler",
+        "en": "The court ordered the reversal of the decision made by the administration.",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "s|1",
+        "f": "sense",
+        "s": "Tu peux ___ cette opération bancaire si elle a été effectuée par erreur.",
+        "a": "annuler",
+        "en": "You can reverse this bank transaction if it was made by mistake.",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "s|2",
+        "f": "sense",
+        "s": "Le parlement a voté pour ___ cette loi jugée inconstitutionnelle.",
+        "a": "annuler",
+        "en": "Parliament voted to abolish this law deemed unconstitutional.",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "s|2",
+        "f": "sense",
+        "s": "Le nouveau gouvernement a décidé d' ___ plusieurs décrets de l'ancien régime.",
+        "a": "annuler",
+        "en": "The new government decided to abolish several decrees from the former regime.",
+        "alts": [],
+        "form": ""
+      }
+    ]
+  },
+  {
+    "id": 2003,
+    "qs": [
+      {
+        "slot": "s|0",
+        "f": "sense",
+        "s": "Mon petit frère est très ___ ; il passe ses journées à inventer de nouveaux jeux.",
+        "a": "joueur",
+        "en": "My little brother is very playful; he spends his days inventing new games.",
+        "alts": []
+      },
+      {
+        "slot": "s|0",
+        "f": "sense",
+        "s": "Ce chiot est encore ___ — il veut qu'on lui lance la balle sans arrêt.",
+        "a": "joueur",
+        "en": "This puppy is still playful — he wants us to throw the ball for him nonstop.",
+        "alts": []
+      },
+      {
+        "slot": "s|1",
+        "f": "sense",
+        "s": "Il m'a répondu avec un sourire ___, comme si tout cela n'était qu'une plaisanterie.",
+        "a": "joueur",
+        "en": "He answered me with a playful smile, as if it were all just a joke.",
+        "alts": []
+      },
+      {
+        "slot": "s|1",
+        "f": "sense",
+        "s": "Son ton ___ m'a mis à l'aise dès le début de la conversation.",
+        "a": "joueur",
+        "en": "His playful/fun tone put me at ease right from the start of the conversation.",
+        "alts": []
+      },
+      {
+        "slot": "s|2",
+        "f": "sense",
+        "s": "Ce ___ en ligne a atteint le niveau maximum en seulement trois jours.",
+        "a": "joueur",
+        "en": "This online player reached the maximum level in just three days.",
+        "alts": []
+      },
+      {
+        "slot": "s|2",
+        "f": "sense",
+        "s": "En tant que ___ expérimenté, il connaît toutes les stratégies de ce jeu vidéo.",
+        "a": "joueur",
+        "en": "As an experienced gamer, he knows all the strategies of this video game.",
+        "alts": []
+      },
+      {
+        "slot": "s|3",
+        "f": "sense",
+        "s": "Ce ___ de football marque plus de vingt buts par saison.",
+        "a": "joueur",
+        "en": "This football player scores more than twenty goals per season.",
+        "alts": []
+      },
+      {
+        "slot": "s|3",
+        "f": "sense",
+        "s": "Le ___ de tennis a remporté le match en trois sets.",
+        "a": "joueur",
+        "en": "The tennis player won the match in three sets.",
+        "alts": []
+      },
+      {
+        "slot": "g|mp",
+        "f": "agree",
+        "s": "Ces enfants sont très ___ ; ils adorent inventer des jeux dans le jardin.",
+        "a": "joueurs",
+        "en": "These children are very playful; they love inventing games in the garden.",
+        "alts": []
+      },
+      {
+        "slot": "g|mp",
+        "f": "agree",
+        "s": "Les ___ de l'équipe nationale s'entraînent chaque matin.",
+        "a": "joueurs",
+        "en": "The players of the national team train every morning.",
+        "alts": []
+      },
+      {
+        "slot": "g|f",
+        "f": "agree",
+        "s": "Ma chatte est très ___ : elle court après tout ce qui bouge.",
+        "a": "joueuse",
+        "en": "My cat is very playful: she runs after everything that moves.",
+        "alts": []
+      },
+      {
+        "slot": "g|f",
+        "f": "agree",
+        "s": "Cette ___ de tennis a remporté plusieurs tournois cette année.",
+        "a": "joueuse",
+        "en": "This tennis player has won several tournaments this year.",
+        "alts": []
+      },
+      {
+        "slot": "g|fp",
+        "f": "agree",
+        "s": "Les ___ de l'équipe féminine de basket ont célébré leur victoire ensemble.",
+        "a": "joueuses",
+        "en": "The players of the women's basketball team celebrated their victory together.",
+        "alts": []
+      },
+      {
+        "slot": "g|fp",
+        "f": "agree",
+        "s": "Ces petites filles sont très ___ ; elles passent des heures à jouer à la poupée.",
+        "a": "joueuses",
+        "en": "These little girls are very playful; they spend hours playing with dolls.",
+        "alts": []
+      }
+    ]
+  }
+]

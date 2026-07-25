@@ -1,0 +1,101 @@
+[
+  {
+    "id": 5901,
+    "qs": [
+      {
+        "slot": "s|0",
+        "f": "sense",
+        "s": "Dès qu'elle est entrée dans la salle, j'ai compris d'___ qu'elle était la nouvelle directrice.",
+        "en": "As soon as she walked into the room, I understood right away that she was the new director.",
+        "a": "emblée",
+        "alts": []
+      },
+      {
+        "slot": "s|0",
+        "f": "sense",
+        "s": "Le candidat a conquis le jury d'___, dès les premières minutes de l'entretien.",
+        "en": "The candidate won over the jury right from the outset, from the very first minutes of the interview.",
+        "a": "emblée",
+        "alts": []
+      }
+    ]
+  },
+  {
+    "id": 5902,
+    "qs": [
+      {
+        "slot": "s|0",
+        "f": "sense",
+        "s": "Elle connaît toutes les règles du ___ en société.",
+        "a": "savoir-vivre",
+        "en": "She knows all the rules of etiquette in society.",
+        "alts": []
+      },
+      {
+        "slot": "s|0",
+        "f": "sense",
+        "s": "Enlever ses chaussures avant d'entrer chez quelqu'un est une question de ___.",
+        "a": "savoir-vivre",
+        "en": "Taking off your shoes before entering someone's home is a matter of good manners.",
+        "alts": []
+      },
+      {
+        "slot": "gender",
+        "f": "gender",
+        "s": "___ savoir-vivre s'acquiert souvent grâce à une bonne éducation.",
+        "a": "Le",
+        "en": "Good manners are often acquired through a good upbringing.",
+        "alts": []
+      },
+      {
+        "slot": "gender",
+        "f": "gender",
+        "s": "Il a montré ___ savoir-vivre irréprochable pendant le repas.",
+        "a": "un",
+        "en": "He showed impeccable manners during the meal.",
+        "alts": []
+      }
+    ]
+  },
+  {
+    "id": 5903,
+    "qs": [
+      {
+        "slot": "s|0",
+        "f": "sense",
+        "s": "Après l'inspection, les techniciens ont fait la ___ que le pont était fissuré.",
+        "en": "After the inspection, the technicians made the observation that the bridge was cracked.",
+        "a": "constatation",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "s|0",
+        "f": "sense",
+        "s": "Le rapport se limite à une simple ___ des faits, sans donner d'interprétation.",
+        "en": "The report limits itself to a simple statement of the facts, without giving any interpretation.",
+        "a": "constatation",
+        "alts": ["observation"],
+        "form": ""
+      },
+      {
+        "slot": "gender",
+        "f": "gender",
+        "s": "___ constatation faite par les enquêteurs a surpris tout le monde.",
+        "en": "The finding made by the investigators surprised everyone.",
+        "a": "La",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "gender",
+        "f": "gender",
+        "s": "___ constatation importante ressort de cette étude.",
+        "en": "An important finding emerges from this study.",
+        "a": "Une",
+        "alts": [],
+        "form": ""
+      }
+    ]
+  }
+]

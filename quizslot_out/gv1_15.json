@@ -1,0 +1,45 @@
+[
+  {
+    "id": 3346,
+    "qs": [
+      {"slot":"s|0","f":"sense","s":"Ce soir, la ___ brille d'un éclat argenté dans le ciel.","en":"Tonight, the moon shines with a silvery glow in the sky.","a":"lune","alts":[]},
+      {"slot":"s|0","f":"sense","s":"Les enfants regardaient la ___ se lever derrière les montagnes.","en":"The children watched the moon rise behind the mountains.","a":"lune","alts":[]},
+      {"slot":"s|1","f":"sense","s":"En 1969, les astronautes américains ont marché pour la première fois sur la ___.","en":"In 1969, American astronauts walked on the moon for the first time.","a":"lune","alts":[]},
+      {"slot":"s|1","f":"sense","s":"La ___ est le seul satellite naturel de la Terre.","en":"The moon is the only natural satellite of the Earth.","a":"lune","alts":[]},
+      {"slot":"gender","f":"gender","s":"Il y a ___ pleine lune ce soir.","en":"There is a full moon tonight.","a":"une","alts":[]},
+      {"slot":"gender","f":"gender","s":"___ lune se lève lentement à l'horizon.","en":"The moon rises slowly on the horizon.","a":"La","alts":[]}
+    ]
+  },
+  {
+    "id": 3347,
+    "qs": [
+      {"slot":"s|0","f":"sense","s":"La ___ de son nom dans l'article l'a vraiment surpris.","en":"The mention of his name in the article really surprised him.","a":"mention","alts":[],"form":""},
+      {"slot":"s|0","f":"sense","s":"Il n'a fait aucune ___ de cet incident lors de la réunion.","en":"He made no mention of that incident during the meeting.","a":"mention","alts":[],"form":""},
+      {"slot":"s|1","f":"sense","s":"Le formulaire porte la ___ « obligatoire » dans le coin supérieur droit.","en":"The form bears the note 'mandatory' in the upper right corner.","a":"mention","alts":[],"form":""},
+      {"slot":"s|1","f":"sense","s":"Veuillez rayer la ___ inutile avant de signer le document.","en":"Please cross out the inapplicable indication before signing the document.","a":"mention","alts":[],"form":""},
+      {"slot":"s|2","f":"sense","s":"Le professeur a laissé une ___ encourageante en bas de sa copie.","en":"The teacher left an encouraging comment at the bottom of his paper.","a":"mention","alts":["remarque","note"],"form":""},
+      {"slot":"s|2","f":"sense","s":"Elle a reçu une ___ très positive de son directeur sur son rapport de stage.","en":"She received a very positive comment from her supervisor on her internship report.","a":"mention","alts":["remarque","note"],"form":""},
+      {"slot":"s|3","f":"sense","s":"Il a obtenu son baccalauréat avec la ___ « très bien ».","en":"He passed his baccalaureate with the distinction 'very good'.","a":"mention","alts":[],"form":""},
+      {"slot":"s|3","f":"sense","s":"Elle espère décrocher la ___ « bien » à ses examens de fin d'année.","en":"She hopes to obtain the 'good' distinction in her end-of-year exams.","a":"mention","alts":[],"form":""},
+      {"slot":"gender","f":"gender","s":"Il a ajouté ___ mention importante au bas du contrat.","en":"He added an important note at the bottom of the contract.","a":"une","alts":[],"form":""},
+      {"slot":"gender","f":"gender","s":"___ mention de ce détail figure dans le rapport officiel.","en":"The mention of this detail appears in the official report.","a":"La","alts":[],"form":""}
+    ]
+  },
+  {
+    "id": 3348,
+    "qs": [
+      {"slot":"s|0","f":"sense","s":"Le médecin a posé une question très ___ pour mieux comprendre les symptômes du patient.","en":"The doctor asked a very appropriate question to better understand the patient's symptoms.","a":"pertinente","alts":[],"form":""},
+      {"slot":"s|0","f":"sense","s":"Son choix de mots était ___ et a bien reflété la gravité de la situation.","en":"His choice of words was appropriate and well reflected the seriousness of the situation.","a":"pertinent","alts":[],"form":""},
+      {"slot":"s|1","f":"sense","s":"Merci de n'envoyer que les documents ___ à votre dossier de candidature.","en":"Please send only the documents relevant to your application file.","a":"pertinents","alts":[],"form":""},
+      {"slot":"s|1","f":"sense","s":"Cette information n'est pas ___ au sujet que nous étudions aujourd'hui.","en":"This information is not relevant to the topic we are studying today.","a":"pertinente","alts":[],"form":""},
+      {"slot":"s|2","f":"sense","s":"L'élève a donné une réponse ___ qui montrait qu'il avait bien compris la question.","en":"The student gave an on-point answer that showed he had understood the question well.","a":"pertinente","alts":[],"form":""},
+      {"slot":"s|2","f":"sense","s":"Le journaliste a soulevé un point très ___ lors du débat télévisé.","en":"The journalist raised a very on-point issue during the televised debate.","a":"pertinent","alts":[],"form":""},
+      {"slot":"g|mp","f":"agree","s":"Les exemples cités dans cet article sont particulièrement ___.","en":"The examples cited in this article are particularly pertinent.","a":"pertinents","alts":[],"form":""},
+      {"slot":"g|mp","f":"agree","s":"Ses arguments étaient ___ et ont convaincu tout le jury.","en":"His arguments were pertinent and convinced the entire jury.","a":"pertinents","alts":[],"form":""},
+      {"slot":"g|f","f":"agree","s":"La directrice a formulé une critique très ___ sur notre projet.","en":"The director made a very pertinent critique of our project.","a":"pertinente","alts":[],"form":""},
+      {"slot":"g|f","f":"agree","s":"C'est une remarque ___ qui mérite d'être prise en compte.","en":"It is a pertinent remark that deserves to be taken into account.","a":"pertinente","alts":[],"form":""},
+      {"slot":"g|fp","f":"agree","s":"Les questions posées par les étudiants étaient toutes ___.","en":"The questions asked by the students were all pertinent.","a":"pertinentes","alts":[],"form":""},
+      {"slot":"g|fp","f":"agree","s":"Ses analyses sont ___ et bien documentées.","en":"His analyses are pertinent and well documented.","a":"pertinentes","alts":[],"form":""}
+    ]
+  }
+]

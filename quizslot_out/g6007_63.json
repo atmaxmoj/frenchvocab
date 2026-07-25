@@ -1,0 +1,45 @@
+[
+  {
+    "id": 6384,
+    "qs": [
+      {"slot":"s|0","f":"sense","s":"Les radiographies ont révélé un problème ___ au niveau du genou.","en":"The X-rays revealed a bone problem in the knee.","a":"osseux","alts":[]},
+      {"slot":"s|0","f":"sense","s":"Ce médicament renforce le tissu ___ chez les patients ostéoporotiques.","en":"This medication strengthens bone tissue in osteoporotic patients.","a":"osseux","alts":[]},
+      {"slot":"s|1","f":"sense","s":"Après sa maladie, il avait un visage ___ et des joues creuses.","en":"After his illness, he had a bony, gaunt face and hollow cheeks.","a":"osseux","alts":[]},
+      {"slot":"s|1","f":"sense","s":"Ses doigts étaient longs et ___, presque décharnés.","en":"His fingers were long and bony, almost emaciated.","a":"osseux","alts":[]},
+      {"slot":"g|mp","f":"agree","s":"Ces chevaux ont des membres particulièrement ___.","en":"These horses have particularly bony legs.","a":"osseux","alts":[]},
+      {"slot":"g|mp","f":"agree","s":"Les visages ___ des coureurs trahissaient des mois d'entraînement intensif.","en":"The runners' bony faces betrayed months of intense training.","a":"osseux","alts":[]},
+      {"slot":"g|f","f":"agree","s":"Cette structure ___ soutient tout le squelette de l'aile de l'oiseau.","en":"This bony structure supports the entire skeleton of the bird's wing.","a":"osseuse","alts":[]},
+      {"slot":"g|f","f":"agree","s":"Sa main était si ___ qu'on voyait chaque articulation.","en":"Her hand was so bony that you could see every joint.","a":"osseuse","alts":[]},
+      {"slot":"g|fp","f":"agree","s":"Les plaques ___ de la carapace protègent la tortue.","en":"The bony plates of the shell protect the turtle.","a":"osseuses","alts":[]},
+      {"slot":"g|fp","f":"agree","s":"Ses épaules ___ ressortaient sous son pull trop grand.","en":"Her bony shoulders stuck out under her oversized sweater.","a":"osseuses","alts":[]}
+    ]
+  },
+  {
+    "id": 6385,
+    "qs": [
+      {"slot":"s|0","f":"sense","s":"Ce chien est très ___ ; il dort toute la journée sans bouger.","en":"This dog is very inactive; it sleeps all day without moving.","a":"inactif","alts":[]},
+      {"slot":"s|0","f":"sense","s":"Le virus reste ___ tant qu'il ne trouve pas d'hôte à infecter.","en":"The virus remains inactive as long as it doesn't find a host to infect.","a":"inactif","alts":[]},
+      {"slot":"s|1","f":"sense","s":"Après sa retraite, il est désormais classé comme ___ par les statistiques économiques.","en":"After his retirement, he is now classified as economically inactive in the statistics.","a":"inactif","alts":[]},
+      {"slot":"s|1","f":"sense","s":"Un étudiant qui ne travaille pas est considéré comme ___ sur le plan économique.","en":"A student who doesn't work is considered economically inactive.","a":"inactif","alts":[]},
+      {"slot":"s|2","f":"sense","s":"Ce compte bancaire est ___ depuis plus de deux ans, aucune transaction n'a eu lieu.","en":"This bank account has been inactive/dormant for more than two years; no transaction has taken place.","a":"inactif","alts":[]},
+      {"slot":"s|2","f":"sense","s":"Ce médicament est ___ contre cette bactérie résistante.","en":"This drug is ineffective (inactive) against this resistant bacteria.","a":"inactif","alts":[]},
+      {"slot":"g|mp","f":"agree","s":"Ces comptes sont ___ depuis la fusion des deux banques.","en":"These accounts have been inactive since the merger of the two banks.","a":"inactifs","alts":[]},
+      {"slot":"g|mp","f":"agree","s":"Les volcans de cette région sont ___ depuis des siècles.","en":"The volcanoes in this region have been inactive for centuries.","a":"inactifs","alts":[]},
+      {"slot":"g|f","f":"agree","s":"Cette usine est ___ depuis la fermeture de l'année dernière.","en":"This factory has been inactive since last year's closure.","a":"inactive","alts":[]},
+      {"slot":"g|f","f":"agree","s":"Ma tante est restée ___ après son accident, incapable de travailler.","en":"My aunt remained economically inactive after her accident, unable to work.","a":"inactive","alts":[]},
+      {"slot":"g|fp","f":"agree","s":"Ces machines sont ___ depuis la panne d'électricité d'hier.","en":"These machines have been inactive since yesterday's power outage.","a":"inactives","alts":[]},
+      {"slot":"g|fp","f":"agree","s":"Beaucoup de femmes de cette génération étaient ___ sur le plan professionnel.","en":"Many women of that generation were economically inactive (not in the workforce).","a":"inactives","alts":[]}
+    ]
+  },
+  {
+    "id": 6386,
+    "qs": [
+      {"slot":"s|0","f":"sense","s":"Chaque matin, le ___ va chercher de l'eau à la fontaine du village.","en":"Every morning, the villager goes to fetch water from the village fountain.","a":"villageois","alts":[]},
+      {"slot":"s|0","f":"sense","s":"Les ___ se sont réunis sur la place pour discuter de la récolte.","en":"The villagers gathered in the square to discuss the harvest.","a":"villageois","alts":[]},
+      {"slot":"s|1","f":"sense","s":"Le marché ___ attire de nombreux touristes chaque samedi.","en":"The village market attracts many tourists every Saturday.","a":"villageois","alts":[]},
+      {"slot":"s|1","f":"sense","s":"Elle apprécie la tranquillité de la vie ___ en Provence.","en":"She appreciates the tranquility of village life in Provence.","a":"villageoise","alts":[]},
+      {"slot":"gender","f":"gender","s":"___ villageois nous a proposé de nous héberger pour la nuit.","en":"A villager offered to put us up for the night.","a":"Un","alts":[]},
+      {"slot":"gender","f":"gender","s":"___ villageois que j'ai rencontré hier connaît toute la région.","en":"The villager whom I met yesterday knows the whole region.","a":"Le","alts":[]}
+    ]
+  }
+]

@@ -1,0 +1,185 @@
+[
+  {
+    "id": 5529,
+    "qs": [
+      {
+        "slot": "s|0",
+        "f": "sense",
+        "s": "Le serveur a posé une ___ d'eau fraîche sur la table.",
+        "en": "The waiter set a carafe of fresh water on the table.",
+        "a": "carafe",
+        "alts": []
+      },
+      {
+        "slot": "s|0",
+        "f": "sense",
+        "s": "Il a versé le vin dans une ___ avant de servir les invités.",
+        "en": "He poured the wine into a carafe before serving the guests.",
+        "a": "carafe",
+        "alts": []
+      },
+      {
+        "slot": "gender",
+        "f": "gender",
+        "s": "Sers-toi de ___ carafe pour remplir les verres.",
+        "en": "Help yourself to the carafe to fill the glasses.",
+        "a": "la",
+        "alts": []
+      },
+      {
+        "slot": "gender",
+        "f": "gender",
+        "s": "Il a acheté ___ carafe en cristal pour son mariage.",
+        "en": "He bought a crystal carafe for his wedding.",
+        "a": "une",
+        "alts": []
+      }
+    ]
+  },
+  {
+    "id": 5530,
+    "qs": [
+      {
+        "slot": "s|0",
+        "f": "sense",
+        "s": "Sa ___ régulière de ce restaurant montre à quel point il apprécie sa cuisine.",
+        "en": "His regular patronage of this restaurant shows how much he appreciates its cuisine.",
+        "a": "fréquentation",
+        "alts": []
+      },
+      {
+        "slot": "s|0",
+        "f": "sense",
+        "s": "La ___ assidue de la bibliothèque l'a beaucoup aidé pour ses examens.",
+        "en": "His diligent frequenting of the library helped him a lot for his exams.",
+        "a": "fréquentation",
+        "alts": []
+      },
+      {
+        "slot": "s|1",
+        "f": "sense",
+        "s": "La ___ du musée a augmenté de 30% depuis l'exposition Monet.",
+        "en": "The museum's attendance has increased by 30% since the Monet exhibition.",
+        "a": "fréquentation",
+        "alts": []
+      },
+      {
+        "slot": "s|1",
+        "f": "sense",
+        "s": "La ___ touristique de la ville atteint son pic en été.",
+        "en": "The city's tourist footfall peaks in summer.",
+        "a": "fréquentation",
+        "alts": []
+      },
+      {
+        "slot": "s|2",
+        "f": "sense",
+        "s": "Ses parents s'inquiètent de ses ___ douteuses.",
+        "en": "His parents worry about the dubious company he keeps.",
+        "a": "fréquentations",
+        "alts": []
+      },
+      {
+        "slot": "s|2",
+        "f": "sense",
+        "s": "Il a rompu avec ses mauvaises ___ pour se consacrer à ses études.",
+        "en": "He broke off his bad company to focus on his studies.",
+        "a": "fréquentations",
+        "alts": []
+      },
+      {
+        "slot": "gender",
+        "f": "gender",
+        "s": "___ fréquentation des salles de sport a explosé pendant le confinement.",
+        "en": "Attendance at gyms exploded during the lockdown.",
+        "a": "La",
+        "alts": []
+      },
+      {
+        "slot": "gender",
+        "f": "gender",
+        "s": "Ce café connaît ___ fréquentation constante toute l'année.",
+        "en": "This café enjoys a steady flow of customers all year round.",
+        "a": "une",
+        "alts": []
+      }
+    ]
+  },
+  {
+    "id": 5531,
+    "qs": [
+      {
+        "slot": "s|0",
+        "f": "sense",
+        "s": "Le restaurant sert un plat ___ typique, la quenelle.",
+        "en": "The restaurant serves a typical Lyonnais dish, the quenelle.",
+        "a": "lyonnais",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "s|0",
+        "f": "sense",
+        "s": "Mon collègue est ___, il est né à Lyon.",
+        "en": "My colleague is from Lyon, he was born in Lyon.",
+        "a": "lyonnais",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "g|mp",
+        "f": "agree",
+        "s": "Les musées ___ attirent de nombreux touristes chaque année.",
+        "en": "The museums of Lyon attract many tourists every year.",
+        "a": "lyonnais",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "g|mp",
+        "f": "agree",
+        "s": "Les chefs ___ sont réputés pour leur cuisine traditionnelle.",
+        "en": "Chefs from Lyon are known for their traditional cuisine.",
+        "a": "lyonnais",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "g|f",
+        "f": "agree",
+        "s": "La cuisine ___ est réputée pour ses spécialités comme la quenelle.",
+        "en": "Lyonnais cuisine is known for its specialties such as the quenelle.",
+        "a": "lyonnaise",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "g|f",
+        "f": "agree",
+        "s": "Elle est ___, elle a grandi dans le quartier de la Croix-Rousse.",
+        "en": "She is from Lyon, she grew up in the Croix-Rousse district.",
+        "a": "lyonnaise",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "g|fp",
+        "f": "agree",
+        "s": "Les rues ___ du vieux Lyon sont pittoresques.",
+        "en": "The Lyonnais streets of old Lyon are picturesque.",
+        "a": "lyonnaises",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "g|fp",
+        "f": "agree",
+        "s": "Ces deux entreprises ___ exportent leurs produits dans toute l'Europe.",
+        "en": "These two Lyonnais companies export their products throughout Europe.",
+        "a": "lyonnaises",
+        "alts": [],
+        "form": ""
+      }
+    ]
+  }
+]

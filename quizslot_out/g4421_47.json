@@ -1,0 +1,231 @@
+[
+  {
+    "id": 4562,
+    "qs": [
+      {
+        "slot": "s|0",
+        "f": "sense",
+        "s": "Ce panneau ___ indique la sortie de secours.",
+        "a": "lumineux",
+        "en": "This glowing sign indicates the emergency exit.",
+        "alts": []
+      },
+      {
+        "slot": "s|0",
+        "f": "sense",
+        "s": "L'écran ___ de son téléphone l'a réveillé en pleine nuit.",
+        "a": "lumineux",
+        "en": "The glowing screen of his phone woke him up in the middle of the night.",
+        "alts": []
+      },
+      {
+        "slot": "s|1",
+        "f": "sense",
+        "s": "Cet appartement est très ___ grâce à ses grandes fenêtres.",
+        "a": "lumineux",
+        "en": "This apartment is very bright thanks to its large windows.",
+        "alts": ["clair", "éclairé"]
+      },
+      {
+        "slot": "s|1",
+        "f": "sense",
+        "s": "Nous préférons un bureau ___ pour travailler plus confortablement.",
+        "a": "lumineux",
+        "en": "We prefer a bright office to work more comfortably.",
+        "alts": ["clair", "éclairé"]
+      },
+      {
+        "slot": "s|2",
+        "f": "sense",
+        "s": "Il voit un avenir ___ pour sa famille.",
+        "a": "lumineux",
+        "en": "He sees a bright future for his family.",
+        "alts": ["brillant"]
+      },
+      {
+        "slot": "s|2",
+        "f": "sense",
+        "s": "Malgré les difficultés, le président a dressé un tableau ___ de la situation économique.",
+        "a": "lumineux",
+        "en": "Despite the difficulties, the president painted a bright picture of the economic situation.",
+        "alts": ["optimiste"]
+      },
+      {
+        "slot": "g|mp",
+        "f": "agree",
+        "s": "Les couloirs ___ de cet hôpital aident les patients à se sentir mieux.",
+        "a": "lumineux",
+        "en": "The bright corridors of this hospital help patients feel better.",
+        "alts": []
+      },
+      {
+        "slot": "g|mp",
+        "f": "agree",
+        "s": "Ces tableaux ___ illuminent toute la galerie.",
+        "a": "lumineux",
+        "en": "These luminous paintings light up the entire gallery.",
+        "alts": []
+      },
+      {
+        "slot": "g|f",
+        "f": "agree",
+        "s": "La salle de séjour est très ___ en été.",
+        "a": "lumineuse",
+        "en": "The living room is very bright in summer.",
+        "alts": []
+      },
+      {
+        "slot": "g|f",
+        "f": "agree",
+        "s": "Elle portait une robe ___ qui attirait tous les regards.",
+        "a": "lumineuse",
+        "en": "She was wearing a luminous dress that drew everyone's attention.",
+        "alts": []
+      },
+      {
+        "slot": "g|fp",
+        "f": "agree",
+        "s": "Les façades ___ de ces immeubles modernisent tout le quartier.",
+        "a": "lumineuses",
+        "en": "The bright facades of these buildings modernize the entire neighborhood.",
+        "alts": []
+      },
+      {
+        "slot": "g|fp",
+        "f": "agree",
+        "s": "Ces couleurs ___ donnent de la vie à la pièce.",
+        "a": "lumineuses",
+        "en": "These luminous colors bring the room to life.",
+        "alts": []
+      }
+    ]
+  },
+  {
+    "id": 4563,
+    "qs": [
+      {
+        "slot": "s|0",
+        "f": "sense",
+        "s": "Il fait froid dehors ; je vais me préparer une ___ bien chaude.",
+        "a": "soupe",
+        "en": "It's cold outside; I'm going to make myself a nice hot soup.",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "s|0",
+        "f": "sense",
+        "s": "Ma grand-mère m'a servi une ___ de légumes quand j'étais malade.",
+        "a": "soupe",
+        "en": "My grandmother served me a vegetable soup when I was sick.",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "s|1",
+        "f": "sense",
+        "s": "Au restaurant, j'ai choisi la ___ du jour comme entrée.",
+        "a": "soupe",
+        "en": "At the restaurant, I chose the soup of the day as a starter.",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "s|1",
+        "f": "sense",
+        "s": "Ce chef est spécialisé dans les ___ du monde entier.",
+        "a": "soupes",
+        "en": "This chef specializes in soups from all over the world.",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "gender",
+        "f": "gender",
+        "s": "J'ai commandé ___ soupe à l'oignon.",
+        "a": "une",
+        "en": "I ordered an onion soup.",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "gender",
+        "f": "gender",
+        "s": "Est-ce que tu as fini ___ soupe ?",
+        "a": "la",
+        "en": "Did you finish the soup?",
+        "alts": [],
+        "form": ""
+      }
+    ]
+  },
+  {
+    "id": 4564,
+    "qs": [
+      {
+        "slot": "s|0",
+        "f": "sense",
+        "s": "Tu as réussi ton examen ? ___ ! Je suis vraiment fier de toi.",
+        "a": "Bravo",
+        "en": "You passed your exam? Well done! I'm really proud of you.",
+        "alts": []
+      },
+      {
+        "slot": "s|0",
+        "f": "sense",
+        "s": "Elle a terminé le marathon en moins de trois heures. ___ !",
+        "a": "Bravo",
+        "en": "She finished the marathon in under three hours. Well done!",
+        "alts": []
+      },
+      {
+        "slot": "s|1",
+        "f": "sense",
+        "s": "À la fin du spectacle, le public a éclaté en ___ enthousiastes.",
+        "a": "bravos",
+        "en": "At the end of the show, the audience burst into enthusiastic cheers.",
+        "alts": []
+      },
+      {
+        "slot": "s|1",
+        "f": "sense",
+        "s": "La chanteuse a reçu des ___ chaleureux de toute la salle.",
+        "a": "bravos",
+        "en": "The singer received warm cheers from the entire hall.",
+        "alts": []
+      },
+      {
+        "slot": "s|2",
+        "f": "sense",
+        "s": "On entendait des ___ fusant de partout dans le théâtre après l'aria.",
+        "a": "bravos",
+        "en": "Shouts of approval could be heard coming from everywhere in the theatre after the aria.",
+        "alts": []
+      },
+      {
+        "slot": "s|2",
+        "f": "sense",
+        "s": "Le comédien a salué plusieurs fois avant que les ___ ne s'éteignent.",
+        "a": "bravos",
+        "en": "The actor took several bows before the shouts of approval died down.",
+        "alts": []
+      },
+      {
+        "slot": "gender",
+        "f": "gender",
+        "s": "Il a lancé ___ bravo sincère à son collègue après la présentation.",
+        "a": "un",
+        "en": "He gave a sincere bravo to his colleague after the presentation.",
+        "alts": []
+      },
+      {
+        "slot": "gender",
+        "f": "gender",
+        "s": "___ bravo retentissant a salué la performance du pianiste.",
+        "a": "Un",
+        "en": "A resounding bravo greeted the pianist's performance.",
+        "alts": []
+      }
+    ]
+  }
+]

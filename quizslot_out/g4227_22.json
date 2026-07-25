@@ -1,0 +1,205 @@
+[
+  {
+    "id": 4293,
+    "qs": [
+      {
+        "slot": "s|0",
+        "f": "sense",
+        "s": "Le projet est financé ___ par des fonds publics.",
+        "en": "The project is partly funded by public funds.",
+        "a": "partiellement",
+        "alts": ["en partie"],
+        "form": ""
+      },
+      {
+        "slot": "s|0",
+        "f": "sense",
+        "s": "La salle était ___ occupée quand nous sommes arrivés.",
+        "en": "The room was partly occupied when we arrived.",
+        "a": "partiellement",
+        "alts": ["en partie"],
+        "form": ""
+      },
+      {
+        "slot": "s|1",
+        "f": "sense",
+        "s": "Il a ___ compris les instructions et a fait des erreurs.",
+        "en": "He did not completely understand the instructions and made mistakes.",
+        "a": "partiellement",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "s|1",
+        "f": "sense",
+        "s": "Le problème a été ___ résolu ; il reste encore des difficultés.",
+        "en": "The problem has not been completely solved; difficulties remain.",
+        "a": "partiellement",
+        "alts": [],
+        "form": ""
+      }
+    ]
+  },
+  {
+    "id": 4294,
+    "qs": [
+      {
+        "slot": "s|0",
+        "f": "sense",
+        "s": "Le gouvernement a interdit l'accès à la zone ___ après l'accident nucléaire.",
+        "en": "The government banned access to the radioactive zone after the nuclear accident.",
+        "a": "radioactive",
+        "alts": []
+      },
+      {
+        "slot": "s|0",
+        "f": "sense",
+        "s": "Les déchets ___ doivent être stockés dans des installations spécialisées pendant des milliers d'années.",
+        "en": "Radioactive waste must be stored in specialized facilities for thousands of years.",
+        "a": "radioactifs",
+        "alts": []
+      },
+      {
+        "slot": "g|ms",
+        "f": "agree",
+        "s": "Ce minerai ___ a été découvert dans une mine abandonnée.",
+        "en": "This radioactive ore was discovered in an abandoned mine.",
+        "a": "radioactif",
+        "alts": []
+      },
+      {
+        "slot": "g|ms",
+        "f": "agree",
+        "s": "Le gaz ___ émis par ce sol peut s'accumuler dans les bâtiments et nuire à la santé.",
+        "en": "The radioactive gas emitted by this soil can accumulate in buildings and harm health.",
+        "a": "radioactif",
+        "alts": []
+      },
+      {
+        "slot": "g|mp",
+        "f": "agree",
+        "s": "Les éléments ___ présents dans ce réacteur présentent un danger pour la population.",
+        "en": "The radioactive elements present in this reactor pose a danger to the population.",
+        "a": "radioactifs",
+        "alts": []
+      },
+      {
+        "slot": "g|mp",
+        "f": "agree",
+        "s": "Les matériaux ___ sont transportés dans des conteneurs blindés pour éviter toute contamination.",
+        "en": "Radioactive materials are transported in armored containers to avoid any contamination.",
+        "a": "radioactifs",
+        "alts": []
+      },
+      {
+        "slot": "g|f",
+        "f": "agree",
+        "s": "La substance ___ a été découverte par Marie Curie au début du XXe siècle.",
+        "en": "The radioactive substance was discovered by Marie Curie at the beginning of the 20th century.",
+        "a": "radioactive",
+        "alts": []
+      },
+      {
+        "slot": "g|f",
+        "f": "agree",
+        "s": "L'eau ___ provenant de la centrale ne doit en aucun cas être rejetée dans la rivière.",
+        "en": "The radioactive water coming from the power plant must not be released into the river under any circumstances.",
+        "a": "radioactive",
+        "alts": []
+      },
+      {
+        "slot": "g|fp",
+        "f": "agree",
+        "s": "Les particules ___ émises lors de l'explosion ont contaminé une vaste région.",
+        "en": "The radioactive particles emitted during the explosion contaminated a vast region.",
+        "a": "radioactives",
+        "alts": []
+      },
+      {
+        "slot": "g|fp",
+        "f": "agree",
+        "s": "Ces roches ___ naturelles dégagent un rayonnement faible mais mesurable.",
+        "en": "These naturally radioactive rocks emit a low but measurable radiation.",
+        "a": "radioactives",
+        "alts": []
+      }
+    ]
+  },
+  {
+    "id": 4295,
+    "qs": [
+      {
+        "slot": "s|0",
+        "f": "sense",
+        "s": "Il a oublié sa ___ et ne peut pas entrer dans le bâtiment.",
+        "en": "He forgot his pass and cannot enter the building.",
+        "a": "passe",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "s|0",
+        "f": "sense",
+        "s": "Pour accéder à la salle des archives, vous devez présenter votre ___.",
+        "en": "To access the archive room, you must present your pass.",
+        "a": "passe",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "s|1",
+        "f": "sense",
+        "s": "Le capitaine a guidé le navire à travers la ___ étroite entre les deux îles.",
+        "en": "The captain guided the ship through the narrow channel between the two islands.",
+        "a": "passe",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "s|1",
+        "f": "sense",
+        "s": "Cette ___ maritime est connue pour ses courants dangereux.",
+        "en": "This maritime channel is known for its dangerous currents.",
+        "a": "passe",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "s|2",
+        "f": "sense",
+        "s": "Le joueur a réalisé une excellente ___ qui a permis à son coéquipier de marquer.",
+        "en": "The player made an excellent pass that allowed his teammate to score.",
+        "a": "passe",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "s|2",
+        "f": "sense",
+        "s": "L'entraîneur a demandé aux joueurs de faire plus de ___ courtes pendant le match.",
+        "en": "The coach asked the players to make more short passes during the match.",
+        "a": "passes",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "gender",
+        "f": "gender",
+        "s": "Il a montré ___ passe aux agents de sécurité à l'entrée.",
+        "en": "He showed the pass to the security agents at the entrance.",
+        "a": "la",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "gender",
+        "f": "gender",
+        "s": "Le marin a repéré ___ passe praticable entre les récifs.",
+        "en": "The sailor spotted a navigable channel between the reefs.",
+        "a": "une",
+        "alts": [],
+        "form": ""
+      }
+    ]
+  }
+]

@@ -1,0 +1,634 @@
+[
+  {
+    "id": 99,
+    "qs": [
+      {
+        "slot": "s|0",
+        "f": "sense",
+        "s": "Le trajet dure environ une ___ en voiture.",
+        "en": "The journey takes about an hour by car.",
+        "a": "heure",
+        "alts": []
+      },
+      {
+        "slot": "s|0",
+        "f": "sense",
+        "s": "Elle a attendu deux ___ à la gare avant que le train arrive.",
+        "en": "She waited two hours at the station before the train arrived.",
+        "a": "heures",
+        "alts": []
+      },
+      {
+        "slot": "s|1",
+        "f": "sense",
+        "s": "Tu sais à quelle ___ commence le film ce soir ?",
+        "en": "Do you know what time the film starts tonight?",
+        "a": "heure",
+        "alts": []
+      },
+      {
+        "slot": "s|1",
+        "f": "sense",
+        "s": "À quelle ___ as-tu rendez-vous chez le médecin ?",
+        "en": "What time is your doctor's appointment?",
+        "a": "heure",
+        "alts": []
+      },
+      {
+        "slot": "s|2",
+        "f": "sense",
+        "s": "Je n'ai pas l'___ de lire en ce moment, je suis trop occupé.",
+        "en": "I don't have time to read right now, I'm too busy.",
+        "a": "heure",
+        "alts": []
+      },
+      {
+        "slot": "s|2",
+        "f": "sense",
+        "s": "Il est enfin arrivé à l'___ pour dîner avec nous.",
+        "en": "He finally arrived in time to have dinner with us.",
+        "a": "heure",
+        "alts": []
+      },
+      {
+        "slot": "gender",
+        "f": "gender",
+        "s": "Il a passé ___ heure à corriger ses erreurs.",
+        "en": "He spent an hour correcting his mistakes.",
+        "a": "une",
+        "alts": []
+      },
+      {
+        "slot": "gender",
+        "f": "gender",
+        "s": "La réunion a duré ___ heure et demie.",
+        "en": "The meeting lasted an hour and a half.",
+        "a": "une",
+        "alts": []
+      }
+    ]
+  },
+  {
+    "id": 100,
+    "qs": [
+      {
+        "slot": "t|Présent|0",
+        "f": "tense",
+        "s": "Je ___ chez moi ce soir.",
+        "en": "I am staying home tonight.",
+        "a": "reste",
+        "alts": [],
+        "form": "Présent"
+      },
+      {
+        "slot": "t|Présent|0",
+        "f": "tense",
+        "s": "Mon chat ___ toujours près de la fenêtre.",
+        "en": "My cat always stays near the window.",
+        "a": "reste",
+        "alts": [],
+        "form": "Présent"
+      },
+      {
+        "slot": "t|Présent|1",
+        "f": "tense",
+        "s": "Tu ___ avec nous ce week-end ?",
+        "en": "Are you staying with us this weekend?",
+        "a": "restes",
+        "alts": [],
+        "form": "Présent"
+      },
+      {
+        "slot": "t|Présent|1",
+        "f": "tense",
+        "s": "Pourquoi tu ___ seul dans ta chambre ?",
+        "en": "Why do you stay alone in your room?",
+        "a": "restes",
+        "alts": [],
+        "form": "Présent"
+      },
+      {
+        "slot": "t|Présent|2",
+        "f": "tense",
+        "s": "Nous ___ en France jusqu'à la fin du mois.",
+        "en": "We are staying in France until the end of the month.",
+        "a": "restons",
+        "alts": [],
+        "form": "Présent"
+      },
+      {
+        "slot": "t|Présent|2",
+        "f": "tense",
+        "s": "Nous ___ calmes même en cas de problème.",
+        "en": "We stay calm even when there is a problem.",
+        "a": "restons",
+        "alts": [],
+        "form": "Présent"
+      },
+      {
+        "slot": "t|Présent|3",
+        "f": "tense",
+        "s": "Vous ___ encore longtemps à Paris ?",
+        "en": "Are you staying in Paris much longer?",
+        "a": "restez",
+        "alts": [],
+        "form": "Présent"
+      },
+      {
+        "slot": "t|Présent|3",
+        "f": "tense",
+        "s": "Vous ___ en contact avec vos anciens collègues ?",
+        "en": "Do you stay in contact with your former colleagues?",
+        "a": "restez",
+        "alts": [],
+        "form": "Présent"
+      },
+      {
+        "slot": "t|Présent|4",
+        "f": "tense",
+        "s": "Les enfants ___ dans la salle de jeux.",
+        "en": "The children stay in the playroom.",
+        "a": "restent",
+        "alts": [],
+        "form": "Présent"
+      },
+      {
+        "slot": "t|Présent|4",
+        "f": "tense",
+        "s": "Ils ___ silencieux pendant toute la réunion.",
+        "en": "They remain silent throughout the entire meeting.",
+        "a": "restent",
+        "alts": [],
+        "form": "Présent"
+      },
+      {
+        "slot": "t|Passé composé|0",
+        "f": "tense",
+        "s": "Hier soir, je ___ à la maison à cause de la pluie.",
+        "en": "Yesterday evening, I stayed home because of the rain.",
+        "a": "suis resté",
+        "alts": [],
+        "form": "Passé composé"
+      },
+      {
+        "slot": "t|Passé composé|0",
+        "f": "tense",
+        "s": "Je ___ debout jusqu'à minuit pour finir mon travail.",
+        "en": "I stayed up until midnight to finish my work.",
+        "a": "suis resté",
+        "alts": [],
+        "form": "Passé composé"
+      },
+      {
+        "slot": "t|Passé composé|1",
+        "f": "tense",
+        "s": "Tu ___ calme pendant tout l'entretien, bravo !",
+        "en": "You stayed calm throughout the interview, well done!",
+        "a": "es resté",
+        "alts": [],
+        "form": "Passé composé"
+      },
+      {
+        "slot": "t|Passé composé|1",
+        "f": "tense",
+        "s": "Combien de jours tu ___ à Lyon lors de ton voyage ?",
+        "en": "How many days did you stay in Lyon during your trip?",
+        "a": "es resté",
+        "alts": [],
+        "form": "Passé composé"
+      },
+      {
+        "slot": "t|Passé composé|2",
+        "f": "tense",
+        "s": "Mon frère ___ à l'hôpital pendant trois jours.",
+        "en": "My brother stayed in hospital for three days.",
+        "a": "est resté",
+        "alts": [],
+        "form": "Passé composé"
+      },
+      {
+        "slot": "t|Passé composé|2",
+        "f": "tense",
+        "s": "Le chien ___ assis sans bouger pendant une heure.",
+        "en": "The dog remained seated without moving for an hour.",
+        "a": "est resté",
+        "alts": [],
+        "form": "Passé composé"
+      },
+      {
+        "slot": "t|Passé composé|3",
+        "f": "tense",
+        "s": "Nous ___ à la campagne tout le week-end.",
+        "en": "We stayed in the countryside all weekend.",
+        "a": "sommes restés",
+        "alts": [],
+        "form": "Passé composé"
+      },
+      {
+        "slot": "t|Passé composé|3",
+        "f": "tense",
+        "s": "Nous ___ debout jusqu'à l'aube pour fêter la nouvelle année.",
+        "en": "We stayed up until dawn to celebrate the new year.",
+        "a": "sommes restés",
+        "alts": [],
+        "form": "Passé composé"
+      },
+      {
+        "slot": "t|Passé composé|4",
+        "f": "tense",
+        "s": "Vous ___ combien de temps au musée ?",
+        "en": "How long did you stay at the museum?",
+        "a": "êtes restés",
+        "alts": [],
+        "form": "Passé composé"
+      },
+      {
+        "slot": "t|Passé composé|4",
+        "f": "tense",
+        "s": "Messieurs, vous ___ très patients : merci.",
+        "en": "Gentlemen, you remained very patient: thank you.",
+        "a": "êtes restés",
+        "alts": [],
+        "form": "Passé composé"
+      },
+      {
+        "slot": "t|Passé composé|5",
+        "f": "tense",
+        "s": "Les invités ___ après la fête pour aider à ranger.",
+        "en": "The guests stayed after the party to help tidy up.",
+        "a": "sont restés",
+        "alts": [],
+        "form": "Passé composé"
+      },
+      {
+        "slot": "t|Passé composé|5",
+        "f": "tense",
+        "s": "Ils ___ bloqués dans l'ascenseur pendant vingt minutes.",
+        "en": "They were stuck in the elevator for twenty minutes.",
+        "a": "sont restés",
+        "alts": [],
+        "form": "Passé composé"
+      },
+      {
+        "slot": "t|Imparfait|0",
+        "f": "tense",
+        "s": "Quand j'étais enfant, je ___ souvent chez mes grands-parents.",
+        "en": "When I was a child, I often stayed at my grandparents' place.",
+        "a": "restais",
+        "alts": [],
+        "form": "Imparfait"
+      },
+      {
+        "slot": "t|Imparfait|0",
+        "f": "tense",
+        "s": "Tu ___ toujours debout très tard le samedi soir.",
+        "en": "You always stayed up very late on Saturday nights.",
+        "a": "restais",
+        "alts": [],
+        "form": "Imparfait"
+      },
+      {
+        "slot": "t|Imparfait|1",
+        "f": "tense",
+        "s": "Le vieux château ___ silencieux la nuit.",
+        "en": "The old castle remained silent at night.",
+        "a": "restait",
+        "alts": [],
+        "form": "Imparfait"
+      },
+      {
+        "slot": "t|Imparfait|1",
+        "f": "tense",
+        "s": "Elle ___ à la bibliothèque jusqu'à la fermeture.",
+        "en": "She used to stay at the library until closing time.",
+        "a": "restait",
+        "alts": [],
+        "form": "Imparfait"
+      },
+      {
+        "slot": "t|Imparfait|2",
+        "f": "tense",
+        "s": "Nous ___ souvent à la plage jusqu'au coucher du soleil.",
+        "en": "We often stayed at the beach until sunset.",
+        "a": "restions",
+        "alts": [],
+        "form": "Imparfait"
+      },
+      {
+        "slot": "t|Imparfait|2",
+        "f": "tense",
+        "s": "Nous ___ ensemble après les cours pour réviser.",
+        "en": "We used to stay together after class to revise.",
+        "a": "restions",
+        "alts": [],
+        "form": "Imparfait"
+      },
+      {
+        "slot": "t|Imparfait|3",
+        "f": "tense",
+        "s": "Vous ___ toujours après la réunion pour discuter.",
+        "en": "You always stayed after the meeting to chat.",
+        "a": "restiez",
+        "alts": [],
+        "form": "Imparfait"
+      },
+      {
+        "slot": "t|Imparfait|3",
+        "f": "tense",
+        "s": "Avant, vous ___ calmes dans cette situation.",
+        "en": "Before, you used to remain calm in that situation.",
+        "a": "restiez",
+        "alts": [],
+        "form": "Imparfait"
+      },
+      {
+        "slot": "t|Imparfait|4",
+        "f": "tense",
+        "s": "Les touristes ___ rarement dans ce petit village.",
+        "en": "Tourists rarely stayed in this small village.",
+        "a": "restaient",
+        "alts": [],
+        "form": "Imparfait"
+      },
+      {
+        "slot": "t|Imparfait|4",
+        "f": "tense",
+        "s": "Ils ___ assis des heures à regarder la mer.",
+        "en": "They used to sit for hours watching the sea.",
+        "a": "restaient",
+        "alts": [],
+        "form": "Imparfait"
+      },
+      {
+        "slot": "t|Futur|0",
+        "f": "tense",
+        "s": "L'année prochaine, je ___ en France pour mes études.",
+        "en": "Next year, I will stay in France for my studies.",
+        "a": "resterai",
+        "alts": [],
+        "form": "Futur"
+      },
+      {
+        "slot": "t|Futur|0",
+        "f": "tense",
+        "s": "Je ___ à l'hôtel jusqu'au vendredi matin.",
+        "en": "I will stay at the hotel until Friday morning.",
+        "a": "resterai",
+        "alts": [],
+        "form": "Futur"
+      },
+      {
+        "slot": "t|Futur|1",
+        "f": "tense",
+        "s": "Tu ___ avec lui tant qu'il aura besoin de toi.",
+        "en": "You will stay with him as long as he needs you.",
+        "a": "resteras",
+        "alts": [],
+        "form": "Futur"
+      },
+      {
+        "slot": "t|Futur|1",
+        "f": "tense",
+        "s": "Est-ce que tu ___ debout pour regarder le match ?",
+        "en": "Will you stay up to watch the match?",
+        "a": "resteras",
+        "alts": [],
+        "form": "Futur"
+      },
+      {
+        "slot": "t|Futur|2",
+        "f": "tense",
+        "s": "Le médecin dit que Paul ___ à l'hôpital encore une semaine.",
+        "en": "The doctor says Paul will stay in hospital for another week.",
+        "a": "restera",
+        "alts": [],
+        "form": "Futur"
+      },
+      {
+        "slot": "t|Futur|2",
+        "f": "tense",
+        "s": "Cette chanson ___ dans ma mémoire pour toujours.",
+        "en": "This song will stay in my memory forever.",
+        "a": "restera",
+        "alts": [],
+        "form": "Futur"
+      },
+      {
+        "slot": "t|Futur|3",
+        "f": "tense",
+        "s": "Nous ___ en contact après la fin du projet.",
+        "en": "We will stay in contact after the end of the project.",
+        "a": "resterons",
+        "alts": [],
+        "form": "Futur"
+      },
+      {
+        "slot": "t|Futur|3",
+        "f": "tense",
+        "s": "Nous ___ à Bordeaux pendant tout le festival.",
+        "en": "We will stay in Bordeaux throughout the entire festival.",
+        "a": "resterons",
+        "alts": [],
+        "form": "Futur"
+      },
+      {
+        "slot": "t|Futur|4",
+        "f": "tense",
+        "s": "Vous ___ ici jusqu'à ce que le problème soit réglé.",
+        "en": "You will stay here until the problem is solved.",
+        "a": "resterez",
+        "alts": [],
+        "form": "Futur"
+      },
+      {
+        "slot": "t|Futur|4",
+        "f": "tense",
+        "s": "Si vous venez, vous ___ combien de nuits ?",
+        "en": "If you come, how many nights will you stay?",
+        "a": "resterez",
+        "alts": [],
+        "form": "Futur"
+      },
+      {
+        "slot": "t|Futur|5",
+        "f": "tense",
+        "s": "Les élèves ___ après les cours pour la répétition.",
+        "en": "The pupils will stay after class for the rehearsal.",
+        "a": "resteront",
+        "alts": [],
+        "form": "Futur"
+      },
+      {
+        "slot": "t|Futur|5",
+        "f": "tense",
+        "s": "Ils ___ fidèles à leurs engagements, j'en suis sûr.",
+        "en": "They will remain faithful to their commitments, I am sure of it.",
+        "a": "resteront",
+        "alts": [],
+        "form": "Futur"
+      },
+      {
+        "slot": "t|Conditionnel|0",
+        "f": "tense",
+        "s": "Si j'avais le choix, je ___ toute la semaine à la mer.",
+        "en": "If I had the choice, I would stay by the sea all week.",
+        "a": "resterais",
+        "alts": [],
+        "form": "Conditionnel"
+      },
+      {
+        "slot": "t|Conditionnel|0",
+        "f": "tense",
+        "s": "À ta place, tu ___ ou tu partirais ?",
+        "en": "In your position, would you stay or would you leave?",
+        "a": "resterais",
+        "alts": [],
+        "form": "Conditionnel"
+      },
+      {
+        "slot": "t|Conditionnel|1",
+        "f": "tense",
+        "s": "Il ___ plus longtemps s'il n'avait pas de rendez-vous.",
+        "en": "He would stay longer if he did not have an appointment.",
+        "a": "resterait",
+        "alts": [],
+        "form": "Conditionnel"
+      },
+      {
+        "slot": "t|Conditionnel|1",
+        "f": "tense",
+        "s": "On m'a dit que le bureau ___ fermé demain.",
+        "en": "I was told the office would remain closed tomorrow.",
+        "a": "resterait",
+        "alts": [],
+        "form": "Conditionnel"
+      },
+      {
+        "slot": "t|Conditionnel|2",
+        "f": "tense",
+        "s": "Nous ___ volontiers, mais nous avons un train à prendre.",
+        "en": "We would gladly stay, but we have a train to catch.",
+        "a": "resterions",
+        "alts": [],
+        "form": "Conditionnel"
+      },
+      {
+        "slot": "t|Conditionnel|2",
+        "f": "tense",
+        "s": "Avec plus de budget, nous ___ dans un hôtel cinq étoiles.",
+        "en": "With a bigger budget, we would stay in a five-star hotel.",
+        "a": "resterions",
+        "alts": [],
+        "form": "Conditionnel"
+      },
+      {
+        "slot": "t|Conditionnel|3",
+        "f": "tense",
+        "s": "Vous ___ plus longtemps si la conférence n'était pas terminée ?",
+        "en": "Would you stay longer if the conference were not over?",
+        "a": "resteriez",
+        "alts": [],
+        "form": "Conditionnel"
+      },
+      {
+        "slot": "t|Conditionnel|3",
+        "f": "tense",
+        "s": "Sans cette obligation, vous ___ calmes, j'en suis certain.",
+        "en": "Without that obligation, you would remain calm, I am certain of it.",
+        "a": "resteriez",
+        "alts": [],
+        "form": "Conditionnel"
+      },
+      {
+        "slot": "t|Conditionnel|4",
+        "f": "tense",
+        "s": "Les enfants ___ dehors toute la journée s'il faisait beau.",
+        "en": "The children would stay outside all day if the weather were nice.",
+        "a": "resteraient",
+        "alts": [],
+        "form": "Conditionnel"
+      },
+      {
+        "slot": "t|Conditionnel|4",
+        "f": "tense",
+        "s": "Ils ___ silencieux si tu leur expliquais la situation.",
+        "en": "They would remain silent if you explained the situation to them.",
+        "a": "resteraient",
+        "alts": [],
+        "form": "Conditionnel"
+      },
+      {
+        "slot": "t|Subjonctif",
+        "f": "subj",
+        "s": "Il faut que tu ___ au moins une heure de plus.",
+        "en": "You need to stay at least one more hour.",
+        "a": "restes",
+        "alts": [],
+        "form": "Subjonctif"
+      },
+      {
+        "slot": "t|Subjonctif",
+        "f": "subj",
+        "s": "Je veux que vous ___ calmes pendant l'examen.",
+        "en": "I want you to remain calm during the exam.",
+        "a": "restiez",
+        "alts": [],
+        "form": "Subjonctif"
+      },
+      {
+        "slot": "s|0",
+        "f": "sense",
+        "s": "Il ne peut pas venir : il doit ___ à la maison aujourd'hui.",
+        "en": "He cannot come: he has to stay home today.",
+        "a": "rester",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "s|0",
+        "f": "sense",
+        "s": "Après le dîner, quelques amis ont décidé de ___ encore un peu.",
+        "en": "After dinner, a few friends decided to stay a little longer.",
+        "a": "rester",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "s|1",
+        "f": "sense",
+        "s": "Il est important de ___ calme face aux difficultés.",
+        "en": "It is important to remain calm in the face of difficulties.",
+        "a": "rester",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "s|1",
+        "f": "sense",
+        "s": "Malgré les critiques, elle a réussi à ___ positive.",
+        "en": "Despite the criticism, she managed to remain positive.",
+        "a": "rester",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "s|2",
+        "f": "sense",
+        "s": "Nous avons voulu ___ un moment devant ce tableau magnifique.",
+        "en": "We wanted to linger for a moment in front of that magnificent painting.",
+        "a": "rester",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "s|2",
+        "f": "sense",
+        "s": "Les randonneurs ont choisi de ___ quelques heures au sommet pour profiter du panorama.",
+        "en": "The hikers chose to stay at the summit for a few hours to enjoy the panorama.",
+        "a": "rester",
+        "alts": [],
+        "form": ""
+      }
+    ]
+  }
+]

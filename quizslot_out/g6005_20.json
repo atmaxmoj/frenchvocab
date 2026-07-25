@@ -1,0 +1,649 @@
+[
+  {
+    "id": 5955,
+    "qs": [
+      {
+        "slot": "s|0",
+        "f": "sense",
+        "s": "L'___ des esclaves fut proclamée en 1848 en France.",
+        "en": "The emancipation of slaves was proclaimed in 1848 in France.",
+        "a": "émancipation",
+        "alts": []
+      },
+      {
+        "slot": "s|0",
+        "f": "sense",
+        "s": "À seize ans, il a obtenu son ___ pour gérer seul ses affaires.",
+        "en": "At sixteen, he obtained his emancipation to manage his own affairs alone.",
+        "a": "émancipation",
+        "alts": []
+      },
+      {
+        "slot": "gender",
+        "f": "gender",
+        "s": "Le pays a connu ___ véritable émancipation politique après des décennies de domination étrangère.",
+        "en": "The country experienced a genuine political emancipation after decades of foreign domination.",
+        "a": "une",
+        "alts": []
+      },
+      {
+        "slot": "gender",
+        "f": "gender",
+        "s": "___ émancipation totale d'Haïti fut proclamée en 1804.",
+        "en": "The total emancipation of Haiti was proclaimed in 1804.",
+        "a": "L'",
+        "alts": []
+      }
+    ]
+  },
+  {
+    "id": 5956,
+    "qs": [
+      {
+        "slot": "t|Présent|0",
+        "f": "tense",
+        "s": "En fabriquant ces bougies, j'___ la cire de quelques gouttes d'huile essentielle de lavande.",
+        "en": "While making these candles, I imbue the wax with a few drops of lavender essential oil.",
+        "a": "imprègne",
+        "alts": [],
+        "form": "Présent"
+      },
+      {
+        "slot": "t|Présent|0",
+        "f": "tense",
+        "s": "Le tanneur ___ le cuir d'une huile spéciale pour l'assouplir.",
+        "en": "The tanner impregnates the leather with a special oil to soften it.",
+        "a": "imprègne",
+        "alts": [],
+        "form": "Présent"
+      },
+      {
+        "slot": "t|Présent|1",
+        "f": "tense",
+        "s": "Avant de partir camper, tu ___ toujours ta veste d'un imperméabilisant.",
+        "en": "Before going camping, you always impregnate your jacket with waterproofing spray.",
+        "a": "imprègnes",
+        "alts": [],
+        "form": "Présent"
+      },
+      {
+        "slot": "t|Présent|1",
+        "f": "tense",
+        "s": "Dans cet atelier, tu ___ le bois d'huile de lin pour le protéger de l'humidité.",
+        "en": "In this workshop, you impregnate the wood with linseed oil to protect it from moisture.",
+        "a": "imprègnes",
+        "alts": [],
+        "form": "Présent"
+      },
+      {
+        "slot": "t|Présent|2",
+        "f": "tense",
+        "s": "Chaque hiver, nous ___ nos chaussures de cire pour les rendre étanches.",
+        "en": "Every winter, we impregnate our shoes with wax to make them waterproof.",
+        "a": "imprégnons",
+        "alts": [],
+        "form": "Présent"
+      },
+      {
+        "slot": "t|Présent|2",
+        "f": "tense",
+        "s": "Dans notre atelier de menuiserie, nous ___ le bois d'un vernis protecteur avant de l'exposer dehors.",
+        "en": "In our carpentry workshop, we impregnate the wood with a protective varnish before putting it outside.",
+        "a": "imprégnons",
+        "alts": [],
+        "form": "Présent"
+      },
+      {
+        "slot": "t|Présent|3",
+        "f": "tense",
+        "s": "Pour cette recette, vous ___ le gâteau d'un sirop au rhum avant de le servir.",
+        "en": "For this recipe, you soak the cake with a rum syrup before serving it.",
+        "a": "imprégnez",
+        "alts": [],
+        "form": "Présent"
+      },
+      {
+        "slot": "t|Présent|3",
+        "f": "tense",
+        "s": "Dans votre métier de tanneur, vous ___ toujours le cuir d'une huile spéciale.",
+        "en": "In your trade as a tanner, you always impregnate the leather with a special oil.",
+        "a": "imprégnez",
+        "alts": [],
+        "form": "Présent"
+      },
+      {
+        "slot": "t|Présent|4",
+        "f": "tense",
+        "s": "Les artisans ___ le bois de résine pour le rendre plus résistant.",
+        "en": "The craftsmen impregnate the wood with resin to make it more resistant.",
+        "a": "imprègnent",
+        "alts": [],
+        "form": "Présent"
+      },
+      {
+        "slot": "t|Présent|4",
+        "f": "tense",
+        "s": "Ces cuisinières ___ la viande de marinade pendant plusieurs heures.",
+        "en": "These cooks soak the meat in marinade for several hours.",
+        "a": "imprègnent",
+        "alts": [],
+        "form": "Présent"
+      },
+      {
+        "slot": "t|Passé composé|0",
+        "f": "tense",
+        "s": "Hier soir, j'___ mon bureau de l'odeur de l'encens en faisant brûler un bâtonnet.",
+        "en": "Last night, I imbued my office with the smell of incense by burning a stick.",
+        "a": "ai imprégné",
+        "alts": [],
+        "form": "Passé composé"
+      },
+      {
+        "slot": "t|Passé composé|0",
+        "f": "tense",
+        "s": "Pour ce projet de couture, j'___ le tissu d'une odeur de lavande avant de le ranger.",
+        "en": "For this sewing project, I imbued the fabric with a lavender scent before putting it away.",
+        "a": "ai imprégné",
+        "alts": [],
+        "form": "Passé composé"
+      },
+      {
+        "slot": "t|Passé composé|1",
+        "f": "tense",
+        "s": "Tu ___ ce foulard d'un parfum entêtant hier après-midi.",
+        "en": "You imbued this scarf with an overpowering perfume yesterday afternoon.",
+        "a": "as imprégné",
+        "alts": [],
+        "form": "Passé composé"
+      },
+      {
+        "slot": "t|Passé composé|1",
+        "f": "tense",
+        "s": "Pour la fête, tu ___ les serviettes en papier d'une odeur de cannelle.",
+        "en": "For the party, you imbued the paper napkins with a cinnamon scent.",
+        "a": "as imprégné",
+        "alts": [],
+        "form": "Passé composé"
+      },
+      {
+        "slot": "t|Passé composé|2",
+        "f": "tense",
+        "s": "Le menuisier ___ la table de vernis avant de la livrer ce matin.",
+        "en": "The carpenter impregnated the table with varnish before delivering it this morning.",
+        "a": "a imprégné",
+        "alts": [],
+        "form": "Passé composé"
+      },
+      {
+        "slot": "t|Passé composé|2",
+        "f": "tense",
+        "s": "Elle ___ ses cheveux d'huile d'argan avant le mariage.",
+        "en": "She imbued her hair with argan oil before the wedding.",
+        "a": "a imprégné",
+        "alts": [],
+        "form": "Passé composé"
+      },
+      {
+        "slot": "t|Passé composé|3",
+        "f": "tense",
+        "s": "Nous ___ le bois de cette planche d'huile de lin la semaine dernière.",
+        "en": "We impregnated the wood of this board with linseed oil last week.",
+        "a": "avons imprégné",
+        "alts": [],
+        "form": "Passé composé"
+      },
+      {
+        "slot": "t|Passé composé|3",
+        "f": "tense",
+        "s": "Pour l'exposition, nous ___ les tissus de couleurs naturelles avant de les accrocher.",
+        "en": "For the exhibition, we imbued the fabrics with natural colors before hanging them.",
+        "a": "avons imprégné",
+        "alts": [],
+        "form": "Passé composé"
+      },
+      {
+        "slot": "t|Passé composé|4",
+        "f": "tense",
+        "s": "Vous ___ le cuir de cette huile spéciale avant la vente hier.",
+        "en": "You impregnated the leather with that special oil before the sale yesterday.",
+        "a": "avez imprégné",
+        "alts": [],
+        "form": "Passé composé"
+      },
+      {
+        "slot": "t|Passé composé|4",
+        "f": "tense",
+        "s": "Pour ce cours, vous ___ les élèves de nouvelles idées sur l'écologie.",
+        "en": "For this class, you imbued the students with new ideas about ecology.",
+        "a": "avez imprégné",
+        "alts": [],
+        "form": "Passé composé"
+      },
+      {
+        "slot": "t|Passé composé|5",
+        "f": "tense",
+        "s": "Les artisans ___ le bois de résine avant l'assemblage final.",
+        "en": "The craftsmen impregnated the wood with resin before final assembly.",
+        "a": "ont imprégné",
+        "alts": [],
+        "form": "Passé composé"
+      },
+      {
+        "slot": "t|Passé composé|5",
+        "f": "tense",
+        "s": "Ces produits chimiques ___ le sol de métaux lourds après la catastrophe.",
+        "en": "These chemicals contaminated the soil with heavy metals after the disaster.",
+        "a": "ont imprégné",
+        "alts": [],
+        "form": "Passé composé"
+      },
+      {
+        "slot": "t|Imparfait|0",
+        "f": "tense",
+        "s": "Quand j'étais enfant, j'___ toujours mes cahiers de l'odeur de la craie de l'école.",
+        "en": "When I was a child, I always imbued my notebooks with the smell of school chalk.",
+        "a": "imprégnais",
+        "alts": [],
+        "form": "Imparfait"
+      },
+      {
+        "slot": "t|Imparfait|0",
+        "f": "tense",
+        "s": "À l'époque, tu ___ souvent tes lettres d'un parfum discret avant de les envoyer.",
+        "en": "Back then, you often imbued your letters with a subtle scent before sending them.",
+        "a": "imprégnais",
+        "alts": [],
+        "form": "Imparfait"
+      },
+      {
+        "slot": "t|Imparfait|1",
+        "f": "tense",
+        "s": "Le vieux tanneur ___ le cuir d'huile chaque jour dans son atelier.",
+        "en": "The old tanner impregnated the leather with oil every day in his workshop.",
+        "a": "imprégnait",
+        "alts": [],
+        "form": "Imparfait"
+      },
+      {
+        "slot": "t|Imparfait|1",
+        "f": "tense",
+        "s": "Sa voix douce ___ toute la salle d'une émotion profonde pendant qu'il chantait.",
+        "en": "His soft voice imbued the whole room with deep emotion as he sang.",
+        "a": "imprégnait",
+        "alts": [],
+        "form": "Imparfait"
+      },
+      {
+        "slot": "t|Imparfait|2",
+        "f": "tense",
+        "s": "Dans notre atelier, nous ___ le bois de vernis avant chaque expédition.",
+        "en": "In our workshop, we used to impregnate the wood with varnish before each shipment.",
+        "a": "imprégnions",
+        "alts": [],
+        "form": "Imparfait"
+      },
+      {
+        "slot": "t|Imparfait|2",
+        "f": "tense",
+        "s": "Enfants, nous ___ nos vêtements de l'odeur du feu de camp chaque été.",
+        "en": "As children, we would imbue our clothes with the smell of the campfire every summer.",
+        "a": "imprégnions",
+        "alts": [],
+        "form": "Imparfait"
+      },
+      {
+        "slot": "t|Imparfait|3",
+        "f": "tense",
+        "s": "À cette époque, vous ___ le cuir de cire avant de le vendre.",
+        "en": "Back then, you used to impregnate the leather with wax before selling it.",
+        "a": "imprégniez",
+        "alts": [],
+        "form": "Imparfait"
+      },
+      {
+        "slot": "t|Imparfait|3",
+        "f": "tense",
+        "s": "Vous ___ toujours vos histoires d'une nostalgie touchante, disait-elle.",
+        "en": "You always imbued your stories with touching nostalgia, she used to say.",
+        "a": "imprégniez",
+        "alts": [],
+        "form": "Imparfait"
+      },
+      {
+        "slot": "t|Imparfait|4",
+        "f": "tense",
+        "s": "Les artisans ___ le bois de résine avant chaque assemblage.",
+        "en": "The craftsmen used to impregnate the wood with resin before each assembly.",
+        "a": "imprégnaient",
+        "alts": [],
+        "form": "Imparfait"
+      },
+      {
+        "slot": "t|Imparfait|4",
+        "f": "tense",
+        "s": "Ses paroles ___ chaque discours d'une grande sincérité.",
+        "en": "His words imbued every speech with great sincerity.",
+        "a": "imprégnaient",
+        "alts": [],
+        "form": "Imparfait"
+      },
+      {
+        "slot": "t|Futur|0",
+        "f": "tense",
+        "s": "Demain, j'___ ce tissu d'huile essentielle avant de le coudre.",
+        "en": "Tomorrow, I will impregnate this fabric with essential oil before sewing it.",
+        "a": "imprégnerai",
+        "alts": [],
+        "form": "Futur"
+      },
+      {
+        "slot": "t|Futur|0",
+        "f": "tense",
+        "s": "Pour ce projet, j'___ le bois de vernis la semaine prochaine.",
+        "en": "For this project, I will impregnate the wood with varnish next week.",
+        "a": "imprégnerai",
+        "alts": [],
+        "form": "Futur"
+      },
+      {
+        "slot": "t|Futur|1",
+        "f": "tense",
+        "s": "Tu ___ ces chaussures de cire avant la randonnée demain.",
+        "en": "You will impregnate these shoes with wax before tomorrow's hike.",
+        "a": "imprégneras",
+        "alts": [],
+        "form": "Futur"
+      },
+      {
+        "slot": "t|Futur|1",
+        "f": "tense",
+        "s": "Pour la fête, tu ___ les serviettes d'un parfum de cannelle.",
+        "en": "For the party, you will imbue the napkins with a cinnamon scent.",
+        "a": "imprégneras",
+        "alts": [],
+        "form": "Futur"
+      },
+      {
+        "slot": "t|Futur|2",
+        "f": "tense",
+        "s": "Le tanneur ___ le cuir d'une huile spéciale la semaine prochaine.",
+        "en": "The tanner will impregnate the leather with a special oil next week.",
+        "a": "imprégnera",
+        "alts": [],
+        "form": "Futur"
+      },
+      {
+        "slot": "t|Futur|2",
+        "f": "tense",
+        "s": "On ___ le bois de résine avant de l'exposer aux intempéries.",
+        "en": "They will impregnate the wood with resin before exposing it to bad weather.",
+        "a": "imprégnera",
+        "alts": [],
+        "form": "Futur"
+      },
+      {
+        "slot": "t|Futur|3",
+        "f": "tense",
+        "s": "Nous ___ ce tissu de teinture naturelle demain matin.",
+        "en": "We will imbue this fabric with natural dye tomorrow morning.",
+        "a": "imprégnerons",
+        "alts": [],
+        "form": "Futur"
+      },
+      {
+        "slot": "t|Futur|3",
+        "f": "tense",
+        "s": "Pour l'exposition, nous ___ le bois d'un vernis protecteur.",
+        "en": "For the exhibition, we will impregnate the wood with a protective varnish.",
+        "a": "imprégnerons",
+        "alts": [],
+        "form": "Futur"
+      },
+      {
+        "slot": "t|Futur|4",
+        "f": "tense",
+        "s": "Vous ___ ce cuir d'huile avant de le vendre la semaine prochaine.",
+        "en": "You will impregnate this leather with oil before selling it next week.",
+        "a": "imprégnerez",
+        "alts": [],
+        "form": "Futur"
+      },
+      {
+        "slot": "t|Futur|4",
+        "f": "tense",
+        "s": "Pour cette recette, vous ___ le gâteau de sirop avant de le servir.",
+        "en": "For this recipe, you will soak the cake with syrup before serving it.",
+        "a": "imprégnerez",
+        "alts": [],
+        "form": "Futur"
+      },
+      {
+        "slot": "t|Futur|5",
+        "f": "tense",
+        "s": "Les artisans ___ le bois de résine avant l'assemblage final.",
+        "en": "The craftsmen will impregnate the wood with resin before the final assembly.",
+        "a": "imprégneront",
+        "alts": [],
+        "form": "Futur"
+      },
+      {
+        "slot": "t|Futur|5",
+        "f": "tense",
+        "s": "Ces produits ___ le sol de nutriments pour améliorer la récolte.",
+        "en": "These products will imbue the soil with nutrients to improve the harvest.",
+        "a": "imprégneront",
+        "alts": [],
+        "form": "Futur"
+      },
+      {
+        "slot": "t|Conditionnel|0",
+        "f": "tense",
+        "s": "Si j'avais plus de temps, j'___ ce tissu d'une teinture naturelle.",
+        "en": "If I had more time, I would imbue this fabric with a natural dye.",
+        "a": "imprégnerais",
+        "alts": [],
+        "form": "Conditionnel"
+      },
+      {
+        "slot": "t|Conditionnel|0",
+        "f": "tense",
+        "s": "Si tu avais l'huile nécessaire, tu ___ ce cuir avant la vente.",
+        "en": "If you had the necessary oil, you would impregnate this leather before the sale.",
+        "a": "imprégnerais",
+        "alts": [],
+        "form": "Conditionnel"
+      },
+      {
+        "slot": "t|Conditionnel|1",
+        "f": "tense",
+        "s": "Si le tanneur avait plus d'huile, il ___ tout le cuir aujourd'hui.",
+        "en": "If the tanner had more oil, he would impregnate all the leather today.",
+        "a": "imprégnerait",
+        "alts": [],
+        "form": "Conditionnel"
+      },
+      {
+        "slot": "t|Conditionnel|1",
+        "f": "tense",
+        "s": "Si on suivait cette méthode, on ___ le bois de résine plus efficacement.",
+        "en": "If we followed this method, we would impregnate the wood with resin more efficiently.",
+        "a": "imprégnerait",
+        "alts": [],
+        "form": "Conditionnel"
+      },
+      {
+        "slot": "t|Conditionnel|2",
+        "f": "tense",
+        "s": "Si nous avions le temps, nous ___ ces tissus de teinture naturelle.",
+        "en": "If we had the time, we would imbue these fabrics with natural dye.",
+        "a": "imprégnerions",
+        "alts": [],
+        "form": "Conditionnel"
+      },
+      {
+        "slot": "t|Conditionnel|2",
+        "f": "tense",
+        "s": "Si nous disposions de plus de vernis, nous ___ tout le bois de l'atelier.",
+        "en": "If we had more varnish, we would impregnate all the workshop's wood.",
+        "a": "imprégnerions",
+        "alts": [],
+        "form": "Conditionnel"
+      },
+      {
+        "slot": "t|Conditionnel|3",
+        "f": "tense",
+        "s": "Si vous aviez cette huile spéciale, vous ___ le cuir plus rapidement.",
+        "en": "If you had that special oil, you would impregnate the leather more quickly.",
+        "a": "imprégneriez",
+        "alts": [],
+        "form": "Conditionnel"
+      },
+      {
+        "slot": "t|Conditionnel|3",
+        "f": "tense",
+        "s": "Si vous suiviez ce conseil, vous ___ vos récits d'une émotion sincère.",
+        "en": "If you followed this advice, you would imbue your stories with sincere emotion.",
+        "a": "imprégneriez",
+        "alts": [],
+        "form": "Conditionnel"
+      },
+      {
+        "slot": "t|Conditionnel|4",
+        "f": "tense",
+        "s": "Si les artisans avaient plus de résine, ils ___ tout le bois de l'atelier.",
+        "en": "If the craftsmen had more resin, they would impregnate all the workshop's wood.",
+        "a": "imprégneraient",
+        "alts": [],
+        "form": "Conditionnel"
+      },
+      {
+        "slot": "t|Conditionnel|4",
+        "f": "tense",
+        "s": "Si ces produits chimiques s'infiltraient dans le sol, ils ___ toute la nappe phréatique.",
+        "en": "If these chemicals seeped into the ground, they would contaminate the entire water table.",
+        "a": "imprégneraient",
+        "alts": [],
+        "form": "Conditionnel"
+      },
+      {
+        "slot": "t|Subjonctif",
+        "f": "subj",
+        "s": "Il faut que tu ___ ce tissu d'huile avant de le coudre.",
+        "en": "You need to impregnate this fabric with oil before sewing it.",
+        "a": "imprègnes",
+        "alts": [],
+        "form": "Subjonctif"
+      },
+      {
+        "slot": "t|Subjonctif",
+        "f": "subj",
+        "s": "Le tanneur souhaite que nous ___ le cuir de cette huile spéciale avant la vente.",
+        "en": "The tanner wants us to impregnate the leather with that special oil before the sale.",
+        "a": "imprégnions",
+        "alts": [],
+        "form": "Subjonctif"
+      },
+      {
+        "slot": "s|0",
+        "f": "sense",
+        "s": "L'humidité ___ les murs de la vieille cave depuis des années.",
+        "en": "Dampness has been soaking into the walls of the old cellar for years.",
+        "a": "imprègne",
+        "alts": []
+      },
+      {
+        "slot": "s|0",
+        "f": "sense",
+        "s": "Le parfum de jasmin ___ toute la maison quand la fenêtre est ouverte.",
+        "en": "The jasmine scent imbues the whole house when the window is open.",
+        "a": "imprègne",
+        "alts": []
+      },
+      {
+        "slot": "s|1",
+        "f": "sense",
+        "s": "La culture japonaise ___ profondément son travail d'artiste.",
+        "en": "Japanese culture deeply permeates his work as an artist.",
+        "a": "imprègne",
+        "alts": []
+      },
+      {
+        "slot": "s|1",
+        "f": "sense",
+        "s": "Les valeurs de ses parents ___ toute son existence.",
+        "en": "His parents' values permeate his whole life.",
+        "a": "imprègnent",
+        "alts": []
+      }
+    ]
+  },
+  {
+    "id": 5957,
+    "qs": [
+      {
+        "slot": "s|0",
+        "f": "sense",
+        "s": "Elle a passé une heure à refaire son ___ avant la soirée.",
+        "en": "She spent an hour redoing her makeup before the party.",
+        "a": "maquillage",
+        "alts": []
+      },
+      {
+        "slot": "s|0",
+        "f": "sense",
+        "s": "Le ___ de l'actrice était impeccable sous les projecteurs.",
+        "en": "The actress's makeup was flawless under the spotlights.",
+        "a": "maquillage",
+        "alts": []
+      },
+      {
+        "slot": "s|1",
+        "f": "sense",
+        "s": "Les enquêteurs ont découvert un ___ des documents comptables de l'entreprise.",
+        "en": "Investigators discovered a doctoring of the company's accounting documents.",
+        "a": "maquillage",
+        "alts": []
+      },
+      {
+        "slot": "s|1",
+        "f": "sense",
+        "s": "Le ___ des factures visait à tromper l'administration fiscale.",
+        "en": "The doctoring of the invoices was meant to deceive the tax administration.",
+        "a": "maquillage",
+        "alts": []
+      },
+      {
+        "slot": "s|2",
+        "f": "sense",
+        "s": "La police a repéré un ___ de plaque d'immatriculation sur le véhicule volé.",
+        "en": "The police spotted a doctored license plate on the stolen vehicle.",
+        "a": "maquillage",
+        "alts": []
+      },
+      {
+        "slot": "s|2",
+        "f": "sense",
+        "s": "Le ___ des plaques minéralogiques est un délit puni par la loi.",
+        "en": "Doctoring license plates is an offense punished by law.",
+        "a": "maquillage",
+        "alts": []
+      },
+      {
+        "slot": "gender",
+        "f": "gender",
+        "s": "Ce soir, elle a choisi ___ maquillage discret pour la cérémonie.",
+        "en": "Tonight, she chose a subtle makeup look for the ceremony.",
+        "a": "un",
+        "alts": []
+      },
+      {
+        "slot": "gender",
+        "f": "gender",
+        "s": "J'ai adoré ___ maquillage que tu portais hier soir.",
+        "en": "I loved the makeup you were wearing last night.",
+        "a": "le",
+        "alts": []
+      }
+    ]
+  }
+]

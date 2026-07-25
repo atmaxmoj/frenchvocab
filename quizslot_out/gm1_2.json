@@ -1,0 +1,701 @@
+[
+  {
+    "id": 1957,
+    "qs": [
+      {
+        "slot": "s|0",
+        "f": "sense",
+        "s": "Dans le système américain, chaque État désigne un certain nombre d'___ qui votent officiellement pour le président.",
+        "a": "électeurs",
+        "en": "In the American system, each state designates a certain number of electors who officially vote for the president.",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "s|0",
+        "f": "sense",
+        "s": "Selon la Constitution, un ___ du Sénat doit être citoyen depuis au moins neuf ans.",
+        "a": "électeur",
+        "en": "According to the Constitution, an elector of the Senate must have been a citizen for at least nine years.",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "s|1",
+        "f": "sense",
+        "s": "Les candidats cherchent à convaincre les ___ avant le scrutin de dimanche.",
+        "a": "électeurs",
+        "en": "The candidates are trying to convince the voters before Sunday's ballot.",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "s|1",
+        "f": "sense",
+        "s": "Chaque ___ inscrit sur les listes peut voter librement dans son bureau de vote.",
+        "a": "électeur",
+        "en": "Every registered voter can vote freely at their polling station.",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "gender",
+        "f": "gender",
+        "s": "Mon voisin est ___ électeur fidèle de ce parti depuis vingt ans.",
+        "a": "un",
+        "en": "My neighbor has been a loyal voter of this party for twenty years.",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "gender",
+        "f": "gender",
+        "s": "___ électeur doit présenter une pièce d'identité à l'entrée du bureau de vote.",
+        "a": "L'",
+        "en": "The voter must present an ID at the entrance of the polling station.",
+        "alts": [],
+        "form": ""
+      }
+    ]
+  },
+  {
+    "id": 1958,
+    "qs": [
+      {
+        "slot": "t|Présent|0",
+        "f": "tense",
+        "s": "Chaque matin, je ___ dans la piscine avant le petit-déjeuner.",
+        "a": "plonge",
+        "en": "Every morning, I dive into the pool before breakfast.",
+        "alts": [],
+        "form": "Présent"
+      },
+      {
+        "slot": "t|Présent|0",
+        "f": "tense",
+        "s": "Le champion ___ du tremplin avec une précision parfaite.",
+        "a": "plonge",
+        "en": "The champion dives from the springboard with perfect precision.",
+        "alts": [],
+        "form": "Présent"
+      },
+      {
+        "slot": "t|Présent|1",
+        "f": "tense",
+        "s": "Tu ___ toujours dans le grand bain sans hésiter.",
+        "a": "plonges",
+        "en": "You always dive into the deep end without hesitation.",
+        "alts": [],
+        "form": "Présent"
+      },
+      {
+        "slot": "t|Présent|1",
+        "f": "tense",
+        "s": "Est-ce que tu ___ souvent dans cette rivière l'été ?",
+        "a": "plonges",
+        "en": "Do you often dive into this river in summer?",
+        "alts": [],
+        "form": "Présent"
+      },
+      {
+        "slot": "t|Présent|2",
+        "f": "tense",
+        "s": "Nous ___ ensemble dans la mer chaque week-end.",
+        "a": "plongeons",
+        "en": "We dive together in the sea every weekend.",
+        "alts": [],
+        "form": "Présent"
+      },
+      {
+        "slot": "t|Présent|2",
+        "f": "tense",
+        "s": "Aujourd'hui, nous ___ pour explorer les récifs coralliens.",
+        "a": "plongeons",
+        "en": "Today, we dive to explore the coral reefs.",
+        "alts": [],
+        "form": "Présent"
+      },
+      {
+        "slot": "t|Présent|3",
+        "f": "tense",
+        "s": "Vous ___ dans la piscine olympique pour l'entraînement.",
+        "a": "plongez",
+        "en": "You dive in the Olympic pool for training.",
+        "alts": [],
+        "form": "Présent"
+      },
+      {
+        "slot": "t|Présent|3",
+        "f": "tense",
+        "s": "Est-ce que vous ___ depuis la falaise ou depuis le bateau ?",
+        "a": "plongez",
+        "en": "Do you dive from the cliff or from the boat?",
+        "alts": [],
+        "form": "Présent"
+      },
+      {
+        "slot": "t|Présent|4",
+        "f": "tense",
+        "s": "Les athlètes ___ du haut du plongeoir avec grâce.",
+        "a": "plongent",
+        "en": "The athletes dive from the top of the diving board gracefully.",
+        "alts": [],
+        "form": "Présent"
+      },
+      {
+        "slot": "t|Présent|4",
+        "f": "tense",
+        "s": "Ces enfants ___ dans la piscine dès que leur professeur le permet.",
+        "a": "plongent",
+        "en": "These children dive into the pool as soon as their teacher allows it.",
+        "alts": [],
+        "form": "Présent"
+      },
+      {
+        "slot": "t|Passé composé|0",
+        "f": "tense",
+        "s": "Hier, j'___ dans le lac pour la première fois.",
+        "a": "ai plongé",
+        "en": "Yesterday, I dove into the lake for the first time.",
+        "alts": [],
+        "form": "Passé composé"
+      },
+      {
+        "slot": "t|Passé composé|0",
+        "f": "tense",
+        "s": "Ce matin, je ___ du haut du rocher sans avoir peur.",
+        "a": "ai plongé",
+        "en": "This morning, I dove from the top of the rock without being afraid.",
+        "alts": [],
+        "form": "Passé composé"
+      },
+      {
+        "slot": "t|Passé composé|1",
+        "f": "tense",
+        "s": "Tu ___ dans la piscine après la compétition.",
+        "a": "as plongé",
+        "en": "You dove into the pool after the competition.",
+        "alts": [],
+        "form": "Passé composé"
+      },
+      {
+        "slot": "t|Passé composé|1",
+        "f": "tense",
+        "s": "Est-ce que tu ___ dans cette grotte sous-marine l'été dernier ?",
+        "a": "as plongé",
+        "en": "Did you dive into that underwater cave last summer?",
+        "alts": [],
+        "form": "Passé composé"
+      },
+      {
+        "slot": "t|Passé composé|2",
+        "f": "tense",
+        "s": "Le nageur ___ dans l'eau froide sans hésiter.",
+        "a": "a plongé",
+        "en": "The swimmer dove into the cold water without hesitation.",
+        "alts": [],
+        "form": "Passé composé"
+      },
+      {
+        "slot": "t|Passé composé|2",
+        "f": "tense",
+        "s": "Elle ___ depuis le tremplin et a réalisé un beau saut.",
+        "a": "a plongé",
+        "en": "She dove from the springboard and performed a beautiful jump.",
+        "alts": [],
+        "form": "Passé composé"
+      },
+      {
+        "slot": "t|Passé composé|3",
+        "f": "tense",
+        "s": "Nous ___ dans la baie hier après-midi.",
+        "a": "avons plongé",
+        "en": "We dove in the bay yesterday afternoon.",
+        "alts": [],
+        "form": "Passé composé"
+      },
+      {
+        "slot": "t|Passé composé|3",
+        "f": "tense",
+        "s": "Pendant les vacances, nous ___ chaque jour pour observer les poissons.",
+        "a": "avons plongé",
+        "en": "During the holidays, we dove every day to observe the fish.",
+        "alts": [],
+        "form": "Passé composé"
+      },
+      {
+        "slot": "t|Passé composé|4",
+        "f": "tense",
+        "s": "Vous ___ dans la piscine à la fin de la séance d'entraînement.",
+        "a": "avez plongé",
+        "en": "You dove into the pool at the end of the training session.",
+        "alts": [],
+        "form": "Passé composé"
+      },
+      {
+        "slot": "t|Passé composé|4",
+        "f": "tense",
+        "s": "Est-ce que vous ___ dans les eaux tropicales pendant votre voyage ?",
+        "a": "avez plongé",
+        "en": "Did you dive in the tropical waters during your trip?",
+        "alts": [],
+        "form": "Passé composé"
+      },
+      {
+        "slot": "t|Passé composé|5",
+        "f": "tense",
+        "s": "Les plongeurs ___ à vingt mètres de profondeur.",
+        "a": "ont plongé",
+        "en": "The divers dove to twenty metres deep.",
+        "alts": [],
+        "form": "Passé composé"
+      },
+      {
+        "slot": "t|Passé composé|5",
+        "f": "tense",
+        "s": "Les enfants ___ dans la piscine dès que la maîtresse a sifflé.",
+        "a": "ont plongé",
+        "en": "The children dove into the pool as soon as the teacher blew the whistle.",
+        "alts": [],
+        "form": "Passé composé"
+      },
+      {
+        "slot": "t|Imparfait|0",
+        "f": "tense",
+        "s": "Quand j'étais jeune, je ___ dans la rivière tous les étés.",
+        "a": "plongeais",
+        "en": "When I was young, I used to dive in the river every summer.",
+        "alts": [],
+        "form": "Imparfait"
+      },
+      {
+        "slot": "t|Imparfait|0",
+        "f": "tense",
+        "s": "Avant, tu ___ dans la piscine sans aucune crainte.",
+        "a": "plongeais",
+        "en": "Before, you used to dive into the pool without any fear.",
+        "alts": [],
+        "form": "Imparfait"
+      },
+      {
+        "slot": "t|Imparfait|1",
+        "f": "tense",
+        "s": "Le dauphin ___ sous les vagues avec agilité.",
+        "a": "plongeait",
+        "en": "The dolphin used to dive under the waves with agility.",
+        "alts": [],
+        "form": "Imparfait"
+      },
+      {
+        "slot": "t|Imparfait|1",
+        "f": "tense",
+        "s": "La championne ___ chaque matin à l'entraînement.",
+        "a": "plongeait",
+        "en": "The champion used to dive every morning at training.",
+        "alts": [],
+        "form": "Imparfait"
+      },
+      {
+        "slot": "t|Imparfait|2",
+        "f": "tense",
+        "s": "Enfants, nous ___ dans ce lac chaque été.",
+        "a": "plongions",
+        "en": "As children, we used to dive into this lake every summer.",
+        "alts": [],
+        "form": "Imparfait"
+      },
+      {
+        "slot": "t|Imparfait|2",
+        "f": "tense",
+        "s": "Quand nous habitions au bord de la mer, nous ___ souvent.",
+        "a": "plongions",
+        "en": "When we lived by the sea, we often used to dive.",
+        "alts": [],
+        "form": "Imparfait"
+      },
+      {
+        "slot": "t|Imparfait|3",
+        "f": "tense",
+        "s": "Vous ___ dans la piscine tous les mercredis après l'école.",
+        "a": "plongiez",
+        "en": "You used to dive in the pool every Wednesday after school.",
+        "alts": [],
+        "form": "Imparfait"
+      },
+      {
+        "slot": "t|Imparfait|3",
+        "f": "tense",
+        "s": "Avant votre blessure, vous ___ du haut du plongeoir sans problème.",
+        "a": "plongiez",
+        "en": "Before your injury, you used to dive from the top of the diving board without any problem.",
+        "alts": [],
+        "form": "Imparfait"
+      },
+      {
+        "slot": "t|Imparfait|4",
+        "f": "tense",
+        "s": "Les enfants ___ dans la mer dès que leurs parents avaient le dos tourné.",
+        "a": "plongeaient",
+        "en": "The children used to dive into the sea as soon as their parents' backs were turned.",
+        "alts": [],
+        "form": "Imparfait"
+      },
+      {
+        "slot": "t|Imparfait|4",
+        "f": "tense",
+        "s": "Ces nageurs ___ à plusieurs reprises pendant l'entraînement.",
+        "a": "plongeaient",
+        "en": "These swimmers used to dive several times during training.",
+        "alts": [],
+        "form": "Imparfait"
+      },
+      {
+        "slot": "t|Futur|0",
+        "f": "tense",
+        "s": "Demain, je ___ dans la piscine dès l'ouverture.",
+        "a": "plongerai",
+        "en": "Tomorrow, I will dive into the pool as soon as it opens.",
+        "alts": [],
+        "form": "Futur"
+      },
+      {
+        "slot": "t|Futur|0",
+        "f": "tense",
+        "s": "L'été prochain, je ___ dans les eaux claires de la Méditerranée.",
+        "a": "plongerai",
+        "en": "Next summer, I will dive in the clear waters of the Mediterranean.",
+        "alts": [],
+        "form": "Futur"
+      },
+      {
+        "slot": "t|Futur|1",
+        "f": "tense",
+        "s": "Tu ___ depuis le haut de la falaise si tu n'as plus peur.",
+        "a": "plongeras",
+        "en": "You will dive from the top of the cliff if you are no longer afraid.",
+        "alts": [],
+        "form": "Futur"
+      },
+      {
+        "slot": "t|Futur|1",
+        "f": "tense",
+        "s": "Quand tu seras prêt, tu ___ dans le grand bain.",
+        "a": "plongeras",
+        "en": "When you are ready, you will dive into the deep end.",
+        "alts": [],
+        "form": "Futur"
+      },
+      {
+        "slot": "t|Futur|2",
+        "f": "tense",
+        "s": "Le plongeur professionnel ___ à quarante mètres de profondeur lors du record.",
+        "a": "plongera",
+        "en": "The professional diver will dive to forty metres deep during the record attempt.",
+        "alts": [],
+        "form": "Futur"
+      },
+      {
+        "slot": "t|Futur|2",
+        "f": "tense",
+        "s": "Elle ___ dans la piscine olympique pour ses premiers Jeux.",
+        "a": "plongera",
+        "en": "She will dive in the Olympic pool for her first Games.",
+        "alts": [],
+        "form": "Futur"
+      },
+      {
+        "slot": "t|Futur|3",
+        "f": "tense",
+        "s": "Nous ___ ensemble dans le lagon lors de notre voyage.",
+        "a": "plongerons",
+        "en": "We will dive together in the lagoon during our trip.",
+        "alts": [],
+        "form": "Futur"
+      },
+      {
+        "slot": "t|Futur|3",
+        "f": "tense",
+        "s": "Cette année, nous ___ dans de nouvelles zones marines encore inexplorées.",
+        "a": "plongerons",
+        "en": "This year, we will dive in new, still unexplored marine areas.",
+        "alts": [],
+        "form": "Futur"
+      },
+      {
+        "slot": "t|Futur|4",
+        "f": "tense",
+        "s": "Vous ___ dans la piscine dès que l'entraîneur donnera le signal.",
+        "a": "plongerez",
+        "en": "You will dive into the pool as soon as the coach gives the signal.",
+        "alts": [],
+        "form": "Futur"
+      },
+      {
+        "slot": "t|Futur|4",
+        "f": "tense",
+        "s": "Quand vous serez prêts, vous ___ depuis le plongeoir de dix mètres.",
+        "a": "plongerez",
+        "en": "When you are ready, you will dive from the ten-metre diving board.",
+        "alts": [],
+        "form": "Futur"
+      },
+      {
+        "slot": "t|Futur|5",
+        "f": "tense",
+        "s": "Les nageurs ___ dans le bassin au coup de sifflet.",
+        "a": "plongeront",
+        "en": "The swimmers will dive into the pool at the whistle.",
+        "alts": [],
+        "form": "Futur"
+      },
+      {
+        "slot": "t|Futur|5",
+        "f": "tense",
+        "s": "Les candidats ___ dans les eaux froides pour prouver leur courage.",
+        "a": "plongeront",
+        "en": "The candidates will dive into the cold waters to prove their courage.",
+        "alts": [],
+        "form": "Futur"
+      },
+      {
+        "slot": "t|Conditionnel|0",
+        "f": "tense",
+        "s": "Si tu m'encourageais, je ___ du haut du rocher.",
+        "a": "plongerais",
+        "en": "If you encouraged me, I would dive from the top of the rock.",
+        "alts": [],
+        "form": "Conditionnel"
+      },
+      {
+        "slot": "t|Conditionnel|0",
+        "f": "tense",
+        "s": "Si l'eau était plus chaude, tu ___ sans hésiter.",
+        "a": "plongerais",
+        "en": "If the water were warmer, you would dive without hesitation.",
+        "alts": [],
+        "form": "Conditionnel"
+      },
+      {
+        "slot": "t|Conditionnel|1",
+        "f": "tense",
+        "s": "Si la mer était calme, le nageur ___ dès l'aube.",
+        "a": "plongerait",
+        "en": "If the sea were calm, the swimmer would dive at dawn.",
+        "alts": [],
+        "form": "Conditionnel"
+      },
+      {
+        "slot": "t|Conditionnel|1",
+        "f": "tense",
+        "s": "Si elle avait moins peur, elle ___ depuis le grand plongeoir.",
+        "a": "plongerait",
+        "en": "If she were less afraid, she would dive from the high diving board.",
+        "alts": [],
+        "form": "Conditionnel"
+      },
+      {
+        "slot": "t|Conditionnel|2",
+        "f": "tense",
+        "s": "Si nous avions plus de temps, nous ___ dans cette grotte sous-marine.",
+        "a": "plongerions",
+        "en": "If we had more time, we would dive into that underwater cave.",
+        "alts": [],
+        "form": "Conditionnel"
+      },
+      {
+        "slot": "t|Conditionnel|2",
+        "f": "tense",
+        "s": "Si l'eau était plus claire, nous ___ volontiers dans le lac.",
+        "a": "plongerions",
+        "en": "If the water were clearer, we would willingly dive into the lake.",
+        "alts": [],
+        "form": "Conditionnel"
+      },
+      {
+        "slot": "t|Conditionnel|3",
+        "f": "tense",
+        "s": "Si vous étiez plus entraînés, vous ___ sans problème à cette profondeur.",
+        "a": "plongeriez",
+        "en": "If you were better trained, you would dive to that depth without any problem.",
+        "alts": [],
+        "form": "Conditionnel"
+      },
+      {
+        "slot": "t|Conditionnel|3",
+        "f": "tense",
+        "s": "Si la piscine était ouverte, vous ___ à cette heure-ci.",
+        "a": "plongeriez",
+        "en": "If the pool were open, you would be diving at this hour.",
+        "alts": [],
+        "form": "Conditionnel"
+      },
+      {
+        "slot": "t|Conditionnel|4",
+        "f": "tense",
+        "s": "Si les conditions étaient meilleures, les plongeurs ___ plus profondément.",
+        "a": "plongeraient",
+        "en": "If the conditions were better, the divers would dive deeper.",
+        "alts": [],
+        "form": "Conditionnel"
+      },
+      {
+        "slot": "t|Conditionnel|4",
+        "f": "tense",
+        "s": "Si les vagues étaient moins fortes, ils ___ sans danger près des récifs.",
+        "a": "plongeraient",
+        "en": "If the waves were less strong, they would dive safely near the reefs.",
+        "alts": [],
+        "form": "Conditionnel"
+      },
+      {
+        "slot": "t|Subjonctif",
+        "f": "subj",
+        "s": "Il faut que tu ___ avant la fin de la compétition.",
+        "a": "plonges",
+        "en": "You must dive before the end of the competition.",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "t|Subjonctif",
+        "f": "subj",
+        "s": "Je veux qu'elle ___ du haut du plongeoir pour montrer son courage.",
+        "a": "plonge",
+        "en": "I want her to dive from the top of the diving board to show her courage.",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "s|0",
+        "f": "sense",
+        "s": "Les athlètes s'entraînent à ___ du tremplin de dix mètres.",
+        "a": "plonger",
+        "en": "The athletes train to dive from the ten-metre springboard.",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "s|0",
+        "f": "sense",
+        "s": "La championne a appris à ___ sans faire d'éclaboussures.",
+        "a": "plonger",
+        "en": "The champion learned to dive without making a splash.",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "s|1",
+        "f": "sense",
+        "s": "Le sous-marin va ___ sous la surface pour explorer les fonds marins.",
+        "a": "plonger",
+        "en": "The submarine will submerge beneath the surface to explore the seabed.",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "s|1",
+        "f": "sense",
+        "s": "Le pêcheur a regardé le pélican ___ sous l'eau pour attraper un poisson.",
+        "a": "plonger",
+        "en": "The fisherman watched the pelican plunge into the water to catch a fish.",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "s|2",
+        "f": "sense",
+        "s": "La crise économique a fini par ___ le pays dans la misère.",
+        "a": "plonger",
+        "en": "The economic crisis ended up plunging the country into misery.",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "s|2",
+        "f": "sense",
+        "s": "Cette mauvaise nouvelle a fini par la ___ dans un profond désarroi.",
+        "a": "plonger",
+        "en": "This bad news ended up plunging her into deep distress.",
+        "alts": [],
+        "form": ""
+      }
+    ]
+  },
+  {
+    "id": 1959,
+    "qs": [
+      {
+        "slot": "s|0",
+        "f": "sense",
+        "s": "La police a arrêté un ___ suspect sur l'autoroute.",
+        "a": "véhicule",
+        "en": "The police stopped a suspicious vehicle on the highway.",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "s|0",
+        "f": "sense",
+        "s": "Le rapport signale que ce ___ était stationné en double file depuis deux heures.",
+        "a": "véhicule",
+        "en": "The report states that this vehicle had been double-parked for two hours.",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "s|1",
+        "f": "sense",
+        "s": "Le vélo est un ___ écologique et économique pour se déplacer en ville.",
+        "a": "véhicule",
+        "en": "The bicycle is an ecological and economical means of transport for getting around the city.",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "s|1",
+        "f": "sense",
+        "s": "Dans les zones rurales, la voiture reste le principal ___ utilisé pour les trajets quotidiens.",
+        "a": "véhicule",
+        "en": "In rural areas, the car remains the main means of transport used for daily commutes.",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "s|2",
+        "f": "sense",
+        "s": "La langue est le ___ par excellence de la pensée et de la culture.",
+        "a": "véhicule",
+        "en": "Language is the vehicle par excellence of thought and culture.",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "s|2",
+        "f": "sense",
+        "s": "L'art peut être un puissant ___ pour transmettre des émotions que les mots ne savent pas exprimer.",
+        "a": "véhicule",
+        "en": "Art can be a powerful medium for conveying emotions that words cannot express.",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "gender",
+        "f": "gender",
+        "s": "Sur le parking, ___ véhicule mal garé bloquait l'entrée de l'immeuble.",
+        "a": "un",
+        "en": "In the parking lot, a badly parked vehicle was blocking the entrance to the building.",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "gender",
+        "f": "gender",
+        "s": "Les techniciens ont inspecté ___ véhicule avant de le livrer au client.",
+        "a": "le",
+        "en": "The technicians inspected the vehicle before delivering it to the customer.",
+        "alts": [],
+        "form": ""
+      }
+    ]
+  }
+]

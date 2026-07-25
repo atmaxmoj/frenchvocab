@@ -1,0 +1,41 @@
+[
+  {
+    "id": 2472,
+    "qs": [
+      {"slot":"s|0","f":"sense","s":"Après la chute, le médecin a examiné sa ___ blessée.","a":"jambe","en":"After the fall, the doctor examined his injured leg.","alts":[],"form":""},
+      {"slot":"s|0","f":"sense","s":"Elle a du mal à courir parce qu'elle a ___ endolorie.","a":"la jambe","en":"She has trouble running because her leg is sore.","alts":[],"form":""},
+      {"slot":"gender","f":"gender","s":"Je me suis fait mal à ___ jambe en descendant l'escalier.","a":"la","en":"I hurt my leg coming down the stairs.","alts":[],"form":""},
+      {"slot":"gender","f":"gender","s":"Il a ___ jambe très musclée grâce à ses entraînements.","a":"une","en":"He has a very muscular leg thanks to his training.","alts":[],"form":""}
+    ]
+  },
+  {
+    "id": 2473,
+    "qs": [
+      {"slot":"s|0","f":"sense","s":"Le budget alloué au projet est ___ pour couvrir toutes les dépenses prévues.","a":"insuffisant","en":"The budget allocated to the project is insufficient to cover all planned expenses.","alts":[]},
+      {"slot":"s|0","f":"sense","s":"Le nombre de médecins dans cette région est ___ pour répondre aux besoins de la population.","a":"insuffisant","en":"The number of doctors in this region is insufficient to meet the needs of the population.","alts":[]},
+      {"slot":"s|1","f":"sense","s":"Son salaire est ___ pour vivre décemment dans cette ville.","a":"insuffisant","en":"His salary is not enough to live decently in this city.","alts":[]},
+      {"slot":"s|1","f":"sense","s":"Le temps accordé aux élèves pour répondre aux questions était ___ .","a":"insuffisant","en":"The time given to students to answer the questions was not enough.","alts":[]},
+      {"slot":"s|2","f":"sense","s":"Les explications fournies par le professeur étaient ___ pour comprendre le concept.","a":"insuffisantes","en":"The explanations provided by the teacher were inadequate to understand the concept.","alts":[]},
+      {"slot":"s|2","f":"sense","s":"Sa préparation pour l'examen était ___ , ce qui explique ses mauvais résultats.","a":"insuffisante","en":"His preparation for the exam was inadequate, which explains his poor results.","alts":[]},
+      {"slot":"g|mp","f":"agree","s":"Ces résultats sont ___ pour valider l'hypothèse scientifique.","a":"insuffisants","en":"These results are insufficient to validate the scientific hypothesis.","alts":[]},
+      {"slot":"g|mp","f":"agree","s":"Les fonds disponibles se sont révélés ___ pour terminer les travaux.","a":"insuffisants","en":"The available funds proved to be insufficient to complete the work.","alts":[]},
+      {"slot":"g|f","f":"agree","s":"La quantité de nourriture distribuée est ___ pour nourrir tous les réfugiés.","a":"insuffisante","en":"The quantity of food distributed is insufficient to feed all the refugees.","alts":[]},
+      {"slot":"g|f","f":"agree","s":"La couverture réseau dans ce village reste ___ , rendant les communications difficiles.","a":"insuffisante","en":"The network coverage in this village remains insufficient, making communication difficult.","alts":[]},
+      {"slot":"g|fp","f":"agree","s":"Les ressources humaines disponibles sont ___ pour faire face à la crise.","a":"insuffisantes","en":"The available human resources are insufficient to deal with the crisis.","alts":[]},
+      {"slot":"g|fp","f":"agree","s":"Les mesures prises par le gouvernement se sont avérées ___ pour enrayer l'épidémie.","a":"insuffisantes","en":"The measures taken by the government proved to be insufficient to curb the epidemic.","alts":[]}
+    ]
+  },
+  {
+    "id": 2474,
+    "qs": [
+      {"slot":"s|0","f":"sense","s":"Dans l'Ancien Régime, la noblesse jouissait du ___ de ne pas payer d'impôts.","a":"privilège","en":"In the Ancien Régime, the nobility enjoyed the privilege of not paying taxes.","alts":[],"form":""},
+      {"slot":"s|0","f":"sense","s":"Avoir accès à l'éducation privée reste un ___ réservé à quelques-uns.","a":"privilège","en":"Having access to private education remains a privilege reserved for a few.","alts":[],"form":""},
+      {"slot":"s|1","f":"sense","s":"Elle a eu le ___ d'être reçue en privé par le directeur.","a":"privilège","en":"She had the privilege (special treatment) of being received privately by the director.","alts":[],"form":""},
+      {"slot":"s|1","f":"sense","s":"Les membres fidèles bénéficient du ___ d'être servis en priorité.","a":"privilège","en":"Loyal members enjoy the privilege (preferential treatment) of being served first.","alts":[],"form":""},
+      {"slot":"s|2","f":"sense","s":"Ce brevet lui confère le ___ exclusif d'exploiter cette invention.","a":"privilège","en":"This patent grants him the exclusive right (special right) to exploit this invention.","alts":[],"form":""},
+      {"slot":"s|2","f":"sense","s":"La loi accorde à ces travailleurs le ___ de prendre leur retraite plus tôt.","a":"privilège","en":"The law grants these workers the special right to retire earlier.","alts":[],"form":""},
+      {"slot":"gender","f":"gender","s":"C'est ___ privilège rare que de rencontrer un tel artiste.","a":"un","en":"It is a rare privilege to meet such an artist.","alts":[],"form":""},
+      {"slot":"gender","f":"gender","s":"___ privilège de la parole lui fut accordé en premier.","a":"Le","en":"The privilege of speaking was granted to him first.","alts":[],"form":""}
+    ]
+  }
+]

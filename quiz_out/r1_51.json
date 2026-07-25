@@ -1,0 +1,90 @@
+[
+  {
+    "id": "265",
+    "qs": [
+      {"f": "usage", "s": "D'abord, tu dois écouter les instructions attentivement. ___, tu peux commencer l'exercice.", "en": "First, you must listen to the instructions carefully. Next, you can start the exercise.", "a": "ensuite", "alts": ["puis"], "form": ""},
+      {"f": "usage", "s": "Elle a préparé le dîner et ___ elle s'est reposée dans le canapé.", "en": "She prepared dinner and then she rested on the couch.", "a": "ensuite", "alts": ["puis"], "form": ""},
+      {"f": "sense", "s": "Nous avons mangé une soupe, ___ un plat principal, et enfin un dessert.", "en": "We ate soup, next a main course, and finally a dessert.", "a": "ensuite", "alts": ["puis"], "form": ""},
+      {"f": "sense", "s": "Il a terminé ses études en 2020. ___, il a trouvé un emploi dans une grande entreprise.", "en": "He finished his studies in 2020. After that, he found a job in a large company.", "a": "ensuite", "alts": ["puis"], "form": ""},
+      {"f": "sense", "s": "Nous avons discuté du problème pendant une heure. ___, nous avons pris une décision unanime.", "en": "We discussed the problem for an hour. Subsequently, we made a unanimous decision.", "a": "ensuite", "alts": ["puis"], "form": ""},
+      {"f": "usage", "s": "La présentation a duré 20 minutes, et ___, il y a eu une séance de questions.", "en": "The presentation lasted 20 minutes, and then there was a Q&A session.", "a": "ensuite", "alts": ["puis"], "form": ""},
+      {"f": "sense", "s": "Je suis rentré chez moi à six heures. ___, j'ai regardé les actualités avant de me coucher.", "en": "I came home at six o'clock. Next, I watched the news before going to bed.", "a": "ensuite", "alts": ["puis"], "form": ""}
+    ]
+  },
+  {
+    "id": "266",
+    "qs": [
+      {"f": "gender", "s": "Les historiens étudient les causes de chaque ___.", "en": "Historians study the causes of every war.", "a": "guerre", "alts": [], "form": "feminine singular noun after preposition de"},
+      {"f": "sense", "s": "Il y a une véritable ___ de styles entre le classique et le moderne en architecture.", "en": "There is a genuine clash/war of styles between classical and modern architecture.", "a": "guerre", "alts": [], "form": "feminine singular, metaphorical sense (ideological conflict)"},
+      {"f": "sense", "s": "C'est une ___ menée contre la pauvreté qui nécessite l'engagement de tous.", "en": "It's a war waged against poverty that requires everyone's commitment.", "a": "guerre", "alts": [], "form": "feminine singular, metaphorical sense (campaign/struggle)"}
+    ]
+  },
+  {
+    "id": "267",
+    "qs": [
+      {"f": "gender", "s": "La ___ est appliquée par les tribunaux.", "en": "The law is applied by the courts.", "a": "loi", "alts": [], "form": "definite article + noun (feminine singular)"},
+      {"f": "gender", "s": "___ nouvelle a changé la société.", "en": "The new law changed society.", "a": "La", "alts": [], "form": "definite article (feminine singular)"},
+      {"f": "gender", "s": "La ___ stipule que tout citoyen a des droits.", "en": "The law stipulates that every citizen has rights.", "a": "loi", "alts": [], "form": "noun (feminine singular)"},
+      {"f": "sense", "s": "Le Parlement a voté ___ pour protéger l'environnement.", "en": "Parliament voted on a law to protect the environment.", "a": "une loi", "alts": [], "form": "indefinite article + noun (legal statute sense)"},
+      {"f": "sense", "s": "La ___ du plus fort règne dans la nature.", "en": "The law of the strongest rules in nature.", "a": "loi", "alts": [], "form": "noun (principle/rule sense)"},
+      {"f": "sense", "s": "Cette ___ a été abrogée l'année dernière.", "en": "This law was repealed last year.", "a": "loi", "alts": [], "form": "noun (legal statute sense)"},
+      {"f": "sense", "s": "La ___ de la gravité attire les objets vers la terre.", "en": "The law of gravity attracts objects toward the earth.", "a": "loi", "alts": [], "form": "noun (scientific principle sense)"},
+      {"f": "usage", "s": "Le ___ a été rejeté par le Sénat.", "en": "The law project was rejected by the Senate.", "a": "projet de loi", "alts": [], "form": "noun phrase (legislative process)"},
+      {"f": "gender", "s": "Les scientifiques découvrent ___ du mouvement.", "en": "Scientists discover the laws of motion.", "a": "les lois", "alts": [], "form": "definite article (plural) + noun"},
+      {"f": "gender", "s": "Cette ___ s'applique à tous les citoyens.", "en": "This law applies to all citizens.", "a": "loi", "alts": [], "form": "noun (feminine singular)"}
+    ]
+  },
+  {
+    "id": "268",
+    "qs": [
+      {"f": "gender", "s": "___ président de la France a annoncé sa politique économique.", "en": "The president of France announced his economic policy.", "a": "Le", "alts": [], "form": "definite article (masculine singular)"},
+      {"f": "gender", "s": "___ président était assis à côté du ministre.", "en": "The president was sitting next to the minister.", "a": "Le", "alts": [], "form": "definite article (masculine singular)"},
+      {"f": "gender", "s": "___ présidents des trois pays se sont rencontrés à la conférence.", "en": "The presidents of the three countries met at the conference.", "a": "Les", "alts": [], "form": "definite article (masculine plural)"},
+      {"f": "gender", "s": "Il a parlé avec ___ président avant la réunion.", "en": "He spoke with the president before the meeting.", "a": "le", "alts": [], "form": "definite article (masculine singular after preposition)"},
+      {"f": "gender", "s": "Elle sort d'une réunion avec ___ président.", "en": "She is coming out of a meeting with the president.", "a": "le", "alts": [], "form": "definite article (masculine singular after preposition)"},
+      {"f": "gender", "s": "L'assistant ___ président l'attendra à l'aéroport.", "en": "The president's assistant will wait for him at the airport.", "a": "du", "alts": [], "form": "contracted article (de + le)"},
+      {"f": "gender", "s": "Les décisions ___ président affectent tout le pays.", "en": "The president's decisions affect the whole country.", "a": "du", "alts": [], "form": "contracted article (de + le)"},
+      {"f": "gender", "s": "Le secrétaire ___ présidents sera présent à la cérémonie.", "en": "The presidents' secretary will be present at the ceremony.", "a": "des", "alts": [], "form": "contracted article (de + les)"},
+      {"f": "sense", "s": "___ président de l'université a félicité les diplômés.", "en": "The president of the university congratulated the graduates.", "a": "Le", "alts": [], "form": "sense: head of an organization (university)"},
+      {"f": "sense", "s": "Lors de l'élection, les citoyens ont choisi leur nouveau ___.", "en": "During the election, citizens chose their new president.", "a": "président", "alts": [], "form": "sense: head of state"},
+      {"f": "sense", "s": "___ président de la cour suprême a rendu un jugement important.", "en": "The president of the supreme court issued an important decision.", "a": "Le", "alts": [], "form": "sense: head of a judicial body"},
+      {"f": "sense", "s": "___ président de l'assemblée nationale dirige les débats.", "en": "The president of the national assembly leads the debates.", "a": "Le", "alts": [], "form": "sense: parliamentary president"},
+      {"f": "sense", "s": "Le ___ de la banque a annoncé les nouveaux taux d'intérêt.", "en": "The president of the bank announced the new interest rates.", "a": "président", "alts": [], "form": "sense: head of a financial institution"},
+      {"f": "sense", "s": "___ président de l'entreprise gère les affaires commerciales.", "en": "The president of the company manages business affairs.", "a": "Le", "alts": [], "form": "sense: company president/CEO"},
+      {"f": "sense", "s": "Le ___ du club de football a signé le nouveau contrat.", "en": "The president of the football club signed the new contract.", "a": "président", "alts": [], "form": "sense: president of an association/club"},
+      {"f": "usage", "s": "Le ___ a été élu pour un mandat de cinq ans.", "en": "The president was elected for a five-year term.", "a": "président", "alts": [], "form": "usage: political context"},
+      {"f": "usage", "s": "Madame la ___, je vous présente mes félicitations.", "en": "Madam president, I present to you my congratulations.", "a": "présidente", "alts": [], "form": "usage: formal address (female president)"},
+      {"f": "usage", "s": "L'ancien ___ a écrit ses mémoires.", "en": "The former president wrote his memoirs.", "a": "président", "alts": [], "form": "usage: reference to past office holder"},
+      {"f": "usage", "s": "Le futur ___ prépare déjà son programme.", "en": "The future president is already preparing his program.", "a": "président", "alts": [], "form": "usage: reference to future office holder"}
+    ]
+  },
+  {
+    "id": "269",
+    "qs": [
+      {"f": "tense", "s": "Je crois que la vie intelligente ___ ailleurs dans l'univers.", "en": "I believe that intelligent life exists elsewhere in the universe.", "a": "existe", "alts": [], "form": "Présent (3e personne singulier)"},
+      {"f": "tense", "s": "Des dinosaures ___ sur Terre il y a des millions d'années.", "en": "Dinosaurs existed on Earth millions of years ago.", "a": "ont existé", "alts": [], "form": "Passé composé (3e personne pluriel)"},
+      {"f": "tense", "s": "Tu ne ___ pas ? Tu dois bien te rendre compte que tu es là !", "en": "You don't exist? You must realize that you are here!", "a": "existes", "alts": [], "form": "Présent (2e personne singulier)"},
+      {"f": "tense", "s": "Nous ___ pour aimer et pour être aimés.", "en": "We exist to love and to be loved.", "a": "existons", "alts": [], "form": "Présent (1e personne pluriel)"},
+      {"f": "tense", "s": "Jadis, un grand empire ___ en Mésopotamie.", "en": "Once, a great empire existed in Mesopotamia.", "a": "existait", "alts": [], "form": "Imparfait (3e personne singulier)"},
+      {"f": "tense", "s": "De nombreuses cultures anciennes ___ avant l'arrivée des Européens.", "en": "Many ancient cultures existed before the arrival of Europeans.", "a": "existaient", "alts": [], "form": "Imparfait (3e personne pluriel)"},
+      {"f": "tense", "s": "Demain, ces problèmes ___ toujours si nous ne les résolvons pas aujourd'hui.", "en": "Tomorrow, these problems will still exist if we don't solve them today.", "a": "existeront", "alts": [], "form": "Futur (3e personne pluriel)"},
+      {"f": "tense", "s": "Je suis certain que la paix ___ dans ce monde un jour.", "en": "I am certain that peace will exist in this world one day.", "a": "existera", "alts": [], "form": "Futur (3e personne singulier)"},
+      {"f": "tense", "s": "Autrefois, beaucoup de métiers ___ qui n'existent plus aujourd'hui.", "en": "Once, many professions existed that no longer exist today.", "a": "existaient", "alts": [], "form": "Imparfait (3e personne pluriel)"},
+      {"f": "tense", "s": "J'___ depuis trente ans ; j'ai eu une belle vie.", "en": "I have existed for thirty years; I've had a beautiful life.", "a": "ai existé", "alts": [], "form": "Passé composé (1e personne singulier)"},
+      {"f": "tense", "s": "Vous ___ dans l'histoire comme des héros.", "en": "You will exist in history as heroes.", "a": "existerez", "alts": [], "form": "Futur (2e personne pluriel)"},
+      {"f": "tense", "s": "Il faut que la justice ___ pour tous.", "en": "It is necessary that justice exists for everyone.", "a": "existe", "alts": [], "form": "Subjonctif (3e personne singulier)"},
+      {"f": "tense", "s": "Nous avons peur qu'ils n'___ pas longtemps après notre mort.", "en": "We fear that they will not exist long after our death.", "a": "existent", "alts": [], "form": "Subjonctif (3e personne pluriel)"},
+      {"f": "tense", "s": "Dans un monde meilleur, la pauvreté n'___ pas.", "en": "In a better world, poverty would not exist.", "a": "existerait", "alts": [], "form": "Conditionnel (3e personne singulier)"},
+      {"f": "tense", "s": "Si tu avais des doutes, tu ___ vraiment.", "en": "If you had doubts, you would truly exist.", "a": "existerais", "alts": [], "form": "Conditionnel (2e personne singulier)"},
+      {"f": "tense", "s": "Les anciens Grecs ___ il y a plus de deux mille ans.", "en": "The ancient Greeks existed more than two thousand years ago.", "a": "ont existé", "alts": [], "form": "Passé composé (3e personne pluriel)"},
+      {"f": "tense", "s": "Quand vous ___ dans cette maison, vous étiez heureux.", "en": "When you existed in this house, you were happy.", "a": "existiez", "alts": [], "form": "Imparfait (2e personne pluriel)"},
+      {"f": "tense", "s": "Nous n'___ pas si Dieu n'existait pas.", "en": "We would not exist if God did not exist.", "a": "existerions", "alts": [], "form": "Conditionnel (1e personne pluriel)"},
+      {"f": "tense", "s": "Elle a toujours cru qu'ils ___ quelque part.", "en": "She always believed that they existed somewhere.", "a": "existaient", "alts": [], "form": "Imparfait (3e personne pluriel)"},
+      {"f": "tense", "s": "J'___ pleinement en ce moment.", "en": "I fully exist at this moment.", "a": "existe", "alts": [], "form": "Présent (1e personne singulier)"},
+      {"f": "tense", "s": "Ces traditions ___ depuis des siècles.", "en": "These traditions have existed for centuries.", "a": "ont existé", "alts": [], "form": "Passé composé (3e personne pluriel)"},
+      {"f": "tense", "s": "Avant que ce problème n'___, tout allait bien.", "en": "Before this problem existed, everything was fine.", "a": "existe", "alts": [], "form": "Subjonctif (3e personne singulier)"},
+      {"f": "tense", "s": "Autrefois, beaucoup de superstitions ___ dans les villages.", "en": "Once, many superstitions existed in the villages.", "a": "existaient", "alts": [], "form": "Imparfait (3e personne pluriel)"},
+      {"f": "tense", "s": "Les civilisations futures ___ grâce à nos actions d'aujourd'hui.", "en": "Future civilizations will exist thanks to our actions today.", "a": "existeront", "alts": [], "form": "Futur (3e personne pluriel)"}
+    ]
+  }
+]

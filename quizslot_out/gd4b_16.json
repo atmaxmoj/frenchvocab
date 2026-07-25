@@ -1,0 +1,214 @@
+[
+  {
+    "id": 399,
+    "qs": [
+      {
+        "slot": "s|0",
+        "f": "sense",
+        "s": "Elle n'arrivait pas à trouver un ___ accrocheur pour son article de blog.",
+        "a": "titre",
+        "en": "She couldn't find a catchy title for her blog post.",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "s|0",
+        "f": "sense",
+        "s": "Le professeur a demandé aux étudiants d'écrire le ___ de leur dissertation en haut de la page.",
+        "a": "titre",
+        "en": "The professor asked the students to write the title of their essay at the top of the page.",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "s|1",
+        "f": "sense",
+        "s": "Le roi lui a accordé le ___ de duc pour ses services rendus au royaume.",
+        "a": "titre",
+        "en": "The king granted him the title of duke for his services to the kingdom.",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "s|1",
+        "f": "sense",
+        "s": "Elle porte le ___ de directrice générale depuis sa promotion l'année dernière.",
+        "a": "titre",
+        "en": "She has held the title of CEO since her promotion last year.",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "s|2",
+        "f": "sense",
+        "s": "Pour exercer ce métier, il faut posséder un ___ reconnu par l'État.",
+        "a": "titre",
+        "en": "To practice this profession, you must hold a certificate recognized by the state.",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "s|2",
+        "f": "sense",
+        "s": "Il a obtenu un ___ universitaire après trois ans d'études intensives.",
+        "a": "titre",
+        "en": "He obtained a university certificate after three years of intensive study.",
+        "alts": ["diplôme"],
+        "form": ""
+      },
+      {
+        "slot": "s|3",
+        "f": "sense",
+        "s": "À quel ___ participez-vous à cette réunion — en tant que membre ou en tant qu'observateur ?",
+        "a": "titre",
+        "en": "In what capacity are you attending this meeting — as a member or as an observer?",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "s|3",
+        "f": "sense",
+        "s": "Elle assiste à la conférence à double ___ : chercheuse et représentante de son université.",
+        "a": "titre",
+        "en": "She is attending the conference in a dual capacity: as a researcher and as a representative of her university.",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "gender",
+        "f": "gender",
+        "s": "Elle a lu ___ titre du roman avant d'ouvrir le livre.",
+        "a": "le",
+        "en": "She read the title of the novel before opening the book.",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "gender",
+        "f": "gender",
+        "s": "Il cherche ___ titre approprié pour sa thèse de doctorat.",
+        "a": "un",
+        "en": "He is looking for an appropriate title for his doctoral thesis.",
+        "alts": [],
+        "form": ""
+      }
+    ]
+  },
+  {
+    "id": 400,
+    "qs": [
+      {
+        "slot": "s|0",
+        "f": "sense",
+        "s": "Le candidat a quitté son ___ politique pour rejoindre l'opposition.",
+        "a": "parti",
+        "en": "The candidate left his party to join the opposition.",
+        "alts": []
+      },
+      {
+        "slot": "s|0",
+        "f": "sense",
+        "s": "Ce ___ défend les intérêts des classes populaires depuis des décennies.",
+        "a": "parti",
+        "en": "This party has defended the interests of the working classes for decades.",
+        "alts": []
+      },
+      {
+        "slot": "s|1",
+        "f": "sense",
+        "s": "Après de longues hésitations, elle a enfin pris son ___.",
+        "a": "parti",
+        "en": "After much hesitation, she finally made her decision.",
+        "alts": []
+      },
+      {
+        "slot": "s|1",
+        "f": "sense",
+        "s": "Il a pris le ___ de tout recommencer à zéro.",
+        "a": "parti",
+        "en": "He made the decision to start everything over from scratch.",
+        "alts": []
+      },
+      {
+        "slot": "s|2",
+        "f": "sense",
+        "s": "Quand je suis arrivé à la fête, mes amis étaient déjà ___.",
+        "a": "partis",
+        "en": "When I arrived at the party, my friends were already gone.",
+        "alts": []
+      },
+      {
+        "slot": "s|2",
+        "f": "sense",
+        "s": "Ne l'attends pas, il est ___ depuis une heure.",
+        "a": "parti",
+        "en": "Don't wait for him, he has been gone for an hour.",
+        "alts": []
+      },
+      {
+        "slot": "s|3",
+        "f": "sense",
+        "s": "Elle a su tirer ___ de cette expérience pour progresser.",
+        "a": "parti",
+        "en": "She knew how to make the most of this experience to improve.",
+        "alts": []
+      },
+      {
+        "slot": "s|3",
+        "f": "sense",
+        "s": "Un bon photographe sait tirer ___ de la lumière naturelle.",
+        "a": "parti",
+        "en": "A good photographer knows how to make the most of natural light.",
+        "alts": []
+      },
+      {
+        "slot": "g|mp",
+        "f": "agree",
+        "s": "Tous les invités ___ avant minuit n'ont pas vu le feu d'artifice.",
+        "a": "partis",
+        "en": "All the guests who had left before midnight did not see the fireworks.",
+        "alts": []
+      },
+      {
+        "slot": "g|mp",
+        "f": "agree",
+        "s": "Les membres ___ en mission reviendront la semaine prochaine.",
+        "a": "partis",
+        "en": "The members who have gone on assignment will return next week.",
+        "alts": []
+      },
+      {
+        "slot": "g|f",
+        "f": "agree",
+        "s": "Ma sœur est ___ très tôt sans dire au revoir.",
+        "a": "partie",
+        "en": "My sister left very early without saying goodbye.",
+        "alts": []
+      },
+      {
+        "slot": "g|f",
+        "f": "agree",
+        "s": "Une fois la directrice ___, la réunion a pris fin.",
+        "a": "partie",
+        "en": "Once the director had left, the meeting came to an end.",
+        "alts": []
+      },
+      {
+        "slot": "g|fp",
+        "f": "agree",
+        "s": "Les employées ___ en congé ne répondent pas aux messages.",
+        "a": "parties",
+        "en": "The female employees who have gone on leave are not answering messages.",
+        "alts": []
+      },
+      {
+        "slot": "g|fp",
+        "f": "agree",
+        "s": "Toutes ces étudiantes sont ___ étudier à l'étranger l'année dernière.",
+        "a": "parties",
+        "en": "All these female students left to study abroad last year.",
+        "alts": []
+      }
+    ]
+  }
+]

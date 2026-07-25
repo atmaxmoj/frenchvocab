@@ -1,0 +1,33 @@
+[
+  {
+    "id": 5565,
+    "qs": [
+      {"slot":"s|0","f":"sense","s":"Il est toujours très ___ dans sa tenue.","a":"soigné","en":"He is always very neat in his attire.","alts":[]},
+      {"slot":"s|0","f":"sense","s":"Ce rapport est très ___, sans aucune faute.","a":"soigné","en":"This report is very meticulous, without a single mistake.","alts":[]},
+      {"slot":"g|mp","f":"agree","s":"Les jardins de ce parc sont très ___.","a":"soignés","en":"The gardens in this park are very well-tended.","alts":[]},
+      {"slot":"g|mp","f":"agree","s":"Ses gestes sont ___ et précis.","a":"soignés","en":"His gestures are careful and precise.","alts":[]},
+      {"slot":"g|f","f":"agree","s":"Sa présentation était très ___.","a":"soignée","en":"Her presentation was very polished.","alts":[]},
+      {"slot":"g|f","f":"agree","s":"Cette maison est toujours très ___.","a":"soignée","en":"This house is always very neat.","alts":[]},
+      {"slot":"g|fp","f":"agree","s":"Leurs mains étaient ___ et manucurées.","a":"soignées","en":"Their hands were well-groomed and manicured.","alts":[]},
+      {"slot":"g|fp","f":"agree","s":"Ces photos sont très ___, chaque détail compte.","a":"soignées","en":"These photos are very carefully crafted, every detail matters.","alts":[]}
+    ]
+  },
+  {
+    "id": 5566,
+    "qs": [
+      {"slot":"s|0","f":"sense","s":"Chaque dimanche, les enfants vont chez leur ___ pour déjeuner.","en":"Every Sunday, the children go to their grandpa's for lunch.","a":"papi","alts":[],"form":""},
+      {"slot":"s|0","f":"sense","s":"Mon ___ me raconte toujours des histoires avant de dormir.","en":"My grandpa always tells me stories before bedtime.","a":"papi","alts":[],"form":""},
+      {"slot":"gender","f":"gender","s":"___ papi de Léa a quatre-vingts ans.","en":"Léa's grandpa is eighty years old.","a":"Le","alts":[],"form":""},
+      {"slot":"gender","f":"gender","s":"Léa a ___ papi adorable qui habite à la campagne.","en":"Léa has an adorable grandpa who lives in the countryside.","a":"un","alts":[],"form":""}
+    ]
+  },
+  {
+    "id": 5567,
+    "qs": [
+      {"slot":"s|0","f":"sense","s":"Après la révolution, la ___ a pris le pouvoir économique.","en":"After the revolution, the bourgeoisie took economic power.","a":"bourgeoisie","alts":[],"form":""},
+      {"slot":"s|0","f":"sense","s":"Il est issu d'une famille de la petite ___ parisienne.","en":"He comes from a family of the Parisian petite bourgeoisie (lower middle class).","a":"bourgeoisie","alts":[],"form":""},
+      {"slot":"gender","f":"gender","s":"Sous l'Ancien Régime, ___ bourgeoisie française ambitionnait d'accéder à la noblesse.","en":"Under the Ancien Régime, the French bourgeoisie aspired to attain nobility.","a":"la","alts":[],"form":""},
+      {"slot":"gender","f":"gender","s":"Elle est issue d'___ bourgeoisie modeste mais éduquée.","en":"She comes from a modest but educated middle-class family.","a":"une","alts":[],"form":""}
+    ]
+  }
+]

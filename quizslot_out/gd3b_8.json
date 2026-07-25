@@ -1,0 +1,683 @@
+[
+  {
+    "id": 225,
+    "qs": [
+      {
+        "slot": "s|0",
+        "f": "sense",
+        "s": "La boulangerie est tout ___ , à deux minutes à pied de chez nous.",
+        "en": "The bakery is right nearby, two minutes' walk from our place.",
+        "a": "près",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "s|0",
+        "f": "sense",
+        "s": "Il y a un parc ___ où les enfants jouent tous les après-midis.",
+        "en": "There is a park nearby where the children play every afternoon.",
+        "a": "près",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "s|1",
+        "f": "sense",
+        "s": "Il est ___ de minuit ; tu devrais aller te coucher.",
+        "en": "It is close to midnight; you should go to bed.",
+        "a": "près",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "s|1",
+        "f": "sense",
+        "s": "Ce tableau a été vendu ___ de deux millions d'euros lors de la vente aux enchères.",
+        "en": "This painting was sold for close to two million euros at the auction.",
+        "a": "près",
+        "alts": [],
+        "form": ""
+      }
+    ]
+  },
+  {
+    "id": 226,
+    "qs": [
+      {
+        "slot": "t|Présent|0",
+        "f": "tense",
+        "s": "Je ___ toujours la même place dans ce café.",
+        "en": "I always choose the same seat in this café.",
+        "a": "choisis",
+        "alts": [],
+        "form": "Présent"
+      },
+      {
+        "slot": "t|Présent|0",
+        "f": "tense",
+        "s": "Tu ___ quel film ce soir ?",
+        "en": "Which film are you choosing tonight?",
+        "a": "choisis",
+        "alts": [],
+        "form": "Présent"
+      },
+      {
+        "slot": "t|Présent|1",
+        "f": "tense",
+        "s": "Mon frère ___ toujours les meilleurs restaurants.",
+        "en": "My brother always chooses the best restaurants.",
+        "a": "choisit",
+        "alts": [],
+        "form": "Présent"
+      },
+      {
+        "slot": "t|Présent|1",
+        "f": "tense",
+        "s": "Elle ___ une robe rouge pour la fête.",
+        "en": "She chooses a red dress for the party.",
+        "a": "choisit",
+        "alts": [],
+        "form": "Présent"
+      },
+      {
+        "slot": "t|Présent|2",
+        "f": "tense",
+        "s": "Nous ___ nos vacances en avance chaque année.",
+        "en": "We choose our holidays in advance every year.",
+        "a": "choisissons",
+        "alts": [],
+        "form": "Présent"
+      },
+      {
+        "slot": "t|Présent|2",
+        "f": "tense",
+        "s": "Nous ___ toujours des produits locaux au marché.",
+        "en": "We always choose local products at the market.",
+        "a": "choisissons",
+        "alts": [],
+        "form": "Présent"
+      },
+      {
+        "slot": "t|Présent|3",
+        "f": "tense",
+        "s": "Vous ___ votre spécialité ou le menu du jour ?",
+        "en": "Are you choosing the speciality or the daily menu?",
+        "a": "choisissez",
+        "alts": [],
+        "form": "Présent"
+      },
+      {
+        "slot": "t|Présent|3",
+        "f": "tense",
+        "s": "Vous ___ souvent les mêmes livres pour vos élèves.",
+        "en": "You often choose the same books for your students.",
+        "a": "choisissez",
+        "alts": [],
+        "form": "Présent"
+      },
+      {
+        "slot": "t|Présent|4",
+        "f": "tense",
+        "s": "Mes parents ___ ensemble la couleur des murs.",
+        "en": "My parents choose the wall colour together.",
+        "a": "choisissent",
+        "alts": [],
+        "form": "Présent"
+      },
+      {
+        "slot": "t|Présent|4",
+        "f": "tense",
+        "s": "Elles ___ toujours les places près de la fenêtre.",
+        "en": "They always choose the seats near the window.",
+        "a": "choisissent",
+        "alts": [],
+        "form": "Présent"
+      },
+      {
+        "slot": "t|Passé composé|0",
+        "f": "tense",
+        "s": "J'___ un appartement en centre-ville.",
+        "en": "I chose a flat in the city centre.",
+        "a": "ai choisi",
+        "alts": [],
+        "form": "Passé composé"
+      },
+      {
+        "slot": "t|Passé composé|0",
+        "f": "tense",
+        "s": "J'___ l'option la plus économique pour le voyage.",
+        "en": "I chose the most economical option for the trip.",
+        "a": "ai choisi",
+        "alts": [],
+        "form": "Passé composé"
+      },
+      {
+        "slot": "t|Passé composé|1",
+        "f": "tense",
+        "s": "Tu ___ une belle destination pour tes vacances.",
+        "en": "You chose a beautiful destination for your holidays.",
+        "a": "as choisi",
+        "alts": [],
+        "form": "Passé composé"
+      },
+      {
+        "slot": "t|Passé composé|1",
+        "f": "tense",
+        "s": "Tu ___ ce métier par passion, n'est-ce pas ?",
+        "en": "You chose this profession out of passion, didn't you?",
+        "a": "as choisi",
+        "alts": [],
+        "form": "Passé composé"
+      },
+      {
+        "slot": "t|Passé composé|2",
+        "f": "tense",
+        "s": "Mon directeur ___ un nouveau collaborateur pour le projet.",
+        "en": "My manager chose a new colleague for the project.",
+        "a": "a choisi",
+        "alts": [],
+        "form": "Passé composé"
+      },
+      {
+        "slot": "t|Passé composé|2",
+        "f": "tense",
+        "s": "Elle ___ de rester silencieuse pendant la réunion.",
+        "en": "She chose to remain silent during the meeting.",
+        "a": "a choisi",
+        "alts": [],
+        "form": "Passé composé"
+      },
+      {
+        "slot": "t|Passé composé|3",
+        "f": "tense",
+        "s": "Nous ___ un thème original pour la soirée.",
+        "en": "We chose an original theme for the evening.",
+        "a": "avons choisi",
+        "alts": [],
+        "form": "Passé composé"
+      },
+      {
+        "slot": "t|Passé composé|3",
+        "f": "tense",
+        "s": "Nous ___ de partir tôt pour éviter les embouteillages.",
+        "en": "We chose to leave early to avoid the traffic jams.",
+        "a": "avons choisi",
+        "alts": [],
+        "form": "Passé composé"
+      },
+      {
+        "slot": "t|Passé composé|4",
+        "f": "tense",
+        "s": "Vous ___ un excellent vin pour ce dîner.",
+        "en": "You chose an excellent wine for this dinner.",
+        "a": "avez choisi",
+        "alts": [],
+        "form": "Passé composé"
+      },
+      {
+        "slot": "t|Passé composé|4",
+        "f": "tense",
+        "s": "Vous ___ la bonne réponse, bravo !",
+        "en": "You chose the right answer, well done!",
+        "a": "avez choisi",
+        "alts": [],
+        "form": "Passé composé"
+      },
+      {
+        "slot": "t|Passé composé|5",
+        "f": "tense",
+        "s": "Mes amis ___ de voyager en train plutôt qu'en avion.",
+        "en": "My friends chose to travel by train rather than by plane.",
+        "a": "ont choisi",
+        "alts": [],
+        "form": "Passé composé"
+      },
+      {
+        "slot": "t|Passé composé|5",
+        "f": "tense",
+        "s": "Les élèves ___ leurs sujets de présentation la semaine dernière.",
+        "en": "The students chose their presentation topics last week.",
+        "a": "ont choisi",
+        "alts": [],
+        "form": "Passé composé"
+      },
+      {
+        "slot": "t|Imparfait|0",
+        "f": "tense",
+        "s": "Quand j'étais enfant, je ___ toujours la même saveur de glace.",
+        "en": "When I was a child, I always chose the same ice cream flavour.",
+        "a": "choisissais",
+        "alts": [],
+        "form": "Imparfait"
+      },
+      {
+        "slot": "t|Imparfait|0",
+        "f": "tense",
+        "s": "Avant, tu ___ tes vêtements seul sans demander l'avis de personne.",
+        "en": "Before, you used to choose your clothes alone without asking anyone's opinion.",
+        "a": "choisissais",
+        "alts": [],
+        "form": "Imparfait"
+      },
+      {
+        "slot": "t|Imparfait|1",
+        "f": "tense",
+        "s": "Le chef ___ chaque soir les ingrédients du menu.",
+        "en": "The chef used to choose the menu ingredients every evening.",
+        "a": "choisissait",
+        "alts": [],
+        "form": "Imparfait"
+      },
+      {
+        "slot": "t|Imparfait|1",
+        "f": "tense",
+        "s": "Mon professeur ___ toujours des exemples tirés de la vie quotidienne.",
+        "en": "My teacher always used to choose examples from everyday life.",
+        "a": "choisissait",
+        "alts": [],
+        "form": "Imparfait"
+      },
+      {
+        "slot": "t|Imparfait|2",
+        "f": "tense",
+        "s": "Nous ___ nos lectures ensemble à la bibliothèque.",
+        "en": "We used to choose our reading together at the library.",
+        "a": "choisissions",
+        "alts": [],
+        "form": "Imparfait"
+      },
+      {
+        "slot": "t|Imparfait|2",
+        "f": "tense",
+        "s": "Autrefois, nous ___ nos destinations sans utiliser Internet.",
+        "en": "In the past, we used to choose our destinations without using the internet.",
+        "a": "choisissions",
+        "alts": [],
+        "form": "Imparfait"
+      },
+      {
+        "slot": "t|Imparfait|3",
+        "f": "tense",
+        "s": "Vous ___ les sujets d'examen parmi une longue liste.",
+        "en": "You used to choose the exam topics from a long list.",
+        "a": "choisissiez",
+        "alts": [],
+        "form": "Imparfait"
+      },
+      {
+        "slot": "t|Imparfait|3",
+        "f": "tense",
+        "s": "Avant, vous ___ toujours des hôtels en bord de mer.",
+        "en": "Before, you always used to choose hotels by the sea.",
+        "a": "choisissiez",
+        "alts": [],
+        "form": "Imparfait"
+      },
+      {
+        "slot": "t|Imparfait|4",
+        "f": "tense",
+        "s": "Les clients ___ leurs produits avec soin.",
+        "en": "The customers used to choose their products carefully.",
+        "a": "choisissaient",
+        "alts": [],
+        "form": "Imparfait"
+      },
+      {
+        "slot": "t|Imparfait|4",
+        "f": "tense",
+        "s": "Les enfants ___ leurs jouets pendant des heures.",
+        "en": "The children used to choose their toys for hours.",
+        "a": "choisissaient",
+        "alts": [],
+        "form": "Imparfait"
+      },
+      {
+        "slot": "t|Futur|0",
+        "f": "tense",
+        "s": "Je ___ mon orientation universitaire à la fin du mois.",
+        "en": "I will choose my university course at the end of the month.",
+        "a": "choisirai",
+        "alts": [],
+        "form": "Futur"
+      },
+      {
+        "slot": "t|Futur|0",
+        "f": "tense",
+        "s": "Demain, je ___ la couleur de la peinture pour ma chambre.",
+        "en": "Tomorrow I will choose the paint colour for my room.",
+        "a": "choisirai",
+        "alts": [],
+        "form": "Futur"
+      },
+      {
+        "slot": "t|Futur|1",
+        "f": "tense",
+        "s": "Tu ___ ton équipe avant le début du tournoi.",
+        "en": "You will choose your team before the start of the tournament.",
+        "a": "choisiras",
+        "alts": [],
+        "form": "Futur"
+      },
+      {
+        "slot": "t|Futur|1",
+        "f": "tense",
+        "s": "Plus tard, tu ___ le prénom de ton enfant.",
+        "en": "Later, you will choose your child's name.",
+        "a": "choisiras",
+        "alts": [],
+        "form": "Futur"
+      },
+      {
+        "slot": "t|Futur|2",
+        "f": "tense",
+        "s": "Le comité ___ le gagnant la semaine prochaine.",
+        "en": "The committee will choose the winner next week.",
+        "a": "choisira",
+        "alts": [],
+        "form": "Futur"
+      },
+      {
+        "slot": "t|Futur|2",
+        "f": "tense",
+        "s": "Ma sœur ___ une robe pour son mariage en juin.",
+        "en": "My sister will choose a dress for her wedding in June.",
+        "a": "choisira",
+        "alts": [],
+        "form": "Futur"
+      },
+      {
+        "slot": "t|Futur|3",
+        "f": "tense",
+        "s": "Nous ___ notre itinéraire en fonction de la météo.",
+        "en": "We will choose our itinerary according to the weather.",
+        "a": "choisirons",
+        "alts": [],
+        "form": "Futur"
+      },
+      {
+        "slot": "t|Futur|3",
+        "f": "tense",
+        "s": "Nous ___ le meilleur candidat pour ce poste.",
+        "en": "We will choose the best candidate for this position.",
+        "a": "choisirons",
+        "alts": [],
+        "form": "Futur"
+      },
+      {
+        "slot": "t|Futur|4",
+        "f": "tense",
+        "s": "Vous ___ votre menu parmi plusieurs options.",
+        "en": "You will choose your menu from several options.",
+        "a": "choisirez",
+        "alts": [],
+        "form": "Futur"
+      },
+      {
+        "slot": "t|Futur|4",
+        "f": "tense",
+        "s": "Lors de la réunion, vous ___ un représentant.",
+        "en": "At the meeting, you will choose a representative.",
+        "a": "choisirez",
+        "alts": [],
+        "form": "Futur"
+      },
+      {
+        "slot": "t|Futur|5",
+        "f": "tense",
+        "s": "Les touristes ___ leurs activités en arrivant à l'hôtel.",
+        "en": "The tourists will choose their activities on arriving at the hotel.",
+        "a": "choisiront",
+        "alts": [],
+        "form": "Futur"
+      },
+      {
+        "slot": "t|Futur|5",
+        "f": "tense",
+        "s": "Mes collègues ___ la date de la prochaine réunion.",
+        "en": "My colleagues will choose the date of the next meeting.",
+        "a": "choisiront",
+        "alts": [],
+        "form": "Futur"
+      },
+      {
+        "slot": "t|Conditionnel|0",
+        "f": "tense",
+        "s": "Si j'avais plus de temps, je ___ un cours de musique.",
+        "en": "If I had more time, I would choose a music course.",
+        "a": "choisirais",
+        "alts": [],
+        "form": "Conditionnel"
+      },
+      {
+        "slot": "t|Conditionnel|0",
+        "f": "tense",
+        "s": "Si tu pouvais vivre n'importe où, tu ___ quelle ville ?",
+        "en": "If you could live anywhere, which city would you choose?",
+        "a": "choisirais",
+        "alts": [],
+        "form": "Conditionnel"
+      },
+      {
+        "slot": "t|Conditionnel|1",
+        "f": "tense",
+        "s": "Si elle était libre ce soir, elle ___ certainement ce restaurant.",
+        "en": "If she were free this evening, she would certainly choose this restaurant.",
+        "a": "choisirait",
+        "alts": [],
+        "form": "Conditionnel"
+      },
+      {
+        "slot": "t|Conditionnel|1",
+        "f": "tense",
+        "s": "Si mon patron avait le choix, il ___ un autre collaborateur.",
+        "en": "If my boss had the choice, he would choose a different colleague.",
+        "a": "choisirait",
+        "alts": [],
+        "form": "Conditionnel"
+      },
+      {
+        "slot": "t|Conditionnel|2",
+        "f": "tense",
+        "s": "Si nous avions plus de budget, nous ___ un hôtel cinq étoiles.",
+        "en": "If we had a bigger budget, we would choose a five-star hotel.",
+        "a": "choisirions",
+        "alts": [],
+        "form": "Conditionnel"
+      },
+      {
+        "slot": "t|Conditionnel|2",
+        "f": "tense",
+        "s": "Si nous pouvions recommencer, nous ___ une autre approche.",
+        "en": "If we could start over, we would choose a different approach.",
+        "a": "choisirions",
+        "alts": [],
+        "form": "Conditionnel"
+      },
+      {
+        "slot": "t|Conditionnel|3",
+        "f": "tense",
+        "s": "Si vous étiez à ma place, vous ___ de partir ou de rester ?",
+        "en": "If you were in my position, would you choose to leave or to stay?",
+        "a": "choisiriez",
+        "alts": [],
+        "form": "Conditionnel"
+      },
+      {
+        "slot": "t|Conditionnel|3",
+        "f": "tense",
+        "s": "Si vous aviez ce diplôme, vous ___ sûrement ce poste.",
+        "en": "If you had this qualification, you would surely choose this post.",
+        "a": "choisiriez",
+        "alts": [],
+        "form": "Conditionnel"
+      },
+      {
+        "slot": "t|Conditionnel|4",
+        "f": "tense",
+        "s": "Si les étudiants avaient le choix, ils ___ des cours plus courts.",
+        "en": "If the students had the choice, they would choose shorter courses.",
+        "a": "choisiraient",
+        "alts": [],
+        "form": "Conditionnel"
+      },
+      {
+        "slot": "t|Conditionnel|4",
+        "f": "tense",
+        "s": "Si elles pouvaient voter, elles ___ un autre candidat.",
+        "en": "If they could vote, they would choose a different candidate.",
+        "a": "choisiraient",
+        "alts": [],
+        "form": "Conditionnel"
+      },
+      {
+        "slot": "t|Subjonctif",
+        "f": "subj",
+        "s": "Il faut que tu ___ ta spécialisation avant la fin du semestre.",
+        "en": "You must choose your specialisation before the end of the semester.",
+        "a": "choisisses",
+        "alts": [],
+        "form": "Subjonctif"
+      },
+      {
+        "slot": "t|Subjonctif",
+        "f": "subj",
+        "s": "Je veux qu'il ___ soigneusement ses partenaires de travail.",
+        "en": "I want him to choose his work partners carefully.",
+        "a": "choisisse",
+        "alts": [],
+        "form": "Subjonctif"
+      },
+      {
+        "slot": "s|0",
+        "f": "sense",
+        "s": "Face à plusieurs offres d'emploi, il doit ___ celle qui correspond le mieux à ses valeurs.",
+        "en": "Faced with several job offers, he must choose the one that best matches his values.",
+        "a": "choisir",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "s|0",
+        "f": "sense",
+        "s": "La vie nous oblige parfois à ___ entre deux chemins très différents.",
+        "en": "Life sometimes forces us to choose between two very different paths.",
+        "a": "choisir",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "s|1",
+        "f": "sense",
+        "s": "Elle a mis longtemps à ___ les légumes les plus frais sur l'étal du marché.",
+        "en": "She took a long time to pick out the freshest vegetables from the market stall.",
+        "a": "choisir",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "s|1",
+        "f": "sense",
+        "s": "Mon fils aime ___ ses propres vêtements avant de les acheter.",
+        "en": "My son likes to pick out his own clothes before buying them.",
+        "a": "choisir",
+        "alts": [],
+        "form": ""
+      }
+    ]
+  },
+  {
+    "id": 227,
+    "qs": [
+      {
+        "slot": "s|0",
+        "f": "sense",
+        "s": "Le 14 juillet est un jour ___ en France.",
+        "en": "July 14th is a national day in France.",
+        "a": "national",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "s|0",
+        "f": "sense",
+        "s": "Le gouvernement a lancé un plan ___ pour réduire le chômage.",
+        "en": "The government launched a national plan to reduce unemployment.",
+        "a": "national",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "s|1",
+        "f": "sense",
+        "s": "La langue française est un symbole de l'identité ___.",
+        "en": "The French language is a symbol of national (people's) identity.",
+        "a": "nationale",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "s|1",
+        "f": "sense",
+        "s": "Le mouvement ___ a uni le peuple autour de valeurs communes.",
+        "en": "The national (people's) movement united the people around common values.",
+        "a": "national",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "g|mp",
+        "f": "agree",
+        "s": "Les hymnes ___ sont chantés lors des cérémonies officielles.",
+        "en": "National anthems are sung at official ceremonies.",
+        "a": "nationaux",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "g|mp",
+        "f": "agree",
+        "s": "Les parcs ___ protègent la biodiversité du pays.",
+        "en": "National parks protect the country's biodiversity.",
+        "a": "nationaux",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "g|f",
+        "f": "agree",
+        "s": "La fête ___ est célébrée chaque année le 14 juillet.",
+        "en": "The national holiday is celebrated every year on July 14th.",
+        "a": "nationale",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "g|f",
+        "f": "agree",
+        "s": "L'équipe ___ de football a remporté la Coupe du Monde.",
+        "en": "The national football team won the World Cup.",
+        "a": "nationale",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "g|fp",
+        "f": "agree",
+        "s": "Les frontières ___ ont été fermées pendant la crise.",
+        "en": "The national borders were closed during the crisis.",
+        "a": "nationales",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "g|fp",
+        "f": "agree",
+        "s": "Les élections ___ auront lieu au mois de juin.",
+        "en": "The national elections will take place in June.",
+        "a": "nationales",
+        "alts": [],
+        "form": ""
+      }
+    ]
+  }
+]

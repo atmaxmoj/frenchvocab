@@ -1,0 +1,305 @@
+[
+  {
+    "id": 4478,
+    "qs": [
+      {
+        "slot": "s|0",
+        "f": "sense",
+        "s": "Elle a obtenu son diplôme dans le domaine ___ après six ans d'études.",
+        "en": "She obtained her degree in the pharmaceutical (pharmacy science) field after six years of study.",
+        "a": "pharmaceutique",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "s|0",
+        "f": "sense",
+        "s": "La faculté ___ de cette université forme des pharmaciens depuis plus d'un siècle.",
+        "en": "The pharmaceutical faculty of this university has been training pharmacists for over a century.",
+        "a": "pharmaceutique",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "s|1",
+        "f": "sense",
+        "s": "L'industrie ___ investit des milliards d'euros chaque année dans la recherche de nouveaux médicaments.",
+        "en": "The pharmaceutical industry invests billions of euros each year in the research of new drugs.",
+        "a": "pharmaceutique",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "s|1",
+        "f": "sense",
+        "s": "Ce grand groupe ___ produit des médicaments génériques dans ses usines en Europe.",
+        "en": "This large pharmaceutical group produces generic drugs in its factories in Europe.",
+        "a": "pharmaceutique",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "g|mp",
+        "f": "agree",
+        "s": "Les laboratoires ___ doivent respecter des normes strictes de qualité.",
+        "en": "Pharmaceutical laboratories must comply with strict quality standards.",
+        "a": "pharmaceutiques",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "g|mp",
+        "f": "agree",
+        "s": "Les essais ___ sur ce vaccin ont duré trois ans avant d'obtenir l'autorisation de mise sur le marché.",
+        "en": "The pharmaceutical trials for this vaccine lasted three years before receiving market authorization.",
+        "a": "pharmaceutiques",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "g|f",
+        "f": "agree",
+        "s": "La recherche ___ a permis de développer des traitements contre de nombreuses maladies.",
+        "en": "Pharmaceutical research has made it possible to develop treatments for many diseases.",
+        "a": "pharmaceutique",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "g|f",
+        "f": "agree",
+        "s": "La réglementation ___ européenne encadre strictement la production et la distribution des médicaments.",
+        "en": "European pharmaceutical regulation strictly governs the production and distribution of medicines.",
+        "a": "pharmaceutique",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "g|fp",
+        "f": "agree",
+        "s": "Les entreprises ___ ont augmenté leur production pour faire face à la demande mondiale.",
+        "en": "Pharmaceutical companies have increased their production to meet global demand.",
+        "a": "pharmaceutiques",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "g|fp",
+        "f": "agree",
+        "s": "Ces préparations ___ doivent être conservées à une température contrôlée.",
+        "en": "These pharmaceutical preparations must be stored at a controlled temperature.",
+        "a": "pharmaceutiques",
+        "alts": [],
+        "form": ""
+      }
+    ]
+  },
+  {
+    "id": 4479,
+    "qs": [
+      {
+        "slot": "s|0",
+        "f": "sense",
+        "s": "Elle a reçu une bouteille de ___ pour son anniversaire.",
+        "en": "She received a bottle of perfume for her birthday.",
+        "a": "parfum",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "s|0",
+        "f": "sense",
+        "s": "Il achète toujours son ___ dans cette boutique de luxe.",
+        "en": "He always buys his perfume at this luxury boutique.",
+        "a": "parfum",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "s|1",
+        "f": "sense",
+        "s": "Le ___ des roses embaume toute la pièce.",
+        "en": "The scent of the roses fills the whole room.",
+        "a": "parfum",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "s|1",
+        "f": "sense",
+        "s": "J'adore le ___ du pain frais qui sort du four.",
+        "en": "I love the scent of fresh bread coming out of the oven.",
+        "a": "parfum",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "s|2",
+        "f": "sense",
+        "s": "Un ___ de lavande flottait dans l'air du soir.",
+        "en": "A fragrance of lavender drifted through the evening air.",
+        "a": "parfum",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "s|2",
+        "f": "sense",
+        "s": "Le ___ enivrant des fleurs sauvages emplissait la prairie.",
+        "en": "The intoxicating fragrance of wild flowers filled the meadow.",
+        "a": "parfum",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "s|3",
+        "f": "sense",
+        "s": "Quel ___ de glace veux-tu : vanille, chocolat ou fraise ?",
+        "en": "What flavor of ice cream do you want: vanilla, chocolate, or strawberry?",
+        "a": "parfum",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "s|3",
+        "f": "sense",
+        "s": "Ce yaourt est disponible en plusieurs ___ : citron, pêche et abricot.",
+        "en": "This yogurt is available in several flavors: lemon, peach, and apricot.",
+        "a": "parfums",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "gender",
+        "f": "gender",
+        "s": "Elle a choisi ___ parfum le plus délicat de la collection.",
+        "en": "She chose the most delicate perfume in the collection.",
+        "a": "le",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "gender",
+        "f": "gender",
+        "s": "Mon père m'a offert ___ parfum très élégant.",
+        "en": "My father gave me a very elegant perfume.",
+        "a": "un",
+        "alts": [],
+        "form": ""
+      }
+    ]
+  },
+  {
+    "id": 4480,
+    "qs": [
+      {
+        "slot": "s|0",
+        "f": "sense",
+        "s": "Ce château est si ___ qu'il remonte au Moyen Âge.",
+        "en": "This castle is so old that it dates back to the Middle Ages.",
+        "a": "antique",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "s|0",
+        "f": "sense",
+        "s": "Le village a conservé des traditions ___ qui existent depuis des siècles.",
+        "en": "The village has preserved old traditions that have existed for centuries.",
+        "a": "antiques",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "s|1",
+        "f": "sense",
+        "s": "Les philosophes de la Grèce ___ ont posé les bases de la pensée occidentale.",
+        "en": "The philosophers of ancient Greece laid the foundations of Western thought.",
+        "a": "antique",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "s|1",
+        "f": "sense",
+        "s": "Le musée expose des sculptures de la Rome ___.",
+        "en": "The museum displays sculptures from ancient Rome.",
+        "a": "antique",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "s|2",
+        "f": "sense",
+        "s": "Elle a acheté une commode ___ dans une brocante.",
+        "en": "She bought an antique chest of drawers at a flea market.",
+        "a": "antique",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "s|2",
+        "f": "sense",
+        "s": "Ce marchand spécialisé vend uniquement des meubles ___ datant du XVIIIe siècle.",
+        "en": "This specialist dealer sells only antique furniture dating from the 18th century.",
+        "a": "antiques",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "g|mp",
+        "f": "agree",
+        "s": "Ces vases ___ proviennent d'une fouille archéologique en Grèce.",
+        "en": "These antique vases come from an archaeological dig in Greece.",
+        "a": "antiques",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "g|mp",
+        "f": "agree",
+        "s": "Le collectionneur possède plusieurs tableaux ___ très précieux.",
+        "en": "The collector owns several very precious antique paintings.",
+        "a": "antiques",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "g|f",
+        "f": "agree",
+        "s": "Cette horloge ___ trône fièrement dans le salon depuis des générations.",
+        "en": "This antique clock stands proudly in the living room for generations.",
+        "a": "antique",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "g|f",
+        "f": "agree",
+        "s": "La civilisation ___ a laissé de nombreux monuments remarquables.",
+        "en": "The ancient civilization left many remarkable monuments.",
+        "a": "antique",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "g|fp",
+        "f": "agree",
+        "s": "Les colonnes ___ de ce temple ont résisté à des millénaires d'érosion.",
+        "en": "The ancient columns of this temple have withstood millennia of erosion.",
+        "a": "antiques",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "g|fp",
+        "f": "agree",
+        "s": "La boutique propose des lampes ___ restaurées avec soin.",
+        "en": "The shop offers carefully restored antique lamps.",
+        "a": "antiques",
+        "alts": [],
+        "form": ""
+      }
+    ]
+  }
+]

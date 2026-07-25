@@ -1,0 +1,41 @@
+[
+  {
+    "id": 3553,
+    "qs": [
+      {"slot":"s|0","f":"sense","s":"Le berger portait un ___ pour guider ses moutons dans la montagne.","a":"bâton","en":"The shepherd carried a stick to guide his sheep in the mountains.","alts":[],"form":""},
+      {"slot":"s|0","f":"sense","s":"Il a frappé la branche avec un ___ pour faire tomber les pommes.","a":"bâton","en":"He hit the branch with a stick to knock down the apples.","alts":[],"form":""},
+      {"slot":"s|1","f":"sense","s":"Le coureur a passé le ___ à son coéquipier au moment du relais.","a":"bâton","en":"The runner passed the baton to his teammate at the relay exchange.","alts":[],"form":""},
+      {"slot":"s|1","f":"sense","s":"Le chef d'orchestre leva son ___ pour donner le signal aux musiciens.","a":"bâton","en":"The conductor raised his baton to give the signal to the musicians.","alts":[],"form":""},
+      {"slot":"s|2","f":"sense","s":"Le roi tenait son ___ comme symbole de son autorité sur le royaume.","a":"bâton","en":"The king held his scepter as a symbol of his authority over the kingdom.","alts":[],"form":""},
+      {"slot":"s|2","f":"sense","s":"Lors de la cérémonie, le maréchal reçut un ___ décoré en signe de son rang.","a":"bâton","en":"During the ceremony, the marshal received a decorated baton as a sign of his rank.","alts":[],"form":""},
+      {"slot":"gender","f":"gender","s":"Elle a ramassé ___ bâton tombé par terre.","a":"un","en":"She picked up a stick that had fallen on the ground.","alts":[],"form":""},
+      {"slot":"gender","f":"gender","s":"___ bâton du berger était taillé dans un vieux chêne.","a":"Le","en":"The shepherd's stick was carved from an old oak tree.","alts":[],"form":""}
+    ]
+  },
+  {
+    "id": 3554,
+    "qs": [
+      {"slot":"s|0","f":"sense","s":"Ce pays a mis en place un système ___ basé sur le suffrage universel.","a":"démocrate","en":"This country has established a democratic system based on universal suffrage.","alts":["démocratique"]},
+      {"slot":"s|0","f":"sense","s":"Nous vivons dans une société ___ où chaque citoyen a le droit de voter.","a":"démocrate","en":"We live in a democratic society where every citizen has the right to vote.","alts":["démocratique"]},
+      {"slot":"s|1","f":"sense","s":"En tant que ___, il défend les valeurs de liberté et d'égalité.","a":"démocrate","en":"As a democrat, he defends the values of freedom and equality.","alts":[]},
+      {"slot":"s|1","f":"sense","s":"Elle est une ___ convaincue qui milite pour les droits civiques.","a":"démocrate","en":"She is a convinced democrat who campaigns for civil rights.","alts":[]},
+      {"slot":"g|ms","f":"agree","s":"Le candidat ___ a remporté les élections locales.","a":"démocrate","en":"The democratic candidate won the local elections.","alts":[]},
+      {"slot":"g|ms","f":"agree","s":"Ce sénateur ___ défend les droits des travailleurs.","a":"démocrate","en":"This democratic senator defends workers' rights.","alts":[]},
+      {"slot":"g|mp","f":"agree","s":"Ces élus ___ ont voté en faveur de la réforme.","a":"démocrates","en":"These democratic elected officials voted in favour of the reform.","alts":[]},
+      {"slot":"g|mp","f":"agree","s":"Les candidats ___ ont remporté la majorité des sièges au Congrès.","a":"démocrates","en":"The democratic candidates won the majority of seats in Congress.","alts":[]},
+      {"slot":"g|f","f":"agree","s":"La sénatrice ___ a présenté un projet de loi sur l'environnement.","a":"démocrate","en":"The democratic senator presented an environmental bill.","alts":[]},
+      {"slot":"g|f","f":"agree","s":"Cette représentante ___ est connue pour ses positions progressistes.","a":"démocrate","en":"This democratic representative is known for her progressive positions.","alts":[]},
+      {"slot":"g|fp","f":"agree","s":"Les militantes ___ ont organisé une grande marche pour la démocratie.","a":"démocrates","en":"The democratic activists organised a large march for democracy.","alts":[]},
+      {"slot":"g|fp","f":"agree","s":"Ces femmes politiques ___ défendent les droits des minorités.","a":"démocrates","en":"These democratic politicians defend the rights of minorities.","alts":[]}
+    ]
+  },
+  {
+    "id": 3555,
+    "qs": [
+      {"slot":"s|0","f":"sense","s":"Comme ___ mentionné, le projet sera livré en deux phases.","a":"précédemment","en":"As previously mentioned, the project will be delivered in two phases.","alts":["antérieurement"],"form":""},
+      {"slot":"s|0","f":"sense","s":"Les résultats obtenus sont bien meilleurs que ceux ___ enregistrés.","a":"précédemment","en":"The results obtained are much better than those previously recorded.","alts":["antérieurement","auparavant"],"form":""},
+      {"slot":"s|1","f":"sense","s":"Vous avez ___ signé un contrat avec notre société ; nous vous rappelons ses conditions.","a":"précédemment","en":"You previously signed a contract with our company; we remind you of its terms.","alts":["antérieurement","auparavant"],"form":""},
+      {"slot":"s|1","f":"sense","s":"Le chercheur a repris les données ___ collectées par son équipe.","a":"précédemment","en":"The researcher resumed the data previously collected by his team.","alts":["antérieurement","auparavant"],"form":""}
+    ]
+  }
+]

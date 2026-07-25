@@ -1,0 +1,27 @@
+[
+  {
+    "id": "1364",
+    "fix": {
+      "zh": "国王"
+    },
+    "reasons": ["zh '王牌' (trump card) does not match en sense 'king'; trimmed to 国王"]
+  },
+  {
+    "id": "1365",
+    "fix": {
+      "examples": [
+        {
+          "fr": "Il faut apprendre à avoir confiance en soi avant de pouvoir aider les autres.",
+          "en": "One must learn to have self-confidence before being able to help others.",
+          "target": "soi"
+        },
+        {
+          "fr": "La connaissance de soi est un long travail qui dure toute une vie.",
+          "en": "Self-knowledge is a long process that lasts an entire lifetime.",
+          "target": "soi"
+        }
+      ]
+    },
+    "reasons": ["example 1 'se faire confiance à soi' is awkward/redundant French; replaced with idiomatic 'avoir confiance en soi'"]
+  }
+]

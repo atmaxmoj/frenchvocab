@@ -1,0 +1,197 @@
+[
+  {
+    "id": 234,
+    "qs": [
+      {
+        "slot": "s|0",
+        "f": "sense",
+        "s": "Il m'a montré ___ il salue ses invités.",
+        "en": "He showed me how (in what manner) he greets his guests.",
+        "a": "comment",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "s|0",
+        "f": "sense",
+        "s": "Nous observons ___ elle se comporte en réunion.",
+        "en": "We observe how she behaves in meetings.",
+        "a": "comment",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "s|1",
+        "f": "sense",
+        "s": "Elle cherche ___ améliorer ses notes en mathématiques.",
+        "en": "She is looking for how to improve her grades in mathematics.",
+        "a": "comment",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "s|1",
+        "f": "sense",
+        "s": "Le manuel explique ___ assembler les différentes pièces.",
+        "en": "The manual explains how to assemble the different parts.",
+        "a": "comment",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "gender",
+        "f": "gender",
+        "s": "Les journalistes s'interrogent sur ___ comment de cet accident.",
+        "en": "The journalists are questioning the how of this accident.",
+        "a": "le",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "gender",
+        "f": "gender",
+        "s": "Elle ne comprend pas ___ comment ni le pourquoi de cette décision.",
+        "en": "She does not understand the how or the why of this decision.",
+        "a": "le",
+        "alts": [],
+        "form": ""
+      }
+    ]
+  },
+  {
+    "id": 235,
+    "qs": [
+      {
+        "slot": "s|0",
+        "f": "sense",
+        "s": "J'aime toutes les saisons, mais j'apprécie ___ l'automne pour ses couleurs.",
+        "en": "I love all the seasons, but I especially appreciate autumn for its colors.",
+        "a": "surtout",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "s|0",
+        "f": "sense",
+        "s": "Il mange de tout, mais il aime ___ les plats épicés.",
+        "en": "He eats everything, but he especially likes spicy dishes.",
+        "a": "surtout",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "s|1",
+        "f": "sense",
+        "s": "Tu dois ___ rester calme dans cette situation difficile.",
+        "en": "Above all, you must stay calm in this difficult situation.",
+        "a": "surtout",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "s|1",
+        "f": "sense",
+        "s": "Pour réussir, il faut ___ ne pas abandonner.",
+        "en": "To succeed, one must above all not give up.",
+        "a": "surtout",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "s|2",
+        "f": "sense",
+        "s": "Les jeunes utilisent beaucoup les réseaux sociaux, ___ Instagram et TikTok.",
+        "en": "Young people use social media a lot, in particular Instagram and TikTok.",
+        "a": "surtout",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "s|2",
+        "f": "sense",
+        "s": "Ce musée est ouvert tous les jours, ___ le week-end quand il accueille beaucoup de visiteurs.",
+        "en": "This museum is open every day, in particular on weekends when it welcomes many visitors.",
+        "a": "surtout",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "gender",
+        "f": "gender",
+        "s": "Au centre de la table, on avait placé ___ surtout en argent massif.",
+        "en": "In the center of the table, a solid silver centerpiece had been placed.",
+        "a": "un",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "gender",
+        "f": "gender",
+        "s": "___ surtout de cette époque est exposé dans la salle des arts décoratifs.",
+        "en": "The centerpiece from that era is displayed in the decorative arts room.",
+        "a": "Le",
+        "alts": [],
+        "form": ""
+      }
+    ]
+  },
+  {
+    "id": 236,
+    "qs": [
+      {
+        "slot": "s|0",
+        "f": "sense",
+        "s": "Les ___ pensent souvent que la vie à la campagne est plus tranquille.",
+        "en": "People often think that life in the countryside is more peaceful.",
+        "a": "gens",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "s|0",
+        "f": "sense",
+        "s": "En général, les ___ sont plus aimables dans les petites villes que dans les grandes métropoles.",
+        "en": "In general, people are friendlier in small towns than in large cities.",
+        "a": "gens",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "s|1",
+        "f": "sense",
+        "s": "Il y avait des ___ qui attendaient devant la boulangerie ce matin.",
+        "en": "There were people waiting in front of the bakery this morning.",
+        "a": "gens",
+        "alts": ["personnes"],
+        "form": ""
+      },
+      {
+        "slot": "s|1",
+        "f": "sense",
+        "s": "Beaucoup de ___ ont assisté au concert organisé dans le parc hier soir.",
+        "en": "Many people attended the concert organized in the park last night.",
+        "a": "gens",
+        "alts": ["personnes"],
+        "form": ""
+      },
+      {
+        "slot": "agree",
+        "f": "agree",
+        "s": "Ce sont de ___ gens qui n'hésitent jamais à aider leurs voisins.",
+        "en": "They are good people who never hesitate to help their neighbors.",
+        "a": "bonnes",
+        "alts": [],
+        "form": "bonne→bonnes (adj preceding gens takes feminine form)"
+      },
+      {
+        "slot": "agree",
+        "f": "agree",
+        "s": "Les ___ gens du village se souviennent encore de cette ancienne fête.",
+        "en": "The old people of the village still remember that old festival.",
+        "a": "vieilles",
+        "alts": [],
+        "form": "vieille→vieilles (adj preceding gens takes feminine form)"
+      }
+    ]
+  }
+]

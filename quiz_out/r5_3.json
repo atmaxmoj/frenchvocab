@@ -1,0 +1,85 @@
+[
+  {
+    "id": "2016",
+    "qs": [
+      {"f": "gender", "s": "Jean est ___ du cours aujourd'hui.", "en": "Jean is absent from class today.", "a": "absent", "alts": [], "form": "m.sg"},
+      {"f": "gender", "s": "Marie est ___ du bureau cette semaine.", "en": "Marie is absent from the office this week.", "a": "absente", "alts": [], "form": "f.sg"},
+      {"f": "gender", "s": "Les deux étudiants sont ___ à l'examen.", "en": "The two students are absent from the exam.", "a": "absents", "alts": [], "form": "m.pl"},
+      {"f": "gender", "s": "Ses trois collègues étaient ___ pendant la réunion.", "en": "His three colleagues were absent during the meeting.", "a": "absentes", "alts": [], "form": "f.pl"},
+      {"f": "gender", "s": "Votre signature est ___ sur ce document important.", "en": "Your signature is absent from this important document.", "a": "absente", "alts": [], "form": "f.sg"},
+      {"f": "gender", "s": "L'argent était complètement ___ de ses préoccupations.", "en": "Money was completely absent from his concerns.", "a": "absent", "alts": [], "form": "m.sg"},
+      {"f": "gender", "s": "L'enfant a l'air un peu ___ ce matin; il n'a pas bien dormi.", "en": "The child seems rather absent this morning; he didn't sleep well.", "a": "absent", "alts": [], "form": "m.sg"},
+      {"f": "gender", "s": "Elle était ___ physiquement mais présente mentalement pendant notre conversation.", "en": "She was physically absent but mentally present during our conversation.", "a": "absente", "alts": [], "form": "f.sg"}
+    ]
+  },
+  {
+    "id": "2017",
+    "qs": [
+      {"f": "gender", "s": "Marie a une voix extraordinaire. ___ talent pour la musique est indéniable.", "en": "Marie has an extraordinary voice. Her talent for music is undeniable.", "a": "Son", "alts": [], "form": "possessive adjective + masculine singular"},
+      {"f": "gender", "s": "Tous les ___ de ce footballeur lui ont permis de devenir professionnel.", "en": "All the talents of this footballer allowed him to become a professional.", "a": "talents", "alts": [], "form": "plural masculine"},
+      {"f": "gender", "s": "Il faut du ___ pour écrire un bon roman. Il n'y en a pas beaucoup.", "en": "It takes talent to write a good novel. There isn't much of it.", "a": "talent", "alts": [], "form": "partitive (du) + masculine singular"},
+      {"f": "gender", "s": "Avec son ___, cet architecte a remporté plusieurs prix internationaux.", "en": "With his talent, this architect won several international awards.", "a": "talent", "alts": [], "form": "natural ability/skill"},
+      {"f": "gender", "s": "Cette actrice a un vrai ___ pour jouer les rôles dramatiques.", "en": "This actress has real talent for playing dramatic roles.", "a": "talent", "alts": [], "form": "aptitude/skill"},
+      {"f": "gender", "s": "Elle possède un ___ naturel pour les langues étrangères.", "en": "She has a natural talent for foreign languages.", "a": "talent", "alts": [], "form": "innate ability"},
+      {"f": "gender", "s": "C'est un musicien de grand ___ qui joue dans les plus grands orchestres du monde.", "en": "He is a musician of great talent who performs in the world's greatest orchestras.", "a": "talent", "alts": [], "form": "distinguished ability"},
+      {"f": "gender", "s": "La jeune fille avait un ___ remarquable pour la danse depuis l'âge de cinq ans.", "en": "The young girl had remarkable talent for dancing since the age of five.", "a": "talent", "alts": [], "form": "exceptional ability"},
+      {"f": "gender", "s": "Malgré son ___, il n'a jamais réussi à trouver du travail dans le domaine artistique.", "en": "Despite his talent, he never managed to find work in the artistic field.", "a": "talent", "alts": [], "form": "ability despite difficulty"},
+      {"f": "gender", "s": "Les ___ de cette compagnie théâtrale attirent des spectateurs du monde entier.", "en": "The talents of this theater company attract spectators from all over the world.", "a": "talents", "alts": [], "form": "plural masculine (referring to talented people)"}
+    ]
+  },
+  {
+    "id": "2018",
+    "qs": [
+      {"f": "sense", "s": "Le train part ___ à 14h30, mais aujourd'hui il y a du retard.", "en": "The train normally leaves at 2:30 p.m., but today it's delayed.", "a": "normalement", "alts": [], "form": "adverb: scheduled routine"},
+      {"f": "sense", "s": "Si tout se passe bien, ___, on devrait arriver avant 20h.", "en": "If everything goes well, we should normally arrive before 8 p.m.", "a": "normalement", "alts": [], "form": "adverb: projected/likely outcome"},
+      {"f": "sense", "s": "Je ne comprends pas pourquoi il réagit comme ça, c'est pas ___ pour lui.", "en": "I don't understand why he's reacting like that; it's not normal for him.", "a": "normal", "alts": [], "form": "adjective (m.sg): predicate use"},
+      {"f": "sense", "s": "C'est une situation ___, donc ne t'inquiète pas.", "en": "It's a normal situation, so don't worry.", "a": "normale", "alts": [], "form": "adjective (f.sg): predicate use"}
+    ]
+  },
+  {
+    "id": "2019",
+    "qs": [
+      {"f": "gender", "s": "Il y a ___ remarques nombreuses dans ce texte.", "en": "There are many remarks in this text.", "a": "des", "alts": [], "form": "plural indefinite article"},
+      {"f": "gender", "s": "Tenez compte ___ remarques que nous vous avons envoyées.", "en": "Take into account the remarks that we sent you.", "a": "des", "alts": [], "form": "de + les (tenir compte de)"}
+    ]
+  },
+  {
+    "id": "2020",
+    "qs": [
+      {"f": "tense", "form": "Présent", "s": "Je ___ mon attention de ce film ennuyeux.", "en": "I redirect my attention away from this boring film.", "a": "détourne", "alts": []},
+      {"f": "tense", "form": "Présent", "s": "Tu ___ la conversation vers un sujet moins délicat.", "en": "You divert the conversation toward a less sensitive topic.", "a": "détournes", "alts": []},
+      {"f": "tense", "form": "Présent", "s": "Il ___ régulièrement de l'argent de sa compagnie.", "en": "He regularly embezzles money from his company.", "a": "détourne", "alts": []},
+      {"f": "tense", "form": "Présent", "s": "Nous ___ le fleuve pour irriguer les champs.", "en": "We redirect the river to irrigate the fields.", "a": "détournons", "alts": []},
+      {"f": "tense", "form": "Présent", "s": "Vous ___ toujours la question quand je vous demande quelque chose.", "en": "You always evade the question when I ask you something.", "a": "détournez", "alts": []},
+      {"f": "tense", "form": "Présent", "s": "Ils ___ l'avion en menaçant le pilote.", "en": "They hijack the plane by threatening the pilot.", "a": "détournent", "alts": []},
+      {"f": "tense", "form": "Passé composé", "s": "J'___ mon regard du tableau tragique.", "en": "I turned my gaze away from the tragic painting.", "a": "ai détourné", "alts": []},
+      {"f": "tense", "form": "Passé composé", "s": "Tu ___ les fonds destinés au projet social.", "en": "You diverted the funds intended for the social project.", "a": "as détourné", "alts": []},
+      {"f": "tense", "form": "Passé composé", "s": "Elle ___ son héritage pour des investissements douteux.", "en": "She misappropriated her inheritance for questionable investments.", "a": "a détourné", "alts": []},
+      {"f": "tense", "form": "Passé composé", "s": "Nous ___ le cours de l'histoire par notre action courageuse.", "en": "We altered the course of history through our courageous action.", "a": "avons détourné", "alts": []},
+      {"f": "tense", "form": "Passé composé", "s": "Vous ___ les passagers vers une autre destination.", "en": "You redirected the passengers to another destination.", "a": "avez détourné", "alts": []},
+      {"f": "tense", "form": "Passé composé", "s": "Ils ___ le butin de la banque en l'empruntant progressivement.", "en": "They embezzled the bank's loot by stealing it gradually.", "a": "ont détourné", "alts": []},
+      {"f": "tense", "form": "Imparfait", "s": "Je ___ toujours mes pensées vers des choses positives.", "en": "I always redirected my thoughts toward positive things.", "a": "détournais", "alts": []},
+      {"f": "tense", "form": "Imparfait", "s": "Tu ___ l'eau de source vers tes terres cultivables.", "en": "You diverted spring water toward your cultivated lands.", "a": "détournais", "alts": []},
+      {"f": "tense", "form": "Imparfait", "s": "Il ___ systématiquement les profits vers des comptes secrets.", "en": "He systematically diverted profits to secret accounts.", "a": "détournait", "alts": []},
+      {"f": "tense", "form": "Imparfait", "s": "Nous ___ chaque discussion qui s'approchait de ce sujet sensible.", "en": "We would steer away every discussion that approached this sensitive topic.", "a": "détournions", "alts": []},
+      {"f": "tense", "form": "Imparfait", "s": "Vous ___ régulièrement les clients vers les produits plus profitables.", "en": "You regularly redirected customers toward more profitable products.", "a": "détourniez", "alts": []},
+      {"f": "tense", "form": "Imparfait", "s": "Ils ___ les impôts publics pour leurs propres intérêts.", "en": "They diverted public taxes for their own interests.", "a": "détournaient", "alts": []},
+      {"f": "tense", "form": "Futur", "s": "Je ___ mon attention vers des projets plus intéressants.", "en": "I will redirect my attention toward more interesting projects.", "a": "détournerai", "alts": []},
+      {"f": "tense", "form": "Futur", "s": "Tu ___ le camion pour éviter l'embouteillage.", "en": "You will divert the truck to avoid the traffic jam.", "a": "détourneras", "alts": []},
+      {"f": "tense", "form": "Futur", "s": "Il ___ certainement les accusations en blâmant ses collaborateurs.", "en": "He will certainly deflect the accusations by blaming his colleagues.", "a": "détournera", "alts": []},
+      {"f": "tense", "form": "Futur", "s": "Nous ___ les fonds vers le programme de rénovation urbaine.", "en": "We will redirect the funds toward the urban renovation program.", "a": "détournerons", "alts": []},
+      {"f": "tense", "form": "Futur", "s": "Vous ___ le trafic pendant la période de construction.", "en": "You will reroute traffic during the construction period.", "a": "détournerez", "alts": []},
+      {"f": "tense", "form": "Futur", "s": "Ils ___ le navire vers un port sûr après la tempête.", "en": "They will steer the ship toward a safe port after the storm.", "a": "détourneront", "alts": []},
+      {"f": "tense", "form": "Conditionnel", "s": "Je ___ mon regard si je voyais cette scène horrible.", "en": "I would avert my gaze if I saw that horrible scene.", "a": "détournerais", "alts": []},
+      {"f": "tense", "form": "Conditionnel", "s": "Tu ___ les soupçons avec un mensonge bien préparé.", "en": "You would deflect suspicion with a well-prepared lie.", "a": "détournerais", "alts": []},
+      {"f": "tense", "form": "Conditionnel", "s": "Il ___ les fonds sans hésiter s'il avait l'occasion.", "en": "He would embezzle the funds without hesitation if he had the opportunity.", "a": "détournerait", "alts": []},
+      {"f": "tense", "form": "Conditionnel", "s": "Nous ___ la rivière si cela était techniquement possible.", "en": "We would divert the river if it were technically possible.", "a": "détournerions", "alts": []},
+      {"f": "tense", "form": "Conditionnel", "s": "Vous ___ les passagers par une autre route en cas d'urgence.", "en": "You would reroute the passengers via another route in case of emergency.", "a": "détourneriez", "alts": []},
+      {"f": "tense", "form": "Conditionnel", "s": "Ils ___ l'avion vers une destination inconnue selon leur plan.", "en": "They would hijack the plane to an unknown destination according to their plan.", "a": "détourneraient", "alts": []},
+      {"f": "sense", "s": "Le politicien ___ toujours la conversation des questions difficiles.", "en": "The politician always steers the conversation away from difficult questions.", "a": "détourne", "alts": [], "form": "Présent (sense: evasion/deflection)"},
+      {"f": "sense", "s": "L'accusé ___ l'attention de son propre crime en blâmant les autres.", "en": "The accused deflects attention from his own crime by blaming others.", "a": "détourne", "alts": [], "form": "Présent (sense: redirect attention)"},
+      {"f": "sense", "s": "Le fleuve ___ ses eaux vers la vallée pendant les inondations.", "en": "The river diverts its waters toward the valley during floods.", "a": "détourne", "alts": [], "form": "Présent (sense: physical diversion)"},
+      {"f": "sense", "s": "Des militaires ___ l'avion et exigent du gouvernement une rançon.", "en": "Military personnel hijack the plane and demand a ransom from the government.", "a": "détournent", "alts": [], "form": "Présent (sense: hijacking)"}
+    ]
+  }
+]

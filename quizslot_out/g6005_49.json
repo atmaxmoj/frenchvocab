@@ -1,0 +1,209 @@
+[
+  {
+    "id": 6042,
+    "qs": [
+      {
+        "slot": "s|0",
+        "f": "sense",
+        "s": "Cette ___ pour le nouveau parfum passe à la télé tous les soirs.",
+        "en": "This ad for the new perfume airs on TV every evening.",
+        "a": "pub",
+        "alts": ["publicité"]
+      },
+      {
+        "slot": "s|0",
+        "f": "sense",
+        "s": "Il a coupé le son pendant la ___ à la radio.",
+        "en": "He muted the sound during the ad on the radio.",
+        "a": "pub",
+        "alts": ["publicité"]
+      },
+      {
+        "slot": "s|1",
+        "f": "sense",
+        "s": "Le vendredi soir, mes amis se retrouvent souvent au ___ du quartier.",
+        "en": "On Friday evenings, my friends often meet at the neighborhood pub.",
+        "a": "pub",
+        "alts": []
+      },
+      {
+        "slot": "s|1",
+        "f": "sense",
+        "s": "Ce ___ irlandais sert de la bonne bière brune.",
+        "en": "This Irish pub serves good dark beer.",
+        "a": "pub",
+        "alts": []
+      },
+      {
+        "slot": "gender",
+        "f": "gender",
+        "s": "Regarde ___ pub qui passe à la télévision.",
+        "en": "Look at the ad that's airing on television.",
+        "a": "la",
+        "alts": []
+      },
+      {
+        "slot": "gender",
+        "f": "gender",
+        "s": "On a vu ___ pub très drôle hier soir.",
+        "en": "We saw a very funny ad last night.",
+        "a": "une",
+        "alts": []
+      }
+    ]
+  },
+  {
+    "id": 6043,
+    "qs": [
+      {
+        "slot": "s|0",
+        "f": "sense",
+        "s": "Le plan ___ du corps humain sépare le haut et le bas.",
+        "en": "The transverse plane of the human body separates the top and the bottom.",
+        "a": "transversal",
+        "alts": []
+      },
+      {
+        "slot": "s|0",
+        "f": "sense",
+        "s": "Ils ont construit un couloir ___ qui relie les deux ailes du bâtiment à angle droit.",
+        "en": "They built a transverse corridor connecting the two wings of the building at a right angle.",
+        "a": "transversal",
+        "alts": []
+      },
+      {
+        "slot": "s|1",
+        "f": "sense",
+        "s": "Ce projet est ___, car il mobilise plusieurs départements de l'entreprise en même temps.",
+        "en": "This project is cross-cutting, as it mobilizes several departments of the company at the same time.",
+        "a": "transversal",
+        "alts": []
+      },
+      {
+        "slot": "s|1",
+        "f": "sense",
+        "s": "Le nouveau poste exige un profil ___, capable de travailler aussi bien avec les ingénieurs qu'avec les commerciaux.",
+        "en": "The new position requires a cross-disciplinary profile, able to work with both engineers and salespeople.",
+        "a": "transversal",
+        "alts": []
+      },
+      {
+        "slot": "g|mp",
+        "f": "agree",
+        "s": "Les couloirs ___ relient toutes les ailes de l'hôpital entre elles.",
+        "en": "The transverse corridors connect all the wings of the hospital to one another.",
+        "a": "transversaux",
+        "alts": []
+      },
+      {
+        "slot": "g|mp",
+        "f": "agree",
+        "s": "Ces projets ___ demandent une collaboration entre plusieurs équipes.",
+        "en": "These cross-departmental projects require collaboration between several teams.",
+        "a": "transversaux",
+        "alts": []
+      },
+      {
+        "slot": "g|f",
+        "f": "agree",
+        "s": "La coupe ___ de cet arbre révèle ses anneaux de croissance.",
+        "en": "The cross-section of this tree reveals its growth rings.",
+        "a": "transversale",
+        "alts": []
+      },
+      {
+        "slot": "g|f",
+        "f": "agree",
+        "s": "Cette compétence ___ lui permet de travailler dans plusieurs métiers différents.",
+        "en": "This cross-disciplinary skill allows her to work in several different trades.",
+        "a": "transversale",
+        "alts": []
+      },
+      {
+        "slot": "g|fp",
+        "f": "agree",
+        "s": "Les rues ___ traversent l'avenue principale à angle droit.",
+        "en": "The cross streets cross the main avenue at a right angle.",
+        "a": "transversales",
+        "alts": []
+      },
+      {
+        "slot": "g|fp",
+        "f": "agree",
+        "s": "Les équipes ont mené des actions ___ pour améliorer la communication entre les services.",
+        "en": "The teams carried out cross-departmental actions to improve communication between departments.",
+        "a": "transversales",
+        "alts": []
+      }
+    ]
+  },
+  {
+    "id": 6044,
+    "qs": [
+      {
+        "slot": "s|0",
+        "f": "sense",
+        "s": "Une ___ traversait la rue très lentement, appuyée sur sa canne.",
+        "en": "An old woman was crossing the street very slowly, leaning on her cane.",
+        "a": "vieille",
+        "alts": []
+      },
+      {
+        "slot": "s|0",
+        "f": "sense",
+        "s": "La ___ assise sur le banc du parc nourrissait les pigeons tous les après-midis.",
+        "en": "The old woman sitting on the park bench fed the pigeons every afternoon.",
+        "a": "vieille",
+        "alts": []
+      },
+      {
+        "slot": "s|1",
+        "f": "sense",
+        "s": "Je vais appeler ma ___ pour lui souhaiter bon anniversaire, c'est la fête des mères.",
+        "en": "I'm going to call my old lady (mom) to wish her happy birthday, it's Mother's Day.",
+        "a": "vieille",
+        "alts": []
+      },
+      {
+        "slot": "s|1",
+        "f": "sense",
+        "s": "Chaque dimanche, il va déjeuner chez sa ___ dans le village où il a grandi.",
+        "en": "Every Sunday, he goes to have lunch at his mom's place in the village where he grew up.",
+        "a": "vieille",
+        "alts": []
+      },
+      {
+        "slot": "s|2",
+        "f": "sense",
+        "s": "Pour leur anniversaire de mariage, il a offert des fleurs à sa ___.",
+        "en": "For their wedding anniversary, he gave flowers to his wife.",
+        "a": "vieille",
+        "alts": []
+      },
+      {
+        "slot": "s|2",
+        "f": "sense",
+        "s": "Ce soir, je dîne en tête-à-tête avec ma ___ pour fêter nos dix ans de mariage.",
+        "en": "Tonight, I'm having a private dinner with my wife to celebrate our ten years of marriage.",
+        "a": "vieille",
+        "alts": []
+      },
+      {
+        "slot": "gender",
+        "f": "gender",
+        "s": "Il a aidé ___ vieille qui habite en face à traverser la rue.",
+        "en": "He helped the old woman who lives across the street cross the street.",
+        "a": "la",
+        "alts": []
+      },
+      {
+        "slot": "gender",
+        "f": "gender",
+        "s": "___ vieille tricotait tranquillement dans son fauteuil, près de la fenêtre.",
+        "en": "An old woman was quietly knitting in her armchair, by the window.",
+        "a": "Une",
+        "alts": ["une"]
+      }
+    ]
+  }
+]

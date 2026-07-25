@@ -1,0 +1,665 @@
+[
+  {
+    "id": 3505,
+    "qs": [
+      {
+        "slot": "t|Présent|0",
+        "f": "tense",
+        "s": "Je ne ___ jamais à mes engagements envers mes amis.",
+        "a": "faux",
+        "en": "I never fail in my commitments to my friends.",
+        "alts": [],
+        "form": "Présent"
+      },
+      {
+        "slot": "t|Présent|0",
+        "f": "tense",
+        "s": "Tu ___ à ta mission si tu abandonnes maintenant.",
+        "a": "faux",
+        "en": "You fail in your mission if you give up now.",
+        "alts": [],
+        "form": "Présent"
+      },
+      {
+        "slot": "t|Présent|1",
+        "f": "tense",
+        "s": "Il ___ à ses obligations chaque fois qu'il part trop tôt.",
+        "a": "faut",
+        "en": "He fails in his obligations every time he leaves too early.",
+        "alts": [],
+        "form": "Présent"
+      },
+      {
+        "slot": "t|Présent|1",
+        "f": "tense",
+        "s": "On ___ à ses promesses quand on ne tient pas sa parole.",
+        "a": "faut",
+        "en": "One fails in one's promises when one does not keep one's word.",
+        "alts": [],
+        "form": "Présent"
+      },
+      {
+        "slot": "t|Présent|2",
+        "f": "tense",
+        "s": "Nous ne ___ jamais à notre devoir, même dans les moments difficiles.",
+        "a": "faillons",
+        "en": "We never fail in our duty, even in difficult moments.",
+        "alts": [],
+        "form": "Présent"
+      },
+      {
+        "slot": "t|Présent|2",
+        "f": "tense",
+        "s": "Nous ___ à notre tâche si nous ne faisons pas d'efforts.",
+        "a": "faillons",
+        "en": "We fail in our task if we make no effort.",
+        "alts": [],
+        "form": "Présent"
+      },
+      {
+        "slot": "t|Présent|3",
+        "f": "tense",
+        "s": "Vous ___ à votre responsabilité en refusant d'aider.",
+        "a": "faillez",
+        "en": "You fail in your responsibility by refusing to help.",
+        "alts": [],
+        "form": "Présent"
+      },
+      {
+        "slot": "t|Présent|3",
+        "f": "tense",
+        "s": "Vous ___ à votre rôle de chef en ignorant les problèmes de l'équipe.",
+        "a": "faillez",
+        "en": "You fail in your role as leader by ignoring the team's problems.",
+        "alts": [],
+        "form": "Présent"
+      },
+      {
+        "slot": "t|Présent|4",
+        "f": "tense",
+        "s": "Ils ___ à leurs engagements professionnels depuis des semaines.",
+        "a": "faillent",
+        "en": "They fail in their professional commitments week after week.",
+        "alts": [],
+        "form": "Présent"
+      },
+      {
+        "slot": "t|Présent|4",
+        "f": "tense",
+        "s": "Ces employés ___ à leur devoir de confidentialité.",
+        "a": "faillent",
+        "en": "These employees fail in their duty of confidentiality.",
+        "alts": [],
+        "form": "Présent"
+      },
+      {
+        "slot": "t|Passé composé|0",
+        "f": "tense",
+        "s": "J'___ perdre mon portefeuille dans le métro ce matin.",
+        "a": "ai failli",
+        "en": "I almost lost my wallet on the subway this morning.",
+        "alts": [],
+        "form": "Passé composé"
+      },
+      {
+        "slot": "t|Passé composé|0",
+        "f": "tense",
+        "s": "J'___ manquer à ma promesse, mais je me suis repris à temps.",
+        "a": "ai failli",
+        "en": "I almost broke my promise, but I caught myself in time.",
+        "alts": [],
+        "form": "Passé composé"
+      },
+      {
+        "slot": "t|Passé composé|1",
+        "f": "tense",
+        "s": "Tu ___ tomber sur le verglas devant la maison.",
+        "a": "as failli",
+        "en": "You almost fell on the ice in front of the house.",
+        "alts": [],
+        "form": "Passé composé"
+      },
+      {
+        "slot": "t|Passé composé|1",
+        "f": "tense",
+        "s": "Tu ___ rater ton train à cause de l'embouteillage.",
+        "a": "as failli",
+        "en": "You almost missed your train because of the traffic jam.",
+        "alts": [],
+        "form": "Passé composé"
+      },
+      {
+        "slot": "t|Passé composé|2",
+        "f": "tense",
+        "s": "L'entreprise ___ faire faillite l'année dernière.",
+        "a": "a failli",
+        "en": "The company almost went bankrupt last year.",
+        "alts": [],
+        "form": "Passé composé"
+      },
+      {
+        "slot": "t|Passé composé|2",
+        "f": "tense",
+        "s": "Mon frère ___ se noyer en nageant trop loin du rivage.",
+        "a": "a failli",
+        "en": "My brother almost drowned by swimming too far from the shore.",
+        "alts": [],
+        "form": "Passé composé"
+      },
+      {
+        "slot": "t|Passé composé|3",
+        "f": "tense",
+        "s": "Nous ___ manquer l'avion à cause du retard au contrôle.",
+        "a": "avons failli",
+        "en": "We almost missed the plane because of the delay at security.",
+        "alts": [],
+        "form": "Passé composé"
+      },
+      {
+        "slot": "t|Passé composé|3",
+        "f": "tense",
+        "s": "Nous ___ avoir un accident sur l'autoroute hier soir.",
+        "a": "avons failli",
+        "en": "We almost had an accident on the highway last night.",
+        "alts": [],
+        "form": "Passé composé"
+      },
+      {
+        "slot": "t|Passé composé|4",
+        "f": "tense",
+        "s": "Vous ___ perdre votre chemin dans la forêt ce week-end.",
+        "a": "avez failli",
+        "en": "You almost lost your way in the forest this weekend.",
+        "alts": [],
+        "form": "Passé composé"
+      },
+      {
+        "slot": "t|Passé composé|4",
+        "f": "tense",
+        "s": "Vous ___ oublier de signer le contrat avant la réunion.",
+        "a": "avez failli",
+        "en": "You almost forgot to sign the contract before the meeting.",
+        "alts": [],
+        "form": "Passé composé"
+      },
+      {
+        "slot": "t|Passé composé|5",
+        "f": "tense",
+        "s": "Les joueurs ___ marquer un but à la dernière seconde.",
+        "a": "ont failli",
+        "en": "The players almost scored a goal in the last second.",
+        "alts": [],
+        "form": "Passé composé"
+      },
+      {
+        "slot": "t|Passé composé|5",
+        "f": "tense",
+        "s": "Mes collègues ___ démissionner après cette mauvaise décision.",
+        "a": "ont failli",
+        "en": "My colleagues almost resigned after that bad decision.",
+        "alts": [],
+        "form": "Passé composé"
+      },
+      {
+        "slot": "t|Imparfait|0",
+        "f": "tense",
+        "s": "Chaque fois que je prenais la parole, je ___ à exprimer mes idées clairement.",
+        "a": "faillais",
+        "en": "Every time I spoke up, I was failing to express my ideas clearly.",
+        "alts": [],
+        "form": "Imparfait"
+      },
+      {
+        "slot": "t|Imparfait|0",
+        "f": "tense",
+        "s": "Tu ___ à ta parole si souvent que personne ne te faisait plus confiance.",
+        "a": "faillais",
+        "en": "You were failing in your word so often that no one trusted you anymore.",
+        "alts": [],
+        "form": "Imparfait"
+      },
+      {
+        "slot": "t|Imparfait|1",
+        "f": "tense",
+        "s": "Le gouvernement ___ régulièrement à ses engagements sociaux à cette époque.",
+        "a": "faillait",
+        "en": "The government regularly failed in its social commitments at that time.",
+        "alts": [],
+        "form": "Imparfait"
+      },
+      {
+        "slot": "t|Imparfait|1",
+        "f": "tense",
+        "s": "Elle ___ à ses responsabilités de directrice sans que personne ne le remarque.",
+        "a": "faillait",
+        "en": "She was failing in her duties as director without anyone noticing.",
+        "alts": [],
+        "form": "Imparfait"
+      },
+      {
+        "slot": "t|Imparfait|2",
+        "f": "tense",
+        "s": "Nous ___ souvent à nos objectifs dans ce projet mal organisé.",
+        "a": "faillions",
+        "en": "We often failed to meet our goals in that poorly organized project.",
+        "alts": [],
+        "form": "Imparfait"
+      },
+      {
+        "slot": "t|Imparfait|2",
+        "f": "tense",
+        "s": "Nous ___ à notre devoir de vigilance avant que le chef n'intervienne.",
+        "a": "faillions",
+        "en": "We were failing in our duty of vigilance before the manager stepped in.",
+        "alts": [],
+        "form": "Imparfait"
+      },
+      {
+        "slot": "t|Imparfait|3",
+        "f": "tense",
+        "s": "Vous ___ à vos obligations contractuelles chaque trimestre.",
+        "a": "failliez",
+        "en": "You were failing in your contractual obligations every quarter.",
+        "alts": [],
+        "form": "Imparfait"
+      },
+      {
+        "slot": "t|Imparfait|3",
+        "f": "tense",
+        "s": "Vous ___ à votre mission chaque fois que les ressources manquaient.",
+        "a": "failliez",
+        "en": "You were failing in your mission every time resources were lacking.",
+        "alts": [],
+        "form": "Imparfait"
+      },
+      {
+        "slot": "t|Imparfait|4",
+        "f": "tense",
+        "s": "Ces soldats ___ rarement à leur honneur, même sous pression.",
+        "a": "faillaient",
+        "en": "Those soldiers rarely failed in their honor, even under pressure.",
+        "alts": [],
+        "form": "Imparfait"
+      },
+      {
+        "slot": "t|Imparfait|4",
+        "f": "tense",
+        "s": "Les ingénieurs ___ à leurs normes de sécurité pendant la construction.",
+        "a": "faillaient",
+        "en": "The engineers were failing to meet their safety standards during construction.",
+        "alts": [],
+        "form": "Imparfait"
+      },
+      {
+        "slot": "t|Futur|0",
+        "f": "tense",
+        "s": "Je ne ___ jamais à mes principes, quoi qu'il arrive.",
+        "a": "faillirai",
+        "en": "I will never fail in my principles, whatever happens.",
+        "alts": [],
+        "form": "Futur"
+      },
+      {
+        "slot": "t|Futur|0",
+        "f": "tense",
+        "s": "Je ___ certainement à ma tâche si je ne me prépare pas mieux.",
+        "a": "faillirai",
+        "en": "I will certainly fail in my task if I do not prepare better.",
+        "alts": [],
+        "form": "Futur"
+      },
+      {
+        "slot": "t|Futur|1",
+        "f": "tense",
+        "s": "Tu ___ à ta mission si tu continues à négliger tes responsabilités.",
+        "a": "failliras",
+        "en": "You will fail in your mission if you continue to neglect your responsibilities.",
+        "alts": [],
+        "form": "Futur"
+      },
+      {
+        "slot": "t|Futur|1",
+        "f": "tense",
+        "s": "Tu ne ___ pas à ton engagement envers l'équipe, j'en suis sûr.",
+        "a": "failliras",
+        "en": "You will not fail in your commitment to the team, I am sure of it.",
+        "alts": [],
+        "form": "Futur"
+      },
+      {
+        "slot": "t|Futur|2",
+        "f": "tense",
+        "s": "Cette banque ___ à ses obligations si la crise s'aggrave.",
+        "a": "faillira",
+        "en": "This bank will fail in its obligations if the crisis worsens.",
+        "alts": [],
+        "form": "Futur"
+      },
+      {
+        "slot": "t|Futur|2",
+        "f": "tense",
+        "s": "Mon collègue ___ à sa promesse s'il n'agit pas rapidement.",
+        "a": "faillira",
+        "en": "My colleague will fail in his promise if he does not act quickly.",
+        "alts": [],
+        "form": "Futur"
+      },
+      {
+        "slot": "t|Futur|3",
+        "f": "tense",
+        "s": "Nous ne ___ pas à notre engagement, même face aux obstacles.",
+        "a": "faillirons",
+        "en": "We will not fail in our commitment, even in the face of obstacles.",
+        "alts": [],
+        "form": "Futur"
+      },
+      {
+        "slot": "t|Futur|3",
+        "f": "tense",
+        "s": "Nous ___ à notre tâche si nous ne recevons pas davantage de soutien.",
+        "a": "faillirons",
+        "en": "We will fail in our task if we do not receive more support.",
+        "alts": [],
+        "form": "Futur"
+      },
+      {
+        "slot": "t|Futur|4",
+        "f": "tense",
+        "s": "Vous ___ à votre devoir si vous ignorez ces avertissements.",
+        "a": "faillirez",
+        "en": "You will fail in your duty if you ignore these warnings.",
+        "alts": [],
+        "form": "Futur"
+      },
+      {
+        "slot": "t|Futur|4",
+        "f": "tense",
+        "s": "Vous ne ___ pas à votre mission, j'en suis convaincu.",
+        "a": "faillirez",
+        "en": "You will not fail in your mission, I am convinced of it.",
+        "alts": [],
+        "form": "Futur"
+      },
+      {
+        "slot": "t|Futur|5",
+        "f": "tense",
+        "s": "Ces responsables ___ à leurs devoirs s'ils ne changent pas d'attitude.",
+        "a": "failliront",
+        "en": "These officials will fail in their duties if they do not change their attitude.",
+        "alts": [],
+        "form": "Futur"
+      },
+      {
+        "slot": "t|Futur|5",
+        "f": "tense",
+        "s": "Les dirigeants ___ à protéger leurs employés si aucune mesure n'est prise.",
+        "a": "failliront",
+        "en": "The leaders will fail to protect their employees if no measures are taken.",
+        "alts": [],
+        "form": "Futur"
+      },
+      {
+        "slot": "t|Conditionnel|0",
+        "f": "tense",
+        "s": "Je ___ à mon devoir si je n'agissais pas dans cette situation.",
+        "a": "faillirais",
+        "en": "I would fail in my duty if I did not act in this situation.",
+        "alts": [],
+        "form": "Conditionnel"
+      },
+      {
+        "slot": "t|Conditionnel|0",
+        "f": "tense",
+        "s": "Tu ___ à ta promesse si tu partais sans prévenir.",
+        "a": "faillirais",
+        "en": "You would fail in your promise if you left without warning.",
+        "alts": [],
+        "form": "Conditionnel"
+      },
+      {
+        "slot": "t|Conditionnel|1",
+        "f": "tense",
+        "s": "Un bon chef ne ___ jamais à ses responsabilités envers son équipe.",
+        "a": "faillirait",
+        "en": "A good leader would never fail in his responsibilities toward his team.",
+        "alts": [],
+        "form": "Conditionnel"
+      },
+      {
+        "slot": "t|Conditionnel|1",
+        "f": "tense",
+        "s": "Elle ___ à sa mission si elle abandonnait le projet maintenant.",
+        "a": "faillirait",
+        "en": "She would fail in her mission if she abandoned the project now.",
+        "alts": [],
+        "form": "Conditionnel"
+      },
+      {
+        "slot": "t|Conditionnel|2",
+        "f": "tense",
+        "s": "Nous ___ à nos obligations si nous n'agissions pas collectivement.",
+        "a": "faillirions",
+        "en": "We would fail in our obligations if we did not act collectively.",
+        "alts": [],
+        "form": "Conditionnel"
+      },
+      {
+        "slot": "t|Conditionnel|2",
+        "f": "tense",
+        "s": "Nous ___ à notre engagement envers nos partenaires si nous reculions.",
+        "a": "faillirions",
+        "en": "We would fail in our commitment to our partners if we backed down.",
+        "alts": [],
+        "form": "Conditionnel"
+      },
+      {
+        "slot": "t|Conditionnel|3",
+        "f": "tense",
+        "s": "Vous ___ à votre rôle si vous refusiez d'assumer ces décisions.",
+        "a": "failliriez",
+        "en": "You would fail in your role if you refused to take responsibility for these decisions.",
+        "alts": [],
+        "form": "Conditionnel"
+      },
+      {
+        "slot": "t|Conditionnel|3",
+        "f": "tense",
+        "s": "Vous ___ à votre devoir de surveillance si vous ignoriez ces signaux.",
+        "a": "failliriez",
+        "en": "You would fail in your duty of oversight if you ignored these signals.",
+        "alts": [],
+        "form": "Conditionnel"
+      },
+      {
+        "slot": "t|Conditionnel|4",
+        "f": "tense",
+        "s": "Ces médecins ___ à leur serment s'ils refusaient de soigner les patients.",
+        "a": "failliraient",
+        "en": "These doctors would fail in their oath if they refused to treat patients.",
+        "alts": [],
+        "form": "Conditionnel"
+      },
+      {
+        "slot": "t|Conditionnel|4",
+        "f": "tense",
+        "s": "Les autorités ___ à leur devoir si elles fermaient les yeux sur cette fraude.",
+        "a": "failliraient",
+        "en": "The authorities would fail in their duty if they turned a blind eye to this fraud.",
+        "alts": [],
+        "form": "Conditionnel"
+      },
+      {
+        "slot": "t|Subjonctif",
+        "f": "subj",
+        "s": "Il est inadmissible que tu ___ à tes obligations sans aucune explication.",
+        "a": "failles",
+        "en": "It is unacceptable that you fail in your obligations without any explanation.",
+        "alts": [],
+        "form": "Subjonctif"
+      },
+      {
+        "slot": "t|Subjonctif",
+        "f": "subj",
+        "s": "Nous tenons à ce que notre équipe ne ___ jamais à ses engagements.",
+        "a": "faille",
+        "en": "We insist that our team never fail in its commitments.",
+        "alts": [],
+        "form": "Subjonctif"
+      },
+      {
+        "slot": "s|0",
+        "f": "sense",
+        "s": "Il ___ renverser son café en tendant la main vers le livre.",
+        "a": "faillit",
+        "en": "He almost knocked over his coffee while reaching for the book.",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "s|0",
+        "f": "sense",
+        "s": "J'ai ___ rater mon train ce matin à cause de l'embouteillage.",
+        "a": "failli",
+        "en": "I almost missed my train this morning because of the traffic jam.",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "s|1",
+        "f": "sense",
+        "s": "Elle a ___ éclater en sanglots quand elle a entendu la nouvelle.",
+        "a": "failli",
+        "en": "She almost burst into tears when she heard the news.",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "s|1",
+        "f": "sense",
+        "s": "Nous avons ___ perdre notre voiture dans l'inondation.",
+        "a": "failli",
+        "en": "We almost lost our car in the flood.",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "s|2",
+        "f": "sense",
+        "s": "Le projet a ___ à ses objectifs à cause d'un manque de financement.",
+        "a": "failli",
+        "en": "The project failed in its objectives due to a lack of funding.",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "s|2",
+        "f": "sense",
+        "s": "Les négociations ont ___ à leur but malgré des mois d'efforts.",
+        "a": "failli",
+        "en": "The negotiations failed in their goal despite months of effort.",
+        "alts": [],
+        "form": ""
+      }
+    ]
+  },
+  {
+    "id": 3506,
+    "qs": [
+      {
+        "slot": "s|0",
+        "f": "sense",
+        "s": "Les enfants ont une grande ___ pour tout ce qui les entoure.",
+        "a": "curiosité",
+        "en": "Children have a great curiosity for everything around them.",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "s|0",
+        "f": "sense",
+        "s": "Sa ___ intellectuelle l'a poussé à lire des dizaines de livres sur le sujet.",
+        "a": "curiosité",
+        "en": "His intellectual curiosity drove him to read dozens of books on the subject.",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "s|1",
+        "f": "sense",
+        "s": "Ce vieux marché vend toutes sortes de ___: des statuettes, des fossiles et des objets anciens.",
+        "a": "curiosités",
+        "en": "This old market sells all sorts of curiosities: statuettes, fossils, and antique objects.",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "s|1",
+        "f": "sense",
+        "s": "Le musée expose une ___ rarissime : un crâne de mammouth parfaitement conservé.",
+        "a": "curiosité",
+        "en": "The museum displays a very rare curiosity: a perfectly preserved mammoth skull.",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "gender",
+        "f": "gender",
+        "s": "___ curiosité de cet enfant me surprend chaque jour.",
+        "a": "La",
+        "en": "The curiosity of this child surprises me every day.",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "gender",
+        "f": "gender",
+        "s": "Il a acheté ___ curiosité dans une brocante du village.",
+        "a": "une",
+        "en": "He bought a curiosity at a village flea market.",
+        "alts": [],
+        "form": ""
+      }
+    ]
+  },
+  {
+    "id": 3507,
+    "qs": [
+      {
+        "slot": "s|0",
+        "f": "sense",
+        "s": "N'oublie pas ton ___ avant de prendre l'avion.",
+        "a": "passeport",
+        "en": "Don't forget your passport before taking the plane.",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "s|0",
+        "f": "sense",
+        "s": "La douanière a vérifié mon ___ à l'entrée du pays.",
+        "a": "passeport",
+        "en": "The customs officer checked my passport at the country's entrance.",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "gender",
+        "f": "gender",
+        "s": "Il a présenté ___ passeport au contrôle des frontières.",
+        "a": "son",
+        "en": "He presented his passport at the border control.",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "gender",
+        "f": "gender",
+        "s": "Elle a besoin d'___ passeport valide pour voyager à l'étranger.",
+        "a": "un",
+        "en": "She needs a valid passport to travel abroad.",
+        "alts": [],
+        "form": ""
+      }
+    ]
+  }
+]

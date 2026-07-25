@@ -1,0 +1,747 @@
+[
+  {
+    "id": 3726,
+    "qs": [
+      {
+        "slot": "s|0",
+        "f": "sense",
+        "s": "Une bonne éducation constitue l'___ de toute réussite professionnelle.",
+        "a": "assise",
+        "en": "A good education forms the basis of all professional success.",
+        "alts": ["base", "fondement"]
+      },
+      {
+        "slot": "s|0",
+        "f": "sense",
+        "s": "Ce traité a fourni l'___ juridique nécessaire à la coopération entre les deux pays.",
+        "a": "assise",
+        "en": "This treaty provided the legal basis necessary for cooperation between the two countries.",
+        "alts": ["base", "fondement"]
+      },
+      {
+        "slot": "s|1",
+        "f": "sense",
+        "s": "La confiance mutuelle est l'___ de toute relation durable.",
+        "a": "assise",
+        "en": "Mutual trust is the cornerstone of any lasting relationship.",
+        "alts": ["pierre angulaire", "base", "fondement"]
+      },
+      {
+        "slot": "s|1",
+        "f": "sense",
+        "s": "Ce principe est l'___ sur laquelle repose toute la théorie.",
+        "a": "assise",
+        "en": "This principle is the cornerstone on which the entire theory rests.",
+        "alts": ["pierre angulaire", "base", "fondement"]
+      },
+      {
+        "slot": "s|2",
+        "f": "sense",
+        "s": "Des années de pratique ont consolidé les ___ de son talent musical.",
+        "a": "assises",
+        "en": "Years of practice have consolidated the deep roots of his musical talent.",
+        "alts": ["bases", "fondements"]
+      },
+      {
+        "slot": "s|2",
+        "f": "sense",
+        "s": "Ce mouvement social a besoin de renforcer ses ___ dans la société.",
+        "a": "assises",
+        "en": "This social movement needs to strengthen its roots in society.",
+        "alts": ["bases", "fondements"]
+      },
+      {
+        "slot": "gender",
+        "f": "gender",
+        "s": "___ assise de cet édifice a été renforcée après le tremblement de terre.",
+        "a": "L'",
+        "en": "The foundation of this building was reinforced after the earthquake.",
+        "alts": []
+      },
+      {
+        "slot": "gender",
+        "f": "gender",
+        "s": "Il a bati ___ assise solide avant de lancer son entreprise.",
+        "a": "une",
+        "en": "He built a solid foundation before launching his company.",
+        "alts": []
+      }
+    ]
+  },
+  {
+    "id": 3727,
+    "qs": [
+      {
+        "slot": "s|0",
+        "f": "sense",
+        "s": "Le secteur ___ représente une part croissante de l'économie mondiale.",
+        "a": "énergétique",
+        "en": "The energy sector represents a growing share of the global economy.",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "s|0",
+        "f": "sense",
+        "s": "Le gouvernement a lancé un plan de transition ___ pour réduire les émissions de carbone.",
+        "a": "énergétique",
+        "en": "The government launched an energy transition plan to reduce carbon emissions.",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "s|1",
+        "f": "sense",
+        "s": "Mon directeur est un homme très ___ : il arrive tôt et travaille sans relâche.",
+        "a": "énergétique",
+        "en": "My manager is a very vigorous man: he arrives early and works tirelessly.",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "s|1",
+        "f": "sense",
+        "s": "Le nouveau président est ___ et déterminé, ce qui rassure ses partisans.",
+        "a": "énergétique",
+        "en": "The new president is vigorous and determined, which reassures his supporters.",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "s|2",
+        "f": "sense",
+        "s": "Il a prononcé un discours ___ qui a convaincu tout le public.",
+        "a": "énergétique",
+        "en": "He delivered a forceful speech that convinced the whole audience.",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "s|2",
+        "f": "sense",
+        "s": "L'entraîneur a donné des consignes ___ à l'équipe avant le match.",
+        "a": "énergétiques",
+        "en": "The coach gave forceful instructions to the team before the match.",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "g|mp",
+        "f": "agree",
+        "s": "Les efforts ___ des pays développés sont insuffisants pour stopper le réchauffement climatique.",
+        "a": "énergétiques",
+        "en": "The energy efforts of developed countries are insufficient to stop global warming.",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "g|mp",
+        "f": "agree",
+        "s": "Les besoins ___ des habitants augmentent chaque année.",
+        "a": "énergétiques",
+        "en": "The energy needs of residents increase every year.",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "g|f",
+        "f": "agree",
+        "s": "La politique ___ du gouvernement vise à diversifier les sources d'approvisionnement.",
+        "a": "énergétique",
+        "en": "The government's energy policy aims to diversify supply sources.",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "g|f",
+        "f": "agree",
+        "s": "La personne ___ et enthousiaste a su motiver toute l'équipe.",
+        "a": "énergétique",
+        "en": "The vigorous and enthusiastic person managed to motivate the whole team.",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "g|fp",
+        "f": "agree",
+        "s": "Les entreprises adoptent des solutions ___ innovantes pour réduire leur empreinte carbone.",
+        "a": "énergétiques",
+        "en": "Companies are adopting innovative energy solutions to reduce their carbon footprint.",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "g|fp",
+        "f": "agree",
+        "s": "Les mesures ___ adoptées par la ville ont permis de réduire les factures d'électricité.",
+        "a": "énergétiques",
+        "en": "The energy measures adopted by the city have reduced electricity bills.",
+        "alts": [],
+        "form": ""
+      }
+    ]
+  },
+  {
+    "id": 3728,
+    "qs": [
+      {
+        "slot": "t|Présent|0",
+        "f": "tense",
+        "s": "Le gouvernement ___ cet opposant politique dans une province lointaine.",
+        "a": "relègue",
+        "en": "The government relegates this political opponent to a remote province.",
+        "alts": [],
+        "form": "Présent"
+      },
+      {
+        "slot": "t|Présent|0",
+        "f": "tense",
+        "s": "Je ___ cette tâche ennuyeuse à la fin de la journée.",
+        "a": "relègue",
+        "en": "I relegate this boring task to the end of the day.",
+        "alts": [],
+        "form": "Présent"
+      },
+      {
+        "slot": "t|Présent|1",
+        "f": "tense",
+        "s": "Tu ___ tes anciens amis au second plan depuis que tu as changé de cercle.",
+        "a": "relègues",
+        "en": "You are relegating your old friends to the background since you changed circles.",
+        "alts": [],
+        "form": "Présent"
+      },
+      {
+        "slot": "t|Présent|1",
+        "f": "tense",
+        "s": "Tu ___ toujours les moins importants au bas de la liste.",
+        "a": "relègues",
+        "en": "You always relegate the less important ones to the bottom of the list.",
+        "alts": [],
+        "form": "Présent"
+      },
+      {
+        "slot": "t|Présent|2",
+        "f": "tense",
+        "s": "Nous ___ les dossiers urgents à un service spécialisé.",
+        "a": "reléguons",
+        "en": "We relegate the urgent files to a specialized department.",
+        "alts": [],
+        "form": "Présent"
+      },
+      {
+        "slot": "t|Présent|2",
+        "f": "tense",
+        "s": "En tant que comité, nous ___ les questions mineures à la fin de l'ordre du jour.",
+        "a": "reléguons",
+        "en": "As a committee, we relegate minor issues to the end of the agenda.",
+        "alts": [],
+        "form": "Présent"
+      },
+      {
+        "slot": "t|Présent|3",
+        "f": "tense",
+        "s": "Vous ___ trop souvent les bonnes idées aux oubliettes.",
+        "a": "reléguez",
+        "en": "You too often relegate good ideas to oblivion.",
+        "alts": [],
+        "form": "Présent"
+      },
+      {
+        "slot": "t|Présent|3",
+        "f": "tense",
+        "s": "Vous ___ ce joueur sur le banc de touche pour toute la saison.",
+        "a": "reléguez",
+        "en": "You are relegating this player to the bench for the entire season.",
+        "alts": [],
+        "form": "Présent"
+      },
+      {
+        "slot": "t|Présent|4",
+        "f": "tense",
+        "s": "Ces décisions ___ les employés les moins gradés aux postes les plus ingrats.",
+        "a": "relèguent",
+        "en": "These decisions relegate the lowest-ranking employees to the most thankless positions.",
+        "alts": [],
+        "form": "Présent"
+      },
+      {
+        "slot": "t|Présent|4",
+        "f": "tense",
+        "s": "Ils ___ les minorités à la périphérie de la ville.",
+        "a": "relèguent",
+        "en": "They relegate minorities to the outskirts of the city.",
+        "alts": [],
+        "form": "Présent"
+      },
+      {
+        "slot": "t|Passé composé|0",
+        "f": "tense",
+        "s": "J'___ ma vieille bicyclette au fond du garage.",
+        "a": "ai relégué",
+        "en": "I relegated my old bicycle to the back of the garage.",
+        "alts": [],
+        "form": "Passé composé"
+      },
+      {
+        "slot": "t|Passé composé|0",
+        "f": "tense",
+        "s": "Hier, j'___ ce sujet sans importance en bas de ma liste de priorités.",
+        "a": "ai relégué",
+        "en": "Yesterday, I relegated that unimportant subject to the bottom of my priority list.",
+        "alts": [],
+        "form": "Passé composé"
+      },
+      {
+        "slot": "t|Passé composé|1",
+        "f": "tense",
+        "s": "Tu ___ tes anciens jouets au grenier quand tu as grandi.",
+        "a": "as relégué",
+        "en": "You relegated your old toys to the attic when you grew up.",
+        "alts": [],
+        "form": "Passé composé"
+      },
+      {
+        "slot": "t|Passé composé|1",
+        "f": "tense",
+        "s": "Tu ___ ce collaborateur à un rôle secondaire lors du projet.",
+        "a": "as relégué",
+        "en": "You relegated this collaborator to a secondary role during the project.",
+        "alts": [],
+        "form": "Passé composé"
+      },
+      {
+        "slot": "t|Passé composé|2",
+        "f": "tense",
+        "s": "Le roi ___ ce noble rebelle dans une forteresse isolée.",
+        "a": "a relégué",
+        "en": "The king relegated this rebellious nobleman to an isolated fortress.",
+        "alts": [],
+        "form": "Passé composé"
+      },
+      {
+        "slot": "t|Passé composé|2",
+        "f": "tense",
+        "s": "La direction ___ ce cadre ambitieux à un poste sans influence.",
+        "a": "a relégué",
+        "en": "Management relegated this ambitious executive to a position without influence.",
+        "alts": [],
+        "form": "Passé composé"
+      },
+      {
+        "slot": "t|Passé composé|3",
+        "f": "tense",
+        "s": "Nous ___ tous les vieux meubles dans la remise.",
+        "a": "avons relégué",
+        "en": "We relegated all the old furniture to the shed.",
+        "alts": [],
+        "form": "Passé composé"
+      },
+      {
+        "slot": "t|Passé composé|3",
+        "f": "tense",
+        "s": "Pendant la réunion, nous ___ cette proposition à la dernière place.",
+        "a": "avons relégué",
+        "en": "During the meeting, we relegated this proposal to last place.",
+        "alts": [],
+        "form": "Passé composé"
+      },
+      {
+        "slot": "t|Passé composé|4",
+        "f": "tense",
+        "s": "Vous ___ ce fonctionnaire à un poste provincial suite à l'enquête.",
+        "a": "avez relégué",
+        "en": "You relegated this official to a provincial post following the investigation.",
+        "alts": [],
+        "form": "Passé composé"
+      },
+      {
+        "slot": "t|Passé composé|4",
+        "f": "tense",
+        "s": "Lors du dernier classement, vous ___ notre équipe en deuxième division.",
+        "a": "avez relégué",
+        "en": "In the last ranking, you relegated our team to the second division.",
+        "alts": [],
+        "form": "Passé composé"
+      },
+      {
+        "slot": "t|Passé composé|5",
+        "f": "tense",
+        "s": "Les autorités ___ ces dissidents dans des régions reculées.",
+        "a": "ont relégué",
+        "en": "The authorities relegated these dissidents to remote regions.",
+        "alts": [],
+        "form": "Passé composé"
+      },
+      {
+        "slot": "t|Passé composé|5",
+        "f": "tense",
+        "s": "Ses collègues ___ ses idées novatrices aux archives sans les examiner.",
+        "a": "ont relégué",
+        "en": "His colleagues relegated his innovative ideas to the archives without examining them.",
+        "alts": [],
+        "form": "Passé composé"
+      },
+      {
+        "slot": "t|Imparfait|0",
+        "f": "tense",
+        "s": "Autrefois, je ___ les lettres non urgentes à la fin de la semaine.",
+        "a": "reléguais",
+        "en": "In the past, I used to relegate non-urgent letters to the end of the week.",
+        "alts": [],
+        "form": "Imparfait"
+      },
+      {
+        "slot": "t|Imparfait|0",
+        "f": "tense",
+        "s": "Quand tu étais chef de projet, tu ___ les tâches répétitives aux stagiaires.",
+        "a": "reléguais",
+        "en": "When you were project manager, you used to relegate repetitive tasks to the interns.",
+        "alts": [],
+        "form": "Imparfait"
+      },
+      {
+        "slot": "t|Imparfait|1",
+        "f": "tense",
+        "s": "Le régime ___ ses opposants dans des camps éloignés.",
+        "a": "reléguait",
+        "en": "The regime used to relegate its opponents to distant camps.",
+        "alts": [],
+        "form": "Imparfait"
+      },
+      {
+        "slot": "t|Imparfait|1",
+        "f": "tense",
+        "s": "La société ___ les femmes à des rôles domestiques à cette époque.",
+        "a": "reléguait",
+        "en": "Society used to relegate women to domestic roles at that time.",
+        "alts": [],
+        "form": "Imparfait"
+      },
+      {
+        "slot": "t|Imparfait|2",
+        "f": "tense",
+        "s": "Nous ___ les moins performants dans des équipes secondaires.",
+        "a": "reléguions",
+        "en": "We used to relegate the underperformers to secondary teams.",
+        "alts": [],
+        "form": "Imparfait"
+      },
+      {
+        "slot": "t|Imparfait|2",
+        "f": "tense",
+        "s": "À cette époque, nous ___ les anciens modèles à l'entrepôt.",
+        "a": "reléguions",
+        "en": "At that time, we used to relegate old models to the warehouse.",
+        "alts": [],
+        "form": "Imparfait"
+      },
+      {
+        "slot": "t|Imparfait|3",
+        "f": "tense",
+        "s": "Vous ___ toujours les nouveaux arrivants aux postes les moins valorisés.",
+        "a": "reléguiez",
+        "en": "You always used to relegate newcomers to the least valued positions.",
+        "alts": [],
+        "form": "Imparfait"
+      },
+      {
+        "slot": "t|Imparfait|3",
+        "f": "tense",
+        "s": "Dans votre système, vous ___ les cas complexes à d'autres services.",
+        "a": "reléguiez",
+        "en": "In your system, you used to relegate complex cases to other departments.",
+        "alts": [],
+        "form": "Imparfait"
+      },
+      {
+        "slot": "t|Imparfait|4",
+        "f": "tense",
+        "s": "Les empereurs ___ leurs adversaires politiques dans des îles isolées.",
+        "a": "reléguaient",
+        "en": "The emperors used to relegate their political rivals to isolated islands.",
+        "alts": [],
+        "form": "Imparfait"
+      },
+      {
+        "slot": "t|Imparfait|4",
+        "f": "tense",
+        "s": "Ils ___ les sujets tabous aux marges des débats officiels.",
+        "a": "reléguaient",
+        "en": "They used to relegate taboo subjects to the margins of official debates.",
+        "alts": [],
+        "form": "Imparfait"
+      },
+      {
+        "slot": "t|Futur|0",
+        "f": "tense",
+        "s": "Je ___ ces vieilles affaires dans la cave quand je ferai le ménage.",
+        "a": "relèguerai",
+        "en": "I will relegate these old belongings to the basement when I clean up.",
+        "alts": [],
+        "form": "Futur"
+      },
+      {
+        "slot": "t|Futur|0",
+        "f": "tense",
+        "s": "Si ce dossier n'est pas prioritaire, je ___ sa résolution à la semaine prochaine.",
+        "a": "relèguerai",
+        "en": "If this file is not a priority, I will relegate its resolution to next week.",
+        "alts": [],
+        "form": "Futur"
+      },
+      {
+        "slot": "t|Futur|1",
+        "f": "tense",
+        "s": "Si tu continues à négliger ce sport, tu ___ tes ambitions sportives au rang de rêve.",
+        "a": "relègueras",
+        "en": "If you keep neglecting this sport, you will relegate your sporting ambitions to the realm of dreams.",
+        "alts": [],
+        "form": "Futur"
+      },
+      {
+        "slot": "t|Futur|1",
+        "f": "tense",
+        "s": "Tu ___ ce sujet à la section des annexes dans ton rapport.",
+        "a": "relègueras",
+        "en": "You will relegate this subject to the appendices section in your report.",
+        "alts": [],
+        "form": "Futur"
+      },
+      {
+        "slot": "t|Futur|2",
+        "f": "tense",
+        "s": "Le nouveau règlement ___ les petites entreprises à une position marginale.",
+        "a": "relèguera",
+        "en": "The new regulation will relegate small businesses to a marginal position.",
+        "alts": [],
+        "form": "Futur"
+      },
+      {
+        "slot": "t|Futur|2",
+        "f": "tense",
+        "s": "La défaite ___ ce club en troisième division la saison prochaine.",
+        "a": "relèguera",
+        "en": "The defeat will relegate this club to the third division next season.",
+        "alts": [],
+        "form": "Futur"
+      },
+      {
+        "slot": "t|Futur|3",
+        "f": "tense",
+        "s": "Nous ___ les questions secondaires à la prochaine réunion.",
+        "a": "relèguerons",
+        "en": "We will relegate the secondary issues to the next meeting.",
+        "alts": [],
+        "form": "Futur"
+      },
+      {
+        "slot": "t|Futur|3",
+        "f": "tense",
+        "s": "Dès la fin du chantier, nous ___ ces outils usagés au fond de l'atelier.",
+        "a": "relèguerons",
+        "en": "Once the construction is finished, we will relegate these worn-out tools to the back of the workshop.",
+        "alts": [],
+        "form": "Futur"
+      },
+      {
+        "slot": "t|Futur|4",
+        "f": "tense",
+        "s": "Vous ___ ces propositions mineures aux discussions informelles.",
+        "a": "relèguerez",
+        "en": "You will relegate these minor proposals to informal discussions.",
+        "alts": [],
+        "form": "Futur"
+      },
+      {
+        "slot": "t|Futur|4",
+        "f": "tense",
+        "s": "Si vous refusez d'agir, vous ___ ce problème à une prochaine génération.",
+        "a": "relèguerez",
+        "en": "If you refuse to act, you will relegate this problem to a future generation.",
+        "alts": [],
+        "form": "Futur"
+      },
+      {
+        "slot": "t|Futur|5",
+        "f": "tense",
+        "s": "Ces nouvelles technologies ___ les méthodes traditionnelles au passé.",
+        "a": "relègueront",
+        "en": "These new technologies will relegate traditional methods to the past.",
+        "alts": [],
+        "form": "Futur"
+      },
+      {
+        "slot": "t|Futur|5",
+        "f": "tense",
+        "s": "Ils ___ les partis minoritaires à un rôle purement symbolique.",
+        "a": "relègueront",
+        "en": "They will relegate minority parties to a purely symbolic role.",
+        "alts": [],
+        "form": "Futur"
+      },
+      {
+        "slot": "t|Conditionnel|0",
+        "f": "tense",
+        "s": "Si j'avais plus de place, je ___ ce vieux canapé dans la chambre d'amis.",
+        "a": "relèguerais",
+        "en": "If I had more space, I would relegate this old sofa to the guest room.",
+        "alts": [],
+        "form": "Conditionnel"
+      },
+      {
+        "slot": "t|Conditionnel|0",
+        "f": "tense",
+        "s": "Si tu avais du pouvoir, tu ___ tes rivaux à des postes sans importance.",
+        "a": "relèguerais",
+        "en": "If you had power, you would relegate your rivals to unimportant positions.",
+        "alts": [],
+        "form": "Conditionnel"
+      },
+      {
+        "slot": "t|Conditionnel|1",
+        "f": "tense",
+        "s": "Un tel résultat ___ notre équipe directement en deuxième division.",
+        "a": "relèguerait",
+        "en": "Such a result would relegate our team directly to the second division.",
+        "alts": [],
+        "form": "Conditionnel"
+      },
+      {
+        "slot": "t|Conditionnel|1",
+        "f": "tense",
+        "s": "Sans soutien politique, ce projet ___ les régions rurales à l'isolement.",
+        "a": "relèguerait",
+        "en": "Without political support, this project would relegate rural regions to isolation.",
+        "alts": [],
+        "form": "Conditionnel"
+      },
+      {
+        "slot": "t|Conditionnel|2",
+        "f": "tense",
+        "s": "Si nous avions les ressources nécessaires, nous ___ les tâches répétitives à des machines.",
+        "a": "relèguerions",
+        "en": "If we had the necessary resources, we would relegate repetitive tasks to machines.",
+        "alts": [],
+        "form": "Conditionnel"
+      },
+      {
+        "slot": "t|Conditionnel|2",
+        "f": "tense",
+        "s": "Avec un tel budget, nous ___ les projets non essentiels à une phase ultérieure.",
+        "a": "relèguerions",
+        "en": "With such a budget, we would relegate non-essential projects to a later phase.",
+        "alts": [],
+        "form": "Conditionnel"
+      },
+      {
+        "slot": "t|Conditionnel|3",
+        "f": "tense",
+        "s": "Si vous aviez plus d'autorité, vous ___ ces employés à des fonctions secondaires.",
+        "a": "relègueriez",
+        "en": "If you had more authority, you would relegate these employees to secondary functions.",
+        "alts": [],
+        "form": "Conditionnel"
+      },
+      {
+        "slot": "t|Conditionnel|3",
+        "f": "tense",
+        "s": "Vous ___ volontiers ce sujet controversé aux discussions privées si vous pouviez.",
+        "a": "relègueriez",
+        "en": "You would willingly relegate this controversial subject to private discussions if you could.",
+        "alts": [],
+        "form": "Conditionnel"
+      },
+      {
+        "slot": "t|Conditionnel|4",
+        "f": "tense",
+        "s": "Si ces clubs perdaient encore, ils ___ leurs adversaires en bas du classement.",
+        "a": "relègueraient",
+        "en": "If these clubs lost again, they would relegate their opponents to the bottom of the rankings.",
+        "alts": [],
+        "form": "Conditionnel"
+      },
+      {
+        "slot": "t|Conditionnel|4",
+        "f": "tense",
+        "s": "Sans ces lois de protection, les entreprises ___ les travailleurs à des conditions précaires.",
+        "a": "relègueraient",
+        "en": "Without these protection laws, companies would relegate workers to precarious conditions.",
+        "alts": [],
+        "form": "Conditionnel"
+      },
+      {
+        "slot": "t|Subjonctif",
+        "f": "subj",
+        "s": "Il faut que tu ___ ces documents non urgents à la fin du classeur.",
+        "a": "relègues",
+        "en": "You must relegate these non-urgent documents to the end of the binder.",
+        "alts": [],
+        "form": "Subjonctif présent"
+      },
+      {
+        "slot": "t|Subjonctif",
+        "f": "subj",
+        "s": "Je tiens à ce que nous ___ ces questions mineures à une discussion ultérieure.",
+        "a": "reléguions",
+        "en": "I insist that we relegate these minor issues to a later discussion.",
+        "alts": [],
+        "form": "Subjonctif présent"
+      },
+      {
+        "slot": "s|0",
+        "f": "sense",
+        "s": "L'empire romain pouvait ___ ses citoyens coupables loin de Rome, dans des contrées sauvages.",
+        "a": "reléguer",
+        "en": "The Roman Empire could exile its guilty citizens far from Rome, to wild lands.",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "s|0",
+        "f": "sense",
+        "s": "Le tsar fit ___ les révolutionnaires en Sibérie pour les éloigner du pouvoir.",
+        "a": "reléguer",
+        "en": "The tsar had the revolutionaries exiled to Siberia to keep them away from power.",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "s|1",
+        "f": "sense",
+        "s": "Après le scandale, le ministre fut ___ à un poste consulaire sans prestige.",
+        "a": "relégué",
+        "en": "After the scandal, the minister was demoted to a consular post without prestige.",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "s|1",
+        "f": "sense",
+        "s": "Le général disgrâcié se vit ___ à un commandement de province éloignée.",
+        "a": "reléguer",
+        "en": "The disgraced general found himself demoted to a command in a remote province.",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "s|2",
+        "f": "sense",
+        "s": "Après trois défaites consécutives, la commission décida de ___ l'équipe en division inférieure.",
+        "a": "reléguer",
+        "en": "After three consecutive defeats, the committee decided to relegate the team to a lower division.",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "s|2",
+        "f": "sense",
+        "s": "Ce mauvais bilan risque de ___ le club au bas du tableau.",
+        "a": "reléguer",
+        "en": "This poor record risks relegating the club to the bottom of the table.",
+        "alts": [],
+        "form": ""
+      }
+    ]
+  }
+]

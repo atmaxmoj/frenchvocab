@@ -1,0 +1,160 @@
+[
+  {
+    "id": 17,
+    "qs": [
+      {"slot":"s|0","f":"sense","s":"Elle ___ lave les mains avant de manger.","en":"She washes her own hands before eating.","a":"se","alts":[]},
+      {"slot":"s|0","f":"sense","s":"Il faut ___ regarder dans le miroir chaque matin.","en":"One must look at oneself in the mirror every morning.","a":"se","alts":[]},
+      {"slot":"s|1","f":"sense","s":"Marc ___ blesse en tombant du vélo.","en":"Marc hurts himself falling off the bike.","a":"se","alts":[]},
+      {"slot":"s|1","f":"sense","s":"Mon frère ___ prépare un café chaque matin.","en":"My brother makes himself a coffee every morning.","a":"se","alts":[]},
+      {"slot":"s|2","f":"sense","s":"Marie ___ coiffe devant la glace.","en":"Marie does her own hair in front of the mirror.","a":"se","alts":[]},
+      {"slot":"s|2","f":"sense","s":"Ma sœur ___ lève tôt tous les jours.","en":"My sister gets up early every day.","a":"se","alts":[]},
+      {"slot":"s|3","f":"sense","s":"Les enfants ___ disputent souvent dans la cour.","en":"The children often argue among themselves in the yard.","a":"se","alts":[]},
+      {"slot":"s|3","f":"sense","s":"Mes amis ___ retrouvent au café le week-end.","en":"My friends meet up with each other at the café on weekends.","a":"se","alts":[]}
+    ]
+  },
+  {
+    "id": 18,
+    "qs": [
+      {"slot":"s|0","f":"sense","s":"Je ne comprends ___ ce que tu dis.","en":"I don't understand what you're saying.","a":"pas","alts":[]},
+      {"slot":"s|0","f":"sense","s":"Elle n'est ___ venue à la réunion hier.","en":"She didn't come to the meeting yesterday.","a":"pas","alts":[]},
+      {"slot":"s|1","f":"sense","s":"Il avançait à grands ___ dans la forêt.","en":"He was walking with big strides through the forest.","a":"pas","alts":[]},
+      {"slot":"s|1","f":"sense","s":"J'entendais ses ___ résonner dans le couloir.","en":"I could hear his footsteps echoing in the hallway.","a":"pas","alts":[]},
+      {"slot":"gender","f":"gender","s":"Il a fait ___ pas en avant pour saluer le public.","en":"He took a step forward to greet the audience.","a":"un","alts":[]},
+      {"slot":"gender","f":"gender","s":"Elle reconnaissait ___ pas de son père dans l'escalier.","en":"She recognized her father's footstep on the stairs.","a":"le","alts":["les"]}
+    ]
+  },
+  {
+    "id": 19,
+    "qs": [
+      {"slot":"s|0","f":"sense","s":"Tu devrais manger ___ de légumes pour rester en bonne santé.","en":"You should eat more vegetables to stay healthy.","a":"plus","alts":[]},
+      {"slot":"s|0","f":"sense","s":"Il faut travailler ___ si tu veux réussir cet examen.","en":"You need to work more if you want to pass this exam.","a":"plus","alts":[]},
+      {"slot":"s|1","f":"sense","s":"Elle ne sort ___ depuis qu'elle a changé de travail.","en":"She no longer goes out since she changed jobs.","a":"plus","alts":[]},
+      {"slot":"s|1","f":"sense","s":"Nous n'avons ___ envie de discuter de ce sujet.","en":"We no longer have any desire to discuss this topic.","a":"plus","alts":[]}
+    ]
+  },
+  {
+    "id": 20,
+    "qs": [
+      {"slot":"t|Présent|0","f":"tense","s":"Quand j'ai envie de sortir, ___ toujours trouver une excuse.","en":"When I want to go out, I can always find an excuse.","a":"je peux","alts":[],"form":"Présent"},
+      {"slot":"t|Présent|0","f":"tense","s":"Si tu as besoin d'aide, ___ venir te voir à tout moment.","en":"If you need help, I can come to see you at any time.","a":"je peux","alts":[],"form":"Présent"},
+      {"slot":"t|Présent|1","f":"tense","s":"___ partir maintenant si tu as terminé ton travail.","en":"You can leave now if you have finished your work.","a":"tu peux","alts":[],"form":"Présent"},
+      {"slot":"t|Présent|1","f":"tense","s":"Avec ta voiture, ___ arriver en ville en dix minutes.","en":"With your car, you can get to town in ten minutes.","a":"tu peux","alts":[],"form":"Présent"},
+      {"slot":"t|Présent|2","f":"tense","s":"Mon fils est malade ; ___ pas aller à l'école aujourd'hui.","en":"My son is sick; he cannot go to school today.","a":"il peut","alts":[],"form":"Présent"},
+      {"slot":"t|Présent|2","f":"tense","s":"Ce logiciel est puissant ; ___ traiter des milliers de données à la seconde.","en":"This software is powerful; it can process thousands of data per second.","a":"il peut","alts":[],"form":"Présent"},
+      {"slot":"t|Présent|3","f":"tense","s":"Ensemble, ___ résoudre tous les problèmes qui se présentent.","en":"Together, we can solve all the problems that arise.","a":"nous pouvons","alts":[],"form":"Présent"},
+      {"slot":"t|Présent|3","f":"tense","s":"Si nous avons assez de temps, ___ visiter le musée après le déjeuner.","en":"If we have enough time, we can visit the museum after lunch.","a":"nous pouvons","alts":[],"form":"Présent"},
+      {"slot":"t|Présent|4","f":"tense","s":"___ entrer dès que vous êtes prêts.","en":"You can come in as soon as you are ready.","a":"vous pouvez","alts":[],"form":"Présent"},
+      {"slot":"t|Présent|4","f":"tense","s":"Si vous travaillez dur, ___ atteindre vos objectifs.","en":"If you work hard, you can achieve your goals.","a":"vous pouvez","alts":[],"form":"Présent"},
+      {"slot":"t|Présent|5","f":"tense","s":"Ces étudiants sont brillants ; ___ comprendre des textes très complexes.","en":"These students are brilliant; they can understand very complex texts.","a":"ils peuvent","alts":[],"form":"Présent"},
+      {"slot":"t|Présent|5","f":"tense","s":"Les enfants ___ jouer dans le jardin s'il ne pleut pas.","en":"The children can play in the garden if it does not rain.","a":"ils peuvent","alts":[],"form":"Présent"},
+      {"slot":"t|Passé composé|0","f":"tense","s":"Grâce à ton aide, ___ finir le projet avant la date limite.","en":"Thanks to your help, I was able to finish the project before the deadline.","a":"j'ai pu","alts":[],"form":"Passé composé"},
+      {"slot":"t|Passé composé|0","f":"tense","s":"Hier soir, ___ dormir seulement trois heures à cause du bruit.","en":"Last night, I was only able to sleep three hours because of the noise.","a":"j'ai pu","alts":[],"form":"Passé composé"},
+      {"slot":"t|Passé composé|1","f":"tense","s":"Est-ce que ___ parler à ta directrice ce matin ?","en":"Were you able to speak to your director this morning?","a":"tu as pu","alts":[],"form":"Passé composé"},
+      {"slot":"t|Passé composé|1","f":"tense","s":"Je suis content que ___ venir à ma fête d'anniversaire.","en":"I am glad that you were able to come to my birthday party.","a":"tu as pu","alts":[],"form":"Passé composé"},
+      {"slot":"t|Passé composé|2","f":"tense","s":"Après des mois d'entraînement, ___ terminer le marathon.","en":"After months of training, he was able to finish the marathon.","a":"il a pu","alts":[],"form":"Passé composé"},
+      {"slot":"t|Passé composé|2","f":"tense","s":"Le technicien ___ réparer l'ordinateur en une heure.","en":"The technician was able to repair the computer in one hour.","a":"il a pu","alts":[],"form":"Passé composé"},
+      {"slot":"t|Passé composé|3","f":"tense","s":"Heureusement, ___ trouver un hôtel libre à la dernière minute.","en":"Fortunately, we were able to find a free hotel at the last minute.","a":"nous avons pu","alts":[],"form":"Passé composé"},
+      {"slot":"t|Passé composé|3","f":"tense","s":"Nous ___ voir le spectacle grâce aux billets que tu nous as offerts.","en":"We were able to see the show thanks to the tickets you gave us.","a":"nous avons pu","alts":[],"form":"Passé composé"},
+      {"slot":"t|Passé composé|4","f":"tense","s":"Avez-vous réussi ? ___ soumettre votre rapport à temps ?","en":"Did you succeed? Were you able to submit your report on time?","a":"vous avez pu","alts":[],"form":"Passé composé"},
+      {"slot":"t|Passé composé|4","f":"tense","s":"Je suis soulagé que ___ résoudre ce problème sans mon aide.","en":"I am relieved that you were able to solve this problem without my help.","a":"vous avez pu","alts":[],"form":"Passé composé"},
+      {"slot":"t|Passé composé|5","f":"tense","s":"Les pompiers ___ éteindre l'incendie avant qu'il ne se propage.","en":"The firefighters were able to extinguish the fire before it spread.","a":"ils ont pu","alts":[],"form":"Passé composé"},
+      {"slot":"t|Passé composé|5","f":"tense","s":"Grâce au bon temps, ___ organiser la fête en plein air.","en":"Thanks to the good weather, they were able to organize the party outdoors.","a":"ils ont pu","alts":[],"form":"Passé composé"},
+      {"slot":"t|Imparfait|0","f":"tense","s":"Quand j'étais enfant, ___ courir très vite.","en":"When I was a child, I could run very fast.","a":"je pouvais","alts":[],"form":"Imparfait"},
+      {"slot":"t|Imparfait|0","f":"tense","s":"Avant ma blessure, ___ soulever des charges lourdes sans effort.","en":"Before my injury, I could lift heavy loads without effort.","a":"je pouvais","alts":[],"form":"Imparfait"},
+      {"slot":"t|Imparfait|1","f":"tense","s":"Quand tu vivais à Paris, ___ visiter les musées chaque week-end.","en":"When you lived in Paris, you could visit museums every weekend.","a":"tu pouvais","alts":[],"form":"Imparfait"},
+      {"slot":"t|Imparfait|1","f":"tense","s":"À cette époque-là, ___ acheter du pain pour très peu d'argent.","en":"At that time, you could buy bread for very little money.","a":"tu pouvais","alts":[],"form":"Imparfait"},
+      {"slot":"t|Imparfait|2","f":"tense","s":"Mon grand-père ___ réparer presque tout ce qui tombait en panne.","en":"My grandfather could fix almost everything that broke down.","a":"il pouvait","alts":[],"form":"Imparfait"},
+      {"slot":"t|Imparfait|2","f":"tense","s":"Le vieux pont était si fragile qu'il ___ s'effondrer à tout moment.","en":"The old bridge was so fragile that it could collapse at any moment.","a":"il pouvait","alts":[],"form":"Imparfait"},
+      {"slot":"t|Imparfait|3","f":"tense","s":"Dans notre jeunesse, ___ passer des heures à jouer dehors.","en":"In our youth, we could spend hours playing outside.","a":"nous pouvions","alts":[],"form":"Imparfait"},
+      {"slot":"t|Imparfait|3","f":"tense","s":"À l'université, ___ étudier tard le soir sans nous fatiguer.","en":"At university, we could study late at night without getting tired.","a":"nous pouvions","alts":[],"form":"Imparfait"},
+      {"slot":"t|Imparfait|4","f":"tense","s":"Avant la pandémie, ___ voyager librement en Europe.","en":"Before the pandemic, you could travel freely in Europe.","a":"vous pouviez","alts":[],"form":"Imparfait"},
+      {"slot":"t|Imparfait|4","f":"tense","s":"Dans ce restaurant, ___ manger pour moins de dix euros.","en":"In that restaurant, you could eat for less than ten euros.","a":"vous pouviez","alts":[],"form":"Imparfait"},
+      {"slot":"t|Imparfait|5","f":"tense","s":"Les soldats étaient si épuisés qu'ils ___ à peine marcher.","en":"The soldiers were so exhausted that they could barely walk.","a":"ils pouvaient","alts":[],"form":"Imparfait"},
+      {"slot":"t|Imparfait|5","f":"tense","s":"Autrefois, les voyageurs ___ mettre des semaines pour traverser l'océan.","en":"In the past, travelers could take weeks to cross the ocean.","a":"ils pouvaient","alts":[],"form":"Imparfait"},
+      {"slot":"t|Futur|0","f":"tense","s":"Après l'examen, ___ enfin me reposer quelques jours.","en":"After the exam, I will finally be able to rest for a few days.","a":"je pourrai","alts":[],"form":"Futur"},
+      {"slot":"t|Futur|0","f":"tense","s":"Quand j'aurai ma voiture, ___ te conduire au travail chaque matin.","en":"When I have my car, I will be able to drive you to work every morning.","a":"je pourrai","alts":[],"form":"Futur"},
+      {"slot":"t|Futur|1","f":"tense","s":"Dès que tu auras fini tes devoirs, ___ regarder la télévision.","en":"As soon as you have finished your homework, you will be able to watch television.","a":"tu pourras","alts":[],"form":"Futur"},
+      {"slot":"t|Futur|1","f":"tense","s":"Si tu t'entraînes régulièrement, ___ participer à la compétition.","en":"If you train regularly, you will be able to participate in the competition.","a":"tu pourras","alts":[],"form":"Futur"},
+      {"slot":"t|Futur|2","f":"tense","s":"Quand le médecin lui donnera son accord, ___ quitter l'hôpital.","en":"When the doctor gives his approval, he will be able to leave the hospital.","a":"il pourra","alts":[],"form":"Futur"},
+      {"slot":"t|Futur|2","f":"tense","s":"Ce nouveau moteur ___ atteindre des vitesses records.","en":"This new engine will be able to reach record speeds.","a":"il pourra","alts":[],"form":"Futur"},
+      {"slot":"t|Futur|3","f":"tense","s":"L'année prochaine, ___ acheter une maison si nous économisons assez.","en":"Next year, we will be able to buy a house if we save enough.","a":"nous pourrons","alts":[],"form":"Futur"},
+      {"slot":"t|Futur|3","f":"tense","s":"Avec ce nouveau logiciel, ___ traiter les données beaucoup plus vite.","en":"With this new software, we will be able to process the data much faster.","a":"nous pourrons","alts":[],"form":"Futur"},
+      {"slot":"t|Futur|4","f":"tense","s":"Quand vous aurez passé le contrôle de sécurité, ___ embarquer.","en":"When you have passed the security check, you will be able to board.","a":"vous pourrez","alts":[],"form":"Futur"},
+      {"slot":"t|Futur|4","f":"tense","s":"Si vous réservez à l'avance, ___ obtenir de meilleurs prix.","en":"If you book in advance, you will be able to get better prices.","a":"vous pourrez","alts":[],"form":"Futur"},
+      {"slot":"t|Futur|5","f":"tense","s":"Les chercheurs ___ publier leurs résultats dès que les tests seront terminés.","en":"The researchers will be able to publish their results as soon as the tests are completed.","a":"ils pourront","alts":[],"form":"Futur"},
+      {"slot":"t|Futur|5","f":"tense","s":"Grâce à la nouvelle route, les camions ___ livrer plus rapidement.","en":"Thanks to the new road, the trucks will be able to deliver more quickly.","a":"ils pourront","alts":[],"form":"Futur"},
+      {"slot":"t|Conditionnel|0","f":"tense","s":"Avec plus de temps, ___ lire tous ces livres.","en":"With more time, I could read all these books.","a":"je pourrais","alts":[],"form":"Conditionnel"},
+      {"slot":"t|Conditionnel|0","f":"tense","s":"Si j'avais une bourse, ___ étudier à l'étranger.","en":"If I had a scholarship, I could study abroad.","a":"je pourrais","alts":[],"form":"Conditionnel"},
+      {"slot":"t|Conditionnel|1","f":"tense","s":"Si tu parlais plus lentement, ___ mieux articuler tes idées.","en":"If you spoke more slowly, you could express your ideas more clearly.","a":"tu pourrais","alts":[],"form":"Conditionnel"},
+      {"slot":"t|Conditionnel|1","f":"tense","s":"Avec de l'aide, ___ finir ce travail avant ce soir.","en":"With some help, you could finish this work before tonight.","a":"tu pourrais","alts":[],"form":"Conditionnel"},
+      {"slot":"t|Conditionnel|2","f":"tense","s":"S'il avait plus d'expérience, ___ postuler à ce poste.","en":"If he had more experience, he could apply for this position.","a":"il pourrait","alts":[],"form":"Conditionnel"},
+      {"slot":"t|Conditionnel|2","f":"tense","s":"Ce médicament ___ provoquer des effets secondaires chez certaines personnes.","en":"This medication could cause side effects in some people.","a":"il pourrait","alts":[],"form":"Conditionnel"},
+      {"slot":"t|Conditionnel|3","f":"tense","s":"Si nous avions plus d'argent, ___ rénover toute la maison.","en":"If we had more money, we could renovate the whole house.","a":"nous pourrions","alts":[],"form":"Conditionnel"},
+      {"slot":"t|Conditionnel|3","f":"tense","s":"Avec une meilleure organisation, ___ éviter ces retards.","en":"With better organization, we could avoid these delays.","a":"nous pourrions","alts":[],"form":"Conditionnel"},
+      {"slot":"t|Conditionnel|4","f":"tense","s":"Si vous partiez plus tôt, ___ éviter les embouteillages.","en":"If you left earlier, you could avoid the traffic jams.","a":"vous pourriez","alts":[],"form":"Conditionnel"},
+      {"slot":"t|Conditionnel|4","f":"tense","s":"___ vous expliquer le problème en quelques mots ?","en":"Could you explain the problem in a few words?","a":"vous pourriez","alts":[],"form":"Conditionnel"},
+      {"slot":"t|Conditionnel|5","f":"tense","s":"Avec une meilleure alimentation, ces enfants ___ grandir en bonne santé.","en":"With a better diet, these children could grow up healthy.","a":"ils pourraient","alts":[],"form":"Conditionnel"},
+      {"slot":"t|Conditionnel|5","f":"tense","s":"Ces nouvelles technologies ___ transformer nos modes de vie dans les prochaines années.","en":"These new technologies could transform our ways of life in the coming years.","a":"elles pourraient","alts":[],"form":"Conditionnel"},
+      {"slot":"t|Subjonctif|0","f":"tense","s":"Il faut ___ assister à cette réunion importante.","en":"It is necessary that I be able to attend this important meeting.","a":"que je puisse","alts":[],"form":"Subjonctif"},
+      {"slot":"t|Subjonctif|0","f":"tense","s":"Ma mère veut ___ rentrer avant minuit.","en":"My mother wants me to be able to come home before midnight.","a":"que je puisse","alts":[],"form":"Subjonctif"},
+      {"slot":"t|Subjonctif|1","f":"tense","s":"Je suis heureux ___ venir me rendre visite ce week-end.","en":"I am happy that you can come to visit me this weekend.","a":"que tu puisses","alts":[],"form":"Subjonctif"},
+      {"slot":"t|Subjonctif|1","f":"tense","s":"Il est important ___ finir ce rapport avant demain.","en":"It is important that you be able to finish this report before tomorrow.","a":"que tu puisses","alts":[],"form":"Subjonctif"},
+      {"slot":"t|Subjonctif|2","f":"tense","s":"Il est nécessaire ___ se reposer après une longue journée de travail.","en":"It is necessary that he be able to rest after a long day of work.","a":"qu'il puisse","alts":[],"form":"Subjonctif"},
+      {"slot":"t|Subjonctif|2","f":"tense","s":"Je doute ___ terminer ce projet tout seul.","en":"I doubt that he can finish this project all by himself.","a":"qu'il puisse","alts":[],"form":"Subjonctif"},
+      {"slot":"t|Subjonctif|3","f":"tense","s":"Le directeur exige ___ présenter nos résultats vendredi.","en":"The director requires that we be able to present our results on Friday.","a":"que nous puissions","alts":[],"form":"Subjonctif"},
+      {"slot":"t|Subjonctif|3","f":"tense","s":"Il est peu probable ___ finir avant la date limite.","en":"It is unlikely that we will be able to finish before the deadline.","a":"que nous puissions","alts":[],"form":"Subjonctif"},
+      {"slot":"t|Subjonctif|4","f":"tense","s":"Nous souhaitons ___ répondre à toutes les questions des clients.","en":"We wish that you be able to answer all the customers' questions.","a":"que vous puissiez","alts":[],"form":"Subjonctif"},
+      {"slot":"t|Subjonctif|4","f":"tense","s":"Il est essentiel ___ prendre une décision avant la fin de la semaine.","en":"It is essential that you be able to make a decision before the end of the week.","a":"que vous puissiez","alts":[],"form":"Subjonctif"},
+      {"slot":"t|Subjonctif|5","f":"tense","s":"Il est indispensable ___ travailler en équipe pour réussir ce projet.","en":"It is indispensable that they be able to work as a team to succeed in this project.","a":"qu'ils puissent","alts":[],"form":"Subjonctif"},
+      {"slot":"t|Subjonctif|5","f":"tense","s":"Nous espérons ___ arriver à temps pour la cérémonie.","en":"We hope that they will be able to arrive on time for the ceremony.","a":"qu'ils puissent","alts":[],"form":"Subjonctif"},
+      {"slot":"s|0","f":"sense","s":"Je suis trop fatigué ce soir ; je ne ___ pas sortir.","en":"I am too tired this evening; I cannot go out.","a":"peux","alts":[],"form":""},
+      {"slot":"s|0","f":"sense","s":"Elle ___ parler trois langues étrangères couramment.","en":"She can speak three foreign languages fluently.","a":"peut","alts":[],"form":""},
+      {"slot":"s|1","f":"sense","s":"Le président a le ___ de dissoudre l'Assemblée nationale dans certaines conditions.","en":"The president has the power to dissolve the National Assembly under certain conditions.","a":"pouvoir","alts":[],"form":""},
+      {"slot":"s|1","f":"sense","s":"Ce dirigeant concentre tout le ___ entre ses mains sans partager les décisions.","en":"This leader concentrates all power in his hands without sharing decisions.","a":"pouvoir","alts":[],"form":""}
+    ]
+  },
+  {
+    "id": 21,
+    "qs": [
+      {"slot":"s|0","f":"sense","s":"Il a réussi son examen ___ un travail acharné.","en":"He passed his exam through hard work.","a":"par","alts":[]},
+      {"slot":"s|0","f":"sense","s":"Elle a obtenu ce poste ___ ses compétences.","en":"She got this position through her skills.","a":"par","alts":[]},
+      {"slot":"s|1","f":"sense","s":"Nous sommes passés ___ Lyon pour aller à Marseille.","en":"We went through Lyon on our way to Marseille.","a":"par","alts":[]},
+      {"slot":"s|1","f":"sense","s":"Le train passe ___ le tunnel sous la Manche.","en":"The train goes through the Channel Tunnel.","a":"par","alts":[]},
+      {"slot":"s|2","f":"sense","s":"Ce roman a été écrit ___ Victor Hugo.","en":"This novel was written by Victor Hugo.","a":"par","alts":[]},
+      {"slot":"s|2","f":"sense","s":"La loi a été adoptée ___ le Parlement.","en":"The law was passed by Parliament.","a":"par","alts":[]},
+      {"slot":"s|3","f":"sense","s":"Il gagne deux mille euros ___ mois.","en":"He earns two thousand euros per month.","a":"par","alts":[]},
+      {"slot":"s|3","f":"sense","s":"Prenez ce médicament trois fois ___ jour.","en":"Take this medicine three times per day.","a":"par","alts":[]}
+    ]
+  },
+  {
+    "id": 22,
+    "qs": [
+      {"slot":"s|0","f":"sense","s":"___ suis étudiant et j'adore apprendre le français.","en":"I am a student and I love learning French.","a":"Je","alts":[]},
+      {"slot":"s|0","f":"sense","s":"Hier soir, ___ me suis couché très tard à cause du devoir.","en":"Last night, I went to bed very late because of the homework.","a":"je","alts":[]}
+    ]
+  },
+  {
+    "id": 23,
+    "qs": [
+      {"slot":"s|0","f":"sense","s":"Je suis allé au cinéma ___ mes amis hier soir.","en":"I went to the cinema with my friends last night.","a":"avec","alts":[]},
+      {"slot":"s|0","f":"sense","s":"Elle travaille ___ son collègue sur ce projet.","en":"She is working with her colleague on this project.","a":"avec","alts":[]},
+      {"slot":"s|1","f":"sense","s":"Il a ouvert la bouteille ___ un tire-bouchon.","en":"He opened the bottle with a corkscrew.","a":"avec","alts":[]},
+      {"slot":"s|1","f":"sense","s":"Elle a coupé le pain ___ un couteau bien aiguisé.","en":"She cut the bread with a sharp knife.","a":"avec","alts":[]}
+    ]
+  },
+  {
+    "id": 24,
+    "qs": [
+      {"slot":"s|0","f":"sense","s":"___ les élèves ont réussi l'examen.","en":"All the students passed the exam.","a":"Tous","alts":[]},
+      {"slot":"s|0","f":"sense","s":"Il a mangé ___ le gâteau sans laisser une miette.","en":"He ate all the cake without leaving a crumb.","a":"tout","alts":[]},
+      {"slot":"s|1","f":"sense","s":"Elle était ___ émue en recevant le prix.","en":"She was completely moved when receiving the award.","a":"tout","alts":[]},
+      {"slot":"s|1","f":"sense","s":"Ce quartier est ___ près du centre-ville.","en":"This neighborhood is very close to the city center.","a":"tout","alts":[]},
+      {"slot":"g|mp","f":"agree","s":"Il a invité ___ ses amis à la fête.","en":"He invited all his friends to the party.","a":"tous","alts":[]},
+      {"slot":"g|mp","f":"agree","s":"___ les jours, il fait une promenade dans le parc.","en":"Every day, he takes a walk in the park.","a":"Tous","alts":[]},
+      {"slot":"g|f","f":"agree","s":"Elle a passé ___ la nuit à lire ce roman.","en":"She spent the whole night reading this novel.","a":"toute","alts":[]},
+      {"slot":"g|f","f":"agree","s":"___ la famille s'est réunie pour Noël.","en":"The whole family gathered for Christmas.","a":"Toute","alts":[]},
+      {"slot":"g|fp","f":"agree","s":"___ les fenêtres étaient ouvertes à cause de la chaleur.","en":"All the windows were open because of the heat.","a":"Toutes","alts":[]},
+      {"slot":"g|fp","f":"agree","s":"Il a vérifié ___ les réponses avant de rendre la copie.","en":"He checked all the answers before handing in the paper.","a":"toutes","alts":[]}
+    ]
+  }
+]

@@ -1,0 +1,215 @@
+[
+  {
+    "id": 187,
+    "qs": [
+      {
+        "slot": "s|0",
+        "f": "sense",
+        "s": "Les enfants forment un ___ dans la cour de récréation.",
+        "en": "The children form a group in the playground.",
+        "a": "groupe",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "s|0",
+        "f": "sense",
+        "s": "Un ___ de touristes attendait devant le musée.",
+        "en": "A group of tourists was waiting in front of the museum.",
+        "a": "groupe",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "s|1",
+        "f": "sense",
+        "s": "Le professeur a divisé la classe en plusieurs ___.",
+        "en": "The teacher divided the class into several small groups.",
+        "a": "groupes",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "s|1",
+        "f": "sense",
+        "s": "Nous travaillons en ___ pour préparer l'exposé.",
+        "en": "We work in a group to prepare the presentation.",
+        "a": "groupe",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "s|2",
+        "f": "sense",
+        "s": "Ce ___ industriel possède des filiales dans vingt pays.",
+        "en": "This industrial group has subsidiaries in twenty countries.",
+        "a": "groupe",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "s|2",
+        "f": "sense",
+        "s": "Le ___ pharmaceutique a annoncé une fusion importante.",
+        "en": "The pharmaceutical group announced a major merger.",
+        "a": "groupe",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "gender",
+        "f": "gender",
+        "s": "Elle a rejoint ___ groupe de discussion en ligne.",
+        "en": "She joined an online discussion group.",
+        "a": "un",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "gender",
+        "f": "gender",
+        "s": "___ groupe de recherche publie ses résultats chaque année.",
+        "en": "The research group publishes its results every year.",
+        "a": "Le",
+        "alts": [],
+        "form": ""
+      }
+    ]
+  },
+  {
+    "id": 188,
+    "qs": [
+      {
+        "slot": "s|0",
+        "f": "sense",
+        "s": "Il y a un ___ de communication entre les deux équipes.",
+        "en": "There is a communication issue between the two teams.",
+        "a": "problème",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "s|0",
+        "f": "sense",
+        "s": "Ce n'est pas un ___, on peut changer la date de la réunion.",
+        "en": "It's not an issue, we can change the meeting date.",
+        "a": "problème",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "s|1",
+        "f": "sense",
+        "s": "Les élèves ont mis une heure à résoudre ce ___ de mathématiques.",
+        "en": "The students took an hour to solve this mathematics problem.",
+        "a": "problème",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "s|1",
+        "f": "sense",
+        "s": "Le chercheur a enfin trouvé la solution à ce ___ complexe.",
+        "en": "The researcher finally found the solution to this complex problem.",
+        "a": "problème",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "gender",
+        "f": "gender",
+        "s": "C'est ___ problème difficile à résoudre.",
+        "en": "It's a difficult problem to solve.",
+        "a": "un",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "gender",
+        "f": "gender",
+        "s": "___ problème principal, c'est le manque de budget.",
+        "en": "The main problem is the lack of budget.",
+        "a": "Le",
+        "alts": [],
+        "form": ""
+      }
+    ]
+  },
+  {
+    "id": 189,
+    "qs": [
+      {
+        "slot": "s|0",
+        "f": "sense",
+        "s": "Il existe un ___ de confiance entre le médecin et ses patients.",
+        "en": "There is a relationship of trust between the doctor and his patients.",
+        "a": "rapport",
+        "alts": ["lien", "relation"],
+        "form": ""
+      },
+      {
+        "slot": "s|0",
+        "f": "sense",
+        "s": "Elle entretient un excellent ___ avec ses collègues de travail.",
+        "en": "She maintains an excellent relationship with her work colleagues.",
+        "a": "rapport",
+        "alts": ["lien", "relation"],
+        "form": ""
+      },
+      {
+        "slot": "s|1",
+        "f": "sense",
+        "s": "L'ingénieur doit rédiger un ___ détaillé sur l'incident technique.",
+        "en": "The engineer must write a detailed report on the technical incident.",
+        "a": "rapport",
+        "alts": ["compte rendu"],
+        "form": ""
+      },
+      {
+        "slot": "s|1",
+        "f": "sense",
+        "s": "Le directeur a présenté son ___ annuel devant le conseil d'administration.",
+        "en": "The director presented his annual report before the board of directors.",
+        "a": "rapport",
+        "alts": ["compte rendu", "bilan"],
+        "form": ""
+      },
+      {
+        "slot": "s|2",
+        "f": "sense",
+        "s": "Le ___ entre la largeur et la hauteur de cet écran est de seize sur neuf.",
+        "en": "The ratio of the width to the height of this screen is sixteen to nine.",
+        "a": "rapport",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "s|2",
+        "f": "sense",
+        "s": "Dans cette solution chimique, le ___ entre l'eau et le soluté est de quatre pour un.",
+        "en": "In this chemical solution, the ratio of water to solute is four to one.",
+        "a": "rapport",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "gender",
+        "f": "gender",
+        "s": "Elle a lu ___ rapport avec beaucoup d'attention.",
+        "en": "She read the report with great attention.",
+        "a": "le",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "gender",
+        "f": "gender",
+        "s": "Le chef d'équipe nous a remis ___ rapport complet ce matin.",
+        "en": "The team leader handed us a complete report this morning.",
+        "a": "un",
+        "alts": [],
+        "form": ""
+      }
+    ]
+  }
+]

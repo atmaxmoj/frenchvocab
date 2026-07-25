@@ -1,0 +1,47 @@
+[
+  {
+    "id": 146,
+    "qs": [
+      {"slot":"s|0","f":"sense","s":"— ___ bus prend-on pour aller à la gare ?","en":"Which bus do we take to get to the station?","a":"Quel","alts":[],"form":""},
+      {"slot":"s|0","f":"sense","s":"Tu préfères ___ film, celui d'hier ou celui de ce soir ?","en":"Which film do you prefer, the one from yesterday or the one tonight?","a":"quel","alts":[],"form":""},
+      {"slot":"s|1","f":"sense","s":"___ courage il faut pour traverser cette épreuve !","en":"What courage it takes to get through this ordeal!","a":"Quel","alts":[],"form":""},
+      {"slot":"s|1","f":"sense","s":"Je ne sais pas ___ genre de musique tu aimes vraiment.","en":"I don't know what kind of music you really like.","a":"quel","alts":[],"form":""},
+      {"slot":"g|mp","f":"agree","s":"___ sont les avantages de ce nouveau projet ?","en":"What are the advantages of this new project?","a":"Quels","alts":[],"form":""},
+      {"slot":"g|mp","f":"agree","s":"Je me demande ___ films tu as vus pendant les vacances.","en":"I wonder which films you watched during the holidays.","a":"quels","alts":[],"form":""},
+      {"slot":"g|f","f":"agree","s":"___ est ta couleur préférée ?","en":"What is your favourite colour?","a":"Quelle","alts":[],"form":""},
+      {"slot":"g|f","f":"agree","s":"Je ne sais pas ___ heure il est exactement.","en":"I don't know exactly what time it is.","a":"quelle","alts":[],"form":""},
+      {"slot":"g|fp","f":"agree","s":"___ sont les langues officielles de la Suisse ?","en":"What are the official languages of Switzerland?","a":"Quelles","alts":[],"form":""},
+      {"slot":"g|fp","f":"agree","s":"Dis-moi ___ chaussures tu veux mettre ce soir.","en":"Tell me which shoes you want to wear tonight.","a":"quelles","alts":[],"form":""}
+    ]
+  },
+  {
+    "id": 147,
+    "qs": [
+      {"slot":"s|0","f":"sense","s":"Il nous a donné une vue ___ de la situation économique.","en":"He gave us an overall view of the economic situation.","a":"générale","alts":[]},
+      {"slot":"s|0","f":"sense","s":"La réunion avait pour but de discuter de l'intérêt ___ du projet.","en":"The meeting aimed to discuss the overall interest of the project.","a":"général","alts":[]},
+      {"slot":"s|1","f":"sense","s":"La méfiance envers les politiciens est devenue un phénomène ___.","en":"Distrust of politicians has become a widespread phenomenon.","a":"général","alts":[]},
+      {"slot":"s|1","f":"sense","s":"Il y avait un accord ___ sur la nécessité de changer les règles.","en":"There was widespread agreement on the need to change the rules.","a":"général","alts":[]},
+      {"slot":"s|2","f":"sense","s":"En règle ___, il vaut mieux arriver à l'heure.","en":"As a general rule, it is better to arrive on time.","a":"générale","alts":[]},
+      {"slot":"s|2","f":"sense","s":"Dans le cas ___, cette procédure suffit pour résoudre le problème.","en":"In the general case, this procedure is enough to solve the problem.","a":"général","alts":[]},
+      {"slot":"g|mp","f":"agree","s":"Les principes ___ de la physique sont enseignés dès le lycée.","en":"The general principles of physics are taught from high school.","a":"généraux","alts":[]},
+      {"slot":"g|mp","f":"agree","s":"Les débats ___ sur l'avenir du pays ont duré toute la soirée.","en":"The general debates on the country's future lasted all evening.","a":"généraux","alts":[]},
+      {"slot":"g|f","f":"agree","s":"La direction ___ de l'entreprise a été confiée à une nouvelle directrice.","en":"The general management of the company was entrusted to a new director.","a":"générale","alts":[]},
+      {"slot":"g|f","f":"agree","s":"L'assemblée ___ se tiendra la semaine prochaine.","en":"The general assembly will be held next week.","a":"générale","alts":[]},
+      {"slot":"g|fp","f":"agree","s":"Les conditions ___ du contrat doivent être acceptées avant de signer.","en":"The general terms of the contract must be accepted before signing.","a":"générales","alts":[]},
+      {"slot":"g|fp","f":"agree","s":"Ces observations ___ s'appliquent à toutes les situations similaires.","en":"These general observations apply to all similar situations.","a":"générales","alts":[]}
+    ]
+  },
+  {
+    "id": 148,
+    "qs": [
+      {"slot":"s|0","f":"sense","s":"C'est le ___ que je préfère dans la journée.","en":"It is the moment I like best in the day.","a":"moment","alts":[],"form":""},
+      {"slot":"s|0","f":"sense","s":"À ce ___ précis, j'ai compris la vérité.","en":"At that precise moment, I understood the truth.","a":"moment","alts":[],"form":""},
+      {"slot":"s|1","f":"sense","s":"Attends un ___, je reviens tout de suite.","en":"Wait a moment, I'll be right back.","a":"moment","alts":[],"form":""},
+      {"slot":"s|1","f":"sense","s":"Elle s'est arrêtée un ___ avant de répondre.","en":"She paused for a moment before answering.","a":"moment","alts":[],"form":""},
+      {"slot":"s|2","f":"sense","s":"Ce n'est pas le bon ___ pour lui annoncer la nouvelle.","en":"This is not the right moment to tell him the news.","a":"moment","alts":[],"form":""},
+      {"slot":"s|2","f":"sense","s":"Il faut choisir le ___ idéal pour intervenir.","en":"You need to choose the ideal moment to step in.","a":"moment","alts":[],"form":""},
+      {"slot":"gender","f":"gender","s":"C'est ___ moment inoubliable.","en":"It is an unforgettable moment.","a":"un","alts":[],"form":""},
+      {"slot":"gender","f":"gender","s":"___ moment est venu de prendre une décision.","en":"The moment has come to make a decision.","a":"Le","alts":[],"form":""}
+    ]
+  }
+]

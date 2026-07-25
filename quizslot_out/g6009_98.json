@@ -1,0 +1,41 @@
+[
+  {
+    "id": 6789,
+    "qs": [
+      {"slot": "s|0", "f": "sense", "s": "Le chat est ___ et bondit sur le mur sans effort.", "a": "agile", "en": "The cat is agile and jumps onto the wall effortlessly.", "alts": []},
+      {"slot": "s|0", "f": "sense", "s": "Le singe est ___ et saute de branche en branche sans difficulté.", "a": "agile", "en": "The monkey is agile and jumps from branch to branch without difficulty.", "alts": []},
+      {"slot": "s|1", "f": "sense", "s": "Son esprit ___ lui permet de résoudre rapidement des problèmes complexes.", "a": "agile", "en": "His agile mind allows him to quickly solve complex problems.", "alts": []},
+      {"slot": "s|1", "f": "sense", "s": "Cette start-up reste ___ face aux évolutions rapides du marché.", "a": "agile", "en": "This startup stays agile in the face of rapid market changes.", "alts": []},
+      {"slot": "g|mp", "f": "agree", "s": "Les joueurs de tennis doivent être très ___ sur le terrain.", "a": "agiles", "en": "Tennis players must be very agile on the court.", "alts": []},
+      {"slot": "g|mp", "f": "agree", "s": "Mes deux frères sont ___, ils font de la gymnastique depuis l'enfance.", "a": "agiles", "en": "My two brothers are agile, they've done gymnastics since childhood.", "alts": []},
+      {"slot": "g|f", "f": "agree", "s": "Ma sœur est très ___, elle danse le ballet depuis dix ans.", "a": "agile", "en": "My sister is very agile, she has danced ballet for ten years.", "alts": []},
+      {"slot": "g|f", "f": "agree", "s": "Cette gymnaste russe est incroyablement ___.", "a": "agile", "en": "This Russian gymnast is incredibly agile.", "alts": []},
+      {"slot": "g|fp", "f": "agree", "s": "Les gymnastes chinoises sont particulièrement ___ pendant leurs exercices.", "a": "agiles", "en": "The Chinese gymnasts are particularly agile during their exercises.", "alts": []},
+      {"slot": "g|fp", "f": "agree", "s": "Mes deux sœurs sont ___ et adorent l'escalade.", "a": "agiles", "en": "My two sisters are agile and love climbing.", "alts": []}
+    ]
+  },
+  {
+    "id": 6790,
+    "qs": [
+      {"slot": "s|0", "f": "sense", "s": "Le musée a organisé un ___ pour célébrer son centième anniversaire.", "en": "The museum organized a gala to celebrate its hundredth anniversary.", "a": "gala", "alts": []},
+      {"slot": "s|0", "f": "sense", "s": "La ville a organisé un ___ pour l'inauguration du nouveau pont.", "en": "The city organized a gala to mark the inauguration of the new bridge.", "a": "gala", "alts": []},
+      {"slot": "s|1", "f": "sense", "s": "Les invités ont dansé jusqu'à l'aube lors du ___ organisé au palace.", "en": "The guests danced until dawn at the grand gala evening held at the hotel.", "a": "gala", "alts": []},
+      {"slot": "s|1", "f": "sense", "s": "Elle a porté une robe longue pour le ___ de fin d'année de l'entreprise.", "en": "She wore a long dress for the company's year-end gala evening.", "a": "gala", "alts": []},
+      {"slot": "gender", "f": "gender", "s": "___ gala organisé hier soir a réuni de nombreuses personnalités.", "en": "The gala organized last night brought together many celebrities.", "a": "Le", "alts": []},
+      {"slot": "gender", "f": "gender", "s": "Nous avons assisté à ___ gala de bienfaisance organisé par la mairie.", "en": "We attended a charity gala organized by the town hall.", "a": "un", "alts": []}
+    ]
+  },
+  {
+    "id": 6791,
+    "qs": [
+      {"slot": "s|0", "f": "sense", "s": "En promenant son chien, il a ramassé une ___ avec un sac plastique.", "a": "crotte", "en": "While walking his dog, he picked up a dropping with a plastic bag.", "alts": [], "form": ""},
+      {"slot": "s|0", "f": "sense", "s": "L'enfant a failli marcher sur une ___ de cheval dans la cour de la ferme.", "a": "crotte", "en": "The child almost stepped on a horse dropping in the farmyard.", "alts": [], "form": ""},
+      {"slot": "s|1", "f": "sense", "s": "Ce vieux briquet cassé ne vaut pas une ___, autant le jeter.", "a": "crotte", "en": "This old broken lighter isn't worth a thing, might as well throw it away.", "alts": [], "form": ""},
+      {"slot": "s|1", "f": "sense", "s": "Il paraît que mon avis ne vaut pas une ___ pour lui.", "a": "crotte", "en": "It seems my opinion is worth nothing to him.", "alts": [], "form": ""},
+      {"slot": "s|2", "f": "sense", "s": "Elle m'a offert une ___ en chocolat fourrée au praliné.", "a": "crotte", "en": "She gave me a chocolate truffle filled with praline.", "alts": [], "form": ""},
+      {"slot": "s|2", "f": "sense", "s": "Après le repas, il a savouré une ___ en chocolat offerte par sa tante.", "a": "crotte", "en": "After the meal, he savored a chocolate truffle given to him by his aunt.", "alts": [], "form": ""},
+      {"slot": "gender", "f": "gender", "s": "___ crotte de chien traînait sur le trottoir.", "a": "Une", "en": "A dog dropping was lying on the sidewalk.", "alts": ["une"], "form": ""},
+      {"slot": "gender", "f": "gender", "s": "Il faut nettoyer ___ crotte laissée par le chat sur le tapis.", "a": "la", "en": "You need to clean the dropping left by the cat on the rug.", "alts": [], "form": ""}
+    ]
+  }
+]

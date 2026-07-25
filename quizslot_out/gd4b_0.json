@@ -1,0 +1,41 @@
+[
+  {
+    "id": 351,
+    "qs": [
+      {"slot": "s|0", "f": "sense", "s": "Dans cette forêt, on trouve une ___ de champignon qu'on ne voit nulle part ailleurs.", "a": "sorte", "en": "In this forest, you can find a kind of mushroom that you won't find anywhere else.", "alts": [], "form": ""},
+      {"slot": "s|0", "f": "sense", "s": "Ce marché propose toutes ___ de fruits exotiques.", "a": "sortes", "en": "This market offers all kinds of exotic fruits.", "alts": [], "form": ""},
+      {"slot": "s|1", "f": "sense", "s": "Ces deux documents n'appartiennent pas à la même ___ .", "a": "sorte", "en": "These two documents do not belong to the same category.", "alts": [], "form": ""},
+      {"slot": "s|1", "f": "sense", "s": "Les contrats sont répartis en plusieurs ___ selon leur objet.", "a": "sortes", "en": "Contracts are divided into several categories according to their subject matter.", "alts": [], "form": ""},
+      {"slot": "s|2", "f": "sense", "s": "Il m'a répondu de la ___ et je ne savais plus quoi dire.", "a": "sorte", "en": "He replied to me in that way and I didn't know what to say anymore.", "alts": [], "form": ""},
+      {"slot": "s|2", "f": "sense", "s": "Elle a organisé les tâches de telle ___ que tout s'est terminé à l'heure.", "a": "sorte", "en": "She organized the tasks in such a way that everything finished on time.", "alts": [], "form": ""},
+      {"slot": "gender", "f": "gender", "s": "C'est ___ sorte de problème qu'on rencontre rarement.", "a": "une", "en": "It is a kind of problem that one rarely encounters.", "alts": [], "form": ""},
+      {"slot": "gender", "f": "gender", "s": "Quelle est ___ sorte de livre que tu préfères lire ?", "a": "la", "en": "What is the kind of book that you prefer to read?", "alts": [], "form": ""}
+    ]
+  },
+  {
+    "id": 352,
+    "qs": [
+      {"slot": "s|0", "f": "sense", "s": "Le projet était ambitieux ; ___, l'équipe a réussi à le terminer dans les délais.", "a": "cependant", "en": "The project was ambitious; however, the team managed to finish it on time.", "alts": ["pourtant", "néanmoins", "toutefois"], "form": ""},
+      {"slot": "s|0", "f": "sense", "s": "Il pleuvait fort ce matin-là ; ___, les enfants sont sortis jouer dans le jardin.", "a": "cependant", "en": "It was raining hard that morning; however, the children went out to play in the garden.", "alts": ["pourtant", "néanmoins", "toutefois"], "form": ""},
+      {"slot": "s|1", "f": "sense", "s": "Je comprends ton point de vue, ___ je ne suis pas du tout d'accord avec toi.", "a": "cependant", "en": "I understand your point of view, but I don't agree with you at all.", "alts": ["pourtant", "néanmoins", "toutefois"], "form": ""},
+      {"slot": "s|1", "f": "sense", "s": "Ce restaurant est très cher ; ___, la qualité de la nourriture laisse à désirer.", "a": "cependant", "en": "This restaurant is very expensive; but the quality of the food leaves something to be desired.", "alts": ["pourtant", "néanmoins", "toutefois"], "form": ""},
+      {"slot": "s|2", "f": "sense", "s": "Les négociations ont échoué plusieurs fois. ___, les deux parties ont décidé de reprendre le dialogue.", "a": "cependant", "en": "The negotiations failed several times. Nonetheless, both parties decided to resume dialogue.", "alts": ["pourtant", "néanmoins", "toutefois", "malgré tout"], "form": ""},
+      {"slot": "s|2", "f": "sense", "s": "La route était longue et fatigante. ___, ils sont arrivés à destination avec le sourire.", "a": "cependant", "en": "The road was long and tiring. Nonetheless, they arrived at their destination with a smile.", "alts": ["pourtant", "néanmoins", "toutefois", "malgré tout"], "form": ""}
+    ]
+  },
+  {
+    "id": 353,
+    "qs": [
+      {"slot": "s|0", "f": "sense", "s": "Le ___ de la réunion d'aujourd'hui est le changement climatique.", "a": "sujet", "en": "The topic of today's meeting is climate change.", "alts": [], "form": ""},
+      {"slot": "s|0", "f": "sense", "s": "Nous avons longuement discuté du ___ de la conférence.", "a": "sujet", "en": "We discussed the topic of the conference at length.", "alts": [], "form": ""},
+      {"slot": "s|1", "f": "sense", "s": "Les mathématiques sont son ___ préféré à l'école.", "a": "sujet", "en": "Mathematics is his favourite school subject.", "alts": [], "form": ""},
+      {"slot": "s|1", "f": "sense", "s": "Elle a choisi la biologie comme ___ principal cette année.", "a": "sujet", "en": "She chose biology as her main subject this year.", "alts": [], "form": ""},
+      {"slot": "s|2", "f": "sense", "s": "Dans cette phrase, « le chat » est le ___ du verbe.", "a": "sujet", "en": "In this sentence, 'the cat' is the subject of the verb.", "alts": [], "form": ""},
+      {"slot": "s|2", "f": "sense", "s": "Le professeur nous a demandé d'identifier le ___ et le verbe dans chaque phrase.", "a": "sujet", "en": "The teacher asked us to identify the subject and the verb in each sentence.", "alts": [], "form": ""},
+      {"slot": "s|3", "f": "sense", "s": "Chaque ___ du roi devait payer un impôt annuel.", "a": "sujet", "en": "Every subject of the king had to pay an annual tax.", "alts": [], "form": ""},
+      {"slot": "s|3", "f": "sense", "s": "Les ___ de la reine lui jurèrent fidélité lors de la cérémonie.", "a": "sujets", "en": "The queen's subjects swore loyalty to her at the ceremony.", "alts": [], "form": ""},
+      {"slot": "gender", "f": "gender", "s": "C'est ___ sujet très intéressant que tu as choisi pour ton exposé.", "a": "un", "en": "It's a very interesting subject you have chosen for your presentation.", "alts": [], "form": ""},
+      {"slot": "gender", "f": "gender", "s": "Quel est ___ sujet de ton mémoire de fin d'études ?", "a": "le", "en": "What is the subject of your final thesis?", "alts": [], "form": ""}
+    ]
+  }
+]

@@ -1,0 +1,43 @@
+[
+  {
+    "id": 4827,
+    "qs": [
+      {"slot":"s|0","f":"sense","s":"Le salaire est ___ au nombre d'heures travaillées.","a":"proportionnel","en":"The salary is proportional to the number of hours worked.","alts":[],"form":""},
+      {"slot":"s|0","f":"sense","s":"L'impôt sur le revenu est ___ aux gains de chaque contribuable.","a":"proportionnel","en":"Income tax is proportional to each taxpayer's earnings.","alts":[],"form":""},
+      {"slot":"s|1","f":"sense","s":"Plusieurs pays utilisent le scrutin ___ pour les élections législatives.","a":"proportionnel","en":"Several countries use the proportional voting system for legislative elections.","alts":[],"form":""},
+      {"slot":"s|1","f":"sense","s":"Le système ___ garantit une meilleure représentation des petits partis.","a":"proportionnel","en":"The proportional system guarantees better representation of smaller parties.","alts":[],"form":""},
+      {"slot":"g|mp","f":"agree","s":"Les risques sont ___ aux investissements réalisés.","a":"proportionnels","en":"The risks are proportional to the investments made.","alts":[],"form":""},
+      {"slot":"g|mp","f":"agree","s":"Les avantages obtenus sont ___ aux efforts fournis par chacun.","a":"proportionnels","en":"The benefits obtained are proportional to the efforts made by each person.","alts":[],"form":""},
+      {"slot":"g|f","f":"agree","s":"La répartition des sièges est ___ au nombre de voix obtenues.","a":"proportionnelle","en":"The distribution of seats is proportional to the number of votes obtained.","alts":[],"form":""},
+      {"slot":"g|f","f":"agree","s":"La prime versée est ___ à la performance annuelle de l'employé.","a":"proportionnelle","en":"The bonus paid is proportional to the employee's annual performance.","alts":[],"form":""},
+      {"slot":"g|fp","f":"agree","s":"Les taxes appliquées sont ___ aux émissions de CO2 de chaque véhicule.","a":"proportionnelles","en":"The taxes applied are proportional to the CO2 emissions of each vehicle.","alts":[],"form":""},
+      {"slot":"g|fp","f":"agree","s":"Les contributions demandées sont ___ aux ressources de chaque membre.","a":"proportionnelles","en":"The contributions requested are proportional to the resources of each member.","alts":[],"form":""}
+    ]
+  },
+  {
+    "id": 4828,
+    "qs": [
+      {"slot":"s|0","f":"sense","s":"Les négociations ont finalement abouti à un ___ satisfaisant pour les deux parties.","a":"aboutissement","en":"The negotiations finally reached a satisfactory outcome for both parties.","alts":[],"form":""},
+      {"slot":"s|0","f":"sense","s":"Le jury attend l'___ de l'enquête avant de rendre son verdict.","a":"aboutissement","en":"The jury is waiting for the result of the investigation before delivering its verdict.","alts":[],"form":""},
+      {"slot":"s|1","f":"sense","s":"Cette rue est l'___ du parcours touristique officiel.","a":"aboutissement","en":"This street is the end point of the official tourist route.","alts":[],"form":""},
+      {"slot":"s|1","f":"sense","s":"Le port est l'___ naturel de la rivière qui traverse la vallée.","a":"aboutissement","en":"The port is the natural terminus of the river that runs through the valley.","alts":[],"form":""},
+      {"slot":"s|2","f":"sense","s":"Ce roman est l'___ de dix ans de recherches et d'écriture.","a":"aboutissement","en":"This novel is the culmination of ten years of research and writing.","alts":[],"form":""},
+      {"slot":"s|2","f":"sense","s":"La médaille d'or est l'___ de toute une vie d'entraînement.","a":"aboutissement","en":"The gold medal is the fruit of a lifetime of training.","alts":[],"form":""},
+      {"slot":"gender","f":"gender","s":"C'est ___ aboutissement remarquable pour ce jeune chercheur.","a":"un","en":"It is a remarkable outcome for this young researcher.","alts":[],"form":""},
+      {"slot":"gender","f":"gender","s":"Quel est ___ aboutissement de ce long processus ?","a":"l'","en":"What is the outcome of this long process?","alts":[],"form":""}
+    ]
+  },
+  {
+    "id": 4829,
+    "qs": [
+      {"slot":"s|0","f":"sense","s":"Les soldats sont rentrés en ___ après la conquête de la ville.","a":"triomphe","en":"The soldiers returned in triumph after the conquest of the city.","alts":[],"form":""},
+      {"slot":"s|0","f":"sense","s":"Le général a été accueilli en ___ par la foule qui l'attendait sur les Champs-Élysées.","a":"triomphe","en":"The general was welcomed in triumph by the crowd waiting for him on the Champs-Élysées.","alts":[],"form":""},
+      {"slot":"s|1","f":"sense","s":"La victoire de l'équipe nationale a été un vrai ___ dans ce tournoi international.","a":"triomphe","en":"The national team's victory was a true triumph in this international tournament.","alts":[],"form":""},
+      {"slot":"s|1","f":"sense","s":"Après des années de lutte, leur ___ sur l'adversaire a enfin été total.","a":"triomphe","en":"After years of struggle, their triumph over the opponent was finally total.","alts":[],"form":""},
+      {"slot":"s|2","f":"sense","s":"Sa dernière pièce de théâtre a été un ___ : toutes les représentations affichaient complet.","a":"triomphe","en":"His latest play was a great success: all performances were sold out.","alts":[],"form":""},
+      {"slot":"s|2","f":"sense","s":"Ce roman a été un véritable ___ littéraire, traduit dans plus de quarante langues.","a":"triomphe","en":"This novel was a tremendous literary success, translated into more than forty languages.","alts":[],"form":""},
+      {"slot":"gender","f":"gender","s":"Napoléon a célébré ___ triomphe en faisant défiler ses troupes à travers Paris.","a":"son","en":"Napoleon celebrated his triumph by parading his troops through Paris.","alts":[],"form":""},
+      {"slot":"gender","f":"gender","s":"C'est ___ triomphe pour toute l'équipe après tant d'efforts.","a":"un","en":"It is a triumph for the whole team after so much effort.","alts":[],"form":""}
+    ]
+  }
+]

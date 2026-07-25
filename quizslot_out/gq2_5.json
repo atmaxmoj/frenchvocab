@@ -1,0 +1,233 @@
+[
+  {
+    "id": 2616,
+    "qs": [
+      {
+        "slot": "s|0",
+        "f": "sense",
+        "s": "Mon voisin est ___ depuis qu'il a perdu son emploi à l'usine l'an dernier.",
+        "en": "My neighbor has been unemployed since he lost his job at the factory last year.",
+        "a": "chômeur",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "s|0",
+        "f": "sense",
+        "s": "Après son licenciement, il s'est déclaré ___ et a commencé à chercher un nouvel emploi.",
+        "en": "After being laid off, he declared himself unemployed and started looking for a new job.",
+        "a": "chômeur",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "s|1",
+        "f": "sense",
+        "s": "Ce jeune homme est ___ ; il n'a jamais occupé de poste depuis la fin de ses études.",
+        "en": "This young man is a person without employment; he has never held a position since finishing his studies.",
+        "a": "chômeur",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "s|1",
+        "f": "sense",
+        "s": "En tant que ___, il doit justifier de l'absence d'activité professionnelle auprès des services sociaux.",
+        "en": "As a person without employment, he must prove his lack of professional activity to the social services.",
+        "a": "chômeur",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "gender",
+        "f": "gender",
+        "s": "Il a rencontré ___ chômeur qui cherchait désespérément du travail.",
+        "en": "He met an unemployed man who was desperately looking for work.",
+        "a": "un",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "gender",
+        "f": "gender",
+        "s": "___ chômeur inscrit à l'agence pour l'emploi peut bénéficier d'une allocation mensuelle.",
+        "en": "The unemployed person registered at the employment agency can receive a monthly benefit.",
+        "a": "Le",
+        "alts": ["Un"],
+        "form": ""
+      }
+    ]
+  },
+  {
+    "id": 2617,
+    "qs": [
+      {
+        "slot": "s|0",
+        "f": "sense",
+        "s": "Ta réponse est ___, bravo !",
+        "en": "Your answer is correct, well done!",
+        "a": "correcte",
+        "alts": ["juste"],
+        "form": ""
+      },
+      {
+        "slot": "s|0",
+        "f": "sense",
+        "s": "Il faut écrire le mot de manière ___ pour éviter les fautes.",
+        "en": "You need to write the word correctly to avoid mistakes.",
+        "a": "correcte",
+        "alts": ["juste"],
+        "form": ""
+      },
+      {
+        "slot": "s|1",
+        "f": "sense",
+        "s": "Il est important d'adopter une tenue ___ lors d'un entretien d'embauche.",
+        "en": "It is important to wear appropriate attire during a job interview.",
+        "a": "correcte",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "s|1",
+        "f": "sense",
+        "s": "Son comportement n'était pas ___ envers les invités.",
+        "en": "His behavior was not proper toward the guests.",
+        "a": "correct",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "g|mp",
+        "f": "agree",
+        "s": "Ses calculs sont ___ .",
+        "en": "His calculations are correct.",
+        "a": "corrects",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "g|mp",
+        "f": "agree",
+        "s": "Les résultats obtenus sont ___ selon le professeur.",
+        "en": "The results obtained are correct according to the teacher.",
+        "a": "corrects",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "g|f",
+        "f": "agree",
+        "s": "La prononciation de ce mot est ___ .",
+        "en": "The pronunciation of this word is correct.",
+        "a": "correcte",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "g|f",
+        "f": "agree",
+        "s": "La solution qu'elle a proposée est ___ .",
+        "en": "The solution she proposed is correct.",
+        "a": "correcte",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "g|fp",
+        "f": "agree",
+        "s": "Toutes ses réponses sont ___ .",
+        "en": "All her answers are correct.",
+        "a": "correctes",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "g|fp",
+        "f": "agree",
+        "s": "Ces informations sont ___ , tu peux les utiliser.",
+        "en": "This information is correct, you can use it.",
+        "a": "correctes",
+        "alts": [],
+        "form": ""
+      }
+    ]
+  },
+  {
+    "id": 2618,
+    "qs": [
+      {
+        "slot": "s|0",
+        "f": "sense",
+        "s": "La ___ est au fond du couloir.",
+        "en": "The kitchen is at the end of the hallway.",
+        "a": "cuisine",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "s|0",
+        "f": "sense",
+        "s": "Il prépare le dîner dans la ___.",
+        "en": "He is preparing dinner in the kitchen.",
+        "a": "cuisine",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "s|1",
+        "f": "sense",
+        "s": "Ma mère m'a appris les bases de la ___ italienne.",
+        "en": "My mother taught me the basics of Italian cooking.",
+        "a": "cuisine",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "s|1",
+        "f": "sense",
+        "s": "Il suit des cours de ___ tous les samedis.",
+        "en": "He takes cooking classes every Saturday.",
+        "a": "cuisine",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "s|2",
+        "f": "sense",
+        "s": "Ce restaurant propose une ___ du monde entier.",
+        "en": "This restaurant offers cuisine from around the world.",
+        "a": "cuisine",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "s|2",
+        "f": "sense",
+        "s": "La ___ méditerranéenne est réputée pour ses saveurs riches.",
+        "en": "Mediterranean cuisine is renowned for its rich flavors.",
+        "a": "cuisine",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "gender",
+        "f": "gender",
+        "s": "___ cuisine de ce chef est exceptionnelle.",
+        "en": "This chef's cooking is exceptional.",
+        "a": "La",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "gender",
+        "f": "gender",
+        "s": "Nous avons aménagé ___ cuisine ouverte dans notre appartement.",
+        "en": "We set up an open kitchen in our apartment.",
+        "a": "une",
+        "alts": [],
+        "form": ""
+      }
+    ]
+  }
+]

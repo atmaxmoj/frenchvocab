@@ -1,0 +1,207 @@
+[
+  {
+    "id": 3962,
+    "qs": [
+      {
+        "slot": "s|0",
+        "f": "sense",
+        "s": "Les élèves ont écouté ___ les explications du professeur.",
+        "a": "attentivement",
+        "en": "The students listened attentively to the teacher's explanations.",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "s|0",
+        "f": "sense",
+        "s": "Elle a suivi ___ le cours de philosophie sans décrocher une seule fois.",
+        "a": "attentivement",
+        "en": "She followed the philosophy class attentively without losing focus even once.",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "s|1",
+        "f": "sense",
+        "s": "Il a lu ___ le contrat avant de le signer.",
+        "a": "attentivement",
+        "en": "He read the contract carefully before signing it.",
+        "alts": ["soigneusement"],
+        "form": ""
+      },
+      {
+        "slot": "s|1",
+        "f": "sense",
+        "s": "La scientifique a examiné ___ les résultats de l'expérience.",
+        "a": "attentivement",
+        "en": "The scientist examined the results of the experiment closely.",
+        "alts": ["soigneusement"],
+        "form": ""
+      }
+    ]
+  },
+  {
+    "id": 3963,
+    "qs": [
+      {
+        "slot": "s|0",
+        "f": "irlandais",
+        "s": "Le whiskey ___ est réputé dans le monde entier.",
+        "a": "irlandais",
+        "en": "Irish whiskey is famous all over the world.",
+        "alts": []
+      },
+      {
+        "slot": "s|0",
+        "f": "irlandais",
+        "s": "Mon ami a épousé une femme d'origine ___ .",
+        "a": "irlandaise",
+        "en": "My friend married a woman of Irish origin.",
+        "alts": []
+      },
+      {
+        "slot": "g|mp",
+        "f": "irlandais",
+        "s": "Les musiciens ___ ont joué lors du festival de Dublin.",
+        "a": "irlandais",
+        "en": "The Irish musicians performed at the Dublin festival.",
+        "alts": []
+      },
+      {
+        "slot": "g|mp",
+        "f": "irlandais",
+        "s": "Ces contes ___ datent de plusieurs siècles.",
+        "a": "irlandais",
+        "en": "These Irish tales date back several centuries.",
+        "alts": []
+      },
+      {
+        "slot": "g|f",
+        "f": "irlandais",
+        "s": "La cuisine ___ est connue pour ses ragoûts savoureux.",
+        "a": "irlandaise",
+        "en": "Irish cuisine is known for its tasty stews.",
+        "alts": []
+      },
+      {
+        "slot": "g|f",
+        "f": "irlandais",
+        "s": "Elle parle la langue ___ depuis son enfance.",
+        "a": "irlandaise",
+        "en": "She has spoken the Irish language since childhood.",
+        "alts": []
+      },
+      {
+        "slot": "g|fp",
+        "f": "irlandais",
+        "s": "Les traditions ___ se transmettent de génération en génération.",
+        "a": "irlandaises",
+        "en": "Irish traditions are passed down from generation to generation.",
+        "alts": []
+      },
+      {
+        "slot": "g|fp",
+        "f": "irlandais",
+        "s": "Les côtes ___ sont souvent battues par les tempêtes atlantiques.",
+        "a": "irlandaises",
+        "en": "The Irish coasts are often battered by Atlantic storms.",
+        "alts": []
+      }
+    ]
+  },
+  {
+    "id": 3964,
+    "qs": [
+      {
+        "slot": "s|0",
+        "f": "sense",
+        "s": "Ce canapé est très ___, on s'y endort facilement.",
+        "a": "confortable",
+        "en": "This sofa is very comfortable; you can easily fall asleep on it.",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "s|0",
+        "f": "sense",
+        "s": "Elle a choisi des chaussures ___ pour la longue randonnée.",
+        "a": "confortables",
+        "en": "She chose comfortable shoes for the long hike.",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "s|1",
+        "f": "sense",
+        "s": "Grâce à son héritage, il mène une vie ___ sans se soucier de l'argent.",
+        "a": "confortable",
+        "en": "Thanks to his inheritance, he leads a comfortable (financially well-off) life without worrying about money.",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "s|1",
+        "f": "sense",
+        "s": "La famille dispose d'un revenu ___ qui lui permet d'épargner chaque mois.",
+        "a": "confortable",
+        "en": "The family has a comfortable (ample) income that allows them to save every month.",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "g|mp",
+        "f": "agree",
+        "s": "Ces fauteuils sont vraiment ___ ; les invités n'ont pas envie de se lever.",
+        "a": "confortables",
+        "en": "These armchairs are really comfortable; the guests don't feel like getting up.",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "g|mp",
+        "f": "agree",
+        "s": "Il a acheté des sièges ___ pour son nouveau bureau.",
+        "a": "confortables",
+        "en": "He bought comfortable seats for his new office.",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "g|f",
+        "f": "agree",
+        "s": "Cette chaise est ___ et idéale pour travailler de longues heures.",
+        "a": "confortable",
+        "en": "This chair is comfortable and ideal for working long hours.",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "g|f",
+        "f": "agree",
+        "s": "Ma chambre d'hôtel était grande et ___, avec une belle vue sur la mer.",
+        "a": "confortable",
+        "en": "My hotel room was large and comfortable, with a beautiful view of the sea.",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "g|fp",
+        "f": "agree",
+        "s": "Ces chambres sont spacieuses et ___ ; les clients en sont très satisfaits.",
+        "a": "confortables",
+        "en": "These rooms are spacious and comfortable; the guests are very satisfied with them.",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "g|fp",
+        "f": "agree",
+        "s": "Elle a remplacé ses vieilles chaises par des chaises plus ___.",
+        "a": "confortables",
+        "en": "She replaced her old chairs with more comfortable ones.",
+        "alts": [],
+        "form": ""
+      }
+    ]
+  }
+]

@@ -1,0 +1,797 @@
+[
+  {
+    "id": 93,
+    "qs": [
+      {
+        "slot": "s|0",
+        "f": "sense",
+        "s": "Le deuxième roman est la ___ du premier.",
+        "a": "suite",
+        "en": "The second novel is the continuation of the first.",
+        "alts": []
+      },
+      {
+        "slot": "s|0",
+        "f": "sense",
+        "s": "Le réalisateur a annoncé qu'il préparait la ___ du film.",
+        "a": "suite",
+        "en": "The director announced that he was preparing the sequel to the film.",
+        "alts": []
+      },
+      {
+        "slot": "s|1",
+        "f": "sense",
+        "s": "À la ___ de l'accident, la route a été fermée pendant plusieurs heures.",
+        "a": "suite",
+        "en": "As a result of the accident, the road was closed for several hours.",
+        "alts": []
+      },
+      {
+        "slot": "s|1",
+        "f": "sense",
+        "s": "Par ___ des fortes pluies, les caves de plusieurs maisons ont été inondées.",
+        "a": "suite",
+        "en": "As a result of the heavy rains, the basements of several houses were flooded.",
+        "alts": []
+      },
+      {
+        "slot": "s|2",
+        "f": "sense",
+        "s": "Nous vous contacterons prochainement pour la ___ de votre dossier.",
+        "a": "suite",
+        "en": "We will contact you soon regarding the follow-up on your file.",
+        "alts": []
+      },
+      {
+        "slot": "s|2",
+        "f": "sense",
+        "s": "Le médecin a recommandé un examen de ___ trois mois après l'opération.",
+        "a": "suite",
+        "en": "The doctor recommended a follow-up examination three months after the operation.",
+        "alts": []
+      },
+      {
+        "slot": "s|3",
+        "f": "sense",
+        "s": "Une ___ de problèmes techniques a retardé le lancement du produit.",
+        "a": "suite",
+        "en": "A series of technical problems delayed the product launch.",
+        "alts": []
+      },
+      {
+        "slot": "s|3",
+        "f": "sense",
+        "s": "Il a commis une ___ d'erreurs qui ont compromis le projet.",
+        "a": "suite",
+        "en": "He made a series of mistakes that jeopardized the project.",
+        "alts": []
+      },
+      {
+        "slot": "s|4",
+        "f": "sense",
+        "s": "Le couple a réservé une ___ avec vue sur la mer pour leur lune de miel.",
+        "a": "suite",
+        "en": "The couple booked a suite with a sea view for their honeymoon.",
+        "alts": []
+      },
+      {
+        "slot": "s|4",
+        "f": "sense",
+        "s": "La ___ présidentielle de cet hôtel dispose d'un salon et de deux chambres.",
+        "a": "suite",
+        "en": "The presidential suite of this hotel has a living room and two bedrooms.",
+        "alts": []
+      },
+      {
+        "slot": "gender",
+        "f": "gender",
+        "s": "Nous attendons tous la ___ de cette série avec impatience.",
+        "a": "la",
+        "en": "We are all eagerly awaiting the continuation of this series.",
+        "alts": []
+      },
+      {
+        "slot": "gender",
+        "f": "gender",
+        "s": "C'est ___ suite logique de ses décisions passées.",
+        "a": "la",
+        "en": "It is the logical consequence of his past decisions.",
+        "alts": []
+      }
+    ]
+  },
+  {
+    "id": 94,
+    "qs": [
+      {
+        "slot": "s|0",
+        "f": "sense",
+        "s": "Il y a du ___ dans chaque expérience difficile, il suffit de le chercher.",
+        "en": "There is some good in every difficult experience, you just have to look for it.",
+        "a": "bon",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "s|0",
+        "f": "sense",
+        "s": "Garde le ___ et laisse de côté ce qui ne t'apporte rien.",
+        "en": "Keep the good and set aside what brings you nothing.",
+        "a": "bon",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "s|1",
+        "f": "sense",
+        "s": "Dans cette philosophie ancienne, le ___ triomphe toujours du mal.",
+        "en": "In this ancient philosophy, good always triumphs over evil.",
+        "a": "bien",
+        "alts": ["bon"],
+        "form": ""
+      },
+      {
+        "slot": "s|1",
+        "f": "sense",
+        "s": "Il consacrait sa vie à faire le ___ autour de lui.",
+        "en": "He devoted his life to doing good around him.",
+        "a": "bien",
+        "alts": ["bon"],
+        "form": ""
+      },
+      {
+        "slot": "s|2",
+        "f": "sense",
+        "s": "Dans les contes de fées, les ___ finissent toujours par vaincre les méchants.",
+        "en": "In fairy tales, the good guys always end up defeating the villains.",
+        "a": "bons",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "s|2",
+        "f": "sense",
+        "s": "On dit parfois que les ___ meurent jeunes, mais c'est une idée reçue.",
+        "en": "People sometimes say that the good die young, but that is a cliché.",
+        "a": "bons",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "s|3",
+        "f": "sense",
+        "s": "J'ai utilisé un ___ de réduction pour acheter ce livre en ligne.",
+        "en": "I used a discount voucher to buy this book online.",
+        "a": "bon",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "s|3",
+        "f": "sense",
+        "s": "Elle a offert un ___ cadeau à sa meilleure amie pour son anniversaire.",
+        "en": "She gave a gift voucher to her best friend for her birthday.",
+        "a": "bon",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "s|4",
+        "f": "sense",
+        "s": "Avec le recul, il a retenu le ___ de cette expérience difficile.",
+        "en": "With hindsight, he kept the good from that difficult experience.",
+        "a": "bon",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "s|4",
+        "f": "sense",
+        "s": "Dans cette situation confuse, il était difficile de distinguer le ___ du mauvais.",
+        "en": "In this confusing situation, it was hard to distinguish the good from the bad.",
+        "a": "bon",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "gender",
+        "f": "gender",
+        "s": "Le vendeur lui a remis ___ bon de livraison après sa commande.",
+        "en": "The salesperson handed him a delivery note after his order.",
+        "a": "un",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "gender",
+        "f": "gender",
+        "s": "Ses amis lui ont offert ___ bon de réduction pour son prochain achat.",
+        "en": "His friends gave him a discount voucher for his next purchase.",
+        "a": "un",
+        "alts": [],
+        "form": ""
+      }
+    ]
+  },
+  {
+    "id": 95,
+    "qs": [
+      {
+        "slot": "t|Présent|0",
+        "f": "tense",
+        "s": "Je ne ___ pas ce que tu veux dire.",
+        "a": "comprends",
+        "en": "I don't understand what you mean.",
+        "alts": [],
+        "form": "Présent"
+      },
+      {
+        "slot": "t|Présent|0",
+        "f": "tense",
+        "s": "Est-ce que tu ___ la question ?",
+        "a": "comprends",
+        "en": "Do you understand the question?",
+        "alts": [],
+        "form": "Présent"
+      },
+      {
+        "slot": "t|Présent|1",
+        "f": "tense",
+        "s": "Mon professeur ___ très bien les élèves.",
+        "a": "comprend",
+        "en": "My teacher understands the students very well.",
+        "alts": [],
+        "form": "Présent"
+      },
+      {
+        "slot": "t|Présent|1",
+        "f": "tense",
+        "s": "On ___ mieux les choses avec de l'expérience.",
+        "a": "comprend",
+        "en": "One understands things better with experience.",
+        "alts": [],
+        "form": "Présent"
+      },
+      {
+        "slot": "t|Présent|2",
+        "f": "tense",
+        "s": "Nous ___ enfin la situation.",
+        "a": "comprenons",
+        "en": "We finally understand the situation.",
+        "alts": [],
+        "form": "Présent"
+      },
+      {
+        "slot": "t|Présent|2",
+        "f": "tense",
+        "s": "Nous ___ pourquoi il est parti si vite.",
+        "a": "comprenons",
+        "en": "We understand why he left so quickly.",
+        "alts": [],
+        "form": "Présent"
+      },
+      {
+        "slot": "t|Présent|3",
+        "f": "tense",
+        "s": "Vous ___ le français couramment ?",
+        "a": "comprenez",
+        "en": "Do you understand French fluently?",
+        "alts": [],
+        "form": "Présent"
+      },
+      {
+        "slot": "t|Présent|3",
+        "f": "tense",
+        "s": "J'espère que vous ___ mes explications.",
+        "a": "comprenez",
+        "en": "I hope you understand my explanations.",
+        "alts": [],
+        "form": "Présent"
+      },
+      {
+        "slot": "t|Présent|4",
+        "f": "tense",
+        "s": "Les enfants ___ vite quand on explique bien.",
+        "a": "comprennent",
+        "en": "Children understand quickly when one explains well.",
+        "alts": [],
+        "form": "Présent"
+      },
+      {
+        "slot": "t|Présent|4",
+        "f": "tense",
+        "s": "Elles ne ___ pas encore la règle.",
+        "a": "comprennent",
+        "en": "They don't understand the rule yet.",
+        "alts": [],
+        "form": "Présent"
+      },
+      {
+        "slot": "t|Passé composé|0",
+        "f": "tense",
+        "s": "J'___ enfin la leçon après de nombreuses répétitions.",
+        "a": "ai compris",
+        "en": "I finally understood the lesson after many repetitions.",
+        "alts": [],
+        "form": "Passé composé"
+      },
+      {
+        "slot": "t|Passé composé|0",
+        "f": "tense",
+        "s": "Hier soir, j'___ ce qu'il voulait.",
+        "a": "ai compris",
+        "en": "Yesterday evening, I understood what he wanted.",
+        "alts": [],
+        "form": "Passé composé"
+      },
+      {
+        "slot": "t|Passé composé|1",
+        "f": "tense",
+        "s": "Tu ___ mal ce que j'ai dit.",
+        "a": "as compris",
+        "en": "You misunderstood what I said.",
+        "alts": [],
+        "form": "Passé composé"
+      },
+      {
+        "slot": "t|Passé composé|1",
+        "f": "tense",
+        "s": "Est-ce que tu ___ toutes les instructions ?",
+        "a": "as compris",
+        "en": "Did you understand all the instructions?",
+        "alts": [],
+        "form": "Passé composé"
+      },
+      {
+        "slot": "t|Passé composé|2",
+        "f": "tense",
+        "s": "Mon ami ___ la blague tout de suite.",
+        "a": "a compris",
+        "en": "My friend understood the joke right away.",
+        "alts": [],
+        "form": "Passé composé"
+      },
+      {
+        "slot": "t|Passé composé|2",
+        "f": "tense",
+        "s": "Elle ___ l'erreur dès le début.",
+        "a": "a compris",
+        "en": "She understood the mistake from the beginning.",
+        "alts": [],
+        "form": "Passé composé"
+      },
+      {
+        "slot": "t|Passé composé|3",
+        "f": "tense",
+        "s": "Nous ___ la décision du directeur.",
+        "a": "avons compris",
+        "en": "We understood the director's decision.",
+        "alts": [],
+        "form": "Passé composé"
+      },
+      {
+        "slot": "t|Passé composé|3",
+        "f": "tense",
+        "s": "Nous n'___ pas bien les consignes.",
+        "a": "avons compris",
+        "en": "We didn't understand the instructions well.",
+        "alts": [],
+        "form": "Passé composé"
+      },
+      {
+        "slot": "t|Passé composé|4",
+        "f": "tense",
+        "s": "Vous ___ ce qu'on attendait de vous ?",
+        "a": "avez compris",
+        "en": "Did you understand what was expected of you?",
+        "alts": [],
+        "form": "Passé composé"
+      },
+      {
+        "slot": "t|Passé composé|4",
+        "f": "tense",
+        "s": "J'espère que vous ___ le message.",
+        "a": "avez compris",
+        "en": "I hope you understood the message.",
+        "alts": [],
+        "form": "Passé composé"
+      },
+      {
+        "slot": "t|Passé composé|5",
+        "f": "tense",
+        "s": "Les étudiants ___ le cours dès la première heure.",
+        "a": "ont compris",
+        "en": "The students understood the lesson from the first hour.",
+        "alts": [],
+        "form": "Passé composé"
+      },
+      {
+        "slot": "t|Passé composé|5",
+        "f": "tense",
+        "s": "Ils ___ finalement la vérité.",
+        "a": "ont compris",
+        "en": "They finally understood the truth.",
+        "alts": [],
+        "form": "Passé composé"
+      },
+      {
+        "slot": "t|Imparfait|0",
+        "f": "tense",
+        "s": "Quand j'étais petit, je ne ___ pas l'algèbre.",
+        "a": "comprenais",
+        "en": "When I was young, I didn't understand algebra.",
+        "alts": [],
+        "form": "Imparfait"
+      },
+      {
+        "slot": "t|Imparfait|0",
+        "f": "tense",
+        "s": "Tu ___ tout ce que le professeur disait ?",
+        "a": "comprenais",
+        "en": "Did you understand everything the teacher said?",
+        "alts": [],
+        "form": "Imparfait"
+      },
+      {
+        "slot": "t|Imparfait|1",
+        "f": "tense",
+        "s": "Mon frère ___ toujours les règles du jeu.",
+        "a": "comprenait",
+        "en": "My brother always understood the rules of the game.",
+        "alts": [],
+        "form": "Imparfait"
+      },
+      {
+        "slot": "t|Imparfait|1",
+        "f": "tense",
+        "s": "Elle ___ mal les instructions à l'époque.",
+        "a": "comprenait",
+        "en": "She didn't understand the instructions well back then.",
+        "alts": [],
+        "form": "Imparfait"
+      },
+      {
+        "slot": "t|Imparfait|2",
+        "f": "tense",
+        "s": "Nous ___ mieux la langue après quelques mois.",
+        "a": "comprenions",
+        "en": "We understood the language better after a few months.",
+        "alts": [],
+        "form": "Imparfait"
+      },
+      {
+        "slot": "t|Imparfait|2",
+        "f": "tense",
+        "s": "Nous ne ___ pas encore ses intentions.",
+        "a": "comprenions",
+        "en": "We didn't yet understand his intentions.",
+        "alts": [],
+        "form": "Imparfait"
+      },
+      {
+        "slot": "t|Imparfait|3",
+        "f": "tense",
+        "s": "Vous ___ bien le dialecte local à cette époque ?",
+        "a": "compreniez",
+        "en": "Did you understand the local dialect well at that time?",
+        "alts": [],
+        "form": "Imparfait"
+      },
+      {
+        "slot": "t|Imparfait|3",
+        "f": "tense",
+        "s": "Je savais que vous ___ la gravité de la situation.",
+        "a": "compreniez",
+        "en": "I knew that you understood the seriousness of the situation.",
+        "alts": [],
+        "form": "Imparfait"
+      },
+      {
+        "slot": "t|Imparfait|4",
+        "f": "tense",
+        "s": "Les habitants ___ peu la langue étrangère.",
+        "a": "comprenaient",
+        "en": "The inhabitants understood little of the foreign language.",
+        "alts": [],
+        "form": "Imparfait"
+      },
+      {
+        "slot": "t|Imparfait|4",
+        "f": "tense",
+        "s": "Elles ___ enfin pourquoi c'était si difficile.",
+        "a": "comprenaient",
+        "en": "They finally understood why it was so difficult.",
+        "alts": [],
+        "form": "Imparfait"
+      },
+      {
+        "slot": "t|Futur|0",
+        "f": "tense",
+        "s": "Un jour, je ___ mieux cette langue.",
+        "a": "comprendrai",
+        "en": "One day, I will understand this language better.",
+        "alts": [],
+        "form": "Futur"
+      },
+      {
+        "slot": "t|Futur|0",
+        "f": "tense",
+        "s": "Quand je serai plus grand, je ___ ces concepts.",
+        "a": "comprendrai",
+        "en": "When I am older, I will understand these concepts.",
+        "alts": [],
+        "form": "Futur"
+      },
+      {
+        "slot": "t|Futur|1",
+        "f": "tense",
+        "s": "Tu ___ la vérité quand tu liras cette lettre.",
+        "a": "comprendras",
+        "en": "You will understand the truth when you read this letter.",
+        "alts": [],
+        "form": "Futur"
+      },
+      {
+        "slot": "t|Futur|1",
+        "f": "tense",
+        "s": "Plus tard, tu ___ pourquoi j'ai pris cette décision.",
+        "a": "comprendras",
+        "en": "Later, you will understand why I made this decision.",
+        "alts": [],
+        "form": "Futur"
+      },
+      {
+        "slot": "t|Futur|2",
+        "f": "tense",
+        "s": "Il ___ la leçon quand il sera plus concentré.",
+        "a": "comprendra",
+        "en": "He will understand the lesson when he is more focused.",
+        "alts": [],
+        "form": "Futur"
+      },
+      {
+        "slot": "t|Futur|2",
+        "f": "tense",
+        "s": "On ___ mieux la situation demain matin.",
+        "a": "comprendra",
+        "en": "One will understand the situation better tomorrow morning.",
+        "alts": [],
+        "form": "Futur"
+      },
+      {
+        "slot": "t|Futur|3",
+        "f": "tense",
+        "s": "Nous ___ tout après la réunion.",
+        "a": "comprendrons",
+        "en": "We will understand everything after the meeting.",
+        "alts": [],
+        "form": "Futur"
+      },
+      {
+        "slot": "t|Futur|3",
+        "f": "tense",
+        "s": "Nous ___ mieux le problème si tu nous expliques.",
+        "a": "comprendrons",
+        "en": "We will understand the problem better if you explain to us.",
+        "alts": [],
+        "form": "Futur"
+      },
+      {
+        "slot": "t|Futur|4",
+        "f": "tense",
+        "s": "Vous ___ les enjeux dès que vous lirez le rapport.",
+        "a": "comprendrez",
+        "en": "You will understand the stakes as soon as you read the report.",
+        "alts": [],
+        "form": "Futur"
+      },
+      {
+        "slot": "t|Futur|4",
+        "f": "tense",
+        "s": "Je suis sûr que vous ___ notre point de vue.",
+        "a": "comprendrez",
+        "en": "I am sure you will understand our point of view.",
+        "alts": [],
+        "form": "Futur"
+      },
+      {
+        "slot": "t|Futur|5",
+        "f": "tense",
+        "s": "Les élèves ___ mieux avec plus de pratique.",
+        "a": "comprendront",
+        "en": "The students will understand better with more practice.",
+        "alts": [],
+        "form": "Futur"
+      },
+      {
+        "slot": "t|Futur|5",
+        "f": "tense",
+        "s": "Ils ___ l'importance de cette décision un jour.",
+        "a": "comprendront",
+        "en": "They will understand the importance of this decision one day.",
+        "alts": [],
+        "form": "Futur"
+      },
+      {
+        "slot": "t|Conditionnel|0",
+        "f": "tense",
+        "s": "Je ___ mieux si tu parlais plus lentement.",
+        "a": "comprendrais",
+        "en": "I would understand better if you spoke more slowly.",
+        "alts": [],
+        "form": "Conditionnel"
+      },
+      {
+        "slot": "t|Conditionnel|0",
+        "f": "tense",
+        "s": "À ta place, tu ___ pourquoi il est en colère.",
+        "a": "comprendrais",
+        "en": "In your position, you would understand why he is angry.",
+        "alts": [],
+        "form": "Conditionnel"
+      },
+      {
+        "slot": "t|Conditionnel|1",
+        "f": "tense",
+        "s": "Mon père ___ si on lui donnait plus de détails.",
+        "a": "comprendrait",
+        "en": "My father would understand if we gave him more details.",
+        "alts": [],
+        "form": "Conditionnel"
+      },
+      {
+        "slot": "t|Conditionnel|1",
+        "f": "tense",
+        "s": "Elle ___ mieux avec une bonne traduction.",
+        "a": "comprendrait",
+        "en": "She would understand better with a good translation.",
+        "alts": [],
+        "form": "Conditionnel"
+      },
+      {
+        "slot": "t|Conditionnel|2",
+        "f": "tense",
+        "s": "Nous ___ davantage si tu nous aidais.",
+        "a": "comprendrions",
+        "en": "We would understand more if you helped us.",
+        "alts": [],
+        "form": "Conditionnel"
+      },
+      {
+        "slot": "t|Conditionnel|2",
+        "f": "tense",
+        "s": "Nous ___ la règle avec plus d'exemples.",
+        "a": "comprendrions",
+        "en": "We would understand the rule with more examples.",
+        "alts": [],
+        "form": "Conditionnel"
+      },
+      {
+        "slot": "t|Conditionnel|3",
+        "f": "tense",
+        "s": "Vous ___ mieux si vous écoutiez attentivement.",
+        "a": "comprendriez",
+        "en": "You would understand better if you listened carefully.",
+        "alts": [],
+        "form": "Conditionnel"
+      },
+      {
+        "slot": "t|Conditionnel|3",
+        "f": "tense",
+        "s": "Avec plus d'entraînement, vous ___ le texte facilement.",
+        "a": "comprendriez",
+        "en": "With more practice, you would understand the text easily.",
+        "alts": [],
+        "form": "Conditionnel"
+      },
+      {
+        "slot": "t|Conditionnel|4",
+        "f": "tense",
+        "s": "Mes collègues ___ si on leur expliquait clairement.",
+        "a": "comprendraient",
+        "en": "My colleagues would understand if we explained clearly.",
+        "alts": [],
+        "form": "Conditionnel"
+      },
+      {
+        "slot": "t|Conditionnel|4",
+        "f": "tense",
+        "s": "Elles ___ mieux avec un exemple concret.",
+        "a": "comprendraient",
+        "en": "They would understand better with a concrete example.",
+        "alts": [],
+        "form": "Conditionnel"
+      },
+      {
+        "slot": "t|Subjonctif",
+        "f": "subj",
+        "s": "Il faut que tu ___ la gravité de la situation.",
+        "a": "comprennes",
+        "en": "It is necessary that you understand the seriousness of the situation.",
+        "alts": [],
+        "form": "Subjonctif"
+      },
+      {
+        "slot": "t|Subjonctif",
+        "f": "subj",
+        "s": "Je veux qu'elle ___ ce que j'ai voulu dire.",
+        "a": "comprenne",
+        "en": "I want her to understand what I meant.",
+        "alts": [],
+        "form": "Subjonctif"
+      },
+      {
+        "slot": "s|0",
+        "f": "sense",
+        "s": "Je fais des efforts pour ___ sa façon de penser.",
+        "a": "comprendre",
+        "en": "I am making an effort to understand his way of thinking.",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "s|0",
+        "f": "sense",
+        "s": "Il est difficile de ___ une langue étrangère sans l'étudier.",
+        "a": "comprendre",
+        "en": "It is difficult to understand a foreign language without studying it.",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "s|1",
+        "f": "sense",
+        "s": "Tu peux me répéter ? Je n'ai pas bien ___ .",
+        "a": "compris",
+        "en": "Can you repeat? I didn't quite get it.",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "s|1",
+        "f": "sense",
+        "s": "Ah, j'ai ___ ! Tu veux qu'on parte maintenant.",
+        "a": "compris",
+        "en": "Ah, I get it! You want us to leave now.",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "s|2",
+        "f": "sense",
+        "s": "Le prix ___ les taxes et les frais de livraison.",
+        "a": "comprend",
+        "en": "The price includes taxes and delivery fees.",
+        "alts": ["inclut"],
+        "form": ""
+      },
+      {
+        "slot": "s|2",
+        "f": "sense",
+        "s": "Le forfait ___ dix heures de cours par semaine.",
+        "a": "comprend",
+        "en": "The package includes ten hours of lessons per week.",
+        "alts": ["inclut"],
+        "form": ""
+      },
+      {
+        "slot": "s|3",
+        "f": "sense",
+        "s": "Ce territoire ___ plusieurs régions autonomes.",
+        "a": "comprend",
+        "en": "This territory contains several autonomous regions.",
+        "alts": ["contient", "inclut"],
+        "form": ""
+      },
+      {
+        "slot": "s|3",
+        "f": "sense",
+        "s": "La bibliothèque ___ plus de cinquante mille ouvrages.",
+        "a": "comprend",
+        "en": "The library contains more than fifty thousand volumes.",
+        "alts": ["contient", "inclut"],
+        "form": ""
+      }
+    ]
+  }
+]

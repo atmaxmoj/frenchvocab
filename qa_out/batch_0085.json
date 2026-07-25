@@ -1,0 +1,20 @@
+[
+  {
+    "id": "684",
+    "fix": {
+      "examples": [
+        {
+          "fr": "Le sénateur a pris la parole pour défendre le projet de loi sur l'environnement.",
+          "en": "The senator spoke up to defend the environmental bill.",
+          "target": "sénateur"
+        },
+        {
+          "fr": "Réélu sénateur pour la troisième fois, il est devenu le président de la commission des finances.",
+          "en": "Re-elected senator for the third time, he became the chair of the finance committee.",
+          "target": "sénateur"
+        }
+      ]
+    },
+    "reasons": ["second example used feminine subject 'Élue ... elle' with masculine noun 'sénateur' (should be 'sénatrice'); rewritten with consistent masculine agreement matching the headword 'sénateur'"]
+  }
+]

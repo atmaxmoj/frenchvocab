@@ -1,0 +1,39 @@
+[
+  {
+    "id": 6225,
+    "qs": [
+      {"slot": "s|0", "f": "sense", "s": "La police enquête sur un ___ qui a eu lieu dans notre quartier hier soir.", "a": "cambriolage", "en": "The police are investigating a burglary that took place in our neighborhood last night.", "alts": []},
+      {"slot": "s|0", "f": "sense", "s": "Ils ont subi un ___ pendant leurs vacances d'été.", "a": "cambriolage", "en": "They suffered a burglary during their summer vacation.", "alts": []},
+      {"slot": "s|1", "f": "sense", "s": "Le voleur a commis un ___ en pleine nuit en forçant la porte d'entrée.", "a": "cambriolage", "en": "The thief carried out a break-in in the middle of the night by forcing the front door.", "alts": []},
+      {"slot": "s|1", "f": "sense", "s": "Un ___ a été signalé dans la bijouterie du centre-ville.", "a": "cambriolage", "en": "A break-in was reported at the downtown jewelry store.", "alts": []},
+      {"slot": "gender", "f": "gender", "s": "Hier soir, ___ cambriolage a eu lieu dans une villa isolée en Provence.", "a": "un", "en": "Last night, a burglary took place in an isolated villa in Provence.", "alts": []},
+      {"slot": "gender", "f": "gender", "s": "La police a confirmé que ___ cambriolage de cette bijouterie avait été commis par un professionnel.", "a": "le", "en": "The police confirmed that the burglary of this jewelry store had been carried out by a professional.", "alts": []}
+    ]
+  },
+  {
+    "id": 6226,
+    "qs": [
+      {"slot": "s|0", "f": "sense", "s": "Elle a décidé d'étudier l'___ à l'université pour devenir archéologue.", "a": "archéologie", "en": "She decided to study archaeology at university to become an archaeologist.", "alts": []},
+      {"slot": "s|0", "f": "sense", "s": "Les fouilles menées cet été ont beaucoup enrichi nos connaissances en ___.", "a": "archéologie", "en": "The excavations carried out this summer greatly enriched our knowledge of archaeology.", "alts": []},
+      {"slot": "gender", "f": "gender", "s": "___ archéologie moderne utilise de nombreuses technologies de pointe.", "a": "Cette", "en": "This modern archaeology uses many advanced technologies.", "alts": []},
+      {"slot": "gender", "f": "gender", "s": "Le professeur a présenté ___ archéologie entièrement nouvelle, fondée sur l'imagerie satellite.", "a": "une", "en": "The professor presented an entirely new archaeology, based on satellite imagery.", "alts": []}
+    ]
+  },
+  {
+    "id": 6227,
+    "qs": [
+      {"slot": "s|0", "f": "sense", "s": "L'exploit ___ de ce héros restera gravé dans l'histoire.", "a": "glorieux", "en": "This hero's glorious feat will remain etched in history.", "alts": [], "form": ""},
+      {"slot": "s|0", "f": "sense", "s": "Ce soldat a reçu une médaille pour son acte ___ pendant la guerre.", "a": "glorieux", "en": "This soldier received a medal for his glorious act during the war.", "alts": [], "form": ""},
+      {"slot": "s|1", "f": "sense", "s": "Louis XIV a connu un règne ___ marqué par de grandes victoires militaires.", "a": "glorieux", "en": "Louis XIV had a glorious reign marked by great military victories.", "alts": [], "form": ""},
+      {"slot": "s|1", "f": "sense", "s": "Ce club de football a vécu un passé ___ dans les années 1990.", "a": "glorieux", "en": "This football club had a glorious past in the 1990s.", "alts": [], "form": ""},
+      {"slot": "s|2", "f": "sense", "s": "Selon la théologie chrétienne, le Christ ressuscité possède un corps ___.", "a": "glorieux", "en": "According to Christian theology, the risen Christ has a glorified body.", "alts": [], "form": ""},
+      {"slot": "s|2", "f": "sense", "s": "Les mystères ___ du rosaire évoquent la résurrection et l'ascension du Christ.", "a": "glorieux", "en": "The Glorious Mysteries of the rosary evoke the resurrection and ascension of Christ.", "alts": [], "form": ""},
+      {"slot": "g|mp", "f": "agree", "s": "Les combats ___ de nos ancêtres sont enseignés à l'école.", "a": "glorieux", "en": "Our ancestors' glorious battles are taught in school.", "alts": [], "form": ""},
+      {"slot": "g|mp", "f": "agree", "s": "Ses exploits ___ ont marqué l'histoire du sport français.", "a": "glorieux", "en": "His glorious feats marked the history of French sports.", "alts": [], "form": ""},
+      {"slot": "g|f", "f": "agree", "s": "L'armée a remporté une victoire ___ lors de cette bataille décisive.", "a": "glorieuse", "en": "The army won a glorious victory in this decisive battle.", "alts": [], "form": ""},
+      {"slot": "g|f", "f": "agree", "s": "Cette entreprise connaît une réussite ___ depuis son lancement.", "a": "glorieuse", "en": "This company has enjoyed glorious success since its launch.", "alts": [], "form": ""},
+      {"slot": "g|fp", "f": "agree", "s": "Les années ___ de la Belle Époque ont marqué la culture parisienne.", "a": "glorieuses", "en": "The glorious years of the Belle Époque marked Parisian culture.", "alts": [], "form": ""},
+      {"slot": "g|fp", "f": "agree", "s": "Ses victoires ___ lui ont valu une reconnaissance internationale.", "a": "glorieuses", "en": "Her glorious victories earned her international recognition.", "alts": [], "form": ""}
+    ]
+  }
+]

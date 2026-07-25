@@ -1,0 +1,225 @@
+[
+  {
+    "id": 1501,
+    "qs": [
+      {
+        "slot": "s|0",
+        "f": "sense",
+        "s": "Le professeur a demandé aux élèves d'analyser le ___ de cet article.",
+        "a": "contenu",
+        "en": "The teacher asked the students to analyze the content of this article.",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "s|0",
+        "f": "sense",
+        "s": "Je n'ai pas encore vérifié le ___ de ce message.",
+        "a": "contenu",
+        "en": "I haven't checked the content of this message yet.",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "s|1",
+        "f": "sense",
+        "s": "Le douanier a inspecté le ___ de la valise avant de la laisser passer.",
+        "a": "contenu",
+        "en": "The customs officer inspected the contents of the suitcase before letting it through.",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "s|1",
+        "f": "sense",
+        "s": "Elle a vidé le ___ du tiroir sur la table pour retrouver ses clés.",
+        "a": "contenu",
+        "en": "She emptied the contents of the drawer onto the table to find her keys.",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "g|mp",
+        "f": "agree",
+        "s": "Les enfants sont ___ de leurs cadeaux de Noël.",
+        "a": "contents",
+        "en": "The children are satisfied with their Christmas gifts.",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "g|mp",
+        "f": "agree",
+        "s": "Mes collègues semblent ___ des résultats obtenus cette année.",
+        "a": "contents",
+        "en": "My colleagues seem satisfied with the results obtained this year.",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "g|f",
+        "f": "agree",
+        "s": "Ma mère est ___ de voir toute la famille réunie.",
+        "a": "contente",
+        "en": "My mother is happy to see the whole family gathered.",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "g|f",
+        "f": "agree",
+        "s": "Elle est rentrée ___ de son entretien d'embauche.",
+        "a": "contente",
+        "en": "She came home satisfied with her job interview.",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "g|fp",
+        "f": "agree",
+        "s": "Les deux sœurs sont ___ d'avoir enfin trouvé un appartement.",
+        "a": "contentes",
+        "en": "The two sisters are happy to have finally found an apartment.",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "g|fp",
+        "f": "agree",
+        "s": "Elles semblent ___ de la décision prise par le jury.",
+        "a": "contentes",
+        "en": "They seem satisfied with the decision made by the jury.",
+        "alts": [],
+        "form": ""
+      }
+    ]
+  },
+  {
+    "id": 1502,
+    "qs": [
+      {
+        "slot": "s|0",
+        "f": "sense",
+        "s": "Quelle est la ___ entre Paris et Lyon ?",
+        "a": "distance",
+        "en": "What is the distance between Paris and Lyon?",
+        "alts": []
+      },
+      {
+        "slot": "s|0",
+        "f": "sense",
+        "s": "Le marathon couvre une ___ de 42 kilomètres.",
+        "a": "distance",
+        "en": "The marathon covers a distance of 42 kilometres.",
+        "alts": []
+      },
+      {
+        "slot": "s|1",
+        "f": "sense",
+        "s": "L'architecte a mesuré la ___ entre les deux colonnes.",
+        "a": "distance",
+        "en": "The architect measured the spacing between the two columns.",
+        "alts": []
+      },
+      {
+        "slot": "s|1",
+        "f": "sense",
+        "s": "Respectez une ___ de sécurité entre votre voiture et celle qui vous précède.",
+        "a": "distance",
+        "en": "Keep a safety gap between your car and the one ahead of you.",
+        "alts": []
+      },
+      {
+        "slot": "s|2",
+        "f": "sense",
+        "s": "On apercevait des lumières dans la ___.",
+        "a": "distance",
+        "en": "Lights could be seen in the distance.",
+        "alts": []
+      },
+      {
+        "slot": "s|2",
+        "f": "sense",
+        "s": "À ___, on distinguait la silhouette d'une montagne enneigée.",
+        "a": "distance",
+        "en": "In the distance, one could make out the outline of a snowy mountain.",
+        "alts": []
+      },
+      {
+        "slot": "gender",
+        "f": "gender",
+        "s": "La ___ entre les deux villes est d'environ cent kilomètres.",
+        "a": "la",
+        "en": "The distance between the two towns is about one hundred kilometres.",
+        "alts": []
+      },
+      {
+        "slot": "gender",
+        "f": "gender",
+        "s": "Ils maintiennent ___ distance raisonnable entre eux pendant la randonnée.",
+        "a": "une",
+        "en": "They keep a reasonable distance between them during the hike.",
+        "alts": []
+      }
+    ]
+  },
+  {
+    "id": 1503,
+    "qs": [
+      {
+        "slot": "s|0",
+        "f": "sense",
+        "s": "En ___, les feuilles des arbres deviennent rouges et oranges.",
+        "a": "automne",
+        "en": "In autumn, the leaves of the trees turn red and orange.",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "s|0",
+        "f": "sense",
+        "s": "Il fait frais en ___ et les journées raccourcissent.",
+        "a": "automne",
+        "en": "It is cool in autumn and the days get shorter.",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "s|1",
+        "f": "sense",
+        "s": "La récolte des vendanges se fait au cours de l'___.",
+        "a": "automne",
+        "en": "The grape harvest takes place during the autumn season.",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "s|1",
+        "f": "sense",
+        "s": "L'___ est la saison qui suit l'été et précède l'hiver.",
+        "a": "automne",
+        "en": "Autumn is the season that follows summer and precedes winter.",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "gender",
+        "f": "gender",
+        "s": "Mon fils préfère ___ automne à toutes les autres saisons.",
+        "a": "l'",
+        "en": "My son prefers autumn to all the other seasons.",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "gender",
+        "f": "gender",
+        "s": "Il y avait ___ automne particulièrement chaud cette année-là.",
+        "a": "un",
+        "en": "There was a particularly warm autumn that year.",
+        "alts": [],
+        "form": ""
+      }
+    ]
+  }
+]

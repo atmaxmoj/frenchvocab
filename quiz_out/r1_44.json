@@ -1,0 +1,72 @@
+[
+  {
+    "id": "230",
+    "qs": [
+      {"f": "sense", "s": "Il a étudié la physique, ___ la chimie, et finalement les mathématiques.", "en": "He studied physics, then chemistry, and finally mathematics.", "a": "puis", "alts": ["ensuite"], "form": "temporal sequence"},
+      {"f": "sense", "s": "Il a plu toute la journée, ___ la route était glissante et dangereuse.", "en": "It rained all day, so the road was slippery and dangerous.", "a": "donc", "alts": [], "form": "causal consequence"},
+      {"f": "sense", "s": "Elle a oublié ses clés, ___ elle a dû demander à son voisin d'ouvrir la porte.", "en": "She forgot her keys, so she had to ask her neighbor to open the door.", "a": "donc", "alts": [], "form": "causal consequence"}
+    ]
+  },
+  {
+    "id": "231",
+    "qs": [
+      {"f": "tense", "s": "Ne ___ pas ce vase, il est très fragile.", "en": "Don't touch that vase, it is very fragile.", "a": "touche", "alts": [], "form": "Impératif (tu)"},
+      {"f": "tense", "s": "Elle ___ le bras du patient pour vérifier sa température.", "en": "She touches the patient's arm to check his temperature.", "a": "touche", "alts": [], "form": "Présent (elle)"},
+      {"f": "tense", "s": "Vous ___ les cordes de la guitare avec délicatesse.", "en": "You touch the guitar strings gently.", "a": "touchez", "alts": [], "form": "Présent (vous)"},
+      {"f": "tense", "s": "Les enfants ___ le sable chaud de la plage avec leurs petites mains.", "en": "The children touch the warm sand of the beach.", "a": "touchent", "alts": [], "form": "Présent (ils)"},
+      {"f": "tense", "s": "J'___ le tableau de maître à la galerie hier.", "en": "I touched the masterpiece at the gallery yesterday.", "a": "ai touché", "alts": [], "form": "Passé composé (je)"},
+      {"f": "tense", "s": "Tu ___ ta prime de Noël la semaine dernière.", "en": "You received your Christmas bonus last week.", "a": "as touché", "alts": [], "form": "Passé composé (tu)"},
+      {"f": "tense", "s": "Ils ___ le feu accidentellement et se sont brûlé les doigts.", "en": "They touched the fire by accident and burned their fingers.", "a": "ont touché", "alts": [], "form": "Passé composé (ils)"},
+      {"f": "tense", "s": "Il ___ régulièrement son allocation mensuelle de l'État à cette époque.", "en": "He was regularly receiving his monthly allowance from the state back then.", "a": "touchait", "alts": [], "form": "Imparfait (il)"},
+      {"f": "tense", "s": "Vous ___ l'argent chaque trimestre à cette époque.", "en": "You were receiving money every quarter back then.", "a": "touchiez", "alts": [], "form": "Imparfait (vous)"},
+      {"f": "tense", "s": "Je ___ ta main demain matin quand nous nous reverrons.", "en": "I will touch your hand tomorrow morning when we see each other again.", "a": "toucherai", "alts": [], "form": "Futur (je)"},
+      {"f": "tense", "s": "Tu ___ ton salaire le premier du mois prochain.", "en": "You will receive your salary the first of next month.", "a": "toucheras", "alts": [], "form": "Futur (tu)"},
+      {"f": "tense", "s": "Ce problème ___ tous les citoyens du pays dans les années à venir.", "en": "This problem will affect all citizens of the country in the years to come.", "a": "touchera", "alts": [], "form": "Futur (il)"},
+      {"f": "tense", "s": "Nous ___ le cœur de l'audience avec notre nouvelle pièce le mois prochain.", "en": "We will move the hearts of the audience with our new play next month.", "a": "toucherons", "alts": [], "form": "Futur (nous)"},
+      {"f": "tense", "s": "Tu ___ une prime si tu terminais ton travail avant vendredi.", "en": "You would receive a bonus if you finished your work before Friday.", "a": "toucherais", "alts": [], "form": "Conditionnel (tu)"},
+      {"f": "tense", "s": "Elle ___ son cœur s'il savait la vérité.", "en": "His heart would be moved if he knew the truth.", "a": "toucherait", "alts": [], "form": "Conditionnel (elle)"},
+      {"f": "tense", "s": "Vous ___ plus d'attention si les médias en parlaient davantage.", "en": "You would pay more attention if the media talked about it more.", "a": "toucheriez", "alts": [], "form": "Conditionnel (vous)"},
+      {"f": "tense", "s": "Il faut que je ___ à ce sujet dans mon discours.", "en": "I must address that subject in my speech.", "a": "touche", "alts": [], "form": "Subjonctif (je)"},
+      {"f": "tense", "s": "Je doute que tu ___ le sommet sans préparation physique.", "en": "I doubt that you reach the top without physical preparation.", "a": "touches", "alts": [], "form": "Subjonctif (tu)"},
+      {"f": "tense", "s": "Pourvu qu'il ___ sa rémunération à temps.", "en": "Provided that he receives his pay on time.", "a": "touche", "alts": [], "form": "Subjonctif (il)"},
+      {"f": "tense", "s": "Je crains que ces nouvelles ___ profondément les familles.", "en": "I fear that this news will deeply move the families.", "a": "touchent", "alts": [], "form": "Subjonctif (ils)"},
+      {"f": "sense", "s": "Les doigts du musicien ___ les touches blanches et noires du piano.", "en": "The musician's fingers touch the black and white keys of the piano.", "a": "touchent", "alts": [], "form": "contact physique (présent, ils)"},
+      {"f": "sense", "s": "Les survivants de l'accident ___ une indemnisation du gouvernement le mois dernier.", "en": "The accident survivors received compensation from the government last month.", "a": "ont touché", "alts": [], "form": "recevoir de l'argent (passé composé)"},
+      {"f": "tense", "s": "___ mon épaule ! Je suis là pour t'aider.", "en": "Touch my shoulder! I'm here to help you.", "a": "Touche", "alts": [], "form": "Impératif affirmatif (tu)"},
+      {"f": "tense", "s": "___ les enfants doucement en les mettant au lit.", "en": "Touch the children gently when putting them to bed.", "a": "Touchez", "alts": [], "form": "Impératif affirmatif (vous)"}
+    ]
+  },
+  {
+    "id": "232",
+    "qs": [
+      {"f": "gender", "s": "J'ai pris ___ train de minuit pour aller à Paris.", "en": "I took the midnight train to go to Paris.", "a": "le", "alts": [], "form": "article défini, masculin singulier"},
+      {"f": "gender", "s": "Elle attend ___ train depuis une heure.", "en": "She has been waiting for the train for an hour.", "a": "le", "alts": [], "form": "article défini, masculin singulier"},
+      {"f": "gender", "s": "Il y a ___ train toutes les heures.", "en": "There is a train every hour.", "a": "un", "alts": [], "form": "article indéfini, masculin singulier"},
+      {"f": "gender", "s": "On entend le bruit ___ train qui passe.", "en": "We hear the sound of the train passing.", "a": "du", "alts": [], "form": "de + le, masculin singulier"},
+      {"f": "gender", "s": "Les enfants regardent ___ trains dans la gare.", "en": "The children are watching the trains in the station.", "a": "les", "alts": [], "form": "article défini, masculin pluriel"},
+      {"f": "sense", "s": "Le ___ de 9h pour Lyon est complet.", "en": "The 9 o'clock train to Lyon is full.", "a": "train", "alts": [], "form": "sens : véhicule de transport"},
+      {"f": "sense", "s": "Le ___ du roi comptait plus de cent personnes.", "en": "The king's retinue consisted of more than a hundred people.", "a": "train", "alts": [], "form": "sens : suite, cortège"},
+      {"f": "sense", "s": "Il mène un ___ de vie très agréable avec sa famille.", "en": "He leads a very pleasant way of living with his family.", "a": "train", "alts": [], "form": "sens : train de vie"},
+      {"f": "usage", "s": "Je suis en ___ de lire un excellent roman.", "en": "I am in the process of reading an excellent novel.", "a": "train", "alts": [], "form": "expression : être en train de"}
+    ]
+  },
+  {
+    "id": "233",
+    "qs": [
+      {"f": "usage", "s": "Elle travaille beaucoup ___, contrairement à hier.", "en": "She is working a lot today, unlike yesterday.", "a": "aujourd'hui", "alts": [], "form": "adverbe de temps opposé à hier"},
+      {"f": "sense", "s": "Les jeunes d'___ sont très connectés aux réseaux sociaux.", "en": "Today's youth are very connected to social media.", "a": "aujourd'hui", "alts": [], "form": "les jeunes d'aujourd'hui"},
+      {"f": "sense", "s": "La société d'___ fait face à des défis sans précédent.", "en": "Today's society faces unprecedented challenges.", "a": "aujourd'hui", "alts": [], "form": "la société d'aujourd'hui"},
+      {"f": "sense", "s": "Les problèmes de l'___ sont différents de ceux du passé.", "en": "Today's problems are different from those of the past.", "a": "aujourd'hui", "alts": [], "form": "les problèmes de l'aujourd'hui (opposé au passé)"}
+    ]
+  },
+  {
+    "id": "234",
+    "qs": [
+      {"f": "usage", "s": "___ fonctionne ce nouvel ordinateur ?", "en": "How does this new computer work?", "a": "Comment", "alts": [], "form": "adverbe interrogatif - manière"},
+      {"f": "usage", "s": "Elle m'a expliqué ___ construire une maison en bois.", "en": "She explained to me how to build a wooden house.", "a": "comment", "alts": [], "form": "interrogation indirecte - manière"},
+      {"f": "usage", "s": "Je me demande ___ ils vont résoudre ce problème.", "en": "I wonder how they will solve this problem.", "a": "comment", "alts": [], "form": "interrogation indirecte"},
+      {"f": "sense", "s": "Elle a du mal à expliquer ___ elle se sent maintenant.", "en": "She struggles to explain how she feels now.", "a": "comment", "alts": [], "form": "manière - état intérieur"},
+      {"f": "sense", "s": "___ s'appelle ton professeur de français ?", "en": "What is your French teacher's name?", "a": "Comment", "alts": [], "form": "comment s'appeler"}
+    ]
+  }
+]

@@ -1,0 +1,172 @@
+[
+  {
+    "id": 117,
+    "qs": [
+      {"slot":"s|0","f":"sense","s":"Ce café est un ___ agréable pour se retrouver entre amis.","a":"lieu","en":"This café is a nice place to get together with friends.","alts":["endroit"]},
+      {"slot":"s|0","f":"sense","s":"Je cherche un ___ calme pour lire mon livre.","a":"lieu","en":"I am looking for a quiet place to read my book.","alts":["endroit"]},
+      {"slot":"s|1","f":"sense","s":"Le musée est un ___ culturel ouvert au public.","a":"lieu","en":"The museum is a cultural venue open to the public.","alts":[]},
+      {"slot":"s|1","f":"sense","s":"Cette salle de conférence est le ___ idéal pour tenir des réunions officielles.","a":"lieu","en":"This conference room is the ideal venue for holding official meetings.","alts":[]},
+      {"slot":"s|2","f":"sense","s":"Il n'y a pas ___ de s'inquiéter, tout va bien.","a":"lieu","en":"There is no reason to worry, everything is fine.","alts":[]},
+      {"slot":"s|2","f":"sense","s":"Votre plainte n'a pas ___ d'être, car la situation a déjà été réglée.","a":"lieu","en":"Your complaint has no reason to exist, as the situation has already been resolved.","alts":[]},
+      {"slot":"gender","f":"gender","s":"Ils se sont rencontrés dans ___ lieu discret.","a":"un","en":"They met in a discreet place.","alts":[]},
+      {"slot":"gender","f":"gender","s":"___ lieu de la réunion sera annoncé demain.","a":"Le","en":"The location of the meeting will be announced tomorrow.","alts":[]}
+    ]
+  },
+  {
+    "id": 118,
+    "qs": [
+      {"slot":"s|0","f":"sense","s":"La première ___ du livre est consacrée à l'histoire de France.","a":"partie","en":"The first part of the book is dedicated to the history of France.","alts":[]},
+      {"slot":"s|0","f":"sense","s":"Cette ___ du bâtiment sera rénovée l'année prochaine.","a":"partie","en":"This part of the building will be renovated next year.","alts":[]},
+      {"slot":"s|1","f":"sense","s":"Il a donné une ___ de son salaire à une association caritative.","a":"partie","en":"He gave a part of his salary to a charity.","alts":[]},
+      {"slot":"s|1","f":"sense","s":"Une grande ___ des étudiants a réussi l'examen.","a":"partie","en":"A large part of the students passed the exam.","alts":[]},
+      {"slot":"s|2","f":"sense","s":"On fait une ___ de cartes ce soir ?","a":"partie","en":"Shall we play a game of cards tonight?","alts":[]},
+      {"slot":"s|2","f":"sense","s":"Il a gagné la ___ d'échecs en moins d'une heure.","a":"partie","en":"He won the game of chess in less than an hour.","alts":[]},
+      {"slot":"s|3","f":"sense","s":"Les deux ___ ont signé le contrat devant le notaire.","a":"parties","en":"The two parties signed the contract before the notary.","alts":[]},
+      {"slot":"s|3","f":"sense","s":"La ___ adverse a refusé de négocier un accord à l'amiable.","a":"partie","en":"The opposing party refused to negotiate an amicable settlement.","alts":[]},
+      {"slot":"gender","f":"gender","s":"___ partie qu'il a préférée était la conclusion.","a":"La","en":"The part he preferred was the conclusion.","alts":[]},
+      {"slot":"gender","f":"gender","s":"Nous avons joué ___ partie de tennis très disputée.","a":"une","en":"We played a very competitive game of tennis.","alts":[]}
+    ]
+  },
+  {
+    "id": 119,
+    "qs": [
+      {"slot":"s|0","f":"sense","s":"___ il fait beau, j'aime me promener dans le parc.","a":"Quand","en":"When the weather is nice, I like to walk in the park.","alts":["Lorsque"]},
+      {"slot":"s|0","f":"sense","s":"Elle sourit toujours ___ elle voit ses amis.","a":"quand","en":"She always smiles when she sees her friends.","alts":["lorsque"]},
+      {"slot":"s|1","f":"sense","s":"Tu sais ___ il arrivera ?","a":"quand","en":"Do you know when he will arrive?","alts":[]},
+      {"slot":"s|1","f":"sense","s":"Je me demande ___ les résultats seront publiés.","a":"quand","en":"I wonder when the results will be published.","alts":[]}
+    ]
+  },
+  {
+    "id": 120,
+    "qs": [
+      {"slot":"t|Présent|0","f":"tense","s":"Chaque matin, ___ le même chemin pour aller au travail.","a":"je suis","en":"Every morning, I follow the same path to go to work.","alts":[],"form":"Présent"},
+      {"slot":"t|Présent|0","f":"tense","s":"En ce moment, ___ un cours de cuisine très intéressant.","a":"je suis","en":"Right now, I am taking a very interesting cooking class.","alts":[],"form":"Présent"},
+      {"slot":"t|Présent|1","f":"tense","s":"Est-ce que ___ les conseils de ton médecin ?","a":"tu suis","en":"Do you follow your doctor's advice?","alts":[],"form":"Présent"},
+      {"slot":"t|Présent|1","f":"tense","s":"___ ce feuilleton tous les soirs ?","a":"tu suis","en":"Do you follow this TV series every evening?","alts":[],"form":"Présent"},
+      {"slot":"t|Présent|2","f":"tense","s":"Le chien ___ son maître partout dans la maison.","a":"il suit","en":"The dog follows its owner everywhere in the house.","alts":[],"form":"Présent"},
+      {"slot":"t|Présent|2","f":"tense","s":"___ un régime strict depuis le début du mois.","a":"il suit","en":"He has been following a strict diet since the beginning of the month.","alts":[],"form":"Présent"},
+      {"slot":"t|Présent|3","f":"tense","s":"___ les instructions à la lettre pour ne pas faire d'erreur.","a":"nous suivons","en":"We follow the instructions to the letter so as not to make mistakes.","alts":[],"form":"Présent"},
+      {"slot":"t|Présent|3","f":"tense","s":"Pendant notre randonnée, ___ le balisage du sentier.","a":"nous suivons","en":"During our hike, we follow the trail markings.","alts":[],"form":"Présent"},
+      {"slot":"t|Présent|4","f":"tense","s":"Vous ___ trop la mode sans avoir votre propre style.","a":"vous suivez","en":"You follow fashion trends too much without having your own style.","alts":[],"form":"Présent"},
+      {"slot":"t|Présent|4","f":"tense","s":"Est-ce que ___ l'actualité politique de près ?","a":"vous suivez","en":"Do you follow political news closely?","alts":[],"form":"Présent"},
+      {"slot":"t|Présent|5","f":"tense","s":"Les élèves ___ attentivement le cours de mathématiques.","a":"ils suivent","en":"The students follow the mathematics class attentively.","alts":[],"form":"Présent"},
+      {"slot":"t|Présent|5","f":"tense","s":"Mes amis ___ tous ce nouveau chanteur sur les réseaux sociaux.","a":"ils suivent","en":"My friends all follow this new singer on social media.","alts":[],"form":"Présent"},
+      {"slot":"t|Passé composé|0","f":"tense","s":"Hier, ___ un itinéraire différent pour éviter les embouteillages.","a":"j'ai suivi","en":"Yesterday, I followed a different route to avoid traffic jams.","alts":[],"form":"Passé composé"},
+      {"slot":"t|Passé composé|0","f":"tense","s":"L'année dernière, ___ une formation en ligne sur la programmation.","a":"j'ai suivi","en":"Last year, I took an online training course on programming.","alts":[],"form":"Passé composé"},
+      {"slot":"t|Passé composé|1","f":"tense","s":"___ le guide pendant toute la visite du musée ?","a":"tu as suivi","en":"Did you follow the guide throughout the entire museum visit?","alts":[],"form":"Passé composé"},
+      {"slot":"t|Passé composé|1","f":"tense","s":"Je vois que ___ mes conseils, bravo !","a":"tu as suivi","en":"I see that you followed my advice, well done!","alts":[],"form":"Passé composé"},
+      {"slot":"t|Passé composé|2","f":"tense","s":"Le suspect ___ la victime pendant plusieurs heures.","a":"il a suivi","en":"The suspect followed the victim for several hours.","alts":[],"form":"Passé composé"},
+      {"slot":"t|Passé composé|2","f":"tense","s":"Mon fils ___ un stage de football cet été.","a":"il a suivi","en":"My son attended a football camp this summer.","alts":[],"form":"Passé composé"},
+      {"slot":"t|Passé composé|3","f":"tense","s":"___ la même route que la dernière fois pour arriver plus vite.","a":"nous avons suivi","en":"We followed the same route as last time to arrive faster.","alts":[],"form":"Passé composé"},
+      {"slot":"t|Passé composé|3","f":"tense","s":"Pendant le confinement, ___ des cours en ligne chaque jour.","a":"nous avons suivi","en":"During the lockdown, we took online classes every day.","alts":[],"form":"Passé composé"},
+      {"slot":"t|Passé composé|4","f":"tense","s":"___ les instructions du manuel pour monter le meuble ?","a":"vous avez suivi","en":"Did you follow the instructions in the manual to assemble the furniture?","alts":[],"form":"Passé composé"},
+      {"slot":"t|Passé composé|4","f":"tense","s":"Je suis content que ___ ma recommandation.","a":"vous avez suivi","en":"I am glad that you followed my recommendation.","alts":[],"form":"Passé composé"},
+      {"slot":"t|Passé composé|5","f":"tense","s":"Les manifestants ___ le cortège jusqu'à la place centrale.","a":"ils ont suivi","en":"The demonstrators followed the procession to the central square.","alts":[],"form":"Passé composé"},
+      {"slot":"t|Passé composé|5","f":"tense","s":"Mes parents ___ la cérémonie en direct à la télévision.","a":"ils ont suivi","en":"My parents watched the ceremony live on television.","alts":[],"form":"Passé composé"},
+      {"slot":"t|Imparfait|0","f":"tense","s":"Quand j'étais enfant, ___ toujours mon frère aîné dans ses aventures.","a":"je suivais","en":"When I was a child, I always followed my older brother on his adventures.","alts":[],"form":"Imparfait"},
+      {"slot":"t|Imparfait|0","f":"tense","s":"À cette époque, ___ des cours de piano deux fois par semaine.","a":"je suivais","en":"At that time, I was taking piano lessons twice a week.","alts":[],"form":"Imparfait"},
+      {"slot":"t|Imparfait|1","f":"tense","s":"Tu ___ toujours les dernières tendances de la mode quand tu étais jeune.","a":"tu suivais","en":"You always followed the latest fashion trends when you were young.","alts":[],"form":"Imparfait"},
+      {"slot":"t|Imparfait|1","f":"tense","s":"Est-ce que ___ bien en classe l'année dernière ?","a":"tu suivais","en":"Were you keeping up well in class last year?","alts":[],"form":"Imparfait"},
+      {"slot":"t|Imparfait|2","f":"tense","s":"Le petit garçon ___ sa mère dans chaque rayon du supermarché.","a":"il suivait","en":"The little boy followed his mother through every aisle of the supermarket.","alts":[],"form":"Imparfait"},
+      {"slot":"t|Imparfait|2","f":"tense","s":"À l'université, ___ plusieurs cours de littérature en même temps.","a":"il suivait","en":"At university, he was taking several literature courses at the same time.","alts":[],"form":"Imparfait"},
+      {"slot":"t|Imparfait|3","f":"tense","s":"Avant, ___ les matchs de l'équipe nationale avec passion.","a":"nous suivions","en":"Before, we used to follow the national team's matches with passion.","alts":[],"form":"Imparfait"},
+      {"slot":"t|Imparfait|3","f":"tense","s":"Enfants, ___ le chemin forestier qui menait au lac.","a":"nous suivions","en":"As children, we followed the forest path that led to the lake.","alts":[],"form":"Imparfait"},
+      {"slot":"t|Imparfait|4","f":"tense","s":"Vous ___ régulièrement les nouvelles économiques à l'époque ?","a":"vous suiviez","en":"Were you regularly following economic news at that time?","alts":[],"form":"Imparfait"},
+      {"slot":"t|Imparfait|4","f":"tense","s":"Il paraît que ___ un programme d'entraînement intensif cet hiver.","a":"vous suiviez","en":"It seems that you were following an intensive training program that winter.","alts":[],"form":"Imparfait"},
+      {"slot":"t|Imparfait|5","f":"tense","s":"Les touristes ___ le guide sans poser de questions.","a":"ils suivaient","en":"The tourists followed the guide without asking any questions.","alts":[],"form":"Imparfait"},
+      {"slot":"t|Imparfait|5","f":"tense","s":"Les spectateurs ___ la course avec beaucoup d'enthousiasme.","a":"ils suivaient","en":"The spectators were following the race with great enthusiasm.","alts":[],"form":"Imparfait"},
+      {"slot":"t|Futur|0","f":"tense","s":"La semaine prochaine, ___ un stage de premiers secours.","a":"je suivrai","en":"Next week, I will take a first aid course.","alts":[],"form":"Futur"},
+      {"slot":"t|Futur|0","f":"tense","s":"Demain matin, ___ le même chemin que d'habitude pour aller au bureau.","a":"je suivrai","en":"Tomorrow morning, I will follow the same path as usual to go to the office.","alts":[],"form":"Futur"},
+      {"slot":"t|Futur|1","f":"tense","s":"Si tu veux réussir, ___ les conseils de ton professeur.","a":"tu suivras","en":"If you want to succeed, you will follow your teacher's advice.","alts":[],"form":"Futur"},
+      {"slot":"t|Futur|1","f":"tense","s":"L'année prochaine, ___ une formation spécialisée en gestion de projet.","a":"tu suivras","en":"Next year, you will take a specialized training course in project management.","alts":[],"form":"Futur"},
+      {"slot":"t|Futur|2","f":"tense","s":"Le nouveau directeur ___ une politique différente de son prédécesseur.","a":"il suivra","en":"The new director will follow a different policy from his predecessor.","alts":[],"form":"Futur"},
+      {"slot":"t|Futur|2","f":"tense","s":"Ce chiot ___ partout son nouveau maître.","a":"il suivra","en":"This puppy will follow its new owner everywhere.","alts":[],"form":"Futur"},
+      {"slot":"t|Futur|3","f":"tense","s":"Lors du voyage, ___ le parcours conseillé par l'agence.","a":"nous suivrons","en":"During the trip, we will follow the route recommended by the agency.","alts":[],"form":"Futur"},
+      {"slot":"t|Futur|3","f":"tense","s":"___ de près l'évolution de la situation dans ce pays.","a":"nous suivrons","en":"We will closely follow the development of the situation in that country.","alts":[],"form":"Futur"},
+      {"slot":"t|Futur|4","f":"tense","s":"___ les résultats du championnat tout au long de la saison ?","a":"vous suivrez","en":"Will you follow the championship results throughout the season?","alts":[],"form":"Futur"},
+      {"slot":"t|Futur|4","f":"tense","s":"L'année prochaine, ___ un cursus entièrement en anglais.","a":"vous suivrez","en":"Next year, you will take a curriculum entirely in English.","alts":[],"form":"Futur"},
+      {"slot":"t|Futur|5","f":"tense","s":"Les enfants ___ les traces de leurs parents dans ce métier.","a":"ils suivront","en":"The children will follow in their parents' footsteps in this profession.","alts":[],"form":"Futur"},
+      {"slot":"t|Futur|5","f":"tense","s":"Les journalistes ___ l'affaire jusqu'au verdict final.","a":"ils suivront","en":"The journalists will follow the case until the final verdict.","alts":[],"form":"Futur"},
+      {"slot":"t|Conditionnel|0","f":"tense","s":"Si j'avais plus de temps, ___ un cours de peinture chaque semaine.","a":"je suivrais","en":"If I had more time, I would take a painting class every week.","alts":[],"form":"Conditionnel"},
+      {"slot":"t|Conditionnel|0","f":"tense","s":"À ta place, ___ les directives du responsable sans discuter.","a":"je suivrais","en":"In your place, I would follow the manager's directives without arguing.","alts":[],"form":"Conditionnel"},
+      {"slot":"t|Conditionnel|1","f":"tense","s":"Si tu étais plus discipliné, ___ mieux les entraînements.","a":"tu suivrais","en":"If you were more disciplined, you would follow the training sessions better.","alts":[],"form":"Conditionnel"},
+      {"slot":"t|Conditionnel|1","f":"tense","s":"Est-ce que ___ ce chemin si tu étais seul dans la forêt ?","a":"tu suivrais","en":"Would you follow this path if you were alone in the forest?","alts":[],"form":"Conditionnel"},
+      {"slot":"t|Conditionnel|2","f":"tense","s":"Sans son GPS, il ne saurait pas quel chemin ___ pour rentrer.","a":"il suivrait","en":"Without his GPS, he would not know which path to follow to get home.","alts":[],"form":"Conditionnel"},
+      {"slot":"t|Conditionnel|2","f":"tense","s":"Si on lui proposait une telle opportunité, ___ sûrement ce programme.","a":"il suivrait","en":"If such an opportunity were offered to him, he would surely follow this program.","alts":[],"form":"Conditionnel"},
+      {"slot":"t|Conditionnel|3","f":"tense","s":"Si nous avions les ressources, ___ une formation avancée à l'étranger.","a":"nous suivrions","en":"If we had the resources, we would take an advanced training course abroad.","alts":[],"form":"Conditionnel"},
+      {"slot":"t|Conditionnel|3","f":"tense","s":"En cas de catastrophe, ___ les consignes d'évacuation à la lettre.","a":"nous suivrions","en":"In case of a disaster, we would follow the evacuation instructions to the letter.","alts":[],"form":"Conditionnel"},
+      {"slot":"t|Conditionnel|4","f":"tense","s":"Seriez-vous d'accord ? ___ ce protocole en situation d'urgence ?","a":"vous suivriez","en":"Would you agree? Would you follow this protocol in an emergency situation?","alts":[],"form":"Conditionnel"},
+      {"slot":"t|Conditionnel|4","f":"tense","s":"Si on vous le demandait, ___ ce régime alimentaire particulier ?","a":"vous suivriez","en":"If you were asked to, would you follow this particular diet?","alts":[],"form":"Conditionnel"},
+      {"slot":"t|Conditionnel|5","f":"tense","s":"Sans chef, les employés ne sauraient pas quelles règles ___ dans ce cas.","a":"ils suivraient","en":"Without a leader, the employees would not know which rules they would follow in this case.","alts":[],"form":"Conditionnel"},
+      {"slot":"t|Conditionnel|5","f":"tense","s":"Si on les laissait choisir, ___ le programme le plus court.","a":"ils suivraient","en":"If they were allowed to choose, they would follow the shortest program.","alts":[],"form":"Conditionnel"},
+      {"slot":"t|Subjonctif|0","f":"tense","s":"Il est important ___ un régime équilibré pour rester en bonne santé.","a":"que je suive","en":"It is important that I follow a balanced diet to stay healthy.","alts":[],"form":"Subjonctif"},
+      {"slot":"t|Subjonctif|0","f":"tense","s":"Mon médecin exige ___ ce traitement pendant trois semaines.","a":"que je suive","en":"My doctor requires that I follow this treatment for three weeks.","alts":[],"form":"Subjonctif"},
+      {"slot":"t|Subjonctif|1","f":"tense","s":"Il faut ___ les étapes dans le bon ordre pour réussir la recette.","a":"que tu suives","en":"You need to follow the steps in the right order to make the recipe successfully.","alts":[],"form":"Subjonctif"},
+      {"slot":"t|Subjonctif|1","f":"tense","s":"Je préfère ___ tes propres convictions plutôt que de copier les autres.","a":"que tu suives","en":"I prefer that you follow your own convictions rather than copy others.","alts":[],"form":"Subjonctif"},
+      {"slot":"t|Subjonctif|2","f":"tense","s":"Le règlement exige ___ scrupuleusement la procédure officielle.","a":"qu'il suive","en":"The regulations require that he scrupulously follow the official procedure.","alts":[],"form":"Subjonctif"},
+      {"slot":"t|Subjonctif|2","f":"tense","s":"Sa mère souhaite ___ une formation professionnelle sérieuse.","a":"qu'il suive","en":"His mother wishes that he take a serious vocational training course.","alts":[],"form":"Subjonctif"},
+      {"slot":"t|Subjonctif|3","f":"tense","s":"Le directeur tient à ___ le même protocole que les autres équipes.","a":"que nous suivions","en":"The director insists that we follow the same protocol as the other teams.","alts":[],"form":"Subjonctif"},
+      {"slot":"t|Subjonctif|3","f":"tense","s":"Il est essentiel ___ l'évolution de ce projet de très près.","a":"que nous suivions","en":"It is essential that we follow the progress of this project very closely.","alts":[],"form":"Subjonctif"},
+      {"slot":"t|Subjonctif|4","f":"tense","s":"Le formateur exige ___ toutes les consignes de sécurité.","a":"que vous suiviez","en":"The trainer requires that you follow all the safety instructions.","alts":[],"form":"Subjonctif"},
+      {"slot":"t|Subjonctif|4","f":"tense","s":"Il est indispensable ___ une formation avant de commencer.","a":"que vous suiviez","en":"It is essential that you take a training course before starting.","alts":[],"form":"Subjonctif"},
+      {"slot":"t|Subjonctif|5","f":"tense","s":"Il faut ___ les instructions précisément pour éviter tout accident.","a":"qu'ils suivent","en":"They must follow the instructions precisely to avoid any accident.","alts":[],"form":"Subjonctif"},
+      {"slot":"t|Subjonctif|5","f":"tense","s":"Le professeur souhaite ___ ses cours avec davantage d'assiduité.","a":"qu'ils suivent","en":"The teacher wishes that they attend his classes with greater regularity.","alts":[],"form":"Subjonctif"},
+      {"slot":"s|0","f":"sense","s":"Le chien ___ son maître jusqu'à l'arrêt de bus ce matin.","a":"suit","en":"The dog follows its owner all the way to the bus stop this morning.","alts":[],"form":""},
+      {"slot":"s|0","f":"sense","s":"Elle ___ toujours ses parents dans leurs promenades du dimanche.","a":"suit","en":"She always follows her parents on their Sunday walks.","alts":[],"form":""},
+      {"slot":"s|1","f":"sense","s":"Il est important de ___ les règles du jeu pour que la partie se passe bien.","a":"suivre","en":"It is important to comply with the rules of the game so that the match goes well.","alts":[],"form":""},
+      {"slot":"s|1","f":"sense","s":"Nous devons ___ la loi, même quand elle nous semble injuste.","a":"suivre","en":"We must abide by the law, even when it seems unjust to us.","alts":[],"form":""},
+      {"slot":"s|2","f":"sense","s":"Il a décidé de ___ les recommandations de son avocat sans hésitation.","a":"suivre","en":"He decided to heed his lawyer's recommendations without hesitation.","alts":[],"form":""},
+      {"slot":"s|2","f":"sense","s":"Les soldats ont toujours ___ les ordres de leur commandant.","a":"suivi","en":"The soldiers always obeyed the orders of their commander.","alts":[],"form":""},
+      {"slot":"s|3","f":"sense","s":"Je ___ l'actualité internationale tous les matins sur mon téléphone.","a":"suis","en":"I follow international news every morning on my phone.","alts":[],"form":""},
+      {"slot":"s|3","f":"sense","s":"Des millions de fans ___ ce chanteur sur les réseaux sociaux.","a":"suivent","en":"Millions of fans follow this singer on social media.","alts":[],"form":""}
+    ]
+  },
+  {
+    "id": 121,
+    "qs": [
+      {"slot":"s|0","f":"sense","s":"Elle a voté ___ cette proposition lors de l'assemblée.","a":"contre","en":"She voted against this proposal at the assembly.","alts":[]},
+      {"slot":"s|0","f":"sense","s":"Il est difficile d'aller ___ l'avis de tout le monde.","a":"contre","en":"It is difficult to go against everyone's opinion.","alts":[]},
+      {"slot":"s|1","f":"sense","s":"L'équipe a joué ___ son rival de longue date.","a":"contre","en":"The team played against its long-time rival.","alts":[]},
+      {"slot":"s|1","f":"sense","s":"Le match ___ les champions du monde sera diffusé ce soir.","a":"contre","en":"The match against the world champions will be broadcast tonight.","alts":[]},
+      {"slot":"s|2","f":"sense","s":"L'enfant s'est endormi ___ l'épaule de sa mère.","a":"contre","en":"The child fell asleep against his mother's shoulder.","alts":[]},
+      {"slot":"s|2","f":"sense","s":"Il a appuyé son vélo ___ le mur de la maison.","a":"contre","en":"He leaned his bicycle against the wall of the house.","alts":[]},
+      {"slot":"gender","f":"gender","s":"___ contre a été exprimé clairement par les membres du comité.","a":"Le","en":"The opposition was clearly expressed by the committee members.","alts":[]},
+      {"slot":"gender","f":"gender","s":"Avez-vous jamais entendu parler d'___ contre aussi surprenant ?","a":"un","en":"Have you ever heard of such a surprising counterargument?","alts":[]}
+    ]
+  },
+  {
+    "id": 122,
+    "qs": [
+      {"slot":"s|0","f":"sense","s":"Le chat dort ___ la table.","a":"sous","en":"The cat is sleeping under the table.","alts":[]},
+      {"slot":"s|0","f":"sense","s":"Elle a trouvé ses clés ___ le canapé.","a":"sous","en":"She found her keys under the sofa.","alts":[]},
+      {"slot":"s|1","f":"sense","s":"Ce pays était ___ la domination étrangère pendant des siècles.","a":"sous","en":"This country was under foreign domination for centuries.","alts":[]},
+      {"slot":"s|1","f":"sense","s":"Il a réussi à travailler ___ une grande pression.","a":"sous","en":"He managed to work under great pressure.","alts":[]}
+    ]
+  },
+  {
+    "id": 123,
+    "qs": [
+      {"slot":"s|0","f":"sense","s":"Il a une cicatrice sur le ___ droit du visage.","a":"côté","en":"He has a scar on the right side of his face.","alts":[]},
+      {"slot":"s|0","f":"sense","s":"La blessure se trouve sur le ___ gauche de son corps.","a":"côté","en":"The wound is on the left side of his body.","alts":[]},
+      {"slot":"s|1","f":"sense","s":"Il s'est assis à ___ de moi pendant toute la réunion.","a":"côté","en":"He sat next to me throughout the entire meeting.","alts":[]},
+      {"slot":"s|1","f":"sense","s":"La pharmacie est juste à ___ de la boulangerie.","a":"côté","en":"The pharmacy is right next to the bakery.","alts":[]},
+      {"slot":"s|2","f":"sense","s":"De ce ___, la situation est encore plus compliquée.","a":"côté","en":"In this aspect, the situation is even more complicated.","alts":[]},
+      {"slot":"s|2","f":"sense","s":"Il faut examiner chaque ___ du problème avant de décider.","a":"côté","en":"We must examine every aspect of the problem before deciding.","alts":[]},
+      {"slot":"gender","f":"gender","s":"___ côté ensoleillé de la rue est très agréable.","a":"Le","en":"The sunny side of the street is very pleasant.","alts":[]},
+      {"slot":"gender","f":"gender","s":"Je voudrais habiter d'___ côté de la rivière.","a":"un","en":"I would like to live on one side of the river.","alts":[]}
+    ]
+  },
+  {
+    "id": 124,
+    "qs": [
+      {"slot":"s|0","f":"sense","s":"Ce tableau forme un ___ harmonieux grâce à l'équilibre des couleurs.","a":"ensemble","en":"This painting forms a harmonious whole thanks to the balance of colors.","alts":[]},
+      {"slot":"s|0","f":"sense","s":"Les différentes parties de ce projet constituent un ___ cohérent.","a":"ensemble","en":"The different parts of this project form a coherent whole.","alts":[]},
+      {"slot":"s|1","f":"sense","s":"L'___ du personnel a été convoqué à la réunion annuelle.","a":"ensemble","en":"The entire staff was called to the annual meeting.","alts":[]},
+      {"slot":"s|1","f":"sense","s":"Un ___ de règles régit le fonctionnement de cette institution.","a":"ensemble","en":"A set of rules governs the functioning of this institution.","alts":[]},
+      {"slot":"s|2","f":"sense","s":"Nous avons travaillé ___ pour terminer le projet avant la date limite.","a":"ensemble","en":"We worked together to finish the project before the deadline.","alts":[]},
+      {"slot":"s|2","f":"sense","s":"Les deux équipes ont décidé d'agir ___ face à ce défi.","a":"ensemble","en":"The two teams decided to act together in the face of this challenge.","alts":[]},
+      {"slot":"gender","f":"gender","s":"Ils ont formé ___ ensemble remarquable lors de ce spectacle.","a":"un","en":"They formed a remarkable ensemble during this performance.","alts":[]},
+      {"slot":"gender","f":"gender","s":"___ ensemble de ces mesures permettra d'améliorer la situation.","a":"L'","en":"The set of these measures will help improve the situation.","alts":["Le"]}
+    ]
+  }
+]

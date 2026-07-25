@@ -1,0 +1,221 @@
+[
+  {
+    "id": 4051,
+    "qs": [
+      {
+        "slot": "s|0",
+        "f": "sense",
+        "s": "Au XVIIIe siècle, un ___ valait un douzième de livre tournois.",
+        "en": "In the 18th century, one sou was worth one-twelfth of a livre tournois.",
+        "a": "sou",
+        "alts": []
+      },
+      {
+        "slot": "s|0",
+        "f": "sense",
+        "s": "Les paysans comptaient leurs économies en ___ et en livres à cette époque.",
+        "en": "The peasants counted their savings in sous and livres at that time.",
+        "a": "sous",
+        "alts": []
+      },
+      {
+        "slot": "s|1",
+        "f": "sense",
+        "s": "Il est rentré de voyage sans un ___ en poche.",
+        "en": "He came back from his trip without a penny in his pocket.",
+        "a": "sou",
+        "alts": []
+      },
+      {
+        "slot": "s|1",
+        "f": "sense",
+        "s": "Elle dépense chaque ___ avec beaucoup de soin.",
+        "en": "She spends every penny with great care.",
+        "a": "sou",
+        "alts": []
+      },
+      {
+        "slot": "gender",
+        "f": "gender",
+        "s": "Il a trouvé ___ vieux sou rouillé au fond de sa poche.",
+        "en": "He found an old rusty penny at the bottom of his pocket.",
+        "a": "un",
+        "alts": []
+      },
+      {
+        "slot": "gender",
+        "f": "gender",
+        "s": "Je n'ai pas ___ sou à te prêter en ce moment.",
+        "en": "I don't have a single penny to lend you right now.",
+        "a": "un",
+        "alts": []
+      }
+    ]
+  },
+  {
+    "id": 4052,
+    "qs": [
+      {
+        "slot": "s|0",
+        "f": "sense",
+        "s": "Ce cabinet recrute un ___ financier spécialisé dans les marchés émergents.",
+        "en": "This firm is recruiting a financial analyst specializing in emerging markets.",
+        "a": "analyste",
+        "alts": []
+      },
+      {
+        "slot": "s|0",
+        "f": "sense",
+        "s": "L'​___ stratégique a présenté ses recommandations au conseil d'administration.",
+        "en": "The strategic analyst presented his recommendations to the board of directors.",
+        "a": "analyste",
+        "alts": []
+      },
+      {
+        "slot": "s|1",
+        "f": "sense",
+        "s": "L'___ de données a produit un rapport détaillé sur les tendances de consommation.",
+        "en": "The data analyst produced a detailed report on consumption trends.",
+        "a": "analyste",
+        "alts": []
+      },
+      {
+        "slot": "s|1",
+        "f": "sense",
+        "s": "Notre équipe comprend plusieurs ___ chargés de traiter les informations collectées sur le terrain.",
+        "en": "Our team includes several analysts responsible for processing information collected in the field.",
+        "a": "analystes",
+        "alts": []
+      },
+      {
+        "slot": "gender",
+        "f": "gender",
+        "s": "Mon entreprise vient d'embaucher ___ analyste très expérimenté.",
+        "en": "My company has just hired a very experienced analyst.",
+        "a": "un",
+        "alts": []
+      },
+      {
+        "slot": "gender",
+        "f": "gender",
+        "s": "___ analyste de notre département a découvert une erreur dans les chiffres.",
+        "en": "The analyst in our department discovered an error in the figures.",
+        "a": "L'",
+        "alts": []
+      }
+    ]
+  },
+  {
+    "id": 4053,
+    "qs": [
+      {
+        "slot": "s|0",
+        "f": "sense",
+        "s": "Le ___ expert n'a convaincu personne lors de la conférence.",
+        "en": "The so-called expert convinced nobody at the conference.",
+        "a": "prétendu",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "s|0",
+        "f": "sense",
+        "s": "Ce ___ ami t'a trahi dès la première occasion.",
+        "en": "This so-called friend betrayed you at the very first opportunity.",
+        "a": "prétendu",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "s|1",
+        "f": "sense",
+        "s": "Le ___ coupable a été libéré faute de preuves suffisantes.",
+        "en": "The alleged culprit was released due to insufficient evidence.",
+        "a": "prétendu",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "s|1",
+        "f": "sense",
+        "s": "Les autorités ont arrêté le ___ complice du criminel en fuite.",
+        "en": "The authorities arrested the alleged accomplice of the fugitive criminal.",
+        "a": "prétendu",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "s|2",
+        "f": "sense",
+        "s": "Ce remède, ___ efficace, n'a en réalité aucun effet prouvé.",
+        "en": "This remedy, alleged to be effective, actually has no proven effect.",
+        "a": "prétendu",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "s|2",
+        "f": "sense",
+        "s": "Le ___ génie du quartier a échoué à tous ses examens.",
+        "en": "The supposedly brilliant mind of the neighbourhood failed all his exams.",
+        "a": "prétendu",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "g|mp",
+        "f": "agree",
+        "s": "Ces ___ spécialistes ne savent même pas de quoi ils parlent.",
+        "en": "These so-called specialists don't even know what they are talking about.",
+        "a": "prétendus",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "g|mp",
+        "f": "agree",
+        "s": "Les ___ témoins ont tous changé leur version des faits.",
+        "en": "The alleged witnesses all changed their account of the facts.",
+        "a": "prétendus",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "g|f",
+        "f": "agree",
+        "s": "Cette ___ solution ne résout aucun des problèmes réels.",
+        "en": "This so-called solution solves none of the real problems.",
+        "a": "prétendue",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "g|f",
+        "f": "agree",
+        "s": "La ___ victime a finalement avoué avoir menti à la police.",
+        "en": "The alleged victim finally admitted to having lied to the police.",
+        "a": "prétendue",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "g|fp",
+        "f": "agree",
+        "s": "Ces ___ améliorations n'ont eu aucun effet positif sur les résultats.",
+        "en": "These so-called improvements had no positive effect on the results.",
+        "a": "prétendues",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "g|fp",
+        "f": "agree",
+        "s": "Les ___ preuves présentées au tribunal étaient toutes fabriquées.",
+        "en": "The alleged pieces of evidence presented at the trial were all fabricated.",
+        "a": "prétendues",
+        "alts": [],
+        "form": ""
+      }
+    ]
+  }
+]

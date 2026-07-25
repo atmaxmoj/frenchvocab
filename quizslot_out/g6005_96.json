@@ -1,0 +1,135 @@
+[
+  {
+    "id": 6183,
+    "qs": [
+      {
+        "slot": "s|0",
+        "f": "sense",
+        "s": "Le gouvernement a ___ annoncé la fermeture de l'usine.",
+        "a": "formellement",
+        "en": "The government formally/officially announced the factory's closure.",
+        "alts": []
+      },
+      {
+        "slot": "s|0",
+        "f": "sense",
+        "s": "Le contrat a été ___ signé par les deux parties devant notaire.",
+        "a": "formellement",
+        "en": "The contract was formally signed by both parties before a notary.",
+        "alts": []
+      },
+      {
+        "slot": "s|1",
+        "f": "sense",
+        "s": "Il est ___ interdit de fumer dans cet hôpital.",
+        "a": "formellement",
+        "en": "Smoking is strictly forbidden in this hospital.",
+        "alts": []
+      },
+      {
+        "slot": "s|1",
+        "f": "sense",
+        "s": "Je t'interdis ___ de sortir ce soir.",
+        "a": "formellement",
+        "en": "I categorically forbid you to go out tonight.",
+        "alts": []
+      }
+    ]
+  },
+  {
+    "id": 6184,
+    "qs": [
+      {
+        "slot": "s|0",
+        "f": "sense",
+        "s": "Chaque matin, le petit ___ part à l'école avec son cartable sur le dos.",
+        "a": "écolier",
+        "en": "Every morning, the little schoolboy leaves for school with his backpack on his back.",
+        "alts": []
+      },
+      {
+        "slot": "s|0",
+        "f": "sense",
+        "s": "À six ans, un ___ commence tout juste à apprendre à lire.",
+        "a": "écolier",
+        "en": "At six years old, a schoolboy is just starting to learn to read.",
+        "alts": []
+      },
+      {
+        "slot": "gender",
+        "f": "gender",
+        "s": "___écolier range soigneusement ses cahiers avant de partir.",
+        "a": "L'",
+        "en": "The schoolboy carefully puts away his notebooks before leaving.",
+        "alts": []
+      },
+      {
+        "slot": "gender",
+        "f": "gender",
+        "s": "C'est ___ écolier très sérieux qui lève toujours la main.",
+        "a": "un",
+        "en": "He's a very serious schoolboy who always raises his hand.",
+        "alts": []
+      }
+    ]
+  },
+  {
+    "id": 6185,
+    "qs": [
+      {
+        "slot": "s|0",
+        "f": "sense",
+        "s": "Le professeur enseigne la ___ à la faculté de médecine.",
+        "a": "pathologie",
+        "en": "The professor teaches pathology at the medical school.",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "s|0",
+        "f": "sense",
+        "s": "Après cinq années d'études, elle a obtenu son diplôme en ___ .",
+        "a": "pathologie",
+        "en": "After five years of study, she earned her degree in pathology.",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "s|1",
+        "f": "sense",
+        "s": "Le médecin lui a diagnostiqué une ___ cardiaque grave.",
+        "a": "pathologie",
+        "en": "The doctor diagnosed him with a serious heart condition.",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "s|1",
+        "f": "sense",
+        "s": "Cette ___ rare touche environ un enfant sur dix mille.",
+        "a": "pathologie",
+        "en": "This rare condition affects about one in ten thousand children.",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "gender",
+        "f": "gender",
+        "s": "Il étudie ___ pathologie rare depuis des mois.",
+        "a": "une",
+        "en": "He has been studying a rare pathology for months.",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "gender",
+        "f": "gender",
+        "s": "___ pathologie de ce patient reste difficile à diagnostiquer.",
+        "a": "La",
+        "en": "This patient's pathology remains difficult to diagnose.",
+        "alts": ["la"],
+        "form": ""
+      }
+    ]
+  }
+]

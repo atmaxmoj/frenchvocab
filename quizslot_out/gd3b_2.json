@@ -1,0 +1,1187 @@
+[
+  {
+    "id": 207,
+    "qs": [
+      {
+        "slot": "s|0",
+        "f": "sense",
+        "s": "Je ___ vois tous les jours à l'école.",
+        "a": "te",
+        "en": "I see you every day at school.",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "s|0",
+        "f": "sense",
+        "s": "Marie ___ appelle chaque soir pour prendre de tes nouvelles.",
+        "a": "t'",
+        "en": "Marie calls you every evening to hear how you are doing.",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "s|1",
+        "f": "sense",
+        "s": "Je vais ___ parler franchement de cette situation.",
+        "a": "te",
+        "en": "I am going to speak to you frankly about this situation.",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "s|1",
+        "f": "sense",
+        "s": "Il ___ a offert des fleurs pour ton anniversaire.",
+        "a": "t'",
+        "en": "He offered you flowers for your birthday.",
+        "alts": [],
+        "form": ""
+      }
+    ]
+  },
+  {
+    "id": 208,
+    "qs": [
+      {
+        "slot": "t|Présent|0",
+        "f": "tense",
+        "s": "Ce souvenir me ___ mon enfance à la campagne.",
+        "a": "rappelle",
+        "en": "This memory recalls my childhood in the countryside.",
+        "alts": [],
+        "form": "Présent"
+      },
+      {
+        "slot": "t|Présent|0",
+        "f": "tense",
+        "s": "Mon père ___ toujours que la ponctualité est essentielle.",
+        "a": "rappelle",
+        "en": "My father always reminds that punctuality is essential.",
+        "alts": [],
+        "form": "Présent"
+      },
+      {
+        "slot": "t|Présent|1",
+        "f": "tense",
+        "s": "Tu ___ souvent les bons moments qu'on a passés ensemble.",
+        "a": "rappelles",
+        "en": "You often recall the good moments we spent together.",
+        "alts": [],
+        "form": "Présent"
+      },
+      {
+        "slot": "t|Présent|1",
+        "f": "tense",
+        "s": "Est-ce que tu ___ à Marie qu'elle a rendez-vous demain ?",
+        "a": "rappelles",
+        "en": "Are you reminding Marie that she has an appointment tomorrow?",
+        "alts": [],
+        "form": "Présent"
+      },
+      {
+        "slot": "t|Présent|2",
+        "f": "tense",
+        "s": "Nous ___ chaque année les victimes de cette tragédie.",
+        "a": "rappelons",
+        "en": "We recall the victims of this tragedy every year.",
+        "alts": [],
+        "form": "Présent"
+      },
+      {
+        "slot": "t|Présent|2",
+        "f": "tense",
+        "s": "Nous vous ___ que la réunion commence à neuf heures.",
+        "a": "rappelons",
+        "en": "We remind you that the meeting starts at nine o'clock.",
+        "alts": [],
+        "form": "Présent"
+      },
+      {
+        "slot": "t|Présent|3",
+        "f": "tense",
+        "s": "Vous ___ souvent cette vieille chanson lors des fêtes de famille.",
+        "a": "rappelez",
+        "en": "You often recall this old song at family gatherings.",
+        "alts": [],
+        "form": "Présent"
+      },
+      {
+        "slot": "t|Présent|3",
+        "f": "tense",
+        "s": "Vous ___ à vos clients les délais de livraison dans cet e-mail.",
+        "a": "rappelez",
+        "en": "You remind your clients of the delivery deadlines in this email.",
+        "alts": [],
+        "form": "Présent"
+      },
+      {
+        "slot": "t|Présent|4",
+        "f": "tense",
+        "s": "Ces photos ___ à tous les habitants les inondations de 2010.",
+        "a": "rappellent",
+        "en": "These photos remind all the residents of the 2010 floods.",
+        "alts": [],
+        "form": "Présent"
+      },
+      {
+        "slot": "t|Présent|4",
+        "f": "tense",
+        "s": "Les professeurs ___ régulièrement les règles de sécurité aux élèves.",
+        "a": "rappellent",
+        "en": "The teachers regularly remind the students of the safety rules.",
+        "alts": [],
+        "form": "Présent"
+      },
+      {
+        "slot": "t|Passé composé|0",
+        "f": "tense",
+        "s": "J'___ ton numéro trois fois sans réponse.",
+        "a": "ai rappelé",
+        "en": "I called back your number three times without an answer.",
+        "alts": [],
+        "form": "Passé composé"
+      },
+      {
+        "slot": "t|Passé composé|0",
+        "f": "tense",
+        "s": "En voyant cette rue, j'___ le voyage qu'on avait fait ensemble.",
+        "a": "ai rappelé",
+        "en": "Upon seeing this street, I recalled the trip we had taken together.",
+        "alts": [],
+        "form": "Passé composé"
+      },
+      {
+        "slot": "t|Passé composé|1",
+        "f": "tense",
+        "s": "Tu m'___ que j'avais oublié de fermer la porte à clé.",
+        "a": "as rappelé",
+        "en": "You reminded me that I had forgotten to lock the door.",
+        "alts": [],
+        "form": "Passé composé"
+      },
+      {
+        "slot": "t|Passé composé|1",
+        "f": "tense",
+        "s": "Tu ___ le client hier soir après la fermeture ?",
+        "a": "as rappelé",
+        "en": "Did you call the client back yesterday evening after closing?",
+        "alts": [],
+        "form": "Passé composé"
+      },
+      {
+        "slot": "t|Passé composé|2",
+        "f": "tense",
+        "s": "Le directeur ___ tous les employés à leur poste après les vacances.",
+        "a": "a rappelé",
+        "en": "The director recalled all the employees to their posts after the holidays.",
+        "alts": [],
+        "form": "Passé composé"
+      },
+      {
+        "slot": "t|Passé composé|2",
+        "f": "tense",
+        "s": "Elle ___ son ami dès qu'elle a vu le message manqué.",
+        "a": "a rappelé",
+        "en": "She called her friend back as soon as she saw the missed message.",
+        "alts": [],
+        "form": "Passé composé"
+      },
+      {
+        "slot": "t|Passé composé|3",
+        "f": "tense",
+        "s": "Nous ___ les valeurs fondamentales de notre société dans notre discours.",
+        "a": "avons rappelé",
+        "en": "We recalled the fundamental values of our society in our speech.",
+        "alts": [],
+        "form": "Passé composé"
+      },
+      {
+        "slot": "t|Passé composé|3",
+        "f": "tense",
+        "s": "Nous leur ___ l'heure de la cérémonie la veille.",
+        "a": "avons rappelé",
+        "en": "We reminded them of the ceremony time the day before.",
+        "alts": [],
+        "form": "Passé composé"
+      },
+      {
+        "slot": "t|Passé composé|4",
+        "f": "tense",
+        "s": "Vous ___ votre médecin ce matin comme il vous l'avait demandé ?",
+        "a": "avez rappelé",
+        "en": "Did you call your doctor back this morning as he had asked?",
+        "alts": [],
+        "form": "Passé composé"
+      },
+      {
+        "slot": "t|Passé composé|4",
+        "f": "tense",
+        "s": "Vous nous ___ gentiment les consignes avant le départ.",
+        "a": "avez rappelé",
+        "en": "You kindly reminded us of the instructions before departure.",
+        "alts": [],
+        "form": "Passé composé"
+      },
+      {
+        "slot": "t|Passé composé|5",
+        "f": "tense",
+        "s": "Ils ___ l'ambassadeur en signe de protestation diplomatique.",
+        "a": "ont rappelé",
+        "en": "They recalled the ambassador as a sign of diplomatic protest.",
+        "alts": [],
+        "form": "Passé composé"
+      },
+      {
+        "slot": "t|Passé composé|5",
+        "f": "tense",
+        "s": "Les militants ___ à tous leurs droits fondamentaux lors de la manifestation.",
+        "a": "ont rappelé",
+        "en": "The activists reminded everyone of their fundamental rights during the demonstration.",
+        "alts": [],
+        "form": "Passé composé"
+      },
+      {
+        "slot": "t|Imparfait|0",
+        "f": "tense",
+        "s": "Quand j'étais enfant, je ___ souvent des chansons pour faire plaisir à ma grand-mère.",
+        "a": "rappelais",
+        "en": "When I was a child, I often recalled songs to please my grandmother.",
+        "alts": [],
+        "form": "Imparfait"
+      },
+      {
+        "slot": "t|Imparfait|0",
+        "f": "tense",
+        "s": "Chaque soir, tu ___ à ta sœur de prendre ses médicaments.",
+        "a": "rappelais",
+        "en": "Every evening, you reminded your sister to take her medication.",
+        "alts": [],
+        "form": "Imparfait"
+      },
+      {
+        "slot": "t|Imparfait|1",
+        "f": "tense",
+        "s": "Ce tableau ___ à tout le monde un paysage du XVIIIe siècle.",
+        "a": "rappelait",
+        "en": "This painting recalled an eighteenth-century landscape to everyone.",
+        "alts": [],
+        "form": "Imparfait"
+      },
+      {
+        "slot": "t|Imparfait|1",
+        "f": "tense",
+        "s": "L'entraîneur ___ sans cesse les règles du jeu aux nouveaux joueurs.",
+        "a": "rappelait",
+        "en": "The coach constantly reminded the new players of the rules of the game.",
+        "alts": [],
+        "form": "Imparfait"
+      },
+      {
+        "slot": "t|Imparfait|2",
+        "f": "tense",
+        "s": "Nous ___ chaque mois les abonnés de la date de renouvellement.",
+        "a": "rappelions",
+        "en": "We reminded subscribers of the renewal date every month.",
+        "alts": [],
+        "form": "Imparfait"
+      },
+      {
+        "slot": "t|Imparfait|2",
+        "f": "tense",
+        "s": "Nous nous ___ souvent les aventures de notre jeunesse.",
+        "a": "rappelions",
+        "en": "We often recalled the adventures of our youth.",
+        "alts": [],
+        "form": "Imparfait"
+      },
+      {
+        "slot": "t|Imparfait|3",
+        "f": "tense",
+        "s": "Vous ___ toujours à vos stagiaires l'importance des délais.",
+        "a": "rappeliez",
+        "en": "You always reminded your trainees of the importance of deadlines.",
+        "alts": [],
+        "form": "Imparfait"
+      },
+      {
+        "slot": "t|Imparfait|3",
+        "f": "tense",
+        "s": "Vous ___ régulièrement vos proches pendant votre voyage à l'étranger.",
+        "a": "rappeliez",
+        "en": "You regularly called back your loved ones during your trip abroad.",
+        "alts": [],
+        "form": "Imparfait"
+      },
+      {
+        "slot": "t|Imparfait|4",
+        "f": "tense",
+        "s": "Les affiches ___ aux visiteurs les horaires d'ouverture du musée.",
+        "a": "rappelaient",
+        "en": "The posters reminded visitors of the museum's opening hours.",
+        "alts": [],
+        "form": "Imparfait"
+      },
+      {
+        "slot": "t|Imparfait|4",
+        "f": "tense",
+        "s": "Ces mélodies ___ aux anciens élèves leurs années de lycée.",
+        "a": "rappelaient",
+        "en": "These melodies recalled the high school years to former students.",
+        "alts": [],
+        "form": "Imparfait"
+      },
+      {
+        "slot": "t|Futur|0",
+        "f": "tense",
+        "s": "Je te ___ dès que j'aurai terminé ma réunion.",
+        "a": "rappellerai",
+        "en": "I will call you back as soon as I have finished my meeting.",
+        "alts": [],
+        "form": "Futur simple"
+      },
+      {
+        "slot": "t|Futur|0",
+        "f": "tense",
+        "s": "Je lui ___ ses engagements lors de la prochaine séance.",
+        "a": "rappellerai",
+        "en": "I will remind him of his commitments at the next session.",
+        "alts": [],
+        "form": "Futur simple"
+      },
+      {
+        "slot": "t|Futur|1",
+        "f": "tense",
+        "s": "Tu ___ le plombier demain matin pour fixer le rendez-vous.",
+        "a": "rappelleras",
+        "en": "You will call the plumber back tomorrow morning to confirm the appointment.",
+        "alts": [],
+        "form": "Futur simple"
+      },
+      {
+        "slot": "t|Futur|1",
+        "f": "tense",
+        "s": "Tu ___ à ton frère de passer chercher les billets avant jeudi.",
+        "a": "rappelleras",
+        "en": "You will remind your brother to pick up the tickets before Thursday.",
+        "alts": [],
+        "form": "Futur simple"
+      },
+      {
+        "slot": "t|Futur|2",
+        "f": "tense",
+        "s": "Cette visite ___ à la ministre l'importance du projet de loi.",
+        "a": "rappellera",
+        "en": "This visit will remind the minister of the importance of the bill.",
+        "alts": [],
+        "form": "Futur simple"
+      },
+      {
+        "slot": "t|Futur|2",
+        "f": "tense",
+        "s": "Le gouvernement ___ son ambassadeur pour consultations la semaine prochaine.",
+        "a": "rappellera",
+        "en": "The government will recall its ambassador for consultations next week.",
+        "alts": [],
+        "form": "Futur simple"
+      },
+      {
+        "slot": "t|Futur|3",
+        "f": "tense",
+        "s": "Nous ___ nos clients des nouvelles conditions générales de vente.",
+        "a": "rappellerons",
+        "en": "We will remind our clients of the new general terms of sale.",
+        "alts": [],
+        "form": "Futur simple"
+      },
+      {
+        "slot": "t|Futur|3",
+        "f": "tense",
+        "s": "Nous nous ___ ce moment magique toute notre vie.",
+        "a": "rappellerons",
+        "en": "We will recall this magical moment for the rest of our lives.",
+        "alts": [],
+        "form": "Futur simple"
+      },
+      {
+        "slot": "t|Futur|4",
+        "f": "tense",
+        "s": "Vous ___ les candidats retenus dans les deux jours qui suivent.",
+        "a": "rappellerez",
+        "en": "You will call back the selected candidates within the following two days.",
+        "alts": [],
+        "form": "Futur simple"
+      },
+      {
+        "slot": "t|Futur|4",
+        "f": "tense",
+        "s": "Vous ___ à vos équipes les objectifs fixés en début d'année.",
+        "a": "rappellerez",
+        "en": "You will remind your teams of the objectives set at the beginning of the year.",
+        "alts": [],
+        "form": "Futur simple"
+      },
+      {
+        "slot": "t|Futur|5",
+        "f": "tense",
+        "s": "Mes enfants ___ longtemps ce voyage extraordinaire en famille.",
+        "a": "rappelleront",
+        "en": "My children will long recall this extraordinary family trip.",
+        "alts": [],
+        "form": "Futur simple"
+      },
+      {
+        "slot": "t|Futur|5",
+        "f": "tense",
+        "s": "Les autorités ___ les soldats déployés à l'étranger en cas de crise.",
+        "a": "rappelleront",
+        "en": "The authorities will recall the soldiers deployed abroad in the event of a crisis.",
+        "alts": [],
+        "form": "Futur simple"
+      },
+      {
+        "slot": "t|Conditionnel|0",
+        "f": "tense",
+        "s": "Si j'avais son numéro, je le ___ immédiatement.",
+        "a": "rappellerais",
+        "en": "If I had his number, I would call him back immediately.",
+        "alts": [],
+        "form": "Conditionnel présent"
+      },
+      {
+        "slot": "t|Conditionnel|0",
+        "f": "tense",
+        "s": "Si tu oubliais la réunion, tu ___ à tes collègues l'heure prévue.",
+        "a": "rappellerais",
+        "en": "If you forgot the meeting, you would remind your colleagues of the scheduled time.",
+        "alts": [],
+        "form": "Conditionnel présent"
+      },
+      {
+        "slot": "t|Conditionnel|1",
+        "f": "tense",
+        "s": "Si le premier appel échouait, l'assistant ___ le client une heure plus tard.",
+        "a": "rappellerait",
+        "en": "If the first call failed, the assistant would call the client back an hour later.",
+        "alts": [],
+        "form": "Conditionnel présent"
+      },
+      {
+        "slot": "t|Conditionnel|1",
+        "f": "tense",
+        "s": "Ce film ___ aux spectateurs les grandes heures du cinéma muet.",
+        "a": "rappellerait",
+        "en": "This film would recall the great moments of silent cinema for viewers.",
+        "alts": [],
+        "form": "Conditionnel présent"
+      },
+      {
+        "slot": "t|Conditionnel|2",
+        "f": "tense",
+        "s": "Si nous avions plus de temps, nous ___ à chacun les consignes de sécurité.",
+        "a": "rappellerions",
+        "en": "If we had more time, we would remind each person of the safety instructions.",
+        "alts": [],
+        "form": "Conditionnel présent"
+      },
+      {
+        "slot": "t|Conditionnel|2",
+        "f": "tense",
+        "s": "Nous ___ volontiers ces belles années si nous nous réunissions plus souvent.",
+        "a": "rappellerions",
+        "en": "We would gladly recall those beautiful years if we met more often.",
+        "alts": [],
+        "form": "Conditionnel présent"
+      },
+      {
+        "slot": "t|Conditionnel|3",
+        "f": "tense",
+        "s": "Si vous étiez disponibles, vous ___ le fournisseur cet après-midi.",
+        "a": "rappelleriez",
+        "en": "If you were available, you would call the supplier back this afternoon.",
+        "alts": [],
+        "form": "Conditionnel présent"
+      },
+      {
+        "slot": "t|Conditionnel|3",
+        "f": "tense",
+        "s": "Vous ___ plus facilement les dates si vous utilisiez un agenda.",
+        "a": "rappelleriez",
+        "en": "You would more easily recall the dates if you used a planner.",
+        "alts": [],
+        "form": "Conditionnel présent"
+      },
+      {
+        "slot": "t|Conditionnel|4",
+        "f": "tense",
+        "s": "Si les ministres étaient absents, leurs équipes ___ les ambassadeurs.",
+        "a": "rappelleraient",
+        "en": "If the ministers were absent, their teams would recall the ambassadors.",
+        "alts": [],
+        "form": "Conditionnel présent"
+      },
+      {
+        "slot": "t|Conditionnel|4",
+        "f": "tense",
+        "s": "Ces vieilles photos ___ à nos parents leur jeunesse si on les leur montrait.",
+        "a": "rappelleraient",
+        "en": "These old photos would recall their youth to our parents if we showed them.",
+        "alts": [],
+        "form": "Conditionnel présent"
+      },
+      {
+        "slot": "t|Subjonctif",
+        "f": "subj",
+        "s": "Il faut que tu ___ ton collègue avant midi.",
+        "a": "rappelles",
+        "en": "You need to call your colleague back before noon.",
+        "alts": [],
+        "form": "Subjonctif présent"
+      },
+      {
+        "slot": "t|Subjonctif",
+        "f": "subj",
+        "s": "Je souhaite que vous ___ aux participants les règles du débat.",
+        "a": "rappeliez",
+        "en": "I wish for you to remind the participants of the debate rules.",
+        "alts": [],
+        "form": "Subjonctif présent"
+      },
+      {
+        "slot": "s|0",
+        "f": "sense",
+        "s": "Je ne me ___ plus le nom de ce restaurant où nous avions dîné.",
+        "a": "rappelle",
+        "en": "I no longer recall the name of that restaurant where we had dinner.",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "s|0",
+        "f": "sense",
+        "s": "Elle essayait de se ___ chaque détail de cette nuit mémorable.",
+        "a": "rappeler",
+        "en": "She was trying to recall every detail of that memorable night.",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "s|1",
+        "f": "sense",
+        "s": "Le professeur doit ___ aux étudiants la date limite de rendu des travaux.",
+        "a": "rappeler",
+        "en": "The professor must remind the students of the submission deadline.",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "s|1",
+        "f": "sense",
+        "s": "Je vous ___ que toute absence doit être justifiée par un certificat médical.",
+        "a": "rappelle",
+        "en": "I remind you that any absence must be justified by a medical certificate.",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "s|2",
+        "f": "sense",
+        "s": "Il a essayé de te ___ mais la ligne était occupée.",
+        "a": "rappeler",
+        "en": "He tried to call you back but the line was busy.",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "s|2",
+        "f": "sense",
+        "s": "Pouvez-vous me ___ dans une heure ? Je suis en réunion pour l'instant.",
+        "a": "rappeler",
+        "en": "Can you call me back in an hour? I am in a meeting right now.",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "s|3",
+        "f": "sense",
+        "s": "Le pays a décidé de ___ son ambassadeur après l'incident diplomatique.",
+        "a": "rappeler",
+        "en": "The country decided to recall its ambassador after the diplomatic incident.",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "s|3",
+        "f": "sense",
+        "s": "L'armée a dû ___ ses troupes stationnées à l'étranger en urgence.",
+        "a": "rappeler",
+        "en": "The army had to urgently recall its troops stationed abroad.",
+        "alts": [],
+        "form": ""
+      }
+    ]
+  },
+  {
+    "id": 209,
+    "qs": [
+      {
+        "slot": "t|Présent|0",
+        "f": "tense",
+        "s": "Je ___ mon ami à ma famille ce soir.",
+        "a": "présente",
+        "en": "I am introducing my friend to my family this evening.",
+        "alts": [],
+        "form": "Présent"
+      },
+      {
+        "slot": "t|Présent|0",
+        "f": "tense",
+        "s": "Le directeur ___ le nouveau projet devant l'équipe.",
+        "a": "présente",
+        "en": "The director is presenting the new project to the team.",
+        "alts": [],
+        "form": "Présent"
+      },
+      {
+        "slot": "t|Présent|1",
+        "f": "tense",
+        "s": "Tu ___ ton exposé demain, n'est-ce pas ?",
+        "a": "présentes",
+        "en": "You are presenting your report tomorrow, aren't you?",
+        "alts": [],
+        "form": "Présent"
+      },
+      {
+        "slot": "t|Présent|1",
+        "f": "tense",
+        "s": "Est-ce que tu ___ tes collègues à ton chef ?",
+        "a": "présentes",
+        "en": "Are you introducing your colleagues to your boss?",
+        "alts": [],
+        "form": "Présent"
+      },
+      {
+        "slot": "t|Présent|2",
+        "f": "tense",
+        "s": "Nous ___ nos résultats lors de la réunion de demain.",
+        "a": "présentons",
+        "en": "We are presenting our results at tomorrow's meeting.",
+        "alts": [],
+        "form": "Présent"
+      },
+      {
+        "slot": "t|Présent|2",
+        "f": "tense",
+        "s": "Nous ___ notre nouveau produit à la foire commerciale.",
+        "a": "présentons",
+        "en": "We are presenting our new product at the trade fair.",
+        "alts": [],
+        "form": "Présent"
+      },
+      {
+        "slot": "t|Présent|3",
+        "f": "tense",
+        "s": "Vous ___ le rapport final à la direction aujourd'hui.",
+        "a": "présentez",
+        "en": "You are presenting the final report to management today.",
+        "alts": [],
+        "form": "Présent"
+      },
+      {
+        "slot": "t|Présent|3",
+        "f": "tense",
+        "s": "Vous ___ un candidat très qualifié pour ce poste.",
+        "a": "présentez",
+        "en": "You are presenting a very qualified candidate for this position.",
+        "alts": [],
+        "form": "Présent"
+      },
+      {
+        "slot": "t|Présent|4",
+        "f": "tense",
+        "s": "Les élèves ___ leurs projets devant toute la classe.",
+        "a": "présentent",
+        "en": "The students are presenting their projects in front of the whole class.",
+        "alts": [],
+        "form": "Présent"
+      },
+      {
+        "slot": "t|Présent|4",
+        "f": "tense",
+        "s": "Ils ___ leurs excuses au directeur après l'incident.",
+        "a": "présentent",
+        "en": "They are presenting their apologies to the director after the incident.",
+        "alts": [],
+        "form": "Présent"
+      },
+      {
+        "slot": "t|Passé composé|0",
+        "f": "tense",
+        "s": "J' ___ mon petit ami à mes parents la semaine dernière.",
+        "a": "ai présenté",
+        "en": "I introduced my boyfriend to my parents last week.",
+        "alts": [],
+        "form": "Passé composé"
+      },
+      {
+        "slot": "t|Passé composé|0",
+        "f": "tense",
+        "s": "J' ___ mon exposé devant la classe hier matin.",
+        "a": "ai présenté",
+        "en": "I presented my talk in front of the class yesterday morning.",
+        "alts": [],
+        "form": "Passé composé"
+      },
+      {
+        "slot": "t|Passé composé|1",
+        "f": "tense",
+        "s": "Tu ___ ton dossier à temps pour la réunion.",
+        "a": "as présenté",
+        "en": "You presented your file on time for the meeting.",
+        "alts": [],
+        "form": "Passé composé"
+      },
+      {
+        "slot": "t|Passé composé|1",
+        "f": "tense",
+        "s": "Tu ___ un plan très clair lors de la conférence.",
+        "a": "as présenté",
+        "en": "You presented a very clear plan during the conference.",
+        "alts": [],
+        "form": "Passé composé"
+      },
+      {
+        "slot": "t|Passé composé|2",
+        "f": "tense",
+        "s": "Le professeur ___ les nouveaux élèves à la classe lundi dernier.",
+        "a": "a présenté",
+        "en": "The teacher introduced the new students to the class last Monday.",
+        "alts": [],
+        "form": "Passé composé"
+      },
+      {
+        "slot": "t|Passé composé|2",
+        "f": "tense",
+        "s": "Elle ___ son mémoire devant le jury avec beaucoup de confiance.",
+        "a": "a présenté",
+        "en": "She presented her thesis in front of the jury with great confidence.",
+        "alts": [],
+        "form": "Passé composé"
+      },
+      {
+        "slot": "t|Passé composé|3",
+        "f": "tense",
+        "s": "Nous ___ notre projet à l'investisseur hier après-midi.",
+        "a": "avons présenté",
+        "en": "We presented our project to the investor yesterday afternoon.",
+        "alts": [],
+        "form": "Passé composé"
+      },
+      {
+        "slot": "t|Passé composé|3",
+        "f": "tense",
+        "s": "Nous ___ nos excuses à nos voisins après la fête.",
+        "a": "avons présenté",
+        "en": "We presented our apologies to our neighbors after the party.",
+        "alts": [],
+        "form": "Passé composé"
+      },
+      {
+        "slot": "t|Passé composé|4",
+        "f": "tense",
+        "s": "Vous ___ vos conclusions au comité la semaine passée.",
+        "a": "avez présenté",
+        "en": "You presented your conclusions to the committee last week.",
+        "alts": [],
+        "form": "Passé composé"
+      },
+      {
+        "slot": "t|Passé composé|4",
+        "f": "tense",
+        "s": "Vous ___ votre candidature avant la date limite.",
+        "a": "avez présenté",
+        "en": "You submitted your application before the deadline.",
+        "alts": [],
+        "form": "Passé composé"
+      },
+      {
+        "slot": "t|Passé composé|5",
+        "f": "tense",
+        "s": "Les chercheurs ___ leurs découvertes au congrès international.",
+        "a": "ont présenté",
+        "en": "The researchers presented their findings at the international congress.",
+        "alts": [],
+        "form": "Passé composé"
+      },
+      {
+        "slot": "t|Passé composé|5",
+        "f": "tense",
+        "s": "Elles ___ leurs nouveaux collègues à toute l'équipe.",
+        "a": "ont présenté",
+        "en": "They introduced their new colleagues to the whole team.",
+        "alts": [],
+        "form": "Passé composé"
+      },
+      {
+        "slot": "t|Imparfait|0",
+        "f": "tense",
+        "s": "Quand j'étais enfant, je ___ toujours mes amis à ma grand-mère.",
+        "a": "présentais",
+        "en": "When I was a child, I always introduced my friends to my grandmother.",
+        "alts": [],
+        "form": "Imparfait"
+      },
+      {
+        "slot": "t|Imparfait|0",
+        "f": "tense",
+        "s": "À l'école, tu ___ tes exposés sans notes.",
+        "a": "présentais",
+        "en": "At school, you used to present your talks without notes.",
+        "alts": [],
+        "form": "Imparfait"
+      },
+      {
+        "slot": "t|Imparfait|1",
+        "f": "tense",
+        "s": "L'animatrice ___ chaque invité avec un grand sourire.",
+        "a": "présentait",
+        "en": "The host used to introduce each guest with a big smile.",
+        "alts": [],
+        "form": "Imparfait"
+      },
+      {
+        "slot": "t|Imparfait|1",
+        "f": "tense",
+        "s": "Le musée ___ ses nouvelles collections chaque automne.",
+        "a": "présentait",
+        "en": "The museum used to present its new collections every autumn.",
+        "alts": [],
+        "form": "Imparfait"
+      },
+      {
+        "slot": "t|Imparfait|2",
+        "f": "tense",
+        "s": "Nous ___ nos travaux à la fin de chaque trimestre.",
+        "a": "présentions",
+        "en": "We used to present our work at the end of each term.",
+        "alts": [],
+        "form": "Imparfait"
+      },
+      {
+        "slot": "t|Imparfait|2",
+        "f": "tense",
+        "s": "Nous ___ les nouveaux membres au reste de l'association chaque mois.",
+        "a": "présentions",
+        "en": "We used to introduce the new members to the rest of the association every month.",
+        "alts": [],
+        "form": "Imparfait"
+      },
+      {
+        "slot": "t|Imparfait|3",
+        "f": "tense",
+        "s": "Vous ___ toujours vos idées de façon très convaincante.",
+        "a": "présentiez",
+        "en": "You always used to present your ideas in a very convincing way.",
+        "alts": [],
+        "form": "Imparfait"
+      },
+      {
+        "slot": "t|Imparfait|3",
+        "f": "tense",
+        "s": "Vous ___ les nouveaux employés lors des réunions hebdomadaires.",
+        "a": "présentiez",
+        "en": "You used to introduce the new employees at the weekly meetings.",
+        "alts": [],
+        "form": "Imparfait"
+      },
+      {
+        "slot": "t|Imparfait|4",
+        "f": "tense",
+        "s": "Les journalistes ___ les faits sans donner leur opinion.",
+        "a": "présentaient",
+        "en": "The journalists used to present the facts without giving their opinion.",
+        "alts": [],
+        "form": "Imparfait"
+      },
+      {
+        "slot": "t|Imparfait|4",
+        "f": "tense",
+        "s": "Ils ___ leurs candidatures chaque année au concours national.",
+        "a": "présentaient",
+        "en": "They used to submit their applications every year to the national competition.",
+        "alts": [],
+        "form": "Imparfait"
+      },
+      {
+        "slot": "t|Futur|0",
+        "f": "tense",
+        "s": "Je ___ mon rapport lors de la prochaine réunion.",
+        "a": "présenterai",
+        "en": "I will present my report at the next meeting.",
+        "alts": [],
+        "form": "Futur"
+      },
+      {
+        "slot": "t|Futur|0",
+        "f": "tense",
+        "s": "Demain, je ___ mon nouveau collègue à toute l'équipe.",
+        "a": "présenterai",
+        "en": "Tomorrow, I will introduce my new colleague to the whole team.",
+        "alts": [],
+        "form": "Futur"
+      },
+      {
+        "slot": "t|Futur|1",
+        "f": "tense",
+        "s": "Tu ___ tes idées au jury le mois prochain.",
+        "a": "présenteras",
+        "en": "You will present your ideas to the jury next month.",
+        "alts": [],
+        "form": "Futur"
+      },
+      {
+        "slot": "t|Futur|1",
+        "f": "tense",
+        "s": "Quand tu seras prêt, tu ___ ta thèse à la commission.",
+        "a": "présenteras",
+        "en": "When you are ready, you will present your thesis to the committee.",
+        "alts": [],
+        "form": "Futur"
+      },
+      {
+        "slot": "t|Futur|2",
+        "f": "tense",
+        "s": "Le chef de projet ___ les résultats vendredi prochain.",
+        "a": "présentera",
+        "en": "The project manager will present the results next Friday.",
+        "alts": [],
+        "form": "Futur"
+      },
+      {
+        "slot": "t|Futur|2",
+        "f": "tense",
+        "s": "La directrice ___ son plan stratégique lors du sommet.",
+        "a": "présentera",
+        "en": "The director will present her strategic plan at the summit.",
+        "alts": [],
+        "form": "Futur"
+      },
+      {
+        "slot": "t|Futur|3",
+        "f": "tense",
+        "s": "Nous ___ notre nouveau programme la semaine prochaine.",
+        "a": "présenterons",
+        "en": "We will present our new programme next week.",
+        "alts": [],
+        "form": "Futur"
+      },
+      {
+        "slot": "t|Futur|3",
+        "f": "tense",
+        "s": "Nous ___ les candidats retenus lors de la cérémonie.",
+        "a": "présenterons",
+        "en": "We will introduce the selected candidates at the ceremony.",
+        "alts": [],
+        "form": "Futur"
+      },
+      {
+        "slot": "t|Futur|4",
+        "f": "tense",
+        "s": "Vous ___ vos propositions à la direction en fin de semaine.",
+        "a": "présenterez",
+        "en": "You will present your proposals to management at the end of the week.",
+        "alts": [],
+        "form": "Futur"
+      },
+      {
+        "slot": "t|Futur|4",
+        "f": "tense",
+        "s": "Vous ___ votre invention au salon de l'innovation l'année prochaine.",
+        "a": "présenterez",
+        "en": "You will present your invention at the innovation fair next year.",
+        "alts": [],
+        "form": "Futur"
+      },
+      {
+        "slot": "t|Futur|5",
+        "f": "tense",
+        "s": "Les étudiants ___ leurs mémoires devant le jury en juin.",
+        "a": "présenteront",
+        "en": "The students will present their dissertations before the jury in June.",
+        "alts": [],
+        "form": "Futur"
+      },
+      {
+        "slot": "t|Futur|5",
+        "f": "tense",
+        "s": "Ils ___ leurs nouvelles collections lors de la fashion week.",
+        "a": "présenteront",
+        "en": "They will present their new collections during fashion week.",
+        "alts": [],
+        "form": "Futur"
+      },
+      {
+        "slot": "t|Conditionnel|0",
+        "f": "tense",
+        "s": "Si j'avais plus de temps, je ___ mon projet de manière plus détaillée.",
+        "a": "présenterais",
+        "en": "If I had more time, I would present my project in more detail.",
+        "alts": [],
+        "form": "Conditionnel"
+      },
+      {
+        "slot": "t|Conditionnel|0",
+        "f": "tense",
+        "s": "Si tu avais un micro, tu ___ ton discours devant tout le monde.",
+        "a": "présenterais",
+        "en": "If you had a microphone, you would deliver your speech in front of everyone.",
+        "alts": [],
+        "form": "Conditionnel"
+      },
+      {
+        "slot": "t|Conditionnel|1",
+        "f": "tense",
+        "s": "Si le directeur était disponible, il ___ lui-même les nouveaux membres.",
+        "a": "présenterait",
+        "en": "If the director were available, he would introduce the new members himself.",
+        "alts": [],
+        "form": "Conditionnel"
+      },
+      {
+        "slot": "t|Conditionnel|1",
+        "f": "tense",
+        "s": "Si elle avait plus de confiance en elle, elle ___ son travail sans hésitation.",
+        "a": "présenterait",
+        "en": "If she had more self-confidence, she would present her work without hesitation.",
+        "alts": [],
+        "form": "Conditionnel"
+      },
+      {
+        "slot": "t|Conditionnel|2",
+        "f": "tense",
+        "s": "Si nous avions un budget plus important, nous ___ nos produits à l'international.",
+        "a": "présenterions",
+        "en": "If we had a larger budget, we would present our products internationally.",
+        "alts": [],
+        "form": "Conditionnel"
+      },
+      {
+        "slot": "t|Conditionnel|2",
+        "f": "tense",
+        "s": "Si nous avions plus de données, nous ___ une analyse plus complète.",
+        "a": "présenterions",
+        "en": "If we had more data, we would present a more complete analysis.",
+        "alts": [],
+        "form": "Conditionnel"
+      },
+      {
+        "slot": "t|Conditionnel|3",
+        "f": "tense",
+        "s": "Si vous aviez davantage de temps, vous ___ votre candidature plus tôt.",
+        "a": "présenteriez",
+        "en": "If you had more time, you would submit your application sooner.",
+        "alts": [],
+        "form": "Conditionnel"
+      },
+      {
+        "slot": "t|Conditionnel|3",
+        "f": "tense",
+        "s": "Si vous étiez invités, vous ___ vos recherches au congrès.",
+        "a": "présenteriez",
+        "en": "If you were invited, you would present your research at the congress.",
+        "alts": [],
+        "form": "Conditionnel"
+      },
+      {
+        "slot": "t|Conditionnel|4",
+        "f": "tense",
+        "s": "Si les délais étaient prolongés, ils ___ un dossier plus complet.",
+        "a": "présenteraient",
+        "en": "If the deadlines were extended, they would present a more complete file.",
+        "alts": [],
+        "form": "Conditionnel"
+      },
+      {
+        "slot": "t|Conditionnel|4",
+        "f": "tense",
+        "s": "Si elles avaient plus de ressources, elles ___ leurs travaux dans une grande salle.",
+        "a": "présenteraient",
+        "en": "If they had more resources, they would present their work in a large hall.",
+        "alts": [],
+        "form": "Conditionnel"
+      },
+      {
+        "slot": "t|Subjonctif",
+        "f": "subj",
+        "s": "Il faut que tu ___ ton dossier avant la fin de la semaine.",
+        "a": "présentes",
+        "en": "You need to present your file before the end of the week.",
+        "alts": [],
+        "form": "Subjonctif"
+      },
+      {
+        "slot": "t|Subjonctif",
+        "f": "subj",
+        "s": "Je souhaite qu'il ___ ses excuses en personne.",
+        "a": "présente",
+        "en": "I wish that he would present his apologies in person.",
+        "alts": [],
+        "form": "Subjonctif"
+      },
+      {
+        "slot": "s|0",
+        "f": "sense",
+        "s": "Permettez-moi de vous ___ mon collègue Marc.",
+        "a": "présenter",
+        "en": "Allow me to introduce my colleague Marc to you.",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "s|0",
+        "f": "sense",
+        "s": "Elle a voulu ___ ses amis à ses parents avant le mariage.",
+        "a": "présenter",
+        "en": "She wanted to introduce her friends to her parents before the wedding.",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "s|1",
+        "f": "sense",
+        "s": "La situation économique commence à ___ des signes d'amélioration.",
+        "a": "présenter",
+        "en": "The economic situation is beginning to show signs of improvement.",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "s|1",
+        "f": "sense",
+        "s": "Ce tableau ___ une scène de la vie quotidienne au XIXe siècle.",
+        "a": "présente",
+        "en": "This painting depicts a scene of everyday life in the 19th century.",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "s|2",
+        "f": "sense",
+        "s": "Le musée va ___ une nouvelle exposition sur l'art moderne.",
+        "a": "présenter",
+        "en": "The museum is going to display a new exhibition on modern art.",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "s|2",
+        "f": "sense",
+        "s": "Le vendeur nous a montré comment ___ les produits dans la vitrine.",
+        "a": "présenter",
+        "en": "The salesperson showed us how to display the products in the shop window.",
+        "alts": [],
+        "form": ""
+      }
+    ]
+  }
+]

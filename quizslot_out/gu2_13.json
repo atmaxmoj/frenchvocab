@@ -1,0 +1,191 @@
+[
+  {
+    "id": 3240,
+    "qs": [
+      {
+        "slot": "s|0",
+        "f": "sense",
+        "s": "Cette application a une ___ très intuitive et facile à utiliser.",
+        "en": "This application has a very intuitive and easy-to-use interface (screen/UI).",
+        "a": "interface",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "s|0",
+        "f": "sense",
+        "s": "L'___ graphique du logiciel a été redessinée pour mieux convenir aux débutants.",
+        "en": "The graphical interface of the software was redesigned to better suit beginners.",
+        "a": "interface",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "s|1",
+        "f": "sense",
+        "s": "Ce module propose une ___ de programmation que les développeurs peuvent utiliser pour intégrer nos services.",
+        "en": "This module offers a programming interface that developers can use to integrate our services.",
+        "a": "interface",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "s|1",
+        "f": "sense",
+        "s": "Les deux systèmes communiquent grâce à une ___ commune définie dans le protocole.",
+        "en": "The two systems communicate through a common interface defined in the protocol.",
+        "a": "interface",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "gender",
+        "f": "gender",
+        "s": "Pour améliorer l'expérience utilisateur, ils ont repensé ___ interface du site web.",
+        "en": "To improve the user experience, they redesigned the website's interface.",
+        "a": "l'",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "gender",
+        "f": "gender",
+        "s": "Nous avons besoin d'___ interface claire pour que les clients trouvent facilement ce qu'ils cherchent.",
+        "en": "We need a clear interface so that customers can easily find what they are looking for.",
+        "a": "une",
+        "alts": [],
+        "form": ""
+      }
+    ]
+  },
+  {
+    "id": 3241,
+    "qs": [
+      {
+        "slot": "s|0",
+        "f": "sense",
+        "s": "Contactez l'___ du système si vous ne pouvez pas accéder à votre compte.",
+        "en": "Contact the system administrator if you cannot access your account.",
+        "a": "administrateur",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "s|0",
+        "f": "sense",
+        "s": "L'___ réseau a mis à jour les paramètres de sécurité ce matin.",
+        "en": "The network administrator updated the security settings this morning.",
+        "a": "administrateur",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "s|1",
+        "f": "sense",
+        "s": "En tant qu'___, il est chargé de coordonner les dossiers entre les différents services.",
+        "en": "As an administrator (administrative officer), he is responsible for coordinating files between the various departments.",
+        "a": "administrateur",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "s|1",
+        "f": "sense",
+        "s": "Le ministère a recruté un nouvel ___ pour gérer les procédures administratives internes.",
+        "en": "The ministry recruited a new administrator to manage internal administrative procedures.",
+        "a": "administrateur",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "s|2",
+        "f": "sense",
+        "s": "Chaque ___ du conseil d'administration dispose d'une voix lors des votes.",
+        "en": "Each board member (trustee) has one vote during ballots.",
+        "a": "administrateur",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "s|2",
+        "f": "sense",
+        "s": "Elle a été élue ___ de la fondation lors de l'assemblée générale.",
+        "en": "She was elected trustee/board member of the foundation at the general assembly.",
+        "a": "administratrice",
+        "alts": ["administrateur"],
+        "form": ""
+      },
+      {
+        "slot": "gender",
+        "f": "gender",
+        "s": "Mon entreprise a engagé ___ administrateur expérimenté pour superviser l'ensemble du réseau.",
+        "en": "My company hired an experienced administrator to oversee the entire network.",
+        "a": "un",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "gender",
+        "f": "gender",
+        "s": "Il faut contacter ___ administrateur pour réinitialiser ton mot de passe.",
+        "en": "You need to contact the administrator to reset your password.",
+        "a": "l'",
+        "alts": [],
+        "form": ""
+      }
+    ]
+  },
+  {
+    "id": 3242,
+    "qs": [
+      {
+        "slot": "s|0",
+        "f": "sense",
+        "s": "Elle a posé le vase sur la table ___.",
+        "en": "She placed the vase on the table gently (with a light, soft touch).",
+        "a": "doucement",
+        "alts": ["délicatement"]
+      },
+      {
+        "slot": "s|0",
+        "f": "sense",
+        "s": "Il a caressé les cheveux de l'enfant ___.",
+        "en": "He stroked the child's hair softly.",
+        "a": "doucement",
+        "alts": ["délicatement"]
+      },
+      {
+        "slot": "s|1",
+        "f": "sense",
+        "s": "Conduisez ___ dans le parking, s'il vous plaît.",
+        "en": "Drive slowly in the car park, please.",
+        "a": "doucement",
+        "alts": ["lentement"]
+      },
+      {
+        "slot": "s|1",
+        "f": "sense",
+        "s": "La rivière coule ___ entre les rochers.",
+        "en": "The river flows slowly between the rocks.",
+        "a": "doucement",
+        "alts": ["lentement"]
+      },
+      {
+        "slot": "s|2",
+        "f": "sense",
+        "s": "Il a ___ repris son fils pour lui expliquer son erreur.",
+        "en": "He gently reproved his son to explain his mistake.",
+        "a": "doucement",
+        "alts": ["gentiment"]
+      },
+      {
+        "slot": "s|2",
+        "f": "sense",
+        "s": "Le médecin lui a ___ annoncé la nouvelle.",
+        "en": "The doctor broke the news to him gently, in a mild and considerate manner.",
+        "a": "doucement",
+        "alts": ["gentiment"]
+      }
+    ]
+  }
+]

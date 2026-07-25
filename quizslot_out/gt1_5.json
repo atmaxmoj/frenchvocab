@@ -1,0 +1,45 @@
+[
+  {
+    "id": 3016,
+    "qs": [
+      {"slot":"s|0","f":"sense","s":"Le niveau de pollution dans ces deux villes est tout à fait ___ .","en":"The pollution level in these two cities is quite comparable (can be compared).","a":"comparable","alts":[],"form":""},
+      {"slot":"s|0","f":"sense","s":"Ce modèle économique n'est pas ___ au précédent, car les données de base diffèrent.","en":"This economic model is not comparable to the previous one, as the baseline data differ.","a":"comparable","alts":[],"form":""},
+      {"slot":"s|1","f":"sense","s":"Il a un style d'écriture ___ à celui de son maître.","en":"He has a writing style similar to that of his master.","a":"comparable","alts":[],"form":""},
+      {"slot":"s|1","f":"sense","s":"Cette situation est ___ à celle que nous avons connue l'an passé.","en":"This situation is similar to the one we experienced last year.","a":"comparable","alts":[],"form":""},
+      {"slot":"g|mp","f":"agree","s":"Ces deux projets sont ___ sur bien des points.","en":"These two projects are comparable in many respects.","a":"comparables","alts":[],"form":""},
+      {"slot":"g|mp","f":"agree","s":"Les résultats obtenus sont tout à fait ___ à ceux de l'étude précédente.","en":"The results obtained are quite comparable to those of the previous study.","a":"comparables","alts":[],"form":""},
+      {"slot":"g|f","f":"agree","s":"La performance de cette équipe est ___ à celle des champions.","en":"The performance of this team is comparable to that of the champions.","a":"comparable","alts":[],"form":""},
+      {"slot":"g|f","f":"agree","s":"Cette offre est ___ à celle de nos concurrents.","en":"This offer is comparable to that of our competitors.","a":"comparable","alts":[],"form":""},
+      {"slot":"g|fp","f":"agree","s":"Ces deux situations économiques sont ___ à bien des égards.","en":"These two economic situations are comparable in many respects.","a":"comparables","alts":[],"form":""},
+      {"slot":"g|fp","f":"agree","s":"Les deux méthodes sont ___ en termes d'efficacité.","en":"The two methods are comparable in terms of effectiveness.","a":"comparables","alts":[],"form":""}
+    ]
+  },
+  {
+    "id": 3017,
+    "qs": [
+      {"slot":"s|0","f":"sense","s":"Dès notre première rencontre, j'ai ressenti une ___ immédiate pour lui.","en":"From our very first meeting, I felt an immediate liking for him.","a":"sympathie","alts":[],"form":""},
+      {"slot":"s|0","f":"sense","s":"Elle a gagné la ___ de ses collègues grâce à son sourire chaleureux.","en":"She won the liking of her colleagues thanks to her warm smile.","a":"sympathie","alts":[],"form":""},
+      {"slot":"s|1","f":"sense","s":"Il a exprimé sa ___ à la famille du défunt lors des funérailles.","en":"He expressed his sympathy to the deceased's family at the funeral.","a":"sympathie","alts":[],"form":""},
+      {"slot":"s|1","f":"sense","s":"Nous leur témoignons toute notre ___ dans cette épreuve douloureuse.","en":"We extend our deepest sympathy to them in this painful ordeal.","a":"sympathie","alts":[],"form":""},
+      {"slot":"s|2","f":"sense","s":"La ___ avec laquelle il accueille les nouveaux étudiants est remarquable.","en":"The friendliness with which he welcomes new students is remarkable.","a":"sympathie","alts":[],"form":""},
+      {"slot":"s|2","f":"sense","s":"Ce quartier est connu pour la ___ de ses habitants envers les visiteurs.","en":"This neighbourhood is known for the friendliness of its residents towards visitors.","a":"sympathie","alts":[],"form":""},
+      {"slot":"gender","f":"gender","s":"Il m'a accordé ___ sympathie dès le début de notre conversation.","en":"He showed me his sympathy right from the start of our conversation.","a":"sa","alts":[],"form":""},
+      {"slot":"gender","f":"gender","s":"J'éprouve ___ grande sympathie pour les personnes qui traversent des moments difficiles.","en":"I feel a great sympathy for people going through difficult times.","a":"une","alts":[],"form":""}
+    ]
+  },
+  {
+    "id": 3018,
+    "qs": [
+      {"slot":"s|0","f":"sense","s":"Le chômage dans cette région n'est pas conjoncturel, il est ___ .","en":"Unemployment in this region is not cyclical, it is structural (systemic).","a":"structurel","alts":[],"form":""},
+      {"slot":"s|0","f":"sense","s":"Les inégalités ___ persistent malgré les réformes économiques.","en":"Structural (systemic) inequalities persist despite economic reforms.","a":"structurelles","alts":[],"form":""},
+      {"slot":"s|1","f":"sense","s":"L'architecte a proposé des modifications ___ pour renforcer le bâtiment.","en":"The architect proposed structural modifications to reinforce the building.","a":"structurelles","alts":[],"form":""},
+      {"slot":"s|1","f":"sense","s":"Ce défaut ___ dans la charpente exige une intervention urgente.","en":"This structural defect in the framework requires urgent intervention.","a":"structurel","alts":[],"form":""},
+      {"slot":"g|mp","f":"agree","s":"Les problèmes ___ de cette industrie sont bien documentés.","en":"The structural problems of this industry are well documented.","a":"structurels","alts":[],"form":""},
+      {"slot":"g|mp","f":"agree","s":"Des changements ___ s'imposent pour moderniser le système éducatif.","en":"Structural changes are needed to modernize the education system.","a":"structurels","alts":[],"form":""},
+      {"slot":"g|f","f":"agree","s":"Une réforme ___ du marché du travail est nécessaire.","en":"A structural reform of the labor market is necessary.","a":"structurelle","alts":[],"form":""},
+      {"slot":"g|f","f":"agree","s":"La crise ___ dans ce secteur dure depuis plusieurs décennies.","en":"The structural crisis in this sector has lasted for several decades.","a":"structurelle","alts":[],"form":""},
+      {"slot":"g|fp","f":"agree","s":"Ces faiblesses ___ freinent la croissance économique du pays.","en":"These structural weaknesses are holding back the country's economic growth.","a":"structurelles","alts":[],"form":""},
+      {"slot":"g|fp","f":"agree","s":"Les analyses ___ révèlent des failles importantes dans l'infrastructure.","en":"The structural analyses reveal significant flaws in the infrastructure.","a":"structurelles","alts":[],"form":""}
+    ]
+  }
+]

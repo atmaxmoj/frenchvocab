@@ -1,0 +1,47 @@
+[
+  {
+    "id": 2246,
+    "qs": [
+      {"slot":"s|0","f":"sense","s":"Le ___ de la foule vers la sortie s'est fait rapidement.","a":"déplacement","en":"The movement of the crowd toward the exit happened quickly.","alts":[],"form":""},
+      {"slot":"s|0","f":"sense","s":"Le technicien surveille le ___ du bras mécanique sur la chaîne de production.","a":"déplacement","en":"The technician monitors the movement of the mechanical arm on the production line.","alts":[],"form":""},
+      {"slot":"s|1","f":"sense","s":"En physique, le ___ se mesure en mètres et indique la variation de position d'un objet.","a":"déplacement","en":"In physics, displacement is measured in meters and indicates the change in position of an object.","alts":[],"form":""},
+      {"slot":"s|1","f":"sense","s":"Le professeur a demandé aux élèves de calculer le ___ du mobile entre les deux points.","a":"déplacement","en":"The teacher asked the students to calculate the displacement of the moving object between the two points.","alts":[],"form":""},
+      {"slot":"s|2","f":"sense","s":"Les personnes âgées ont du mal à assurer leurs ___ quotidiens sans aide.","a":"déplacements","en":"Elderly people have difficulty managing their daily outings without help.","alts":[],"form":""},
+      {"slot":"s|2","f":"sense","s":"La carte de transport permet de réduire le coût de son ___ en ville.","a":"déplacement","en":"The transport card makes it possible to reduce the cost of getting around the city.","alts":[],"form":""},
+      {"slot":"s|3","f":"sense","s":"Ce commercial est souvent absent car ses ___ professionnels l'amènent à voyager chaque semaine.","a":"déplacements","en":"This salesperson is often away because his business trips take him travelling every week.","alts":[],"form":""},
+      {"slot":"s|3","f":"sense","s":"L'entreprise rembourse les frais de ___ engagés lors des missions à l'étranger.","a":"déplacement","en":"The company reimburses the travel expenses incurred during assignments abroad.","alts":[],"form":""},
+      {"slot":"gender","f":"gender","s":"___ déplacement en train est plus confortable qu'en voiture.","a":"Un","en":"A train journey is more comfortable than by car.","alts":[],"form":""},
+      {"slot":"gender","f":"gender","s":"Il a organisé ___ déplacement à Lyon pour rencontrer ses clients.","a":"un","en":"He organised a trip to Lyon to meet his clients.","alts":[],"form":""}
+    ]
+  },
+  {
+    "id": 2247,
+    "qs": [
+      {"slot":"s|0","f":"sense","s":"Porter une arme à feu est ___ dans ce pays, à condition d'avoir un permis.","a":"légal","en":"Carrying a firearm is lawful in this country, provided you have a licence.","alts":[],"form":""},
+      {"slot":"s|0","f":"sense","s":"Ce commerce est tout à fait ___ ; ils respectent toutes les réglementations en vigueur.","a":"légal","en":"This business is entirely lawful; they comply with all current regulations.","alts":[],"form":""},
+      {"slot":"s|1","f":"sense","s":"L'âge ___ pour conduire une voiture est dix-huit ans en France.","a":"légal","en":"The age prescribed by law to drive a car is eighteen in France.","alts":[],"form":""},
+      {"slot":"s|1","f":"sense","s":"Le délai ___ pour contester cette décision est de deux mois à compter de la notification.","a":"légal","en":"The time limit prescribed by law to challenge this decision is two months from notification.","alts":[],"form":""},
+      {"slot":"g|mp","f":"agree","s":"Les représentants ont examiné tous les moyens ___ disponibles pour résoudre ce litige.","a":"légaux","en":"The representatives examined all the legal means available to resolve this dispute.","alts":[],"form":""},
+      {"slot":"g|mp","f":"agree","s":"Ces documents ___ doivent être signés devant un notaire.","a":"légaux","en":"These legal documents must be signed before a notary.","alts":[],"form":""},
+      {"slot":"g|f","f":"agree","s":"La procédure ___ pour enregistrer une société prend environ une semaine.","a":"légale","en":"The legal procedure to register a company takes about one week.","alts":[],"form":""},
+      {"slot":"g|f","f":"agree","s":"Cette pratique est parfaitement ___ selon la législation actuelle.","a":"légale","en":"This practice is perfectly legal according to current legislation.","alts":[],"form":""},
+      {"slot":"g|fp","f":"agree","s":"Les obligations ___ des employeurs sont clairement définies dans le Code du travail.","a":"légales","en":"The legal obligations of employers are clearly defined in the Labour Code.","alts":[],"form":""},
+      {"slot":"g|fp","f":"agree","s":"Toutes les démarches ___ ont été accomplies avant la signature du contrat.","a":"légales","en":"All the legal formalities were completed before the signing of the contract.","alts":[],"form":""}
+    ]
+  },
+  {
+    "id": 2248,
+    "qs": [
+      {"slot":"s|0","f":"sense","s":"Ce ___ de sécurité détecte automatiquement les tentatives d'intrusion.","a":"dispositif","en":"This security device automatically detects intrusion attempts.","alts":[],"form":""},
+      {"slot":"s|0","f":"sense","s":"Les pompiers ont installé un ___ d'alarme incendie dans tout le bâtiment.","a":"dispositif","en":"The firefighters installed a fire alarm device throughout the building.","alts":[],"form":""},
+      {"slot":"s|1","f":"sense","s":"L'hôpital a acquis un nouveau ___ médical pour le service des urgences.","a":"dispositif","en":"The hospital acquired a new medical apparatus for the emergency department.","alts":[],"form":""},
+      {"slot":"s|1","f":"sense","s":"Ce ___ électronique mesure la température et l'humidité en temps réel.","a":"dispositif","en":"This electronic apparatus measures temperature and humidity in real time.","alts":[],"form":""},
+      {"slot":"s|2","f":"sense","s":"Le gouvernement a mis en place un ___ de contrôle des prix pour protéger les consommateurs.","a":"dispositif","en":"The government put in place a price-control mechanism to protect consumers.","alts":[],"form":""},
+      {"slot":"s|2","f":"sense","s":"Ce ___ juridique permet de résoudre les litiges entre les parties sans passer par un tribunal.","a":"dispositif","en":"This legal mechanism allows disputes between parties to be resolved without going to court.","alts":[],"form":""},
+      {"slot":"s|3","f":"sense","s":"Le maire a présenté un ___ ambitieux pour lutter contre le chômage dans la région.","a":"dispositif","en":"The mayor presented an ambitious plan to fight unemployment in the region.","alts":[],"form":""},
+      {"slot":"s|3","f":"sense","s":"Un ___ d'urgence a été élaboré par les autorités en cas de catastrophe naturelle.","a":"dispositif","en":"An emergency plan was drawn up by the authorities in case of a natural disaster.","alts":[],"form":""},
+      {"slot":"gender","f":"gender","s":"___ dispositif de sécurité a été activé dès le début de la crise.","a":"Le","en":"The security device was activated at the very start of the crisis.","alts":[],"form":""},
+      {"slot":"gender","f":"gender","s":"Les ingénieurs ont conçu ___ dispositif innovant pour réduire la consommation d'énergie.","a":"un","en":"The engineers designed an innovative device to reduce energy consumption.","alts":[],"form":""}
+    ]
+  }
+]

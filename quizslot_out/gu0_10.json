@@ -1,0 +1,41 @@
+[
+  {
+    "id": 3131,
+    "qs": [
+      {"slot":"s|0","f":"sense","s":"Le contrat comporte une clause ___ qui précise les conditions de renouvellement.","en":"The contract includes a supplementary clause that specifies the renewal conditions.","a":"additionnelle","alts":[],"form":""},
+      {"slot":"s|0","f":"sense","s":"Ils ont ajouté un paragraphe ___ à la fin du document pour clarifier les modalités.","en":"They added a supplementary paragraph at the end of the document to clarify the terms.","a":"additionnel","alts":[],"form":""},
+      {"slot":"s|1","f":"sense","s":"Des frais ___ seront facturés si vous dépassez la limite de données.","en":"Extra charges will be billed if you exceed the data limit.","a":"additionnels","alts":[],"form":""},
+      {"slot":"s|1","f":"sense","s":"Le directeur a demandé un effort ___ à son équipe pour terminer le projet à temps.","en":"The manager asked for an extra effort from his team to finish the project on time.","a":"additionnel","alts":[],"form":""},
+      {"slot":"g|mp","f":"agree","s":"Des délais ___ ont été accordés aux étudiants pour rendre leurs travaux.","en":"Additional deadlines were granted to the students to submit their work.","a":"additionnels","alts":[],"form":""},
+      {"slot":"g|mp","f":"agree","s":"Le gouvernement a prévu des fonds ___ pour soutenir les petites entreprises.","en":"The government has allocated additional funds to support small businesses.","a":"additionnels","alts":[],"form":""},
+      {"slot":"g|f","f":"agree","s":"Une formation ___ est proposée aux nouveaux employés pendant leur première semaine.","en":"Additional training is offered to new employees during their first week.","a":"additionnelle","alts":[],"form":""},
+      {"slot":"g|f","f":"agree","s":"Une aide ___ sera apportée aux familles qui en ont le plus besoin.","en":"Additional help will be provided to the families who need it most.","a":"additionnelle","alts":[],"form":""},
+      {"slot":"g|fp","f":"agree","s":"Des ressources ___ ont été mises à disposition pour améliorer les soins aux patients.","en":"Additional resources have been made available to improve patient care.","a":"additionnelles","alts":[],"form":""},
+      {"slot":"g|fp","f":"agree","s":"Des informations ___ seront publiées sur le site officiel dès que possible.","en":"Additional information will be published on the official website as soon as possible.","a":"additionnelles","alts":[],"form":""}
+    ]
+  },
+  {
+    "id": 3132,
+    "qs": [
+      {"slot":"s|0","f":"sense","s":"Le médecin lui a dit d'éviter tout ___ de sucre dans son alimentation.","en":"The doctor told him to avoid any excess of sugar in his diet.","a":"excès","alts":[],"form":""},
+      {"slot":"s|0","f":"sense","s":"Un ___ de sel dans les repas est mauvais pour la tension artérielle.","en":"An excess of salt in meals is bad for blood pressure.","a":"excès","alts":[],"form":""},
+      {"slot":"s|1","f":"sense","s":"Elle s'est épuisée à cause d'un ___ de travail ces derniers mois.","en":"She exhausted herself because of an excess of work in recent months.","a":"excès","alts":[],"form":""},
+      {"slot":"s|1","f":"sense","s":"Son ___ de zèle a fini par irriter ses collègues.","en":"His excess of zeal ended up irritating his colleagues.","a":"excès","alts":[],"form":""},
+      {"slot":"s|2","f":"sense","s":"Le tribunal a condamné le fonctionnaire pour ___ de pouvoir.","en":"The court convicted the official for abuse of power.","a":"excès","alts":[],"form":""},
+      {"slot":"s|2","f":"sense","s":"Il a perdu son permis de conduire à cause d'un ___ de vitesse.","en":"He lost his driving licence because of a speeding offence.","a":"excès","alts":[],"form":""},
+      {"slot":"gender","f":"gender","s":"Elle fait attention à ne pas tomber dans ___ excès alimentaires.","en":"She is careful not to fall into dietary excesses.","a":"les","alts":[],"form":""},
+      {"slot":"gender","f":"gender","s":"Même ___ excès de confiance peut conduire à des erreurs graves.","en":"Even an excess of confidence can lead to serious mistakes.","a":"un","alts":[],"form":""}
+    ]
+  },
+  {
+    "id": 3133,
+    "qs": [
+      {"slot":"s|0","f":"sense","s":"Pour faire cette recette, il te faut ___ d'œufs.","en":"To make this recipe, you need a dozen eggs.","a":"une douzaine","alts":[]},
+      {"slot":"s|0","f":"sense","s":"Le fleuriste m'a vendu ___ de roses rouges pour l'anniversaire.","en":"The florist sold me a dozen red roses for the birthday.","a":"une douzaine","alts":[]},
+      {"slot":"s|1","f":"sense","s":"Il a fallu attendre ___ de minutes avant que le médecin arrive.","en":"We had to wait about a dozen minutes before the doctor arrived.","a":"une douzaine","alts":[]},
+      {"slot":"s|1","f":"sense","s":"Une ___ de personnes étaient présentes, pas beaucoup plus.","en":"About a dozen people were present, not many more.","a":"douzaine","alts":[]},
+      {"slot":"gender","f":"gender","s":"Il a commandé ___ douzaine de croissants pour le petit-déjeuner.","en":"He ordered a dozen croissants for breakfast.","a":"une","alts":[]},
+      {"slot":"gender","f":"gender","s":"J'ai acheté ___ douzaine d'œufs au marché ce matin.","en":"I bought a dozen eggs at the market this morning.","a":"une","alts":[]}
+    ]
+  }
+]

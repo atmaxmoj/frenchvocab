@@ -1,0 +1,43 @@
+[
+  {
+    "id": 6210,
+    "qs": [
+      {"slot":"s|0","f":"sense","s":"Cette étudiante prépare une thèse ___ sur les banlieues françaises.","a":"sociologique","en":"This student is preparing a sociological thesis on French suburbs.","alts":[],"form":""},
+      {"slot":"s|0","f":"sense","s":"Le magazine a publié un dossier ___ sur les nouvelles formes de famille.","a":"sociologique","en":"The magazine published a sociological feature on new forms of family.","alts":[],"form":""},
+      {"slot":"s|1","f":"sense","s":"Le sociologue examine cette crise sous un angle ___ plutôt qu'économique.","a":"sociologique","en":"The sociologist examines this crisis from a sociological angle rather than an economic one.","alts":[],"form":""},
+      {"slot":"s|1","f":"sense","s":"D'un point de vue ___, ce phénomène s'explique par les inégalités sociales.","a":"sociologique","en":"From a sociological point of view, this phenomenon is explained by social inequalities.","alts":[],"form":""},
+      {"slot":"g|mp","f":"agree","s":"Les facteurs ___ expliquent une partie de ce phénomène.","a":"sociologiques","en":"Sociological factors explain part of this phenomenon.","alts":[],"form":""},
+      {"slot":"g|mp","f":"agree","s":"Ces enjeux ___ intéressent beaucoup les étudiants.","a":"sociologiques","en":"These sociological issues interest students a lot.","alts":[],"form":""},
+      {"slot":"g|f","f":"agree","s":"Elle a rédigé une analyse ___ très détaillée.","a":"sociologique","en":"She wrote a very detailed sociological analysis.","alts":[],"form":""},
+      {"slot":"g|f","f":"agree","s":"Cette théorie ___ remet en question nos certitudes.","a":"sociologique","en":"This sociological theory challenges our certainties.","alts":[],"form":""},
+      {"slot":"g|fp","f":"agree","s":"Les recherches ___ montrent l'impact du milieu social.","a":"sociologiques","en":"Sociological research shows the impact of social background.","alts":[],"form":""},
+      {"slot":"g|fp","f":"agree","s":"Ses explications ___ ont convaincu le jury.","a":"sociologiques","en":"His sociological explanations convinced the jury.","alts":[],"form":""}
+    ]
+  },
+  {
+    "id": 6211,
+    "qs": [
+      {"slot":"s|0","f":"sense","s":"Sur cette île tropicale, un grand ___ se dresse juste derrière la plage.","a":"palmier","en":"On this tropical island, a tall palm tree stands just behind the beach.","alts":[]},
+      {"slot":"s|0","f":"sense","s":"Les ___ bordent l'allée qui mène à l'hôtel.","a":"palmiers","en":"Palm trees line the path leading to the hotel.","alts":[]},
+      {"slot":"s|1","f":"sense","s":"Au petit-déjeuner, elle aime manger un ___ croustillant avec son café.","a":"palmier","en":"For breakfast, she likes to eat a crispy palmier pastry with her coffee.","alts":[]},
+      {"slot":"s|1","f":"sense","s":"La boulangerie vend des ___ en forme de cœur, caramélisés au sucre.","a":"palmiers","en":"The bakery sells heart-shaped palmier pastries, caramelized with sugar.","alts":[]},
+      {"slot":"gender","f":"gender","s":"Dans le jardin, ___ palmier a été planté il y a dix ans.","a":"le","en":"In the garden, the palm tree was planted ten years ago.","alts":[]},
+      {"slot":"gender","f":"gender","s":"Elle a acheté ___ palmier pour décorer sa terrasse.","a":"un","en":"She bought a palm tree to decorate her terrace.","alts":[]}
+    ]
+  },
+  {
+    "id": 6212,
+    "qs": [
+      {"slot":"s|0","f":"sense","s":"Ce yaourt ___ sent bon la vanille et a un goût très doux.","a":"vanillé","en":"This vanilla-flavored yogurt smells nicely of vanilla and has a very mild taste.","alts":[]},
+      {"slot":"s|0","f":"sense","s":"J'adore ce parfum ___, il rappelle l'odeur de la vanille fraîche.","a":"vanillé","en":"I love this vanilla-scented perfume, it recalls the smell of fresh vanilla.","alts":[]},
+      {"slot":"s|1","f":"sense","s":"Ce lait ___ contient un peu de vanille ajoutée pour le goût.","a":"vanillé","en":"This vanilla-added milk contains a bit of vanilla added for flavor.","alts":[]},
+      {"slot":"s|1","f":"sense","s":"Le sirop ___ de ma grand-mère est fabriqué avec des gousses de vanille ajoutées au sucre.","a":"vanillé","en":"My grandmother's vanilla-added syrup is made with vanilla pods added to the sugar.","alts":[]},
+      {"slot":"g|mp","f":"agree","s":"Ces yaourts ___ sont excellents au petit-déjeuner.","a":"vanillés","en":"These vanilla-flavored yogurts are excellent for breakfast.","alts":[]},
+      {"slot":"g|mp","f":"agree","s":"Les gâteaux ___ que ma grand-mère prépare sont délicieux.","a":"vanillés","en":"The vanilla cakes that my grandmother makes are delicious.","alts":[]},
+      {"slot":"g|f","f":"agree","s":"Elle a préparé une crème ___ pour le dessert.","a":"vanillée","en":"She prepared a vanilla-flavored cream for dessert.","alts":[]},
+      {"slot":"g|f","f":"agree","s":"J'ai acheté une glace ___ chez le glacier.","a":"vanillée","en":"I bought a vanilla ice cream at the ice cream shop.","alts":[]},
+      {"slot":"g|fp","f":"agree","s":"Les glaces ___ sont les préférées des enfants.","a":"vanillées","en":"Vanilla ice creams are the children's favorites.","alts":[]},
+      {"slot":"g|fp","f":"agree","s":"Ma mère fait des crêpes ___ le dimanche matin.","a":"vanillées","en":"My mother makes vanilla crêpes on Sunday mornings.","alts":[]}
+    ]
+  }
+]

@@ -1,0 +1,51 @@
+[
+  {
+    "id": 6234,
+    "qs": [
+      {"slot":"s|0","f":"sense","s":"Je dois acheter de nouvelles ___ avant la rentrée.","a":"fringues","en":"I need to buy new clothes before school starts again.","alts":[]},
+      {"slot":"s|0","f":"sense","s":"Elle a dépensé tout son salaire en ___ ce mois-ci.","a":"fringues","en":"She spent her whole paycheck on clothes this month.","alts":[]},
+      {"slot":"s|1","f":"sense","s":"Il a enfilé ses meilleures ___ pour aller en boîte samedi soir.","a":"fringues","en":"He put on his best gear to go clubbing on Saturday night.","alts":[]},
+      {"slot":"s|1","f":"sense","s":"Regarde un peu ses ___, il s'est vraiment sapé pour l'entretien.","a":"fringues","en":"Look at his get-up, he really dressed to impress for the interview.","alts":[]},
+      {"slot":"s|2","f":"sense","s":"Le clochard portait de vieilles ___ toutes trouées.","a":"fringues","en":"The homeless man wore old, ragged clothes full of holes.","alts":[]},
+      {"slot":"s|2","f":"sense","s":"Après des années d'usage, il ne lui restait que quelques ___ élimées.","a":"fringues","en":"After years of wear, he had only a few threadbare rags left.","alts":[]},
+      {"slot":"gender","f":"gender","s":"Elle a acheté ___ fringues neuves pour la fête.","a":"des","en":"She bought some new clothes for the party.","alts":[]},
+      {"slot":"gender","f":"gender","s":"Range ___ fringues sales dans le panier à linge.","a":"les","en":"Put the dirty clothes in the laundry basket.","alts":[]}
+    ]
+  },
+  {
+    "id": 6235,
+    "qs": [
+      {"slot":"s|0","f":"sense","s":"Le thon vit dans un environnement ___, loin des côtes.","a":"océanique","en":"Tuna live in an oceanic environment, far from the coasts.","alts":[]},
+      {"slot":"s|0","f":"sense","s":"Les scientifiques étudient la biodiversité ___ des grands fonds marins.","a":"océanique","en":"Scientists study the oceanic biodiversity of the deep sea.","alts":[]},
+      {"slot":"s|1","f":"sense","s":"La croûte ___ est plus fine que la croûte continentale.","a":"océanique","en":"The oceanic crust is thinner than the continental crust.","alts":[]},
+      {"slot":"s|1","f":"sense","s":"Cette plaque ___ s'enfonce sous la plaque continentale lors de la subduction.","a":"océanique","en":"This oceanic plate sinks beneath the continental plate during subduction.","alts":[]},
+      {"slot":"s|2","f":"sense","s":"La Bretagne connaît un climat ___, avec des étés frais et des hivers doux.","a":"océanique","en":"Brittany has an oceanic climate, with cool summers and mild winters.","alts":["maritime"]},
+      {"slot":"s|2","f":"sense","s":"Contrairement au climat continental, le climat ___ ne connaît pas de grands écarts de température.","a":"océanique","en":"Unlike the continental climate, the oceanic climate does not have large temperature swings.","alts":["maritime"]},
+      {"slot":"s|3","f":"sense","s":"Ici, l'hiver est ___ : il pleut souvent mais il gèle rarement.","a":"océanique","en":"Here, the winter is oceanic: it rains often but rarely freezes.","alts":[]},
+      {"slot":"s|3","f":"sense","s":"Ce pays a un temps ___, doux et humide toute l'année.","a":"océanique","en":"This country has oceanic weather, mild and humid all year round.","alts":[]},
+      {"slot":"g|mp","f":"agree","s":"Les courants ___ réchauffent les côtes européennes.","a":"océaniques","en":"The oceanic currents warm the European coasts.","alts":[]},
+      {"slot":"g|mp","f":"agree","s":"Les vents ___ apportent beaucoup de pluie sur la côte ouest.","a":"océaniques","en":"The oceanic winds bring a lot of rain to the west coast.","alts":[]},
+      {"slot":"g|f","f":"agree","s":"La faune ___ de cette région est exceptionnelle.","a":"océanique","en":"The oceanic fauna of this region is exceptional.","alts":[]},
+      {"slot":"g|f","f":"agree","s":"Cette île possède une flore ___ unique au monde.","a":"océanique","en":"This island has an oceanic flora unique in the world.","alts":[]},
+      {"slot":"g|fp","f":"agree","s":"Les eaux ___ autour de l'archipel sont très poissonneuses.","a":"océaniques","en":"The oceanic waters around the archipelago are full of fish.","alts":[]},
+      {"slot":"g|fp","f":"agree","s":"Les tempêtes ___ frappent souvent cette côte en hiver.","a":"océaniques","en":"Oceanic storms often hit this coast in winter.","alts":[]}
+    ]
+  },
+  {
+    "id": 6236,
+    "qs": [
+      {"slot":"s|0","f":"sense","s":"Ce fonctionnaire est très ___ : il applique les règlements à la lettre sans jamais les remettre en question.","a":"conformiste","en":"This civil servant is very conformist: he applies the regulations to the letter and never questions them.","alts":[],"form":""},
+      {"slot":"s|0","f":"sense","s":"Dans cette administration, les hauts fonctionnaires restent ___ et suivent scrupuleusement chaque directive venue d'en haut.","a":"conformistes","en":"In this administration, senior civil servants remain conformist and scrupulously follow every directive from above.","alts":[],"form":""},
+      {"slot":"s|1","f":"sense","s":"Beaucoup d'ados sont ___ : ils s'habillent comme leurs copains pour ne pas se faire remarquer.","a":"conformistes","en":"Many teenagers are conformist: they dress like their friends so as not to stand out.","alts":[],"form":""},
+      {"slot":"s|1","f":"sense","s":"Elle est si ___ qu'elle achète toujours les mêmes vêtements que ses amies.","a":"conformiste","en":"She is so conformist that she always buys the same clothes as her friends.","alts":[],"form":""},
+      {"slot":"s|2","f":"sense","s":"Mon grand-père a des idées assez ___ et se méfie de tout changement.","a":"conformistes","en":"My grandfather has fairly conformist ideas and is wary of any change.","alts":[],"form":""},
+      {"slot":"s|2","f":"sense","s":"Dans ce milieu artistique, on admire les rebelles et on méprise les ___ qui répètent sans cesse les mêmes recettes.","a":"conformistes","en":"In this artistic circle, people admire rebels and despise the conformists who endlessly repeat the same formulas.","alts":[],"form":""},
+      {"slot":"g|mp","f":"agree","s":"Ses collègues sont plutôt ___ et évitent de sortir du cadre habituel.","a":"conformistes","en":"His colleagues are rather conformist and avoid stepping outside the usual framework.","alts":[],"form":""},
+      {"slot":"g|mp","f":"agree","s":"Ils trouvent les musiciens pop trop ___, toujours fidèles aux mêmes formules.","a":"conformistes","en":"They find pop musicians too conformist, always faithful to the same formulas.","alts":[],"form":""},
+      {"slot":"g|f","f":"agree","s":"Cette chanteuse a une image plutôt ___, loin de toute provocation.","a":"conformiste","en":"This singer has a rather conformist image, far from any provocation.","alts":[],"form":""},
+      {"slot":"g|f","f":"agree","s":"Sa tenue vestimentaire est restée ___ malgré les nouvelles tendances.","a":"conformiste","en":"Her way of dressing remained conformist despite the new trends.","alts":[],"form":""},
+      {"slot":"g|fp","f":"agree","s":"Ces familles bourgeoises sont réputées ___ et attachées aux traditions.","a":"conformistes","en":"These bourgeois families are known to be conformist and attached to traditions.","alts":[],"form":""},
+      {"slot":"g|fp","f":"agree","s":"Leurs opinions politiques sont assez ___, sans grande originalité.","a":"conformistes","en":"Their political opinions are quite conformist, without much originality.","alts":[],"form":""}
+    ]
+  }
+]

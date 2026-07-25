@@ -1,0 +1,171 @@
+[
+  {
+    "id": 973,
+    "qs": [
+      {
+        "slot": "s|0",
+        "f": "sense",
+        "s": "Le médecin a diagnostiqué une ___ rare chez cette patiente.",
+        "a": "maladie",
+        "en": "The doctor diagnosed a rare disease in this patient.",
+        "alts": []
+      },
+      {
+        "slot": "s|0",
+        "f": "sense",
+        "s": "Certaines ___ infectieuses se transmettent facilement d'une personne à une autre.",
+        "a": "maladies",
+        "en": "Some infectious diseases spread easily from one person to another.",
+        "alts": ["maladie"]
+      },
+      {
+        "slot": "s|1",
+        "f": "sense",
+        "s": "Il est absent du bureau cette semaine : il est en ___.",
+        "a": "maladie",
+        "en": "He is absent from the office this week: he is on sick leave.",
+        "alts": []
+      },
+      {
+        "slot": "s|1",
+        "f": "sense",
+        "s": "Son médecin lui a prescrit trois semaines de ___ en raison de son épuisement.",
+        "a": "maladie",
+        "en": "His doctor prescribed three weeks of sick leave due to his exhaustion.",
+        "alts": []
+      },
+      {
+        "slot": "s|2",
+        "f": "sense",
+        "s": "La corruption est une ___ qui ronge lentement les institutions.",
+        "a": "maladie",
+        "en": "Corruption is a social ill that slowly eats away at institutions.",
+        "alts": []
+      },
+      {
+        "slot": "s|2",
+        "f": "sense",
+        "s": "L'individualisme excessif est considéré par certains comme une ___ de la société moderne.",
+        "a": "maladie",
+        "en": "Excessive individualism is considered by some as a social malaise of modern society.",
+        "alts": []
+      },
+      {
+        "slot": "gender",
+        "f": "gender",
+        "s": "Mon médecin m'a expliqué que ___ maladie dont je souffre nécessite un traitement long.",
+        "a": "la",
+        "en": "My doctor explained to me that the illness I suffer from requires a long treatment.",
+        "alts": []
+      },
+      {
+        "slot": "gender",
+        "f": "gender",
+        "s": "Il a contracté ___ maladie tropicale lors de son voyage en Afrique.",
+        "a": "une",
+        "en": "He contracted a tropical illness during his trip to Africa.",
+        "alts": []
+      }
+    ]
+  },
+  {
+    "id": 974,
+    "qs": [
+      {
+        "slot": "s|0",
+        "f": "sense",
+        "s": "Il est très compétent ; ___ cela, il est toujours ponctuel.",
+        "a": "outre",
+        "en": "He is very competent; besides that, he is always punctual.",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "s|0",
+        "f": "sense",
+        "s": "___ les frais de transport, vous devrez payer les taxes locales.",
+        "a": "Outre",
+        "en": "Besides the transport costs, you will also have to pay local taxes.",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "s|1",
+        "f": "sense",
+        "s": "Ce projet est innovant ; ___, il respecte l'environnement.",
+        "a": "en outre",
+        "en": "This project is innovative; furthermore, it respects the environment.",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "s|1",
+        "f": "sense",
+        "s": "Le candidat parle trois langues et possède, ___, une solide expérience internationale.",
+        "a": "en outre",
+        "en": "The candidate speaks three languages and, furthermore, has solid international experience.",
+        "alts": [],
+        "form": ""
+      }
+    ]
+  },
+  {
+    "id": 975,
+    "qs": [
+      {
+        "slot": "s|0",
+        "f": "sense",
+        "s": "Marie aime lire des romans ___ que son frère préfère regarder des films.",
+        "a": "tandis",
+        "en": "Marie likes reading novels, while her brother prefers watching films.",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "s|0",
+        "f": "sense",
+        "s": "Paul parle beaucoup ___ que sa sœur reste toujours silencieuse.",
+        "a": "tandis",
+        "en": "Paul talks a lot, while his sister always stays silent.",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "s|1",
+        "f": "sense",
+        "s": "Tu passes tes journées à te reposer ___ que moi, je travaille sans relâche.",
+        "a": "tandis",
+        "en": "You spend your days resting, whereas I work relentlessly.",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "s|1",
+        "f": "sense",
+        "s": "Les uns vivent dans le luxe ___ que d'autres manquent du nécessaire.",
+        "a": "tandis",
+        "en": "Some people live in luxury, whereas others lack basic necessities.",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "s|2",
+        "f": "sense",
+        "s": "Le téléphone a sonné ___ que je prenais ma douche.",
+        "a": "tandis",
+        "en": "The phone rang while I was taking a shower.",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "s|2",
+        "f": "sense",
+        "s": "Elle fredonnait une chanson ___ que les enfants jouaient dans le jardin.",
+        "a": "tandis",
+        "en": "She was humming a song while the children were playing in the garden.",
+        "alts": [],
+        "form": ""
+      }
+    ]
+  }
+]

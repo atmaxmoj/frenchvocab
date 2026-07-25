@@ -1,0 +1,253 @@
+[
+  {
+    "id": 799,
+    "qs": [
+      {
+        "slot": "s|0",
+        "f": "sense",
+        "s": "Les deux pays ont échangé une ___ de paix lors du sommet diplomatique.",
+        "en": "The two countries exchanged a peace proposal at the diplomatic summit.",
+        "a": "proposition",
+        "alts": []
+      },
+      {
+        "slot": "s|0",
+        "f": "sense",
+        "s": "Le syndicat a soumis une ___ formelle à la direction avant la grève.",
+        "en": "The union submitted a formal proposal to management before the strike.",
+        "a": "proposition",
+        "alts": []
+      },
+      {
+        "slot": "s|1",
+        "f": "sense",
+        "s": "J'ai une ___ à te faire : et si on partageait les frais de trajet ?",
+        "en": "I have a suggestion for you: what if we split the travel costs?",
+        "a": "proposition",
+        "alts": []
+      },
+      {
+        "slot": "s|1",
+        "f": "sense",
+        "s": "Ses ___ pour améliorer l'ambiance au bureau ont été bien accueillies par l'équipe.",
+        "en": "Her suggestions for improving the office atmosphere were well received by the team.",
+        "a": "propositions",
+        "alts": []
+      },
+      {
+        "slot": "s|2",
+        "f": "sense",
+        "s": "En logique, une ___ est un énoncé qui peut être vrai ou faux.",
+        "en": "In logic, a proposition is a statement that can be true or false.",
+        "a": "proposition",
+        "alts": []
+      },
+      {
+        "slot": "s|2",
+        "f": "sense",
+        "s": "Le professeur demande aux élèves de démontrer cette ___ mathématique.",
+        "en": "The teacher asks the students to prove this mathematical proposition.",
+        "a": "proposition",
+        "alts": []
+      },
+      {
+        "slot": "gender",
+        "f": "gender",
+        "s": "___ proposition qu'il a faite hier m'a vraiment surprise.",
+        "en": "The proposal he made yesterday really surprised me.",
+        "a": "La",
+        "alts": []
+      },
+      {
+        "slot": "gender",
+        "f": "gender",
+        "s": "C'est ___ proposition intéressante à considérer avant de décider.",
+        "en": "It is an interesting proposition to consider before deciding.",
+        "a": "une",
+        "alts": []
+      }
+    ]
+  },
+  {
+    "id": 801,
+    "qs": [
+      {
+        "slot": "s|0",
+        "f": "sense",
+        "s": "Le match s'est terminé sur un score ___ , zéro à zéro.",
+        "a": "nul",
+        "en": "The match ended with a nil score, zero to zero.",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "s|0",
+        "f": "sense",
+        "s": "Le risque d'accident dans cette zone est pratiquement ___ grâce aux nouvelles mesures de sécurité.",
+        "a": "nul",
+        "en": "The risk of accident in this area is practically nil thanks to the new safety measures.",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "s|1",
+        "f": "sense",
+        "s": "Le tribunal a déclaré ce contrat ___ car il avait été signé sous contrainte.",
+        "a": "nul",
+        "en": "The court declared this contract null because it had been signed under duress.",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "s|1",
+        "f": "sense",
+        "s": "Ce vote a été jugé ___ en raison d'une irrégularité dans la procédure.",
+        "a": "nul",
+        "en": "This vote was deemed null due to an irregularity in the procedure.",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "s|2",
+        "f": "sense",
+        "s": "Il est complètement ___ en géographie : il ne sait même pas situer Paris sur une carte.",
+        "a": "nul",
+        "en": "He is completely hopeless at geography: he can't even locate Paris on a map.",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "s|2",
+        "f": "sense",
+        "s": "Ce film est vraiment ___ : les acteurs jouent mal et le scénario n'a aucun intérêt.",
+        "a": "nul",
+        "en": "This film is really worthless: the actors perform poorly and the script has no interest whatsoever.",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "g|mp",
+        "f": "agree",
+        "s": "Leurs efforts ont été ___ : ils n'ont obtenu aucun résultat malgré des heures de travail.",
+        "a": "nuls",
+        "en": "Their efforts were worthless: they obtained no result despite hours of work.",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "g|mp",
+        "f": "agree",
+        "s": "Ces deux contrats ont été déclarés ___ par le juge après l'audience.",
+        "a": "nuls",
+        "en": "These two contracts were declared null by the judge after the hearing.",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "g|f",
+        "f": "agree",
+        "s": "Sa performance lors de l'examen était ___ : elle n'a répondu à aucune question correctement.",
+        "a": "nulle",
+        "en": "Her performance during the exam was worthless: she answered no question correctly.",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "g|f",
+        "f": "agree",
+        "s": "Cette clause est ___ et non avenue, car elle viole la loi en vigueur.",
+        "a": "nulle",
+        "en": "This clause is null and void, as it violates the law in force.",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "g|fp",
+        "f": "agree",
+        "s": "Ces deux promesses de vente ont été déclarées ___ par le notaire.",
+        "a": "nulles",
+        "en": "These two sale agreements were declared null by the notary.",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "g|fp",
+        "f": "agree",
+        "s": "Ses deux tentatives étaient ___ : elle n'avait aucune méthode ni aucun effort sérieux.",
+        "a": "nulles",
+        "en": "Her two attempts were worthless: she had no method and no serious effort.",
+        "alts": [],
+        "form": ""
+      }
+    ]
+  },
+  {
+    "id": 802,
+    "qs": [
+      {
+        "slot": "s|0",
+        "f": "sense",
+        "s": "Le professeur a noté l'___ de trois élèves.",
+        "a": "absence",
+        "en": "The teacher noted the absence of three students.",
+        "alts": []
+      },
+      {
+        "slot": "s|0",
+        "f": "sense",
+        "s": "Son ___ lors de la réunion a surpris tout le monde.",
+        "a": "absence",
+        "en": "His absence during the meeting surprised everyone.",
+        "alts": []
+      },
+      {
+        "slot": "s|1",
+        "f": "sense",
+        "s": "L'___ de preuves a rendu le procès très difficile.",
+        "a": "absence",
+        "en": "The lack of evidence made the trial very difficult.",
+        "alts": []
+      },
+      {
+        "slot": "s|1",
+        "f": "sense",
+        "s": "On remarque une ___ totale de communication dans cette équipe.",
+        "a": "absence",
+        "en": "There is a total lack of communication in this team.",
+        "alts": []
+      },
+      {
+        "slot": "s|2",
+        "f": "sense",
+        "s": "Pendant son ___, c'est sa collègue qui s'occupe du dossier.",
+        "a": "absence",
+        "en": "During his absence, it is his colleague who handles the file.",
+        "alts": []
+      },
+      {
+        "slot": "s|2",
+        "f": "sense",
+        "s": "En cas d'___ du directeur, veuillez contacter son assistante.",
+        "a": "absence",
+        "en": "In case of the director's absence, please contact his assistant.",
+        "alts": []
+      },
+      {
+        "slot": "gender",
+        "f": "gender",
+        "s": "C'est ___ absence injustifiée.",
+        "a": "une",
+        "en": "It is an unjustified absence.",
+        "alts": []
+      },
+      {
+        "slot": "gender",
+        "f": "gender",
+        "s": "___ absence de réponse m'inquiète beaucoup.",
+        "a": "L'",
+        "en": "The absence of a reply worries me a lot.",
+        "alts": []
+      }
+    ]
+  }
+]

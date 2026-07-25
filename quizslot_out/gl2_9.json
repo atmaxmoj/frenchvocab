@@ -1,0 +1,683 @@
+[
+  {
+    "id": 1878,
+    "qs": [
+      {
+        "slot": "s|0",
+        "f": "sense",
+        "s": "Les autorités ont renforcé la sécurité après ___ à la bombe dans le centre-ville.",
+        "en": "The authorities tightened security after the bomb attack in the city center.",
+        "a": "l'attentat",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "s|0",
+        "f": "sense",
+        "s": "Un groupe terroriste a revendiqué ___ qui a fait plusieurs victimes.",
+        "en": "A terrorist group claimed responsibility for the attack that left several victims.",
+        "a": "l'attentat",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "s|1",
+        "f": "sense",
+        "s": "La police a déjoué ___ contre la vie du président.",
+        "en": "The police foiled the assassination attempt against the president's life.",
+        "a": "l'attentat",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "s|1",
+        "f": "sense",
+        "s": "Des gardes du corps ont protégé le Premier ministre lors d'___ manqué.",
+        "en": "Bodyguards protected the Prime Minister during a failed assassination attempt.",
+        "a": "un attentat",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "gender",
+        "f": "gender",
+        "s": "C'était ___ attentat particulièrement violent qui a choqué le pays entier.",
+        "en": "It was a particularly violent attack that shocked the entire country.",
+        "a": "un",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "gender",
+        "f": "gender",
+        "s": "___ attentat de 2001 a marqué un tournant dans l'histoire mondiale.",
+        "en": "The 2001 attack marked a turning point in world history.",
+        "a": "L'",
+        "alts": [],
+        "form": ""
+      }
+    ]
+  },
+  {
+    "id": 1879,
+    "qs": [
+      {
+        "slot": "t|Présent|0",
+        "f": "tense",
+        "s": "Je ___ un café chaque matin avant de partir au travail.",
+        "en": "I drink a coffee every morning before leaving for work.",
+        "a": "bois",
+        "alts": [],
+        "form": "Présent"
+      },
+      {
+        "slot": "t|Présent|0",
+        "f": "tense",
+        "s": "Tu ___ trop de sodas, ce n'est pas bon pour la santé.",
+        "en": "You drink too many sodas, it's not good for your health.",
+        "a": "bois",
+        "alts": [],
+        "form": "Présent"
+      },
+      {
+        "slot": "t|Présent|1",
+        "f": "tense",
+        "s": "Mon chat ___ son lait avec beaucoup d'appétit.",
+        "en": "My cat drinks its milk with great appetite.",
+        "a": "boit",
+        "alts": [],
+        "form": "Présent"
+      },
+      {
+        "slot": "t|Présent|1",
+        "f": "tense",
+        "s": "On ___ souvent de l'eau minérale dans ce restaurant.",
+        "en": "One often drinks mineral water in this restaurant.",
+        "a": "boit",
+        "alts": [],
+        "form": "Présent"
+      },
+      {
+        "slot": "t|Présent|2",
+        "f": "tense",
+        "s": "Nous ___ du thé vert tous les soirs après le dîner.",
+        "en": "We drink green tea every evening after dinner.",
+        "a": "buvons",
+        "alts": [],
+        "form": "Présent"
+      },
+      {
+        "slot": "t|Présent|2",
+        "f": "tense",
+        "s": "Nous ___ à la santé de nos amis lors de chaque fête.",
+        "en": "We drink to the health of our friends at every party.",
+        "a": "buvons",
+        "alts": [],
+        "form": "Présent"
+      },
+      {
+        "slot": "t|Présent|3",
+        "f": "tense",
+        "s": "Vous ___ du café ou du thé le matin ?",
+        "en": "Do you drink coffee or tea in the morning?",
+        "a": "buvez",
+        "alts": [],
+        "form": "Présent"
+      },
+      {
+        "slot": "t|Présent|3",
+        "f": "tense",
+        "s": "Vous ___ beaucoup d'eau pendant vos entraînements.",
+        "en": "You drink a lot of water during your training sessions.",
+        "a": "buvez",
+        "alts": [],
+        "form": "Présent"
+      },
+      {
+        "slot": "t|Présent|4",
+        "f": "tense",
+        "s": "Les enfants ___ du jus d'orange au petit-déjeuner.",
+        "en": "The children drink orange juice at breakfast.",
+        "a": "boivent",
+        "alts": [],
+        "form": "Présent"
+      },
+      {
+        "slot": "t|Présent|4",
+        "f": "tense",
+        "s": "Ils ___ du vin rouge à chaque repas en famille.",
+        "en": "They drink red wine at every family meal.",
+        "a": "boivent",
+        "alts": [],
+        "form": "Présent"
+      },
+      {
+        "slot": "t|Passé composé|0",
+        "f": "tense",
+        "s": "J'___ toute la bouteille d'eau après ma course.",
+        "en": "I drank the whole bottle of water after my run.",
+        "a": "ai bu",
+        "alts": [],
+        "form": "Passé composé"
+      },
+      {
+        "slot": "t|Passé composé|0",
+        "f": "tense",
+        "s": "Hier soir, j'___ un verre de lait chaud avant de dormir.",
+        "en": "Yesterday evening, I drank a glass of warm milk before sleeping.",
+        "a": "ai bu",
+        "alts": [],
+        "form": "Passé composé"
+      },
+      {
+        "slot": "t|Passé composé|1",
+        "f": "tense",
+        "s": "Tu ___ trop de café ce matin, tu es tout énervé.",
+        "en": "You drank too much coffee this morning, you are all worked up.",
+        "a": "as bu",
+        "alts": [],
+        "form": "Passé composé"
+      },
+      {
+        "slot": "t|Passé composé|1",
+        "f": "tense",
+        "s": "Est-ce que tu ___ assez d'eau aujourd'hui ?",
+        "en": "Did you drink enough water today?",
+        "a": "as bu",
+        "alts": [],
+        "form": "Passé composé"
+      },
+      {
+        "slot": "t|Passé composé|2",
+        "f": "tense",
+        "s": "Il ___ trois verres d'eau après sa randonnée.",
+        "en": "He drank three glasses of water after his hike.",
+        "a": "a bu",
+        "alts": [],
+        "form": "Passé composé"
+      },
+      {
+        "slot": "t|Passé composé|2",
+        "f": "tense",
+        "s": "Elle ___ un chocolat chaud ce matin au café.",
+        "en": "She drank a hot chocolate this morning at the café.",
+        "a": "a bu",
+        "alts": [],
+        "form": "Passé composé"
+      },
+      {
+        "slot": "t|Passé composé|3",
+        "f": "tense",
+        "s": "Nous ___ du champagne pour fêter notre victoire.",
+        "en": "We drank champagne to celebrate our victory.",
+        "a": "avons bu",
+        "alts": [],
+        "form": "Passé composé"
+      },
+      {
+        "slot": "t|Passé composé|3",
+        "f": "tense",
+        "s": "Nous ___ un café ensemble après la réunion.",
+        "en": "We drank a coffee together after the meeting.",
+        "a": "avons bu",
+        "alts": [],
+        "form": "Passé composé"
+      },
+      {
+        "slot": "t|Passé composé|4",
+        "f": "tense",
+        "s": "Vous ___ tout le jus de fruits que j'avais préparé.",
+        "en": "You drank all the fruit juice I had prepared.",
+        "a": "avez bu",
+        "alts": [],
+        "form": "Passé composé"
+      },
+      {
+        "slot": "t|Passé composé|4",
+        "f": "tense",
+        "s": "Avez-vous ___ suffisamment d'eau pendant la journée ?",
+        "en": "Did you drink enough water during the day?",
+        "a": "bu",
+        "alts": [],
+        "form": "Passé composé"
+      },
+      {
+        "slot": "t|Passé composé|5",
+        "f": "tense",
+        "s": "Les invités ___ tout le vin rouge à la fête.",
+        "en": "The guests drank all the red wine at the party.",
+        "a": "ont bu",
+        "alts": [],
+        "form": "Passé composé"
+      },
+      {
+        "slot": "t|Passé composé|5",
+        "f": "tense",
+        "s": "Ils ___ un cocktail chacun à l'arrivée.",
+        "en": "They each drank a cocktail upon arrival.",
+        "a": "ont bu",
+        "alts": [],
+        "form": "Passé composé"
+      },
+      {
+        "slot": "t|Imparfait|0",
+        "f": "tense",
+        "s": "Quand j'étais enfant, je ___ du lait tous les soirs.",
+        "en": "When I was a child, I used to drink milk every evening.",
+        "a": "buvais",
+        "alts": [],
+        "form": "Imparfait"
+      },
+      {
+        "slot": "t|Imparfait|0",
+        "f": "tense",
+        "s": "Tu ___ toujours du thé le matin quand tu vivais à Londres.",
+        "en": "You always used to drink tea in the morning when you lived in London.",
+        "a": "buvais",
+        "alts": [],
+        "form": "Imparfait"
+      },
+      {
+        "slot": "t|Imparfait|1",
+        "f": "tense",
+        "s": "Mon père ___ un café après chaque repas quand j'étais petit.",
+        "en": "My father used to drink a coffee after every meal when I was little.",
+        "a": "buvait",
+        "alts": [],
+        "form": "Imparfait"
+      },
+      {
+        "slot": "t|Imparfait|1",
+        "f": "tense",
+        "s": "Elle ___ souvent de l'eau pétillante pendant les réunions.",
+        "en": "She often used to drink sparkling water during meetings.",
+        "a": "buvait",
+        "alts": [],
+        "form": "Imparfait"
+      },
+      {
+        "slot": "t|Imparfait|2",
+        "f": "tense",
+        "s": "Nous ___ du cidre chaque automne lors des vendanges.",
+        "en": "We used to drink cider every autumn during the harvest.",
+        "a": "buvions",
+        "alts": [],
+        "form": "Imparfait"
+      },
+      {
+        "slot": "t|Imparfait|2",
+        "f": "tense",
+        "s": "Nous ___ du chocolat chaud le dimanche matin en famille.",
+        "en": "We used to drink hot chocolate on Sunday mornings as a family.",
+        "a": "buvions",
+        "alts": [],
+        "form": "Imparfait"
+      },
+      {
+        "slot": "t|Imparfait|3",
+        "f": "tense",
+        "s": "Vous ___ du thé glacé tous les après-midis en été.",
+        "en": "You used to drink iced tea every afternoon in summer.",
+        "a": "buviez",
+        "alts": [],
+        "form": "Imparfait"
+      },
+      {
+        "slot": "t|Imparfait|3",
+        "f": "tense",
+        "s": "Vous ___ de l'eau de source quand vous habitiez à la campagne.",
+        "en": "You used to drink spring water when you lived in the countryside.",
+        "a": "buviez",
+        "alts": [],
+        "form": "Imparfait"
+      },
+      {
+        "slot": "t|Imparfait|4",
+        "f": "tense",
+        "s": "Les athlètes ___ beaucoup d'eau pendant chaque entraînement.",
+        "en": "The athletes used to drink a lot of water during every training session.",
+        "a": "buvaient",
+        "alts": [],
+        "form": "Imparfait"
+      },
+      {
+        "slot": "t|Imparfait|4",
+        "f": "tense",
+        "s": "Elles ___ du café ensemble chaque matin au bureau.",
+        "en": "They used to drink coffee together every morning at the office.",
+        "a": "buvaient",
+        "alts": [],
+        "form": "Imparfait"
+      },
+      {
+        "slot": "t|Futur|0",
+        "f": "tense",
+        "s": "Demain matin, je ___ un grand verre d'eau au réveil.",
+        "en": "Tomorrow morning, I will drink a large glass of water upon waking.",
+        "a": "boirai",
+        "alts": [],
+        "form": "Futur"
+      },
+      {
+        "slot": "t|Futur|0",
+        "f": "tense",
+        "s": "Je ___ moins de café la semaine prochaine pour mieux dormir.",
+        "en": "I will drink less coffee next week to sleep better.",
+        "a": "boirai",
+        "alts": [],
+        "form": "Futur"
+      },
+      {
+        "slot": "t|Futur|1",
+        "f": "tense",
+        "s": "Tu ___ du thé chaud quand tu arriveras chez ta grand-mère.",
+        "en": "You will drink hot tea when you arrive at your grandmother's house.",
+        "a": "boiras",
+        "alts": [],
+        "form": "Futur"
+      },
+      {
+        "slot": "t|Futur|1",
+        "f": "tense",
+        "s": "Tu ne ___ plus d'alcool si tu suis les conseils du médecin.",
+        "en": "You will no longer drink alcohol if you follow the doctor's advice.",
+        "a": "boiras",
+        "alts": [],
+        "form": "Futur"
+      },
+      {
+        "slot": "t|Futur|2",
+        "f": "tense",
+        "s": "Il ___ une tisane ce soir pour se relaxer avant de dormir.",
+        "en": "He will drink a herbal tea this evening to relax before sleeping.",
+        "a": "boira",
+        "alts": [],
+        "form": "Futur"
+      },
+      {
+        "slot": "t|Futur|2",
+        "f": "tense",
+        "s": "Elle ___ du champagne à son mariage le mois prochain.",
+        "en": "She will drink champagne at her wedding next month.",
+        "a": "boira",
+        "alts": [],
+        "form": "Futur"
+      },
+      {
+        "slot": "t|Futur|3",
+        "f": "tense",
+        "s": "Nous ___ du vin local lors de notre visite en Bourgogne.",
+        "en": "We will drink local wine during our visit to Burgundy.",
+        "a": "boirons",
+        "alts": [],
+        "form": "Futur"
+      },
+      {
+        "slot": "t|Futur|3",
+        "f": "tense",
+        "s": "Nous ___ un café ensemble après la cérémonie.",
+        "en": "We will drink a coffee together after the ceremony.",
+        "a": "boirons",
+        "alts": [],
+        "form": "Futur"
+      },
+      {
+        "slot": "t|Futur|4",
+        "f": "tense",
+        "s": "Vous ___ du jus de fruit frais à l'arrivée à l'hôtel.",
+        "en": "You will drink fresh fruit juice upon arriving at the hotel.",
+        "a": "boirez",
+        "alts": [],
+        "form": "Futur"
+      },
+      {
+        "slot": "t|Futur|4",
+        "f": "tense",
+        "s": "Vous ___ de l'eau pendant toute la randonnée demain.",
+        "en": "You will drink water throughout the hike tomorrow.",
+        "a": "boirez",
+        "alts": [],
+        "form": "Futur"
+      },
+      {
+        "slot": "t|Futur|5",
+        "f": "tense",
+        "s": "Les touristes ___ du thé à la menthe lors de leur séjour au Maroc.",
+        "en": "The tourists will drink mint tea during their stay in Morocco.",
+        "a": "boiront",
+        "alts": [],
+        "form": "Futur"
+      },
+      {
+        "slot": "t|Futur|5",
+        "f": "tense",
+        "s": "Ils ___ du café après le déjeuner lors de la conférence.",
+        "en": "They will drink coffee after lunch during the conference.",
+        "a": "boiront",
+        "alts": [],
+        "form": "Futur"
+      },
+      {
+        "slot": "t|Conditionnel|0",
+        "f": "tense",
+        "s": "Si j'avais soif, je ___ un grand verre d'eau fraîche.",
+        "en": "If I were thirsty, I would drink a large glass of fresh water.",
+        "a": "boirais",
+        "alts": [],
+        "form": "Conditionnel"
+      },
+      {
+        "slot": "t|Conditionnel|0",
+        "f": "tense",
+        "s": "Si tu avais chaud, tu ___ quelque chose de frais.",
+        "en": "If you were hot, you would drink something cold.",
+        "a": "boirais",
+        "alts": [],
+        "form": "Conditionnel"
+      },
+      {
+        "slot": "t|Conditionnel|1",
+        "f": "tense",
+        "s": "Si elle était fatiguée, elle ___ un café pour se réveiller.",
+        "en": "If she were tired, she would drink a coffee to wake up.",
+        "a": "boirait",
+        "alts": [],
+        "form": "Conditionnel"
+      },
+      {
+        "slot": "t|Conditionnel|1",
+        "f": "tense",
+        "s": "Si on avait le choix, on ___ du jus de mangue.",
+        "en": "If we had the choice, we would drink mango juice.",
+        "a": "boirait",
+        "alts": [],
+        "form": "Conditionnel"
+      },
+      {
+        "slot": "t|Conditionnel|2",
+        "f": "tense",
+        "s": "Si nous étions en Provence, nous ___ du rosé sous les oliviers.",
+        "en": "If we were in Provence, we would drink rosé wine under the olive trees.",
+        "a": "boirions",
+        "alts": [],
+        "form": "Conditionnel"
+      },
+      {
+        "slot": "t|Conditionnel|2",
+        "f": "tense",
+        "s": "Nous ___ volontiers un verre de vin si vous en proposiez.",
+        "en": "We would gladly drink a glass of wine if you offered some.",
+        "a": "boirions",
+        "alts": [],
+        "form": "Conditionnel"
+      },
+      {
+        "slot": "t|Conditionnel|3",
+        "f": "tense",
+        "s": "Si vous aviez soif, vous ___ de l'eau ou du jus ?",
+        "en": "If you were thirsty, would you drink water or juice?",
+        "a": "boiriez",
+        "alts": [],
+        "form": "Conditionnel"
+      },
+      {
+        "slot": "t|Conditionnel|3",
+        "f": "tense",
+        "s": "Vous ___ moins de café si vous dormiez mieux la nuit.",
+        "en": "You would drink less coffee if you slept better at night.",
+        "a": "boiriez",
+        "alts": [],
+        "form": "Conditionnel"
+      },
+      {
+        "slot": "t|Conditionnel|4",
+        "f": "tense",
+        "s": "Si les enfants avaient le choix, ils ___ du chocolat chaud.",
+        "en": "If the children had the choice, they would drink hot chocolate.",
+        "a": "boiraient",
+        "alts": [],
+        "form": "Conditionnel"
+      },
+      {
+        "slot": "t|Conditionnel|4",
+        "f": "tense",
+        "s": "Elles ___ du thé froid si elles en trouvaient dans ce café.",
+        "en": "They would drink cold tea if they could find some in this café.",
+        "a": "boiraient",
+        "alts": [],
+        "form": "Conditionnel"
+      },
+      {
+        "slot": "t|Subjonctif",
+        "f": "subj",
+        "s": "Il faut que tu ___ au moins deux litres d'eau par jour.",
+        "en": "You must drink at least two liters of water per day.",
+        "a": "boives",
+        "alts": [],
+        "form": "Subjonctif présent"
+      },
+      {
+        "slot": "t|Subjonctif",
+        "f": "subj",
+        "s": "Je veux qu'elle ___ son médicament avec un verre d'eau.",
+        "en": "I want her to take her medicine with a glass of water.",
+        "a": "boive",
+        "alts": [],
+        "form": "Subjonctif présent"
+      },
+      {
+        "slot": "s|0",
+        "f": "sense",
+        "s": "Les enfants ___ du lait à chaque repas.",
+        "en": "The children drink milk at every meal.",
+        "a": "boivent",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "s|0",
+        "f": "sense",
+        "s": "Mon frère ___ un café serré après le déjeuner.",
+        "en": "My brother drinks a strong espresso after lunch.",
+        "a": "boit",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "s|1",
+        "f": "sense",
+        "s": "En France, il est courant de ___ du vin lors des repas.",
+        "en": "In France, it is common to drink wine during meals.",
+        "a": "boire",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "s|1",
+        "f": "sense",
+        "s": "Il est recommandé de ___ de l'eau régulièrement pour rester hydraté.",
+        "en": "It is recommended to drink water regularly to stay hydrated.",
+        "a": "boire",
+        "alts": [],
+        "form": ""
+      }
+    ]
+  },
+  {
+    "id": 1880,
+    "qs": [
+      {
+        "slot": "s|0",
+        "f": "sense",
+        "s": "Il a accumulé une grande ___ au cours de sa carrière dans la finance.",
+        "en": "He accumulated great wealth during his career in finance.",
+        "a": "richesse",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "s|0",
+        "f": "sense",
+        "s": "La ___ de ce pays repose principalement sur ses réserves de pétrole.",
+        "en": "The wealth of this country is based mainly on its oil reserves.",
+        "a": "richesse",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "s|1",
+        "f": "sense",
+        "s": "Les touristes sont impressionnés par la ___ culturelle de cette région.",
+        "en": "Tourists are impressed by the cultural richness of this region.",
+        "a": "richesse",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "s|1",
+        "f": "sense",
+        "s": "On admire la ___ du vocabulaire dans ses romans.",
+        "en": "One admires the richness of vocabulary in his novels.",
+        "a": "richesse",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "s|2",
+        "f": "sense",
+        "s": "La ___ de cette expérience, c'est qu'elle nous apprend à mieux nous connaître.",
+        "en": "The precious quality of this experience is that it teaches us to know ourselves better.",
+        "a": "richesse",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "s|2",
+        "f": "sense",
+        "s": "La vraie ___ de ce projet réside dans la diversité des points de vue qu'il rassemble.",
+        "en": "The true value of this project lies in the diversity of viewpoints it brings together.",
+        "a": "richesse",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "gender",
+        "f": "gender",
+        "s": "Dans ce quartier, on peut voir ___ richesse côtoyer la pauvreté.",
+        "en": "In this neighborhood, one can see wealth existing alongside poverty.",
+        "a": "la",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "gender",
+        "f": "gender",
+        "s": "Il rêve de posséder ___ richesse qu'il pourrait partager avec sa famille.",
+        "en": "He dreams of possessing a wealth that he could share with his family.",
+        "a": "une",
+        "alts": [],
+        "form": ""
+      }
+    ]
+  }
+]

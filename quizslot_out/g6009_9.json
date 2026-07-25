@@ -1,0 +1,37 @@
+[
+  {
+    "id": 6522,
+    "qs": [
+      {"slot":"s|0","f":"sense","s":"Son appétit ___ pour le luxe inquiète sa famille.","a":"immodéré","en":"His immoderate appetite for luxury worries his family.","alts":["excessif"]},
+      {"slot":"s|0","f":"sense","s":"Un usage ___ de l'alcool nuit gravement à la santé.","a":"immodéré","en":"Excessive use of alcohol seriously harms health.","alts":["excessif"]},
+      {"slot":"g|mp","f":"agree","s":"Ces désirs ___ finissent souvent par ruiner les gens.","a":"immodérés","en":"These immoderate desires often end up ruining people.","alts":["excessifs"]},
+      {"slot":"g|mp","f":"agree","s":"Les propos ___ du ministre ont choqué l'opinion publique.","a":"immodérés","en":"The minister's excessive remarks shocked public opinion.","alts":["excessifs"]},
+      {"slot":"g|f","f":"agree","s":"Elle mène une vie ___, faite d'excès en tout genre.","a":"immodérée","en":"She leads an immoderate life, full of excesses of every kind.","alts":["excessive"]},
+      {"slot":"g|f","f":"agree","s":"Sa consommation ___ de sucre inquiète son médecin.","a":"immodérée","en":"Her excessive consumption of sugar worries her doctor.","alts":["excessive"]},
+      {"slot":"g|fp","f":"agree","s":"Ses dépenses ___ ont vidé son compte en banque.","a":"immodérées","en":"Her excessive spending emptied her bank account.","alts":["excessives"]},
+      {"slot":"g|fp","f":"agree","s":"Les ambitions ___ de ce jeune homme effraient ses parents.","a":"immodérées","en":"This young man's immoderate ambitions frighten his parents.","alts":["excessives"]}
+    ]
+  },
+  {
+    "id": 6523,
+    "qs": [
+      {"slot":"s|0","f":"sense","s":"Mon frère est très ___ ; il dépense tout son salaire en une semaine.","a":"dépensier","en":"My brother is very extravagant with money; he spends his whole salary in a week.","alts":[]},
+      {"slot":"s|0","f":"sense","s":"Il est tellement ___ qu'il n'arrive jamais à économiser un centime.","a":"dépensier","en":"He is so spendthrift that he never manages to save a single cent.","alts":[]},
+      {"slot":"g|mp","f":"agree","s":"Ses fils sont très ___ et dépensent leur argent de poche en un jour.","a":"dépensiers","en":"Her sons are very spendthrift and spend their pocket money in one day.","alts":[]},
+      {"slot":"g|mp","f":"agree","s":"Ces hommes sont ___ , ils achètent toujours des choses inutiles.","a":"dépensiers","en":"These men are spendthrift; they always buy useless things.","alts":[]},
+      {"slot":"g|f","f":"agree","s":"Ma sœur est assez ___ , elle adore faire du shopping chaque week-end.","a":"dépensière","en":"My sister is quite a spendthrift; she loves shopping every weekend.","alts":[]},
+      {"slot":"g|f","f":"agree","s":"Cette actrice est réputée pour être très ___ avec son argent.","a":"dépensière","en":"This actress is known for being very extravagant with her money.","alts":[]},
+      {"slot":"g|fp","f":"agree","s":"Mes cousines sont trop ___ , elles dépensent tout leur salaire en vêtements.","a":"dépensières","en":"My cousins are too spendthrift; they spend their whole salary on clothes.","alts":[]},
+      {"slot":"g|fp","f":"agree","s":"Ces femmes sont connues pour être ___ avec leur argent.","a":"dépensières","en":"These women are known for being spendthrift with their money.","alts":[]}
+    ]
+  },
+  {
+    "id": 6524,
+    "qs": [
+      {"slot":"s|0","f":"sense","s":"Le chasseur a aperçu un ___ traverser la route au lever du jour.","a":"sanglier","en":"The hunter spotted a wild boar crossing the road at dawn.","alts":[]},
+      {"slot":"s|0","f":"sense","s":"Dans la forêt, le ___ retourne la terre avec son groin pour trouver des glands.","a":"sanglier","en":"In the forest, the wild boar digs up the ground with its snout to find acorns.","alts":[]},
+      {"slot":"gender","f":"gender","s":"___ sanglier a foncé dans les buissons dès qu'il a entendu du bruit.","a":"Le","en":"The wild boar dashed into the bushes as soon as it heard a noise.","alts":[]},
+      {"slot":"gender","f":"gender","s":"En traversant la clairière, il a aperçu ___ sanglier au bord du bois.","a":"un","en":"While crossing the clearing, he spotted a wild boar at the edge of the woods.","alts":[]}
+    ]
+  }
+]

@@ -1,0 +1,681 @@
+[
+  {
+    "id": 3807,
+    "qs": [
+      {
+        "slot": "s|0",
+        "f": "sense",
+        "s": "Le comité a décidé de l'___ des tâches entre les membres de l'équipe.",
+        "a": "allocation",
+        "en": "The committee decided on the allocation of tasks among team members.",
+        "alts": []
+      },
+      {
+        "slot": "s|0",
+        "f": "sense",
+        "s": "L'___ équitable des ressources naturelles reste un défi majeur pour les gouvernements.",
+        "a": "allocation",
+        "en": "The fair allocation of natural resources remains a major challenge for governments.",
+        "alts": []
+      },
+      {
+        "slot": "s|1",
+        "f": "sense",
+        "s": "Le Parlement a voté une ___ de fonds supplémentaires pour la recherche médicale.",
+        "a": "allocation",
+        "en": "Parliament voted a grant of additional funds for medical research.",
+        "alts": []
+      },
+      {
+        "slot": "s|1",
+        "f": "sense",
+        "s": "L'___ budgétaire accordée aux hôpitaux a été revue à la hausse cette année.",
+        "a": "allocation",
+        "en": "The budgetary appropriation granted to hospitals was revised upward this year.",
+        "alts": []
+      },
+      {
+        "slot": "s|2",
+        "f": "sense",
+        "s": "Depuis qu'il a perdu son emploi, il touche une ___ de chômage chaque mois.",
+        "a": "allocation",
+        "en": "Since he lost his job, he receives an unemployment allowance every month.",
+        "alts": []
+      },
+      {
+        "slot": "s|2",
+        "f": "sense",
+        "s": "Les familles nombreuses bénéficient d'une ___ familiale versée par la CAF.",
+        "a": "allocation",
+        "en": "Large families benefit from a family allowance paid by the CAF.",
+        "alts": []
+      },
+      {
+        "slot": "gender",
+        "f": "gender",
+        "s": "Il a demandé ___ allocation supplémentaire pour couvrir ses frais de transport.",
+        "a": "une",
+        "en": "He requested an additional allowance to cover his transport costs.",
+        "alts": []
+      },
+      {
+        "slot": "gender",
+        "f": "gender",
+        "s": "___ allocation de chômage est versée directement sur son compte bancaire.",
+        "a": "L'",
+        "en": "The unemployment allowance is paid directly into his bank account.",
+        "alts": []
+      }
+    ]
+  },
+  {
+    "id": 3808,
+    "qs": [
+      {
+        "slot": "s|0",
+        "f": "sense",
+        "s": "La ___ boursière a provoqué une grave crise financière en 2008.",
+        "a": "spéculation",
+        "en": "Stock market speculation triggered a severe financial crisis in 2008.",
+        "alts": []
+      },
+      {
+        "slot": "s|0",
+        "f": "sense",
+        "s": "Le gouvernement a décidé de limiter la ___ immobilière pour freiner la hausse des prix.",
+        "a": "spéculation",
+        "en": "The government decided to limit real estate speculation to curb rising prices.",
+        "alts": []
+      },
+      {
+        "slot": "s|1",
+        "f": "sense",
+        "s": "Toute ___ sur les causes de l'accident est prématurée tant que l'enquête n'est pas terminée.",
+        "a": "spéculation",
+        "en": "Any speculation about the causes of the accident is premature until the investigation is complete.",
+        "alts": []
+      },
+      {
+        "slot": "s|1",
+        "f": "sense",
+        "s": "Les journalistes se livrent à des ___ sur l'identité du prochain Premier ministre.",
+        "a": "spéculations",
+        "en": "Journalists are engaging in speculation about the identity of the next Prime Minister.",
+        "alts": []
+      },
+      {
+        "slot": "s|2",
+        "f": "sense",
+        "s": "La ___ philosophique sur la nature de l'être remonte à l'Antiquité.",
+        "a": "spéculation",
+        "en": "Philosophical speculation on the nature of being dates back to Antiquity.",
+        "alts": []
+      },
+      {
+        "slot": "s|2",
+        "f": "sense",
+        "s": "Kant distingue la raison pure théorique, vouée à la ___, de la raison pratique.",
+        "a": "spéculation",
+        "en": "Kant distinguishes pure theoretical reason, devoted to speculation, from practical reason.",
+        "alts": []
+      },
+      {
+        "slot": "gender",
+        "f": "gender",
+        "s": "Il a consacré sa thèse à ___ spéculation boursière des années 1920.",
+        "a": "la",
+        "en": "He devoted his thesis to stock market speculation of the 1920s.",
+        "alts": []
+      },
+      {
+        "slot": "gender",
+        "f": "gender",
+        "s": "C'est ___ spéculation pure et simple : personne ne connaît la vérité.",
+        "a": "de la",
+        "en": "It is pure and simple speculation: nobody knows the truth.",
+        "alts": []
+      }
+    ]
+  },
+  {
+    "id": 3809,
+    "qs": [
+      {
+        "slot": "t|Présent|0",
+        "f": "tense",
+        "s": "Mon grand-père ___ lentement à l'hôpital.",
+        "a": "décède",
+        "en": "My grandfather is slowly passing away in the hospital.",
+        "alts": [],
+        "form": "Présent"
+      },
+      {
+        "slot": "t|Présent|0",
+        "f": "tense",
+        "s": "Je ___ paisiblement entouré de ma famille.",
+        "a": "décède",
+        "en": "I am passing away peacefully surrounded by my family.",
+        "alts": [],
+        "form": "Présent"
+      },
+      {
+        "slot": "t|Présent|1",
+        "f": "tense",
+        "s": "Tu ___ sans avoir souffert, c'est une grâce.",
+        "a": "décèdes",
+        "en": "You are passing away without having suffered — that is a grace.",
+        "alts": [],
+        "form": "Présent"
+      },
+      {
+        "slot": "t|Présent|1",
+        "f": "tense",
+        "s": "Le médecin te dit : « Tu ___ dans les prochaines heures. »",
+        "a": "décèdes",
+        "en": "The doctor tells you: 'You are passing away in the coming hours.'",
+        "alts": [],
+        "form": "Présent"
+      },
+      {
+        "slot": "t|Présent|2",
+        "f": "tense",
+        "s": "Dans ce roman, nous ___ tous les deux à la fin.",
+        "a": "décédons",
+        "en": "In this novel, we both die at the end.",
+        "alts": [],
+        "form": "Présent"
+      },
+      {
+        "slot": "t|Présent|2",
+        "f": "tense",
+        "s": "Nous ___ ensemble selon la légende.",
+        "a": "décédons",
+        "en": "We die together according to the legend.",
+        "alts": [],
+        "form": "Présent"
+      },
+      {
+        "slot": "t|Présent|3",
+        "f": "tense",
+        "s": "Vous ___ dans la dignité, entourés de vos proches.",
+        "a": "décédez",
+        "en": "You pass away with dignity, surrounded by your loved ones.",
+        "alts": [],
+        "form": "Présent"
+      },
+      {
+        "slot": "t|Présent|3",
+        "f": "tense",
+        "s": "Est-ce que vous ___ tous les deux en même temps dans cette histoire ?",
+        "a": "décédez",
+        "en": "Do you both die at the same time in this story?",
+        "alts": [],
+        "form": "Présent"
+      },
+      {
+        "slot": "t|Présent|4",
+        "f": "tense",
+        "s": "Chaque année, des milliers de patients ___ faute de soins adaptés.",
+        "a": "décèdent",
+        "en": "Every year, thousands of patients die due to lack of appropriate care.",
+        "alts": [],
+        "form": "Présent"
+      },
+      {
+        "slot": "t|Présent|4",
+        "f": "tense",
+        "s": "Les deux frères ___ à quelques heures d'intervalle.",
+        "a": "décèdent",
+        "en": "The two brothers pass away within a few hours of each other.",
+        "alts": [],
+        "form": "Présent"
+      },
+      {
+        "slot": "t|Passé composé|0",
+        "f": "tense",
+        "s": "J'___ avant d'avoir pu dire au revoir, dans ce rêve étrange.",
+        "a": "suis décédé",
+        "en": "I passed away before being able to say goodbye, in that strange dream.",
+        "alts": [],
+        "form": "Passé composé"
+      },
+      {
+        "slot": "t|Passé composé|0",
+        "f": "tense",
+        "s": "Je ___ sans m'en rendre compte, dans ce rêve.",
+        "a": "suis décédé",
+        "en": "I passed away without realizing it, in that dream.",
+        "alts": [],
+        "form": "Passé composé"
+      },
+      {
+        "slot": "t|Passé composé|1",
+        "f": "tense",
+        "s": "Tu ___ il y a dix ans, mais ton souvenir reste vif.",
+        "a": "es décédé",
+        "en": "You passed away ten years ago, but your memory remains vivid.",
+        "alts": [],
+        "form": "Passé composé"
+      },
+      {
+        "slot": "t|Passé composé|1",
+        "f": "tense",
+        "s": "On m'a dit que tu ___ avant l'aube.",
+        "a": "es décédé",
+        "en": "They told me you passed away before dawn.",
+        "alts": [],
+        "form": "Passé composé"
+      },
+      {
+        "slot": "t|Passé composé|2",
+        "f": "tense",
+        "s": "Le patient ___ ce matin à six heures.",
+        "a": "est décédé",
+        "en": "The patient passed away this morning at six o'clock.",
+        "alts": [],
+        "form": "Passé composé"
+      },
+      {
+        "slot": "t|Passé composé|2",
+        "f": "tense",
+        "s": "La vieille dame ___ entourée de ses enfants.",
+        "a": "est décédée",
+        "en": "The old lady passed away surrounded by her children.",
+        "alts": [],
+        "form": "Passé composé"
+      },
+      {
+        "slot": "t|Passé composé|3",
+        "f": "tense",
+        "s": "Nous ___ tous les deux dans l'histoire, selon le scénario.",
+        "a": "sommes décédés",
+        "en": "We both died in the story, according to the script.",
+        "alts": [],
+        "form": "Passé composé"
+      },
+      {
+        "slot": "t|Passé composé|3",
+        "f": "tense",
+        "s": "Nous ___ avant la fin de la guerre, hélas.",
+        "a": "sommes décédés",
+        "en": "We passed away before the end of the war, alas.",
+        "alts": [],
+        "form": "Passé composé"
+      },
+      {
+        "slot": "t|Passé composé|4",
+        "f": "tense",
+        "s": "Vous ___ sans souffrir, c'est ce que les médecins nous ont dit.",
+        "a": "êtes décédés",
+        "en": "You passed away without suffering — that is what the doctors told us.",
+        "alts": [],
+        "form": "Passé composé"
+      },
+      {
+        "slot": "t|Passé composé|4",
+        "f": "tense",
+        "s": "Monsieur et Madame Dupont, vous ___ tous les deux en janvier.",
+        "a": "êtes décédés",
+        "en": "Mr. and Mrs. Dupont, you both passed away in January.",
+        "alts": [],
+        "form": "Passé composé"
+      },
+      {
+        "slot": "t|Passé composé|5",
+        "f": "tense",
+        "s": "Les deux victimes ___ à l'arrivée des secours.",
+        "a": "sont décédées",
+        "en": "The two victims had passed away by the time help arrived.",
+        "alts": [],
+        "form": "Passé composé"
+      },
+      {
+        "slot": "t|Passé composé|5",
+        "f": "tense",
+        "s": "Plusieurs soldats ___ lors de cette bataille.",
+        "a": "sont décédés",
+        "en": "Several soldiers passed away during that battle.",
+        "alts": [],
+        "form": "Passé composé"
+      },
+      {
+        "slot": "t|Imparfait|0",
+        "f": "tense",
+        "s": "Dans ce scénario, je ___ lentement sans que personne ne le sache.",
+        "a": "décédais",
+        "en": "In that scenario, I was dying slowly without anyone knowing.",
+        "alts": [],
+        "form": "Imparfait"
+      },
+      {
+        "slot": "t|Imparfait|0",
+        "f": "tense",
+        "s": "Tu ___ en paix pendant que la ville s'éveillait.",
+        "a": "décédais",
+        "en": "You were passing away peacefully while the city was waking up.",
+        "alts": [],
+        "form": "Imparfait"
+      },
+      {
+        "slot": "t|Imparfait|1",
+        "f": "tense",
+        "s": "Le vieillard ___ doucement, entouré de ses proches.",
+        "a": "décédait",
+        "en": "The old man was passing away gently, surrounded by his loved ones.",
+        "alts": [],
+        "form": "Imparfait"
+      },
+      {
+        "slot": "t|Imparfait|1",
+        "f": "tense",
+        "s": "La patiente ___ quand les médecins sont entrés dans la chambre.",
+        "a": "décédait",
+        "en": "The patient was passing away when the doctors entered the room.",
+        "alts": [],
+        "form": "Imparfait"
+      },
+      {
+        "slot": "t|Imparfait|2",
+        "f": "tense",
+        "s": "Nous ___ lentement dans ce roman sombre.",
+        "a": "décédions",
+        "en": "We were dying slowly in that dark novel.",
+        "alts": [],
+        "form": "Imparfait"
+      },
+      {
+        "slot": "t|Imparfait|2",
+        "f": "tense",
+        "s": "Nous ___ tous les deux quand le secours est finalement arrivé.",
+        "a": "décédions",
+        "en": "We were both passing away when help finally arrived.",
+        "alts": [],
+        "form": "Imparfait"
+      },
+      {
+        "slot": "t|Imparfait|3",
+        "f": "tense",
+        "s": "Vous ___ si rapidement que personne n'a eu le temps de réagir.",
+        "a": "décédiez",
+        "en": "You were passing away so quickly that nobody had time to react.",
+        "alts": [],
+        "form": "Imparfait"
+      },
+      {
+        "slot": "t|Imparfait|3",
+        "f": "tense",
+        "s": "Messieurs, vous ___ en silence pendant que vos familles attendaient dehors.",
+        "a": "décédiez",
+        "en": "Gentlemen, you were passing away in silence while your families waited outside.",
+        "alts": [],
+        "form": "Imparfait"
+      },
+      {
+        "slot": "t|Imparfait|4",
+        "f": "tense",
+        "s": "Les soldats ___ un à un sur le champ de bataille.",
+        "a": "décédaient",
+        "en": "The soldiers were dying one by one on the battlefield.",
+        "alts": [],
+        "form": "Imparfait"
+      },
+      {
+        "slot": "t|Imparfait|4",
+        "f": "tense",
+        "s": "Les patients ___ faute de médicaments suffisants.",
+        "a": "décédaient",
+        "en": "The patients were dying due to insufficient medication.",
+        "alts": [],
+        "form": "Imparfait"
+      },
+      {
+        "slot": "t|Futur|0",
+        "f": "tense",
+        "s": "Je sais que je ___ un jour, mais je veux vivre pleinement.",
+        "a": "décéderai",
+        "en": "I know I will die one day, but I want to live fully.",
+        "alts": [],
+        "form": "Futur"
+      },
+      {
+        "slot": "t|Futur|0",
+        "f": "tense",
+        "s": "Je ___ entouré de mes enfants, j'en suis certain.",
+        "a": "décéderai",
+        "en": "I will pass away surrounded by my children, I am certain of it.",
+        "alts": [],
+        "form": "Futur"
+      },
+      {
+        "slot": "t|Futur|1",
+        "f": "tense",
+        "s": "Tu ___ avant lui si tu continues ainsi, dit le médecin.",
+        "a": "décéderas",
+        "en": "You will die before him if you keep this up, the doctor said.",
+        "alts": [],
+        "form": "Futur"
+      },
+      {
+        "slot": "t|Futur|1",
+        "f": "tense",
+        "s": "Un jour tu ___ , mais ton œuvre restera.",
+        "a": "décéderas",
+        "en": "One day you will pass away, but your work will remain.",
+        "alts": [],
+        "form": "Futur"
+      },
+      {
+        "slot": "t|Futur|2",
+        "f": "tense",
+        "s": "Le vieux monsieur ___ bientôt, selon les médecins.",
+        "a": "décédera",
+        "en": "The old gentleman will pass away soon, according to the doctors.",
+        "alts": [],
+        "form": "Futur"
+      },
+      {
+        "slot": "t|Futur|2",
+        "f": "tense",
+        "s": "Elle ___ en paix, entourée de l'amour de sa famille.",
+        "a": "décédera",
+        "en": "She will pass away in peace, surrounded by her family's love.",
+        "alts": [],
+        "form": "Futur"
+      },
+      {
+        "slot": "t|Futur|3",
+        "f": "tense",
+        "s": "Nous ___ tous un jour, c'est une certitude.",
+        "a": "décéderons",
+        "en": "We will all die one day — that is a certainty.",
+        "alts": [],
+        "form": "Futur"
+      },
+      {
+        "slot": "t|Futur|3",
+        "f": "tense",
+        "s": "Nous ___ avant d'avoir vu la fin de ce projet, j'en ai peur.",
+        "a": "décéderons",
+        "en": "We will pass away before seeing the end of this project, I fear.",
+        "alts": [],
+        "form": "Futur"
+      },
+      {
+        "slot": "t|Futur|4",
+        "f": "tense",
+        "s": "Vous ___ dans la dignité si vous suivez ce traitement.",
+        "a": "décéderez",
+        "en": "You will pass away with dignity if you follow this treatment.",
+        "alts": [],
+        "form": "Futur"
+      },
+      {
+        "slot": "t|Futur|4",
+        "f": "tense",
+        "s": "Docteur, est-ce que vous ___ avant vos patients ?",
+        "a": "décéderez",
+        "en": "Doctor, will you pass away before your patients?",
+        "alts": [],
+        "form": "Futur"
+      },
+      {
+        "slot": "t|Futur|5",
+        "f": "tense",
+        "s": "Les deux témoins ___ avant le procès, hélas.",
+        "a": "décéderont",
+        "en": "The two witnesses will pass away before the trial, alas.",
+        "alts": [],
+        "form": "Futur"
+      },
+      {
+        "slot": "t|Futur|5",
+        "f": "tense",
+        "s": "Ces malades ___ sans avoir reçu les soins nécessaires.",
+        "a": "décéderont",
+        "en": "These patients will die without having received the necessary care.",
+        "alts": [],
+        "form": "Futur"
+      },
+      {
+        "slot": "t|Conditionnel|0",
+        "f": "tense",
+        "s": "Si j'étais plus âgé, je ___ peut-être avant lui.",
+        "a": "décéderais",
+        "en": "If I were older, I would perhaps pass away before him.",
+        "alts": [],
+        "form": "Conditionnel"
+      },
+      {
+        "slot": "t|Conditionnel|0",
+        "f": "tense",
+        "s": "Si tu abandonnais ce traitement, tu ___ rapidement.",
+        "a": "décéderais",
+        "en": "If you abandoned this treatment, you would die quickly.",
+        "alts": [],
+        "form": "Conditionnel"
+      },
+      {
+        "slot": "t|Conditionnel|1",
+        "f": "tense",
+        "s": "Sans ce médicament, le patient ___ en quelques heures.",
+        "a": "décéderait",
+        "en": "Without this medication, the patient would die within a few hours.",
+        "alts": [],
+        "form": "Conditionnel"
+      },
+      {
+        "slot": "t|Conditionnel|1",
+        "f": "tense",
+        "s": "Si elle refusait l'opération, elle ___ dans l'année.",
+        "a": "décéderait",
+        "en": "If she refused the operation, she would pass away within the year.",
+        "alts": [],
+        "form": "Conditionnel"
+      },
+      {
+        "slot": "t|Conditionnel|2",
+        "f": "tense",
+        "s": "Si nous refusions les soins, nous ___ en quelques semaines.",
+        "a": "décéderions",
+        "en": "If we refused care, we would die within a few weeks.",
+        "alts": [],
+        "form": "Conditionnel"
+      },
+      {
+        "slot": "t|Conditionnel|2",
+        "f": "tense",
+        "s": "Sans traitement, nous ___ bien avant la guérison.",
+        "a": "décéderions",
+        "en": "Without treatment, we would pass away long before recovery.",
+        "alts": [],
+        "form": "Conditionnel"
+      },
+      {
+        "slot": "t|Conditionnel|3",
+        "f": "tense",
+        "s": "Si vous refusiez les soins, vous ___ rapidement.",
+        "a": "décéderiez",
+        "en": "If you refused care, you would pass away quickly.",
+        "alts": [],
+        "form": "Conditionnel"
+      },
+      {
+        "slot": "t|Conditionnel|3",
+        "f": "tense",
+        "s": "Sans ce traitement d'urgence, vous ___ avant l'aube.",
+        "a": "décéderiez",
+        "en": "Without this emergency treatment, you would die before dawn.",
+        "alts": [],
+        "form": "Conditionnel"
+      },
+      {
+        "slot": "t|Conditionnel|4",
+        "f": "tense",
+        "s": "Sans l'intervention des médecins, ces patients ___ tous.",
+        "a": "décéderaient",
+        "en": "Without the doctors' intervention, these patients would all die.",
+        "alts": [],
+        "form": "Conditionnel"
+      },
+      {
+        "slot": "t|Conditionnel|4",
+        "f": "tense",
+        "s": "Si les secours arrivaient trop tard, les blessés ___ .",
+        "a": "décéderaient",
+        "en": "If help arrived too late, the injured would pass away.",
+        "alts": [],
+        "form": "Conditionnel"
+      },
+      {
+        "slot": "t|Subjonctif",
+        "f": "subj",
+        "s": "Il faut que tu ___ en paix, sans regrets.",
+        "a": "décèdes",
+        "en": "It is necessary that you pass away in peace, without regrets.",
+        "alts": [],
+        "form": "Subjonctif présent"
+      },
+      {
+        "slot": "t|Subjonctif",
+        "f": "subj",
+        "s": "Je crains qu'il ___ avant la fin de la nuit.",
+        "a": "décède",
+        "en": "I fear that he will pass away before the end of the night.",
+        "alts": [],
+        "form": "Subjonctif présent"
+      },
+      {
+        "slot": "s|0",
+        "f": "sense",
+        "s": "Mon arrière-grand-père ___ à l'âge de quatre-vingt-dix ans.",
+        "a": "décéda",
+        "en": "My great-grandfather passed away at the age of ninety.",
+        "alts": ["est décédé"]
+      },
+      {
+        "slot": "s|0",
+        "f": "sense",
+        "s": "La municipalité a annoncé que le maire ___ hier soir.",
+        "a": "est décédé",
+        "en": "The city announced that the mayor passed away yesterday evening.",
+        "alts": ["décéda"]
+      },
+      {
+        "slot": "s|1",
+        "f": "sense",
+        "s": "Le communiqué officiel indique que le général ___ au combat.",
+        "a": "est décédé",
+        "en": "The official communiqué states that the general passed away in combat.",
+        "alts": ["décéda"]
+      },
+      {
+        "slot": "s|1",
+        "f": "sense",
+        "s": "Selon le rapport médical, la patiente ___ à l'aube.",
+        "a": "est décédée",
+        "en": "According to the medical report, the patient passed away at dawn.",
+        "alts": ["décéda"]
+      }
+    ]
+  }
+]

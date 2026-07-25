@@ -1,0 +1,727 @@
+[
+  {
+    "id": 446,
+    "qs": [
+      {
+        "slot": "s|0",
+        "f": "sense",
+        "s": "L'étude du piano exige de la discipline — mais l'___ de toute langue étrangère demande également de la persévérance.",
+        "a": "étude",
+        "en": "The study of any foreign language also requires perseverance.",
+        "alts": []
+      },
+      {
+        "slot": "s|0",
+        "f": "sense",
+        "s": "Il consacre chaque matin deux heures à l'___ des mathématiques.",
+        "a": "étude",
+        "en": "He devotes two hours every morning to the study (learning) of mathematics.",
+        "alts": []
+      },
+      {
+        "slot": "s|1",
+        "f": "sense",
+        "s": "Cette ___ scientifique a été publiée dans une revue internationale.",
+        "a": "étude",
+        "en": "This scientific study (research) was published in an international journal.",
+        "alts": ["recherche"]
+      },
+      {
+        "slot": "s|1",
+        "f": "sense",
+        "s": "Les chercheurs ont mené une ___ approfondie sur les effets de ce médicament.",
+        "a": "étude",
+        "en": "The researchers conducted an in-depth study on the effects of this medication.",
+        "alts": ["recherche"]
+      },
+      {
+        "slot": "s|2",
+        "f": "sense",
+        "s": "Une ___ de marché a révélé que les consommateurs préfèrent ce nouveau produit.",
+        "a": "étude",
+        "en": "A market survey revealed that consumers prefer this new product.",
+        "alts": []
+      },
+      {
+        "slot": "s|2",
+        "f": "sense",
+        "s": "L'agence a réalisé une ___ sur les habitudes d'achat des jeunes.",
+        "a": "étude",
+        "en": "The agency conducted a survey on the purchasing habits of young people.",
+        "alts": ["enquête"]
+      },
+      {
+        "slot": "s|3",
+        "f": "sense",
+        "s": "Après plusieurs années de travail, elle a décidé de reprendre ses ___.",
+        "a": "études",
+        "en": "After several years of work, she decided to resume her studies.",
+        "alts": []
+      },
+      {
+        "slot": "s|3",
+        "f": "sense",
+        "s": "Il a financé ses ___ en travaillant le week-end.",
+        "a": "études",
+        "en": "He financed his studies by working on weekends.",
+        "alts": []
+      },
+      {
+        "slot": "gender",
+        "f": "gender",
+        "s": "C'est ___ étude très intéressante sur le comportement des enfants.",
+        "a": "une",
+        "en": "It is a very interesting study on the behavior of children.",
+        "alts": []
+      },
+      {
+        "slot": "gender",
+        "f": "gender",
+        "s": "___ étude de marché a confirmé la popularité de cette marque.",
+        "a": "L'",
+        "en": "The market study confirmed the popularity of this brand.",
+        "alts": []
+      }
+    ]
+  },
+  {
+    "id": 447,
+    "qs": [
+      {
+        "slot": "s|0",
+        "f": "sense",
+        "s": "Il refuse de mentir par ___, même quand cela lui coûte cher.",
+        "a": "principe",
+        "en": "He refuses to lie on principle, even when it costs him dearly.",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "s|0",
+        "f": "sense",
+        "s": "Pour elle, l'honnêteté est un ___ fondamental qu'elle ne compromet jamais.",
+        "a": "principe",
+        "en": "For her, honesty is a fundamental principle she never compromises.",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "s|1",
+        "f": "sense",
+        "s": "Le ___ d'Archimède explique pourquoi les objets flottent dans l'eau.",
+        "a": "principe",
+        "en": "Archimedes' principle explains why objects float in water.",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "s|1",
+        "f": "sense",
+        "s": "Le professeur nous a expliqué le ___ de fonctionnement d'un moteur à vapeur.",
+        "a": "principe",
+        "en": "The teacher explained to us the operating principle of a steam engine.",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "s|2",
+        "f": "sense",
+        "s": "En ___, tout le monde doit respecter le règlement intérieur de l'entreprise.",
+        "a": "principe",
+        "en": "In principle, everyone must follow the company's internal guidelines.",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "s|2",
+        "f": "sense",
+        "s": "Ce code de conduite repose sur un ___ simple : traiter les autres avec respect.",
+        "a": "principe",
+        "en": "This code of conduct is based on a simple guideline: treat others with respect.",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "gender",
+        "f": "gender",
+        "s": "Elle a agi selon ___ principe selon lequel il faut toujours dire la vérité.",
+        "a": "le",
+        "en": "She acted according to the principle that one must always tell the truth.",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "gender",
+        "f": "gender",
+        "s": "C'est ___ principe de base en chimie que les acides réagissent avec les bases.",
+        "a": "un",
+        "en": "It is a basic principle in chemistry that acids react with bases.",
+        "alts": [],
+        "form": ""
+      }
+    ]
+  },
+  {
+    "id": 448,
+    "qs": [
+      {
+        "slot": "t|Présent|0",
+        "f": "tense",
+        "s": "Je ___ mon ancien téléphone par un modèle plus récent.",
+        "a": "remplace",
+        "en": "I am replacing my old phone with a newer model.",
+        "alts": [],
+        "form": "Présent"
+      },
+      {
+        "slot": "t|Présent|0",
+        "f": "tense",
+        "s": "Le directeur ___ le chef d'équipe absent aujourd'hui.",
+        "a": "remplace",
+        "en": "The manager is replacing the absent team leader today.",
+        "alts": [],
+        "form": "Présent"
+      },
+      {
+        "slot": "t|Présent|1",
+        "f": "tense",
+        "s": "Tu ___ le beurre par de l'huile d'olive dans cette recette ?",
+        "a": "remplaces",
+        "en": "Are you replacing the butter with olive oil in this recipe?",
+        "alts": [],
+        "form": "Présent"
+      },
+      {
+        "slot": "t|Présent|1",
+        "f": "tense",
+        "s": "Est-ce que tu ___ ta collègue pendant ses congés ?",
+        "a": "remplaces",
+        "en": "Are you replacing your colleague during her leave?",
+        "alts": [],
+        "form": "Présent"
+      },
+      {
+        "slot": "t|Présent|2",
+        "f": "tense",
+        "s": "Nous ___ les anciennes ampoules par des ampoules LED.",
+        "a": "remplaçons",
+        "en": "We are replacing the old bulbs with LED bulbs.",
+        "alts": [],
+        "form": "Présent"
+      },
+      {
+        "slot": "t|Présent|2",
+        "f": "tense",
+        "s": "Dans notre équipe, nous ___ le papier par des outils numériques.",
+        "a": "remplaçons",
+        "en": "In our team, we are replacing paper with digital tools.",
+        "alts": [],
+        "form": "Présent"
+      },
+      {
+        "slot": "t|Présent|3",
+        "f": "tense",
+        "s": "Vous ___ le professeur principal ce matin ?",
+        "a": "remplacez",
+        "en": "Are you replacing the head teacher this morning?",
+        "alts": [],
+        "form": "Présent"
+      },
+      {
+        "slot": "t|Présent|3",
+        "f": "tense",
+        "s": "Est-ce que vous ___ vraiment les mots anglais par des équivalents français ?",
+        "a": "remplacez",
+        "en": "Are you really replacing English words with French equivalents?",
+        "alts": [],
+        "form": "Présent"
+      },
+      {
+        "slot": "t|Présent|4",
+        "f": "tense",
+        "s": "Les robots ___ de plus en plus les travailleurs dans les usines.",
+        "a": "remplacent",
+        "en": "Robots are increasingly replacing workers in factories.",
+        "alts": [],
+        "form": "Présent"
+      },
+      {
+        "slot": "t|Présent|4",
+        "f": "tense",
+        "s": "Elles ___ les rideaux usés par de nouveaux.",
+        "a": "remplacent",
+        "en": "They are replacing the worn-out curtains with new ones.",
+        "alts": [],
+        "form": "Présent"
+      },
+      {
+        "slot": "t|Passé composé|0",
+        "f": "tense",
+        "s": "J'___ mon vieux vélo par un vélo électrique le mois dernier.",
+        "a": "ai remplacé",
+        "en": "I replaced my old bike with an electric bike last month.",
+        "alts": [],
+        "form": "Passé composé"
+      },
+      {
+        "slot": "t|Passé composé|0",
+        "f": "tense",
+        "s": "Hier, j'___ la pièce défectueuse dans la machine.",
+        "a": "ai remplacé",
+        "en": "Yesterday, I replaced the faulty part in the machine.",
+        "alts": [],
+        "form": "Passé composé"
+      },
+      {
+        "slot": "t|Passé composé|1",
+        "f": "tense",
+        "s": "Tu ___ le directeur pendant toute la semaine dernière.",
+        "a": "as remplacé",
+        "en": "You replaced the director throughout last week.",
+        "alts": [],
+        "form": "Passé composé"
+      },
+      {
+        "slot": "t|Passé composé|1",
+        "f": "tense",
+        "s": "Est-ce que tu ___ le mot manquant dans le texte ?",
+        "a": "as remplacé",
+        "en": "Did you replace the missing word in the text?",
+        "alts": [],
+        "form": "Passé composé"
+      },
+      {
+        "slot": "t|Passé composé|2",
+        "f": "tense",
+        "s": "Le technicien ___ le disque dur en panne ce matin.",
+        "a": "a remplacé",
+        "en": "The technician replaced the broken hard drive this morning.",
+        "alts": [],
+        "form": "Passé composé"
+      },
+      {
+        "slot": "t|Passé composé|2",
+        "f": "tense",
+        "s": "La nouvelle loi ___ l'ancienne réglementation l'année passée.",
+        "a": "a remplacé",
+        "en": "The new law replaced the old regulation last year.",
+        "alts": [],
+        "form": "Passé composé"
+      },
+      {
+        "slot": "t|Passé composé|3",
+        "f": "tense",
+        "s": "Nous ___ toutes les fenêtres de la maison cet été.",
+        "a": "avons remplacé",
+        "en": "We replaced all the windows in the house this summer.",
+        "alts": [],
+        "form": "Passé composé"
+      },
+      {
+        "slot": "t|Passé composé|3",
+        "f": "tense",
+        "s": "Nous ___ le stagiaire qui est parti la semaine dernière.",
+        "a": "avons remplacé",
+        "en": "We replaced the intern who left last week.",
+        "alts": [],
+        "form": "Passé composé"
+      },
+      {
+        "slot": "t|Passé composé|4",
+        "f": "tense",
+        "s": "Vous ___ l'ancien logiciel par une nouvelle version hier ?",
+        "a": "avez remplacé",
+        "en": "Did you replace the old software with a new version yesterday?",
+        "alts": [],
+        "form": "Passé composé"
+      },
+      {
+        "slot": "t|Passé composé|4",
+        "f": "tense",
+        "s": "Est-ce que vous ___ le professeur absent le mois dernier ?",
+        "a": "avez remplacé",
+        "en": "Did you replace the absent teacher last month?",
+        "alts": [],
+        "form": "Passé composé"
+      },
+      {
+        "slot": "t|Passé composé|5",
+        "f": "tense",
+        "s": "Les ingénieurs ___ les pièces usées avant la reprise de la production.",
+        "a": "ont remplacé",
+        "en": "The engineers replaced the worn parts before production resumed.",
+        "alts": [],
+        "form": "Passé composé"
+      },
+      {
+        "slot": "t|Passé composé|5",
+        "f": "tense",
+        "s": "Ils ___ les billets de train perdus sans problème.",
+        "a": "ont remplacé",
+        "en": "They replaced the lost train tickets without any problem.",
+        "alts": [],
+        "form": "Passé composé"
+      },
+      {
+        "slot": "t|Imparfait|0",
+        "f": "tense",
+        "s": "Quand j'étais étudiant, je ___ souvent mes camarades lors des présentations.",
+        "a": "remplaçais",
+        "en": "When I was a student, I often replaced my classmates during presentations.",
+        "alts": [],
+        "form": "Imparfait"
+      },
+      {
+        "slot": "t|Imparfait|0",
+        "f": "tense",
+        "s": "Avant, tu ___ toujours le sel par des herbes aromatiques.",
+        "a": "remplaçais",
+        "en": "Before, you always replaced salt with aromatic herbs.",
+        "alts": [],
+        "form": "Imparfait"
+      },
+      {
+        "slot": "t|Imparfait|1",
+        "f": "tense",
+        "s": "Le directeur adjoint ___ le directeur chaque fois qu'il était absent.",
+        "a": "remplaçait",
+        "en": "The deputy director replaced the director every time he was absent.",
+        "alts": [],
+        "form": "Imparfait"
+      },
+      {
+        "slot": "t|Imparfait|1",
+        "f": "tense",
+        "s": "Autrefois, cette coutume en ___ une autre plus ancienne.",
+        "a": "remplaçait",
+        "en": "In the past, this custom replaced an older one.",
+        "alts": [],
+        "form": "Imparfait"
+      },
+      {
+        "slot": "t|Imparfait|2",
+        "f": "tense",
+        "s": "À l'époque, nous ___ régulièrement les membres absents de l'équipe.",
+        "a": "remplacions",
+        "en": "At the time, we regularly replaced the absent team members.",
+        "alts": [],
+        "form": "Imparfait"
+      },
+      {
+        "slot": "t|Imparfait|2",
+        "f": "tense",
+        "s": "Nous ___ le sucre par du miel dans toutes nos recettes.",
+        "a": "remplacions",
+        "en": "We used to replace sugar with honey in all our recipes.",
+        "alts": [],
+        "form": "Imparfait"
+      },
+      {
+        "slot": "t|Imparfait|3",
+        "f": "tense",
+        "s": "Vous ___ les enseignants malades à cette école autrefois ?",
+        "a": "remplaciez",
+        "en": "Did you used to replace sick teachers at that school?",
+        "alts": [],
+        "form": "Imparfait"
+      },
+      {
+        "slot": "t|Imparfait|3",
+        "f": "tense",
+        "s": "Dans votre ancienne entreprise, vous ___ les pièces tous les six mois.",
+        "a": "remplaciez",
+        "en": "In your old company, you replaced the parts every six months.",
+        "alts": [],
+        "form": "Imparfait"
+      },
+      {
+        "slot": "t|Imparfait|4",
+        "f": "tense",
+        "s": "Les voitures à essence ___ peu à peu les chevaux au début du XXe siècle.",
+        "a": "remplaçaient",
+        "en": "Petrol cars were gradually replacing horses at the beginning of the 20th century.",
+        "alts": [],
+        "form": "Imparfait"
+      },
+      {
+        "slot": "t|Imparfait|4",
+        "f": "tense",
+        "s": "Ces employés ___ leurs collègues en cas de maladie.",
+        "a": "remplaçaient",
+        "en": "These employees used to replace their colleagues in case of illness.",
+        "alts": [],
+        "form": "Imparfait"
+      },
+      {
+        "slot": "t|Futur|0",
+        "f": "tense",
+        "s": "L'année prochaine, je ___ mon ordinateur portable vieillissant.",
+        "a": "remplacerai",
+        "en": "Next year, I will replace my ageing laptop.",
+        "alts": [],
+        "form": "Futur"
+      },
+      {
+        "slot": "t|Futur|0",
+        "f": "tense",
+        "s": "Je ___ mon collègue pendant ses vacances en août.",
+        "a": "remplacerai",
+        "en": "I will replace my colleague during his holidays in August.",
+        "alts": [],
+        "form": "Futur"
+      },
+      {
+        "slot": "t|Futur|1",
+        "f": "tense",
+        "s": "Tu ___ les piles de la télécommande quand elles seront vides.",
+        "a": "remplaceras",
+        "en": "You will replace the remote control batteries when they run out.",
+        "alts": [],
+        "form": "Futur"
+      },
+      {
+        "slot": "t|Futur|1",
+        "f": "tense",
+        "s": "Demain, tu ___ le chef d'atelier pour la matinée.",
+        "a": "remplaceras",
+        "en": "Tomorrow, you will replace the workshop supervisor for the morning.",
+        "alts": [],
+        "form": "Futur"
+      },
+      {
+        "slot": "t|Futur|2",
+        "f": "tense",
+        "s": "La nouvelle application ___ l'ancienne dans six mois.",
+        "a": "remplacera",
+        "en": "The new application will replace the old one in six months.",
+        "alts": [],
+        "form": "Futur"
+      },
+      {
+        "slot": "t|Futur|2",
+        "f": "tense",
+        "s": "Mon frère ___ le directeur parti à la retraite.",
+        "a": "remplacera",
+        "en": "My brother will replace the director who has retired.",
+        "alts": [],
+        "form": "Futur"
+      },
+      {
+        "slot": "t|Futur|3",
+        "f": "tense",
+        "s": "Nous ___ toutes les chaises cassées avant la fête.",
+        "a": "remplacerons",
+        "en": "We will replace all the broken chairs before the party.",
+        "alts": [],
+        "form": "Futur"
+      },
+      {
+        "slot": "t|Futur|3",
+        "f": "tense",
+        "s": "Dès que possible, nous ___ les tuyaux rouillés.",
+        "a": "remplacerons",
+        "en": "As soon as possible, we will replace the rusty pipes.",
+        "alts": [],
+        "form": "Futur"
+      },
+      {
+        "slot": "t|Futur|4",
+        "f": "tense",
+        "s": "Vous ___ les documents perdus avant la réunion de vendredi.",
+        "a": "remplacerez",
+        "en": "You will replace the lost documents before Friday's meeting.",
+        "alts": [],
+        "form": "Futur"
+      },
+      {
+        "slot": "t|Futur|4",
+        "f": "tense",
+        "s": "Quand partirez-vous en retraite, et qui vous ___ ?",
+        "a": "remplacera",
+        "en": "When will you retire, and who will replace you?",
+        "alts": [],
+        "form": "Futur"
+      },
+      {
+        "slot": "t|Futur|5",
+        "f": "tense",
+        "s": "Les énergies renouvelables ___ progressivement les combustibles fossiles.",
+        "a": "remplaceront",
+        "en": "Renewable energies will gradually replace fossil fuels.",
+        "alts": [],
+        "form": "Futur"
+      },
+      {
+        "slot": "t|Futur|5",
+        "f": "tense",
+        "s": "Ces nouvelles recrues ___ les employés qui partent à la retraite.",
+        "a": "remplaceront",
+        "en": "These new recruits will replace the employees who are retiring.",
+        "alts": [],
+        "form": "Futur"
+      },
+      {
+        "slot": "t|Conditionnel|0",
+        "f": "tense",
+        "s": "Si j'avais assez d'argent, je ___ ma vieille voiture.",
+        "a": "remplacerais",
+        "en": "If I had enough money, I would replace my old car.",
+        "alts": [],
+        "form": "Conditionnel"
+      },
+      {
+        "slot": "t|Conditionnel|0",
+        "f": "tense",
+        "s": "Si tu étais disponible, tu ___ le conférencier absent.",
+        "a": "remplacerais",
+        "en": "If you were available, you would replace the absent speaker.",
+        "alts": [],
+        "form": "Conditionnel"
+      },
+      {
+        "slot": "t|Conditionnel|1",
+        "f": "tense",
+        "s": "Si ce modèle était disponible, il ___ l'ancien immédiatement.",
+        "a": "remplacerait",
+        "en": "If this model were available, it would replace the old one immediately.",
+        "alts": [],
+        "form": "Conditionnel"
+      },
+      {
+        "slot": "t|Conditionnel|1",
+        "f": "tense",
+        "s": "Si elle avait plus d'expérience, elle ___ le chef de projet.",
+        "a": "remplacerait",
+        "en": "If she had more experience, she would replace the project manager.",
+        "alts": [],
+        "form": "Conditionnel"
+      },
+      {
+        "slot": "t|Conditionnel|2",
+        "f": "tense",
+        "s": "Si nous avions le budget, nous ___ tout le matériel informatique.",
+        "a": "remplacerions",
+        "en": "If we had the budget, we would replace all the computer equipment.",
+        "alts": [],
+        "form": "Conditionnel"
+      },
+      {
+        "slot": "t|Conditionnel|2",
+        "f": "tense",
+        "s": "Nous ___ volontiers les anciens manuels par des tablettes, si c'était possible.",
+        "a": "remplacerions",
+        "en": "We would gladly replace the old textbooks with tablets, if it were possible.",
+        "alts": [],
+        "form": "Conditionnel"
+      },
+      {
+        "slot": "t|Conditionnel|3",
+        "f": "tense",
+        "s": "Si vous étiez formés, vous ___ facilement le responsable.",
+        "a": "remplaceriez",
+        "en": "If you were trained, you would easily replace the manager.",
+        "alts": [],
+        "form": "Conditionnel"
+      },
+      {
+        "slot": "t|Conditionnel|3",
+        "f": "tense",
+        "s": "Vous ___ ces pièces défectueuses si vous aviez les outils nécessaires.",
+        "a": "remplaceriez",
+        "en": "You would replace these faulty parts if you had the necessary tools.",
+        "alts": [],
+        "form": "Conditionnel"
+      },
+      {
+        "slot": "t|Conditionnel|4",
+        "f": "tense",
+        "s": "Si ces appareils étaient moins chers, les gens les ___ plus souvent.",
+        "a": "remplaceraient",
+        "en": "If these devices were cheaper, people would replace them more often.",
+        "alts": [],
+        "form": "Conditionnel"
+      },
+      {
+        "slot": "t|Conditionnel|4",
+        "f": "tense",
+        "s": "Ils ___ le directeur sans hésiter si on le leur demandait.",
+        "a": "remplaceraient",
+        "en": "They would replace the director without hesitation if asked.",
+        "alts": [],
+        "form": "Conditionnel"
+      },
+      {
+        "slot": "t|Subjonctif",
+        "f": "subj",
+        "s": "Il faut que tu ___ les piles de cette lampe.",
+        "a": "remplaces",
+        "en": "You need to replace the batteries in this lamp.",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "t|Subjonctif",
+        "f": "subj",
+        "s": "Je veux qu'il ___ le document endommagé avant demain.",
+        "a": "remplace",
+        "en": "I want him to replace the damaged document before tomorrow.",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "s|0",
+        "f": "sense",
+        "s": "Je dois ___ le verre cassé par un neuf.",
+        "a": "remplacer",
+        "en": "I need to replace the broken glass with a new one.",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "s|0",
+        "f": "sense",
+        "s": "Il a décidé de ___ les vieilles tuiles abîmées sur le toit.",
+        "a": "remplacer",
+        "en": "He decided to replace the old damaged tiles on the roof.",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "s|1",
+        "f": "sense",
+        "s": "Les smartphones ont fini par ___ les appareils photo numériques compacts.",
+        "a": "remplacer",
+        "en": "Smartphones eventually replaced compact digital cameras.",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "s|1",
+        "f": "sense",
+        "s": "La voiture électrique est en train de ___ progressivement les moteurs thermiques.",
+        "a": "remplacer",
+        "en": "The electric car is gradually replacing combustion engines.",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "s|2",
+        "f": "sense",
+        "s": "Pouvez-vous ___ notre collègue malade pour la présentation de demain ?",
+        "a": "remplacer",
+        "en": "Can you stand in for our sick colleague for tomorrow's presentation?",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "s|2",
+        "f": "sense",
+        "s": "L'infirmière a accepté de ___ son collègue pendant le week-end.",
+        "a": "remplacer",
+        "en": "The nurse agreed to stand in for her colleague over the weekend.",
+        "alts": [],
+        "form": ""
+      }
+    ]
+  }
+]

@@ -1,0 +1,43 @@
+[
+  {
+    "id": 63,
+    "qs": [
+      {"slot":"s|0","f":"sense","s":"Je n'ai ___ raison de douter de toi.","en":"I have no reason to doubt you.","a":"aucune","alts":[]},
+      {"slot":"s|0","f":"sense","s":"Il n'existe ___ règlement qui interdise cela.","en":"There is no regulation that forbids that.","a":"aucun","alts":[]},
+      {"slot":"s|1","f":"sense","s":"J'ai cherché un volontaire, mais ___ ne s'est présenté.","en":"I looked for a volunteer, but not a single one came forward.","a":"aucun","alts":[]},
+      {"slot":"s|1","f":"sense","s":"Parmi toutes les solutions proposées, ___ ne m'a convaincue.","en":"Among all the proposed solutions, not a single one convinced me.","a":"aucune","alts":[]},
+      {"slot":"s|2","f":"sense","s":"Il a répondu sans ___ hésitation.","en":"He answered without the slightest hesitation.","a":"aucune","alts":[]},
+      {"slot":"s|2","f":"sense","s":"Elle a traversé cette épreuve avec ___ peur apparente.","en":"She went through that ordeal with absolutely no apparent fear.","a":"aucune","alts":[]},
+      {"slot":"g|mp","f":"agree","s":"La société a déclaré qu'elle ne facturerait ___ frais supplémentaires.","en":"The company declared it would not charge any additional fees.","a":"aucuns","alts":[]},
+      {"slot":"g|mp","f":"agree","s":"L'association garantit qu'il n'y aura ___ frais d'adhésion cette année.","en":"The association guarantees there will be no membership fees this year.","a":"aucuns","alts":[]},
+      {"slot":"g|f","f":"agree","s":"Je n'ai ___ idée de ce qui s'est passé hier soir.","en":"I have no idea what happened last night.","a":"aucune","alts":[]},
+      {"slot":"g|f","f":"agree","s":"Il n'a fait ___ erreur lors de l'examen.","en":"He made no mistake during the exam.","a":"aucune","alts":[]},
+      {"slot":"g|fp","f":"agree","s":"Depuis son départ, nous n'avons reçu ___ nouvelles de lui.","en":"Since his departure, we have received no news from him.","a":"aucunes","alts":[]},
+      {"slot":"g|fp","f":"agree","s":"Les enquêteurs n'ont trouvé ___ empreintes sur la scène de crime.","en":"The investigators found no fingerprints at the crime scene.","a":"aucunes","alts":[]}
+    ]
+  },
+  {
+    "id": 64,
+    "qs": [
+      {"slot":"s|0","f":"sense","s":"Mon frère ne savait pas où se retrouver ; je ___ ai envoyé l'adresse par message.","en":"My brother didn't know where to meet up; I sent him the address by text.","a":"lui","alts":[],"form":""},
+      {"slot":"s|0","f":"sense","s":"Paul n'avait pas compris la consigne, alors le professeur ___ a tout réexpliqué.","en":"Paul hadn't understood the instructions, so the teacher explained everything to him again.","a":"lui","alts":[],"form":""},
+      {"slot":"s|1","f":"sense","s":"Marie était très stressée avant l'examen ; je ___ ai dit de ne pas s'inquiéter.","en":"Marie was very stressed before the exam; I told her not to worry.","a":"lui","alts":[],"form":""},
+      {"slot":"s|1","f":"sense","s":"Sa mère était à l'hôpital, alors il ___ a rendu visite tous les soirs.","en":"His mother was in the hospital, so he visited her every evening.","a":"lui","alts":[],"form":""},
+      {"slot":"s|2","f":"sense","s":"C'est ___ qui a trouvé la solution en premier.","en":"It was he who found the solution first.","a":"lui","alts":[],"form":""},
+      {"slot":"s|2","f":"sense","s":"Elle est venue à la fête avec ___, pas avec son frère.","en":"She came to the party with him, not with her brother.","a":"lui","alts":[],"form":""}
+    ]
+  },
+  {
+    "id": 65,
+    "qs": [
+      {"slot":"s|0","f":"sense","s":"Je n'ai pas assez de ___ pour finir ce travail aujourd'hui.","en":"I don't have enough time to finish this work today.","a":"temps","alts":[],"form":""},
+      {"slot":"s|0","f":"sense","s":"Le ___ passe vite quand on s'amuse.","en":"Time passes quickly when one is having fun.","a":"temps","alts":[],"form":""},
+      {"slot":"s|1","f":"sense","s":"Quel ___ fait-il aujourd'hui ? Il pleut beaucoup.","en":"What is the weather like today? It's raining a lot.","a":"temps","alts":[],"form":""},
+      {"slot":"s|1","f":"sense","s":"Le ___ est magnifique ce week-end, allons à la plage !","en":"The weather is beautiful this weekend, let's go to the beach!","a":"temps","alts":[],"form":""},
+      {"slot":"s|2","f":"sense","s":"Le professeur explique que le passé composé est un ___ du passé.","en":"The teacher explains that the passé composé is a past tense.","a":"temps","alts":[],"form":""},
+      {"slot":"s|2","f":"sense","s":"En français, il faut bien connaître les ___ verbaux pour parler correctement.","en":"In French, you need to know the verb tenses well to speak correctly.","a":"temps","alts":[],"form":""},
+      {"slot":"gender","f":"gender","s":"___ temps libre est précieux pour se reposer.","en":"Free time is precious for resting.","a":"Le","alts":[],"form":""},
+      {"slot":"gender","f":"gender","s":"Elle passe ___ temps à lire chaque soir.","en":"She spends time reading every evening.","a":"du","alts":[],"form":""}
+    ]
+  }
+]

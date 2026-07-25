@@ -1,0 +1,215 @@
+[
+  {
+    "id": 204,
+    "qs": [
+      {
+        "slot": "s|0",
+        "f": "sense",
+        "s": "Le ___ de l'Éducation nationale a annoncé une réforme scolaire majeure.",
+        "a": "ministre",
+        "en": "The Minister of National Education announced a major school reform.",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "s|0",
+        "f": "sense",
+        "s": "Elle a été nommée ___ de la Santé après les élections.",
+        "a": "ministre",
+        "en": "She was appointed Minister of Health after the elections.",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "s|1",
+        "f": "sense",
+        "s": "Ce ___ du roi Louis XIV jouissait d'une grande influence à la cour.",
+        "a": "ministre",
+        "en": "This minister of King Louis XIV enjoyed great influence at court.",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "s|1",
+        "f": "sense",
+        "s": "Le roi a convoqué ses ___ pour délibérer des affaires du royaume.",
+        "a": "ministres",
+        "en": "The king summoned his ministers to deliberate on the affairs of the kingdom.",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "s|2",
+        "f": "sense",
+        "s": "Le ___ protestant a célébré le mariage devant toute la congrégation.",
+        "a": "ministre",
+        "en": "The Protestant pastor officiated the wedding before the entire congregation.",
+        "alts": ["pasteur"],
+        "form": ""
+      },
+      {
+        "slot": "s|2",
+        "f": "sense",
+        "s": "Après ses études de théologie, il est devenu ___ dans une petite église de province.",
+        "a": "ministre",
+        "en": "After his theology studies, he became a pastor in a small provincial church.",
+        "alts": ["pasteur"],
+        "form": ""
+      }
+    ]
+  },
+  {
+    "id": 205,
+    "qs": [
+      {
+        "slot": "s|0",
+        "f": "sense",
+        "s": "La ___ cachée de la lune n'est jamais visible depuis la Terre.",
+        "a": "face",
+        "en": "The hidden side of the moon is never visible from Earth.",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "s|0",
+        "f": "sense",
+        "s": "Il faut examiner les deux ___ du problème avant de décider.",
+        "a": "faces",
+        "en": "You have to examine both sides of the problem before deciding.",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "s|1",
+        "f": "sense",
+        "s": "Un cube possède six ___ carrées de dimensions identiques.",
+        "a": "faces",
+        "en": "A cube has six square sides of identical dimensions.",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "s|1",
+        "f": "sense",
+        "s": "Les ___ latérales de ce prisme sont des rectangles parfaits.",
+        "a": "faces",
+        "en": "The lateral sides of this prism are perfect rectangles.",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "s|2",
+        "f": "sense",
+        "s": "La ___ de cet immeuble ancien donne directement sur la place du village.",
+        "a": "face",
+        "en": "The front of this old building faces directly onto the village square.",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "s|2",
+        "f": "sense",
+        "s": "La ___ de la médaille porte l'effigie du roi, tandis que le revers montre les armoiries.",
+        "a": "face",
+        "en": "The front of the medal bears the king's effigy, while the reverse shows the coat of arms.",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "s|3",
+        "f": "sense",
+        "s": "Il a caché sa ___ dans ses mains pour pleurer sans être vu.",
+        "a": "face",
+        "en": "He hid his face in his hands to cry without being seen.",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "s|3",
+        "f": "sense",
+        "s": "La blessure lui a laissé une cicatrice visible sur la ___.",
+        "a": "face",
+        "en": "The injury left a visible scar on his face.",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "gender",
+        "f": "gender",
+        "s": "Il examine ___ face de la pièce de monnaie avec attention.",
+        "a": "la",
+        "en": "He carefully examines the face of the coin.",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "gender",
+        "f": "gender",
+        "s": "C'est ___ face cachée de la réalité que peu de gens osent regarder.",
+        "a": "la",
+        "en": "It is the hidden face of reality that few people dare to look at.",
+        "alts": [],
+        "form": ""
+      }
+    ]
+  },
+  {
+    "id": 206,
+    "qs": [
+      {
+        "slot": "s|0",
+        "f": "sense",
+        "s": "Ce soir, nous allons dîner ___ Marie.",
+        "a": "chez",
+        "en": "Tonight, we are going to have dinner at Marie's (home).",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "s|0",
+        "f": "sense",
+        "s": "Les enfants passent le week-end ___ leurs grands-parents.",
+        "a": "chez",
+        "en": "The children are spending the weekend at their grandparents' (home).",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "s|1",
+        "f": "sense",
+        "s": "Je dois aller ___ le médecin cet après-midi.",
+        "a": "chez",
+        "en": "I need to go to the doctor's (office) this afternoon.",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "s|1",
+        "f": "sense",
+        "s": "Elle a acheté ce livre ___ un libraire du quartier.",
+        "a": "chez",
+        "en": "She bought this book at a bookshop in the neighbourhood.",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "s|2",
+        "f": "sense",
+        "s": "___ lui, l'honnêteté est une valeur fondamentale.",
+        "a": "chez",
+        "en": "For him, honesty is a fundamental value.",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "s|2",
+        "f": "sense",
+        "s": "Cette discrétion est une qualité très rare ___ les jeunes aujourd'hui.",
+        "a": "chez",
+        "en": "This discretion is a very rare quality among young people today.",
+        "alts": [],
+        "form": ""
+      }
+    ]
+  }
+]

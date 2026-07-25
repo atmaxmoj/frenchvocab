@@ -1,0 +1,779 @@
+[
+  {
+    "id": 663,
+    "qs": [
+      {
+        "slot": "s|0",
+        "f": "sense",
+        "s": "La baleine bleue est un animal ___ qui peut mesurer trente mètres de long.",
+        "a": "énorme",
+        "en": "The blue whale is an enormous animal that can measure thirty meters long.",
+        "alts": ["immense", "gigantesque"],
+        "form": ""
+      },
+      {
+        "slot": "s|0",
+        "f": "sense",
+        "s": "Ils ont construit un bâtiment ___ au centre de la ville.",
+        "a": "énorme",
+        "en": "They built an enormous building in the city center.",
+        "alts": ["immense", "gigantesque"],
+        "form": ""
+      },
+      {
+        "slot": "s|1",
+        "f": "sense",
+        "s": "C'est une ___ erreur de ne pas avoir vérifié les données avant la réunion.",
+        "a": "énorme",
+        "en": "It is an enormous mistake not to have checked the data before the meeting.",
+        "alts": ["grave"],
+        "form": ""
+      },
+      {
+        "slot": "s|1",
+        "f": "sense",
+        "s": "Son premier roman a connu un ___ succès dans le monde entier.",
+        "a": "énorme",
+        "en": "His first novel enjoyed enormous success all over the world.",
+        "alts": ["immense", "grand"],
+        "form": ""
+      },
+      {
+        "slot": "g|ms",
+        "f": "agree",
+        "s": "Le chêne est un arbre ___ qui peut vivre plusieurs siècles.",
+        "a": "énorme",
+        "en": "The oak is an enormous tree that can live for several centuries.",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "g|ms",
+        "f": "agree",
+        "s": "Il a reçu un héritage ___ de son oncle.",
+        "a": "énorme",
+        "en": "He received an enormous inheritance from his uncle.",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "g|mp",
+        "f": "agree",
+        "s": "Les rochers ___ bloquaient le passage vers la grotte.",
+        "a": "énormes",
+        "en": "The enormous rocks were blocking the passage to the cave.",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "g|mp",
+        "f": "agree",
+        "s": "Des nuages ___ s'accumulaient à l'horizon avant l'orage.",
+        "a": "énormes",
+        "en": "Enormous clouds were gathering on the horizon before the storm.",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "g|f",
+        "f": "agree",
+        "s": "Elle portait une valise ___ qu'elle avait du mal à soulever.",
+        "a": "énorme",
+        "en": "She was carrying an enormous suitcase that she had trouble lifting.",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "g|f",
+        "f": "agree",
+        "s": "La ville a connu une croissance ___ au cours des vingt dernières années.",
+        "a": "énorme",
+        "en": "The city experienced enormous growth over the past twenty years.",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "g|fp",
+        "f": "agree",
+        "s": "Les vagues ___ ont endommagé plusieurs bateaux dans le port.",
+        "a": "énormes",
+        "en": "The enormous waves damaged several boats in the port.",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "g|fp",
+        "f": "agree",
+        "s": "Il a hérité de dettes ___ après la faillite de son entreprise.",
+        "a": "énormes",
+        "en": "He inherited enormous debts after the bankruptcy of his company.",
+        "alts": [],
+        "form": ""
+      }
+    ]
+  },
+  {
+    "id": 664,
+    "qs": [
+      {
+        "slot": "t|Présent|0",
+        "f": "tense",
+        "s": "Je ___ toujours mes vieilles lettres dans un tiroir.",
+        "a": "conserve",
+        "en": "I always keep my old letters in a drawer.",
+        "alts": [],
+        "form": "Présent"
+      },
+      {
+        "slot": "t|Présent|0",
+        "f": "tense",
+        "s": "On ___ les aliments au réfrigérateur pour éviter qu'ils pourrissent.",
+        "a": "conserve",
+        "en": "One keeps food in the refrigerator to prevent it from spoiling.",
+        "alts": [],
+        "form": "Présent"
+      },
+      {
+        "slot": "t|Présent|1",
+        "f": "tense",
+        "s": "Tu ___ encore les photos de ton enfance ?",
+        "a": "conserves",
+        "en": "Do you still keep the photos from your childhood?",
+        "alts": [],
+        "form": "Présent"
+      },
+      {
+        "slot": "t|Présent|1",
+        "f": "tense",
+        "s": "Pourquoi tu ___ tous ces vieux journaux ?",
+        "a": "conserves",
+        "en": "Why do you keep all these old newspapers?",
+        "alts": [],
+        "form": "Présent"
+      },
+      {
+        "slot": "t|Présent|2",
+        "f": "tense",
+        "s": "Nous ___ précieusement les recettes de notre grand-mère.",
+        "a": "conservons",
+        "en": "We carefully keep our grandmother's recipes.",
+        "alts": [],
+        "form": "Présent"
+      },
+      {
+        "slot": "t|Présent|2",
+        "f": "tense",
+        "s": "Nous ___ nos archives dans un endroit sécurisé.",
+        "a": "conservons",
+        "en": "We keep our archives in a secure place.",
+        "alts": [],
+        "form": "Présent"
+      },
+      {
+        "slot": "t|Présent|3",
+        "f": "tense",
+        "s": "Vous ___ un exemplaire de chaque contrat signé.",
+        "a": "conservez",
+        "en": "You keep a copy of every signed contract.",
+        "alts": [],
+        "form": "Présent"
+      },
+      {
+        "slot": "t|Présent|3",
+        "f": "tense",
+        "s": "Est-ce que vous ___ les anciens modèles de téléphone ?",
+        "a": "conservez",
+        "en": "Do you keep the old phone models?",
+        "alts": [],
+        "form": "Présent"
+      },
+      {
+        "slot": "t|Présent|4",
+        "f": "tense",
+        "s": "Les musées ___ des œuvres d'art pour les générations futures.",
+        "a": "conservent",
+        "en": "Museums preserve works of art for future generations.",
+        "alts": [],
+        "form": "Présent"
+      },
+      {
+        "slot": "t|Présent|4",
+        "f": "tense",
+        "s": "Elles ___ leurs billets de concert comme des souvenirs.",
+        "a": "conservent",
+        "en": "They keep their concert tickets as souvenirs.",
+        "alts": [],
+        "form": "Présent"
+      },
+      {
+        "slot": "t|Passé composé|0",
+        "f": "tense",
+        "s": "J'___ toutes les lettres qu'elle m'a envoyées.",
+        "a": "ai conservé",
+        "en": "I kept all the letters she sent me.",
+        "alts": [],
+        "form": "Passé composé"
+      },
+      {
+        "slot": "t|Passé composé|0",
+        "f": "tense",
+        "s": "J'___ ce vieux ticket de train pendant des années.",
+        "a": "ai conservé",
+        "en": "I kept that old train ticket for years.",
+        "alts": [],
+        "form": "Passé composé"
+      },
+      {
+        "slot": "t|Passé composé|1",
+        "f": "tense",
+        "s": "Tu ___ le reçu de l'achat, heureusement.",
+        "a": "as conservé",
+        "en": "You kept the purchase receipt, fortunately.",
+        "alts": [],
+        "form": "Passé composé"
+      },
+      {
+        "slot": "t|Passé composé|1",
+        "f": "tense",
+        "s": "Est-ce que tu ___ les documents originaux ?",
+        "a": "as conservé",
+        "en": "Did you keep the original documents?",
+        "alts": [],
+        "form": "Passé composé"
+      },
+      {
+        "slot": "t|Passé composé|2",
+        "f": "tense",
+        "s": "Mon père ___ tous ses outils de jeunesse dans le garage.",
+        "a": "a conservé",
+        "en": "My father kept all his tools from his youth in the garage.",
+        "alts": [],
+        "form": "Passé composé"
+      },
+      {
+        "slot": "t|Passé composé|2",
+        "f": "tense",
+        "s": "La bibliothèque ___ des manuscrits du Moyen Âge.",
+        "a": "a conservé",
+        "en": "The library preserved manuscripts from the Middle Ages.",
+        "alts": [],
+        "form": "Passé composé"
+      },
+      {
+        "slot": "t|Passé composé|3",
+        "f": "tense",
+        "s": "Nous ___ les preuves nécessaires pour le procès.",
+        "a": "avons conservé",
+        "en": "We kept the necessary evidence for the trial.",
+        "alts": [],
+        "form": "Passé composé"
+      },
+      {
+        "slot": "t|Passé composé|3",
+        "f": "tense",
+        "s": "Nous ___ une copie de chaque rapport annuel.",
+        "a": "avons conservé",
+        "en": "We kept a copy of each annual report.",
+        "alts": [],
+        "form": "Passé composé"
+      },
+      {
+        "slot": "t|Passé composé|4",
+        "f": "tense",
+        "s": "Vous ___ les anciens fichiers dans ce dossier ?",
+        "a": "avez conservé",
+        "en": "Did you keep the old files in this folder?",
+        "alts": [],
+        "form": "Passé composé"
+      },
+      {
+        "slot": "t|Passé composé|4",
+        "f": "tense",
+        "s": "Vous ___ le numéro de référence de votre commande.",
+        "a": "avez conservé",
+        "en": "You kept the reference number of your order.",
+        "alts": [],
+        "form": "Passé composé"
+      },
+      {
+        "slot": "t|Passé composé|5",
+        "f": "tense",
+        "s": "Les scientifiques ___ des échantillons de glace polaire.",
+        "a": "ont conservé",
+        "en": "The scientists preserved samples of polar ice.",
+        "alts": [],
+        "form": "Passé composé"
+      },
+      {
+        "slot": "t|Passé composé|5",
+        "f": "tense",
+        "s": "Mes parents ___ la maison familiale pendant trente ans.",
+        "a": "ont conservé",
+        "en": "My parents kept the family house for thirty years.",
+        "alts": [],
+        "form": "Passé composé"
+      },
+      {
+        "slot": "t|Imparfait|0",
+        "f": "tense",
+        "s": "Quand j'étais enfant, je ___ tous mes dessins dans une boîte.",
+        "a": "conservais",
+        "en": "When I was a child, I used to keep all my drawings in a box.",
+        "alts": [],
+        "form": "Imparfait"
+      },
+      {
+        "slot": "t|Imparfait|0",
+        "f": "tense",
+        "s": "Tu ___ chaque cadeau qu'on t'offrait, sans jamais rien jeter.",
+        "a": "conservais",
+        "en": "You kept every gift given to you, never throwing anything away.",
+        "alts": [],
+        "form": "Imparfait"
+      },
+      {
+        "slot": "t|Imparfait|1",
+        "f": "tense",
+        "s": "Le vieux bibliothécaire ___ les livres rares dans une salle spéciale.",
+        "a": "conservait",
+        "en": "The old librarian kept the rare books in a special room.",
+        "alts": [],
+        "form": "Imparfait"
+      },
+      {
+        "slot": "t|Imparfait|1",
+        "f": "tense",
+        "s": "Elle ___ un calme exemplaire en toutes circonstances.",
+        "a": "conservait",
+        "en": "She maintained an exemplary calm in all circumstances.",
+        "alts": [],
+        "form": "Imparfait"
+      },
+      {
+        "slot": "t|Imparfait|2",
+        "f": "tense",
+        "s": "Nous ___ nos économies dans une vieille boîte en métal.",
+        "a": "conservions",
+        "en": "We used to keep our savings in an old metal box.",
+        "alts": [],
+        "form": "Imparfait"
+      },
+      {
+        "slot": "t|Imparfait|2",
+        "f": "tense",
+        "s": "Nous ___ toujours les restes du repas pour le lendemain.",
+        "a": "conservions",
+        "en": "We always kept the leftovers for the next day.",
+        "alts": [],
+        "form": "Imparfait"
+      },
+      {
+        "slot": "t|Imparfait|3",
+        "f": "tense",
+        "s": "Vous ___ les recettes de cuisine dans un cahier manuscrit.",
+        "a": "conserviez",
+        "en": "You used to keep recipes in a handwritten notebook.",
+        "alts": [],
+        "form": "Imparfait"
+      },
+      {
+        "slot": "t|Imparfait|3",
+        "f": "tense",
+        "s": "Dans ce laboratoire, vous ___ les échantillons à basse température.",
+        "a": "conserviez",
+        "en": "In that laboratory, you kept the samples at low temperature.",
+        "alts": [],
+        "form": "Imparfait"
+      },
+      {
+        "slot": "t|Imparfait|4",
+        "f": "tense",
+        "s": "Les anciens artisans ___ les traditions de génération en génération.",
+        "a": "conservaient",
+        "en": "The old craftsmen preserved traditions from generation to generation.",
+        "alts": [],
+        "form": "Imparfait"
+      },
+      {
+        "slot": "t|Imparfait|4",
+        "f": "tense",
+        "s": "Ils ___ leurs documents importants dans un coffre-fort.",
+        "a": "conservaient",
+        "en": "They kept their important documents in a safe.",
+        "alts": [],
+        "form": "Imparfait"
+      },
+      {
+        "slot": "t|Futur|0",
+        "f": "tense",
+        "s": "Je ___ ces photos toute ma vie.",
+        "a": "conserverai",
+        "en": "I will keep these photos all my life.",
+        "alts": [],
+        "form": "Futur"
+      },
+      {
+        "slot": "t|Futur|0",
+        "f": "tense",
+        "s": "Je ___ une copie du contrat pour mes dossiers.",
+        "a": "conserverai",
+        "en": "I will keep a copy of the contract for my files.",
+        "alts": [],
+        "form": "Futur"
+      },
+      {
+        "slot": "t|Futur|1",
+        "f": "tense",
+        "s": "Tu ___ ce billet comme souvenir de ton voyage.",
+        "a": "conserveras",
+        "en": "You will keep this ticket as a souvenir of your trip.",
+        "alts": [],
+        "form": "Futur"
+      },
+      {
+        "slot": "t|Futur|1",
+        "f": "tense",
+        "s": "Est-ce que tu ___ les anciens messages après la mise à jour ?",
+        "a": "conserveras",
+        "en": "Will you keep the old messages after the update?",
+        "alts": [],
+        "form": "Futur"
+      },
+      {
+        "slot": "t|Futur|2",
+        "f": "tense",
+        "s": "Le musée ___ cette statue pour les siècles à venir.",
+        "a": "conservera",
+        "en": "The museum will preserve this statue for centuries to come.",
+        "alts": [],
+        "form": "Futur"
+      },
+      {
+        "slot": "t|Futur|2",
+        "f": "tense",
+        "s": "Mon frère ___ son poste malgré les changements dans l'entreprise.",
+        "a": "conservera",
+        "en": "My brother will keep his position despite changes in the company.",
+        "alts": [],
+        "form": "Futur"
+      },
+      {
+        "slot": "t|Futur|3",
+        "f": "tense",
+        "s": "Nous ___ l'original et enverrons une copie.",
+        "a": "conserverons",
+        "en": "We will keep the original and send a copy.",
+        "alts": [],
+        "form": "Futur"
+      },
+      {
+        "slot": "t|Futur|3",
+        "f": "tense",
+        "s": "Nous ___ vos données pendant cinq ans conformément à la loi.",
+        "a": "conserverons",
+        "en": "We will keep your data for five years in accordance with the law.",
+        "alts": [],
+        "form": "Futur"
+      },
+      {
+        "slot": "t|Futur|4",
+        "f": "tense",
+        "s": "Vous ___ vos droits d'accès même après la restructuration.",
+        "a": "conserverez",
+        "en": "You will keep your access rights even after the restructuring.",
+        "alts": [],
+        "form": "Futur"
+      },
+      {
+        "slot": "t|Futur|4",
+        "f": "tense",
+        "s": "Vous ___ les fichiers originaux dans ce répertoire sécurisé.",
+        "a": "conserverez",
+        "en": "You will keep the original files in this secure directory.",
+        "alts": [],
+        "form": "Futur"
+      },
+      {
+        "slot": "t|Futur|5",
+        "f": "tense",
+        "s": "Les archivistes ___ ces documents pour les chercheurs futurs.",
+        "a": "conserveront",
+        "en": "The archivists will preserve these documents for future researchers.",
+        "alts": [],
+        "form": "Futur"
+      },
+      {
+        "slot": "t|Futur|5",
+        "f": "tense",
+        "s": "Ils ___ leur avance jusqu'à la fin de la compétition.",
+        "a": "conserveront",
+        "en": "They will keep their lead until the end of the competition.",
+        "alts": [],
+        "form": "Futur"
+      },
+      {
+        "slot": "t|Conditionnel|0",
+        "f": "tense",
+        "s": "Si j'avais plus de place, je ___ tous ces livres.",
+        "a": "conserverais",
+        "en": "If I had more space, I would keep all these books.",
+        "alts": [],
+        "form": "Conditionnel"
+      },
+      {
+        "slot": "t|Conditionnel|0",
+        "f": "tense",
+        "s": "Si tu en avais la possibilité, tu ___ ces vieilles photos ?",
+        "a": "conserverais",
+        "en": "If you had the chance, would you keep these old photos?",
+        "alts": [],
+        "form": "Conditionnel"
+      },
+      {
+        "slot": "t|Conditionnel|1",
+        "f": "tense",
+        "s": "Si elle avait un jardin, elle ___ des herbes aromatiques.",
+        "a": "conserverait",
+        "en": "If she had a garden, she would preserve aromatic herbs.",
+        "alts": [],
+        "form": "Conditionnel"
+      },
+      {
+        "slot": "t|Conditionnel|1",
+        "f": "tense",
+        "s": "Le directeur ___ son calme même dans les situations difficiles.",
+        "a": "conserverait",
+        "en": "The director would maintain his composure even in difficult situations.",
+        "alts": [],
+        "form": "Conditionnel"
+      },
+      {
+        "slot": "t|Conditionnel|2",
+        "f": "tense",
+        "s": "Si nous avions un entrepôt, nous ___ davantage de stock.",
+        "a": "conserverions",
+        "en": "If we had a warehouse, we would keep more stock.",
+        "alts": [],
+        "form": "Conditionnel"
+      },
+      {
+        "slot": "t|Conditionnel|2",
+        "f": "tense",
+        "s": "Nous ___ volontiers ces archives si l'espace le permettait.",
+        "a": "conserverions",
+        "en": "We would gladly keep these archives if space permitted.",
+        "alts": [],
+        "form": "Conditionnel"
+      },
+      {
+        "slot": "t|Conditionnel|3",
+        "f": "tense",
+        "s": "Si vous aviez le choix, vous ___ quel poste dans l'entreprise ?",
+        "a": "conserveriez",
+        "en": "If you had the choice, which position in the company would you keep?",
+        "alts": [],
+        "form": "Conditionnel"
+      },
+      {
+        "slot": "t|Conditionnel|3",
+        "f": "tense",
+        "s": "Vous ___ ces données plus longtemps si la loi le permettait.",
+        "a": "conserveriez",
+        "en": "You would keep this data longer if the law allowed it.",
+        "alts": [],
+        "form": "Conditionnel"
+      },
+      {
+        "slot": "t|Conditionnel|4",
+        "f": "tense",
+        "s": "Ils ___ cette tradition si leur village ne disparaissait pas.",
+        "a": "conserveraient",
+        "en": "They would preserve this tradition if their village were not disappearing.",
+        "alts": [],
+        "form": "Conditionnel"
+      },
+      {
+        "slot": "t|Conditionnel|4",
+        "f": "tense",
+        "s": "Les autorités ___ ces bâtiments historiques si les fonds étaient suffisants.",
+        "a": "conserveraient",
+        "en": "The authorities would preserve these historic buildings if funds were sufficient.",
+        "alts": [],
+        "form": "Conditionnel"
+      },
+      {
+        "slot": "t|Subjonctif",
+        "f": "subj",
+        "s": "Il faut que tu ___ tous les justificatifs jusqu'au remboursement.",
+        "a": "conserves",
+        "en": "You must keep all the receipts until reimbursement.",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "t|Subjonctif",
+        "f": "subj",
+        "s": "Je tiens à ce qu'il ___ ce document en lieu sûr.",
+        "a": "conserve",
+        "en": "I want him to keep this document in a safe place.",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "s|0",
+        "f": "sense",
+        "s": "On doit ___ les fruits de mer au réfrigérateur pour éviter qu'ils se gâtent.",
+        "a": "conserver",
+        "en": "One must preserve seafood in the refrigerator to prevent it from spoiling.",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "s|0",
+        "f": "sense",
+        "s": "Ce musée a pour mission de ___ le patrimoine culturel de la région.",
+        "a": "conserver",
+        "en": "This museum's mission is to preserve the cultural heritage of the region.",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "s|1",
+        "f": "sense",
+        "s": "L'entreprise a décidé de ___ ses anciens employés malgré la fusion.",
+        "a": "conserver",
+        "en": "The company decided to retain its former employees despite the merger.",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "s|1",
+        "f": "sense",
+        "s": "Il a voulu ___ son droit de vote lors de l'assemblée générale.",
+        "a": "conserver",
+        "en": "He wanted to retain his voting right at the general meeting.",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "s|2",
+        "f": "sense",
+        "s": "Même après vingt ans de carrière, elle arrive à ___ sa passion pour l'enseignement.",
+        "a": "conserver",
+        "en": "Even after twenty years of career, she manages to maintain her passion for teaching.",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "s|2",
+        "f": "sense",
+        "s": "Le sportif s'entraîne chaque jour pour ___ sa forme physique.",
+        "a": "conserver",
+        "en": "The athlete trains every day to maintain his physical fitness.",
+        "alts": [],
+        "form": ""
+      }
+    ]
+  },
+  {
+    "id": 665,
+    "qs": [
+      {
+        "slot": "s|0",
+        "f": "sense",
+        "s": "Ce n'est pas un rêve, c'est un danger ___ .",
+        "a": "réel",
+        "en": "This is not a dream, it is a real danger.",
+        "alts": []
+      },
+      {
+        "slot": "s|0",
+        "f": "sense",
+        "s": "Il voulait savoir si cette histoire était ___ ou inventée.",
+        "a": "réelle",
+        "en": "He wanted to know if that story was real or made up.",
+        "alts": []
+      },
+      {
+        "slot": "s|1",
+        "f": "sense",
+        "s": "Le ___ coût du projet dépasse largement le budget prévu.",
+        "a": "réel",
+        "en": "The actual cost of the project far exceeds the planned budget.",
+        "alts": []
+      },
+      {
+        "slot": "s|1",
+        "f": "sense",
+        "s": "Nous devons faire face aux difficultés ___ du terrain, pas aux théories.",
+        "a": "réelles",
+        "en": "We must face the actual difficulties on the ground, not theories.",
+        "alts": []
+      },
+      {
+        "slot": "g|ms",
+        "f": "agree",
+        "s": "Le danger ___ est souvent moins visible que le danger imaginé.",
+        "a": "réel",
+        "en": "The real danger is often less visible than the imagined danger.",
+        "alts": []
+      },
+      {
+        "slot": "g|ms",
+        "f": "agree",
+        "s": "C'est un problème ___ qui nécessite une solution immédiate.",
+        "a": "réel",
+        "en": "It is a real problem that requires an immediate solution.",
+        "alts": []
+      },
+      {
+        "slot": "g|mp",
+        "f": "agree",
+        "s": "Ces problèmes sont ___ et méritent une attention immédiate.",
+        "a": "réels",
+        "en": "These problems are real and deserve immediate attention.",
+        "alts": []
+      },
+      {
+        "slot": "g|mp",
+        "f": "agree",
+        "s": "Les risques ___ liés à ce projet ont été sous-estimés.",
+        "a": "réels",
+        "en": "The real risks associated with this project were underestimated.",
+        "alts": []
+      },
+      {
+        "slot": "g|f",
+        "f": "agree",
+        "s": "La raison ___ de son départ reste inconnue.",
+        "a": "réelle",
+        "en": "The real reason for his departure remains unknown.",
+        "alts": []
+      },
+      {
+        "slot": "g|f",
+        "f": "agree",
+        "s": "C'est une opportunité ___ qu'il ne faut pas laisser passer.",
+        "a": "réelle",
+        "en": "It is a real opportunity that should not be missed.",
+        "alts": []
+      },
+      {
+        "slot": "g|fp",
+        "f": "agree",
+        "s": "Les conséquences ___ de cette loi se feront sentir dans dix ans.",
+        "a": "réelles",
+        "en": "The real consequences of this law will be felt in ten years.",
+        "alts": []
+      },
+      {
+        "slot": "g|fp",
+        "f": "agree",
+        "s": "Les perspectives ___ d'amélioration sont encore incertaines.",
+        "a": "réelles",
+        "en": "The actual prospects for improvement are still uncertain.",
+        "alts": []
+      }
+    ]
+  }
+]

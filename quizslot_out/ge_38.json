@@ -1,0 +1,719 @@
+[
+  {
+    "id": 615,
+    "qs": [
+      {
+        "slot": "s|0",
+        "f": "sense",
+        "s": "Pour résoudre ce problème, il faut ___ suivre les instructions étape par étape.",
+        "a": "simplement",
+        "en": "To solve this problem, you simply need to follow the instructions step by step.",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "s|0",
+        "f": "sense",
+        "s": "Elle m'a expliqué la recette ___, sans termes compliqués.",
+        "a": "simplement",
+        "en": "She explained the recipe to me simply, without complicated terms.",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "s|1",
+        "f": "sense",
+        "s": "Il a ___ besoin de cinq minutes pour finir son travail.",
+        "a": "simplement",
+        "en": "He merely needs five minutes to finish his work.",
+        "alts": ["seulement", "juste"],
+        "form": ""
+      },
+      {
+        "slot": "s|1",
+        "f": "sense",
+        "s": "Je voulais ___ te remercier pour ton aide d'hier.",
+        "a": "simplement",
+        "en": "I merely wanted to thank you for your help yesterday.",
+        "alts": ["seulement", "juste"],
+        "form": ""
+      },
+      {
+        "slot": "s|2",
+        "f": "sense",
+        "s": "Ce n'est pas une grande erreur, c'est ___ un malentendu.",
+        "a": "simplement",
+        "en": "It's not a big mistake, it's nothing more than a misunderstanding.",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "s|2",
+        "f": "sense",
+        "s": "Il n'est pas méchant, il est ___ maladroit.",
+        "a": "simplement",
+        "en": "He's not mean, he's nothing more than clumsy.",
+        "alts": [],
+        "form": ""
+      }
+    ]
+  },
+  {
+    "id": 616,
+    "qs": [
+      {
+        "slot": "t|Présent|0",
+        "f": "tense",
+        "s": "Je me ___ très bien de notre première rencontre.",
+        "a": "souviens",
+        "en": "I remember our first meeting very well.",
+        "alts": [],
+        "form": "Présent"
+      },
+      {
+        "slot": "t|Présent|0",
+        "f": "tense",
+        "s": "Tu te ___ encore de l'adresse de cette école ?",
+        "a": "souviens",
+        "en": "Do you still remember the address of that school?",
+        "alts": [],
+        "form": "Présent"
+      },
+      {
+        "slot": "t|Présent|1",
+        "f": "tense",
+        "s": "Mon père se ___ encore de la guerre.",
+        "a": "souvient",
+        "en": "My father still remembers the war.",
+        "alts": [],
+        "form": "Présent"
+      },
+      {
+        "slot": "t|Présent|1",
+        "f": "tense",
+        "s": "Elle se ___ de chaque détail de ce voyage.",
+        "a": "souvient",
+        "en": "She remembers every detail of that trip.",
+        "alts": [],
+        "form": "Présent"
+      },
+      {
+        "slot": "t|Présent|2",
+        "f": "tense",
+        "s": "Nous nous ___ de nos années d'université avec nostalgie.",
+        "a": "souvenons",
+        "en": "We remember our university years with nostalgia.",
+        "alts": [],
+        "form": "Présent"
+      },
+      {
+        "slot": "t|Présent|2",
+        "f": "tense",
+        "s": "Nous nous ___ bien de ce que le professeur nous a appris.",
+        "a": "souvenons",
+        "en": "We remember well what the teacher taught us.",
+        "alts": [],
+        "form": "Présent"
+      },
+      {
+        "slot": "t|Présent|3",
+        "f": "tense",
+        "s": "Vous vous ___ de la règle que j'ai expliquée hier ?",
+        "a": "souvenez",
+        "en": "Do you remember the rule I explained yesterday?",
+        "alts": [],
+        "form": "Présent"
+      },
+      {
+        "slot": "t|Présent|3",
+        "f": "tense",
+        "s": "Vous vous ___ de vos premières vacances ensemble ?",
+        "a": "souvenez",
+        "en": "Do you remember your first vacation together?",
+        "alts": [],
+        "form": "Présent"
+      },
+      {
+        "slot": "t|Présent|4",
+        "f": "tense",
+        "s": "Les anciens élèves se ___ de ce directeur avec respect.",
+        "a": "souviennent",
+        "en": "The former pupils remember that headmaster with respect.",
+        "alts": [],
+        "form": "Présent"
+      },
+      {
+        "slot": "t|Présent|4",
+        "f": "tense",
+        "s": "Elles se ___ encore de l'odeur de la maison de leur grand-mère.",
+        "a": "souviennent",
+        "en": "They still remember the smell of their grandmother's house.",
+        "alts": [],
+        "form": "Présent"
+      },
+      {
+        "slot": "t|Passé composé|0",
+        "f": "tense",
+        "s": "Je me ___ soudain de son numéro de téléphone.",
+        "a": "suis souvenu",
+        "en": "I suddenly remembered his phone number.",
+        "alts": [],
+        "form": "Passé composé"
+      },
+      {
+        "slot": "t|Passé composé|0",
+        "f": "tense",
+        "s": "En voyant la photo, je me ___ de ce jour-là.",
+        "a": "suis souvenu",
+        "en": "When I saw the photo, I remembered that day.",
+        "alts": [],
+        "form": "Passé composé"
+      },
+      {
+        "slot": "t|Passé composé|1",
+        "f": "tense",
+        "s": "Est-ce que tu te ___ de lui avoir promis de rappeler ?",
+        "a": "es souvenu",
+        "en": "Did you remember that you had promised to call back?",
+        "alts": [],
+        "form": "Passé composé"
+      },
+      {
+        "slot": "t|Passé composé|1",
+        "f": "tense",
+        "s": "Tu te ___ finalement de son prénom après la réunion.",
+        "a": "es souvenu",
+        "en": "You finally remembered his first name after the meeting.",
+        "alts": [],
+        "form": "Passé composé"
+      },
+      {
+        "slot": "t|Passé composé|2",
+        "f": "tense",
+        "s": "Mon frère se ___ de l'endroit exact où il avait caché les clés.",
+        "a": "est souvenu",
+        "en": "My brother remembered the exact place where he had hidden the keys.",
+        "alts": [],
+        "form": "Passé composé"
+      },
+      {
+        "slot": "t|Passé composé|2",
+        "f": "tense",
+        "s": "Elle se ___ tout à coup du mot qu'elle cherchait.",
+        "a": "est souvenue",
+        "en": "She suddenly remembered the word she was looking for.",
+        "alts": [],
+        "form": "Passé composé"
+      },
+      {
+        "slot": "t|Passé composé|3",
+        "f": "tense",
+        "s": "Nous nous ___ que la réunion était à neuf heures.",
+        "a": "sommes souvenus",
+        "en": "We remembered that the meeting was at nine o'clock.",
+        "alts": [],
+        "form": "Passé composé"
+      },
+      {
+        "slot": "t|Passé composé|3",
+        "f": "tense",
+        "s": "En arrivant à la gare, nous nous ___ que nous avions oublié les billets.",
+        "a": "sommes souvenus",
+        "en": "When we arrived at the station, we remembered that we had forgotten the tickets.",
+        "alts": [],
+        "form": "Passé composé"
+      },
+      {
+        "slot": "t|Passé composé|4",
+        "f": "tense",
+        "s": "Vous vous ___ à temps de la date limite de dépôt.",
+        "a": "êtes souvenu",
+        "en": "You remembered the submission deadline in time.",
+        "alts": [],
+        "form": "Passé composé"
+      },
+      {
+        "slot": "t|Passé composé|4",
+        "f": "tense",
+        "s": "Vous vous ___ de fermer la porte avant de partir ?",
+        "a": "êtes souvenu",
+        "en": "Did you remember to lock the door before leaving?",
+        "alts": [],
+        "form": "Passé composé"
+      },
+      {
+        "slot": "t|Passé composé|5",
+        "f": "tense",
+        "s": "Les témoins se ___ de la plaque d'immatriculation du véhicule.",
+        "a": "sont souvenus",
+        "en": "The witnesses remembered the licence plate of the vehicle.",
+        "alts": [],
+        "form": "Passé composé"
+      },
+      {
+        "slot": "t|Passé composé|5",
+        "f": "tense",
+        "s": "Elles se ___ enfin de l'avoir rencontré lors du congrès.",
+        "a": "sont souvenues",
+        "en": "They finally remembered having met him at the conference.",
+        "alts": [],
+        "form": "Passé composé"
+      },
+      {
+        "slot": "t|Imparfait|0",
+        "f": "tense",
+        "s": "Quand j'étais enfant, je me ___ de chaque détail de mes rêves.",
+        "a": "souvenais",
+        "en": "When I was a child, I remembered every detail of my dreams.",
+        "alts": [],
+        "form": "Imparfait"
+      },
+      {
+        "slot": "t|Imparfait|0",
+        "f": "tense",
+        "s": "Tu te ___ encore de toutes les chansons de ce chanteur à l'époque.",
+        "a": "souvenais",
+        "en": "You still remembered all the songs of that singer back then.",
+        "alts": [],
+        "form": "Imparfait"
+      },
+      {
+        "slot": "t|Imparfait|1",
+        "f": "tense",
+        "s": "Ma grand-mère se ___ de chaque anniversaire de la famille.",
+        "a": "souvenait",
+        "en": "My grandmother remembered every family birthday.",
+        "alts": [],
+        "form": "Imparfait"
+      },
+      {
+        "slot": "t|Imparfait|1",
+        "f": "tense",
+        "s": "Il se ___ toujours du nom de ses anciens camarades de classe.",
+        "a": "souvenait",
+        "en": "He always remembered the names of his former classmates.",
+        "alts": [],
+        "form": "Imparfait"
+      },
+      {
+        "slot": "t|Imparfait|2",
+        "f": "tense",
+        "s": "Nous nous ___ avec émotion de nos premières sorties entre amis.",
+        "a": "souvenions",
+        "en": "We remembered with emotion our first outings with friends.",
+        "alts": [],
+        "form": "Imparfait"
+      },
+      {
+        "slot": "t|Imparfait|2",
+        "f": "tense",
+        "s": "Nous nous ___ de chaque chanson que notre mère chantait le soir.",
+        "a": "souvenions",
+        "en": "We remembered every song our mother sang in the evening.",
+        "alts": [],
+        "form": "Imparfait"
+      },
+      {
+        "slot": "t|Imparfait|3",
+        "f": "tense",
+        "s": "Vous vous ___ de ces règles après chaque révision.",
+        "a": "souveniez",
+        "en": "You remembered these rules after each revision.",
+        "alts": [],
+        "form": "Imparfait"
+      },
+      {
+        "slot": "t|Imparfait|3",
+        "f": "tense",
+        "s": "Vous vous ___ toujours du chemin pour aller chez lui.",
+        "a": "souveniez",
+        "en": "You always remembered the way to his house.",
+        "alts": [],
+        "form": "Imparfait"
+      },
+      {
+        "slot": "t|Imparfait|4",
+        "f": "tense",
+        "s": "Les rescapés se ___ de chaque instant passé sur l'île déserte.",
+        "a": "souvenaient",
+        "en": "The survivors remembered every moment spent on the deserted island.",
+        "alts": [],
+        "form": "Imparfait"
+      },
+      {
+        "slot": "t|Imparfait|4",
+        "f": "tense",
+        "s": "Elles se ___ avec tendresse de leurs années d'école.",
+        "a": "souvenaient",
+        "en": "They remembered their school years with fondness.",
+        "alts": [],
+        "form": "Imparfait"
+      },
+      {
+        "slot": "t|Futur|0",
+        "f": "tense",
+        "s": "Je me ___ toujours de cette soirée mémorable.",
+        "a": "souviendrai",
+        "en": "I will always remember that memorable evening.",
+        "alts": [],
+        "form": "Futur"
+      },
+      {
+        "slot": "t|Futur|0",
+        "f": "tense",
+        "s": "Je me ___ de t'apporter le livre demain, c'est promis.",
+        "a": "souviendrai",
+        "en": "I will remember to bring you the book tomorrow, I promise.",
+        "alts": [],
+        "form": "Futur"
+      },
+      {
+        "slot": "t|Futur|1",
+        "f": "tense",
+        "s": "Tu te ___ longtemps de ta première journée de travail.",
+        "a": "souviendras",
+        "en": "You will remember your first day of work for a long time.",
+        "alts": [],
+        "form": "Futur"
+      },
+      {
+        "slot": "t|Futur|1",
+        "f": "tense",
+        "s": "Quand tu seras vieux, tu te ___ de ce moment avec joie.",
+        "a": "souviendras",
+        "en": "When you are old, you will remember this moment with joy.",
+        "alts": [],
+        "form": "Futur"
+      },
+      {
+        "slot": "t|Futur|2",
+        "f": "tense",
+        "s": "Elle se ___ de sa promesse quand elle verra les résultats.",
+        "a": "souviendra",
+        "en": "She will remember her promise when she sees the results.",
+        "alts": [],
+        "form": "Futur"
+      },
+      {
+        "slot": "t|Futur|2",
+        "f": "tense",
+        "s": "Ce film est si émouvant que chaque spectateur se ___ de lui.",
+        "a": "souviendra",
+        "en": "This film is so moving that every viewer will remember it.",
+        "alts": [],
+        "form": "Futur"
+      },
+      {
+        "slot": "t|Futur|3",
+        "f": "tense",
+        "s": "Nous nous ___ de cette aventure toute notre vie.",
+        "a": "souviendrons",
+        "en": "We will remember this adventure all our lives.",
+        "alts": [],
+        "form": "Futur"
+      },
+      {
+        "slot": "t|Futur|3",
+        "f": "tense",
+        "s": "Après ce voyage, nous nous ___ de chaque paysage rencontré.",
+        "a": "souviendrons",
+        "en": "After this trip, we will remember every landscape we encountered.",
+        "alts": [],
+        "form": "Futur"
+      },
+      {
+        "slot": "t|Futur|4",
+        "f": "tense",
+        "s": "Vous vous ___ de cette décision importante toute votre carrière.",
+        "a": "souviendrez",
+        "en": "You will remember this important decision throughout your career.",
+        "alts": [],
+        "form": "Futur"
+      },
+      {
+        "slot": "t|Futur|4",
+        "f": "tense",
+        "s": "Je suis sûr que vous vous ___ de cette règle après l'examen.",
+        "a": "souviendrez",
+        "en": "I am sure you will remember this rule after the exam.",
+        "alts": [],
+        "form": "Futur"
+      },
+      {
+        "slot": "t|Futur|5",
+        "f": "tense",
+        "s": "Tous les participants se ___ de ce congrès pendant des années.",
+        "a": "souviendront",
+        "en": "All the participants will remember this conference for years.",
+        "alts": [],
+        "form": "Futur"
+      },
+      {
+        "slot": "t|Futur|5",
+        "f": "tense",
+        "s": "Elles se ___ de ce courage extraordinaire dont il avait fait preuve.",
+        "a": "souviendront",
+        "en": "They will remember that extraordinary courage he had shown.",
+        "alts": [],
+        "form": "Futur"
+      },
+      {
+        "slot": "t|Conditionnel|0",
+        "f": "tense",
+        "s": "Si j'avais été là, je me ___ sûrement de son nom.",
+        "a": "souviendrais",
+        "en": "If I had been there, I would surely remember his name.",
+        "alts": [],
+        "form": "Conditionnel"
+      },
+      {
+        "slot": "t|Conditionnel|0",
+        "f": "tense",
+        "s": "Si tu lisais plus souvent, tu te ___ mieux du vocabulaire.",
+        "a": "souviendrais",
+        "en": "If you read more often, you would remember the vocabulary better.",
+        "alts": [],
+        "form": "Conditionnel"
+      },
+      {
+        "slot": "t|Conditionnel|1",
+        "f": "tense",
+        "s": "Si elle prenait des notes, elle se ___ mieux des consignes.",
+        "a": "souviendrait",
+        "en": "If she took notes, she would remember the instructions better.",
+        "alts": [],
+        "form": "Conditionnel"
+      },
+      {
+        "slot": "t|Conditionnel|1",
+        "f": "tense",
+        "s": "Mon père se ___ de son enfance s'il voyait ces vieilles photos.",
+        "a": "souviendrait",
+        "en": "My father would remember his childhood if he saw those old photos.",
+        "alts": [],
+        "form": "Conditionnel"
+      },
+      {
+        "slot": "t|Conditionnel|2",
+        "f": "tense",
+        "s": "Si nous répétions la leçon, nous nous ___ de tout à l'examen.",
+        "a": "souviendrions",
+        "en": "If we revised the lesson, we would remember everything for the exam.",
+        "alts": [],
+        "form": "Conditionnel"
+      },
+      {
+        "slot": "t|Conditionnel|2",
+        "f": "tense",
+        "s": "Nous nous ___ mieux des événements si nous tenions un journal.",
+        "a": "souviendrions",
+        "en": "We would remember events better if we kept a diary.",
+        "alts": [],
+        "form": "Conditionnel"
+      },
+      {
+        "slot": "t|Conditionnel|3",
+        "f": "tense",
+        "s": "Si vous viviez à Paris, vous vous ___ de ces lieux toute votre vie.",
+        "a": "souviendriez",
+        "en": "If you lived in Paris, you would remember these places all your life.",
+        "alts": [],
+        "form": "Conditionnel"
+      },
+      {
+        "slot": "t|Conditionnel|3",
+        "f": "tense",
+        "s": "Vous vous ___ mieux de la date si vous la noterez dans votre agenda.",
+        "a": "souviendriez",
+        "en": "You would remember the date better if you wrote it in your diary.",
+        "alts": [],
+        "form": "Conditionnel"
+      },
+      {
+        "slot": "t|Conditionnel|4",
+        "f": "tense",
+        "s": "Si les enfants dormaient suffisamment, ils se ___ mieux de leurs leçons.",
+        "a": "souviendraient",
+        "en": "If the children slept enough, they would remember their lessons better.",
+        "alts": [],
+        "form": "Conditionnel"
+      },
+      {
+        "slot": "t|Conditionnel|4",
+        "f": "tense",
+        "s": "Elles se ___ de cet incident si elles lisaient l'article.",
+        "a": "souviendraient",
+        "en": "They would remember this incident if they read the article.",
+        "alts": [],
+        "form": "Conditionnel"
+      },
+      {
+        "slot": "t|Subjonctif",
+        "f": "subj",
+        "s": "Il faut que tu te ___ de rendre ce livre à la bibliothèque.",
+        "a": "souviennes",
+        "en": "You must remember to return this book to the library.",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "t|Subjonctif",
+        "f": "subj",
+        "s": "Je veux qu'elle se ___ de ce moment toute sa vie.",
+        "a": "souvienne",
+        "en": "I want her to remember this moment all her life.",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "s|0",
+        "f": "sense",
+        "s": "Ce ___ d'enfance est gravé dans son cœur pour toujours.",
+        "a": "souvenir",
+        "en": "This childhood memory is engraved in his heart forever.",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "s|0",
+        "f": "sense",
+        "s": "Elle garde un ___ précieux de ses années passées à l'étranger.",
+        "a": "souvenir",
+        "en": "She cherishes a precious memory of her years spent abroad.",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "s|1",
+        "f": "sense",
+        "s": "Il a partagé ses ___ de la guerre avec ses petits-enfants.",
+        "a": "souvenirs",
+        "en": "He shared his recollections of the war with his grandchildren.",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "s|1",
+        "f": "sense",
+        "s": "Ces vieilles photos ont ravivé ses ___ de jeunesse.",
+        "a": "souvenirs",
+        "en": "Those old photos revived his memories of youth.",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "s|2",
+        "f": "sense",
+        "s": "Elle a acheté un ___ en forme de tour Eiffel pour sa mère.",
+        "a": "souvenir",
+        "en": "She bought a souvenir in the shape of the Eiffel Tower for her mother.",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "s|2",
+        "f": "sense",
+        "s": "Le marché proposait toutes sortes de ___ typiques de la région.",
+        "a": "souvenirs",
+        "en": "The market offered all sorts of typical souvenirs from the region.",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "s|3",
+        "f": "sense",
+        "s": "Est-ce que tu te ___ de l'endroit où tu as mis tes clés ?",
+        "a": "souviens",
+        "en": "Do you remember where you put your keys?",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "s|3",
+        "f": "sense",
+        "s": "Je ne me ___ plus du tout du titre de ce roman.",
+        "a": "souviens",
+        "en": "I can no longer remember the title of that novel at all.",
+        "alts": [],
+        "form": ""
+      }
+    ]
+  },
+  {
+    "id": 617,
+    "qs": [
+      {
+        "slot": "s|0",
+        "f": "sense",
+        "s": "Il devra assumer les ___ de ses actes un jour ou l'autre.",
+        "a": "conséquences",
+        "en": "He will have to face the consequences of his actions sooner or later.",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "s|0",
+        "f": "sense",
+        "s": "Cette erreur de gestion a eu de graves ___ pour toute l'entreprise.",
+        "a": "conséquences",
+        "en": "This management error had serious consequences for the entire company.",
+        "alts": ["répercussions"],
+        "form": ""
+      },
+      {
+        "slot": "s|1",
+        "f": "sense",
+        "s": "Les routes étaient verglacées ; en ___, plusieurs accidents ont eu lieu.",
+        "a": "conséquence",
+        "en": "The roads were icy; as a result, several accidents occurred.",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "s|1",
+        "f": "sense",
+        "s": "Il a raté son train et, par ___, il est arrivé en retard à la réunion.",
+        "a": "conséquence",
+        "en": "He missed his train and, as a result, he arrived late to the meeting.",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "s|2",
+        "f": "sense",
+        "s": "Les scientifiques étudient les ___ du réchauffement climatique sur la biodiversité.",
+        "a": "conséquences",
+        "en": "Scientists are studying the impact of global warming on biodiversity.",
+        "alts": ["effets"],
+        "form": ""
+      },
+      {
+        "slot": "s|2",
+        "f": "sense",
+        "s": "La fermeture de l'usine a eu des ___ importantes sur l'économie locale.",
+        "a": "conséquences",
+        "en": "The closure of the factory had a significant impact on the local economy.",
+        "alts": ["répercussions", "effets"],
+        "form": ""
+      },
+      {
+        "slot": "gender",
+        "f": "gender",
+        "s": "Quelle est ___ conséquence principale de cette décision ?",
+        "a": "la",
+        "en": "What is the main consequence of this decision?",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "gender",
+        "f": "gender",
+        "s": "C'est ___ conséquence inattendue de la nouvelle politique.",
+        "a": "une",
+        "en": "It is an unexpected consequence of the new policy.",
+        "alts": [],
+        "form": ""
+      }
+    ]
+  }
+]

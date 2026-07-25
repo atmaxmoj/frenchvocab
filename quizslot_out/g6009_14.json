@@ -1,0 +1,83 @@
+[
+  {
+    "id": 6537,
+    "qs": [
+      {"slot":"s|0","f":"sense","s":"Elle a répondu ___ à la question du journaliste.","en":"She answered the journalist's question politely.","a":"poliment","alts":[]},
+      {"slot":"s|0","f":"sense","s":"Le nouvel employé salue toujours ses collègues ___ le matin.","en":"The new employee always greets his colleagues politely in the morning.","a":"poliment","alts":[]}
+    ]
+  },
+  {
+    "id": 6538,
+    "qs": [
+      {"slot":"s|0","f":"sense","s":"Les voyageurs sont montés dans le premier ___ du train.","en":"The passengers got on the first car of the train.","a":"wagon","alts":[],"form":""},
+      {"slot":"s|0","f":"sense","s":"On a chargé le charbon dans un ___ de marchandises.","en":"The coal was loaded into a freight car.","a":"wagon","alts":[],"form":""},
+      {"slot":"gender","f":"gender","s":"___ wagon était complètement vide à cette heure-ci.","en":"The car was completely empty at this hour.","a":"Le","alts":[],"form":""},
+      {"slot":"gender","f":"gender","s":"Ils ont réservé ___ wagon entier pour le groupe scolaire.","en":"They reserved an entire car for the school group.","a":"un","alts":[],"form":""}
+    ]
+  },
+  {
+    "id": 6539,
+    "qs": [
+      {"slot":"t|Présent|0","f":"tense","s":"Après une longue absence, je ___ soudain devant mes amis.","en":"After a long absence, I suddenly reappear in front of my friends.","a":"reparais","alts":[],"form":"Présent"},
+      {"slot":"t|Présent|0","f":"tense","s":"Où étais-tu ? Tu ___ enfin après trois jours de silence !","en":"Where were you? You finally reappear after three days of silence!","a":"reparais","alts":[],"form":"Présent"},
+      {"slot":"t|Présent|1","f":"tense","s":"Le fantôme ___ chaque nuit dans le même couloir.","en":"The ghost reappears every night in the same corridor.","a":"reparaît","alts":[],"form":"Présent"},
+      {"slot":"t|Présent|1","f":"tense","s":"Elle ___ enfin en public après des mois de silence.","en":"She finally reappears in public after months of silence.","a":"reparaît","alts":[],"form":"Présent"},
+      {"slot":"t|Présent|2","f":"tense","s":"Chaque été, nous ___ dans notre maison de campagne.","en":"Every summer, we reappear at our country house.","a":"reparaissons","alts":[],"form":"Présent"},
+      {"slot":"t|Présent|2","f":"tense","s":"Nous ___ sur scène pour le rappel après les applaudissements.","en":"We reappear on stage for the encore after the applause.","a":"reparaissons","alts":[],"form":"Présent"},
+      {"slot":"t|Présent|3","f":"tense","s":"Vous ___ toujours au bon moment, comme par magie.","en":"You always reappear at the right moment, as if by magic.","a":"reparaissez","alts":[],"form":"Présent"},
+      {"slot":"t|Présent|3","f":"tense","s":"Après votre absence, vous ___ enfin parmi nous.","en":"After your absence, you finally reappear among us.","a":"reparaissez","alts":[],"form":"Présent"},
+      {"slot":"t|Présent|4","f":"tense","s":"Chaque printemps, ces oiseaux migrateurs ___ dans notre jardin.","en":"Every spring, these migratory birds reappear in our garden.","a":"reparaissent","alts":[],"form":"Présent"},
+      {"slot":"t|Présent|4","f":"tense","s":"Après l'orage, les étoiles ___ dans le ciel.","en":"After the storm, the stars reappear in the sky.","a":"reparaissent","alts":[],"form":"Présent"},
+      {"slot":"t|Passé composé|0","f":"tense","s":"Hier, j'___ devant mes anciens collègues après cinq ans d'absence.","en":"Yesterday, I reappeared in front of my former colleagues after five years of absence.","a":"ai reparu","alts":[],"form":"Passé composé"},
+      {"slot":"t|Passé composé|0","f":"tense","s":"Ce matin, j'___ au bureau après ma longue maladie.","en":"This morning, I reappeared at the office after my long illness.","a":"ai reparu","alts":[],"form":"Passé composé"},
+      {"slot":"t|Passé composé|1","f":"tense","s":"Tu ___ hier soir à la fête, tout le monde était surpris.","en":"You reappeared last night at the party, everyone was surprised.","a":"as reparu","alts":[],"form":"Passé composé"},
+      {"slot":"t|Passé composé|1","f":"tense","s":"Après ta disparition, tu ___ ce matin sans explication.","en":"After your disappearance, you reappeared this morning without explanation.","a":"as reparu","alts":[],"form":"Passé composé"},
+      {"slot":"t|Passé composé|2","f":"tense","s":"Le chat ___ ce matin après trois jours d'absence.","en":"The cat reappeared this morning after three days of absence.","a":"a reparu","alts":[],"form":"Passé composé"},
+      {"slot":"t|Passé composé|2","f":"tense","s":"Elle ___ à l'improviste lors de la réunion d'hier.","en":"She unexpectedly reappeared at yesterday's meeting.","a":"a reparu","alts":[],"form":"Passé composé"},
+      {"slot":"t|Passé composé|3","f":"tense","s":"Nous ___ sur les lieux du crime le lendemain.","en":"We reappeared at the crime scene the next day.","a":"avons reparu","alts":[],"form":"Passé composé"},
+      {"slot":"t|Passé composé|3","f":"tense","s":"Après la pause, nous ___ sur scène pour saluer le public.","en":"After the break, we reappeared on stage to greet the audience.","a":"avons reparu","alts":[],"form":"Passé composé"},
+      {"slot":"t|Passé composé|4","f":"tense","s":"Vous ___ hier après plusieurs semaines de silence.","en":"You reappeared yesterday after several weeks of silence.","a":"avez reparu","alts":[],"form":"Passé composé"},
+      {"slot":"t|Passé composé|4","f":"tense","s":"Où étiez-vous passés ? Vous ___ enfin ce matin.","en":"Where had you gone? You finally reappeared this morning.","a":"avez reparu","alts":[],"form":"Passé composé"},
+      {"slot":"t|Passé composé|5","f":"tense","s":"Les hirondelles ___ plus tôt que d'habitude cette année.","en":"The swallows reappeared earlier than usual this year.","a":"ont reparu","alts":[],"form":"Passé composé"},
+      {"slot":"t|Passé composé|5","f":"tense","s":"Elles ___ ensemble au concert après leur brouille.","en":"They reappeared together at the concert after their quarrel.","a":"ont reparu","alts":[],"form":"Passé composé"},
+      {"slot":"t|Imparfait|0","f":"tense","s":"Quand j'étais enfant, je ___ toujours en retard aux réunions de famille.","en":"When I was a child, I always used to reappear late at family gatherings.","a":"reparaissais","alts":[],"form":"Imparfait"},
+      {"slot":"t|Imparfait|0","f":"tense","s":"À cette époque, tu ___ rarement après tes longues absences.","en":"At that time, you rarely used to reappear after your long absences.","a":"reparaissais","alts":[],"form":"Imparfait"},
+      {"slot":"t|Imparfait|1","f":"tense","s":"Chaque soir, le vieil homme ___ sur le même banc du parc.","en":"Every evening, the old man used to reappear on the same park bench.","a":"reparaissait","alts":[],"form":"Imparfait"},
+      {"slot":"t|Imparfait|1","f":"tense","s":"À cette époque, elle ___ souvent dans les journaux mondains.","en":"At that time, she often used to reappear in the society pages.","a":"reparaissait","alts":[],"form":"Imparfait"},
+      {"slot":"t|Imparfait|2","f":"tense","s":"Autrefois, nous ___ tous les étés dans ce village de pêcheurs.","en":"In the past, we used to reappear every summer in this fishing village.","a":"reparaissions","alts":[],"form":"Imparfait"},
+      {"slot":"t|Imparfait|2","f":"tense","s":"Quand nous étions jeunes, nous ___ souvent après minuit sans prévenir personne.","en":"When we were young, we often used to reappear after midnight without telling anyone.","a":"reparaissions","alts":[],"form":"Imparfait"},
+      {"slot":"t|Imparfait|3","f":"tense","s":"Autrefois, vous ___ toujours après une longue absence sans donner de nouvelles.","en":"In the past, you always used to reappear after a long absence without giving any news.","a":"reparaissiez","alts":[],"form":"Imparfait"},
+      {"slot":"t|Imparfait|3","f":"tense","s":"Quand vous étiez étudiants, vous ___ chaque année à cette même fête.","en":"When you were students, you used to reappear every year at this same festival.","a":"reparaissiez","alts":[],"form":"Imparfait"},
+      {"slot":"t|Imparfait|4","f":"tense","s":"Autrefois, ces symptômes ___ chaque hiver chez les patients.","en":"In the past, these symptoms used to reappear every winter in patients.","a":"reparaissaient","alts":[],"form":"Imparfait"},
+      {"slot":"t|Imparfait|4","f":"tense","s":"Les mêmes visages ___ chaque année à ce festival.","en":"The same faces used to reappear every year at this festival.","a":"reparaissaient","alts":[],"form":"Imparfait"},
+      {"slot":"t|Futur|0","f":"tense","s":"Après cette pause, je ___ sur scène dans quelques minutes.","en":"After this break, I will reappear on stage in a few minutes.","a":"reparaîtrai","alts":[],"form":"Futur"},
+      {"slot":"t|Futur|0","f":"tense","s":"Ne t'inquiète pas, je ___ bientôt parmi vous.","en":"Don't worry, I will reappear among you soon.","a":"reparaîtrai","alts":[],"form":"Futur"},
+      {"slot":"t|Futur|1","f":"tense","s":"Si tu pars maintenant, tu ___ dans une heure.","en":"If you leave now, you will reappear in an hour.","a":"reparaîtras","alts":[],"form":"Futur"},
+      {"slot":"t|Futur|1","f":"tense","s":"Tu ___ sûrement à la prochaine réunion.","en":"You will surely reappear at the next meeting.","a":"reparaîtras","alts":[],"form":"Futur"},
+      {"slot":"t|Futur|2","f":"tense","s":"Le soleil ___ derrière les nuages dans quelques instants.","en":"The sun will reappear behind the clouds in a few moments.","a":"reparaîtra","alts":[],"form":"Futur"},
+      {"slot":"t|Futur|2","f":"tense","s":"Elle ___ sur les écrans l'année prochaine dans un nouveau film.","en":"She will reappear on screens next year in a new film.","a":"reparaîtra","alts":[],"form":"Futur"},
+      {"slot":"t|Futur|3","f":"tense","s":"Nous ___ devant le public la semaine prochaine.","en":"We will reappear before the audience next week.","a":"reparaîtrons","alts":[],"form":"Futur"},
+      {"slot":"t|Futur|3","f":"tense","s":"Après cette absence, nous ___ plus forts que jamais.","en":"After this absence, we will reappear stronger than ever.","a":"reparaîtrons","alts":[],"form":"Futur"},
+      {"slot":"t|Futur|4","f":"tense","s":"Vous ___ sur la liste des candidats dès demain.","en":"You will reappear on the list of candidates as early as tomorrow.","a":"reparaîtrez","alts":[],"form":"Futur"},
+      {"slot":"t|Futur|4","f":"tense","s":"Vous ___ certainement à la cérémonie de clôture.","en":"You will certainly reappear at the closing ceremony.","a":"reparaîtrez","alts":[],"form":"Futur"},
+      {"slot":"t|Futur|5","f":"tense","s":"Les cerisiers ___ en fleurs dès le printemps prochain.","en":"The cherry trees will reappear in bloom as early as next spring.","a":"reparaîtront","alts":[],"form":"Futur"},
+      {"slot":"t|Futur|5","f":"tense","s":"Elles ___ toutes les deux au tournoi l'an prochain.","en":"They will both reappear at the tournament next year.","a":"reparaîtront","alts":[],"form":"Futur"},
+      {"slot":"t|Conditionnel|0","f":"tense","s":"Si j'avais plus de temps libre, je ___ plus souvent dans ce club.","en":"If I had more free time, I would reappear more often at this club.","a":"reparaîtrais","alts":[],"form":"Conditionnel"},
+      {"slot":"t|Conditionnel|0","f":"tense","s":"Si tu changeais d'avis, tu ___ sans doute dans notre équipe.","en":"If you changed your mind, you would probably reappear on our team.","a":"reparaîtrais","alts":[],"form":"Conditionnel"},
+      {"slot":"t|Conditionnel|1","f":"tense","s":"Si le contrat était signé, ce magazine ___ dès janvier.","en":"If the contract were signed, this magazine would reappear starting in January.","a":"reparaîtrait","alts":[],"form":"Conditionnel"},
+      {"slot":"t|Conditionnel|1","f":"tense","s":"Si elle guérissait vite, elle ___ sur les courts dès le mois prochain.","en":"If she recovered quickly, she would reappear on the courts as early as next month.","a":"reparaîtrait","alts":[],"form":"Conditionnel"},
+      {"slot":"t|Conditionnel|2","f":"tense","s":"Si nous avions un budget suffisant, nous ___ dans ce quartier avec un nouveau magasin.","en":"If we had a sufficient budget, we would reappear in this neighborhood with a new store.","a":"reparaîtrions","alts":[],"form":"Conditionnel"},
+      {"slot":"t|Conditionnel|2","f":"tense","s":"Si l'occasion se présentait, nous ___ volontiers dans cette compétition.","en":"If the opportunity arose, we would gladly reappear in this competition.","a":"reparaîtrions","alts":[],"form":"Conditionnel"},
+      {"slot":"t|Conditionnel|3","f":"tense","s":"Si vous le vouliez, vous ___ facilement dans ce milieu.","en":"If you wanted to, you would easily reappear in this circle.","a":"reparaîtriez","alts":[],"form":"Conditionnel"},
+      {"slot":"t|Conditionnel|3","f":"tense","s":"Si on vous le demandait, vous ___ à la télévision sans hésiter.","en":"If you were asked, you would reappear on television without hesitating.","a":"reparaîtriez","alts":[],"form":"Conditionnel"},
+      {"slot":"t|Conditionnel|4","f":"tense","s":"Si le financement revenait, ces espèces menacées ___ dans la région.","en":"If funding returned, these endangered species would reappear in the region.","a":"reparaîtraient","alts":[],"form":"Conditionnel"},
+      {"slot":"t|Conditionnel|4","f":"tense","s":"Si la mode revenait, ces vêtements ___ dans les vitrines.","en":"If fashion came back, these clothes would reappear in shop windows.","a":"reparaîtraient","alts":[],"form":"Conditionnel"},
+      {"slot":"t|Subjonctif","f":"subj","s":"Il faut que tu ___ avant la fin de la réunion.","en":"You must reappear before the end of the meeting.","a":"reparaisses","alts":[],"form":"Subjonctif"},
+      {"slot":"t|Subjonctif","f":"subj","s":"Le rédacteur en chef souhaite que le magazine ___ dès le mois prochain.","en":"The editor-in-chief wishes the magazine to reappear as early as next month.","a":"reparaisse","alts":[],"form":"Subjonctif"},
+      {"slot":"s|0","f":"sense","s":"Le fantôme du château va ___ cette nuit, selon la légende.","en":"According to legend, the castle's ghost is going to reappear tonight.","a":"reparaître","alts":[],"form":""},
+      {"slot":"s|0","f":"sense","s":"Après cette éclipse, le soleil devrait ___ dans quelques minutes.","en":"After this eclipse, the sun should reappear in a few minutes.","a":"reparaître","alts":[],"form":""},
+      {"slot":"s|1","f":"sense","s":"Ce magazine, disparu depuis dix ans, va enfin ___ en kiosque le mois prochain.","en":"This magazine, which disappeared ten years ago, will finally reappear on newsstands next month.","a":"reparaître","alts":[],"form":""},
+      {"slot":"s|1","f":"sense","s":"La revue littéraire devrait ___ sous un nouveau format l'année prochaine.","en":"The literary journal should reappear in a new format next year.","a":"reparaître","alts":[],"form":""}
+    ]
+  }
+]

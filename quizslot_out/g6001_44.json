@@ -1,0 +1,117 @@
+[
+  {
+    "id": 5346,
+    "qs": [
+      {
+        "slot": "s|0",
+        "f": "sense",
+        "s": "Une ___ a éclaté devant la boîte de nuit vers minuit.",
+        "en": "A brawl broke out in front of the nightclub around midnight.",
+        "a": "bagarre",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "s|0",
+        "f": "sense",
+        "s": "Il est rentré chez lui avec un œil au beurre noir après une ___ dans la rue.",
+        "en": "He came home with a black eye after a scuffle in the street.",
+        "a": "bagarre",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "gender",
+        "f": "gender",
+        "s": "Personne n'a pu arrêter ___ bagarre qui a éclaté hier soir dans la cour.",
+        "en": "No one could stop the fight that broke out yesterday evening in the yard.",
+        "a": "la",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "gender",
+        "f": "gender",
+        "s": "Il y a eu ___ bagarre entre deux clients au bar.",
+        "en": "There was a fight between two customers at the bar.",
+        "a": "une",
+        "alts": [],
+        "form": ""
+      }
+    ]
+  },
+  {
+    "id": 5347,
+    "qs": [
+      {
+        "slot": "s|0",
+        "f": "sense",
+        "s": "J'ai fait une ___ pour deux personnes au restaurant ce soir.",
+        "a": "réservation",
+        "en": "I made a reservation for two people at the restaurant tonight.",
+        "alts": []
+      },
+      {
+        "slot": "s|0",
+        "f": "sense",
+        "s": "Votre ___ pour le vol Paris-Tokyo est confirmée.",
+        "a": "réservation",
+        "en": "Your reservation for the Paris-Tokyo flight is confirmed.",
+        "alts": []
+      },
+      {
+        "slot": "gender",
+        "f": "gender",
+        "s": "___ réservation de la salle a été confirmée hier soir.",
+        "a": "La",
+        "en": "The reservation of the room was confirmed last night.",
+        "alts": []
+      },
+      {
+        "slot": "gender",
+        "f": "gender",
+        "s": "Nous avons fait ___ réservation pour trois personnes ce soir.",
+        "a": "une",
+        "en": "We made a reservation for three people tonight.",
+        "alts": []
+      }
+    ]
+  },
+  {
+    "id": 5348,
+    "qs": [
+      {
+        "slot": "s|0",
+        "f": "sense",
+        "s": "Mets le lait au ___ avant qu'il ne tourne.",
+        "en": "Put the milk in the fridge before it goes bad.",
+        "a": "frigo",
+        "alts": ["réfrigérateur"]
+      },
+      {
+        "slot": "s|0",
+        "f": "sense",
+        "s": "J'ai regardé dans le ___ mais il n'y avait plus rien à manger.",
+        "en": "I looked in the fridge but there was nothing left to eat.",
+        "a": "frigo",
+        "alts": ["réfrigérateur"]
+      },
+      {
+        "slot": "gender",
+        "f": "gender",
+        "s": "___ frigo de la cuisine est en panne depuis hier.",
+        "en": "The kitchen fridge has been broken since yesterday.",
+        "a": "Le",
+        "alts": []
+      },
+      {
+        "slot": "gender",
+        "f": "gender",
+        "s": "Nous avons acheté ___ frigo neuf pour la cuisine.",
+        "en": "We bought a new fridge for the kitchen.",
+        "a": "un",
+        "alts": []
+      }
+    ]
+  }
+]

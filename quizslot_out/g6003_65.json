@@ -1,0 +1,39 @@
+[
+  {
+    "id": 5791,
+    "qs": [
+      {"slot":"s|0","f":"sense","s":"À table, mon fils est très ___ : il finit toujours son assiette et en redemande.","en":"At the table, my son is very fond of food: he always finishes his plate and asks for more.","a":"gourmand","alts":[]},
+      {"slot":"s|0","f":"sense","s":"Ce chat est ___ et vole toujours un morceau de fromage sur la table.","en":"This cat is greedy for food and always steals a piece of cheese off the table.","a":"gourmand","alts":[]},
+      {"slot":"s|1","f":"sense","s":"Ce moteur ancien est ___ en carburant, il consomme beaucoup pour rouler.","en":"This old engine is fuel-hungry; it uses a lot of fuel to run.","a":"gourmand","alts":[]},
+      {"slot":"s|1","f":"sense","s":"Ce projet est ___ en temps, il faudra plusieurs mois pour le terminer.","en":"This project is time-consuming; it will take several months to finish.","a":"gourmand","alts":[]},
+      {"slot":"g|mp","f":"agree","s":"Ces enfants sont ___, ils demandent toujours plus de gâteaux.","en":"These children are greedy for food; they always ask for more cake.","a":"gourmands","alts":[]},
+      {"slot":"g|mp","f":"agree","s":"Ces algorithmes sont ___ en mémoire, ils ralentissent l'ordinateur.","en":"These algorithms are memory-hungry; they slow down the computer.","a":"gourmands","alts":[]},
+      {"slot":"g|f","f":"agree","s":"Cette actrice est réputée ___, elle raffole des chocolats.","en":"This actress is known to be a food lover; she adores chocolates.","a":"gourmande","alts":[]},
+      {"slot":"g|f","f":"agree","s":"Cette machine est ___ en énergie et coûte cher à faire fonctionner.","en":"This machine is energy-hungry and costly to run.","a":"gourmande","alts":[]},
+      {"slot":"g|fp","f":"agree","s":"Les jumelles sont très ___, elles ne résistent jamais à une pâtisserie.","en":"The twin sisters are very fond of food; they never resist a pastry.","a":"gourmandes","alts":[]},
+      {"slot":"g|fp","f":"agree","s":"Ces applications sont ___ en données mobiles, attention à votre forfait.","en":"These apps are heavy on mobile data; watch your plan.","a":"gourmandes","alts":[]}
+    ]
+  },
+  {
+    "id": 5792,
+    "qs": [
+      {"slot":"s|0","f":"sense","s":"Pendant l'été, elle a trouvé un poste d'___ dans une entreprise de logistique.","a":"intérim","en":"During the summer, she found a temporary job at a logistics company.","alts":[]},
+      {"slot":"s|0","f":"sense","s":"En attendant l'arrivée du nouveau directeur, Paul assure l'___.","a":"intérim","en":"While waiting for the new director to arrive, Paul is acting in the interim position.","alts":[]},
+      {"slot":"gender","f":"gender","s":"Elle a accepté ___ intérim de six mois avant de trouver un poste fixe.","a":"un","en":"She accepted a six-month temporary position before finding a permanent job.","alts":[]},
+      {"slot":"gender","f":"gender","s":"___ intérim de la directrice a duré deux mois pendant son congé maternité.","a":"Cet","en":"This interim role of the director lasted two months during her maternity leave.","alts":[]}
+    ]
+  },
+  {
+    "id": 5793,
+    "qs": [
+      {"slot":"s|0","f":"sense","s":"En découvrant le prix, il est resté complètement ___.","a":"étonné","en":"Upon discovering the price, he remained completely astonished.","alts":["surpris"]},
+      {"slot":"s|0","f":"sense","s":"Mon père a été très ___ par cette nouvelle inattendue.","a":"étonné","en":"My father was very astonished by this unexpected news.","alts":["surpris"]},
+      {"slot":"g|mp","f":"agree","s":"Les enfants sont ___ de voir la neige en été.","a":"étonnés","en":"The children are astonished to see snow in summer.","alts":["surpris"]},
+      {"slot":"g|mp","f":"agree","s":"Nos voisins semblaient ___ par le bruit soudain.","a":"étonnés","en":"Our neighbors seemed astonished by the sudden noise.","alts":["surpris"]},
+      {"slot":"g|f","f":"agree","s":"Elle est restée ___ devant ce spectacle magnifique.","a":"étonnée","en":"She remained astonished at this magnificent sight.","alts":["surprise"]},
+      {"slot":"g|f","f":"agree","s":"Ma sœur a été ___ par sa réussite à l'examen.","a":"étonnée","en":"My sister was astonished by her success on the exam.","alts":["surprise"]},
+      {"slot":"g|fp","f":"agree","s":"Les filles étaient ___ par la vitesse du changement.","a":"étonnées","en":"The girls were astonished by the speed of the change.","alts":["surprises"]},
+      {"slot":"g|fp","f":"agree","s":"Mes tantes sont ___ de voir autant de monde.","a":"étonnées","en":"My aunts are astonished to see so many people.","alts":["surprises"]}
+    ]
+  }
+]

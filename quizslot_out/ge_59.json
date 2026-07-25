@@ -1,0 +1,701 @@
+[
+  {
+    "id": 678,
+    "qs": [
+      {
+        "slot": "s|0",
+        "f": "sense",
+        "s": "Il y avait ___ cinquante personnes à la réunion.",
+        "a": "environ",
+        "en": "There were approximately fifty people at the meeting.",
+        "alts": ["à peu près"],
+        "form": ""
+      },
+      {
+        "slot": "s|0",
+        "f": "sense",
+        "s": "Le trajet en train dure ___ deux heures.",
+        "a": "environ",
+        "en": "The train journey takes approximately two hours.",
+        "alts": ["à peu près"],
+        "form": ""
+      },
+      {
+        "slot": "s|1",
+        "f": "sense",
+        "s": "Nous partirons à dix heures ___.",
+        "a": "environ",
+        "en": "We will leave at around ten o'clock or so.",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "s|1",
+        "f": "sense",
+        "s": "Le village se trouve à vingt kilomètres ___.",
+        "a": "environ",
+        "en": "The village is located about twenty kilometres away or so.",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "gender",
+        "f": "gender",
+        "s": "Nous cherchons ___ environnement paisible pour nous installer.",
+        "a": "un",
+        "en": "We are looking for a peaceful environment to settle in.",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "gender",
+        "f": "gender",
+        "s": "J'aime beaucoup ___ environnement naturel de cette région.",
+        "a": "l'",
+        "en": "I really like the natural environment of this region.",
+        "alts": [],
+        "form": ""
+      }
+    ]
+  },
+  {
+    "id": 679,
+    "qs": [
+      {
+        "slot": "s|0",
+        "f": "sense",
+        "s": "Il a beaucoup d'___ dans ce domaine, on peut lui faire confiance.",
+        "a": "expérience",
+        "en": "He has a lot of experience in this field, we can trust him.",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "s|0",
+        "f": "sense",
+        "s": "Elle manque encore d'___ professionnelle, mais elle apprend vite.",
+        "a": "expérience",
+        "en": "She still lacks professional experience, but she learns quickly.",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "s|1",
+        "f": "sense",
+        "s": "Vivre seul pour la première fois est une ___ très enrichissante.",
+        "a": "expérience",
+        "en": "Living alone for the first time is a very enriching experience.",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "s|1",
+        "f": "sense",
+        "s": "Ce voyage en Asie a été une ___ inoubliable pour eux.",
+        "a": "expérience",
+        "en": "This trip to Asia was an unforgettable experience for them.",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "s|2",
+        "f": "sense",
+        "s": "Les élèves réalisent une ___ de chimie dans le laboratoire.",
+        "a": "expérience",
+        "en": "The students are carrying out a chemistry experiment in the laboratory.",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "s|2",
+        "f": "sense",
+        "s": "Le scientifique a répété l'___ plusieurs fois pour vérifier les résultats.",
+        "a": "expérience",
+        "en": "The scientist repeated the experiment several times to verify the results.",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "gender",
+        "f": "gender",
+        "s": "Ce stage m'a apporté ___ expérience très précieuse.",
+        "a": "une",
+        "en": "This internship gave me a very valuable experience.",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "gender",
+        "f": "gender",
+        "s": "Elle a raconté ___ expérience qu'elle a vécue pendant la guerre.",
+        "a": "l'",
+        "en": "She recounted the experience she lived through during the war.",
+        "alts": [],
+        "form": ""
+      }
+    ]
+  },
+  {
+    "id": 680,
+    "qs": [
+      {
+        "slot": "t|Présent|0",
+        "f": "tense",
+        "s": "J'___ que j'ai fait une erreur.",
+        "a": "admets",
+        "en": "I admit that I made a mistake.",
+        "alts": [],
+        "form": "Présent"
+      },
+      {
+        "slot": "t|Présent|0",
+        "f": "tense",
+        "s": "Tu ___ enfin la vérité ?",
+        "a": "admets",
+        "en": "Do you finally admit the truth?",
+        "alts": [],
+        "form": "Présent"
+      },
+      {
+        "slot": "t|Présent|1",
+        "f": "tense",
+        "s": "Mon patron ___ rarement ses torts.",
+        "a": "admet",
+        "en": "My boss rarely admits his faults.",
+        "alts": [],
+        "form": "Présent"
+      },
+      {
+        "slot": "t|Présent|1",
+        "f": "tense",
+        "s": "On ___ généralement que le tabac est nocif.",
+        "a": "admet",
+        "en": "It is generally admitted that tobacco is harmful.",
+        "alts": [],
+        "form": "Présent"
+      },
+      {
+        "slot": "t|Présent|2",
+        "f": "tense",
+        "s": "Nous ___ volontiers nos erreurs.",
+        "a": "admettons",
+        "en": "We willingly admit our mistakes.",
+        "alts": [],
+        "form": "Présent"
+      },
+      {
+        "slot": "t|Présent|2",
+        "f": "tense",
+        "s": "Nous ___ que la situation est difficile.",
+        "a": "admettons",
+        "en": "We admit that the situation is difficult.",
+        "alts": [],
+        "form": "Présent"
+      },
+      {
+        "slot": "t|Présent|3",
+        "f": "tense",
+        "s": "Vous ___ donc que vous aviez tort ?",
+        "a": "admettez",
+        "en": "So you admit that you were wrong?",
+        "alts": [],
+        "form": "Présent"
+      },
+      {
+        "slot": "t|Présent|3",
+        "f": "tense",
+        "s": "Est-ce que vous ___ ce genre de comportement dans votre entreprise ?",
+        "a": "admettez",
+        "en": "Do you accept this kind of behaviour in your company?",
+        "alts": [],
+        "form": "Présent"
+      },
+      {
+        "slot": "t|Présent|4",
+        "f": "tense",
+        "s": "Les experts ___ que le changement climatique est réel.",
+        "a": "admettent",
+        "en": "The experts admit that climate change is real.",
+        "alts": [],
+        "form": "Présent"
+      },
+      {
+        "slot": "t|Présent|4",
+        "f": "tense",
+        "s": "Mes parents ___ difficilement mes choix de vie.",
+        "a": "admettent",
+        "en": "My parents have difficulty accepting my life choices.",
+        "alts": [],
+        "form": "Présent"
+      },
+      {
+        "slot": "t|Passé composé|0",
+        "f": "tense",
+        "s": "J'___ que j'avais eu tort lors de la réunion.",
+        "a": "ai admis",
+        "en": "I admitted that I had been wrong during the meeting.",
+        "alts": [],
+        "form": "Passé composé"
+      },
+      {
+        "slot": "t|Passé composé|0",
+        "f": "tense",
+        "s": "J'___ finalement ma défaite après le match.",
+        "a": "ai admis",
+        "en": "I finally admitted my defeat after the match.",
+        "alts": [],
+        "form": "Passé composé"
+      },
+      {
+        "slot": "t|Passé composé|1",
+        "f": "tense",
+        "s": "Tu ___ que tu ne savais pas la réponse.",
+        "a": "as admis",
+        "en": "You admitted that you did not know the answer.",
+        "alts": [],
+        "form": "Passé composé"
+      },
+      {
+        "slot": "t|Passé composé|1",
+        "f": "tense",
+        "s": "Est-ce que tu ___ tes erreurs à ton professeur ?",
+        "a": "as admis",
+        "en": "Did you admit your mistakes to your teacher?",
+        "alts": [],
+        "form": "Passé composé"
+      },
+      {
+        "slot": "t|Passé composé|2",
+        "f": "tense",
+        "s": "Le suspect ___ les faits devant le juge.",
+        "a": "a admis",
+        "en": "The suspect admitted the facts before the judge.",
+        "alts": [],
+        "form": "Passé composé"
+      },
+      {
+        "slot": "t|Passé composé|2",
+        "f": "tense",
+        "s": "Elle ___ qu'elle s'était trompée de date.",
+        "a": "a admis",
+        "en": "She admitted that she had got the date wrong.",
+        "alts": [],
+        "form": "Passé composé"
+      },
+      {
+        "slot": "t|Passé composé|3",
+        "f": "tense",
+        "s": "Nous ___ nos torts et nous nous sommes excusés.",
+        "a": "avons admis",
+        "en": "We admitted our faults and apologised.",
+        "alts": [],
+        "form": "Passé composé"
+      },
+      {
+        "slot": "t|Passé composé|3",
+        "f": "tense",
+        "s": "Nous ___ que le projet avait échoué.",
+        "a": "avons admis",
+        "en": "We admitted that the project had failed.",
+        "alts": [],
+        "form": "Passé composé"
+      },
+      {
+        "slot": "t|Passé composé|4",
+        "f": "tense",
+        "s": "Vous ___ votre responsabilité dans cet accident ?",
+        "a": "avez admis",
+        "en": "Did you admit your responsibility in this accident?",
+        "alts": [],
+        "form": "Passé composé"
+      },
+      {
+        "slot": "t|Passé composé|4",
+        "f": "tense",
+        "s": "Vous ___ hier que le délai était trop court.",
+        "a": "avez admis",
+        "en": "Yesterday you admitted that the deadline was too tight.",
+        "alts": [],
+        "form": "Passé composé"
+      },
+      {
+        "slot": "t|Passé composé|5",
+        "f": "tense",
+        "s": "Les dirigeants ___ enfin leurs erreurs de gestion.",
+        "a": "ont admis",
+        "en": "The managers finally admitted their management mistakes.",
+        "alts": [],
+        "form": "Passé composé"
+      },
+      {
+        "slot": "t|Passé composé|5",
+        "f": "tense",
+        "s": "Ils ___ que la décision avait été mauvaise.",
+        "a": "ont admis",
+        "en": "They admitted that the decision had been wrong.",
+        "alts": [],
+        "form": "Passé composé"
+      },
+      {
+        "slot": "t|Imparfait|0",
+        "f": "tense",
+        "s": "Quand j'étais jeune, j'___ difficilement la critique.",
+        "a": "admettais",
+        "en": "When I was young, I had difficulty accepting criticism.",
+        "alts": [],
+        "form": "Imparfait"
+      },
+      {
+        "slot": "t|Imparfait|0",
+        "f": "tense",
+        "s": "Tu ___ toujours tes erreurs sans te défendre.",
+        "a": "admettais",
+        "en": "You always admitted your mistakes without defending yourself.",
+        "alts": [],
+        "form": "Imparfait"
+      },
+      {
+        "slot": "t|Imparfait|1",
+        "f": "tense",
+        "s": "Le directeur ___ rarement qu'il avait tort.",
+        "a": "admettait",
+        "en": "The director rarely admitted that he was wrong.",
+        "alts": [],
+        "form": "Imparfait"
+      },
+      {
+        "slot": "t|Imparfait|1",
+        "f": "tense",
+        "s": "Elle ___ volontiers ses limites devant ses collègues.",
+        "a": "admettait",
+        "en": "She willingly admitted her limits in front of her colleagues.",
+        "alts": [],
+        "form": "Imparfait"
+      },
+      {
+        "slot": "t|Imparfait|2",
+        "f": "tense",
+        "s": "Nous ___ à cette époque que la science avait ses limites.",
+        "a": "admettions",
+        "en": "At that time we admitted that science had its limits.",
+        "alts": [],
+        "form": "Imparfait"
+      },
+      {
+        "slot": "t|Imparfait|2",
+        "f": "tense",
+        "s": "Nous ___ difficilement les retards à cette période.",
+        "a": "admettions",
+        "en": "We found it hard to accept delays at that time.",
+        "alts": [],
+        "form": "Imparfait"
+      },
+      {
+        "slot": "t|Imparfait|3",
+        "f": "tense",
+        "s": "Vous ___ autrefois les étudiants sans concours d'entrée.",
+        "a": "admettiez",
+        "en": "You used to admit students without an entrance exam.",
+        "alts": [],
+        "form": "Imparfait"
+      },
+      {
+        "slot": "t|Imparfait|3",
+        "f": "tense",
+        "s": "Vous n'___ jamais que vous puissiez avoir tort.",
+        "a": "admettiez",
+        "en": "You never admitted that you could be wrong.",
+        "alts": [],
+        "form": "Imparfait"
+      },
+      {
+        "slot": "t|Imparfait|4",
+        "f": "tense",
+        "s": "Les anciens professeurs ___ les punitions corporelles.",
+        "a": "admettaient",
+        "en": "The old teachers accepted corporal punishment.",
+        "alts": [],
+        "form": "Imparfait"
+      },
+      {
+        "slot": "t|Imparfait|4",
+        "f": "tense",
+        "s": "Ils ___ rarement leurs torts en public.",
+        "a": "admettaient",
+        "en": "They rarely admitted their faults in public.",
+        "alts": [],
+        "form": "Imparfait"
+      },
+      {
+        "slot": "t|Futur|0",
+        "f": "tense",
+        "s": "J'___ mes erreurs dès que j'aurai les preuves.",
+        "a": "admettrai",
+        "en": "I will admit my mistakes as soon as I have the evidence.",
+        "alts": [],
+        "form": "Futur"
+      },
+      {
+        "slot": "t|Futur|0",
+        "f": "tense",
+        "s": "J'___ la vérité lors de la prochaine réunion.",
+        "a": "admettrai",
+        "en": "I will admit the truth at the next meeting.",
+        "alts": [],
+        "form": "Futur"
+      },
+      {
+        "slot": "t|Futur|1",
+        "f": "tense",
+        "s": "Tu ___ certainement que tu avais tort quand tu verras les résultats.",
+        "a": "admettras",
+        "en": "You will certainly admit that you were wrong when you see the results.",
+        "alts": [],
+        "form": "Futur"
+      },
+      {
+        "slot": "t|Futur|1",
+        "f": "tense",
+        "s": "Est-ce que tu ___ tes erreurs devant tout le monde demain ?",
+        "a": "admettras",
+        "en": "Will you admit your mistakes in front of everyone tomorrow?",
+        "alts": [],
+        "form": "Futur"
+      },
+      {
+        "slot": "t|Futur|2",
+        "f": "tense",
+        "s": "Le comité ___ les nouveaux membres en janvier.",
+        "a": "admettra",
+        "en": "The committee will admit the new members in January.",
+        "alts": [],
+        "form": "Futur"
+      },
+      {
+        "slot": "t|Futur|2",
+        "f": "tense",
+        "s": "Elle ___ probablement la défaite après l'annonce des résultats.",
+        "a": "admettra",
+        "en": "She will probably admit defeat after the results are announced.",
+        "alts": [],
+        "form": "Futur"
+      },
+      {
+        "slot": "t|Futur|3",
+        "f": "tense",
+        "s": "Nous ___ que nous avons eu tort une fois l'enquête terminée.",
+        "a": "admettrons",
+        "en": "We will admit that we were wrong once the investigation is over.",
+        "alts": [],
+        "form": "Futur"
+      },
+      {
+        "slot": "t|Futur|3",
+        "f": "tense",
+        "s": "Nous ___ dix nouveaux étudiants à ce programme l'an prochain.",
+        "a": "admettrons",
+        "en": "We will admit ten new students to this programme next year.",
+        "alts": [],
+        "form": "Futur"
+      },
+      {
+        "slot": "t|Futur|4",
+        "f": "tense",
+        "s": "Vous ___ sans doute que ce projet était risqué.",
+        "a": "admettrez",
+        "en": "You will no doubt admit that this project was risky.",
+        "alts": [],
+        "form": "Futur"
+      },
+      {
+        "slot": "t|Futur|4",
+        "f": "tense",
+        "s": "Vous ___ les candidats retenus dès la semaine prochaine.",
+        "a": "admettrez",
+        "en": "You will admit the selected candidates as early as next week.",
+        "alts": [],
+        "form": "Futur"
+      },
+      {
+        "slot": "t|Futur|5",
+        "f": "tense",
+        "s": "Les autorités ___ que la mesure était inefficace.",
+        "a": "admettront",
+        "en": "The authorities will admit that the measure was ineffective.",
+        "alts": [],
+        "form": "Futur"
+      },
+      {
+        "slot": "t|Futur|5",
+        "f": "tense",
+        "s": "Ils ___ les visiteurs uniquement sur invitation.",
+        "a": "admettront",
+        "en": "They will admit visitors by invitation only.",
+        "alts": [],
+        "form": "Futur"
+      },
+      {
+        "slot": "t|Conditionnel|0",
+        "f": "tense",
+        "s": "Si tu me montrais les preuves, j'___ mon erreur.",
+        "a": "admettrais",
+        "en": "If you showed me the evidence, I would admit my mistake.",
+        "alts": [],
+        "form": "Conditionnel"
+      },
+      {
+        "slot": "t|Conditionnel|0",
+        "f": "tense",
+        "s": "Si tu étais honnête, tu ___ que tu avais tort.",
+        "a": "admettrais",
+        "en": "If you were honest, you would admit that you were wrong.",
+        "alts": [],
+        "form": "Conditionnel"
+      },
+      {
+        "slot": "t|Conditionnel|1",
+        "f": "tense",
+        "s": "Si le directeur était juste, il ___ ses propres fautes.",
+        "a": "admettrait",
+        "en": "If the director were fair, he would admit his own faults.",
+        "alts": [],
+        "form": "Conditionnel"
+      },
+      {
+        "slot": "t|Conditionnel|1",
+        "f": "tense",
+        "s": "Elle ___ volontiers la vérité si elle ne craignait pas les conséquences.",
+        "a": "admettrait",
+        "en": "She would willingly admit the truth if she were not afraid of the consequences.",
+        "alts": [],
+        "form": "Conditionnel"
+      },
+      {
+        "slot": "t|Conditionnel|2",
+        "f": "tense",
+        "s": "Si nous avions plus de preuves, nous ___ notre responsabilité.",
+        "a": "admettrions",
+        "en": "If we had more evidence, we would admit our responsibility.",
+        "alts": [],
+        "form": "Conditionnel"
+      },
+      {
+        "slot": "t|Conditionnel|2",
+        "f": "tense",
+        "s": "Nous ___ davantage d'étudiants si nous avions plus de salles.",
+        "a": "admettrions",
+        "en": "We would admit more students if we had more classrooms.",
+        "alts": [],
+        "form": "Conditionnel"
+      },
+      {
+        "slot": "t|Conditionnel|3",
+        "f": "tense",
+        "s": "Si vous étiez à ma place, vous ___ que c'est difficile.",
+        "a": "admettriez",
+        "en": "If you were in my position, you would admit that it is difficult.",
+        "alts": [],
+        "form": "Conditionnel"
+      },
+      {
+        "slot": "t|Conditionnel|3",
+        "f": "tense",
+        "s": "Vous ___ plus facilement vos erreurs si vous étiez moins orgueilleux.",
+        "a": "admettriez",
+        "en": "You would admit your mistakes more easily if you were less proud.",
+        "alts": [],
+        "form": "Conditionnel"
+      },
+      {
+        "slot": "t|Conditionnel|4",
+        "f": "tense",
+        "s": "Si les chefs reconnaissaient leurs torts, les employés les ___ plus volontiers.",
+        "a": "admettraient",
+        "en": "If the bosses acknowledged their faults, the employees would accept them more willingly.",
+        "alts": [],
+        "form": "Conditionnel"
+      },
+      {
+        "slot": "t|Conditionnel|4",
+        "f": "tense",
+        "s": "Ils ___ davantage de candidats si le budget était plus élevé.",
+        "a": "admettraient",
+        "en": "They would admit more candidates if the budget were higher.",
+        "alts": [],
+        "form": "Conditionnel"
+      },
+      {
+        "slot": "t|Subjonctif",
+        "f": "subj",
+        "s": "Il faut que tu ___ tes torts devant le groupe.",
+        "a": "admettes",
+        "en": "You must admit your faults in front of the group.",
+        "alts": [],
+        "form": "Subjonctif"
+      },
+      {
+        "slot": "t|Subjonctif",
+        "f": "subj",
+        "s": "Je doute qu'il ___ jamais ses erreurs.",
+        "a": "admette",
+        "en": "I doubt that he will ever admit his mistakes.",
+        "alts": [],
+        "form": "Subjonctif"
+      },
+      {
+        "slot": "s|0",
+        "f": "sense",
+        "s": "L'accusé a fini par ___ qu'il était présent sur les lieux.",
+        "a": "admettre",
+        "en": "The accused finally admitted that he had been at the scene.",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "s|0",
+        "f": "sense",
+        "s": "Il est difficile d'___ que l'on s'est trompé.",
+        "a": "admettre",
+        "en": "It is difficult to admit that one was wrong.",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "s|1",
+        "f": "sense",
+        "s": "Ce professeur n'___ pas les comportements irrespectueux en classe.",
+        "a": "admet",
+        "en": "This teacher does not accept disrespectful behaviour in class.",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "s|1",
+        "f": "sense",
+        "s": "La direction refuse d'___ ce type de retard dans les livraisons.",
+        "a": "admettre",
+        "en": "The management refuses to accept this type of delay in deliveries.",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "s|2",
+        "f": "sense",
+        "s": "Le musée ___ les visiteurs à partir de neuf heures du matin.",
+        "a": "admet",
+        "en": "The museum admits visitors from nine o'clock in the morning.",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "s|2",
+        "f": "sense",
+        "s": "La faculté de médecine n'___ qu'un nombre limité d'étudiants chaque année.",
+        "a": "admet",
+        "en": "The medical school admits only a limited number of students each year.",
+        "alts": [],
+        "form": ""
+      }
+    ]
+  }
+]

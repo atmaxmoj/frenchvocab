@@ -1,0 +1,781 @@
+[
+  {
+    "id": 4108,
+    "qs": [
+      {
+        "slot": "s|0",
+        "f": "sense",
+        "s": "Ce vieux bâton de berger n'est pas droit : il est légèrement ___.",
+        "a": "courbe",
+        "en": "This old shepherd's staff is not straight: it is slightly curved.",
+        "alts": []
+      },
+      {
+        "slot": "s|0",
+        "f": "sense",
+        "s": "Le chemin forestier est ___ et sinueux, il faut rouler lentement.",
+        "a": "courbe",
+        "en": "The forest path is curved and winding; you have to drive slowly.",
+        "alts": []
+      },
+      {
+        "slot": "s|1",
+        "f": "sense",
+        "s": "Le professeur a tracé une ___ sur le tableau pour illustrer l'évolution des températures.",
+        "a": "courbe",
+        "en": "The teacher drew a curve on the board to illustrate the change in temperatures.",
+        "alts": []
+      },
+      {
+        "slot": "s|1",
+        "f": "sense",
+        "s": "La ___ du graphique montre une nette hausse des ventes au dernier trimestre.",
+        "a": "courbe",
+        "en": "The curve on the graph shows a clear rise in sales in the last quarter.",
+        "alts": []
+      },
+      {
+        "slot": "g|mp",
+        "f": "agree",
+        "s": "Les architectes ont conçu des couloirs ___ pour créer un effet de fluidité.",
+        "a": "courbes",
+        "en": "The architects designed curved corridors to create a sense of flow.",
+        "alts": []
+      },
+      {
+        "slot": "g|mp",
+        "f": "agree",
+        "s": "Les murs ___ de cette salle de concert améliorent l'acoustique.",
+        "a": "courbes",
+        "en": "The curved walls of this concert hall improve the acoustics.",
+        "alts": []
+      },
+      {
+        "slot": "g|f",
+        "f": "agree",
+        "s": "La lame de ce sabre ancien est légèrement ___.",
+        "a": "courbe",
+        "en": "The blade of this ancient sabre is slightly curved.",
+        "alts": []
+      },
+      {
+        "slot": "g|f",
+        "f": "agree",
+        "s": "La surface ___ du miroir déforme un peu le reflet.",
+        "a": "courbe",
+        "en": "The curved surface of the mirror distorts the reflection slightly.",
+        "alts": []
+      },
+      {
+        "slot": "g|fp",
+        "f": "agree",
+        "s": "Les lignes ___ de cette carrosserie donnent un style élégant à la voiture.",
+        "a": "courbes",
+        "en": "The curved lines of this bodywork give the car an elegant style.",
+        "alts": []
+      },
+      {
+        "slot": "g|fp",
+        "f": "agree",
+        "s": "Les branches ___ de cet arbre centenaire témoignent des vents violents qui ont soufflé ici.",
+        "a": "courbes",
+        "en": "The curved branches of this hundred-year-old tree bear witness to the violent winds that blew here.",
+        "alts": []
+      }
+    ]
+  },
+  {
+    "id": 4109,
+    "qs": [
+      {
+        "slot": "t|Présent|0",
+        "f": "tense",
+        "s": "En mathématiques, je ___ le petit nombre du grand.",
+        "a": "soustrais",
+        "en": "In mathematics, I subtract the smaller number from the larger.",
+        "alts": [],
+        "form": "Présent"
+      },
+      {
+        "slot": "t|Présent|0",
+        "f": "tense",
+        "s": "Tu ___ dix de vingt pour obtenir dix.",
+        "a": "soustrais",
+        "en": "You subtract ten from twenty to get ten.",
+        "alts": [],
+        "form": "Présent"
+      },
+      {
+        "slot": "t|Présent|1",
+        "f": "tense",
+        "s": "Le comptable ___ les charges du revenu brut.",
+        "a": "soustrait",
+        "en": "The accountant subtracts the expenses from the gross income.",
+        "alts": [],
+        "form": "Présent"
+      },
+      {
+        "slot": "t|Présent|1",
+        "f": "tense",
+        "s": "On ___ les impôts directement du salaire.",
+        "a": "soustrait",
+        "en": "One subtracts taxes directly from the salary.",
+        "alts": [],
+        "form": "Présent"
+      },
+      {
+        "slot": "t|Présent|2",
+        "f": "tense",
+        "s": "Nous ___ les dépenses du budget total.",
+        "a": "soustrayons",
+        "en": "We subtract the expenses from the total budget.",
+        "alts": [],
+        "form": "Présent"
+      },
+      {
+        "slot": "t|Présent|2",
+        "f": "tense",
+        "s": "En classe, nous ___ les fractions ensemble.",
+        "a": "soustrayons",
+        "en": "In class, we subtract fractions together.",
+        "alts": [],
+        "form": "Présent"
+      },
+      {
+        "slot": "t|Présent|3",
+        "f": "tense",
+        "s": "Vous ___ bien les pourcentages dans ce tableau.",
+        "a": "soustrayez",
+        "en": "You subtract the percentages well in this table.",
+        "alts": [],
+        "form": "Présent"
+      },
+      {
+        "slot": "t|Présent|3",
+        "f": "tense",
+        "s": "Est-ce que vous ___ la TVA avant de calculer le bénéfice ?",
+        "a": "soustrayez",
+        "en": "Do you subtract VAT before calculating the profit?",
+        "alts": [],
+        "form": "Présent"
+      },
+      {
+        "slot": "t|Présent|4",
+        "f": "tense",
+        "s": "Les élèves ___ un nombre de l'autre pour trouver la différence.",
+        "a": "soustraient",
+        "en": "The students subtract one number from the other to find the difference.",
+        "alts": [],
+        "form": "Présent"
+      },
+      {
+        "slot": "t|Présent|4",
+        "f": "tense",
+        "s": "Ils ___ les remises du prix total à la caisse.",
+        "a": "soustraient",
+        "en": "They subtract the discounts from the total price at the checkout.",
+        "alts": [],
+        "form": "Présent"
+      },
+      {
+        "slot": "t|Passé composé|0",
+        "f": "tense",
+        "s": "J' ___ les frais de transport du montant total.",
+        "a": "ai soustrait",
+        "en": "I subtracted the transport costs from the total amount.",
+        "alts": [],
+        "form": "Passé composé"
+      },
+      {
+        "slot": "t|Passé composé|0",
+        "f": "tense",
+        "s": "Hier, j' ___ cinq de quinze pour vérifier le résultat.",
+        "a": "ai soustrait",
+        "en": "Yesterday, I subtracted five from fifteen to check the result.",
+        "alts": [],
+        "form": "Passé composé"
+      },
+      {
+        "slot": "t|Passé composé|1",
+        "f": "tense",
+        "s": "Tu ___ le mauvais chiffre de la colonne.",
+        "a": "as soustrait",
+        "en": "You subtracted the wrong figure from the column.",
+        "alts": [],
+        "form": "Passé composé"
+      },
+      {
+        "slot": "t|Passé composé|1",
+        "f": "tense",
+        "s": "Tu ___ les frais cachés du devis initial, c'est bien.",
+        "a": "as soustrait",
+        "en": "You subtracted the hidden fees from the initial estimate, well done.",
+        "alts": [],
+        "form": "Passé composé"
+      },
+      {
+        "slot": "t|Passé composé|2",
+        "f": "tense",
+        "s": "Le directeur ___ les pertes du bilan annuel.",
+        "a": "a soustrait",
+        "en": "The director subtracted the losses from the annual balance sheet.",
+        "alts": [],
+        "form": "Passé composé"
+      },
+      {
+        "slot": "t|Passé composé|2",
+        "f": "tense",
+        "s": "Elle ___ vingt euros du total pour la remise.",
+        "a": "a soustrait",
+        "en": "She subtracted twenty euros from the total for the discount.",
+        "alts": [],
+        "form": "Passé composé"
+      },
+      {
+        "slot": "t|Passé composé|3",
+        "f": "tense",
+        "s": "Nous ___ les cotisations du salaire net lors de la paie.",
+        "a": "avons soustrait",
+        "en": "We subtracted the contributions from the net salary during payroll.",
+        "alts": [],
+        "form": "Passé composé"
+      },
+      {
+        "slot": "t|Passé composé|3",
+        "f": "tense",
+        "s": "Nous ___ la réduction avant d'établir la facture finale.",
+        "a": "avons soustrait",
+        "en": "We subtracted the reduction before drawing up the final invoice.",
+        "alts": [],
+        "form": "Passé composé"
+      },
+      {
+        "slot": "t|Passé composé|4",
+        "f": "tense",
+        "s": "Vous ___ les erreurs du compte rendu avant de le soumettre.",
+        "a": "avez soustrait",
+        "en": "You subtracted the errors from the report before submitting it.",
+        "alts": [],
+        "form": "Passé composé"
+      },
+      {
+        "slot": "t|Passé composé|4",
+        "f": "tense",
+        "s": "Vous ___ la taxe de la somme totale avant d'envoyer la facture.",
+        "a": "avez soustrait",
+        "en": "You subtracted the tax from the total sum before sending the invoice.",
+        "alts": [],
+        "form": "Passé composé"
+      },
+      {
+        "slot": "t|Passé composé|5",
+        "f": "tense",
+        "s": "Les ingénieurs ___ les pertes thermiques du calcul.",
+        "a": "ont soustrait",
+        "en": "The engineers subtracted the heat losses from the calculation.",
+        "alts": [],
+        "form": "Passé composé"
+      },
+      {
+        "slot": "t|Passé composé|5",
+        "f": "tense",
+        "s": "Elles ___ les frais de livraison du montant final.",
+        "a": "ont soustrait",
+        "en": "They subtracted the delivery costs from the final amount.",
+        "alts": [],
+        "form": "Passé composé"
+      },
+      {
+        "slot": "t|Imparfait|0",
+        "f": "tense",
+        "s": "Quand j'étais enfant, je ___ les nombres à l'aide de mes doigts.",
+        "a": "soustrayais",
+        "en": "When I was a child, I used to subtract numbers using my fingers.",
+        "alts": [],
+        "form": "Imparfait"
+      },
+      {
+        "slot": "t|Imparfait|0",
+        "f": "tense",
+        "s": "Tu ___ toujours les remises avant de payer la facture.",
+        "a": "soustrayais",
+        "en": "You always subtracted the discounts before paying the bill.",
+        "alts": [],
+        "form": "Imparfait"
+      },
+      {
+        "slot": "t|Imparfait|1",
+        "f": "tense",
+        "s": "Le professeur ___ un exemple au tableau chaque matin.",
+        "a": "soustrayait",
+        "en": "The teacher used to subtract an example on the board every morning.",
+        "alts": [],
+        "form": "Imparfait"
+      },
+      {
+        "slot": "t|Imparfait|1",
+        "f": "tense",
+        "s": "Elle ___ régulièrement les charges fixes de ses revenus.",
+        "a": "soustrayait",
+        "en": "She regularly subtracted fixed costs from her income.",
+        "alts": [],
+        "form": "Imparfait"
+      },
+      {
+        "slot": "t|Imparfait|2",
+        "f": "tense",
+        "s": "Nous ___ les dépenses chaque semaine pour équilibrer le budget.",
+        "a": "soustrayions",
+        "en": "We used to subtract the expenses every week to balance the budget.",
+        "alts": [],
+        "form": "Imparfait"
+      },
+      {
+        "slot": "t|Imparfait|2",
+        "f": "tense",
+        "s": "Quand nous ___ mal, la comptable corrigeait nos erreurs.",
+        "a": "soustrayions",
+        "en": "When we subtracted incorrectly, the accountant would correct our mistakes.",
+        "alts": [],
+        "form": "Imparfait"
+      },
+      {
+        "slot": "t|Imparfait|3",
+        "f": "tense",
+        "s": "Vous ___ souvent des éléments sans justification.",
+        "a": "soustrayiez",
+        "en": "You often subtracted elements without justification.",
+        "alts": [],
+        "form": "Imparfait"
+      },
+      {
+        "slot": "t|Imparfait|3",
+        "f": "tense",
+        "s": "Avant, vous ___ les frais de douane du prix d'achat.",
+        "a": "soustrayiez",
+        "en": "Before, you used to subtract customs fees from the purchase price.",
+        "alts": [],
+        "form": "Imparfait"
+      },
+      {
+        "slot": "t|Imparfait|4",
+        "f": "tense",
+        "s": "Les étudiants ___ les valeurs sans vérifier leurs résultats.",
+        "a": "soustrayaient",
+        "en": "The students used to subtract values without checking their results.",
+        "alts": [],
+        "form": "Imparfait"
+      },
+      {
+        "slot": "t|Imparfait|4",
+        "f": "tense",
+        "s": "Ils ___ les pertes de leur chiffre d'affaires tous les mois.",
+        "a": "soustrayaient",
+        "en": "They subtracted losses from their turnover every month.",
+        "alts": [],
+        "form": "Imparfait"
+      },
+      {
+        "slot": "t|Futur|0",
+        "f": "tense",
+        "s": "Demain, je ___ les frais de déplacement de la note de service.",
+        "a": "soustrairai",
+        "en": "Tomorrow, I will subtract the travel expenses from the service note.",
+        "alts": [],
+        "form": "Futur"
+      },
+      {
+        "slot": "t|Futur|0",
+        "f": "tense",
+        "s": "Je ___ les charges sociales du salaire brut lors de la paie.",
+        "a": "soustrairai",
+        "en": "I will subtract the social contributions from the gross salary at payroll.",
+        "alts": [],
+        "form": "Futur"
+      },
+      {
+        "slot": "t|Futur|1",
+        "f": "tense",
+        "s": "Tu ___ la réduction de dix pour cent du total.",
+        "a": "soustrairas",
+        "en": "You will subtract the ten percent reduction from the total.",
+        "alts": [],
+        "form": "Futur"
+      },
+      {
+        "slot": "t|Futur|1",
+        "f": "tense",
+        "s": "Tu ___ les frais d'entretien avant de remettre le rapport.",
+        "a": "soustrairas",
+        "en": "You will subtract the maintenance fees before handing in the report.",
+        "alts": [],
+        "form": "Futur"
+      },
+      {
+        "slot": "t|Futur|2",
+        "f": "tense",
+        "s": "Le système ___ automatiquement la TVA du prix affiché.",
+        "a": "soustraira",
+        "en": "The system will automatically subtract VAT from the displayed price.",
+        "alts": [],
+        "form": "Futur"
+      },
+      {
+        "slot": "t|Futur|2",
+        "f": "tense",
+        "s": "Elle ___ les erreurs de calcul lors de la révision finale.",
+        "a": "soustraira",
+        "en": "She will subtract the calculation errors during the final revision.",
+        "alts": [],
+        "form": "Futur"
+      },
+      {
+        "slot": "t|Futur|3",
+        "f": "tense",
+        "s": "Nous ___ les pertes de l'exercice du bénéfice global.",
+        "a": "soustrairons",
+        "en": "We will subtract the losses of the period from the overall profit.",
+        "alts": [],
+        "form": "Futur"
+      },
+      {
+        "slot": "t|Futur|3",
+        "f": "tense",
+        "s": "L'année prochaine, nous ___ ces dépenses de nos impôts.",
+        "a": "soustrairons",
+        "en": "Next year, we will subtract these expenses from our taxes.",
+        "alts": [],
+        "form": "Futur"
+      },
+      {
+        "slot": "t|Futur|4",
+        "f": "tense",
+        "s": "Vous ___ les frais de gestion du capital investi.",
+        "a": "soustrairez",
+        "en": "You will subtract the management fees from the invested capital.",
+        "alts": [],
+        "form": "Futur"
+      },
+      {
+        "slot": "t|Futur|4",
+        "f": "tense",
+        "s": "Lors de l'audit, vous ___ les coûts indirects du résultat net.",
+        "a": "soustrairez",
+        "en": "During the audit, you will subtract the indirect costs from the net result.",
+        "alts": [],
+        "form": "Futur"
+      },
+      {
+        "slot": "t|Futur|5",
+        "f": "tense",
+        "s": "Les comptables ___ les charges de l'exercice à la fin de l'année.",
+        "a": "soustrairont",
+        "en": "The accountants will subtract the period's expenses at the end of the year.",
+        "alts": [],
+        "form": "Futur"
+      },
+      {
+        "slot": "t|Futur|5",
+        "f": "tense",
+        "s": "Ils ___ les abattements fiscaux du revenu imposable.",
+        "a": "soustrairont",
+        "en": "They will subtract the tax allowances from the taxable income.",
+        "alts": [],
+        "form": "Futur"
+      },
+      {
+        "slot": "t|Conditionnel|0",
+        "f": "tense",
+        "s": "Si tu avais un rabais, je ___ ce montant du prix total.",
+        "a": "soustrairais",
+        "en": "If you had a discount, I would subtract that amount from the total price.",
+        "alts": [],
+        "form": "Conditionnel"
+      },
+      {
+        "slot": "t|Conditionnel|0",
+        "f": "tense",
+        "s": "Tu ___ les frais si tu connaissais le bon tarif.",
+        "a": "soustrairais",
+        "en": "You would subtract the fees if you knew the correct rate.",
+        "alts": [],
+        "form": "Conditionnel"
+      },
+      {
+        "slot": "t|Conditionnel|1",
+        "f": "tense",
+        "s": "Le logiciel ___ automatiquement les doublons si on l'activait.",
+        "a": "soustrairait",
+        "en": "The software would automatically subtract duplicates if it were activated.",
+        "alts": [],
+        "form": "Conditionnel"
+      },
+      {
+        "slot": "t|Conditionnel|1",
+        "f": "tense",
+        "s": "Elle ___ la part des frais fixes si elle avait le relevé.",
+        "a": "soustrairait",
+        "en": "She would subtract the share of fixed costs if she had the statement.",
+        "alts": [],
+        "form": "Conditionnel"
+      },
+      {
+        "slot": "t|Conditionnel|2",
+        "f": "tense",
+        "s": "Nous ___ les déficits si nous avions accès aux données complètes.",
+        "a": "soustrairions",
+        "en": "We would subtract the deficits if we had access to the complete data.",
+        "alts": [],
+        "form": "Conditionnel"
+      },
+      {
+        "slot": "t|Conditionnel|2",
+        "f": "tense",
+        "s": "Si nous avions le droit, nous ___ ces charges de la base imposable.",
+        "a": "soustrairions",
+        "en": "If we had the right, we would subtract these costs from the tax base.",
+        "alts": [],
+        "form": "Conditionnel"
+      },
+      {
+        "slot": "t|Conditionnel|3",
+        "f": "tense",
+        "s": "Si vous aviez le bon formulaire, vous ___ les dépenses professionnelles.",
+        "a": "soustrairiez",
+        "en": "If you had the right form, you would subtract the professional expenses.",
+        "alts": [],
+        "form": "Conditionnel"
+      },
+      {
+        "slot": "t|Conditionnel|3",
+        "f": "tense",
+        "s": "Vous ___ les taxes plus facilement si le système était simplifié.",
+        "a": "soustrairiez",
+        "en": "You would subtract the taxes more easily if the system were simplified.",
+        "alts": [],
+        "form": "Conditionnel"
+      },
+      {
+        "slot": "t|Conditionnel|4",
+        "f": "tense",
+        "s": "Les entreprises ___ ces coûts si la loi le permettait.",
+        "a": "soustrairaient",
+        "en": "The companies would subtract these costs if the law allowed it.",
+        "alts": [],
+        "form": "Conditionnel"
+      },
+      {
+        "slot": "t|Conditionnel|4",
+        "f": "tense",
+        "s": "Ils ___ les pertes du résultat net si c'était autorisé.",
+        "a": "soustrairaient",
+        "en": "They would subtract the losses from the net result if it were authorized.",
+        "alts": [],
+        "form": "Conditionnel"
+      },
+      {
+        "slot": "t|Subjonctif",
+        "f": "subj",
+        "s": "Il faut que tu ___ cinq de ce nombre avant de continuer.",
+        "a": "soustraies",
+        "en": "You need to subtract five from this number before continuing.",
+        "alts": [],
+        "form": "Subjonctif"
+      },
+      {
+        "slot": "t|Subjonctif",
+        "f": "subj",
+        "s": "Je veux que vous ___ les frais de cette somme.",
+        "a": "soustrayiez",
+        "en": "I want you to subtract the fees from this sum.",
+        "alts": [],
+        "form": "Subjonctif"
+      },
+      {
+        "slot": "s|0",
+        "f": "sense",
+        "s": "Pour calculer le bénéfice, il faut ___ les charges du chiffre d'affaires.",
+        "a": "soustraire",
+        "en": "To calculate the profit, you need to subtract the costs from the turnover.",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "s|0",
+        "f": "sense",
+        "s": "L'enfant apprend à ___ les petits nombres des grands.",
+        "a": "soustraire",
+        "en": "The child learns to subtract small numbers from large ones.",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "s|1",
+        "f": "sense",
+        "s": "Le policier a réussi à ___ les pièces à conviction avant l'arrivée des suspects.",
+        "a": "soustraire",
+        "en": "The police officer managed to remove the evidence before the suspects arrived.",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "s|1",
+        "f": "sense",
+        "s": "Il a tenté de ___ des documents importants des archives.",
+        "a": "soustraire",
+        "en": "He tried to remove important documents from the archives.",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "s|2",
+        "f": "sense",
+        "s": "Les parents ont voulu ___ leur enfant aux influences néfastes du quartier.",
+        "a": "soustraire",
+        "en": "The parents wanted to shield their child from the harmful influences of the neighbourhood.",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "s|2",
+        "f": "sense",
+        "s": "Cette organisation cherche à ___ les réfugiés aux dangers de la guerre.",
+        "a": "soustraire",
+        "en": "This organisation seeks to shield refugees from the dangers of war.",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "s|3",
+        "f": "sense",
+        "s": "Il a cherché à se ___ à la justice pendant des années.",
+        "a": "soustraire",
+        "en": "He tried to escape from justice for years.",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "s|3",
+        "f": "sense",
+        "s": "Elle ne peut pas se ___ à ses responsabilités professionnelles.",
+        "a": "soustraire",
+        "en": "She cannot escape from her professional responsibilities.",
+        "alts": [],
+        "form": ""
+      }
+    ]
+  },
+  {
+    "id": 4110,
+    "qs": [
+      {
+        "slot": "s|0",
+        "f": "sense",
+        "s": "La structure de ce vieux pont est ___ et représente un danger pour les passants.",
+        "a": "instable",
+        "en": "The structure of this old bridge is unstable and poses a danger to passers-by.",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "s|0",
+        "f": "sense",
+        "s": "Le sol argileux rend les fondations ___ après de fortes pluies.",
+        "a": "instables",
+        "en": "Clay soil makes the foundations unstable after heavy rain.",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "s|1",
+        "f": "sense",
+        "s": "La situation politique du pays est ___ depuis les dernières élections.",
+        "a": "instable",
+        "en": "The country's political situation has been unsettled since the last elections.",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "s|1",
+        "f": "sense",
+        "s": "Il mène une vie ___ depuis qu'il a perdu son emploi et son logement.",
+        "a": "instable",
+        "en": "He has been leading an unsettled life since he lost his job and housing.",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "s|2",
+        "f": "sense",
+        "s": "Le temps est ___ en avril : il peut faire beau le matin et pleuvoir le soir.",
+        "a": "instable",
+        "en": "The weather is changeable in April: it can be sunny in the morning and rainy in the evening.",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "s|2",
+        "f": "sense",
+        "s": "Son humeur est très ___ : elle rit et pleure dans la même journée.",
+        "a": "instable",
+        "en": "Her mood is very changeable: she laughs and cries in the same day.",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "g|mp",
+        "f": "agree",
+        "s": "Ces équilibres chimiques sont très ___ à haute température.",
+        "a": "instables",
+        "en": "These chemical equilibria are very unstable at high temperature.",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "g|mp",
+        "f": "agree",
+        "s": "Les régimes politiques ___ finissent souvent par s'effondrer.",
+        "a": "instables",
+        "en": "Unstable political regimes often end up collapsing.",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "g|f",
+        "f": "agree",
+        "s": "Cette plateforme pétrolière est jugée ___ par les ingénieurs.",
+        "a": "instable",
+        "en": "This oil platform is deemed unstable by the engineers.",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "g|f",
+        "f": "agree",
+        "s": "La chaise à trois pieds est ___ sur ce sol inégal.",
+        "a": "instable",
+        "en": "The three-legged chair is unstable on this uneven floor.",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "g|fp",
+        "f": "agree",
+        "s": "Ces régions frontalières sont considérées comme ___ par les observateurs internationaux.",
+        "a": "instables",
+        "en": "These border regions are considered unstable by international observers.",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "g|fp",
+        "f": "agree",
+        "s": "Les constructions légères sont souvent ___ face aux vents violents.",
+        "a": "instables",
+        "en": "Light constructions are often unstable in the face of strong winds.",
+        "alts": [],
+        "form": ""
+      }
+    ]
+  }
+]

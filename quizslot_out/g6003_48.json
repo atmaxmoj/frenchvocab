@@ -1,0 +1,29 @@
+[
+  {
+    "id": 5740,
+    "qs": [
+      {"slot":"s|0","f":"sense","s":"Le médecin lui a fait une ___ pour soulager la douleur.","a":"piqûre","en":"The doctor gave him an injection to relieve the pain.","alts":[]},
+      {"slot":"s|0","f":"sense","s":"L'infirmière prépare une ___ contre la grippe.","a":"piqûre","en":"The nurse is preparing a flu shot.","alts":[]},
+      {"slot":"s|1","f":"sense","s":"Cette ___ de moustique me démange terriblement.","a":"piqûre","en":"This mosquito bite itches terribly.","alts":[]},
+      {"slot":"s|1","f":"sense","s":"Il a ressenti une douloureuse ___ d'abeille sur le bras.","a":"piqûre","en":"He felt a painful bee sting on his arm.","alts":[]},
+      {"slot":"gender","f":"gender","s":"Le médecin va te faire ___ piqûre, ne t'inquiète pas.","a":"une","en":"The doctor is going to give you a shot, don't worry.","alts":[]},
+      {"slot":"gender","f":"gender","s":"___ piqûre de guêpe est très douloureuse.","a":"La","en":"The wasp sting is very painful.","alts":[]}
+    ]
+  },
+  {
+    "id": 5741,
+    "qs": [
+      {"slot":"s|0","f":"sense","s":"Après l'incendie, il ne restait que des ___.","en":"After the fire, only ashes remained.","a":"cendres","alts":[]},
+      {"slot":"s|0","f":"sense","s":"Il a secoué la ___ de sa cigarette dans le cendrier.","en":"He tapped the ash from his cigarette into the ashtray.","a":"cendre","alts":[]},
+      {"slot":"gender","f":"gender","s":"Le vent a dispersé ___ cendre encore chaude du foyer.","en":"The wind scattered the still-warm ash from the hearth.","a":"la","alts":[]},
+      {"slot":"gender","f":"gender","s":"Il reste encore ___ cendre au fond du poêle après la nuit.","en":"There is still some ash at the bottom of the stove after the night.","a":"de la","alts":[]}
+    ]
+  },
+  {
+    "id": 5742,
+    "qs": [
+      {"slot":"s|0","f":"sense","s":"___, il fait un temps épouvantable depuis trois jours.","a":"Décidément","en":"Really, the weather has been terrible for three days.","alts":[],"form":""},
+      {"slot":"s|0","f":"sense","s":"Mon ordinateur plante encore ; ___, il est temps d'en acheter un nouveau.","a":"décidément","en":"My computer crashed again; decidedly, it's time to buy a new one.","alts":[],"form":""}
+    ]
+  }
+]

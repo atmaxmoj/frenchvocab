@@ -1,0 +1,257 @@
+[
+  {
+    "id": 2860,
+    "qs": [
+      {
+        "slot": "s|0",
+        "f": "sense",
+        "s": "Le président a accordé une ___ au chef de l'opposition.",
+        "a": "entrevue",
+        "en": "The president granted a meeting to the opposition leader.",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "s|0",
+        "f": "sense",
+        "s": "Après des années de séparation, cette ___ entre les deux frères fut très émouvante.",
+        "a": "entrevue",
+        "en": "After years of separation, this meeting between the two brothers was very moving.",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "s|1",
+        "f": "sense",
+        "s": "Elle a obtenu une ___ pour un poste de directrice dans cette entreprise.",
+        "a": "entrevue",
+        "en": "She got an interview for a director position at this company.",
+        "alts": ["entretien"],
+        "form": ""
+      },
+      {
+        "slot": "s|1",
+        "f": "sense",
+        "s": "Il se prépare soigneusement pour son ___ d'embauche de demain matin.",
+        "a": "entrevue",
+        "en": "He is carefully preparing for his job interview tomorrow morning.",
+        "alts": ["entretien"],
+        "form": ""
+      },
+      {
+        "slot": "gender",
+        "f": "gender",
+        "s": "C'est ___ entrevue très importante pour sa carrière.",
+        "a": "une",
+        "en": "It is a very important interview for his career.",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "gender",
+        "f": "gender",
+        "s": "C'est ___ première entrevue qu'il accorde depuis son élection.",
+        "a": "la",
+        "en": "It is the first meeting he has granted since his election.",
+        "alts": [],
+        "form": ""
+      }
+    ]
+  },
+  {
+    "id": 2861,
+    "qs": [
+      {
+        "slot": "s|0",
+        "f": "sense",
+        "s": "L'horloger a remplacé ___ cassé à l'intérieur de la montre ancienne.",
+        "a": "le ressort",
+        "en": "The watchmaker replaced the broken spring inside the antique watch.",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "s|0",
+        "f": "sense",
+        "s": "Le vélo avait ___ à l'avant pour amortir les chocs sur le chemin.",
+        "a": "un ressort",
+        "en": "The bicycle had a spring at the front to absorb shocks on the path.",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "s|1",
+        "f": "sense",
+        "s": "Ce matelas a perdu tout son ___ après des années d'utilisation.",
+        "a": "ressort",
+        "en": "This mattress has lost all its spring after years of use.",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "s|1",
+        "f": "sense",
+        "s": "Le ___ de ce canapé est remarquable : on ne s'y enfonce presque pas.",
+        "a": "ressort",
+        "en": "The springiness of this sofa is remarkable: you barely sink into it.",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "s|2",
+        "f": "sense",
+        "s": "Cette affaire ne relève pas de mon ___ ; adressez-vous à un autre service.",
+        "a": "ressort",
+        "en": "This matter does not fall within my jurisdiction; please contact another department.",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "s|2",
+        "f": "sense",
+        "s": "Le juge a estimé que le litige était en dehors du ___ de son tribunal.",
+        "a": "ressort",
+        "en": "The judge determined that the dispute was outside the jurisdiction of his court.",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "s|3",
+        "f": "sense",
+        "s": "Après cette défaite, il a trouvé le ___ nécessaire pour se relever et continuer à se battre.",
+        "a": "ressort",
+        "en": "After this defeat, he found the drive needed to get back up and keep fighting.",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "s|3",
+        "f": "sense",
+        "s": "Cette femme a un ___ intérieur extraordinaire : rien ne semble pouvoir la décourager.",
+        "a": "ressort",
+        "en": "This woman has an extraordinary inner spirit: nothing seems able to discourage her.",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "gender",
+        "f": "gender",
+        "s": "___ ressort de la boîte à musique s'est détendu.",
+        "a": "Le",
+        "en": "The spring of the music box has unwound.",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "gender",
+        "f": "gender",
+        "s": "Le technicien a installé ___ ressort neuf dans le mécanisme.",
+        "a": "un",
+        "en": "The technician installed a new spring in the mechanism.",
+        "alts": [],
+        "form": ""
+      }
+    ]
+  },
+  {
+    "id": 2862,
+    "qs": [
+      {
+        "slot": "s|0",
+        "f": "sense",
+        "s": "Le tableau est ___ au mur avec des vis.",
+        "a": "fixe",
+        "en": "The painting is fixed to the wall with screws.",
+        "alts": []
+      },
+      {
+        "slot": "s|0",
+        "f": "sense",
+        "s": "J'appelle sur ton téléphone ___ ou sur ton portable ?",
+        "a": "fixe",
+        "en": "Should I call your landline (fixed phone) or your mobile?",
+        "alts": []
+      },
+      {
+        "slot": "s|1",
+        "f": "sense",
+        "s": "Après des années de petits boulots, il a enfin décroché un emploi ___.",
+        "a": "fixe",
+        "en": "After years of odd jobs, he finally landed a steady job.",
+        "alts": []
+      },
+      {
+        "slot": "s|1",
+        "f": "sense",
+        "s": "Elle préfère un revenu ___ aux commissions variables.",
+        "a": "fixe",
+        "en": "She prefers a stable income to variable commissions.",
+        "alts": []
+      },
+      {
+        "slot": "s|2",
+        "f": "sense",
+        "s": "Ce restaurant propose un menu ___ à vingt euros, entrée, plat et dessert.",
+        "a": "fixe",
+        "en": "This restaurant offers a set menu at twenty euros, starter, main and dessert.",
+        "alts": []
+      },
+      {
+        "slot": "s|2",
+        "f": "sense",
+        "s": "Le loyer est ___ : il ne change pas d'un mois à l'autre.",
+        "a": "fixe",
+        "en": "The rent is fixed: it does not vary from one month to the next.",
+        "alts": []
+      },
+      {
+        "slot": "g|mp",
+        "f": "agree",
+        "s": "Les horaires ___ lui conviennent mieux qu'un emploi du temps variable.",
+        "a": "fixes",
+        "en": "The fixed hours suit him better than a variable schedule.",
+        "alts": []
+      },
+      {
+        "slot": "g|mp",
+        "f": "agree",
+        "s": "Ces prix ___ permettent aux clients de planifier leur budget à l'avance.",
+        "a": "fixes",
+        "en": "These fixed prices allow customers to plan their budget in advance.",
+        "alts": []
+      },
+      {
+        "slot": "g|f",
+        "f": "agree",
+        "s": "Depuis son déménagement, elle a enfin une adresse ___.",
+        "a": "fixe",
+        "en": "Since her move, she finally has a fixed address.",
+        "alts": []
+      },
+      {
+        "slot": "g|f",
+        "f": "agree",
+        "s": "La date ___ de la cérémonie a été communiquée à tous les invités.",
+        "a": "fixe",
+        "en": "The set date of the ceremony was communicated to all the guests.",
+        "alts": []
+      },
+      {
+        "slot": "g|fp",
+        "f": "agree",
+        "s": "Les règles ___ de cet établissement sont affichées à l'entrée.",
+        "a": "fixes",
+        "en": "The fixed rules of this establishment are posted at the entrance.",
+        "alts": []
+      },
+      {
+        "slot": "g|fp",
+        "f": "agree",
+        "s": "Ses positions ___ sur ce sujet ne laissent aucune place à la négociation.",
+        "a": "fixes",
+        "en": "Her fixed positions on this subject leave no room for negotiation.",
+        "alts": []
+      }
+    ]
+  }
+]

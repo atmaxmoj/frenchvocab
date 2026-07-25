@@ -1,0 +1,783 @@
+[
+  {
+    "id": 6294,
+    "qs": [
+      {
+        "slot": "s|0",
+        "f": "sense",
+        "s": "Le grand-père a posé sur son petit-fils un regard ___ avant de partir.",
+        "en": "The grandfather gave his grandson a tender, affectionate look before leaving.",
+        "a": "affectueux",
+        "alts": []
+      },
+      {
+        "slot": "s|0",
+        "f": "sense",
+        "s": "Mon père n'est pas du genre à parler beaucoup, mais son geste ___ m'a touché.",
+        "en": "My father isn't the type to talk much, but his affectionate, tender gesture touched me.",
+        "a": "affectueux",
+        "alts": []
+      },
+      {
+        "slot": "s|1",
+        "f": "sense",
+        "s": "Avant son départ, il a laissé à sa femme un mot ___ sur la table.",
+        "en": "Before leaving, he left his wife a loving, affectionate note on the table.",
+        "a": "affectueux",
+        "alts": []
+      },
+      {
+        "slot": "s|1",
+        "f": "sense",
+        "s": "Le vieil homme parle toujours à ses petits-enfants d'un ton ___.",
+        "en": "The old man always speaks to his grandchildren in a loving, affectionate tone.",
+        "a": "affectueux",
+        "alts": []
+      },
+      {
+        "slot": "s|2",
+        "f": "sense",
+        "s": "Malgré la foule, l'hôte nous a réservé un accueil ___.",
+        "en": "Despite the crowd, the host gave us a warm, friendly welcome.",
+        "a": "affectueux",
+        "alts": []
+      },
+      {
+        "slot": "s|2",
+        "f": "sense",
+        "s": "Le nouveau voisin a un sourire ___ qui met tout le monde à l'aise.",
+        "en": "The new neighbor has a warm, friendly smile that puts everyone at ease.",
+        "a": "affectueux",
+        "alts": []
+      },
+      {
+        "slot": "g|mp",
+        "f": "agree",
+        "s": "Ces grands-parents sont toujours très ___ avec leurs petits-enfants.",
+        "en": "These grandparents are always very affectionate with their grandchildren.",
+        "a": "affectueux",
+        "alts": []
+      },
+      {
+        "slot": "g|mp",
+        "f": "agree",
+        "s": "Les chiens de cette race sont réputés ___ envers leurs maîtres.",
+        "en": "Dogs of this breed are known to be affectionate towards their owners.",
+        "a": "affectueux",
+        "alts": []
+      },
+      {
+        "slot": "g|f",
+        "f": "agree",
+        "s": "Ma grand-mère est une femme douce et ___.",
+        "en": "My grandmother is a gentle and affectionate woman.",
+        "a": "affectueuse",
+        "alts": []
+      },
+      {
+        "slot": "g|f",
+        "f": "agree",
+        "s": "Elle me semble très ___ envers ses collègues.",
+        "en": "She seems very affectionate towards her colleagues.",
+        "a": "affectueuse",
+        "alts": []
+      },
+      {
+        "slot": "g|fp",
+        "f": "agree",
+        "s": "Mes cousines sont particulièrement ___ avec les enfants de la famille.",
+        "en": "My cousins are particularly affectionate with the children in the family.",
+        "a": "affectueuses",
+        "alts": []
+      },
+      {
+        "slot": "g|fp",
+        "f": "agree",
+        "s": "Ces chattes sont étonnamment ___ envers les invités.",
+        "en": "These female cats are surprisingly affectionate towards guests.",
+        "a": "affectueuses",
+        "alts": []
+      }
+    ]
+  },
+  {
+    "id": 6295,
+    "qs": [
+      {
+        "slot": "s|0",
+        "f": "sense",
+        "s": "Pendant la Révolution, chaque soldat arborait une ___ tricolore sur son chapeau.",
+        "en": "During the Revolution, each soldier wore a tricolor cockade on his hat.",
+        "a": "cocarde",
+        "alts": []
+      },
+      {
+        "slot": "s|0",
+        "f": "sense",
+        "s": "Lors de la cérémonie officielle, le maire portait une ___ tricolore épinglée sur sa veste.",
+        "en": "During the official ceremony, the mayor wore a tricolor cockade pinned on his jacket.",
+        "a": "cocarde",
+        "alts": []
+      },
+      {
+        "slot": "gender",
+        "f": "gender",
+        "s": "Elle a épinglé ___ cocarde sur son chapeau avant le défilé.",
+        "en": "She pinned a cockade on her hat before the parade.",
+        "a": "une",
+        "alts": []
+      },
+      {
+        "slot": "gender",
+        "f": "gender",
+        "s": "Sur son uniforme brillait ___ cocarde tricolore.",
+        "en": "On his uniform shone the tricolor cockade.",
+        "a": "la",
+        "alts": []
+      }
+    ]
+  },
+  {
+    "id": 6296,
+    "qs": [
+      {
+        "slot": "t|Présent|0",
+        "f": "tense",
+        "s": "En tant que maire, je ___ le stationnement sur cette place le samedi.",
+        "en": "As mayor, I prohibit parking in this square on Saturdays.",
+        "a": "prohibe",
+        "alts": [
+          "interdis"
+        ],
+        "form": "Présent"
+      },
+      {
+        "slot": "t|Présent|0",
+        "f": "tense",
+        "s": "Ce règlement ___ l'usage du téléphone au volant.",
+        "en": "This regulation prohibits the use of the phone while driving.",
+        "a": "prohibe",
+        "alts": [
+          "interdit"
+        ],
+        "form": "Présent"
+      },
+      {
+        "slot": "t|Présent|1",
+        "f": "tense",
+        "s": "Toi qui es maire, tu ___ les feux d'artifice en centre-ville.",
+        "en": "You, being mayor, prohibit fireworks in the city center.",
+        "a": "prohibes",
+        "alts": [
+          "interdis"
+        ],
+        "form": "Présent"
+      },
+      {
+        "slot": "t|Présent|1",
+        "f": "tense",
+        "s": "Tu ___ l'accès à ce site aux mineurs.",
+        "en": "You prohibit minors from accessing this site.",
+        "a": "prohibes",
+        "alts": [
+          "interdis"
+        ],
+        "form": "Présent"
+      },
+      {
+        "slot": "t|Présent|2",
+        "f": "tense",
+        "s": "Nous ___ la pêche dans cette zone protégée.",
+        "en": "We prohibit fishing in this protected area.",
+        "a": "prohibons",
+        "alts": [
+          "interdisons"
+        ],
+        "form": "Présent"
+      },
+      {
+        "slot": "t|Présent|2",
+        "f": "tense",
+        "s": "Nous ___ toute publicité pour le tabac sur nos ondes.",
+        "en": "We prohibit all tobacco advertising on our airwaves.",
+        "a": "prohibons",
+        "alts": [
+          "interdisons"
+        ],
+        "form": "Présent"
+      },
+      {
+        "slot": "t|Présent|3",
+        "f": "tense",
+        "s": "Vous ___ la vente d'alcool aux mineurs dans votre établissement.",
+        "en": "You prohibit the sale of alcohol to minors in your establishment.",
+        "a": "prohibez",
+        "alts": [
+          "interdisez"
+        ],
+        "form": "Présent"
+      },
+      {
+        "slot": "t|Présent|3",
+        "f": "tense",
+        "s": "Vous ___ les chiens dans ce parc.",
+        "en": "You prohibit dogs in this park.",
+        "a": "prohibez",
+        "alts": [
+          "interdisez"
+        ],
+        "form": "Présent"
+      },
+      {
+        "slot": "t|Présent|4",
+        "f": "tense",
+        "s": "Les autorités ___ l'importation de ce produit.",
+        "en": "The authorities prohibit the importation of this product.",
+        "a": "prohibent",
+        "alts": [
+          "interdisent"
+        ],
+        "form": "Présent"
+      },
+      {
+        "slot": "t|Présent|4",
+        "f": "tense",
+        "s": "Les autorités locales ___ toute manifestation sur cette place.",
+        "en": "The local authorities prohibit any demonstration in this square.",
+        "a": "prohibent",
+        "alts": [
+          "interdisent"
+        ],
+        "form": "Présent"
+      },
+      {
+        "slot": "t|Passé composé|0",
+        "f": "tense",
+        "s": "Hier, j'___ la circulation des poids lourds dans le centre-ville.",
+        "en": "Yesterday, I prohibited heavy truck traffic in the city center.",
+        "a": "ai prohibé",
+        "alts": [
+          "ai interdit"
+        ],
+        "form": "Passé composé"
+      },
+      {
+        "slot": "t|Passé composé|0",
+        "f": "tense",
+        "s": "L'an dernier, j'___ la chasse dans cette forêt.",
+        "en": "Last year, I prohibited hunting in this forest.",
+        "a": "ai prohibé",
+        "alts": [
+          "ai interdit"
+        ],
+        "form": "Passé composé"
+      },
+      {
+        "slot": "t|Passé composé|1",
+        "f": "tense",
+        "s": "En tant que ministre, tu ___ l'usage de ce pesticide.",
+        "en": "As minister, you prohibited the use of this pesticide.",
+        "a": "as prohibé",
+        "alts": [
+          "as interdit"
+        ],
+        "form": "Passé composé"
+      },
+      {
+        "slot": "t|Passé composé|1",
+        "f": "tense",
+        "s": "Tu ___ la vente de ce médicament sans ordonnance.",
+        "en": "You prohibited the sale of this medicine without a prescription.",
+        "a": "as prohibé",
+        "alts": [
+          "as interdit"
+        ],
+        "form": "Passé composé"
+      },
+      {
+        "slot": "t|Passé composé|2",
+        "f": "tense",
+        "s": "Le gouvernement ___ l'exportation de cette matière première.",
+        "en": "The government prohibited the export of this raw material.",
+        "a": "a prohibé",
+        "alts": [
+          "a interdit"
+        ],
+        "form": "Passé composé"
+      },
+      {
+        "slot": "t|Passé composé|2",
+        "f": "tense",
+        "s": "La préfète ___ le survol de la ville par des drones.",
+        "en": "The prefect prohibited drones from flying over the city.",
+        "a": "a prohibé",
+        "alts": [
+          "a interdit"
+        ],
+        "form": "Passé composé"
+      },
+      {
+        "slot": "t|Passé composé|3",
+        "f": "tense",
+        "s": "Nous ___ l'utilisation de ce colorant dans l'industrie alimentaire.",
+        "en": "We prohibited the use of this dye in the food industry.",
+        "a": "avons prohibé",
+        "alts": [
+          "avons interdit"
+        ],
+        "form": "Passé composé"
+      },
+      {
+        "slot": "t|Passé composé|3",
+        "f": "tense",
+        "s": "Nous ___ toute forme de discrimination dans le règlement intérieur.",
+        "en": "We prohibited all forms of discrimination in the internal regulations.",
+        "a": "avons prohibé",
+        "alts": [
+          "avons interdit"
+        ],
+        "form": "Passé composé"
+      },
+      {
+        "slot": "t|Passé composé|4",
+        "f": "tense",
+        "s": "Vous ___ le port d'armes dans l'enceinte du stade.",
+        "en": "You prohibited carrying weapons inside the stadium.",
+        "a": "avez prohibé",
+        "alts": [
+          "avez interdit"
+        ],
+        "form": "Passé composé"
+      },
+      {
+        "slot": "t|Passé composé|4",
+        "f": "tense",
+        "s": "Vous ___ la publicité mensongère dans ce secteur.",
+        "en": "You prohibited misleading advertising in this sector.",
+        "a": "avez prohibé",
+        "alts": [
+          "avez interdit"
+        ],
+        "form": "Passé composé"
+      },
+      {
+        "slot": "t|Passé composé|5",
+        "f": "tense",
+        "s": "Les sénateurs ___ cette pratique par un nouveau texte de loi.",
+        "en": "The senators prohibited this practice through a new law.",
+        "a": "ont prohibé",
+        "alts": [
+          "ont interdit"
+        ],
+        "form": "Passé composé"
+      },
+      {
+        "slot": "t|Passé composé|5",
+        "f": "tense",
+        "s": "Les autorités sanitaires ___ l'importation de cette viande.",
+        "en": "The health authorities prohibited the import of this meat.",
+        "a": "ont prohibé",
+        "alts": [
+          "ont interdit"
+        ],
+        "form": "Passé composé"
+      },
+      {
+        "slot": "t|Imparfait|0",
+        "f": "tense",
+        "s": "Autrefois, quand j'étais maire, je ___ déjà le stationnement sur cette avenue.",
+        "en": "Back when I was mayor, I already used to prohibit parking on this avenue.",
+        "a": "prohibais",
+        "alts": [
+          "interdisais"
+        ],
+        "form": "Imparfait"
+      },
+      {
+        "slot": "t|Imparfait|0",
+        "f": "tense",
+        "s": "À l'époque où tu dirigeais le service, tu ___ déjà ce genre de pratique.",
+        "en": "Back when you ran the department, you already used to prohibit that kind of practice.",
+        "a": "prohibais",
+        "alts": [
+          "interdisais"
+        ],
+        "form": "Imparfait"
+      },
+      {
+        "slot": "t|Imparfait|1",
+        "f": "tense",
+        "s": "Sous l'Ancien Régime, cette loi ___ le port de certains vêtements aux roturiers.",
+        "en": "Under the Ancien Régime, this law prohibited commoners from wearing certain clothes.",
+        "a": "prohibait",
+        "alts": [
+          "interdisait"
+        ],
+        "form": "Imparfait"
+      },
+      {
+        "slot": "t|Imparfait|1",
+        "f": "tense",
+        "s": "À cette époque, le règlement ___ les réunions publiques après vingt heures.",
+        "en": "At that time, the regulation prohibited public gatherings after 8 p.m.",
+        "a": "prohibait",
+        "alts": [
+          "interdisait"
+        ],
+        "form": "Imparfait"
+      },
+      {
+        "slot": "t|Imparfait|2",
+        "f": "tense",
+        "s": "À l'époque, nous ___ déjà l'usage de ce produit chimique dans nos usines.",
+        "en": "At the time, we already used to prohibit the use of this chemical in our factories.",
+        "a": "prohibions",
+        "alts": [
+          "interdisions"
+        ],
+        "form": "Imparfait"
+      },
+      {
+        "slot": "t|Imparfait|2",
+        "f": "tense",
+        "s": "Quand nous étions au conseil municipal, nous ___ les feux d'artifice privés.",
+        "en": "When we were on the city council, we used to prohibit private fireworks.",
+        "a": "prohibions",
+        "alts": [
+          "interdisions"
+        ],
+        "form": "Imparfait"
+      },
+      {
+        "slot": "t|Imparfait|3",
+        "f": "tense",
+        "s": "Autrefois, vous ___ l'accès à cette plage aux véhicules.",
+        "en": "In the past, you used to prohibit vehicle access to this beach.",
+        "a": "prohibiez",
+        "alts": [
+          "interdisiez"
+        ],
+        "form": "Imparfait"
+      },
+      {
+        "slot": "t|Imparfait|3",
+        "f": "tense",
+        "s": "Quand vous étiez directeur, vous ___ les téléphones portables en réunion.",
+        "en": "When you were director, you used to prohibit mobile phones in meetings.",
+        "a": "prohibiez",
+        "alts": [
+          "interdisiez"
+        ],
+        "form": "Imparfait"
+      },
+      {
+        "slot": "t|Imparfait|4",
+        "f": "tense",
+        "s": "Les Romains ___ certaines pratiques religieuses jugées dangereuses.",
+        "en": "The Romans used to prohibit certain religious practices deemed dangerous.",
+        "a": "prohibaient",
+        "alts": [
+          "interdisaient"
+        ],
+        "form": "Imparfait"
+      },
+      {
+        "slot": "t|Imparfait|4",
+        "f": "tense",
+        "s": "Ces règles ___ toute forme de jeu d'argent dans l'établissement.",
+        "en": "These rules used to prohibit any form of gambling in the establishment.",
+        "a": "prohibaient",
+        "alts": [
+          "interdisaient"
+        ],
+        "form": "Imparfait"
+      },
+      {
+        "slot": "t|Futur|0",
+        "f": "tense",
+        "s": "Si je suis élu maire, je ___ la circulation des camions en centre-ville.",
+        "en": "If I am elected mayor, I will prohibit truck traffic in the city center.",
+        "a": "prohiberai",
+        "alts": [
+          "interdirai"
+        ],
+        "form": "Futur"
+      },
+      {
+        "slot": "t|Futur|0",
+        "f": "tense",
+        "s": "Dès l'an prochain, je ___ l'usage de ce produit dans mon restaurant.",
+        "en": "Starting next year, I will prohibit the use of this product in my restaurant.",
+        "a": "prohiberai",
+        "alts": [
+          "interdirai"
+        ],
+        "form": "Futur"
+      },
+      {
+        "slot": "t|Futur|1",
+        "f": "tense",
+        "s": "En tant que nouveau directeur, tu ___ les pauses cigarette dans l'usine.",
+        "en": "As the new director, you will prohibit cigarette breaks in the factory.",
+        "a": "prohiberas",
+        "alts": [
+          "interdiras"
+        ],
+        "form": "Futur"
+      },
+      {
+        "slot": "t|Futur|1",
+        "f": "tense",
+        "s": "Quand tu prendras la tête du service, tu ___ ces pratiques dangereuses.",
+        "en": "When you take over the department, you will prohibit these dangerous practices.",
+        "a": "prohiberas",
+        "alts": [
+          "interdiras"
+        ],
+        "form": "Futur"
+      },
+      {
+        "slot": "t|Futur|2",
+        "f": "tense",
+        "s": "Le nouveau décret ___ la vente de ce pesticide dès janvier.",
+        "en": "The new decree will prohibit the sale of this pesticide starting in January.",
+        "a": "prohibera",
+        "alts": [
+          "interdira"
+        ],
+        "form": "Futur"
+      },
+      {
+        "slot": "t|Futur|2",
+        "f": "tense",
+        "s": "On ___ bientôt l'entrée de ce quartier aux véhicules polluants.",
+        "en": "They will soon prohibit polluting vehicles from entering this neighborhood.",
+        "a": "prohibera",
+        "alts": [
+          "interdira"
+        ],
+        "form": "Futur"
+      },
+      {
+        "slot": "t|Futur|3",
+        "f": "tense",
+        "s": "Nous ___ l'usage des sacs plastiques dans nos magasins dès l'an prochain.",
+        "en": "We will prohibit the use of plastic bags in our stores starting next year.",
+        "a": "prohiberons",
+        "alts": [
+          "interdirons"
+        ],
+        "form": "Futur"
+      },
+      {
+        "slot": "t|Futur|3",
+        "f": "tense",
+        "s": "Nous ___ toute publicité pour ce produit sur nos ondes.",
+        "en": "We will prohibit any advertising for this product on our airwaves.",
+        "a": "prohiberons",
+        "alts": [
+          "interdirons"
+        ],
+        "form": "Futur"
+      },
+      {
+        "slot": "t|Futur|4",
+        "f": "tense",
+        "s": "Vous ___ le stationnement devant l'école à partir de lundi.",
+        "en": "You will prohibit parking in front of the school starting Monday.",
+        "a": "prohiberez",
+        "alts": [
+          "interdirez"
+        ],
+        "form": "Futur"
+      },
+      {
+        "slot": "t|Futur|4",
+        "f": "tense",
+        "s": "Vous ___ l'accès au chantier aux personnes non autorisées.",
+        "en": "You will prohibit access to the construction site for unauthorized people.",
+        "a": "prohiberez",
+        "alts": [
+          "interdirez"
+        ],
+        "form": "Futur"
+      },
+      {
+        "slot": "t|Futur|5",
+        "f": "tense",
+        "s": "Les députés ___ cette pratique dans le prochain texte de loi.",
+        "en": "The members of parliament will prohibit this practice in the upcoming law.",
+        "a": "prohiberont",
+        "alts": [
+          "interdiront"
+        ],
+        "form": "Futur"
+      },
+      {
+        "slot": "t|Futur|5",
+        "f": "tense",
+        "s": "Les autorités ___ l'importation de ce jouet dangereux dès le mois prochain.",
+        "en": "The authorities will prohibit the import of this dangerous toy starting next month.",
+        "a": "prohiberont",
+        "alts": [
+          "interdiront"
+        ],
+        "form": "Futur"
+      },
+      {
+        "slot": "t|Conditionnel|0",
+        "f": "tense",
+        "s": "Si j'étais maire, je ___ la circulation des poids lourds la nuit.",
+        "en": "If I were mayor, I would prohibit heavy truck traffic at night.",
+        "a": "prohiberais",
+        "alts": [
+          "interdirais"
+        ],
+        "form": "Conditionnel"
+      },
+      {
+        "slot": "t|Conditionnel|0",
+        "f": "tense",
+        "s": "Si tu étais directeur, tu ___ l'alcool lors des soirées d'entreprise.",
+        "en": "If you were the director, you would prohibit alcohol at company parties.",
+        "a": "prohiberais",
+        "alts": [
+          "interdirais"
+        ],
+        "form": "Conditionnel"
+      },
+      {
+        "slot": "t|Conditionnel|1",
+        "f": "tense",
+        "s": "Si ce projet de loi passait, il ___ la publicité pour le tabac à la télévision.",
+        "en": "If this bill passed, it would prohibit tobacco advertising on television.",
+        "a": "prohiberait",
+        "alts": [
+          "interdirait"
+        ],
+        "form": "Conditionnel"
+      },
+      {
+        "slot": "t|Conditionnel|1",
+        "f": "tense",
+        "s": "Si la commission avait plus de pouvoir, elle ___ ces pratiques commerciales.",
+        "en": "If the commission had more power, it would prohibit these business practices.",
+        "a": "prohiberait",
+        "alts": [
+          "interdirait"
+        ],
+        "form": "Conditionnel"
+      },
+      {
+        "slot": "t|Conditionnel|2",
+        "f": "tense",
+        "s": "Si nous avions le pouvoir, nous ___ la chasse dans cette réserve.",
+        "en": "If we had the power, we would prohibit hunting in this reserve.",
+        "a": "prohiberions",
+        "alts": [
+          "interdirions"
+        ],
+        "form": "Conditionnel"
+      },
+      {
+        "slot": "t|Conditionnel|2",
+        "f": "tense",
+        "s": "Si la loi le permettait, nous ___ toute forme de publicité mensongère.",
+        "en": "If the law allowed it, we would prohibit any form of misleading advertising.",
+        "a": "prohiberions",
+        "alts": [
+          "interdirions"
+        ],
+        "form": "Conditionnel"
+      },
+      {
+        "slot": "t|Conditionnel|3",
+        "f": "tense",
+        "s": "Si vous aviez ce pouvoir, vous ___ la publicité pour l'alcool aux mineurs.",
+        "en": "If you had that power, you would prohibit alcohol advertising to minors.",
+        "a": "prohiberiez",
+        "alts": [
+          "interdiriez"
+        ],
+        "form": "Conditionnel"
+      },
+      {
+        "slot": "t|Conditionnel|3",
+        "f": "tense",
+        "s": "Si vous dirigiez cette agence, vous ___ ces méthodes de vente agressives.",
+        "en": "If you ran this agency, you would prohibit these aggressive sales methods.",
+        "a": "prohiberiez",
+        "alts": [
+          "interdiriez"
+        ],
+        "form": "Conditionnel"
+      },
+      {
+        "slot": "t|Conditionnel|4",
+        "f": "tense",
+        "s": "Si les sénateurs votaient ce texte, ils ___ cette pratique sur tout le territoire.",
+        "en": "If the senators passed this bill, they would prohibit this practice throughout the territory.",
+        "a": "prohiberaient",
+        "alts": [
+          "interdiraient"
+        ],
+        "form": "Conditionnel"
+      },
+      {
+        "slot": "t|Conditionnel|4",
+        "f": "tense",
+        "s": "Si les associations avaient l'autorité nécessaire, elles ___ ces expérimentations.",
+        "en": "If the associations had the necessary authority, they would prohibit these experiments.",
+        "a": "prohiberaient",
+        "alts": [
+          "interdiraient"
+        ],
+        "form": "Conditionnel"
+      },
+      {
+        "slot": "t|Subjonctif",
+        "f": "subj",
+        "s": "Il faut que la loi ___ la vente de cette substance dangereuse.",
+        "en": "It is necessary that the law prohibit the sale of this dangerous substance.",
+        "a": "prohibe",
+        "alts": [
+          "interdise"
+        ],
+        "form": "Subjonctif"
+      },
+      {
+        "slot": "t|Subjonctif",
+        "f": "subj",
+        "s": "Je souhaite que vous ___ l'utilisation de ce produit dans nos locaux.",
+        "en": "I wish that you would prohibit the use of this product on our premises.",
+        "a": "prohibiez",
+        "alts": [
+          "interdisiez"
+        ],
+        "form": "Subjonctif"
+      },
+      {
+        "slot": "s|0",
+        "f": "sense",
+        "s": "La loi ___ la vente d'armes à feu aux personnes non autorisées.",
+        "en": "The law prohibits the sale of firearms to unauthorized persons.",
+        "a": "prohibe",
+        "alts": [
+          "interdit"
+        ],
+        "form": "Présent"
+      },
+      {
+        "slot": "s|0",
+        "f": "sense",
+        "s": "Ce décret ___ formellement l'usage de ce pesticide sur le territoire national.",
+        "en": "This decree formally prohibits the use of this pesticide on national territory.",
+        "a": "prohibe",
+        "alts": [
+          "interdit"
+        ],
+        "form": "Présent"
+      }
+    ]
+  }
+]

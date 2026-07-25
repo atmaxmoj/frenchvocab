@@ -1,0 +1,197 @@
+[
+  {
+    "id": 1379,
+    "qs": [
+      {
+        "slot": "s|0",
+        "f": "sense",
+        "s": "Marie a réparé la voiture ___ , sans demander d'aide à personne.",
+        "a": "elle-même",
+        "en": "Marie repaired the car herself, without asking anyone for help.",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "s|0",
+        "f": "sense",
+        "s": "La directrice ___ est venue féliciter l'équipe après le projet.",
+        "a": "elle-même",
+        "en": "The director herself came to congratulate the team after the project.",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "s|1",
+        "f": "sense",
+        "s": "Le problème ___ n'est pas si difficile ; c'est la pression du temps qui complique tout.",
+        "a": "lui-même",
+        "en": "The problem itself is not so difficult; it is the time pressure that complicates everything.",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "s|1",
+        "f": "sense",
+        "s": "L'idée ___ est bonne, mais sa mise en œuvre laisse à désirer.",
+        "a": "elle-même",
+        "en": "The idea itself is good, but its implementation leaves something to be desired.",
+        "alts": [],
+        "form": ""
+      }
+    ]
+  },
+  {
+    "id": 1380,
+    "qs": [
+      {
+        "slot": "s|0",
+        "f": "sense",
+        "s": "Ce pays a mis en place un système de vote ___ pour élire ses représentants.",
+        "a": "démocratique",
+        "en": "This country has established a democratic voting system to elect its representatives.",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "s|0",
+        "f": "sense",
+        "s": "Le processus de décision doit être ___ et transparent pour que les citoyens aient confiance.",
+        "a": "démocratique",
+        "en": "The decision-making process must be democratic and transparent so that citizens have trust.",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "s|1",
+        "f": "sense",
+        "s": "Ce parti défend un idéal ___ fondé sur la souveraineté du peuple.",
+        "a": "démocratique",
+        "en": "This party defends a democratic ideal founded on the sovereignty of the people.",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "s|1",
+        "f": "sense",
+        "s": "Ses convictions ___ l'ont conduit à s'engager pour le suffrage universel.",
+        "a": "démocratiques",
+        "en": "His democratic convictions led him to commit to universal suffrage.",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "g|mp",
+        "f": "agree",
+        "s": "Les principes ___ garantissent l'égalité des droits pour tous les citoyens.",
+        "a": "démocratiques",
+        "en": "Democratic principles guarantee equality of rights for all citizens.",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "g|mp",
+        "f": "agree",
+        "s": "Les gouvernements ___ sont soumis au contrôle des électeurs.",
+        "a": "démocratiques",
+        "en": "Democratic governments are subject to the oversight of voters.",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "g|f",
+        "f": "agree",
+        "s": "La société ___ repose sur la liberté d'expression et la participation citoyenne.",
+        "a": "démocratique",
+        "en": "The democratic society is based on freedom of expression and civic participation.",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "g|f",
+        "f": "agree",
+        "s": "Une élection ___ requiert la transparence du scrutin et l'indépendance des juges.",
+        "a": "démocratique",
+        "en": "A democratic election requires transparency of the ballot and the independence of judges.",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "g|fp",
+        "f": "agree",
+        "s": "Les valeurs ___ incluent la liberté, l'égalité et la participation de tous.",
+        "a": "démocratiques",
+        "en": "Democratic values include freedom, equality, and the participation of all.",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "g|fp",
+        "f": "agree",
+        "s": "Les institutions ___ doivent protéger les droits fondamentaux des individus.",
+        "a": "démocratiques",
+        "en": "Democratic institutions must protect the fundamental rights of individuals.",
+        "alts": [],
+        "form": ""
+      }
+    ]
+  },
+  {
+    "id": 1381,
+    "qs": [
+      {
+        "slot": "s|0",
+        "f": "sense",
+        "s": "C'est sa première ___ pour apprendre à jouer de la guitare, et elle progresse déjà bien.",
+        "a": "tentative",
+        "en": "It is her first attempt at learning to play the guitar, and she is already making good progress.",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "s|0",
+        "f": "sense",
+        "s": "Malgré l'échec de sa première ___, il a décidé de recommencer l'expérience.",
+        "a": "tentative",
+        "en": "Despite the failure of his first attempt, he decided to redo the experiment.",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "s|1",
+        "f": "sense",
+        "s": "Les enquêteurs ont découvert une ___ d'assassinat contre le ministre.",
+        "a": "tentative",
+        "en": "The investigators uncovered an assassination attempt against the minister.",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "s|1",
+        "f": "sense",
+        "s": "Il a été arrêté pour ___ de fraude fiscale à grande échelle.",
+        "a": "tentative",
+        "en": "He was arrested for an attempted large-scale tax fraud.",
+        "alts": ["une tentative"],
+        "form": ""
+      },
+      {
+        "slot": "gender",
+        "f": "gender",
+        "s": "Son équipe a salué ___ tentative courageuse du capitaine pour sauver le match.",
+        "a": "la",
+        "en": "His team praised the captain's courageous attempt to save the match.",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "gender",
+        "f": "gender",
+        "s": "Escalader cette montagne sans guide est ___ tentative très risquée.",
+        "a": "une",
+        "en": "Climbing this mountain without a guide is a very risky attempt.",
+        "alts": [],
+        "form": ""
+      }
+    ]
+  }
+]

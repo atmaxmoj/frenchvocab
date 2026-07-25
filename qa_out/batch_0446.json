@@ -1,0 +1,94 @@
+[
+  {
+    "id": "3569",
+    "fix": {
+      "etym": {
+        "from": "lat.",
+        "text": "Du latin suspensio, dérivé de suspendere « suspendre »."
+      }
+    },
+    "reasons": ["etym contained HTML <i> tags"]
+  },
+  {
+    "id": "3570",
+    "fix": {
+      "etym": {
+        "from": "lat.",
+        "text": "Du latin minutus « menu, petit », par l'ancien français."
+      },
+      "examples": [
+        {
+          "fr": "Elle est restée très mince malgré les années.",
+          "en": "She has stayed very slim despite the years.",
+          "target": "mince"
+        },
+        {
+          "fr": "Les résultats sont bien minces pour justifier un tel investissement.",
+          "en": "The results are quite meagre to justify such an investment.",
+          "target": "minces"
+        }
+      ]
+    },
+    "reasons": ["etym contained HTML <i> tags", "first example 'une robe mince' is unnatural and mismatches the 'slim' sense"]
+  },
+  {
+    "id": "3571",
+    "fix": {
+      "etym": {
+        "from": "lat.",
+        "text": "Du latin assimilare, de ad- et similis « semblable »."
+      }
+    },
+    "reasons": ["etym contained HTML <i> tags"]
+  },
+  {
+    "id": "3572",
+    "fix": {
+      "etym": {
+        "from": "lat.",
+        "text": "Du latin pluma « petite plume, duvet »."
+      }
+    },
+    "reasons": ["etym contained HTML <i> tags"]
+  },
+  {
+    "id": "3573",
+    "fix": {
+      "etym": {
+        "from": "fr.",
+        "text": "Dérivé de publicité, lui-même de public, du latin publicus."
+      }
+    },
+    "reasons": ["etym contained HTML <i> tags"]
+  },
+  {
+    "id": "3574",
+    "fix": {
+      "etym": {
+        "from": "lat.",
+        "text": "Du latin ecclésiastique incarnare, de in- et caro, carnis « chair »."
+      }
+    },
+    "reasons": ["etym contained HTML <i> tags"]
+  },
+  {
+    "id": "3575",
+    "fix": {
+      "etym": {
+        "from": "lat.",
+        "text": "Du latin optare « choisir, souhaiter »."
+      }
+    },
+    "reasons": ["etym contained HTML <i> tags"]
+  },
+  {
+    "id": "3576",
+    "fix": {
+      "etym": {
+        "from": "a. fr.",
+        "text": "De l'ancien français abillier « préparer, équiper », d'abord en parlant de bois, puis rapproché de habit."
+      }
+    },
+    "reasons": ["etym contained HTML <i> tags"]
+  }
+]

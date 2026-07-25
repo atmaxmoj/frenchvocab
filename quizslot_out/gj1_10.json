@@ -1,0 +1,747 @@
+[
+  {
+    "id": 1531,
+    "qs": [
+      {
+        "slot": "s|0",
+        "f": "sense",
+        "s": "Le ___ des oiseaux migrateurs au-dessus de nos têtes est un spectacle magnifique.",
+        "a": "vol",
+        "en": "The flight of migratory birds above our heads is a magnificent sight.",
+        "alts": []
+      },
+      {
+        "slot": "s|0",
+        "f": "sense",
+        "s": "Les frères Wright ont réalisé le premier ___ motorisé de l'histoire en 1903.",
+        "a": "vol",
+        "en": "The Wright brothers accomplished the first powered flight in history in 1903.",
+        "alts": []
+      },
+      {
+        "slot": "s|1",
+        "f": "sense",
+        "s": "Notre ___ pour Paris décolle à dix heures du matin.",
+        "a": "vol",
+        "en": "Our flight to Paris takes off at ten in the morning.",
+        "alts": []
+      },
+      {
+        "slot": "s|1",
+        "f": "sense",
+        "s": "J'ai raté mon ___ à cause des embouteillages sur l'autoroute.",
+        "a": "vol",
+        "en": "I missed my flight because of traffic jams on the highway.",
+        "alts": []
+      },
+      {
+        "slot": "s|2",
+        "f": "sense",
+        "s": "Le ___ à l'étalage est un délit puni par la loi.",
+        "a": "vol",
+        "en": "Shoplifting is an offence punished by law.",
+        "alts": []
+      },
+      {
+        "slot": "s|2",
+        "f": "sense",
+        "s": "La police enquête sur le ___ commis dans cette bijouterie hier soir.",
+        "a": "vol",
+        "en": "The police are investigating the theft committed in that jeweller's last night.",
+        "alts": []
+      },
+      {
+        "slot": "gender",
+        "f": "gender",
+        "s": "Elle a réservé ___ vol de nuit pour éviter les heures de pointe.",
+        "a": "un",
+        "en": "She booked a night flight to avoid the rush hour.",
+        "alts": []
+      },
+      {
+        "slot": "gender",
+        "f": "gender",
+        "s": "Les autorités ont confirmé ___ vol du tableau exposé au musée.",
+        "a": "le",
+        "en": "The authorities confirmed the theft of the painting displayed at the museum.",
+        "alts": []
+      }
+    ]
+  },
+  {
+    "id": 1532,
+    "qs": [
+      {
+        "slot": "t|Présent|0",
+        "f": "tense",
+        "s": "Je ___ jusqu'à l'école tous les matins.",
+        "a": "marche",
+        "en": "I walk to school every morning.",
+        "alts": [],
+        "form": "Présent"
+      },
+      {
+        "slot": "t|Présent|0",
+        "f": "tense",
+        "s": "Mon chien ___ lentement dans le parc.",
+        "a": "marche",
+        "en": "My dog walks slowly in the park.",
+        "alts": [],
+        "form": "Présent"
+      },
+      {
+        "slot": "t|Présent|1",
+        "f": "tense",
+        "s": "Tu ___ trop vite, attends-moi !",
+        "a": "marches",
+        "en": "You walk too fast, wait for me!",
+        "alts": [],
+        "form": "Présent"
+      },
+      {
+        "slot": "t|Présent|1",
+        "f": "tense",
+        "s": "Est-ce que tu ___ souvent pieds nus sur la plage ?",
+        "a": "marches",
+        "en": "Do you often walk barefoot on the beach?",
+        "alts": [],
+        "form": "Présent"
+      },
+      {
+        "slot": "t|Présent|2",
+        "f": "tense",
+        "s": "Nous ___ ensemble jusqu'au musée.",
+        "a": "marchons",
+        "en": "We walk together to the museum.",
+        "alts": [],
+        "form": "Présent"
+      },
+      {
+        "slot": "t|Présent|2",
+        "f": "tense",
+        "s": "Chaque dimanche, nous ___ dans la forêt pendant une heure.",
+        "a": "marchons",
+        "en": "Every Sunday, we walk in the forest for an hour.",
+        "alts": [],
+        "form": "Présent"
+      },
+      {
+        "slot": "t|Présent|3",
+        "f": "tense",
+        "s": "Vous ___ trop lentement, dépêchez-vous !",
+        "a": "marchez",
+        "en": "You walk too slowly, hurry up!",
+        "alts": [],
+        "form": "Présent"
+      },
+      {
+        "slot": "t|Présent|3",
+        "f": "tense",
+        "s": "Est-ce que vous ___ au travail chaque jour ?",
+        "a": "marchez",
+        "en": "Do you walk to work every day?",
+        "alts": [],
+        "form": "Présent"
+      },
+      {
+        "slot": "t|Présent|4",
+        "f": "tense",
+        "s": "Les enfants ___ en file indienne dans le couloir.",
+        "a": "marchent",
+        "en": "The children walk in single file in the hallway.",
+        "alts": [],
+        "form": "Présent"
+      },
+      {
+        "slot": "t|Présent|4",
+        "f": "tense",
+        "s": "Elles ___ côte à côte dans la rue.",
+        "a": "marchent",
+        "en": "They walk side by side in the street.",
+        "alts": [],
+        "form": "Présent"
+      },
+      {
+        "slot": "t|Passé composé|0",
+        "f": "tense",
+        "s": "Hier matin, j'___ pendant une heure avant le petit-déjeuner.",
+        "a": "ai marché",
+        "en": "Yesterday morning, I walked for an hour before breakfast.",
+        "alts": [],
+        "form": "Passé composé"
+      },
+      {
+        "slot": "t|Passé composé|0",
+        "f": "tense",
+        "s": "Ce matin, j'___ jusqu'à la boulangerie pour acheter du pain.",
+        "a": "ai marché",
+        "en": "This morning, I walked to the bakery to buy bread.",
+        "alts": [],
+        "form": "Passé composé"
+      },
+      {
+        "slot": "t|Passé composé|1",
+        "f": "tense",
+        "s": "Tu ___ cinq kilomètres hier sans te plaindre.",
+        "a": "as marché",
+        "en": "You walked five kilometres yesterday without complaining.",
+        "alts": [],
+        "form": "Passé composé"
+      },
+      {
+        "slot": "t|Passé composé|1",
+        "f": "tense",
+        "s": "Est-ce que tu ___ jusqu'à la gare ce matin ?",
+        "a": "as marché",
+        "en": "Did you walk to the station this morning?",
+        "alts": [],
+        "form": "Passé composé"
+      },
+      {
+        "slot": "t|Passé composé|2",
+        "f": "tense",
+        "s": "Mon père ___ toute la matinée dans les rues de Paris.",
+        "a": "a marché",
+        "en": "My father walked all morning through the streets of Paris.",
+        "alts": [],
+        "form": "Passé composé"
+      },
+      {
+        "slot": "t|Passé composé|2",
+        "f": "tense",
+        "s": "Elle ___ jusqu'au bout de la plage avant de rentrer.",
+        "a": "a marché",
+        "en": "She walked to the end of the beach before coming back.",
+        "alts": [],
+        "form": "Passé composé"
+      },
+      {
+        "slot": "t|Passé composé|3",
+        "f": "tense",
+        "s": "Nous ___ pendant deux heures dans les collines ce week-end.",
+        "a": "avons marché",
+        "en": "We walked for two hours in the hills this weekend.",
+        "alts": [],
+        "form": "Passé composé"
+      },
+      {
+        "slot": "t|Passé composé|3",
+        "f": "tense",
+        "s": "Hier soir, nous ___ jusqu'au restaurant au lieu de prendre le bus.",
+        "a": "avons marché",
+        "en": "Yesterday evening, we walked to the restaurant instead of taking the bus.",
+        "alts": [],
+        "form": "Passé composé"
+      },
+      {
+        "slot": "t|Passé composé|4",
+        "f": "tense",
+        "s": "Vous ___ jusqu'à la cathédrale depuis l'hôtel ?",
+        "a": "avez marché",
+        "en": "You walked from the hotel to the cathedral?",
+        "alts": [],
+        "form": "Passé composé"
+      },
+      {
+        "slot": "t|Passé composé|4",
+        "f": "tense",
+        "s": "Ce matin, vous ___ pendant trente minutes avant d'arriver au bureau.",
+        "a": "avez marché",
+        "en": "This morning, you walked for thirty minutes before arriving at the office.",
+        "alts": [],
+        "form": "Passé composé"
+      },
+      {
+        "slot": "t|Passé composé|5",
+        "f": "tense",
+        "s": "Les touristes ___ toute la journée pour visiter la ville.",
+        "a": "ont marché",
+        "en": "The tourists walked all day to visit the city.",
+        "alts": [],
+        "form": "Passé composé"
+      },
+      {
+        "slot": "t|Passé composé|5",
+        "f": "tense",
+        "s": "Ils ___ dix kilomètres pour atteindre le sommet de la montagne.",
+        "a": "ont marché",
+        "en": "They walked ten kilometres to reach the mountain top.",
+        "alts": [],
+        "form": "Passé composé"
+      },
+      {
+        "slot": "t|Imparfait|0",
+        "f": "tense",
+        "s": "Quand j'étais enfant, je ___ à l'école chaque matin.",
+        "a": "marchais",
+        "en": "When I was a child, I used to walk to school every morning.",
+        "alts": [],
+        "form": "Imparfait"
+      },
+      {
+        "slot": "t|Imparfait|0",
+        "f": "tense",
+        "s": "Tu ___ si lentement que tout le monde te dépassait.",
+        "a": "marchais",
+        "en": "You were walking so slowly that everyone overtook you.",
+        "alts": [],
+        "form": "Imparfait"
+      },
+      {
+        "slot": "t|Imparfait|1",
+        "f": "tense",
+        "s": "Le vieux monsieur ___ avec une canne dans le jardin.",
+        "a": "marchait",
+        "en": "The old gentleman was walking with a cane in the garden.",
+        "alts": [],
+        "form": "Imparfait"
+      },
+      {
+        "slot": "t|Imparfait|1",
+        "f": "tense",
+        "s": "Elle ___ pieds nus sur l'herbe mouillée ce matin-là.",
+        "a": "marchait",
+        "en": "She was walking barefoot on the wet grass that morning.",
+        "alts": [],
+        "form": "Imparfait"
+      },
+      {
+        "slot": "t|Imparfait|2",
+        "f": "tense",
+        "s": "Nous ___ en silence le long de la rivière.",
+        "a": "marchions",
+        "en": "We were walking in silence along the river.",
+        "alts": [],
+        "form": "Imparfait"
+      },
+      {
+        "slot": "t|Imparfait|2",
+        "f": "tense",
+        "s": "Avant d'avoir une voiture, nous ___ partout dans le quartier.",
+        "a": "marchions",
+        "en": "Before having a car, we used to walk everywhere in the neighbourhood.",
+        "alts": [],
+        "form": "Imparfait"
+      },
+      {
+        "slot": "t|Imparfait|3",
+        "f": "tense",
+        "s": "Vous ___ très vite et nous avions du mal à vous suivre.",
+        "a": "marchiez",
+        "en": "You were walking very fast and we had trouble keeping up with you.",
+        "alts": [],
+        "form": "Imparfait"
+      },
+      {
+        "slot": "t|Imparfait|3",
+        "f": "tense",
+        "s": "Chaque soir, vous ___ jusqu'au marché pour acheter des légumes frais.",
+        "a": "marchiez",
+        "en": "Every evening, you used to walk to the market to buy fresh vegetables.",
+        "alts": [],
+        "form": "Imparfait"
+      },
+      {
+        "slot": "t|Imparfait|4",
+        "f": "tense",
+        "s": "Les soldats ___ en rangs serrés sous la pluie.",
+        "a": "marchaient",
+        "en": "The soldiers were marching in tight ranks in the rain.",
+        "alts": [],
+        "form": "Imparfait"
+      },
+      {
+        "slot": "t|Imparfait|4",
+        "f": "tense",
+        "s": "Elles ___ bras dessus bras dessous dans la rue commerçante.",
+        "a": "marchaient",
+        "en": "They were walking arm in arm along the shopping street.",
+        "alts": [],
+        "form": "Imparfait"
+      },
+      {
+        "slot": "t|Futur|0",
+        "f": "tense",
+        "s": "Demain matin, je ___ jusqu'à la gare pour prendre mon train.",
+        "a": "marcherai",
+        "en": "Tomorrow morning, I will walk to the station to catch my train.",
+        "alts": [],
+        "form": "Futur"
+      },
+      {
+        "slot": "t|Futur|0",
+        "f": "tense",
+        "s": "La semaine prochaine, je ___ dix kilomètres par jour pour m'entraîner.",
+        "a": "marcherai",
+        "en": "Next week, I will walk ten kilometres a day to train.",
+        "alts": [],
+        "form": "Futur"
+      },
+      {
+        "slot": "t|Futur|1",
+        "f": "tense",
+        "s": "Tu ___ jusqu'à l'école demain si le bus est en grève.",
+        "a": "marcheras",
+        "en": "You will walk to school tomorrow if the bus is on strike.",
+        "alts": [],
+        "form": "Futur"
+      },
+      {
+        "slot": "t|Futur|1",
+        "f": "tense",
+        "s": "Avec ces nouvelles chaussures, tu ___ plus confortablement.",
+        "a": "marcheras",
+        "en": "With these new shoes, you will walk more comfortably.",
+        "alts": [],
+        "form": "Futur"
+      },
+      {
+        "slot": "t|Futur|2",
+        "f": "tense",
+        "s": "Le bébé ___ bientôt, il a presque un an.",
+        "a": "marchera",
+        "en": "The baby will walk soon, he is almost one year old.",
+        "alts": [],
+        "form": "Futur"
+      },
+      {
+        "slot": "t|Futur|2",
+        "f": "tense",
+        "s": "Mon médecin dit qu'elle ___ sans béquilles d'ici un mois.",
+        "a": "marchera",
+        "en": "My doctor says she will walk without crutches within a month.",
+        "alts": [],
+        "form": "Futur"
+      },
+      {
+        "slot": "t|Futur|3",
+        "f": "tense",
+        "s": "Nous ___ jusqu'au sommet ensemble demain matin.",
+        "a": "marcherons",
+        "en": "We will walk to the summit together tomorrow morning.",
+        "alts": [],
+        "form": "Futur"
+      },
+      {
+        "slot": "t|Futur|3",
+        "f": "tense",
+        "s": "Si le temps est beau samedi, nous ___ le long du canal.",
+        "a": "marcherons",
+        "en": "If the weather is fine on Saturday, we will walk along the canal.",
+        "alts": [],
+        "form": "Futur"
+      },
+      {
+        "slot": "t|Futur|4",
+        "f": "tense",
+        "s": "Vous ___ cinq kilomètres lors de cette randonnée, préparez-vous bien.",
+        "a": "marcherez",
+        "en": "You will walk five kilometres on this hike, prepare well.",
+        "alts": [],
+        "form": "Futur"
+      },
+      {
+        "slot": "t|Futur|4",
+        "f": "tense",
+        "s": "Demain, vous ___ jusqu'au bureau car le métro sera fermé.",
+        "a": "marcherez",
+        "en": "Tomorrow, you will walk to the office because the metro will be closed.",
+        "alts": [],
+        "form": "Futur"
+      },
+      {
+        "slot": "t|Futur|5",
+        "f": "tense",
+        "s": "Les participants ___ vingt kilomètres lors du marathon de dimanche.",
+        "a": "marcheront",
+        "en": "The participants will walk twenty kilometres during Sunday's marathon.",
+        "alts": [],
+        "form": "Futur"
+      },
+      {
+        "slot": "t|Futur|5",
+        "f": "tense",
+        "s": "Ils ___ jusqu'au village voisin pour visiter le château.",
+        "a": "marcheront",
+        "en": "They will walk to the neighbouring village to visit the castle.",
+        "alts": [],
+        "form": "Futur"
+      },
+      {
+        "slot": "t|Conditionnel|0",
+        "f": "tense",
+        "s": "Si j'habitais plus près, je ___ au travail tous les jours.",
+        "a": "marcherais",
+        "en": "If I lived closer, I would walk to work every day.",
+        "alts": [],
+        "form": "Conditionnel"
+      },
+      {
+        "slot": "t|Conditionnel|0",
+        "f": "tense",
+        "s": "Si tu avais de bonnes chaussures, tu ___ sans douleur.",
+        "a": "marcherais",
+        "en": "If you had good shoes, you would walk without pain.",
+        "alts": [],
+        "form": "Conditionnel"
+      },
+      {
+        "slot": "t|Conditionnel|1",
+        "f": "tense",
+        "s": "Si le quartier était plus sûr, mon fils ___ seul jusqu'à l'école.",
+        "a": "marcherait",
+        "en": "If the neighbourhood were safer, my son would walk to school alone.",
+        "alts": [],
+        "form": "Conditionnel"
+      },
+      {
+        "slot": "t|Conditionnel|1",
+        "f": "tense",
+        "s": "Elle ___ davantage si elle avait plus de temps libre.",
+        "a": "marcherait",
+        "en": "She would walk more if she had more free time.",
+        "alts": [],
+        "form": "Conditionnel"
+      },
+      {
+        "slot": "t|Conditionnel|2",
+        "f": "tense",
+        "s": "Si nous avions des chaussures confortables, nous ___ jusqu'au lac.",
+        "a": "marcherions",
+        "en": "If we had comfortable shoes, we would walk to the lake.",
+        "alts": [],
+        "form": "Conditionnel"
+      },
+      {
+        "slot": "t|Conditionnel|2",
+        "f": "tense",
+        "s": "Nous ___ plus souvent si le quartier était moins pollué.",
+        "a": "marcherions",
+        "en": "We would walk more often if the neighbourhood were less polluted.",
+        "alts": [],
+        "form": "Conditionnel"
+      },
+      {
+        "slot": "t|Conditionnel|3",
+        "f": "tense",
+        "s": "Si vous aviez le temps, vous ___ jusqu'au marché ce matin.",
+        "a": "marcheriez",
+        "en": "If you had the time, you would walk to the market this morning.",
+        "alts": [],
+        "form": "Conditionnel"
+      },
+      {
+        "slot": "t|Conditionnel|3",
+        "f": "tense",
+        "s": "Vous ___ plus facilement si vous portiez des baskets.",
+        "a": "marcheriez",
+        "en": "You would walk more easily if you wore trainers.",
+        "alts": [],
+        "form": "Conditionnel"
+      },
+      {
+        "slot": "t|Conditionnel|4",
+        "f": "tense",
+        "s": "Si les routes étaient meilleures, les gens ___ plus souvent.",
+        "a": "marcheraient",
+        "en": "If the roads were better, people would walk more often.",
+        "alts": [],
+        "form": "Conditionnel"
+      },
+      {
+        "slot": "t|Conditionnel|4",
+        "f": "tense",
+        "s": "Ils ___ jusqu'à la plage s'il faisait moins chaud.",
+        "a": "marcheraient",
+        "en": "They would walk to the beach if it were less hot.",
+        "alts": [],
+        "form": "Conditionnel"
+      },
+      {
+        "slot": "t|Subjonctif",
+        "f": "subj",
+        "s": "Il faut que tu ___ au moins trente minutes par jour pour rester en forme.",
+        "a": "marches",
+        "en": "You must walk at least thirty minutes a day to stay fit.",
+        "alts": [],
+        "form": "Subjonctif"
+      },
+      {
+        "slot": "t|Subjonctif",
+        "f": "subj",
+        "s": "Je veux que vous ___ jusqu'au bureau plutôt que de prendre le taxi.",
+        "a": "marchiez",
+        "en": "I want you to walk to the office rather than take a taxi.",
+        "alts": [],
+        "form": "Subjonctif"
+      },
+      {
+        "slot": "s|0",
+        "f": "sense",
+        "s": "Mon grand-père ___ encore sans canne à l'âge de quatre-vingt ans.",
+        "a": "marche",
+        "en": "My grandfather still walks without a cane at the age of eighty.",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "s|0",
+        "f": "sense",
+        "s": "Les enfants apprennent à ___ avant de courir.",
+        "a": "marcher",
+        "en": "Children learn to walk before they run.",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "s|1",
+        "f": "sense",
+        "s": "Elle préfère ___ pour aller au bureau plutôt que de prendre le métro.",
+        "a": "marcher",
+        "en": "She prefers to walk to the office rather than take the metro.",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "s|1",
+        "f": "sense",
+        "s": "Nous ___ jusqu'au musée parce que c'est seulement à dix minutes à pied.",
+        "a": "marchons",
+        "en": "We walk to the museum because it is only ten minutes on foot.",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "s|2",
+        "f": "sense",
+        "s": "Le nouveau moteur ___ parfaitement depuis la réparation.",
+        "a": "marche",
+        "en": "The new engine runs perfectly since the repair.",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "s|2",
+        "f": "sense",
+        "s": "L'ascenseur ne ___ plus depuis hier soir.",
+        "a": "marche",
+        "en": "The lift has not been running since yesterday evening.",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "s|3",
+        "f": "sense",
+        "s": "Cette méthode ___ très bien pour apprendre une nouvelle langue.",
+        "a": "marche",
+        "en": "This method works very well for learning a new language.",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "s|3",
+        "f": "sense",
+        "s": "Son plan a ___ : il a réussi à convaincre tout le monde.",
+        "a": "marché",
+        "en": "His plan worked: he managed to convince everyone.",
+        "alts": [],
+        "form": ""
+      }
+    ]
+  },
+  {
+    "id": 1533,
+    "qs": [
+      {
+        "slot": "s|0",
+        "f": "sense",
+        "s": "Le Tiers-Monde désigne les pays ___ qui ne font partie ni du bloc occidental ni du bloc soviétique.",
+        "a": "tiers",
+        "en": "The Third World refers to third countries that belong neither to the Western bloc nor to the Soviet bloc.",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "s|0",
+        "f": "sense",
+        "s": "En cas de litige entre les deux parties, un arbitre ___ peut être nommé pour trancher.",
+        "a": "tiers",
+        "en": "In the event of a dispute between the two parties, a third arbitrator can be appointed to decide.",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "s|1",
+        "f": "sense",
+        "s": "Il a dépensé le ___ de son salaire mensuel en nourriture.",
+        "a": "tiers",
+        "en": "He spent one third of his monthly salary on food.",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "s|1",
+        "f": "sense",
+        "s": "Le ___ des habitants de cette ville travaille dans le secteur public.",
+        "a": "tiers",
+        "en": "One third of the inhabitants of this city works in the public sector.",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "g|mp",
+        "f": "agree",
+        "s": "Des pays ___ ont été invités à participer aux négociations commerciales.",
+        "a": "tiers",
+        "en": "Third-party countries were invited to participate in the trade negotiations.",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "g|mp",
+        "f": "agree",
+        "s": "Les intervenants ___ n'ont pas le droit de vote lors de cette réunion.",
+        "a": "tiers",
+        "en": "Third-party participants do not have voting rights at this meeting.",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "g|f",
+        "f": "agree",
+        "s": "Une personne ___ a confirmé les faits rapportés dans cet article.",
+        "a": "tierce",
+        "en": "A third party confirmed the facts reported in this article.",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "g|f",
+        "f": "agree",
+        "s": "L'intervention d'une autorité ___ était nécessaire pour résoudre le conflit.",
+        "a": "tierce",
+        "en": "The intervention of a third authority was necessary to resolve the conflict.",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "g|fp",
+        "f": "agree",
+        "s": "Des parties ___ ont été impliquées dans cette transaction financière.",
+        "a": "tierces",
+        "en": "Third parties were involved in this financial transaction.",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "g|fp",
+        "f": "agree",
+        "s": "Selon la loi, les personnes ___ doivent rester neutres dans ce type de litige.",
+        "a": "tierces",
+        "en": "According to the law, third parties must remain neutral in this type of dispute.",
+        "alts": [],
+        "form": ""
+      }
+    ]
+  }
+]

@@ -1,0 +1,269 @@
+[
+  {
+    "id": 128,
+    "qs": [
+      {
+        "slot": "s|0",
+        "f": "sense",
+        "s": "Les journalistes analysent la situation ___ dans le pays.",
+        "en": "Journalists are analyzing the ___ situation in the country.",
+        "a": "politique",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "s|0",
+        "f": "sense",
+        "s": "Il a exprimé ses opinions ___ lors du débat.",
+        "en": "He expressed his ___ opinions during the debate.",
+        "a": "politiques",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "s|1",
+        "f": "sense",
+        "s": "Elle a évité le conflit avec une réponse très ___ .",
+        "en": "She avoided the conflict with a very ___ (tactful/shrewd) answer.",
+        "a": "politique",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "s|1",
+        "f": "sense",
+        "s": "Mon patron est très ___ : il sait toujours quoi dire pour ménager tout le monde.",
+        "en": "My boss is very ___ (politically savvy): he always knows what to say to keep everyone happy.",
+        "a": "politique",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "s|2",
+        "f": "sense",
+        "s": "Il ne s'intéresse pas du tout à la ___ .",
+        "en": "He is not interested in ___ (politics) at all.",
+        "a": "politique",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "s|2",
+        "f": "sense",
+        "s": "La ___ est souvent source de division dans la société.",
+        "en": "___ (Politics) is often a source of division in society.",
+        "a": "politique",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "g|mp",
+        "f": "agree",
+        "s": "Les débats ___ ont duré toute la nuit.",
+        "en": "The political debates lasted all night.",
+        "a": "politiques",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "g|mp",
+        "f": "agree",
+        "s": "Ses discours ___ ont impressionné les électeurs.",
+        "en": "His political speeches impressed the voters.",
+        "a": "politiques",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "g|f",
+        "f": "agree",
+        "s": "La carrière ___ de cette femme a commencé très tôt.",
+        "en": "This woman's political career started very early.",
+        "a": "politique",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "g|f",
+        "f": "agree",
+        "s": "La décision ___ du gouvernement a suscité des critiques.",
+        "en": "The government's political decision sparked criticism.",
+        "a": "politique",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "g|fp",
+        "f": "agree",
+        "s": "Les réformes ___ proposées par le parti ont été adoptées.",
+        "en": "The political reforms proposed by the party were adopted.",
+        "a": "politiques",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "g|fp",
+        "f": "agree",
+        "s": "Ses idées ___ ont évolué au fil des années.",
+        "en": "Her political ideas evolved over the years.",
+        "a": "politiques",
+        "alts": [],
+        "form": ""
+      }
+    ]
+  },
+  {
+    "id": 129,
+    "qs": [
+      {
+        "slot": "s|0",
+        "f": "sense",
+        "s": "C'est la ___ idéale pour lire un livre, calme et lumineuse.",
+        "en": "It's the ideal place to read a book, quiet and bright.",
+        "a": "place",
+        "alts": ["endroit"],
+        "form": ""
+      },
+      {
+        "slot": "s|0",
+        "f": "sense",
+        "s": "Je ne connais pas bien la ___ où il habite.",
+        "en": "I don't know the place where he lives very well.",
+        "a": "place",
+        "alts": ["endroit"],
+        "form": ""
+      },
+      {
+        "slot": "s|1",
+        "f": "sense",
+        "s": "Nous nous sommes retrouvés sur la ___ du village pour le marché.",
+        "en": "We met up on the village square for the market.",
+        "a": "place",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "s|1",
+        "f": "sense",
+        "s": "La ___ de la République est le cœur animé de la ville.",
+        "en": "The Place de la République is the lively heart of the city.",
+        "a": "place",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "s|2",
+        "f": "sense",
+        "s": "Est-ce qu'il reste une ___ libre dans ce train pour Paris ?",
+        "en": "Is there a free seat left on this train to Paris?",
+        "a": "place",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "s|2",
+        "f": "sense",
+        "s": "J'ai réservé ma ___ à l'avance pour le concert de vendredi.",
+        "en": "I booked my seat in advance for Friday's concert.",
+        "a": "place",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "s|3",
+        "f": "sense",
+        "s": "Il n'y a pas assez de ___ dans le coffre pour tous les bagages.",
+        "en": "There is not enough space in the trunk for all the luggage.",
+        "a": "place",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "s|3",
+        "f": "sense",
+        "s": "Fais un peu de ___ sur la table pour poser les assiettes.",
+        "en": "Make some space on the table to put the plates.",
+        "a": "place",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "gender",
+        "f": "gender",
+        "s": "Il cherche ___ place assise près de la fenêtre.",
+        "en": "He is looking for a seat near the window.",
+        "a": "une",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "gender",
+        "f": "gender",
+        "s": "___ place centrale de la ville est entourée de vieux bâtiments.",
+        "en": "The central square of the city is surrounded by old buildings.",
+        "a": "La",
+        "alts": [],
+        "form": ""
+      }
+    ]
+  },
+  {
+    "id": 130,
+    "qs": [
+      {
+        "slot": "s|0",
+        "f": "sense",
+        "s": "Il reste ___ trois places disponibles dans ce train.",
+        "en": "There are only three seats available on this train.",
+        "a": "seulement",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "s|0",
+        "f": "sense",
+        "s": "Elle parle ___ le français et l'anglais, pas d'autres langues.",
+        "en": "She speaks only French and English, no other languages.",
+        "a": "seulement",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "s|1",
+        "f": "sense",
+        "s": "J'ai ___ voulu t'aider, je ne cherchais pas à m'imposer.",
+        "en": "I merely wanted to help you, I wasn't trying to impose.",
+        "a": "seulement",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "s|1",
+        "f": "sense",
+        "s": "Il a ___ effleuré le sujet sans entrer dans les détails.",
+        "en": "He merely touched on the subject without going into detail.",
+        "a": "seulement",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "s|2",
+        "f": "sense",
+        "s": "Ce restaurant est excellent, ___ il est un peu cher.",
+        "en": "This restaurant is excellent, but it is a little expensive.",
+        "a": "seulement",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "s|2",
+        "f": "sense",
+        "s": "J'aimerais bien venir avec vous, ___ j'ai déjà un rendez-vous ce soir.",
+        "en": "I would love to come with you, but I already have an appointment this evening.",
+        "a": "seulement",
+        "alts": [],
+        "form": ""
+      }
+    ]
+  }
+]

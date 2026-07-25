@@ -1,0 +1,201 @@
+[
+  {
+    "id": 1115,
+    "qs": [
+      {
+        "slot": "s|0",
+        "f": "sense",
+        "s": "Dans une démocratie, les droits de l'___ doivent être protégés face au pouvoir de l'État.",
+        "a": "individu",
+        "en": "In a democracy, the rights of the individual must be protected against the power of the state.",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "s|0",
+        "f": "sense",
+        "s": "La liberté de chaque ___ est fondamentale dans une société juste.",
+        "a": "individu",
+        "en": "The freedom of each individual is fundamental in a just society.",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "s|1",
+        "f": "sense",
+        "s": "En biologie, un ___ est un organisme unique appartenant à une espèce.",
+        "a": "individu",
+        "en": "In biology, an individual is a unique organism belonging to a species.",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "s|1",
+        "f": "sense",
+        "s": "Les chercheurs ont étudié chaque ___ de la population pour mesurer les variations génétiques.",
+        "a": "individu",
+        "en": "The researchers studied each individual in the population to measure genetic variations.",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "s|2",
+        "f": "sense",
+        "s": "La police a interpellé un ___ suspect qui rôdait autour de l'école.",
+        "a": "individu",
+        "en": "The police stopped a suspicious character who was lurking around the school.",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "s|2",
+        "f": "sense",
+        "s": "Je ne fais pas confiance à cet ___ , il me semble vraiment louche.",
+        "a": "individu",
+        "en": "I don't trust this character at all, he seems really shady.",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "gender",
+        "f": "gender",
+        "s": "Elle a croisé ___ individu bizarre dans le couloir.",
+        "a": "un",
+        "en": "She came across a strange individual in the hallway.",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "gender",
+        "f": "gender",
+        "s": "___ individu que tu décris dans ton rapport me semble dangereux.",
+        "a": "L'",
+        "en": "The individual you describe in your report seems dangerous to me.",
+        "alts": [],
+        "form": ""
+      }
+    ]
+  },
+  {
+    "id": 1116,
+    "qs": [
+      {
+        "slot": "s|0",
+        "f": "sense",
+        "s": "Les chercheurs ont analysé des milliers de ___ pour comprendre l'évolution du climat.",
+        "a": "données",
+        "en": "The researchers analyzed thousands of data points to understand how the climate is evolving.",
+        "alts": []
+      },
+      {
+        "slot": "s|0",
+        "f": "sense",
+        "s": "Il faut protéger les ___ personnelles des utilisateurs contre les cyberattaques.",
+        "a": "données",
+        "en": "Personal data of users must be protected against cyberattacks.",
+        "alts": []
+      },
+      {
+        "slot": "s|1",
+        "f": "sense",
+        "s": "C'est une ___ historique incontestable : la Révolution française a eu lieu en 1789.",
+        "a": "donnée",
+        "en": "It is an undeniable historical fact: the French Revolution took place in 1789.",
+        "alts": []
+      },
+      {
+        "slot": "s|1",
+        "f": "sense",
+        "s": "La montée du chômage est une ___ préoccupante que les économistes ne peuvent ignorer.",
+        "a": "donnée",
+        "en": "The rise in unemployment is a worrying fact that economists cannot ignore.",
+        "alts": []
+      },
+      {
+        "slot": "s|2",
+        "f": "sense",
+        "s": "Dans ce problème de géométrie, la longueur du côté est une ___ connue.",
+        "a": "donnée",
+        "en": "In this geometry problem, the length of the side is a known given.",
+        "alts": []
+      },
+      {
+        "slot": "s|2",
+        "f": "sense",
+        "s": "L'équation ne peut pas être résolue si l'on ne connaît pas toutes les ___ du problème.",
+        "a": "données",
+        "en": "The equation cannot be solved if one does not know all the givens of the problem.",
+        "alts": []
+      },
+      {
+        "slot": "gender",
+        "f": "gender",
+        "s": "Cette ___ statistique montre une augmentation des températures au cours du siècle dernier.",
+        "a": "donnée",
+        "en": "This statistical datum shows an increase in temperatures over the last century.",
+        "alts": []
+      },
+      {
+        "slot": "gender",
+        "f": "gender",
+        "s": "Quelle est la première ___ de ce problème mathématique ?",
+        "a": "donnée",
+        "en": "What is the first given of this mathematical problem?",
+        "alts": []
+      }
+    ]
+  },
+  {
+    "id": 1117,
+    "qs": [
+      {
+        "slot": "s|0",
+        "f": "sense",
+        "s": "Le serveur lui a apporté ___ de bière bien frais.",
+        "a": "un demi",
+        "en": "The waiter brought him a half-pint of beer, nice and cold.",
+        "alts": []
+      },
+      {
+        "slot": "s|0",
+        "f": "sense",
+        "s": "Je ne veux pas tout le gâteau ; ___ me suffit.",
+        "a": "un demi",
+        "en": "I don't want the whole cake; a half is enough for me.",
+        "alts": ["la moitié"]
+      },
+      {
+        "slot": "s|1",
+        "f": "sense",
+        "s": "Il a mangé ___ croissant au petit-déjeuner.",
+        "a": "un demi",
+        "en": "He ate half a croissant at breakfast.",
+        "alts": []
+      },
+      {
+        "slot": "s|1",
+        "f": "sense",
+        "s": "Elle a attendu ___ heure devant la gare.",
+        "a": "une demi",
+        "en": "She waited half an hour in front of the train station.",
+        "alts": []
+      },
+      {
+        "slot": "gender",
+        "f": "gender",
+        "s": "Après le match, les joueurs ont commandé ___ demi au bar.",
+        "a": "un",
+        "en": "After the match, the players ordered a half-pint at the bar.",
+        "alts": []
+      },
+      {
+        "slot": "gender",
+        "f": "gender",
+        "s": "Il a bu ___ demi d'une seule traite.",
+        "a": "le",
+        "en": "He drank the half-pint in one go.",
+        "alts": []
+      }
+    ]
+  }
+]

@@ -1,0 +1,191 @@
+[
+  {
+    "id": 96,
+    "qs": [
+      {
+        "slot": "s|0",
+        "f": "sense",
+        "s": "Je ne l'ai plus revu ___ notre dispute.",
+        "a": "depuis",
+        "en": "I haven't seen him since our argument.",
+        "alts": []
+      },
+      {
+        "slot": "s|0",
+        "f": "sense",
+        "s": "Elle a beaucoup changé ___ son accident de voiture.",
+        "a": "depuis",
+        "en": "She has changed a lot since her car accident.",
+        "alts": []
+      },
+      {
+        "slot": "s|1",
+        "f": "sense",
+        "s": "___ le début de l'année, les prix ont fortement augmenté.",
+        "a": "depuis",
+        "en": "Since the beginning of the year, prices have risen sharply.",
+        "alts": []
+      },
+      {
+        "slot": "s|1",
+        "f": "sense",
+        "s": "Ce musée est ouvert au public ___ 1980.",
+        "a": "depuis",
+        "en": "This museum has been open to the public since 1980.",
+        "alts": []
+      },
+      {
+        "slot": "s|2",
+        "f": "sense",
+        "s": "Il apprend le français ___ trois ans et il parle couramment.",
+        "a": "depuis",
+        "en": "He has been learning French for three years and speaks fluently.",
+        "alts": []
+      },
+      {
+        "slot": "s|2",
+        "f": "sense",
+        "s": "Elle attend dans la salle ___ plus d'une heure.",
+        "a": "depuis",
+        "en": "She has been waiting in the room for more than an hour.",
+        "alts": []
+      }
+    ]
+  },
+  {
+    "id": 97,
+    "qs": [
+      {
+        "slot": "s|0",
+        "f": "sense",
+        "s": "Ce ___ sur la carte indique l'emplacement exact du trésor.",
+        "a": "point",
+        "en": "This point on the map indicates the exact location of the treasure.",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "s|0",
+        "f": "sense",
+        "s": "Nous nous sommes mis d'accord sur chaque ___ de l'accord.",
+        "a": "point",
+        "en": "We agreed on every point of the agreement.",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "s|1",
+        "f": "sense",
+        "s": "L'équipe a marqué trois ___ en dernière minute et a remporté le match.",
+        "a": "points",
+        "en": "The team scored three points in the last minute and won the match.",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "s|1",
+        "f": "sense",
+        "s": "Il a obtenu vingt ___ sur vingt à l'examen de mathématiques.",
+        "a": "points",
+        "en": "He got twenty out of twenty points on the math exam.",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "s|2",
+        "f": "sense",
+        "s": "Je ne comprends ___ pourquoi il a pris cette décision.",
+        "a": "point",
+        "en": "I don't understand at all why he made that decision.",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "s|2",
+        "f": "sense",
+        "s": "Elle n'a ___ envie de sortir par ce temps glacial.",
+        "a": "point",
+        "en": "She has absolutely no desire to go out in this freezing weather.",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "gender",
+        "f": "gender",
+        "s": "Il a soulevé ___ point intéressant lors de la réunion.",
+        "a": "un",
+        "en": "He raised an interesting point during the meeting.",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "gender",
+        "f": "gender",
+        "s": "___ point de départ de notre voyage était la gare de Lyon.",
+        "a": "Le",
+        "en": "The starting point of our trip was the Gare de Lyon.",
+        "alts": [],
+        "form": ""
+      }
+    ]
+  },
+  {
+    "id": 98,
+    "qs": [
+      {
+        "slot": "s|0",
+        "f": "sense",
+        "s": "Les choses sont ___ depuis toujours, et personne ne les remet en question.",
+        "a": "ainsi",
+        "en": "Things have always been this way, and nobody questions them.",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "s|0",
+        "f": "sense",
+        "s": "Il en est ___ dans de nombreuses cultures : le respect des anciens est primordial.",
+        "a": "ainsi",
+        "en": "It is thus in many cultures: respect for elders is paramount.",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "s|1",
+        "f": "sense",
+        "s": "Il était épuisé ; ___, il a décidé de rentrer avant la fin de la soirée.",
+        "a": "ainsi",
+        "en": "He was exhausted; therefore, he decided to leave before the end of the evening.",
+        "alts": ["donc"],
+        "form": ""
+      },
+      {
+        "slot": "s|1",
+        "f": "sense",
+        "s": "La réunion a été annulée ; nous avons ___ pu profiter de l'après-midi.",
+        "a": "ainsi",
+        "en": "The meeting was cancelled; we were thus able to enjoy the afternoon.",
+        "alts": ["donc"],
+        "form": ""
+      },
+      {
+        "slot": "s|2",
+        "f": "sense",
+        "s": "Fais-le ___ : commence par le bas et remonte lentement.",
+        "a": "ainsi",
+        "en": "Do it this way: start from the bottom and move up slowly.",
+        "alts": ["comme ça"],
+        "form": ""
+      },
+      {
+        "slot": "s|2",
+        "f": "sense",
+        "s": "C'est ___ qu'on apprend à bien écrire : en lisant beaucoup et en pratiquant chaque jour.",
+        "a": "ainsi",
+        "en": "This is how one learns to write well: by reading a lot and practising every day.",
+        "alts": ["comme ça"],
+        "form": ""
+      }
+    ]
+  }
+]

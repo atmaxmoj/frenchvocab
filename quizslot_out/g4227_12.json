@@ -1,0 +1,251 @@
+[
+  {
+    "id": 4263,
+    "qs": [
+      {
+        "slot": "s|0",
+        "f": "sense",
+        "s": "Warren Buffett est connu comme l'un des ___ les plus influents du monde.",
+        "en": "Warren Buffett is known as one of the most influential bankers in the world.",
+        "a": "banquiers",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "s|0",
+        "f": "sense",
+        "s": "Ce ___ a amassé une fortune considérable grâce à ses investissements audacieux.",
+        "en": "This banker amassed a considerable fortune through his bold investments.",
+        "a": "banquier",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "s|1",
+        "f": "sense",
+        "s": "Mon oncle est ___ : il dirige une petite banque régionale depuis vingt ans.",
+        "en": "My uncle is a banker: he has been running a small regional bank for twenty years.",
+        "a": "banquier",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "s|1",
+        "f": "sense",
+        "s": "Pour ouvrir un établissement de crédit, il faut qu'un ___ expérimenté en assure la gestion.",
+        "en": "To open a credit institution, an experienced banker must manage it.",
+        "a": "banquier",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "gender",
+        "f": "gender",
+        "s": "Mon père est ___ banquier réputé depuis trente ans.",
+        "en": "My father has been a renowned banker for thirty years.",
+        "a": "un",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "gender",
+        "f": "gender",
+        "s": "___ banquier de notre quartier a accepté de nous accorder un prêt.",
+        "en": "The banker in our neighborhood agreed to grant us a loan.",
+        "a": "Le",
+        "alts": [],
+        "form": ""
+      }
+    ]
+  },
+  {
+    "id": 4264,
+    "qs": [
+      {
+        "slot": "s|0",
+        "f": "sense",
+        "s": "Il est professeur ___ à l'université depuis dix ans.",
+        "en": "He has been a tenured professor at the university for ten years.",
+        "a": "titulaire",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "s|0",
+        "f": "sense",
+        "s": "Cet évêque ___ dirige un diocèse sans territoire propre.",
+        "en": "This titular bishop leads a diocese without its own territory.",
+        "a": "titulaire",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "s|1",
+        "f": "sense",
+        "s": "Le ministre ___ du portefeuille de l'Éducation a présenté le nouveau programme.",
+        "en": "The minister officially holding the Education portfolio presented the new curriculum.",
+        "a": "titulaire",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "s|1",
+        "f": "sense",
+        "s": "Elle est la directrice ___ du département depuis sa nomination officielle.",
+        "en": "She is the officially appointed head of the department since her formal nomination.",
+        "a": "titulaire",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "s|2",
+        "f": "sense",
+        "s": "En tant que ___ d'un compte bancaire, vous pouvez effectuer des virements en ligne.",
+        "en": "As the holder of a bank account, you can make transfers online.",
+        "a": "titulaire",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "s|2",
+        "f": "sense",
+        "s": "Le ___ du permis de conduire doit renouveler son document avant l'expiration.",
+        "en": "The holder of the driving licence must renew their document before it expires.",
+        "a": "titulaire",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "s|3",
+        "f": "sense",
+        "s": "Après trois ans d'essai, il est enfin devenu ___ dans la fonction publique.",
+        "en": "After three years on probation, he finally became a permanent civil servant.",
+        "a": "titulaire",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "s|3",
+        "f": "sense",
+        "s": "Les agents ___ bénéficient d'une sécurité de l'emploi que les contractuels n'ont pas.",
+        "en": "Permanent employees enjoy job security that contract workers do not have.",
+        "a": "titulaires",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "g|mp",
+        "f": "agree",
+        "s": "Les professeurs ___ de cette école ont tous obtenu leur habilitation.",
+        "en": "The tenured professors at this school have all obtained their accreditation.",
+        "a": "titulaires",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "g|mp",
+        "f": "agree",
+        "s": "Ces fonctionnaires, désormais ___, ne peuvent plus être licenciés sans motif grave.",
+        "en": "These civil servants, now permanent, can no longer be dismissed without serious cause.",
+        "a": "titulaires",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "g|f",
+        "f": "agree",
+        "s": "Elle est enfin ___ de son poste après deux ans de stage.",
+        "en": "She is finally a permanent holder of her position after two years of probation.",
+        "a": "titulaire",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "g|f",
+        "f": "agree",
+        "s": "La directrice ___ de ce service a signé tous les documents officiels.",
+        "en": "The officially appointed head of this department signed all official documents.",
+        "a": "titulaire",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "g|fp",
+        "f": "agree",
+        "s": "Ces enseignantes ___ ont choisi de rester dans leur école d'affectation.",
+        "en": "These tenured female teachers chose to remain in their assigned school.",
+        "a": "titulaires",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "g|fp",
+        "f": "agree",
+        "s": "Les agentes ___ de la préfecture bénéficient d'un statut protégé.",
+        "en": "The permanent female agents at the prefecture benefit from protected status.",
+        "a": "titulaires",
+        "alts": [],
+        "form": ""
+      }
+    ]
+  },
+  {
+    "id": 4265,
+    "qs": [
+      {
+        "slot": "s|0",
+        "f": "sense",
+        "s": "Le gouvernement a annoncé des mesures pour assurer la ___ des prix.",
+        "en": "The government announced measures to ensure the stabilisation of prices.",
+        "a": "stabilisation",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "s|0",
+        "f": "sense",
+        "s": "Les ingénieurs travaillent sur la ___ du sol avant de construire le bâtiment.",
+        "en": "The engineers are working on the stabilisation of the ground before constructing the building.",
+        "a": "stabilisation",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "s|1",
+        "f": "sense",
+        "s": "Après des années de turbulences, on observe enfin une ___ progressive de la situation économique.",
+        "en": "After years of turbulence, a gradual stabilisation of the economic situation is finally being observed.",
+        "a": "stabilisation",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "s|1",
+        "f": "sense",
+        "s": "Le médecin a noté une ___ lente mais régulière de l'état du patient.",
+        "en": "The doctor noted a slow but steady stabilisation of the patient's condition.",
+        "a": "stabilisation",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "gender",
+        "f": "gender",
+        "s": "Les experts espèrent ___ stabilisation rapide de la région.",
+        "en": "The experts are hoping for a quick stabilisation of the region.",
+        "a": "une",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "gender",
+        "f": "gender",
+        "s": "___ stabilisation du marché dépend de plusieurs facteurs.",
+        "en": "The stabilisation of the market depends on several factors.",
+        "a": "La",
+        "alts": [],
+        "form": ""
+      }
+    ]
+  }
+]

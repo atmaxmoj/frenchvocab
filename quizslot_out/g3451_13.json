@@ -1,0 +1,755 @@
+[
+  {
+    "id": 3490,
+    "qs": [
+      {
+        "slot": "s|0",
+        "f": "sense",
+        "s": "Un ___ de preuves a convaincu le jury de la culpabilité de l'accusé.",
+        "a": "faisceau",
+        "en": "A bundle of evidence convinced the jury of the accused's guilt.",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "s|0",
+        "f": "sense",
+        "s": "Les enquêteurs ont rassemblé un ___ d'indices concordants avant d'arrêter le suspect.",
+        "a": "faisceau",
+        "en": "The investigators gathered a bundle of consistent clues before arresting the suspect.",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "s|1",
+        "f": "sense",
+        "s": "Le ___ du projecteur illuminait la scène lors du spectacle.",
+        "a": "faisceau",
+        "en": "The beam of the projector illuminated the stage during the show.",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "s|1",
+        "f": "sense",
+        "s": "Un ___ de lumière traversait les nuages et éclairait la vallée.",
+        "a": "faisceau",
+        "en": "A beam of light pierced through the clouds and lit up the valley.",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "s|2",
+        "f": "sense",
+        "s": "Le paysan porta un ___ de blé sur l'épaule jusqu'à la grange.",
+        "a": "faisceau",
+        "en": "The peasant carried a bundle of wheat on his shoulder to the barn.",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "s|2",
+        "f": "sense",
+        "s": "Elle attacha les tiges de lavande en un ___ serré avec un ruban.",
+        "a": "faisceau",
+        "en": "She tied the lavender stems into a tight bundle with a ribbon.",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "s|3",
+        "f": "sense",
+        "s": "Les soldats déposèrent leurs fusils en ___ devant la caserne.",
+        "a": "faisceau",
+        "en": "The soldiers stacked their rifles in a pile in front of the barracks.",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "s|3",
+        "f": "sense",
+        "s": "Le caporal forma un ___ d'armes au centre de la cour d'entraînement.",
+        "a": "faisceau",
+        "en": "The corporal formed a stack of weapons in the center of the training yard.",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "gender",
+        "f": "gender",
+        "s": "___ faisceau laser était si puissant qu'il perçait le métal.",
+        "a": "Le",
+        "en": "The laser beam was so powerful that it pierced metal.",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "gender",
+        "f": "gender",
+        "s": "La police a trouvé ___ faisceau de documents compromettants dans son bureau.",
+        "a": "un",
+        "en": "The police found a bundle of compromising documents in his office.",
+        "alts": [],
+        "form": ""
+      }
+    ]
+  },
+  {
+    "id": 3491,
+    "qs": [
+      {
+        "slot": "t|Présent|0",
+        "f": "tense",
+        "s": "Je ___ confiance en moi après cette victoire.",
+        "a": "regagne",
+        "en": "I regain confidence in myself after this victory.",
+        "alts": [],
+        "form": "Présent"
+      },
+      {
+        "slot": "t|Présent|0",
+        "f": "tense",
+        "s": "Le coureur ___ du terrain à chaque kilomètre.",
+        "a": "regagne",
+        "en": "The runner makes up ground with every kilometre.",
+        "alts": [],
+        "form": "Présent"
+      },
+      {
+        "slot": "t|Présent|1",
+        "f": "tense",
+        "s": "Tu ___ peu à peu la confiance de tes collègues.",
+        "a": "regagnes",
+        "en": "You are gradually regaining the trust of your colleagues.",
+        "alts": [],
+        "form": "Présent"
+      },
+      {
+        "slot": "t|Présent|1",
+        "f": "tense",
+        "s": "Est-ce que tu ___ ta chambre après le dîner ?",
+        "a": "regagnes",
+        "en": "Are you going back to your room after dinner?",
+        "alts": [],
+        "form": "Présent"
+      },
+      {
+        "slot": "t|Présent|2",
+        "f": "tense",
+        "s": "Nous ___ du temps grâce à cette nouvelle organisation.",
+        "a": "regagnons",
+        "en": "We are making up time thanks to this new organisation.",
+        "alts": [],
+        "form": "Présent"
+      },
+      {
+        "slot": "t|Présent|2",
+        "f": "tense",
+        "s": "Nous ___ nos places dans le classement progressivement.",
+        "a": "regagnons",
+        "en": "We are gradually regaining our ranking positions.",
+        "alts": [],
+        "form": "Présent"
+      },
+      {
+        "slot": "t|Présent|3",
+        "f": "tense",
+        "s": "Vous ___ votre avance sur les concurrents cette semaine.",
+        "a": "regagnez",
+        "en": "You are regaining your lead over the competitors this week.",
+        "alts": [],
+        "form": "Présent"
+      },
+      {
+        "slot": "t|Présent|3",
+        "f": "tense",
+        "s": "Vous ___ la salle de réunion après la pause.",
+        "a": "regagnez",
+        "en": "You return to the meeting room after the break.",
+        "alts": [],
+        "form": "Présent"
+      },
+      {
+        "slot": "t|Présent|4",
+        "f": "tense",
+        "s": "Les supporters espèrent que les joueurs ___ du terrain.",
+        "a": "regagnent",
+        "en": "The supporters hope the players will make up ground.",
+        "alts": [],
+        "form": "Présent"
+      },
+      {
+        "slot": "t|Présent|4",
+        "f": "tense",
+        "s": "Les réfugiés ___ enfin leur village natal.",
+        "a": "regagnent",
+        "en": "The refugees are finally returning to their home village.",
+        "alts": [],
+        "form": "Présent"
+      },
+      {
+        "slot": "t|Passé composé|0",
+        "f": "tense",
+        "s": "J'___ ma chambre dès que le repas fut terminé.",
+        "a": "ai regagné",
+        "en": "I returned to my room as soon as the meal was over.",
+        "alts": [],
+        "form": "Passé composé"
+      },
+      {
+        "slot": "t|Passé composé|0",
+        "f": "tense",
+        "s": "Après une semaine difficile, j'___ toute mon énergie.",
+        "a": "ai regagné",
+        "en": "After a difficult week, I regained all my energy.",
+        "alts": [],
+        "form": "Passé composé"
+      },
+      {
+        "slot": "t|Passé composé|1",
+        "f": "tense",
+        "s": "Tu ___ les points que tu avais perdus lors du premier set.",
+        "a": "as regagné",
+        "en": "You won back the points you had lost in the first set.",
+        "alts": [],
+        "form": "Passé composé"
+      },
+      {
+        "slot": "t|Passé composé|1",
+        "f": "tense",
+        "s": "Tu ___ ta place dans l'équipe après ta blessure.",
+        "a": "as regagné",
+        "en": "You regained your place in the team after your injury.",
+        "alts": [],
+        "form": "Passé composé"
+      },
+      {
+        "slot": "t|Passé composé|2",
+        "f": "tense",
+        "s": "L'équipe ___ la première place au classement hier soir.",
+        "a": "a regagné",
+        "en": "The team regained first place in the standings last night.",
+        "alts": [],
+        "form": "Passé composé"
+      },
+      {
+        "slot": "t|Passé composé|2",
+        "f": "tense",
+        "s": "Elle ___ son appartement après une longue journée de travail.",
+        "a": "a regagné",
+        "en": "She returned to her apartment after a long day's work.",
+        "alts": [],
+        "form": "Passé composé"
+      },
+      {
+        "slot": "t|Passé composé|3",
+        "f": "tense",
+        "s": "Nous ___ la confiance du public grâce à nos efforts.",
+        "a": "avons regagné",
+        "en": "We regained the public's trust thanks to our efforts.",
+        "alts": [],
+        "form": "Passé composé"
+      },
+      {
+        "slot": "t|Passé composé|3",
+        "f": "tense",
+        "s": "Nous ___ le port avant la tempête.",
+        "a": "avons regagné",
+        "en": "We made it back to port before the storm.",
+        "alts": [],
+        "form": "Passé composé"
+      },
+      {
+        "slot": "t|Passé composé|4",
+        "f": "tense",
+        "s": "Vous ___ du temps sur vos rivaux lors de la dernière étape.",
+        "a": "avez regagné",
+        "en": "You made up time on your rivals in the last stage.",
+        "alts": [],
+        "form": "Passé composé"
+      },
+      {
+        "slot": "t|Passé composé|4",
+        "f": "tense",
+        "s": "Vous ___ votre domicile avant minuit hier soir.",
+        "a": "avez regagné",
+        "en": "You returned home before midnight last night.",
+        "alts": [],
+        "form": "Passé composé"
+      },
+      {
+        "slot": "t|Passé composé|5",
+        "f": "tense",
+        "s": "Les soldats ___ leur base après la mission.",
+        "a": "ont regagné",
+        "en": "The soldiers returned to their base after the mission.",
+        "alts": [],
+        "form": "Passé composé"
+      },
+      {
+        "slot": "t|Passé composé|5",
+        "f": "tense",
+        "s": "Les négociateurs ___ la confiance des deux parties en quelques jours.",
+        "a": "ont regagné",
+        "en": "The negotiators regained the trust of both parties within a few days.",
+        "alts": [],
+        "form": "Passé composé"
+      },
+      {
+        "slot": "t|Imparfait|0",
+        "f": "tense",
+        "s": "Chaque soir, je ___ lentement ma chambre après l'entraînement.",
+        "a": "regagnais",
+        "en": "Every evening, I would slowly return to my room after training.",
+        "alts": [],
+        "form": "Imparfait"
+      },
+      {
+        "slot": "t|Imparfait|0",
+        "f": "tense",
+        "s": "Tu ___ du terrain sur ton adversaire au fil des manches.",
+        "a": "regagnais",
+        "en": "You were making up ground on your opponent as the rounds went on.",
+        "alts": [],
+        "form": "Imparfait"
+      },
+      {
+        "slot": "t|Imparfait|1",
+        "f": "tense",
+        "s": "L'équipe ___ peu à peu la confiance de ses supporters.",
+        "a": "regagnait",
+        "en": "The team was gradually regaining the confidence of its supporters.",
+        "alts": [],
+        "form": "Imparfait"
+      },
+      {
+        "slot": "t|Imparfait|1",
+        "f": "tense",
+        "s": "Le bateau ___ le port chaque soir avant la nuit.",
+        "a": "regagnait",
+        "en": "The boat returned to port every evening before nightfall.",
+        "alts": [],
+        "form": "Imparfait"
+      },
+      {
+        "slot": "t|Imparfait|2",
+        "f": "tense",
+        "s": "Nous ___ notre campement à la tombée de la nuit.",
+        "a": "regagnions",
+        "en": "We would return to our camp at nightfall.",
+        "alts": [],
+        "form": "Imparfait"
+      },
+      {
+        "slot": "t|Imparfait|2",
+        "f": "tense",
+        "s": "Nous ___ du retard rattrapé sur nos concurrents chaque semaine.",
+        "a": "regagnions",
+        "en": "We were making up ground on our competitors every week.",
+        "alts": [],
+        "form": "Imparfait"
+      },
+      {
+        "slot": "t|Imparfait|3",
+        "f": "tense",
+        "s": "Vous ___ vos chambres après chaque répétition.",
+        "a": "regagniez",
+        "en": "You returned to your rooms after each rehearsal.",
+        "alts": [],
+        "form": "Imparfait"
+      },
+      {
+        "slot": "t|Imparfait|3",
+        "f": "tense",
+        "s": "Vous ___ lentement la confiance perdue de vos clients.",
+        "a": "regagniez",
+        "en": "You were slowly winning back the lost trust of your clients.",
+        "alts": [],
+        "form": "Imparfait"
+      },
+      {
+        "slot": "t|Imparfait|4",
+        "f": "tense",
+        "s": "Les ouvriers ___ leurs postes après chaque pause.",
+        "a": "regagnaient",
+        "en": "The workers returned to their posts after each break.",
+        "alts": [],
+        "form": "Imparfait"
+      },
+      {
+        "slot": "t|Imparfait|4",
+        "f": "tense",
+        "s": "Les coureurs ___ progressivement du temps sur le leader.",
+        "a": "regagnaient",
+        "en": "The riders were gradually making up time on the leader.",
+        "alts": [],
+        "form": "Imparfait"
+      },
+      {
+        "slot": "t|Futur|0",
+        "f": "tense",
+        "s": "Je ___ ma place dans l'équipe à la prochaine saison.",
+        "a": "regagnerai",
+        "en": "I will win back my place in the team next season.",
+        "alts": [],
+        "form": "Futur"
+      },
+      {
+        "slot": "t|Futur|0",
+        "f": "tense",
+        "s": "Après le spectacle, je ___ mon hôtel à pied.",
+        "a": "regagnerai",
+        "en": "After the show, I will walk back to my hotel.",
+        "alts": [],
+        "form": "Futur"
+      },
+      {
+        "slot": "t|Futur|1",
+        "f": "tense",
+        "s": "Tu ___ la confiance de tes parents si tu travailles bien.",
+        "a": "regagneras",
+        "en": "You will regain your parents' trust if you work hard.",
+        "alts": [],
+        "form": "Futur"
+      },
+      {
+        "slot": "t|Futur|1",
+        "f": "tense",
+        "s": "Tu ___ le village avant la nuit, j'en suis sûr.",
+        "a": "regagneras",
+        "en": "You will get back to the village before dark, I'm sure of it.",
+        "alts": [],
+        "form": "Futur"
+      },
+      {
+        "slot": "t|Futur|2",
+        "f": "tense",
+        "s": "Le champion ___ son titre l'année prochaine sans aucun doute.",
+        "a": "regagnera",
+        "en": "The champion will win back his title next year without doubt.",
+        "alts": [],
+        "form": "Futur"
+      },
+      {
+        "slot": "t|Futur|2",
+        "f": "tense",
+        "s": "Elle ___ son appartement dès la fin de son voyage.",
+        "a": "regagnera",
+        "en": "She will return to her apartment as soon as her trip is over.",
+        "alts": [],
+        "form": "Futur"
+      },
+      {
+        "slot": "t|Futur|3",
+        "f": "tense",
+        "s": "Nous ___ nos postes dès que la réunion sera terminée.",
+        "a": "regagnerons",
+        "en": "We will return to our posts as soon as the meeting is over.",
+        "alts": [],
+        "form": "Futur"
+      },
+      {
+        "slot": "t|Futur|3",
+        "f": "tense",
+        "s": "Nous ___ le temps perdu grâce à ce nouveau logiciel.",
+        "a": "regagnerons",
+        "en": "We will make up the lost time thanks to this new software.",
+        "alts": [],
+        "form": "Futur"
+      },
+      {
+        "slot": "t|Futur|4",
+        "f": "tense",
+        "s": "Vous ___ votre réputation si vous changez de méthode.",
+        "a": "regagnerez",
+        "en": "You will regain your reputation if you change your approach.",
+        "alts": [],
+        "form": "Futur"
+      },
+      {
+        "slot": "t|Futur|4",
+        "f": "tense",
+        "s": "Vous ___ la salle principale après le déjeuner.",
+        "a": "regagnerez",
+        "en": "You will return to the main hall after lunch.",
+        "alts": [],
+        "form": "Futur"
+      },
+      {
+        "slot": "t|Futur|5",
+        "f": "tense",
+        "s": "Les astronautes ___ la Terre dans trois semaines.",
+        "a": "regagneront",
+        "en": "The astronauts will return to Earth in three weeks.",
+        "alts": [],
+        "form": "Futur"
+      },
+      {
+        "slot": "t|Futur|5",
+        "f": "tense",
+        "s": "Les athlètes ___ les points manquants lors de la finale.",
+        "a": "regagneront",
+        "en": "The athletes will make up the missing points in the final.",
+        "alts": [],
+        "form": "Futur"
+      },
+      {
+        "slot": "t|Conditionnel|0",
+        "f": "tense",
+        "s": "Si tu m'aidais, je ___ du temps précieux.",
+        "a": "regagnerais",
+        "en": "If you helped me, I would make up precious time.",
+        "alts": [],
+        "form": "Conditionnel"
+      },
+      {
+        "slot": "t|Conditionnel|0",
+        "f": "tense",
+        "s": "Si tu t'entraînais davantage, tu ___ ta place dans l'équipe.",
+        "a": "regagnerais",
+        "en": "If you trained more, you would win back your place in the team.",
+        "alts": [],
+        "form": "Conditionnel"
+      },
+      {
+        "slot": "t|Conditionnel|1",
+        "f": "tense",
+        "s": "Avec une meilleure stratégie, l'entreprise ___ ses parts de marché.",
+        "a": "regagnerait",
+        "en": "With a better strategy, the company would regain its market share.",
+        "alts": [],
+        "form": "Conditionnel"
+      },
+      {
+        "slot": "t|Conditionnel|1",
+        "f": "tense",
+        "s": "Il ___ la côte plus rapidement s'il avait un meilleur bateau.",
+        "a": "regagnerait",
+        "en": "He would get back to the coast more quickly if he had a better boat.",
+        "alts": [],
+        "form": "Conditionnel"
+      },
+      {
+        "slot": "t|Conditionnel|2",
+        "f": "tense",
+        "s": "Si nous collaborions mieux, nous ___ du terrain sur nos adversaires.",
+        "a": "regagnerions",
+        "en": "If we worked together better, we would make up ground on our rivals.",
+        "alts": [],
+        "form": "Conditionnel"
+      },
+      {
+        "slot": "t|Conditionnel|2",
+        "f": "tense",
+        "s": "Nous ___ notre camp plus tôt si la route était plus courte.",
+        "a": "regagnerions",
+        "en": "We would return to camp earlier if the route were shorter.",
+        "alts": [],
+        "form": "Conditionnel"
+      },
+      {
+        "slot": "t|Conditionnel|3",
+        "f": "tense",
+        "s": "Si vous travailliez en équipe, vous ___ la confiance de vos clients.",
+        "a": "regagneriez",
+        "en": "If you worked as a team, you would regain your clients' trust.",
+        "alts": [],
+        "form": "Conditionnel"
+      },
+      {
+        "slot": "t|Conditionnel|3",
+        "f": "tense",
+        "s": "Vous ___ vos quartiers plus facilement avec un guide.",
+        "a": "regagneriez",
+        "en": "You would get back to your quarters more easily with a guide.",
+        "alts": [],
+        "form": "Conditionnel"
+      },
+      {
+        "slot": "t|Conditionnel|4",
+        "f": "tense",
+        "s": "Si les négociations reprenaient, ils ___ rapidement du terrain.",
+        "a": "regagneraient",
+        "en": "If negotiations resumed, they would quickly make up ground.",
+        "alts": [],
+        "form": "Conditionnel"
+      },
+      {
+        "slot": "t|Conditionnel|4",
+        "f": "tense",
+        "s": "Elles ___ la ville plus vite si elles prenaient l'autoroute.",
+        "a": "regagneraient",
+        "en": "They would get back to the city faster if they took the motorway.",
+        "alts": [],
+        "form": "Conditionnel"
+      },
+      {
+        "slot": "t|Subjonctif",
+        "f": "subj",
+        "s": "Il faut que tu ___ la confiance de ton équipe avant le grand match.",
+        "a": "regagnes",
+        "en": "You must win back your team's trust before the big match.",
+        "alts": [],
+        "form": "Subjonctif"
+      },
+      {
+        "slot": "t|Subjonctif",
+        "f": "subj",
+        "s": "Je veux que vous ___ vos places avant le début du spectacle.",
+        "a": "regagniez",
+        "en": "I want you to return to your seats before the show begins.",
+        "alts": [],
+        "form": "Subjonctif"
+      },
+      {
+        "slot": "s|0",
+        "f": "sense",
+        "s": "Après plusieurs défaites, le champion a enfin réussi à ___ son titre.",
+        "a": "regagner",
+        "en": "After several defeats, the champion finally managed to win back his title.",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "s|0",
+        "f": "sense",
+        "s": "Il espère ___ la médaille d'or lors des prochains Jeux olympiques.",
+        "a": "regagner",
+        "en": "He hopes to win back the gold medal at the next Olympic Games.",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "s|1",
+        "f": "sense",
+        "s": "Les troupes ont réussi à ___ le territoire perdu en trois jours.",
+        "a": "regagner",
+        "en": "The troops managed to recapture the lost territory in three days.",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "s|1",
+        "f": "sense",
+        "s": "Le gouvernement cherche à ___ le contrôle de la situation.",
+        "a": "regagner",
+        "en": "The government is seeking to regain control of the situation.",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "s|2",
+        "f": "sense",
+        "s": "Il a tout fait pour ___ l'honneur de sa famille.",
+        "a": "regagner",
+        "en": "He did everything he could to restore his family's honour.",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "s|2",
+        "f": "sense",
+        "s": "L'entreprise cherche à ___ sa réputation après le scandale.",
+        "a": "regagner",
+        "en": "The company is trying to restore its reputation after the scandal.",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "s|3",
+        "f": "sense",
+        "s": "Les voyageurs ont décidé de ___ leur hôtel avant la pluie.",
+        "a": "regagner",
+        "en": "The travellers decided to return to their hotel before the rain.",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "s|3",
+        "f": "sense",
+        "s": "Après la cérémonie, les invités ont ___ leurs domiciles respectifs.",
+        "a": "regagné",
+        "en": "After the ceremony, the guests returned to their respective homes.",
+        "alts": [],
+        "form": ""
+      }
+    ]
+  },
+  {
+    "id": 3492,
+    "qs": [
+      {
+        "slot": "s|0",
+        "f": "sense",
+        "s": "La grêle a causé d'importants ___ sur les voitures garées dans la rue.",
+        "a": "dégâts",
+        "en": "The hail caused significant damage to the cars parked on the street.",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "s|0",
+        "f": "sense",
+        "s": "Après la fuite d'eau, les techniciens ont évalué les ___ dans l'appartement.",
+        "a": "dégâts",
+        "en": "After the water leak, the technicians assessed the damage in the apartment.",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "s|1",
+        "f": "sense",
+        "s": "Les manifestants ont commis des ___ dans plusieurs bâtiments publics.",
+        "a": "dégâts",
+        "en": "The protesters caused destruction in several public buildings.",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "s|1",
+        "f": "sense",
+        "s": "La tempête a provoqué des ___ considérables dans toute la région.",
+        "a": "dégâts",
+        "en": "The storm caused considerable destruction throughout the region.",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "s|2",
+        "f": "sense",
+        "s": "L'entreprise a subi des ___ financiers importants à cause de l'incendie.",
+        "a": "dégâts",
+        "en": "The company suffered significant financial losses because of the fire.",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "s|2",
+        "f": "sense",
+        "s": "Les agriculteurs ont demandé une compensation pour les ___ causés par la sécheresse.",
+        "a": "dégâts",
+        "en": "The farmers requested compensation for the losses caused by the drought.",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "gender",
+        "f": "gender",
+        "s": "Il faudra payer pour réparer ___ dégât causé par votre enfant.",
+        "a": "le",
+        "en": "We will have to pay to repair the damage caused by your child.",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "gender",
+        "f": "gender",
+        "s": "L'assurance couvre ___ dégât provoqué par les inondations.",
+        "a": "le",
+        "en": "The insurance covers the damage caused by floods.",
+        "alts": [],
+        "form": ""
+      }
+    ]
+  }
+]

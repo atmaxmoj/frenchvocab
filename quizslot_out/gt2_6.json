@@ -1,0 +1,711 @@
+[
+  {
+    "id": 3069,
+    "qs": [
+      {
+        "slot": "s|0",
+        "f": "sense",
+        "s": "Pouvez-vous me donner la ___ exacte de cette pièce avant de commander le meuble ?",
+        "a": "grandeur",
+        "en": "Can you give me the exact size of this room before ordering the furniture?",
+        "alts": []
+      },
+      {
+        "slot": "s|0",
+        "f": "sense",
+        "s": "Ces deux photos sont reproduites à la même ___, donc on peut facilement les comparer.",
+        "a": "grandeur",
+        "en": "These two photos are reproduced at the same size, so they can easily be compared.",
+        "alts": []
+      },
+      {
+        "slot": "s|1",
+        "f": "sense",
+        "s": "L'histoire retient la ___ de ce chef d'État qui a refusé de trahir son peuple.",
+        "a": "grandeur",
+        "en": "History remembers the greatness of this head of state who refused to betray his people.",
+        "alts": []
+      },
+      {
+        "slot": "s|1",
+        "f": "sense",
+        "s": "C'est dans l'adversité que l'on mesure la vraie ___ d'un homme.",
+        "a": "grandeur",
+        "en": "It is in adversity that one measures the true greatness of a man.",
+        "alts": []
+      },
+      {
+        "slot": "s|2",
+        "f": "sense",
+        "s": "Les touristes ont été saisis par la ___ du paysage alpin au lever du soleil.",
+        "a": "grandeur",
+        "en": "The tourists were struck by the grandeur of the Alpine landscape at sunrise.",
+        "alts": []
+      },
+      {
+        "slot": "s|2",
+        "f": "sense",
+        "s": "La ___ de cette cathédrale gothique laisse tous les visiteurs sans voix.",
+        "a": "grandeur",
+        "en": "The grandeur of this Gothic cathedral leaves all visitors speechless.",
+        "alts": []
+      },
+      {
+        "slot": "gender",
+        "f": "gender",
+        "s": "On parle souvent de ___ grandeur de l'âme pour qualifier un acte héroïque.",
+        "a": "la",
+        "en": "We often speak of the greatness of the soul to describe a heroic act.",
+        "alts": []
+      },
+      {
+        "slot": "gender",
+        "f": "gender",
+        "s": "Il rêvait d'atteindre ___ grandeur que connaissent les grands artistes.",
+        "a": "la",
+        "en": "He dreamed of reaching the greatness known by great artists.",
+        "alts": []
+      }
+    ]
+  },
+  {
+    "id": 3070,
+    "qs": [
+      {
+        "slot": "s|0",
+        "f": "sense",
+        "s": "Les joueurs ont deux heures d'___ par jour avant le match.",
+        "a": "entraînement",
+        "en": "The players have two hours of training per day before the match.",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "s|0",
+        "f": "sense",
+        "s": "L'___ intensif de l'équipe nationale a porté ses fruits lors du championnat.",
+        "a": "entraînement",
+        "en": "The national team's intensive training paid off during the championship.",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "s|1",
+        "f": "sense",
+        "s": "Ces exercices de grammaire servent d'___ pour maîtriser les conjugaisons.",
+        "a": "entraînement",
+        "en": "These grammar exercises serve as practice to master conjugations.",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "s|1",
+        "f": "sense",
+        "s": "L'___ régulier à la prononciation aide les apprenants à progresser rapidement.",
+        "a": "entraînement",
+        "en": "Regular pronunciation practice helps learners to progress quickly.",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "s|2",
+        "f": "sense",
+        "s": "La roue dentée transmet l'___ au reste du mécanisme.",
+        "a": "entraînement",
+        "en": "The gear transmits the drive to the rest of the mechanism.",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "s|2",
+        "f": "sense",
+        "s": "Ce système d'___ par courroie permet de faire tourner la machine.",
+        "a": "entraînement",
+        "en": "This belt-drive system makes the machine turn.",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "gender",
+        "f": "gender",
+        "s": "Il a suivi ___ entraînement rigoureux pendant six mois.",
+        "a": "un",
+        "en": "He underwent rigorous training for six months.",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "gender",
+        "f": "gender",
+        "s": "___ entraînement de l'équipe se déroule tôt le matin.",
+        "a": "L'",
+        "en": "The team's training session takes place early in the morning.",
+        "alts": [],
+        "form": ""
+      }
+    ]
+  },
+  {
+    "id": 3071,
+    "qs": [
+      {
+        "slot": "t|Présent|0",
+        "f": "tense",
+        "s": "Le lait ___ quand on ne surveille pas la casserole.",
+        "a": "déborde",
+        "en": "The milk overflows when one doesn't watch the pot.",
+        "alts": [],
+        "form": "Présent"
+      },
+      {
+        "slot": "t|Présent|0",
+        "f": "tense",
+        "s": "Je ___ de travail en ce moment, je n'arrive pas à tout gérer.",
+        "a": "déborde",
+        "en": "I am overwhelmed with work right now, I can't manage everything.",
+        "alts": [],
+        "form": "Présent"
+      },
+      {
+        "slot": "t|Présent|1",
+        "f": "tense",
+        "s": "Tu ___ du cadre prévu avec tous ces détails supplémentaires.",
+        "a": "débordes",
+        "en": "You are going beyond the planned scope with all these extra details.",
+        "alts": [],
+        "form": "Présent"
+      },
+      {
+        "slot": "t|Présent|1",
+        "f": "tense",
+        "s": "Fais attention, tu ___ de la route avec ton vélo.",
+        "a": "débordes",
+        "en": "Be careful, you are going over the edge of the road with your bike.",
+        "alts": [],
+        "form": "Présent"
+      },
+      {
+        "slot": "t|Présent|2",
+        "f": "tense",
+        "s": "Nous ___ de travail cette semaine, l'équipe est épuisée.",
+        "a": "débordons",
+        "en": "We are overwhelmed with work this week, the team is exhausted.",
+        "alts": [],
+        "form": "Présent"
+      },
+      {
+        "slot": "t|Présent|2",
+        "f": "tense",
+        "s": "Avec tous ces colis, nous ___ largement du budget initial.",
+        "a": "débordons",
+        "en": "With all these packages, we are well over the initial budget.",
+        "alts": [],
+        "form": "Présent"
+      },
+      {
+        "slot": "t|Présent|3",
+        "f": "tense",
+        "s": "Vous ___ du sujet à chaque fois que vous prenez la parole.",
+        "a": "débordez",
+        "en": "You go off topic every time you speak.",
+        "alts": [],
+        "form": "Présent"
+      },
+      {
+        "slot": "t|Présent|3",
+        "f": "tense",
+        "s": "Est-ce que vous ___ de demandes en ce moment au service client ?",
+        "a": "débordez",
+        "en": "Are you overwhelmed with requests right now in customer service?",
+        "alts": [],
+        "form": "Présent"
+      },
+      {
+        "slot": "t|Présent|4",
+        "f": "tense",
+        "s": "Les rivières ___ après les fortes pluies de la semaine.",
+        "a": "débordent",
+        "en": "The rivers overflow after the heavy rains of the week.",
+        "alts": [],
+        "form": "Présent"
+      },
+      {
+        "slot": "t|Présent|4",
+        "f": "tense",
+        "s": "Les enfants ___ d'énergie chaque matin.",
+        "a": "débordent",
+        "en": "The children are bursting with energy every morning.",
+        "alts": [],
+        "form": "Présent"
+      },
+      {
+        "slot": "t|Passé composé|0",
+        "f": "tense",
+        "s": "Hier soir, j'___ de réunions et je n'ai pas pu dîner.",
+        "a": "ai débordé",
+        "en": "Yesterday evening, I was overwhelmed with meetings and couldn't have dinner.",
+        "alts": [],
+        "form": "Passé composé"
+      },
+      {
+        "slot": "t|Passé composé|0",
+        "f": "tense",
+        "s": "Ce matin, j'___ du cadre en disant quelque chose de trop personnel.",
+        "a": "ai débordé",
+        "en": "This morning, I went beyond the boundaries by saying something too personal.",
+        "alts": [],
+        "form": "Passé composé"
+      },
+      {
+        "slot": "t|Passé composé|1",
+        "f": "tense",
+        "s": "Tu ___ du sujet lors de ta présentation de lundi.",
+        "a": "as débordé",
+        "en": "You went off topic during your presentation on Monday.",
+        "alts": [],
+        "form": "Passé composé"
+      },
+      {
+        "slot": "t|Passé composé|1",
+        "f": "tense",
+        "s": "Il paraît que tu ___ de commandes la semaine dernière.",
+        "a": "as débordé",
+        "en": "It seems you were overwhelmed with orders last week.",
+        "alts": [],
+        "form": "Passé composé"
+      },
+      {
+        "slot": "t|Passé composé|2",
+        "f": "tense",
+        "s": "Le fleuve ___ après les pluies torrentielles d'avril.",
+        "a": "a débordé",
+        "en": "The river overflowed after the torrential rains in April.",
+        "alts": [],
+        "form": "Passé composé"
+      },
+      {
+        "slot": "t|Passé composé|2",
+        "f": "tense",
+        "s": "Mon patron ___ de travail ce trimestre et a dû déléguer.",
+        "a": "a débordé",
+        "en": "My boss was overwhelmed with work this quarter and had to delegate.",
+        "alts": [],
+        "form": "Passé composé"
+      },
+      {
+        "slot": "t|Passé composé|3",
+        "f": "tense",
+        "s": "Nous ___ de demandes lors du lancement du produit.",
+        "a": "avons débordé",
+        "en": "We were overwhelmed with requests during the product launch.",
+        "alts": [],
+        "form": "Passé composé"
+      },
+      {
+        "slot": "t|Passé composé|3",
+        "f": "tense",
+        "s": "Pendant les soldes, nous ___ du quota de ventes prévu.",
+        "a": "avons débordé",
+        "en": "During the sales, we exceeded the planned sales quota.",
+        "alts": [],
+        "form": "Passé composé"
+      },
+      {
+        "slot": "t|Passé composé|4",
+        "f": "tense",
+        "s": "Vous ___ du temps imparti lors de votre exposé.",
+        "a": "avez débordé",
+        "en": "You went over the allotted time during your presentation.",
+        "alts": [],
+        "form": "Passé composé"
+      },
+      {
+        "slot": "t|Passé composé|4",
+        "f": "tense",
+        "s": "L'année passée, vous ___ de travail pendant les fêtes.",
+        "a": "avez débordé",
+        "en": "Last year, you were overwhelmed with work during the holidays.",
+        "alts": [],
+        "form": "Passé composé"
+      },
+      {
+        "slot": "t|Passé composé|5",
+        "f": "tense",
+        "s": "Les égouts ___ après la tempête de la nuit dernière.",
+        "a": "ont débordé",
+        "en": "The sewers overflowed after last night's storm.",
+        "alts": [],
+        "form": "Passé composé"
+      },
+      {
+        "slot": "t|Passé composé|5",
+        "f": "tense",
+        "s": "Les bénévoles ___ de sollicitations lors de la catastrophe.",
+        "a": "ont débordé",
+        "en": "The volunteers were overwhelmed with requests during the disaster.",
+        "alts": [],
+        "form": "Passé composé"
+      },
+      {
+        "slot": "t|Imparfait|0",
+        "f": "tense",
+        "s": "Quand j'étais étudiant, je ___ de travail chaque fin de semestre.",
+        "a": "débordais",
+        "en": "When I was a student, I was overwhelmed with work at the end of every semester.",
+        "alts": [],
+        "form": "Imparfait"
+      },
+      {
+        "slot": "t|Imparfait|0",
+        "f": "tense",
+        "s": "À cette époque, tu ___ tellement de travail que tu ne dormais presque plus.",
+        "a": "débordais",
+        "en": "At that time, you were so overwhelmed with work that you barely slept.",
+        "alts": [],
+        "form": "Imparfait"
+      },
+      {
+        "slot": "t|Imparfait|1",
+        "f": "tense",
+        "s": "La rivière ___ chaque printemps quand la neige fondait.",
+        "a": "débordait",
+        "en": "The river overflowed every spring when the snow melted.",
+        "alts": [],
+        "form": "Imparfait"
+      },
+      {
+        "slot": "t|Imparfait|1",
+        "f": "tense",
+        "s": "Le professeur ___ souvent du programme et racontait des anecdotes passionnantes.",
+        "a": "débordait",
+        "en": "The teacher often went beyond the curriculum and told fascinating anecdotes.",
+        "alts": [],
+        "form": "Imparfait"
+      },
+      {
+        "slot": "t|Imparfait|2",
+        "f": "tense",
+        "s": "Nous ___ de commandes chaque été et avions du mal à livrer à temps.",
+        "a": "débordions",
+        "en": "We were overwhelmed with orders every summer and struggled to deliver on time.",
+        "alts": [],
+        "form": "Imparfait"
+      },
+      {
+        "slot": "t|Imparfait|2",
+        "f": "tense",
+        "s": "Pendant les travaux, nous ___ parfois du périmètre autorisé.",
+        "a": "débordions",
+        "en": "During the construction, we sometimes went beyond the authorized perimeter.",
+        "alts": [],
+        "form": "Imparfait"
+      },
+      {
+        "slot": "t|Imparfait|3",
+        "f": "tense",
+        "s": "Vous ___ toujours du cadre lors de vos réunions hebdomadaires.",
+        "a": "débordiez",
+        "en": "You always went off agenda during your weekly meetings.",
+        "alts": [],
+        "form": "Imparfait"
+      },
+      {
+        "slot": "t|Imparfait|3",
+        "f": "tense",
+        "s": "À l'époque, vous ___ de travail et refusiez toute aide.",
+        "a": "débordiez",
+        "en": "At the time, you were overwhelmed with work and refused any help.",
+        "alts": [],
+        "form": "Imparfait"
+      },
+      {
+        "slot": "t|Imparfait|4",
+        "f": "tense",
+        "s": "Les poubelles ___ chaque semaine dans ce quartier mal desservi.",
+        "a": "débordaient",
+        "en": "The bins overflowed every week in that poorly served neighborhood.",
+        "alts": [],
+        "form": "Imparfait"
+      },
+      {
+        "slot": "t|Imparfait|4",
+        "f": "tense",
+        "s": "Les soignants ___ de patients pendant la crise sanitaire.",
+        "a": "débordaient",
+        "en": "Healthcare workers were overwhelmed with patients during the health crisis.",
+        "alts": [],
+        "form": "Imparfait"
+      },
+      {
+        "slot": "t|Futur|0",
+        "f": "tense",
+        "s": "Si tu remplis trop le verre, je ___ à coup sûr.",
+        "a": "déborderai",
+        "en": "If you fill the glass too much, I will surely overflow.",
+        "alts": [],
+        "form": "Futur"
+      },
+      {
+        "slot": "t|Futur|0",
+        "f": "tense",
+        "s": "Avec toutes ces tâches supplémentaires, je ___ et ne pourrai pas tout finir.",
+        "a": "déborderai",
+        "en": "With all these extra tasks, I will be overwhelmed and won't be able to finish everything.",
+        "alts": [],
+        "form": "Futur"
+      },
+      {
+        "slot": "t|Futur|1",
+        "f": "tense",
+        "s": "Si tu continues à ajouter des tâches, tu ___ complètement.",
+        "a": "déborderas",
+        "en": "If you keep adding tasks, you will be completely overwhelmed.",
+        "alts": [],
+        "form": "Futur"
+      },
+      {
+        "slot": "t|Futur|1",
+        "f": "tense",
+        "s": "Avec tous ces rendez-vous supplémentaires, tu ___ et tu ne pourras pas tout assumer.",
+        "a": "déborderas",
+        "en": "With all these extra appointments, you will be overwhelmed and won't be able to manage everything.",
+        "alts": [],
+        "form": "Futur"
+      },
+      {
+        "slot": "t|Futur|2",
+        "f": "tense",
+        "s": "Le réservoir ___ si personne ne l'arrête à temps.",
+        "a": "débordera",
+        "en": "The reservoir will overflow if nobody stops it in time.",
+        "alts": [],
+        "form": "Futur"
+      },
+      {
+        "slot": "t|Futur|2",
+        "f": "tense",
+        "s": "L'équipe ___ de travail en décembre si on ne recrute pas.",
+        "a": "débordera",
+        "en": "The team will be overwhelmed with work in December if we don't hire.",
+        "alts": [],
+        "form": "Futur"
+      },
+      {
+        "slot": "t|Futur|3",
+        "f": "tense",
+        "s": "Nous ___ du budget si nous ne réduisons pas les dépenses.",
+        "a": "déborderons",
+        "en": "We will go over budget if we don't cut expenses.",
+        "alts": [],
+        "form": "Futur"
+      },
+      {
+        "slot": "t|Futur|3",
+        "f": "tense",
+        "s": "Lors de la saison des pluies, nous ___ certainement de travail.",
+        "a": "déborderons",
+        "en": "During the rainy season, we will certainly be overwhelmed with work.",
+        "alts": [],
+        "form": "Futur"
+      },
+      {
+        "slot": "t|Futur|4",
+        "f": "tense",
+        "s": "Vous ___ du temps alloué si vous ne vous préparez pas mieux.",
+        "a": "déborderez",
+        "en": "You will go over the allotted time if you don't prepare better.",
+        "alts": [],
+        "form": "Futur"
+      },
+      {
+        "slot": "t|Futur|4",
+        "f": "tense",
+        "s": "En acceptant ce contrat, vous ___ de demandes et devrez embaucher.",
+        "a": "déborderez",
+        "en": "By accepting this contract, you will be overwhelmed with requests and will need to hire.",
+        "alts": [],
+        "form": "Futur"
+      },
+      {
+        "slot": "t|Futur|5",
+        "f": "tense",
+        "s": "Les canalisations ___ si on ne les répare pas avant l'hiver.",
+        "a": "déborderont",
+        "en": "The pipes will overflow if they are not repaired before winter.",
+        "alts": [],
+        "form": "Futur"
+      },
+      {
+        "slot": "t|Futur|5",
+        "f": "tense",
+        "s": "Les hôpitaux ___ de patients si l'épidémie s'aggrave.",
+        "a": "déborderont",
+        "en": "The hospitals will be overwhelmed with patients if the epidemic worsens.",
+        "alts": [],
+        "form": "Futur"
+      },
+      {
+        "slot": "t|Conditionnel|0",
+        "f": "tense",
+        "s": "Si on me confiait davantage de projets, je ___ rapidement et ne pourrais rien mener à bien.",
+        "a": "déborderais",
+        "en": "If I were given more projects, I would quickly be overwhelmed and could not see anything through.",
+        "alts": [],
+        "form": "Conditionnel"
+      },
+      {
+        "slot": "t|Conditionnel|0",
+        "f": "tense",
+        "s": "Si j'acceptais tous ces projets, je ___ complètement de travail.",
+        "a": "déborderais",
+        "en": "If I accepted all these projects, I would be completely overwhelmed with work.",
+        "alts": [],
+        "form": "Conditionnel"
+      },
+      {
+        "slot": "t|Conditionnel|1",
+        "f": "tense",
+        "s": "Si le chef cuisait trop les pâtes, la casserole ___ d'eau.",
+        "a": "déborderait",
+        "en": "If the chef cooked the pasta too long, the pot would overflow with water.",
+        "alts": [],
+        "form": "Conditionnel"
+      },
+      {
+        "slot": "t|Conditionnel|1",
+        "f": "tense",
+        "s": "Si on lui confiait davantage de dossiers, elle ___ de travail.",
+        "a": "déborderait",
+        "en": "If she were given more files, she would be overwhelmed with work.",
+        "alts": [],
+        "form": "Conditionnel"
+      },
+      {
+        "slot": "t|Conditionnel|2",
+        "f": "tense",
+        "s": "Si nous prenions plus de clients, nous ___ de commandes.",
+        "a": "déborderions",
+        "en": "If we took on more clients, we would be overwhelmed with orders.",
+        "alts": [],
+        "form": "Conditionnel"
+      },
+      {
+        "slot": "t|Conditionnel|2",
+        "f": "tense",
+        "s": "Sans ce plan d'organisation, nous ___ facilement du cadre fixé.",
+        "a": "déborderions",
+        "en": "Without this organizational plan, we would easily go beyond the set framework.",
+        "alts": [],
+        "form": "Conditionnel"
+      },
+      {
+        "slot": "t|Conditionnel|3",
+        "f": "tense",
+        "s": "Si vous acceptiez tous ces projets, vous ___ de travail.",
+        "a": "déborderiez",
+        "en": "If you accepted all these projects, you would be overwhelmed with work.",
+        "alts": [],
+        "form": "Conditionnel"
+      },
+      {
+        "slot": "t|Conditionnel|3",
+        "f": "tense",
+        "s": "Sans mieux planifier, vous ___ du budget alloué.",
+        "a": "déborderiez",
+        "en": "Without better planning, you would go over the allocated budget.",
+        "alts": [],
+        "form": "Conditionnel"
+      },
+      {
+        "slot": "t|Conditionnel|4",
+        "f": "tense",
+        "s": "Si les pompiers n'intervenaient pas, les eaux ___ dans les rues.",
+        "a": "déborderaient",
+        "en": "If the firefighters didn't intervene, the waters would overflow into the streets.",
+        "alts": [],
+        "form": "Conditionnel"
+      },
+      {
+        "slot": "t|Conditionnel|4",
+        "f": "tense",
+        "s": "Sans nouvelles recrues, les équipes ___ de travail en permanence.",
+        "a": "déborderaient",
+        "en": "Without new recruits, the teams would be permanently overwhelmed with work.",
+        "alts": [],
+        "form": "Conditionnel"
+      },
+      {
+        "slot": "t|Subjonctif",
+        "f": "subj",
+        "s": "Il faut que tu ___ moins du cadre lors de tes réunions.",
+        "a": "débordes",
+        "en": "You need to go off topic less during your meetings.",
+        "alts": [],
+        "form": "Subjonctif présent"
+      },
+      {
+        "slot": "t|Subjonctif",
+        "f": "subj",
+        "s": "Je veux qu'elle ___ d'enthousiasme pour ce projet.",
+        "a": "déborde",
+        "en": "I want her to overflow with enthusiasm for this project.",
+        "alts": [],
+        "form": "Subjonctif présent"
+      },
+      {
+        "slot": "s|0",
+        "f": "sense",
+        "s": "Fais attention : si tu remplis trop la casserole, l'eau va ___ sur la plaque de cuisson.",
+        "a": "déborder",
+        "en": "Be careful: if you fill the pot too much, the water will overflow onto the stovetop.",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "s|0",
+        "f": "sense",
+        "s": "Après les fortes pluies, le lac a commencé à ___ et a inondé les champs voisins.",
+        "a": "déborder",
+        "en": "After the heavy rains, the lake began to overflow and flooded the neighboring fields.",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "s|1",
+        "f": "sense",
+        "s": "Cet orateur a tendance à ___ du sujet et à parler de tout sauf de l'essentiel.",
+        "a": "déborder",
+        "en": "This speaker tends to go beyond the topic and talk about everything except the essentials.",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "s|1",
+        "f": "sense",
+        "s": "La discussion a commencé à ___ du cadre prévu et a duré deux heures de plus.",
+        "a": "déborder",
+        "en": "The discussion began to go beyond the planned scope and lasted two more hours.",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "s|2",
+        "f": "sense",
+        "s": "Depuis l'ouverture du nouveau magasin, la gérante dit qu'elle commence à ___ de sollicitations.",
+        "a": "déborder",
+        "en": "Since the new store opened, the manager says she is starting to be overwhelmed with requests.",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "s|2",
+        "f": "sense",
+        "s": "Les médecins urgentistes peuvent ___ de patients lors d'une épidémie.",
+        "a": "déborder",
+        "en": "Emergency doctors can be overwhelmed with patients during an epidemic.",
+        "alts": [],
+        "form": ""
+      }
+    ]
+  }
+]

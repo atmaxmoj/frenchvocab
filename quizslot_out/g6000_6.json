@@ -1,0 +1,117 @@
+[
+  {
+    "id": 5019,
+    "qs": [
+      {
+        "slot": "s|0",
+        "f": "sense",
+        "s": "Nous avons laissé la voiture dans le ___ souterrain du centre commercial.",
+        "en": "We left the car in the shopping center's underground parking lot.",
+        "a": "parking",
+        "alts": []
+      },
+      {
+        "slot": "s|0",
+        "f": "sense",
+        "s": "Le ___ de l'aéroport est complet ce matin.",
+        "en": "The airport parking lot is full this morning.",
+        "a": "parking",
+        "alts": []
+      },
+      {
+        "slot": "gender",
+        "f": "gender",
+        "s": "Je cherche ___ parking pour garer ma voiture ce soir.",
+        "en": "I'm looking for a parking lot to park my car tonight.",
+        "a": "un",
+        "alts": []
+      },
+      {
+        "slot": "gender",
+        "f": "gender",
+        "s": "Elle a garé sa voiture dans ___ parking souterrain de l'immeuble.",
+        "en": "She parked her car in the building's underground parking lot.",
+        "a": "le",
+        "alts": []
+      }
+    ]
+  },
+  {
+    "id": 5020,
+    "qs": [
+      {
+        "slot": "s|0",
+        "f": "sense",
+        "s": "Le fermier a chargé son ___ de deux gros sacs de blé.",
+        "a": "âne",
+        "en": "The farmer loaded his donkey with two big sacks of wheat.",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "s|0",
+        "f": "sense",
+        "s": "Dans le pré, un ___ broutait tranquillement à côté des chevaux.",
+        "a": "âne",
+        "en": "In the meadow, a donkey was quietly grazing beside the horses.",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "gender",
+        "f": "gender",
+        "s": "___ âne est un animal très patient et robuste.",
+        "a": "l'",
+        "en": "The donkey is a very patient and sturdy animal.",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "gender",
+        "f": "gender",
+        "s": "Le berger a acheté ___ âne au marché ce matin.",
+        "a": "un",
+        "en": "The shepherd bought a donkey at the market this morning.",
+        "alts": [],
+        "form": ""
+      }
+    ]
+  },
+  {
+    "id": 5021,
+    "qs": [
+      {
+        "slot": "s|0",
+        "f": "sense",
+        "s": "Elle porte un ___ bleu avec un tee-shirt blanc.",
+        "en": "She's wearing blue jeans with a white t-shirt.",
+        "a": "jean",
+        "alts": []
+      },
+      {
+        "slot": "s|0",
+        "f": "sense",
+        "s": "Ce ___ est trop serré, je vais en acheter un autre.",
+        "en": "These jeans are too tight, I'm going to buy another pair.",
+        "a": "jean",
+        "alts": []
+      },
+      {
+        "slot": "gender",
+        "f": "gender",
+        "s": "Range ___ jean sur la chaise avant de partir.",
+        "en": "Put the jeans on the chair before leaving.",
+        "a": "le",
+        "alts": []
+      },
+      {
+        "slot": "gender",
+        "f": "gender",
+        "s": "Il porte toujours ___ jean troué le week-end.",
+        "en": "He always wears ripped jeans on weekends.",
+        "a": "un",
+        "alts": []
+      }
+    ]
+  }
+]

@@ -1,0 +1,35 @@
+[
+  {
+    "id": 5496,
+    "qs": [
+      {"slot": "s|0", "f": "sense", "s": "Cette année, le blé a été ___ grâce à une pluie régulière.", "a": "abondant", "en": "This year, the wheat was abundant thanks to regular rain.", "alts": []},
+      {"slot": "s|0", "f": "sense", "s": "Le gibier est ___ dans cette forêt en automne.", "a": "abondant", "en": "Game is abundant in this forest in autumn.", "alts": []},
+      {"slot": "g|mp", "f": "agree", "s": "Les documents fournis par l'avocat étaient très ___.", "a": "abondants", "en": "The documents provided by the lawyer were very abundant.", "alts": []},
+      {"slot": "g|mp", "f": "agree", "s": "Les gisements de charbon sont ___ dans cette région.", "a": "abondants", "en": "The coal deposits are abundant in this region.", "alts": []},
+      {"slot": "g|f", "f": "agree", "s": "La végétation devient très ___ après la saison des pluies.", "a": "abondante", "en": "The vegetation becomes very abundant after the rainy season.", "alts": []},
+      {"slot": "g|f", "f": "agree", "s": "Elle avait une chevelure ___ qui lui tombait sur les épaules.", "a": "abondante", "en": "She had abundant hair that fell to her shoulders.", "alts": []},
+      {"slot": "g|fp", "f": "agree", "s": "Les pluies ont été particulièrement ___ ce printemps.", "a": "abondantes", "en": "The rains were particularly abundant this spring.", "alts": []},
+      {"slot": "g|fp", "f": "agree", "s": "Les ressources naturelles de ce pays sont ___.", "a": "abondantes", "en": "This country's natural resources are abundant.", "alts": []}
+    ]
+  },
+  {
+    "id": 5497,
+    "qs": [
+      {"slot": "s|0", "f": "sense", "s": "Le jardinier a rempli le ___ d'eau pour arroser les fleurs.", "en": "The gardener filled the bucket with water to water the flowers.", "a": "seau", "alts": [], "form": ""},
+      {"slot": "s|0", "f": "sense", "s": "Elle a posé le ___ de peinture par terre avant de commencer les travaux.", "en": "She put the paint bucket on the ground before starting the work.", "a": "seau", "alts": [], "form": ""},
+      {"slot": "gender", "f": "gender", "s": "Il a acheté ___ seau neuf pour laver la voiture.", "en": "He bought a new bucket to wash the car.", "a": "un", "alts": [], "form": ""},
+      {"slot": "gender", "f": "gender", "s": "___ seau est plein d'eau froide dans la cour.", "en": "The bucket is full of cold water in the yard.", "a": "Le", "alts": [], "form": ""}
+    ]
+  },
+  {
+    "id": 5498,
+    "qs": [
+      {"slot": "s|0", "f": "sense", "s": "Ma ___ est très gentille avec mes parents.", "a": "belle-fille", "en": "My daughter-in-law is very kind to my parents.", "alts": []},
+      {"slot": "s|0", "f": "sense", "s": "Mon fils s'est marié l'année dernière, et sa femme est devenue ma ___.", "a": "belle-fille", "en": "My son got married last year, and his wife became my daughter-in-law.", "alts": []},
+      {"slot": "s|1", "f": "sense", "s": "Mon mari a une fille d'un premier mariage ; c'est ma ___.", "a": "belle-fille", "en": "My husband has a daughter from a first marriage; she is my stepdaughter.", "alts": []},
+      {"slot": "s|1", "f": "sense", "s": "Depuis que j'ai épousé son père, elle est ma ___.", "a": "belle-fille", "en": "Since I married her father, she has been my stepdaughter.", "alts": []},
+      {"slot": "gender", "f": "gender", "s": "___ belle-fille de Sophie habite à Lyon.", "a": "La", "en": "Sophie's daughter-in-law lives in Lyon.", "alts": []},
+      {"slot": "gender", "f": "gender", "s": "Elle a rencontré ___ belle-fille adorable à la fête de famille.", "a": "une", "en": "She met a lovely daughter-in-law at the family gathering.", "alts": []}
+    ]
+  }
+]

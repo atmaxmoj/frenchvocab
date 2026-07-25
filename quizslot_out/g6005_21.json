@@ -1,0 +1,33 @@
+[
+  {
+    "id": 5958,
+    "qs": [
+      {"slot":"s|0","f":"sense","s":"Le médecin a soigné l'___ de la plaie avant qu'elle ne s'aggrave.","en":"The doctor treated the wound's infection before it got worse.","a":"infection","alts":[]},
+      {"slot":"s|0","f":"sense","s":"Sans antibiotiques, cette ___ pourrait se propager rapidement dans tout le corps.","en":"Without antibiotics, this infection could spread quickly through the whole body.","a":"infection","alts":[]},
+      {"slot":"s|1","f":"sense","s":"Quelle ___ ! Ce fromage oublié dans le frigo sent vraiment trop fort.","en":"What a stench! This cheese forgotten in the fridge smells really too strong.","a":"infection","alts":[]},
+      {"slot":"s|1","f":"sense","s":"En ouvrant la poubelle, elle a senti une ___ épouvantable.","en":"Opening the trash can, she smelled an appalling stench.","a":"infection","alts":[]},
+      {"slot":"gender","f":"gender","s":"Il a attrapé ___ infection grave après son opération.","en":"He caught a serious infection after his surgery.","a":"une","alts":[]},
+      {"slot":"gender","f":"gender","s":"___ infection de la plaie a été soignée rapidement par le médecin.","en":"The wound infection was treated quickly by the doctor.","a":"L'","alts":[]}
+    ]
+  },
+  {
+    "id": 5959,
+    "qs": [
+      {"slot":"s|0","f":"sense","s":"Dans la culture américaine, l'___ est souvent perçu comme une valeur positive.","en":"In American culture, individualism is often seen as a positive value.","a":"individualisme","alts":[]},
+      {"slot":"s|0","f":"sense","s":"Son ___ excessif l'empêche de collaborer avec ses collègues.","en":"His excessive individualism prevents him from collaborating with his colleagues.","a":"individualisme","alts":[]},
+      {"slot":"gender","f":"gender","s":"___ individualisme radical caractérise ce mouvement artistique.","en":"A radical individualism characterizes this artistic movement.","a":"Un","alts":[]},
+      {"slot":"gender","f":"gender","s":"Le sociologue a décrit ___ individualisme grandissant dans la société moderne.","en":"The sociologist described a growing individualism in modern society.","a":"un","alts":[]}
+    ]
+  },
+  {
+    "id": 5960,
+    "qs": [
+      {"slot":"s|0","f":"sense","s":"Dans ce roman, le ___ doit affronter son passé pour trouver la paix.","en":"In this novel, the protagonist must confront his past to find peace.","a":"protagoniste","alts":[],"form":""},
+      {"slot":"s|0","f":"sense","s":"L'actrice principale interprète le ___ du film avec beaucoup d'émotion.","en":"The lead actress plays the protagonist of the film with great emotion.","a":"protagoniste","alts":[],"form":""},
+      {"slot":"s|1","f":"sense","s":"Les historiens ont interrogé les ___ de cette révolution pour mieux comprendre les événements.","en":"Historians questioned the key players of this revolution to better understand the events.","a":"protagonistes","alts":[],"form":""},
+      {"slot":"s|1","f":"sense","s":"Le journaliste a retrouvé un des ___ du scandale financier survenu il y a dix ans.","en":"The journalist tracked down one of the key players in the financial scandal that occurred ten years ago.","a":"protagonistes","alts":[],"form":""},
+      {"slot":"gender","f":"gender","s":"Dans cette histoire surgit soudain ___ protagoniste inattendu qui bouleverse tout.","en":"In this story, an unexpected protagonist suddenly emerges who upsets everything.","a":"un","alts":[],"form":""},
+      {"slot":"gender","f":"gender","s":"___ protagoniste du film a été salué par la critique pour son interprétation.","en":"The protagonist of the film was praised by critics for his performance.","a":"Le","alts":[],"form":""}
+    ]
+  }
+]

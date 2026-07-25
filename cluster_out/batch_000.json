@@ -1,0 +1,153 @@
+[
+  {
+    "id": "5",
+    "note": "être强调身份和状态（Je suis médecin我是医生），avoir强调拥有和关系（J'ai un livre我有一本书）；两者都可表达存在但角度不同。",
+    "members": [
+      { "fr": "avoir", "pos": "verb", "gloss": "有；拥有" },
+      { "fr": "être", "pos": "verb", "gloss": "是；存在" }
+    ]
+  },
+  {
+    "id": "8",
+    "note": "avoir强调临时持有或具体拥有（J'ai deux stylos），posséder强调长期所有权和权利（Il possède une maison）；对象和时间维度不同。",
+    "members": [
+      { "fr": "avoir", "pos": "verb", "gloss": "有；拥有" },
+      { "fr": "posséder", "pos": "verb", "gloss": "拥有；据有" }
+    ]
+  },
+  {
+    "id": "20",
+    "note": "devoir表义务或推测（Je dois partir），falloir表绝对必须（Il faut partir），pouvoir表能力或许可（Je peux partir）；三者组成义务、必要、能力的递进。",
+    "members": [
+      { "fr": "devoir", "pos": "verb", "gloss": "必须；应该" },
+      { "fr": "falloir", "pos": "verb", "gloss": "必须（非人称）" },
+      { "fr": "pouvoir", "pos": "verb", "gloss": "能；可以" }
+    ]
+  },
+  {
+    "id": "25",
+    "note": "faire最通用可替代任何动作（Il fait ses devoirs），agir强调主动有意识的行动（Agis maintenant），fabriquer强调生产制造（fabriquer une chaise）；用词精确度递进。",
+    "members": [
+      { "fr": "faire", "pos": "verb", "gloss": "做；制造" },
+      { "fr": "agir", "pos": "verb", "gloss": "行动；起作用" },
+      { "fr": "fabriquer", "pos": "verb", "gloss": "制造；生产" }
+    ]
+  },
+  {
+    "id": "27",
+    "note": "mettre最通用（穿衣、放东西都用），poser强调轻轻放置且可提问题（poser une question），placer强调精准安置和位置（placer les invités）；都涉及位置但姿态不同。",
+    "members": [
+      { "fr": "mettre", "pos": "verb", "gloss": "放置；穿着" },
+      { "fr": "poser", "pos": "verb", "gloss": "放置；提出" },
+      { "fr": "placer", "pos": "verb", "gloss": "放；安置" }
+    ]
+  },
+  {
+    "id": "37",
+    "note": "dire直接说出信息（Il me dit bonjour），parler强调谈话行为本身（Parler en public），raconter强调详细叙述故事（Raconter une histoire）；句法搭配也不同。",
+    "members": [
+      { "fr": "dire", "pos": "verb", "gloss": "说；讲" },
+      { "fr": "parler", "pos": "verb", "gloss": "说话；讲述" },
+      { "fr": "raconter", "pos": "verb", "gloss": "讲述；叙述" }
+    ]
+  },
+  {
+    "id": "39",
+    "note": "pouvoir表能力或许可（Je peux），devoir表义务或推测（Je dois），falloir表绝对必须（Il faut）；三者常在同一句对比表现不同义务度。",
+    "members": [
+      { "fr": "pouvoir", "pos": "verb", "gloss": "能；可以" },
+      { "fr": "devoir", "pos": "verb", "gloss": "必须；应该" },
+      { "fr": "falloir", "pos": "verb", "gloss": "必须（非人称）" }
+    ]
+  },
+  {
+    "id": "43",
+    "note": "prendre最通用（拿、乘坐、服药皆可），attraper强调速度快或运气成分（attraper un train），saisir强调紧紧抓住或突然理解（saisir l'occasion）；同一『拿』字需按场景细分。",
+    "members": [
+      { "fr": "prendre", "pos": "verb", "gloss": "拿；取" },
+      { "fr": "attraper", "pos": "verb", "gloss": "抓住；赶上" },
+      { "fr": "saisir", "pos": "verb", "gloss": "抓住；领会" }
+    ]
+  },
+  {
+    "id": "46",
+    "note": "donner最通用基础动词，offrir强调主动赠送或献殷勤（offrir un cadeau），attribuer强调分配权利或特性（attribuer un rôle）；以donner为中心的三层递进。",
+    "members": [
+      { "fr": "donner", "pos": "verb", "gloss": "给；给予" },
+      { "fr": "offrir", "pos": "verb", "gloss": "赠送；提供" },
+      { "fr": "attribuer", "pos": "verb", "gloss": "分配；赋予" }
+    ]
+  },
+  {
+    "id": "15",
+    "note": "ne是法文否定词基础，pas否定现在/具体动作（ne...pas），jamais否定一切/绝对（ne...jamais）；pas日常最频繁，jamais强调从未。",
+    "members": [
+      { "fr": "ne", "pos": "adv", "gloss": "不（否定词）" },
+      { "fr": "pas", "pos": "adv", "gloss": "不；没有" },
+      { "fr": "jamais", "pos": "adv", "gloss": "从不；曾不" }
+    ]
+  },
+  {
+    "id": "18",
+    "note": "pas和point都与ne配对实现否定，pas为日常口语用法（现代法语主流），point为书面或文言用法（较正式且有古典感）；point逐渐过时。",
+    "members": [
+      { "fr": "pas", "pos": "adv", "gloss": "不；没有" },
+      { "fr": "point", "pos": "adv", "gloss": "不；一点" }
+    ]
+  },
+  {
+    "id": "19",
+    "note": "plus表『不再』即肯定状态的结束（ne...plus），jamais表『从不』绝对否定（ne...jamais），encore表『仍然』即状态持续（encore ici）；三者时间向度互补。",
+    "members": [
+      { "fr": "plus", "pos": "adv", "gloss": "不再；更" },
+      { "fr": "jamais", "pos": "adv", "gloss": "从不" },
+      { "fr": "encore", "pos": "adv", "gloss": "还；仍然" }
+    ]
+  },
+  {
+    "id": "40",
+    "note": "avant表时间『之前』或空间『前面』（avant mercredi），devant强调当众/面对（devant tous），après表相反关系（après lui）；前后对立，位置时间清晰。",
+    "members": [
+      { "fr": "avant", "pos": "prep", "gloss": "之前；在……前面" },
+      { "fr": "devant", "pos": "prep", "gloss": "在……前面；面对" },
+      { "fr": "après", "pos": "prep", "gloss": "之后；后来" }
+    ]
+  },
+  {
+    "id": "48",
+    "note": "où为疑问副词询问地点，y为代词代替地点意义，ici和là为指示副词指明具体地点；où疑问，y代词，ici/là指示，功能逐层深化。",
+    "members": [
+      { "fr": "où", "pos": "adv", "gloss": "哪里；在哪里" },
+      { "fr": "y", "pos": "pron", "gloss": "在那里；代替地点" },
+      { "fr": "ici", "pos": "adv", "gloss": "这里" },
+      { "fr": "là", "pos": "adv", "gloss": "那里" }
+    ]
+  },
+  {
+    "id": "42",
+    "note": "même最通用可表相同或加强『甚至』（même nous），pareil为口语『一样』（c'est pareil），identique强调完全相同无差别（identique à...）；même灵活性最高。",
+    "members": [
+      { "fr": "même", "pos": "adj", "gloss": "相同的；甚至" },
+      { "fr": "pareil", "pos": "adj", "gloss": "相同的；一样的" },
+      { "fr": "identique", "pos": "adj", "gloss": "完全相同的" }
+    ]
+  },
+  {
+    "id": "44",
+    "note": "aussi『也』侧重添加新信息或同意，également『同样』侧重强调相等和并列，de même『同样地』强调方式复现；aussi最高频，其他词用于正式或强调语境。",
+    "members": [
+      { "fr": "aussi", "pos": "adv", "gloss": "也；同样" },
+      { "fr": "également", "pos": "adv", "gloss": "同样；也" },
+      { "fr": "de même", "pos": "expr", "gloss": "同样地" }
+    ]
+  },
+  {
+    "id": "49",
+    "note": "fois计数『几次』（trois fois），moment标时间点『某时刻』（en ce moment），occasion指特定场景『机遇』（une belle occasion）；三者都涉及时间但维度不同。",
+    "members": [
+      { "fr": "fois", "pos": "noun", "gloss": "次；回" },
+      { "fr": "moment", "pos": "noun", "gloss": "时刻；片刻" },
+      { "fr": "occasion", "pos": "noun", "gloss": "机会；场合" }
+    ]
+  }
+]

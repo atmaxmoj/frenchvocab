@@ -1,0 +1,665 @@
+[
+  {
+    "id": 2222,
+    "qs": [
+      {
+        "slot": "s|0",
+        "f": "sense",
+        "s": "Le ___ du jeune acteur a bouleversé toute la profession.",
+        "a": "suicide",
+        "en": "The young actor's suicide devastated the entire profession.",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "s|0",
+        "f": "sense",
+        "s": "Elle a tenté de commettre un ___ après une longue dépression.",
+        "a": "suicide",
+        "en": "She attempted to commit suicide after a long depression.",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "gender",
+        "f": "gender",
+        "s": "___ suicide est un sujet difficile à aborder en famille.",
+        "a": "Le",
+        "en": "Suicide is a difficult subject to broach within the family.",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "gender",
+        "f": "gender",
+        "s": "___ suicide assisté est légalisé dans certains pays.",
+        "a": "Le",
+        "en": "Assisted suicide is legalised in certain countries.",
+        "alts": [],
+        "form": ""
+      }
+    ]
+  },
+  {
+    "id": 2223,
+    "qs": [
+      {
+        "slot": "s|0",
+        "f": "sense",
+        "s": "Les enfants aiment jouer près de la ___ qui traverse le village.",
+        "a": "rivière",
+        "en": "The children love to play near the river that runs through the village.",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "s|0",
+        "f": "sense",
+        "s": "Nous avons traversé la ___ à gué pour rejoindre l'autre rive.",
+        "a": "rivière",
+        "en": "We crossed the river on foot to reach the other bank.",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "s|1",
+        "f": "sense",
+        "s": "Le paysage est magnifique le long de cette grande ___ qui coule entre les montagnes.",
+        "a": "rivière",
+        "en": "The scenery is magnificent along this great river flowing between the mountains.",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "s|1",
+        "f": "sense",
+        "s": "Les bateaux de pêche remontent la ___ jusqu'au port situé à l'intérieur des terres.",
+        "a": "rivière",
+        "en": "The fishing boats travel up the river to the inland port.",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "gender",
+        "f": "gender",
+        "s": "Il y a ___ rivière qui coule derrière notre maison.",
+        "a": "une",
+        "en": "There is a river flowing behind our house.",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "gender",
+        "f": "gender",
+        "s": "___ rivière est très calme en été.",
+        "a": "La",
+        "en": "The river is very calm in summer.",
+        "alts": [],
+        "form": ""
+      }
+    ]
+  },
+  {
+    "id": 2224,
+    "qs": [
+      {
+        "slot": "t|Présent|0",
+        "f": "tense",
+        "s": "Je t'___ que la réunion commence dans dix minutes.",
+        "a": "avertis",
+        "en": "I warn you that the meeting starts in ten minutes.",
+        "alts": [],
+        "form": "Présent"
+      },
+      {
+        "slot": "t|Présent|0",
+        "f": "tense",
+        "s": "Tu ___ tes amis dès que tu apprends la nouvelle.",
+        "a": "avertis",
+        "en": "You warn your friends as soon as you hear the news.",
+        "alts": [],
+        "form": "Présent"
+      },
+      {
+        "slot": "t|Présent|1",
+        "f": "tense",
+        "s": "Le professeur ___ les élèves avant chaque examen.",
+        "a": "avertit",
+        "en": "The teacher warns the students before each exam.",
+        "alts": [],
+        "form": "Présent"
+      },
+      {
+        "slot": "t|Présent|1",
+        "f": "tense",
+        "s": "Elle ___ son frère quand il y a un danger.",
+        "a": "avertit",
+        "en": "She warns her brother when there is danger.",
+        "alts": [],
+        "form": "Présent"
+      },
+      {
+        "slot": "t|Présent|2",
+        "f": "tense",
+        "s": "Nous ___ toujours nos clients en cas de retard.",
+        "a": "avertissons",
+        "en": "We always warn our clients in case of a delay.",
+        "alts": [],
+        "form": "Présent"
+      },
+      {
+        "slot": "t|Présent|2",
+        "f": "tense",
+        "s": "Nous ___ les voisins avant de faire des travaux.",
+        "a": "avertissons",
+        "en": "We warn the neighbours before doing renovations.",
+        "alts": [],
+        "form": "Présent"
+      },
+      {
+        "slot": "t|Présent|3",
+        "f": "tense",
+        "s": "Vous ___ la direction dès que le problème survient.",
+        "a": "avertissez",
+        "en": "You warn the management as soon as the problem arises.",
+        "alts": [],
+        "form": "Présent"
+      },
+      {
+        "slot": "t|Présent|3",
+        "f": "tense",
+        "s": "Pourquoi vous ___ si tardivement les autorités ?",
+        "a": "avertissez",
+        "en": "Why do you warn the authorities so late?",
+        "alts": [],
+        "form": "Présent"
+      },
+      {
+        "slot": "t|Présent|4",
+        "f": "tense",
+        "s": "Les pompiers ___ les habitants du quartier.",
+        "a": "avertissent",
+        "en": "The firefighters warn the residents of the neighbourhood.",
+        "alts": [],
+        "form": "Présent"
+      },
+      {
+        "slot": "t|Présent|4",
+        "f": "tense",
+        "s": "Elles ___ leurs collègues à chaque changement de planning.",
+        "a": "avertissent",
+        "en": "They warn their colleagues at each schedule change.",
+        "alts": [],
+        "form": "Présent"
+      },
+      {
+        "slot": "t|Passé composé|0",
+        "f": "tense",
+        "s": "J'___ mon responsable dès que j'ai vu l'erreur.",
+        "a": "ai averti",
+        "en": "I warned my manager as soon as I saw the error.",
+        "alts": [],
+        "form": "Passé composé"
+      },
+      {
+        "slot": "t|Passé composé|0",
+        "f": "tense",
+        "s": "Hier matin, j'___ la police de l'incident.",
+        "a": "ai averti",
+        "en": "Yesterday morning, I warned the police about the incident.",
+        "alts": [],
+        "form": "Passé composé"
+      },
+      {
+        "slot": "t|Passé composé|1",
+        "f": "tense",
+        "s": "Tu ___ ta sœur du danger à temps.",
+        "a": "as averti",
+        "en": "You warned your sister of the danger in time.",
+        "alts": [],
+        "form": "Passé composé"
+      },
+      {
+        "slot": "t|Passé composé|1",
+        "f": "tense",
+        "s": "Tu ___ tout le monde avant de partir en voyage.",
+        "a": "as averti",
+        "en": "You warned everyone before leaving on a trip.",
+        "alts": [],
+        "form": "Passé composé"
+      },
+      {
+        "slot": "t|Passé composé|2",
+        "f": "tense",
+        "s": "Le médecin ___ le patient des effets secondaires.",
+        "a": "a averti",
+        "en": "The doctor warned the patient of the side effects.",
+        "alts": [],
+        "form": "Passé composé"
+      },
+      {
+        "slot": "t|Passé composé|2",
+        "f": "tense",
+        "s": "Elle ___ ses parents avant de rentrer très tard.",
+        "a": "a averti",
+        "en": "She warned her parents before coming home very late.",
+        "alts": [],
+        "form": "Passé composé"
+      },
+      {
+        "slot": "t|Passé composé|3",
+        "f": "tense",
+        "s": "Nous ___ les participants du changement de salle.",
+        "a": "avons averti",
+        "en": "We warned the participants of the room change.",
+        "alts": [],
+        "form": "Passé composé"
+      },
+      {
+        "slot": "t|Passé composé|3",
+        "f": "tense",
+        "s": "Nous ___ les autorités dès la découverte du problème.",
+        "a": "avons averti",
+        "en": "We warned the authorities as soon as the problem was discovered.",
+        "alts": [],
+        "form": "Passé composé"
+      },
+      {
+        "slot": "t|Passé composé|4",
+        "f": "tense",
+        "s": "Vous ___ vos employés du licenciement la semaine dernière.",
+        "a": "avez averti",
+        "en": "You warned your employees of the layoff last week.",
+        "alts": [],
+        "form": "Passé composé"
+      },
+      {
+        "slot": "t|Passé composé|4",
+        "f": "tense",
+        "s": "Vous ___ la direction du problème technique hier.",
+        "a": "avez averti",
+        "en": "You warned management of the technical problem yesterday.",
+        "alts": [],
+        "form": "Passé composé"
+      },
+      {
+        "slot": "t|Passé composé|5",
+        "f": "tense",
+        "s": "Les ingénieurs ___ les responsables du risque d'inondation.",
+        "a": "ont averti",
+        "en": "The engineers warned the managers of the flood risk.",
+        "alts": [],
+        "form": "Passé composé"
+      },
+      {
+        "slot": "t|Passé composé|5",
+        "f": "tense",
+        "s": "Elles ___ leurs amis du retard du train ce matin.",
+        "a": "ont averti",
+        "en": "They warned their friends of the train delay this morning.",
+        "alts": [],
+        "form": "Passé composé"
+      },
+      {
+        "slot": "t|Imparfait|0",
+        "f": "tense",
+        "s": "Quand j'étais enfant, je t'___ toujours avant d'arriver.",
+        "a": "avertissais",
+        "en": "When I was a child, I always warned you before arriving.",
+        "alts": [],
+        "form": "Imparfait"
+      },
+      {
+        "slot": "t|Imparfait|0",
+        "f": "tense",
+        "s": "Tu ___ tes parents chaque fois que tu rentrais tard.",
+        "a": "avertissais",
+        "en": "You warned your parents every time you came home late.",
+        "alts": [],
+        "form": "Imparfait"
+      },
+      {
+        "slot": "t|Imparfait|1",
+        "f": "tense",
+        "s": "Le gardien ___ les locataires avant chaque coupure d'eau.",
+        "a": "avertissait",
+        "en": "The caretaker warned the tenants before each water cut.",
+        "alts": [],
+        "form": "Imparfait"
+      },
+      {
+        "slot": "t|Imparfait|1",
+        "f": "tense",
+        "s": "Elle ___ son équipe dès qu'un problème se présentait.",
+        "a": "avertissait",
+        "en": "She warned her team as soon as a problem arose.",
+        "alts": [],
+        "form": "Imparfait"
+      },
+      {
+        "slot": "t|Imparfait|2",
+        "f": "tense",
+        "s": "Nous ___ toujours nos clients en cas de changement de prix.",
+        "a": "avertissions",
+        "en": "We always warned our clients in case of a price change.",
+        "alts": [],
+        "form": "Imparfait"
+      },
+      {
+        "slot": "t|Imparfait|2",
+        "f": "tense",
+        "s": "Avant, nous ___ les parents par courrier postal.",
+        "a": "avertissions",
+        "en": "Before, we warned the parents by postal mail.",
+        "alts": [],
+        "form": "Imparfait"
+      },
+      {
+        "slot": "t|Imparfait|3",
+        "f": "tense",
+        "s": "Vous ___ toujours vos collègues à l'avance.",
+        "a": "avertissiez",
+        "en": "You always warned your colleagues in advance.",
+        "alts": [],
+        "form": "Imparfait"
+      },
+      {
+        "slot": "t|Imparfait|3",
+        "f": "tense",
+        "s": "Est-ce que vous ___ la direction à chaque incident ?",
+        "a": "avertissiez",
+        "en": "Did you use to warn management at each incident?",
+        "alts": [],
+        "form": "Imparfait"
+      },
+      {
+        "slot": "t|Imparfait|4",
+        "f": "tense",
+        "s": "Les professeurs ___ les parents avant les conseils de classe.",
+        "a": "avertissaient",
+        "en": "The teachers warned the parents before the class councils.",
+        "alts": [],
+        "form": "Imparfait"
+      },
+      {
+        "slot": "t|Imparfait|4",
+        "f": "tense",
+        "s": "Elles ___ leurs voisins chaque fois qu'il y avait du bruit.",
+        "a": "avertissaient",
+        "en": "They warned their neighbours every time there was noise.",
+        "alts": [],
+        "form": "Imparfait"
+      },
+      {
+        "slot": "t|Futur|0",
+        "f": "tense",
+        "s": "J'___ mon patron dès que j'aurai les résultats.",
+        "a": "avertirai",
+        "en": "I will warn my boss as soon as I have the results.",
+        "alts": [],
+        "form": "Futur"
+      },
+      {
+        "slot": "t|Futur|0",
+        "f": "tense",
+        "s": "Je t'___ si la situation change.",
+        "a": "avertirai",
+        "en": "I will warn you if the situation changes.",
+        "alts": [],
+        "form": "Futur"
+      },
+      {
+        "slot": "t|Futur|1",
+        "f": "tense",
+        "s": "Tu ___ tes parents avant de prendre cette décision.",
+        "a": "avertiras",
+        "en": "You will warn your parents before making that decision.",
+        "alts": [],
+        "form": "Futur"
+      },
+      {
+        "slot": "t|Futur|1",
+        "f": "tense",
+        "s": "Tu ___ le responsable si tu remarques quelque chose d'anormal.",
+        "a": "avertiras",
+        "en": "You will warn the manager if you notice anything abnormal.",
+        "alts": [],
+        "form": "Futur"
+      },
+      {
+        "slot": "t|Futur|2",
+        "f": "tense",
+        "s": "Le système ___ automatiquement l'utilisateur en cas d'erreur.",
+        "a": "avertira",
+        "en": "The system will automatically warn the user in case of an error.",
+        "alts": [],
+        "form": "Futur"
+      },
+      {
+        "slot": "t|Futur|2",
+        "f": "tense",
+        "s": "Elle ___ ses collègues dès demain matin.",
+        "a": "avertira",
+        "en": "She will warn her colleagues tomorrow morning.",
+        "alts": [],
+        "form": "Futur"
+      },
+      {
+        "slot": "t|Futur|3",
+        "f": "tense",
+        "s": "Nous ___ tous les membres du club avant la compétition.",
+        "a": "avertirons",
+        "en": "We will warn all the club members before the competition.",
+        "alts": [],
+        "form": "Futur"
+      },
+      {
+        "slot": "t|Futur|3",
+        "f": "tense",
+        "s": "Nous ___ les riverains des travaux prévus la semaine prochaine.",
+        "a": "avertirons",
+        "en": "We will warn the local residents of the planned works next week.",
+        "alts": [],
+        "form": "Futur"
+      },
+      {
+        "slot": "t|Futur|4",
+        "f": "tense",
+        "s": "Vous ___ l'équipe en cas de changement de programme.",
+        "a": "avertirez",
+        "en": "You will warn the team in case of a programme change.",
+        "alts": [],
+        "form": "Futur"
+      },
+      {
+        "slot": "t|Futur|4",
+        "f": "tense",
+        "s": "Vous ___ les élèves dès que la date sera confirmée.",
+        "a": "avertirez",
+        "en": "You will warn the students as soon as the date is confirmed.",
+        "alts": [],
+        "form": "Futur"
+      },
+      {
+        "slot": "t|Futur|5",
+        "f": "tense",
+        "s": "Les autorités ___ la population dès l'apparition du risque.",
+        "a": "avertiront",
+        "en": "The authorities will warn the population as soon as the risk appears.",
+        "alts": [],
+        "form": "Futur"
+      },
+      {
+        "slot": "t|Futur|5",
+        "f": "tense",
+        "s": "Elles ___ leurs parents avant d'arriver à la maison.",
+        "a": "avertiront",
+        "en": "They will warn their parents before arriving home.",
+        "alts": [],
+        "form": "Futur"
+      },
+      {
+        "slot": "t|Conditionnel|0",
+        "f": "tense",
+        "s": "Si je savais la vérité, je t'___ immédiatement.",
+        "a": "avertirais",
+        "en": "If I knew the truth, I would warn you immediately.",
+        "alts": [],
+        "form": "Conditionnel"
+      },
+      {
+        "slot": "t|Conditionnel|0",
+        "f": "tense",
+        "s": "Tu ___ les autorités si tu voyais un comportement suspect.",
+        "a": "avertirais",
+        "en": "You would warn the authorities if you saw suspicious behaviour.",
+        "alts": [],
+        "form": "Conditionnel"
+      },
+      {
+        "slot": "t|Conditionnel|1",
+        "f": "tense",
+        "s": "Mon patron ___ toute l'équipe s'il apprenait cette nouvelle.",
+        "a": "avertirait",
+        "en": "My boss would warn the whole team if he heard this news.",
+        "alts": [],
+        "form": "Conditionnel"
+      },
+      {
+        "slot": "t|Conditionnel|1",
+        "f": "tense",
+        "s": "Elle ___ ses amis si elle connaissait le danger.",
+        "a": "avertirait",
+        "en": "She would warn her friends if she knew the danger.",
+        "alts": [],
+        "form": "Conditionnel"
+      },
+      {
+        "slot": "t|Conditionnel|2",
+        "f": "tense",
+        "s": "Nous ___ les habitants si nous avions plus d'informations.",
+        "a": "avertirions",
+        "en": "We would warn the residents if we had more information.",
+        "alts": [],
+        "form": "Conditionnel"
+      },
+      {
+        "slot": "t|Conditionnel|2",
+        "f": "tense",
+        "s": "Nous ___ la police si nous remarquions quelque chose d'étrange.",
+        "a": "avertirions",
+        "en": "We would warn the police if we noticed something strange.",
+        "alts": [],
+        "form": "Conditionnel"
+      },
+      {
+        "slot": "t|Conditionnel|3",
+        "f": "tense",
+        "s": "Vous ___ vos clients si vous receviez une telle information.",
+        "a": "avertiriez",
+        "en": "You would warn your clients if you received such information.",
+        "alts": [],
+        "form": "Conditionnel"
+      },
+      {
+        "slot": "t|Conditionnel|3",
+        "f": "tense",
+        "s": "Est-ce que vous ___ votre équipe si vous étiez à ma place ?",
+        "a": "avertiriez",
+        "en": "Would you warn your team if you were in my position?",
+        "alts": [],
+        "form": "Conditionnel"
+      },
+      {
+        "slot": "t|Conditionnel|4",
+        "f": "tense",
+        "s": "Les médecins ___ leurs patients s'ils découvraient un tel risque.",
+        "a": "avertiraient",
+        "en": "The doctors would warn their patients if they discovered such a risk.",
+        "alts": [],
+        "form": "Conditionnel"
+      },
+      {
+        "slot": "t|Conditionnel|4",
+        "f": "tense",
+        "s": "Elles ___ leurs enfants si elles connaissaient ce danger.",
+        "a": "avertiraient",
+        "en": "They would warn their children if they knew this danger.",
+        "alts": [],
+        "form": "Conditionnel"
+      },
+      {
+        "slot": "t|Subjonctif",
+        "f": "subj",
+        "s": "Il faut que tu ___ ton professeur avant de manquer le cours.",
+        "a": "avertisses",
+        "en": "You must warn your teacher before missing the class.",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "t|Subjonctif",
+        "f": "subj",
+        "s": "Je veux qu'elle ___ ses parents de son retard.",
+        "a": "avertisse",
+        "en": "I want her to warn her parents about her delay.",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "s|0",
+        "f": "sense",
+        "s": "Le policier ___ le conducteur que la route est dangereuse.",
+        "a": "avertit",
+        "en": "The police officer warns the driver that the road is dangerous.",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "s|0",
+        "f": "sense",
+        "s": "Je t'___ : si tu continues, il y aura des conséquences graves.",
+        "a": "avertis",
+        "en": "I warn you: if you continue, there will be serious consequences.",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "s|1",
+        "f": "sense",
+        "s": "Elle ___ son mari de prendre son parapluie avant de sortir.",
+        "a": "avertit",
+        "en": "She reminds her husband to take his umbrella before going out.",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "s|1",
+        "f": "sense",
+        "s": "Je t'___ qu'il ne faut pas oublier le rendez-vous de demain.",
+        "a": "avertis",
+        "en": "I remind you not to forget tomorrow's appointment.",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "s|2",
+        "f": "sense",
+        "s": "Le chef ___ ses employés du changement d'horaire par e-mail.",
+        "a": "avertit",
+        "en": "The boss notifies his employees of the schedule change by email.",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "s|2",
+        "f": "sense",
+        "s": "La mairie ___ les habitants des travaux prévus dans la rue.",
+        "a": "avertit",
+        "en": "The town hall notifies the residents of the planned works in the street.",
+        "alts": [],
+        "form": ""
+      }
+    ]
+  }
+]

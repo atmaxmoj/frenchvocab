@@ -1,0 +1,761 @@
+[
+  {
+    "id": 2781,
+    "qs": [
+      {
+        "slot": "s|0",
+        "f": "sense",
+        "s": "L'ADN est la molécule ___ qui porte l'information génétique.",
+        "a": "biologique",
+        "en": "DNA is the biological molecule that carries genetic information.",
+        "alts": []
+      },
+      {
+        "slot": "s|0",
+        "f": "sense",
+        "s": "Les chercheurs étudient les processus ___ qui permettent la vie sur Terre.",
+        "a": "biologiques",
+        "en": "The researchers study the biological processes that enable life on Earth.",
+        "alts": []
+      },
+      {
+        "slot": "s|1",
+        "f": "sense",
+        "s": "Ce producteur cultive des légumes ___ sans pesticides ni engrais chimiques.",
+        "a": "biologiques",
+        "en": "This farmer grows organic vegetables without pesticides or chemical fertilizers.",
+        "alts": ["bio"]
+      },
+      {
+        "slot": "s|1",
+        "f": "sense",
+        "s": "Elle achète toujours du lait ___ certifié par un label officiel.",
+        "a": "biologique",
+        "en": "She always buys organic milk certified by an official label.",
+        "alts": ["bio"]
+      },
+      {
+        "slot": "s|2",
+        "f": "sense",
+        "s": "Ce shampooing est fabriqué à partir d'ingrédients ___ issus de plantes.",
+        "a": "biologiques",
+        "en": "This shampoo is made from natural ingredients derived from plants.",
+        "alts": ["naturels"]
+      },
+      {
+        "slot": "s|2",
+        "f": "sense",
+        "s": "Les consommateurs préfèrent les produits cosmétiques ___ qui respectent l'environnement.",
+        "a": "biologiques",
+        "en": "Consumers prefer natural cosmetic products that respect the environment.",
+        "alts": ["naturels"]
+      },
+      {
+        "slot": "g|mp",
+        "f": "agree",
+        "s": "Les cycles ___ de la nature se répètent chaque année.",
+        "a": "biologiques",
+        "en": "The biological cycles of nature repeat every year.",
+        "alts": []
+      },
+      {
+        "slot": "g|mp",
+        "f": "agree",
+        "s": "Les rythmes ___ du corps humain influencent notre sommeil.",
+        "a": "biologiques",
+        "en": "The biological rhythms of the human body influence our sleep.",
+        "alts": []
+      },
+      {
+        "slot": "g|f",
+        "f": "agree",
+        "s": "La diversité ___ de cette forêt tropicale est exceptionnelle.",
+        "a": "biologique",
+        "en": "The biological diversity of this tropical forest is exceptional.",
+        "alts": []
+      },
+      {
+        "slot": "g|f",
+        "f": "agree",
+        "s": "L'agriculture ___ interdit l'utilisation de produits chimiques de synthèse.",
+        "a": "biologique",
+        "en": "Organic farming prohibits the use of synthetic chemical products.",
+        "alts": []
+      },
+      {
+        "slot": "g|fp",
+        "f": "agree",
+        "s": "Les sciences ___ comprennent la botanique, la zoologie et la microbiologie.",
+        "a": "biologiques",
+        "en": "The biological sciences include botany, zoology, and microbiology.",
+        "alts": []
+      },
+      {
+        "slot": "g|fp",
+        "f": "agree",
+        "s": "Les données ___ collectées lors de l'expérience ont été analysées par l'équipe.",
+        "a": "biologiques",
+        "en": "The biological data collected during the experiment were analyzed by the team.",
+        "alts": []
+      }
+    ]
+  },
+  {
+    "id": 2782,
+    "qs": [
+      {
+        "slot": "s|0",
+        "f": "sense",
+        "s": "Elle a obtenu son diplôme dans un établissement ___ réputé.",
+        "a": "universitaire",
+        "en": "She obtained her degree from a reputable university institution.",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "s|0",
+        "f": "sense",
+        "s": "Mon frère vit en cité ___ depuis la rentrée.",
+        "a": "universitaire",
+        "en": "My brother has been living in university housing since the start of term.",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "s|1",
+        "f": "sense",
+        "s": "Ce chercheur a publié de nombreux articles dans des revues ___ de haut niveau.",
+        "a": "universitaire",
+        "en": "This researcher has published many articles in high-level academic journals.",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "s|1",
+        "f": "sense",
+        "s": "La carrière ___ de cette professeure est impressionnante.",
+        "a": "universitaire",
+        "en": "This professor's academic career is impressive.",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "g|mp",
+        "f": "agree",
+        "s": "Les échanges ___ entre les deux pays ont été très fructueux.",
+        "a": "universitaires",
+        "en": "The university exchanges between the two countries were very fruitful.",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "g|mp",
+        "f": "agree",
+        "s": "Tous les campus ___ de la région offrent des logements étudiants.",
+        "a": "universitaires",
+        "en": "All the university campuses in the region offer student accommodation.",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "g|f",
+        "f": "agree",
+        "s": "La bibliothèque ___ est ouverte jusqu'à vingt-deux heures.",
+        "a": "universitaire",
+        "en": "The university library is open until ten o'clock at night.",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "g|f",
+        "f": "agree",
+        "s": "La formation ___ dure trois ans minimum.",
+        "a": "universitaire",
+        "en": "The university programme lasts at least three years.",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "g|fp",
+        "f": "agree",
+        "s": "Les résidences ___ sont souvent situées près du campus.",
+        "a": "universitaires",
+        "en": "University residences are often located near the campus.",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "g|fp",
+        "f": "agree",
+        "s": "Ces réformes ___ ont profondément changé le système d'enseignement supérieur.",
+        "a": "universitaires",
+        "en": "These university reforms have profoundly changed the higher education system.",
+        "alts": [],
+        "form": ""
+      }
+    ]
+  },
+  {
+    "id": 2783,
+    "qs": [
+      {
+        "slot": "t|Présent|0",
+        "f": "tense",
+        "s": "Je m'___ du ballon avant que mon adversaire ne réagisse.",
+        "a": "empare",
+        "en": "I seize the ball before my opponent can react.",
+        "alts": [],
+        "form": "Présent"
+      },
+      {
+        "slot": "t|Présent|0",
+        "f": "tense",
+        "s": "Le chat s'___ de la souris en un éclair.",
+        "a": "empare",
+        "en": "The cat grabs the mouse in a flash.",
+        "alts": [],
+        "form": "Présent"
+      },
+      {
+        "slot": "t|Présent|1",
+        "f": "tense",
+        "s": "Tu t'___ toujours du dernier morceau de gâteau.",
+        "a": "empares",
+        "en": "You always grab the last piece of cake.",
+        "alts": [],
+        "form": "Présent"
+      },
+      {
+        "slot": "t|Présent|1",
+        "f": "tense",
+        "s": "Pourquoi t'___ -tu de mes affaires sans demander ?",
+        "a": "empares",
+        "en": "Why do you grab my things without asking?",
+        "alts": [],
+        "form": "Présent"
+      },
+      {
+        "slot": "t|Présent|2",
+        "f": "tense",
+        "s": "Nous nous ___ du dossier dès que le directeur part.",
+        "a": "emparons",
+        "en": "We seize the file as soon as the director leaves.",
+        "alts": [],
+        "form": "Présent"
+      },
+      {
+        "slot": "t|Présent|2",
+        "f": "tense",
+        "s": "Ensemble, nous nous ___ de chaque opportunité qui se présente.",
+        "a": "emparons",
+        "en": "Together, we seize every opportunity that comes our way.",
+        "alts": [],
+        "form": "Présent"
+      },
+      {
+        "slot": "t|Présent|3",
+        "f": "tense",
+        "s": "Vous vous ___ du pouvoir sans consulter personne.",
+        "a": "emparez",
+        "en": "You seize power without consulting anyone.",
+        "alts": [],
+        "form": "Présent"
+      },
+      {
+        "slot": "t|Présent|3",
+        "f": "tense",
+        "s": "À chaque réunion, vous vous ___ de la parole en premier.",
+        "a": "emparez",
+        "en": "At every meeting, you grab the floor first.",
+        "alts": [],
+        "form": "Présent"
+      },
+      {
+        "slot": "t|Présent|4",
+        "f": "tense",
+        "s": "Les soldats s'___ des positions ennemies à l'aube.",
+        "a": "emparent",
+        "en": "The soldiers seize enemy positions at dawn.",
+        "alts": [],
+        "form": "Présent"
+      },
+      {
+        "slot": "t|Présent|4",
+        "f": "tense",
+        "s": "Les enfants s'___ des jouets dès qu'ils arrivent.",
+        "a": "emparent",
+        "en": "The children grab the toys as soon as they arrive.",
+        "alts": [],
+        "form": "Présent"
+      },
+      {
+        "slot": "t|Passé composé|0",
+        "f": "tense",
+        "s": "Je me ___ du document avant qu'il ne disparaisse.",
+        "a": "suis emparé",
+        "en": "I grabbed the document before it disappeared.",
+        "alts": [],
+        "form": "Passé composé"
+      },
+      {
+        "slot": "t|Passé composé|0",
+        "f": "tense",
+        "s": "Hier soir, je me ___ de la télécommande avant mon frère.",
+        "a": "suis emparé",
+        "en": "Last night, I grabbed the remote before my brother.",
+        "alts": [],
+        "form": "Passé composé"
+      },
+      {
+        "slot": "t|Passé composé|1",
+        "f": "tense",
+        "s": "Tu t'___ de la situation avec beaucoup de calme.",
+        "a": "es emparé",
+        "en": "You took control of the situation very calmly.",
+        "alts": [],
+        "form": "Passé composé"
+      },
+      {
+        "slot": "t|Passé composé|1",
+        "f": "tense",
+        "s": "Tu t'___ de son sac par erreur à la sortie du cours.",
+        "a": "es emparé",
+        "en": "You grabbed his bag by mistake as you left class.",
+        "alts": [],
+        "form": "Passé composé"
+      },
+      {
+        "slot": "t|Passé composé|2",
+        "f": "tense",
+        "s": "Le général s'___ de la ville en moins d'une heure.",
+        "a": "est emparé",
+        "en": "The general seized the city in less than an hour.",
+        "alts": [],
+        "form": "Passé composé"
+      },
+      {
+        "slot": "t|Passé composé|2",
+        "f": "tense",
+        "s": "La panique s'___ des spectateurs quand les lumières se sont éteintes.",
+        "a": "est emparée",
+        "en": "Panic seized the spectators when the lights went out.",
+        "alts": [],
+        "form": "Passé composé"
+      },
+      {
+        "slot": "t|Passé composé|3",
+        "f": "tense",
+        "s": "Nous nous ___ des billets dès leur mise en vente.",
+        "a": "sommes emparés",
+        "en": "We grabbed the tickets as soon as they went on sale.",
+        "alts": [],
+        "form": "Passé composé"
+      },
+      {
+        "slot": "t|Passé composé|3",
+        "f": "tense",
+        "s": "Pendant la crise, nous nous ___ de toutes les provisions disponibles.",
+        "a": "sommes emparés",
+        "en": "During the crisis, we seized all the available supplies.",
+        "alts": [],
+        "form": "Passé composé"
+      },
+      {
+        "slot": "t|Passé composé|4",
+        "f": "tense",
+        "s": "Vous vous ___ du micro avant que le présentateur ne réagisse.",
+        "a": "êtes emparés",
+        "en": "You seized the microphone before the presenter could react.",
+        "alts": [],
+        "form": "Passé composé"
+      },
+      {
+        "slot": "t|Passé composé|4",
+        "f": "tense",
+        "s": "Vous vous ___ de cette information confidentielle d'une façon surprenante.",
+        "a": "êtes emparés",
+        "en": "You got hold of that confidential information in a surprising way.",
+        "alts": [],
+        "form": "Passé composé"
+      },
+      {
+        "slot": "t|Passé composé|5",
+        "f": "tense",
+        "s": "Les rebelles s'___ du palais présidentiel à la nuit tombée.",
+        "a": "sont emparés",
+        "en": "The rebels seized the presidential palace at nightfall.",
+        "alts": [],
+        "form": "Passé composé"
+      },
+      {
+        "slot": "t|Passé composé|5",
+        "f": "tense",
+        "s": "Les journalistes s'___ du scandale et l'ont diffusé partout.",
+        "a": "sont emparés",
+        "en": "The journalists seized on the scandal and spread it everywhere.",
+        "alts": [],
+        "form": "Passé composé"
+      },
+      {
+        "slot": "t|Imparfait|0",
+        "f": "tense",
+        "s": "Enfant, je m'___ de tous les jouets de ma sœur.",
+        "a": "emparais",
+        "en": "As a child, I used to grab all my sister's toys.",
+        "alts": [],
+        "form": "Imparfait"
+      },
+      {
+        "slot": "t|Imparfait|0",
+        "f": "tense",
+        "s": "Tu t'___ souvent de la parole sans lever la main.",
+        "a": "emparais",
+        "en": "You often grabbed the floor without raising your hand.",
+        "alts": [],
+        "form": "Imparfait"
+      },
+      {
+        "slot": "t|Imparfait|1",
+        "f": "tense",
+        "s": "Une grande anxiété s'___ de lui avant chaque examen.",
+        "a": "emparait",
+        "en": "A great anxiety used to take hold of him before every exam.",
+        "alts": [],
+        "form": "Imparfait"
+      },
+      {
+        "slot": "t|Imparfait|1",
+        "f": "tense",
+        "s": "Le tyran s'___ des terres des paysans sans leur accord.",
+        "a": "emparait",
+        "en": "The tyrant would seize the peasants' lands without their consent.",
+        "alts": [],
+        "form": "Imparfait"
+      },
+      {
+        "slot": "t|Imparfait|2",
+        "f": "tense",
+        "s": "Nous nous ___ de chaque nouvelle information pour avancer dans l'enquête.",
+        "a": "emparions",
+        "en": "We would seize every new piece of information to advance the investigation.",
+        "alts": [],
+        "form": "Imparfait"
+      },
+      {
+        "slot": "t|Imparfait|2",
+        "f": "tense",
+        "s": "À l'époque, nous nous ___ des ressources naturelles sans penser aux conséquences.",
+        "a": "emparions",
+        "en": "At the time, we seized natural resources without thinking of the consequences.",
+        "alts": [],
+        "form": "Imparfait"
+      },
+      {
+        "slot": "t|Imparfait|3",
+        "f": "tense",
+        "s": "Vous vous ___ de chaque sujet de discussion dès l'ouverture de la séance.",
+        "a": "empariez",
+        "en": "You would take over every discussion topic right at the start of the session.",
+        "alts": [],
+        "form": "Imparfait"
+      },
+      {
+        "slot": "t|Imparfait|3",
+        "f": "tense",
+        "s": "Avant la réforme, vous vous ___ des décisions sans consulter l'équipe.",
+        "a": "empariez",
+        "en": "Before the reform, you used to make decisions without consulting the team.",
+        "alts": [],
+        "form": "Imparfait"
+      },
+      {
+        "slot": "t|Imparfait|4",
+        "f": "tense",
+        "s": "Les troupes s'___ des villages un par un.",
+        "a": "emparaient",
+        "en": "The troops were seizing the villages one by one.",
+        "alts": [],
+        "form": "Imparfait"
+      },
+      {
+        "slot": "t|Imparfait|4",
+        "f": "tense",
+        "s": "La peur et le doute s'___ d'eux à chaque nouvelle rumeur.",
+        "a": "emparaient",
+        "en": "Fear and doubt would take hold of them with every new rumor.",
+        "alts": [],
+        "form": "Imparfait"
+      },
+      {
+        "slot": "t|Futur|0",
+        "f": "tense",
+        "s": "Je m'___ du pouvoir dès que l'occasion se présentera.",
+        "a": "emparerai",
+        "en": "I will seize power as soon as the opportunity arises.",
+        "alts": [],
+        "form": "Futur"
+      },
+      {
+        "slot": "t|Futur|0",
+        "f": "tense",
+        "s": "Demain matin, je m'___ de ce dossier en priorité.",
+        "a": "emparerai",
+        "en": "Tomorrow morning, I will take hold of this file as a priority.",
+        "alts": [],
+        "form": "Futur"
+      },
+      {
+        "slot": "t|Futur|1",
+        "f": "tense",
+        "s": "Tu t'___ de cette opportunité ou tu la laisseras passer ?",
+        "a": "empareras",
+        "en": "Will you seize this opportunity or let it slip by?",
+        "alts": [],
+        "form": "Futur"
+      },
+      {
+        "slot": "t|Futur|1",
+        "f": "tense",
+        "s": "Si tu arrives le premier, tu t'___ de la meilleure place.",
+        "a": "empareras",
+        "en": "If you arrive first, you will grab the best seat.",
+        "alts": [],
+        "form": "Futur"
+      },
+      {
+        "slot": "t|Futur|2",
+        "f": "tense",
+        "s": "Le nouveau directeur s'___ rapidement des rênes de l'entreprise.",
+        "a": "emparera",
+        "en": "The new director will quickly take the reins of the company.",
+        "alts": [],
+        "form": "Futur"
+      },
+      {
+        "slot": "t|Futur|2",
+        "f": "tense",
+        "s": "La curiosité s'___ de lui quand il verra cette découverte.",
+        "a": "emparera",
+        "en": "Curiosity will take hold of him when he sees this discovery.",
+        "alts": [],
+        "form": "Futur"
+      },
+      {
+        "slot": "t|Futur|3",
+        "f": "tense",
+        "s": "Nous nous ___ du terrain adverse en deuxième mi-temps.",
+        "a": "emparerons",
+        "en": "We will seize the opposing ground in the second half.",
+        "alts": [],
+        "form": "Futur"
+      },
+      {
+        "slot": "t|Futur|3",
+        "f": "tense",
+        "s": "Ensemble, nous nous ___ de cette chance unique pour tout changer.",
+        "a": "emparerons",
+        "en": "Together, we will seize this unique chance to change everything.",
+        "alts": [],
+        "form": "Futur"
+      },
+      {
+        "slot": "t|Futur|4",
+        "f": "tense",
+        "s": "Vous vous ___ du contrôle de la réunion dès le début.",
+        "a": "emparerez",
+        "en": "You will take control of the meeting right from the start.",
+        "alts": [],
+        "form": "Futur"
+      },
+      {
+        "slot": "t|Futur|4",
+        "f": "tense",
+        "s": "Quand vous serez prêts, vous vous ___ de ce projet ambitieux.",
+        "a": "emparerez",
+        "en": "When you are ready, you will take on this ambitious project.",
+        "alts": [],
+        "form": "Futur"
+      },
+      {
+        "slot": "t|Futur|5",
+        "f": "tense",
+        "s": "Les concurrents s'___ de chaque faille du marché pour progresser.",
+        "a": "empareront",
+        "en": "Competitors will seize every gap in the market to advance.",
+        "alts": [],
+        "form": "Futur"
+      },
+      {
+        "slot": "t|Futur|5",
+        "f": "tense",
+        "s": "Les médias s'___ de cette affaire dès demain matin.",
+        "a": "empareront",
+        "en": "The media will seize on this affair starting tomorrow morning.",
+        "alts": [],
+        "form": "Futur"
+      },
+      {
+        "slot": "t|Conditionnel|0",
+        "f": "tense",
+        "s": "Si tu hésitais, je m'___ de l'occasion à ta place.",
+        "a": "emparerais",
+        "en": "If you hesitated, I would seize the opportunity in your place.",
+        "alts": [],
+        "form": "Conditionnel"
+      },
+      {
+        "slot": "t|Conditionnel|0",
+        "f": "tense",
+        "s": "Tu t'___ de ce poste sans hésiter si on te le proposait.",
+        "a": "emparerais",
+        "en": "You would take that position without hesitation if it were offered to you.",
+        "alts": [],
+        "form": "Conditionnel"
+      },
+      {
+        "slot": "t|Conditionnel|1",
+        "f": "tense",
+        "s": "Si la situation l'exigeait, le roi s'___ des terres voisines.",
+        "a": "emparerait",
+        "en": "If the situation demanded it, the king would seize the neighboring lands.",
+        "alts": [],
+        "form": "Conditionnel"
+      },
+      {
+        "slot": "t|Conditionnel|1",
+        "f": "tense",
+        "s": "Une grande tristesse s'___ de lui s'il apprenait cette nouvelle.",
+        "a": "emparerait",
+        "en": "A great sadness would take hold of him if he heard this news.",
+        "alts": [],
+        "form": "Conditionnel"
+      },
+      {
+        "slot": "t|Conditionnel|2",
+        "f": "tense",
+        "s": "Si nous avions plus de ressources, nous nous ___ de ce marché.",
+        "a": "emparerions",
+        "en": "If we had more resources, we would seize this market.",
+        "alts": [],
+        "form": "Conditionnel"
+      },
+      {
+        "slot": "t|Conditionnel|2",
+        "f": "tense",
+        "s": "Nous nous ___ volontiers de cette propriété si le prix baissait.",
+        "a": "emparerions",
+        "en": "We would gladly take hold of this property if the price dropped.",
+        "alts": [],
+        "form": "Conditionnel"
+      },
+      {
+        "slot": "t|Conditionnel|3",
+        "f": "tense",
+        "s": "Si vous étiez à notre place, vous vous ___ immédiatement de ce dossier.",
+        "a": "empareriez",
+        "en": "If you were in our position, you would immediately take hold of this file.",
+        "alts": [],
+        "form": "Conditionnel"
+      },
+      {
+        "slot": "t|Conditionnel|3",
+        "f": "tense",
+        "s": "Vous vous ___ du leadership si on vous en donnait la chance.",
+        "a": "empareriez",
+        "en": "You would seize the leadership if you were given the chance.",
+        "alts": [],
+        "form": "Conditionnel"
+      },
+      {
+        "slot": "t|Conditionnel|4",
+        "f": "tense",
+        "s": "Si les concurrents découvraient la faille, ils s'___ du marché en peu de temps.",
+        "a": "empareraient",
+        "en": "If the competitors discovered the flaw, they would seize the market in no time.",
+        "alts": [],
+        "form": "Conditionnel"
+      },
+      {
+        "slot": "t|Conditionnel|4",
+        "f": "tense",
+        "s": "Sans la loi, ces entreprises s'___ de toutes les ressources naturelles.",
+        "a": "empareraient",
+        "en": "Without the law, these companies would seize all natural resources.",
+        "alts": [],
+        "form": "Conditionnel"
+      },
+      {
+        "slot": "t|Subjonctif",
+        "f": "subj",
+        "s": "Il faut que tu t'___ de cette chance avant qu'elle ne disparaisse.",
+        "a": "empares",
+        "en": "You must seize this chance before it disappears.",
+        "alts": [],
+        "form": "Subjonctif présent"
+      },
+      {
+        "slot": "t|Subjonctif",
+        "f": "subj",
+        "s": "Je doute que nous nous ___ du titre cette année.",
+        "a": "emparions",
+        "en": "I doubt that we will seize the title this year.",
+        "alts": [],
+        "form": "Subjonctif présent"
+      },
+      {
+        "slot": "s|0",
+        "f": "sense",
+        "s": "Le pirate a réussi à s'___ du trésor avant que les gardes n'arrivent.",
+        "a": "emparer",
+        "en": "The pirate managed to snatch the treasure before the guards arrived.",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "s|0",
+        "f": "sense",
+        "s": "Le voleur a tenté de s'___ du portefeuille d'un passant dans la rue.",
+        "a": "emparer",
+        "en": "The thief tried to snatch a passer-by's wallet in the street.",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "s|1",
+        "f": "sense",
+        "s": "Les troupes ennemies ont cherché à s'___ de la capitale pendant la nuit.",
+        "a": "emparer",
+        "en": "The enemy troops tried to seize the capital during the night.",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "s|1",
+        "f": "sense",
+        "s": "L'armée a mis trois jours à s'___ de la forteresse.",
+        "a": "emparer",
+        "en": "The army took three days to take over the fortress.",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "s|2",
+        "f": "sense",
+        "s": "Ce groupe industriel cherche à s'___ du secteur de l'énergie nationale.",
+        "a": "emparer",
+        "en": "This industrial group seeks to take control of the national energy sector.",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "s|2",
+        "f": "sense",
+        "s": "La panique s'est emparée de la foule quand l'incendie a éclaté — la peur avait réussi à s'___ de tous les esprits.",
+        "a": "emparer",
+        "en": "Panic had seized the crowd when the fire broke out — fear had managed to take control of every mind.",
+        "alts": [],
+        "form": ""
+      }
+    ]
+  }
+]

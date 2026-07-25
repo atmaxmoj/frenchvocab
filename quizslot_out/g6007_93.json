@@ -1,0 +1,43 @@
+[
+  {
+    "id": 6474,
+    "qs": [
+      {"slot":"s|0","f":"sense","s":"Ce patient souffre d'un trouble ___ plutôt que physique.","en":"This patient suffers from a mental disorder rather than a physical one.","a":"psychique","alts":[]},
+      {"slot":"s|0","f":"sense","s":"La fatigue qu'elle ressent peut être d'origine ___ ou physique.","en":"The fatigue she feels can be of psychological or physical origin.","a":"psychique","alts":[]},
+      {"slot":"g|mp","f":"agree","s":"Les troubles ___ sont parfois difficiles à diagnostiquer.","en":"Psychological disorders are sometimes difficult to diagnose.","a":"psychiques","alts":[]},
+      {"slot":"g|mp","f":"agree","s":"Les symptômes ___ ont disparu peu après le début du traitement.","en":"The psychological symptoms disappeared shortly after the treatment began.","a":"psychiques","alts":[]},
+      {"slot":"g|f","f":"agree","s":"Elle suit une thérapie pour soigner sa souffrance ___.","en":"She is undergoing therapy to treat her psychological suffering.","a":"psychique","alts":[]},
+      {"slot":"g|f","f":"agree","s":"La santé ___ est aussi importante que la santé physique.","en":"Mental health is just as important as physical health.","a":"psychique","alts":[]},
+      {"slot":"g|fp","f":"agree","s":"Les capacités ___ de cet enfant sont remarquables pour son âge.","en":"This child's psychological capacities are remarkable for his age.","a":"psychiques","alts":[]},
+      {"slot":"g|fp","f":"agree","s":"Depuis son divorce, elle traverse des épreuves ___ très difficiles.","en":"Since her divorce, she has been going through very difficult psychological ordeals.","a":"psychiques","alts":[]}
+    ]
+  },
+  {
+    "id": 6475,
+    "qs": [
+      {"slot":"s|0","f":"sense","s":"Le toit de la vieille maison a une ligne ___ qui descend vers la rue.","a":"oblique","en":"The old house's roof has a slanting line that runs down toward the street.","alts":[]},
+      {"slot":"s|0","f":"sense","s":"Le professeur a tracé une ligne ___ sur le tableau pour illustrer l'angle.","a":"oblique","en":"The teacher drew a diagonal line on the board to illustrate the angle.","alts":[]},
+      {"slot":"s|1","f":"sense","s":"Pour éviter le conflit, il a choisi une approche ___ plutôt que d'aborder le sujet directement.","a":"oblique","en":"To avoid conflict, he chose an indirect approach rather than addressing the subject directly.","alts":[]},
+      {"slot":"s|1","f":"sense","s":"Elle a pris un chemin ___ pour arriver à ses fins sans éveiller les soupçons.","a":"oblique","en":"She took a roundabout path to achieve her goals without arousing suspicion.","alts":[]},
+      {"slot":"s|2","f":"sense","s":"Son commentaire ___ sur mon travail m'a blessé plus qu'une critique directe.","a":"oblique","en":"His veiled remark about my work hurt me more than a direct criticism.","alts":[]},
+      {"slot":"s|2","f":"sense","s":"Dans son discours, le ministre a fait une allusion ___ à ses adversaires politiques.","a":"oblique","en":"In his speech, the minister made a veiled allusion to his political opponents.","alts":[]},
+      {"slot":"g|mp","f":"agree","s":"Les rayons du soleil couchant sont ___ à cette heure de la journée.","a":"obliques","en":"The rays of the setting sun are slanting at this time of day.","alts":[]},
+      {"slot":"g|mp","f":"agree","s":"Les regards ___ des passants trahissaient leur curiosité.","a":"obliques","en":"The passers-by's sidelong glances betrayed their curiosity.","alts":[]},
+      {"slot":"g|f","f":"agree","s":"La ligne ___ traverse le dessin en diagonale.","a":"oblique","en":"The diagonal line crosses the drawing diagonally.","alts":[]},
+      {"slot":"g|f","f":"agree","s":"Sa réponse ___ n'a pas vraiment clarifié la situation.","a":"oblique","en":"His evasive answer didn't really clarify the situation.","alts":[]},
+      {"slot":"g|fp","f":"agree","s":"Les lignes ___ du tableau créent une impression de mouvement.","a":"obliques","en":"The diagonal lines in the painting create an impression of movement.","alts":[]},
+      {"slot":"g|fp","f":"agree","s":"Ses remarques ___ agaçaient tout le monde pendant la réunion.","a":"obliques","en":"Her veiled remarks annoyed everyone during the meeting.","alts":[]}
+    ]
+  },
+  {
+    "id": 6476,
+    "qs": [
+      {"slot":"s|0","f":"sense","s":"Pour le Nouvel An, le petit garçon a reçu une ___ de ses grands-parents.","a":"étrenne","en":"For the New Year, the little boy received a New Year's gift from his grandparents.","alts":[],"form":""},
+      {"slot":"s|0","f":"sense","s":"Chaque année, à la nouvelle année, les enfants de la famille reçoivent leurs ___ des adultes.","a":"étrennes","en":"Every year, at New Year's, the children in the family receive their New Year's money gifts from the adults.","alts":[],"form":""},
+      {"slot":"s|1","f":"sense","s":"Chaque année, en décembre, nous donnons des ___ au facteur pour le remercier de son travail.","a":"étrennes","en":"Every year in December, we give the postman a year-end gratuity to thank him for his work.","alts":[],"form":""},
+      {"slot":"s|1","f":"sense","s":"Le gardien de l'immeuble reçoit ses ___ de la part de tous les locataires à la fin de l'année.","a":"étrennes","en":"The building's caretaker receives his year-end gratuities from all the tenants at the end of the year.","alts":[],"form":""},
+      {"slot":"gender","f":"gender","s":"Il a offert à sa nièce ___ traditionnelle étrenne du Nouvel An.","a":"la","en":"He gave his niece the traditional New Year gift.","alts":[],"form":""},
+      {"slot":"gender","f":"gender","s":"Sa tante lui a donné ___ jolie étrenne pour le Nouvel An.","a":"une","en":"Her aunt gave her a nice New Year's gift for New Year's.","alts":[],"form":""}
+    ]
+  }
+]

@@ -1,0 +1,43 @@
+[
+  {
+    "id": 2746,
+    "qs": [
+      {"slot":"s|0","f":"sense","s":"Le soir, toute la famille regarde la ___ ensemble.","en":"In the evening, the whole family watches TV together.","a":"télé","alts":[],"form":""},
+      {"slot":"s|0","f":"sense","s":"Il passe trop de temps devant la ___ et ne lit plus.","en":"He spends too much time in front of the TV and no longer reads.","a":"télé","alts":[],"form":""},
+      {"slot":"s|1","f":"sense","s":"Nous avons acheté une nouvelle ___ pour le salon.","en":"We bought a new TV set for the living room.","a":"télé","alts":[],"form":""},
+      {"slot":"s|1","f":"sense","s":"La ___ est tombée en panne, il faut la faire réparer.","en":"The TV set broke down; it needs to be repaired.","a":"télé","alts":[],"form":""},
+      {"slot":"gender","f":"gender","s":"Il a éteint ___ télé avant de se coucher.","en":"He turned off the TV before going to bed.","a":"la","alts":[],"form":""},
+      {"slot":"gender","f":"gender","s":"Mes parents ont offert ___ grande télé à mon frère pour son anniversaire.","en":"My parents gave my brother a big TV for his birthday.","a":"une","alts":[],"form":""}
+    ]
+  },
+  {
+    "id": 2747,
+    "qs": [
+      {"slot":"s|0","f":"sense","s":"Son comportement n'est pas ___ : il a menti à ses clients pour gagner plus d'argent.","en":"His behavior is not moral: he lied to his clients to earn more money.","a":"éthique","alts":[]},
+      {"slot":"s|0","f":"sense","s":"Il est important d'agir de façon ___ dans la vie professionnelle comme dans la vie personnelle.","en":"It is important to act in a moral way in both professional and personal life.","a":"éthique","alts":[]},
+      {"slot":"s|1","f":"sense","s":"Les médecins doivent respecter des principes ___ stricts lorsqu'ils traitent leurs patients.","en":"Doctors must follow strict ethical principles when treating their patients.","a":"éthiques","alts":[]},
+      {"slot":"s|1","f":"sense","s":"Ce comité a pour mission d'examiner les questions ___ liées aux nouvelles technologies.","en":"This committee's mission is to examine the ethical questions related to new technologies.","a":"éthiques","alts":[]},
+      {"slot":"s|2","f":"sense","s":"L'___ est la branche de la philosophie qui étudie les principes du bien et du mal.","en":"Ethics is the branch of philosophy that studies the principles of good and evil.","a":"éthique","alts":[]},
+      {"slot":"s|2","f":"sense","s":"Mon professeur nous a demandé de lire un texte fondamental de l'___ kantienne.","en":"My professor asked us to read a foundational text of Kantian ethics.","a":"éthique","alts":[]},
+      {"slot":"g|mp","f":"agree","s":"Ces choix sont considérés comme ___ par la majorité des philosophes.","en":"These choices are considered ethical by the majority of philosophers.","a":"éthiques","alts":[]},
+      {"slot":"g|mp","f":"agree","s":"Les débats ___ sur l'intelligence artificielle sont de plus en plus nombreux.","en":"Ethical debates on artificial intelligence are becoming more and more numerous.","a":"éthiques","alts":[]},
+      {"slot":"g|f","f":"agree","s":"Cette décision me semble tout à fait ___ au regard des règles professionnelles.","en":"This decision seems entirely ethical to me in light of professional rules.","a":"éthique","alts":[]},
+      {"slot":"g|f","f":"agree","s":"La conduite ___ d'une chercheuse implique de ne jamais falsifier ses résultats.","en":"The ethical conduct of a researcher implies never falsifying one's results.","a":"éthique","alts":[]},
+      {"slot":"g|fp","f":"agree","s":"Les pratiques ___ de cette entreprise ont été saluées par les associations de consommateurs.","en":"The ethical practices of this company were praised by consumer associations.","a":"éthiques","alts":[]},
+      {"slot":"g|fp","f":"agree","s":"Elle a pris des décisions ___ difficiles pour protéger la vie privée de ses utilisateurs.","en":"She made difficult ethical decisions to protect the privacy of her users.","a":"éthiques","alts":[]}
+    ]
+  },
+  {
+    "id": 2748,
+    "qs": [
+      {"slot":"s|0","f":"sense","s":"Avant les examens, Marie passe ses soirées à faire des ___ de mathématiques.","en":"Before the exams, Marie spends her evenings doing math review.","a":"révisions","alts":[],"form":""},
+      {"slot":"s|0","f":"sense","s":"Il lui reste une semaine de ___ avant le baccalauréat.","en":"He has one week of review left before the baccalaureate exam.","a":"révision","alts":[],"form":""},
+      {"slot":"s|1","f":"sense","s":"La ___ du contrat a nécessité plusieurs séances de négociation entre les deux parties.","en":"The revision of the contract required several rounds of negotiation between the two parties.","a":"révision","alts":[],"form":""},
+      {"slot":"s|1","f":"sense","s":"Le parlement a approuvé la ___ de la constitution après de longs débats.","en":"Parliament approved the revision of the constitution after lengthy debates.","a":"révision","alts":[],"form":""},
+      {"slot":"s|2","f":"sense","s":"Ma voiture est au garage pour sa ___ annuelle avant l'hiver.","en":"My car is at the garage for its annual overhaul before winter.","a":"révision","alts":[],"form":""},
+      {"slot":"s|2","f":"sense","s":"Le mécanicien a effectué la ___ complète du moteur en moins d'une journée.","en":"The mechanic carried out the complete overhaul of the engine in less than a day.","a":"révision","alts":[],"form":""},
+      {"slot":"gender","f":"gender","s":"C'est ___ révision indispensable avant l'examen de demain.","en":"It is an essential review before tomorrow's exam.","a":"une","alts":[],"form":""},
+      {"slot":"gender","f":"gender","s":"Tu as terminé ___ révision du chapitre trois ?","en":"Have you finished the review of chapter three?","a":"la","alts":[],"form":""}
+    ]
+  }
+]

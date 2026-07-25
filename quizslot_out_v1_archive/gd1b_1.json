@@ -1,0 +1,102 @@
+[
+  {
+    "id": 59,
+    "qs": [
+      {"slot":"s|0","f":"sense","s":"Il y a un ___ jardin derrière la maison.","a":"grand","en":"There is a big garden behind the house.","alts":[]},
+      {"slot":"s|0","f":"sense","s":"Elle a besoin d'une ___ table pour recevoir tous ses invités.","a":"grande","en":"She needs a big table to host all her guests.","alts":[]},
+      {"slot":"s|1","f":"sense","s":"Mon père est très ___ ; il mesure un mètre quatre-vingt-dix.","a":"grand","en":"My father is very tall; he is one metre ninety.","alts":[]},
+      {"slot":"s|1","f":"sense","s":"Cette ___ tour domine tout le quartier.","a":"grande","en":"This tall tower dominates the whole neighbourhood.","alts":[]},
+      {"slot":"s|2","f":"sense","s":"Napoléon est considéré comme un ___ homme de l'histoire de France.","a":"grand","en":"Napoleon is considered a great man in the history of France.","alts":[]},
+      {"slot":"s|2","f":"sense","s":"Marie Curie était une ___ scientifique qui a changé le monde.","a":"grande","en":"Marie Curie was a great scientist who changed the world.","alts":[]},
+      {"slot":"s|3","f":"sense","s":"C'est une ___ décision qui aura des conséquences durables.","a":"grande","en":"It is an important decision that will have lasting consequences.","alts":[]},
+      {"slot":"s|3","f":"sense","s":"Nous avons un ___ problème à résoudre avant demain.","a":"grand","en":"We have an important problem to solve before tomorrow.","alts":[]},
+      {"slot":"g|mp","f":"agree","s":"Les ___ arbres de ce parc attirent beaucoup de promeneurs.","a":"grands","en":"The big trees in this park attract many walkers.","alts":[]},
+      {"slot":"g|mp","f":"agree","s":"Ces deux ___ bâtiments ont été construits au XIXe siècle.","a":"grands","en":"These two big buildings were built in the nineteenth century.","alts":[]},
+      {"slot":"g|f","f":"agree","s":"La ___ ville accueille des millions de touristes chaque année.","a":"grande","en":"The big city welcomes millions of tourists every year.","alts":[]},
+      {"slot":"g|f","f":"agree","s":"C'est une ___ opportunité que tu ne dois pas manquer.","a":"grande","en":"It is a great opportunity that you must not miss.","alts":[]},
+      {"slot":"g|fp","f":"agree","s":"Les ___ villes de France sont reliées par le réseau TGV.","a":"grandes","en":"The big cities of France are connected by the TGV network.","alts":[]},
+      {"slot":"g|fp","f":"agree","s":"Nous avons visité plusieurs ___ cathédrales pendant notre voyage.","a":"grandes","en":"We visited several large cathedrals during our trip.","alts":[]}
+    ]
+  },
+  {
+    "id": 60,
+    "qs": [
+      {"slot":"s|0","f":"sense","s":"J'ai oublié ___ passeport à la maison.","a":"mon","en":"I forgot my passport at home.","alts":[]},
+      {"slot":"s|0","f":"sense","s":"___ frère habite à Paris depuis trois ans.","a":"Mon","en":"My brother has been living in Paris for three years.","alts":[]}
+    ]
+  },
+  {
+    "id": 61,
+    "qs": [
+      {"slot":"s|0","f":"sense","s":"Elle ___ regarde avec un sourire.","a":"me","en":"She looks at me with a smile.","alts":[]},
+      {"slot":"s|0","f":"sense","s":"Tu ___ connais depuis longtemps.","a":"me","en":"You have known me for a long time.","alts":[]},
+      {"slot":"s|1","f":"sense","s":"Il ___ donne un livre pour mon anniversaire.","a":"me","en":"He gives me a book for my birthday.","alts":[]},
+      {"slot":"s|1","f":"sense","s":"Elle ___ explique les règles du jeu.","a":"me","en":"She explains the rules of the game to me.","alts":[]},
+      {"slot":"s|2","f":"sense","s":"Je ___ lave les mains avant de manger.","a":"me","en":"I wash my hands before eating.","alts":[]},
+      {"slot":"s|2","f":"sense","s":"Je ___ lève tôt chaque matin.","a":"me","en":"I get myself up early every morning.","alts":[]}
+    ]
+  },
+  {
+    "id": 62,
+    "qs": [
+      {"slot":"s|0","f":"sense","s":"Elle travaille ___ que lui, mais ses résultats sont meilleurs.","a":"moins","en":"She works less than him, but her results are better.","alts":[]},
+      {"slot":"s|0","f":"sense","s":"Je mange ___ de viande depuis quelques mois pour prendre soin de ma santé.","a":"moins","en":"I eat less meat since a few months to take care of my health.","alts":[]},
+      {"slot":"s|1","f":"sense","s":"Tu devrais dépenser ___ d'argent si tu veux économiser.","a":"moins","en":"You should spend less money if you want to save.","alts":[]},
+      {"slot":"s|1","f":"sense","s":"Plus tu stresses, ___ tu seras efficace au travail.","a":"moins","en":"The more you stress, the less efficient you will be at work.","alts":[]},
+      {"slot":"s|2","f":"sense","s":"L'enfant a appris à reconnaître le signe ___ en cours de mathématiques.","a":"moins","en":"The child learned to recognize the minus sign in math class.","alts":[]},
+      {"slot":"s|2","f":"sense","s":"Sur le tableau, le professeur a écrit dix ___ quatre égale six.","a":"moins","en":"On the board, the teacher wrote ten minus four equals six.","alts":[]},
+      {"slot":"gender","f":"gender","s":"En arithmétique, ___ moins est un symbole que tout enfant reconnaît.","a":"le","en":"In arithmetic, the minus sign is a symbol every child recognizes.","alts":[]},
+      {"slot":"gender","f":"gender","s":"Ce ___ que tu vois sur la calculatrice indique une soustraction.","a":"moins","en":"This minus that you see on the calculator indicates a subtraction.","alts":[]}
+    ]
+  },
+  {
+    "id": 63,
+    "qs": [
+      {"slot":"s|0","f":"sense","s":"Il n'y a ___ problème avec ce contrat.","a":"aucun","en":"There is no problem with this contract.","alts":[]},
+      {"slot":"s|0","f":"sense","s":"Elle ne trouve ___ médicament efficace contre cette maladie.","a":"aucun","en":"She finds no effective medicine against this disease.","alts":[]},
+      {"slot":"s|1","f":"sense","s":"Parmi tous les candidats, ___ n'a réussi l'examen.","a":"aucun","en":"Among all the candidates, not one passed the exam.","alts":[]},
+      {"slot":"s|1","f":"sense","s":"J'ai cherché un taxi pendant une heure, mais ___ n'est passé.","a":"aucun","en":"I looked for a taxi for an hour, but not one came by.","alts":[]},
+      {"slot":"s|2","f":"sense","s":"Il n'a ___ doute sur la qualité de ce travail.","a":"aucun","en":"He has absolutely no doubt about the quality of this work.","alts":[]},
+      {"slot":"s|2","f":"sense","s":"Ces nouvelles règles n'ont ___ sens pour les employés.","a":"aucun","en":"These new rules make absolutely no sense to the employees.","alts":[]},
+      {"slot":"g|mp","f":"agree","s":"L'avocat n'a réclamé ___ honoraires pour cette affaire.","a":"aucuns","en":"The lawyer claimed no fees for this case.","alts":[]},
+      {"slot":"g|mp","f":"agree","s":"Ce nouveau forfait ne comprend ___ frais supplémentaires.","a":"aucuns","en":"This new plan includes no additional charges.","alts":[]},
+      {"slot":"g|f","f":"agree","s":"Il n'a ___ raison de se plaindre.","a":"aucune","en":"He has no reason to complain.","alts":[]},
+      {"slot":"g|f","f":"agree","s":"Elle n'a fait ___ erreur dans son devoir.","a":"aucune","en":"She made no mistake in her homework.","alts":[]},
+      {"slot":"g|fp","f":"agree","s":"Il n'a organisé ___ funérailles officielles pour la cérémonie.","a":"aucunes","en":"He arranged no official funeral ceremony.","alts":[]},
+      {"slot":"g|fp","f":"agree","s":"Les autorités n'ont pris ___ représailles contre les manifestants.","a":"aucunes","en":"The authorities took no reprisals against the demonstrators.","alts":[]}
+    ]
+  },
+  {
+    "id": 64,
+    "qs": [
+      {"slot":"s|0","f":"sense","s":"Marie a envoyé un message à Paul. Elle ___ a envoyé un message hier soir.","a":"lui","en":"Marie sent a message to Paul. She sent him a message last night.","alts":[]},
+      {"slot":"s|0","f":"sense","s":"Mon père est malade, alors je ___ téléphone tous les jours.","a":"lui","en":"My father is sick, so I call him every day.","alts":[]},
+      {"slot":"s|1","f":"sense","s":"Ma sœur aime les fleurs, donc je ___ ai offert un bouquet pour son anniversaire.","a":"lui","en":"My sister likes flowers, so I gave her a bouquet for her birthday.","alts":[]},
+      {"slot":"s|1","f":"sense","s":"La professeure a posé une question difficile à Élodie, mais personne ne ___ a répondu.","a":"lui","en":"The teacher asked Élodie a difficult question, but nobody answered her.","alts":[]},
+      {"slot":"s|2","f":"sense","s":"C'est ___ qui a pris la décision finale, pas son collègue.","a":"lui","en":"It was he who made the final decision, not his colleague.","alts":[]},
+      {"slot":"s|2","f":"sense","s":"Je ne fais pas confiance à Pierre ; moi, je ne travaillerais jamais avec ___.","a":"lui","en":"I don't trust Pierre; I would never work with him.","alts":[]}
+    ]
+  },
+  {
+    "id": 65,
+    "qs": [
+      {"slot":"s|0","f":"sense","s":"Je n'ai pas assez de ___ pour finir ce projet aujourd'hui.","a":"temps","en":"I don't have enough time to finish this project today.","alts":[]},
+      {"slot":"s|0","f":"sense","s":"Le ___ passe très vite quand on s'amuse.","a":"temps","en":"Time passes very quickly when you're having fun.","alts":[]},
+      {"slot":"s|1","f":"sense","s":"Quel ___ fait-il à Paris en décembre ?","a":"temps","en":"What is the weather like in Paris in December?","alts":[]},
+      {"slot":"s|1","f":"sense","s":"Le ___ est nuageux et il risque de pleuvoir cet après-midi.","a":"temps","en":"The weather is cloudy and it might rain this afternoon.","alts":[]},
+      {"slot":"s|2","f":"sense","s":"Le professeur explique que le passé composé est un ___ du passé en français.","a":"temps","en":"The teacher explains that the passé composé is a past tense in French.","alts":[]},
+      {"slot":"s|2","f":"sense","s":"Pour exprimer une action future, on peut utiliser le ___ futur simple.","a":"temps","en":"To express a future action, one can use the future simple tense.","alts":[]},
+      {"slot":"gender","f":"gender","s":"Nous n'avons pas ___ temps de nous arrêter maintenant.","a":"le","en":"We don't have the time to stop now.","alts":[]},
+      {"slot":"gender","f":"gender","s":"Il faut ___ temps pour apprendre une nouvelle langue.","a":"du","en":"It takes time to learn a new language.","alts":[]}
+    ]
+  },
+  {
+    "id": 66,
+    "qs": [
+      {"slot":"s|0","f":"sense","s":"Ce film est ___ impressionnant, je n'en reviens pas !","a":"très","en":"This film is extremely impressive, I can't get over it!","alts":[]},
+      {"slot":"s|0","f":"sense","s":"La tempête a été ___ violente cette nuit — les arbres ont été arrachés.","a":"très","en":"The storm was extremely violent last night — the trees were uprooted.","alts":[]},
+      {"slot":"s|1","f":"sense","s":"Il fait ___ beau aujourd'hui, on pourrait se promener.","a":"très","en":"It is very nice today, we could go for a walk.","alts":[]},
+      {"slot":"s|1","f":"sense","s":"Elle est ___ fatiguée après sa longue journée de travail.","a":"très","en":"She is very tired after her long day of work.","alts":[]}
+    ]
+  }
+]

@@ -1,0 +1,719 @@
+[
+  {
+    "id": 131,
+    "qs": [
+      {
+        "slot": "s|0",
+        "f": "sense",
+        "s": "C'est ___ qui ai préparé le repas ce soir.",
+        "en": "It's me who prepared the meal tonight.",
+        "a": "moi",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "s|0",
+        "f": "sense",
+        "s": "Tu viens avec ___ au cinéma ce soir ?",
+        "en": "Are you coming with me to the cinema tonight?",
+        "a": "moi",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "s|1",
+        "f": "sense",
+        "s": "Le psychanalyste explique que le ___ est le siège de la conscience.",
+        "en": "The psychoanalyst explains that the ego is the seat of consciousness.",
+        "a": "moi",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "s|1",
+        "f": "sense",
+        "s": "Il cherche à affirmer son ___ face aux contraintes sociales.",
+        "en": "He seeks to assert his self (ego) in the face of social constraints.",
+        "a": "moi",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "s|2",
+        "f": "sense",
+        "s": "Je dois compter sur ___ pour surmonter ces difficultés.",
+        "en": "I must count on myself to overcome these difficulties.",
+        "a": "moi",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "s|2",
+        "f": "sense",
+        "s": "Dans ce projet, je n'ai que ___ pour réussir.",
+        "en": "In this project, I have only myself to rely on to succeed.",
+        "a": "moi",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "gender",
+        "f": "gender",
+        "s": "En philosophie, ___ moi désigne la conscience individuelle.",
+        "en": "In philosophy, the self (le moi) refers to individual consciousness.",
+        "a": "le",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "gender",
+        "f": "gender",
+        "s": "Freud distingue ___ moi, le ça et le surmoi.",
+        "en": "Freud distinguishes the ego (le moi), the id, and the superego.",
+        "a": "le",
+        "alts": [],
+        "form": ""
+      }
+    ]
+  },
+  {
+    "id": 132,
+    "qs": [
+      {
+        "slot": "s|0",
+        "f": "sense",
+        "s": "Les médecins ont tout fait pour sauver sa ___.",
+        "en": "The doctors did everything to save his life.",
+        "a": "vie",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "s|0",
+        "f": "sense",
+        "s": "Une nouvelle vaccination peut protéger la ___ de millions de personnes.",
+        "en": "A new vaccine can protect the lives of millions of people.",
+        "a": "vie",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "s|1",
+        "f": "sense",
+        "s": "Le coût de la ___ a beaucoup augmenté ces dernières années.",
+        "en": "The cost of living has increased a lot in recent years.",
+        "a": "vie",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "s|1",
+        "f": "sense",
+        "s": "Il mène une ___ simple et tranquille à la campagne.",
+        "en": "He leads a simple and quiet life in the countryside.",
+        "a": "vie",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "s|2",
+        "f": "sense",
+        "s": "La ___ est courte, il faut profiter de chaque instant.",
+        "en": "Life is short, we must enjoy every moment.",
+        "a": "vie",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "s|2",
+        "f": "sense",
+        "s": "Il a consacré toute sa ___ à aider les autres.",
+        "en": "He devoted his whole life to helping others.",
+        "a": "vie",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "gender",
+        "f": "gender",
+        "s": "C'est ___ vie difficile mais enrichissante.",
+        "en": "It is a difficult but enriching life.",
+        "a": "une",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "gender",
+        "f": "gender",
+        "s": "___ vie quotidienne en ville peut être stressante.",
+        "en": "Daily life in the city can be stressful.",
+        "a": "La",
+        "alts": [],
+        "form": ""
+      }
+    ]
+  },
+  {
+    "id": 133,
+    "qs": [
+      {
+        "slot": "t|Présent|0",
+        "f": "tense",
+        "s": "Je ___ bien ce quartier, j'y habite depuis dix ans.",
+        "en": "I know this neighborhood well, I've lived here for ten years.",
+        "a": "connais",
+        "alts": [],
+        "form": "Présent"
+      },
+      {
+        "slot": "t|Présent|0",
+        "f": "tense",
+        "s": "Tu ___ déjà la réponse, alors pourquoi tu poses la question ?",
+        "en": "You already know the answer, so why are you asking?",
+        "a": "connais",
+        "alts": [],
+        "form": "Présent"
+      },
+      {
+        "slot": "t|Présent|1",
+        "f": "tense",
+        "s": "Mon père ___ tous les restaurants de cette ville.",
+        "en": "My father knows every restaurant in this city.",
+        "a": "connaît",
+        "alts": [],
+        "form": "Présent"
+      },
+      {
+        "slot": "t|Présent|1",
+        "f": "tense",
+        "s": "Elle ___ parfaitement les règles du jeu.",
+        "en": "She knows the rules of the game perfectly.",
+        "a": "connaît",
+        "alts": [],
+        "form": "Présent"
+      },
+      {
+        "slot": "t|Présent|2",
+        "f": "tense",
+        "s": "Nous ___ ce professeur depuis le lycée.",
+        "en": "We have known this teacher since high school.",
+        "a": "connaissons",
+        "alts": [],
+        "form": "Présent"
+      },
+      {
+        "slot": "t|Présent|2",
+        "f": "tense",
+        "s": "Nous ___ bien les difficultés de ce projet.",
+        "en": "We know the difficulties of this project well.",
+        "a": "connaissons",
+        "alts": [],
+        "form": "Présent"
+      },
+      {
+        "slot": "t|Présent|3",
+        "f": "tense",
+        "s": "Vous ___ sûrement quelqu'un qui pourrait nous aider ?",
+        "en": "You surely know someone who could help us?",
+        "a": "connaissez",
+        "alts": [],
+        "form": "Présent"
+      },
+      {
+        "slot": "t|Présent|3",
+        "f": "tense",
+        "s": "Est-ce que vous ___ la directrice de cet établissement ?",
+        "en": "Do you know the director of this institution?",
+        "a": "connaissez",
+        "alts": [],
+        "form": "Présent"
+      },
+      {
+        "slot": "t|Présent|4",
+        "f": "tense",
+        "s": "Mes collègues ___ très bien le système informatique.",
+        "en": "My colleagues know the computer system very well.",
+        "a": "connaissent",
+        "alts": [],
+        "form": "Présent"
+      },
+      {
+        "slot": "t|Présent|4",
+        "f": "tense",
+        "s": "Les habitants ___ chaque recoin de leur village.",
+        "en": "The residents know every corner of their village.",
+        "a": "connaissent",
+        "alts": [],
+        "form": "Présent"
+      },
+      {
+        "slot": "t|Passé composé|0",
+        "f": "tense",
+        "s": "J'___ cet auteur lors d'un salon du livre l'année dernière.",
+        "en": "I got to know this author at a book fair last year.",
+        "a": "ai connu",
+        "alts": [],
+        "form": "Passé composé"
+      },
+      {
+        "slot": "t|Passé composé|0",
+        "f": "tense",
+        "s": "J'___ des moments difficiles pendant cette période.",
+        "en": "I experienced difficult times during that period.",
+        "a": "ai connu",
+        "alts": [],
+        "form": "Passé composé"
+      },
+      {
+        "slot": "t|Passé composé|1",
+        "f": "tense",
+        "s": "Tu ___ cette ville avant qu'elle soit aussi modernisée ?",
+        "en": "Did you know this city before it was so modernized?",
+        "a": "as connu",
+        "alts": [],
+        "form": "Passé composé"
+      },
+      {
+        "slot": "t|Passé composé|1",
+        "f": "tense",
+        "s": "Tu ___ beaucoup de succès avec ton premier roman.",
+        "en": "You experienced a lot of success with your first novel.",
+        "a": "as connu",
+        "alts": [],
+        "form": "Passé composé"
+      },
+      {
+        "slot": "t|Passé composé|2",
+        "f": "tense",
+        "s": "Mon grand-père ___ la guerre et n'en parle jamais.",
+        "en": "My grandfather experienced the war and never talks about it.",
+        "a": "a connu",
+        "alts": [],
+        "form": "Passé composé"
+      },
+      {
+        "slot": "t|Passé composé|2",
+        "f": "tense",
+        "s": "Cette entreprise ___ une croissance exceptionnelle l'an dernier.",
+        "en": "This company experienced exceptional growth last year.",
+        "a": "a connu",
+        "alts": [],
+        "form": "Passé composé"
+      },
+      {
+        "slot": "t|Passé composé|3",
+        "f": "tense",
+        "s": "Nous ___ des hauts et des bas dans notre relation.",
+        "en": "We have experienced ups and downs in our relationship.",
+        "a": "avons connu",
+        "alts": [],
+        "form": "Passé composé"
+      },
+      {
+        "slot": "t|Passé composé|3",
+        "f": "tense",
+        "s": "Nous ___ cet homme bien avant qu'il devienne célèbre.",
+        "en": "We knew this man long before he became famous.",
+        "a": "avons connu",
+        "alts": [],
+        "form": "Passé composé"
+      },
+      {
+        "slot": "t|Passé composé|4",
+        "f": "tense",
+        "s": "Vous ___ la période la plus difficile de l'histoire de la société.",
+        "en": "You experienced the most difficult period in the company's history.",
+        "a": "avez connu",
+        "alts": [],
+        "form": "Passé composé"
+      },
+      {
+        "slot": "t|Passé composé|4",
+        "f": "tense",
+        "s": "Avez-vous ___ notre fondateur quand il travaillait ici ?",
+        "en": "Did you know our founder when he worked here?",
+        "a": "connu",
+        "alts": [],
+        "form": "Passé composé"
+      },
+      {
+        "slot": "t|Passé composé|5",
+        "f": "tense",
+        "s": "Les deux pays ___ une longue période de paix après le traité.",
+        "en": "The two countries experienced a long period of peace after the treaty.",
+        "a": "ont connu",
+        "alts": [],
+        "form": "Passé composé"
+      },
+      {
+        "slot": "t|Passé composé|5",
+        "f": "tense",
+        "s": "Elles ___ Pierre à l'université et sont restées amies.",
+        "en": "They met Pierre at university and remained friends.",
+        "a": "ont connu",
+        "alts": [],
+        "form": "Passé composé"
+      },
+      {
+        "slot": "t|Imparfait|0",
+        "f": "tense",
+        "s": "Quand j'étais enfant, je ___ tous mes voisins par leur prénom.",
+        "en": "When I was a child, I knew all my neighbors by their first name.",
+        "a": "connaissais",
+        "alts": [],
+        "form": "Imparfait"
+      },
+      {
+        "slot": "t|Imparfait|0",
+        "f": "tense",
+        "s": "Avant d'emménager ici, tu ne ___ personne dans ce quartier.",
+        "en": "Before moving here, you didn't know anyone in this neighborhood.",
+        "a": "connaissais",
+        "alts": [],
+        "form": "Imparfait"
+      },
+      {
+        "slot": "t|Imparfait|1",
+        "f": "tense",
+        "s": "Mon oncle ___ chaque sentier de la forêt dans sa jeunesse.",
+        "en": "My uncle knew every path in the forest in his youth.",
+        "a": "connaissait",
+        "alts": [],
+        "form": "Imparfait"
+      },
+      {
+        "slot": "t|Imparfait|1",
+        "f": "tense",
+        "s": "Elle ___ la région comme sa poche avant de déménager.",
+        "en": "She knew the region like the back of her hand before moving.",
+        "a": "connaissait",
+        "alts": [],
+        "form": "Imparfait"
+      },
+      {
+        "slot": "t|Imparfait|2",
+        "f": "tense",
+        "s": "Nous ___ peu de choses sur cette culture à l'époque.",
+        "en": "We knew little about that culture at the time.",
+        "a": "connaissions",
+        "alts": [],
+        "form": "Imparfait"
+      },
+      {
+        "slot": "t|Imparfait|2",
+        "f": "tense",
+        "s": "Nous ___ tous les clients du magasin quand c'était encore petit.",
+        "en": "We knew all the shop's customers when it was still small.",
+        "a": "connaissions",
+        "alts": [],
+        "form": "Imparfait"
+      },
+      {
+        "slot": "t|Imparfait|3",
+        "f": "tense",
+        "s": "Vous ___ ce logiciel mieux que n'importe qui dans l'équipe.",
+        "en": "You knew this software better than anyone on the team.",
+        "a": "connaissiez",
+        "alts": [],
+        "form": "Imparfait"
+      },
+      {
+        "slot": "t|Imparfait|3",
+        "f": "tense",
+        "s": "Est-ce que vous ___ déjà les règles quand vous avez commencé ?",
+        "en": "Did you already know the rules when you started?",
+        "a": "connaissiez",
+        "alts": [],
+        "form": "Imparfait"
+      },
+      {
+        "slot": "t|Imparfait|4",
+        "f": "tense",
+        "s": "Ils ___ toutes les chansons de cet artiste par cœur.",
+        "en": "They knew all of that artist's songs by heart.",
+        "a": "connaissaient",
+        "alts": [],
+        "form": "Imparfait"
+      },
+      {
+        "slot": "t|Imparfait|4",
+        "f": "tense",
+        "s": "Les anciens guides ___ chaque rocher de la montagne.",
+        "en": "The old guides knew every rock on the mountain.",
+        "a": "connaissaient",
+        "alts": [],
+        "form": "Imparfait"
+      },
+      {
+        "slot": "t|Futur|0",
+        "f": "tense",
+        "s": "L'année prochaine, je ___ enfin le résultat de mes efforts.",
+        "en": "Next year, I will finally know the result of my efforts.",
+        "a": "connaîtrai",
+        "alts": [],
+        "form": "Futur"
+      },
+      {
+        "slot": "t|Futur|0",
+        "f": "tense",
+        "s": "Après ce stage, je ___ mieux le fonctionnement de l'entreprise.",
+        "en": "After this internship, I will know the company's workings better.",
+        "a": "connaîtrai",
+        "alts": [],
+        "form": "Futur"
+      },
+      {
+        "slot": "t|Futur|1",
+        "f": "tense",
+        "s": "Tu ___ la réponse dès que tu auras lu ce document.",
+        "en": "You will know the answer as soon as you have read this document.",
+        "a": "connaîtras",
+        "alts": [],
+        "form": "Futur"
+      },
+      {
+        "slot": "t|Futur|1",
+        "f": "tense",
+        "s": "Tu ___ bientôt toutes les personnes de ton nouveau bureau.",
+        "en": "You will soon know everyone in your new office.",
+        "a": "connaîtras",
+        "alts": [],
+        "form": "Futur"
+      },
+      {
+        "slot": "t|Futur|2",
+        "f": "tense",
+        "s": "Ce pays ___ une période de prospérité dans les années à venir.",
+        "en": "This country will experience a period of prosperity in the coming years.",
+        "a": "connaîtra",
+        "alts": [],
+        "form": "Futur"
+      },
+      {
+        "slot": "t|Futur|2",
+        "f": "tense",
+        "s": "Elle ___ ses résultats d'examen demain matin.",
+        "en": "She will know her exam results tomorrow morning.",
+        "a": "connaîtra",
+        "alts": [],
+        "form": "Futur"
+      },
+      {
+        "slot": "t|Futur|3",
+        "f": "tense",
+        "s": "Nous ___ notre destin quand le jury rendra son verdict.",
+        "en": "We will know our fate when the jury delivers its verdict.",
+        "a": "connaîtrons",
+        "alts": [],
+        "form": "Futur"
+      },
+      {
+        "slot": "t|Futur|3",
+        "f": "tense",
+        "s": "Nous ___ mieux cette culture après notre voyage en Asie.",
+        "en": "We will know this culture better after our trip to Asia.",
+        "a": "connaîtrons",
+        "alts": [],
+        "form": "Futur"
+      },
+      {
+        "slot": "t|Futur|4",
+        "f": "tense",
+        "s": "Vous ___ la vérité sur cette affaire très bientôt.",
+        "en": "You will know the truth about this matter very soon.",
+        "a": "connaîtrez",
+        "alts": [],
+        "form": "Futur"
+      },
+      {
+        "slot": "t|Futur|4",
+        "f": "tense",
+        "s": "Après la formation, vous ___ parfaitement ce logiciel.",
+        "en": "After the training, you will know this software perfectly.",
+        "a": "connaîtrez",
+        "alts": [],
+        "form": "Futur"
+      },
+      {
+        "slot": "t|Futur|5",
+        "f": "tense",
+        "s": "Les étudiants ___ leurs notes la semaine prochaine.",
+        "en": "The students will know their grades next week.",
+        "a": "connaîtront",
+        "alts": [],
+        "form": "Futur"
+      },
+      {
+        "slot": "t|Futur|5",
+        "f": "tense",
+        "s": "Ces chercheurs ___ bientôt les résultats de leurs expériences.",
+        "en": "These researchers will soon know the results of their experiments.",
+        "a": "connaîtront",
+        "alts": [],
+        "form": "Futur"
+      },
+      {
+        "slot": "t|Conditionnel|0",
+        "f": "tense",
+        "s": "Si j'avais voyagé davantage, je ___ mieux le monde.",
+        "en": "If I had traveled more, I would know the world better.",
+        "a": "connaîtrais",
+        "alts": [],
+        "form": "Conditionnel"
+      },
+      {
+        "slot": "t|Conditionnel|0",
+        "f": "tense",
+        "s": "Tu ___ la réponse si tu avais assisté à la réunion.",
+        "en": "You would know the answer if you had attended the meeting.",
+        "a": "connaîtrais",
+        "alts": [],
+        "form": "Conditionnel"
+      },
+      {
+        "slot": "t|Conditionnel|1",
+        "f": "tense",
+        "s": "Mon frère ___ mieux Paris s'il y avait vécu quelques années.",
+        "en": "My brother would know Paris better if he had lived there for a few years.",
+        "a": "connaîtrait",
+        "alts": [],
+        "form": "Conditionnel"
+      },
+      {
+        "slot": "t|Conditionnel|1",
+        "f": "tense",
+        "s": "Elle ___ la vérité si quelqu'un lui avait dit ce qui s'était passé.",
+        "en": "She would know the truth if someone had told her what happened.",
+        "a": "connaîtrait",
+        "alts": [],
+        "form": "Conditionnel"
+      },
+      {
+        "slot": "t|Conditionnel|2",
+        "f": "tense",
+        "s": "Nous ___ mieux nos limites si nous avions fait plus de sport.",
+        "en": "We would know our limits better if we had done more sport.",
+        "a": "connaîtrions",
+        "alts": [],
+        "form": "Conditionnel"
+      },
+      {
+        "slot": "t|Conditionnel|2",
+        "f": "tense",
+        "s": "Nous ___ ce domaine plus en profondeur si nous avions suivi cette formation.",
+        "en": "We would know this field more deeply if we had taken this training.",
+        "a": "connaîtrions",
+        "alts": [],
+        "form": "Conditionnel"
+      },
+      {
+        "slot": "t|Conditionnel|3",
+        "f": "tense",
+        "s": "Vous ___ mieux les candidats si vous les aviez interviewés vous-mêmes.",
+        "en": "You would know the candidates better if you had interviewed them yourselves.",
+        "a": "connaîtriez",
+        "alts": [],
+        "form": "Conditionnel"
+      },
+      {
+        "slot": "t|Conditionnel|3",
+        "f": "tense",
+        "s": "Vous ___ la réponse si vous aviez lu le rapport.",
+        "en": "You would know the answer if you had read the report.",
+        "a": "connaîtriez",
+        "alts": [],
+        "form": "Conditionnel"
+      },
+      {
+        "slot": "t|Conditionnel|4",
+        "f": "tense",
+        "s": "Les joueurs ___ les règles s'ils avaient lu le manuel.",
+        "en": "The players would know the rules if they had read the manual.",
+        "a": "connaîtraient",
+        "alts": [],
+        "form": "Conditionnel"
+      },
+      {
+        "slot": "t|Conditionnel|4",
+        "f": "tense",
+        "s": "Elles ___ mieux la situation si elles avaient été présentes.",
+        "en": "They would know the situation better if they had been present.",
+        "a": "connaîtraient",
+        "alts": [],
+        "form": "Conditionnel"
+      },
+      {
+        "slot": "t|Subjonctif",
+        "f": "subj",
+        "s": "Il faut que tu ___ les règles avant de commencer.",
+        "en": "It is necessary that you know the rules before starting.",
+        "a": "connaisses",
+        "alts": [],
+        "form": "Subjonctif"
+      },
+      {
+        "slot": "t|Subjonctif",
+        "f": "subj",
+        "s": "Je souhaite que vous ___ notre équipe avant la réunion.",
+        "en": "I wish that you know our team before the meeting.",
+        "a": "connaissiez",
+        "alts": [],
+        "form": "Subjonctif"
+      },
+      {
+        "slot": "s|0",
+        "f": "sense",
+        "s": "Je ___ Marie depuis notre enfance, nous sommes dans la même école.",
+        "en": "I know Marie since our childhood, we go to the same school.",
+        "a": "connais",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "s|0",
+        "f": "sense",
+        "s": "Il a ___ son futur associé lors d'une conférence professionnelle.",
+        "en": "He met his future business partner at a professional conference.",
+        "a": "connu",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "s|1",
+        "f": "sense",
+        "s": "Elle ___ très bien le droit du travail, elle a fait ses études dans ce domaine.",
+        "en": "She knows labor law very well, she studied in this field.",
+        "a": "connaît",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "s|1",
+        "f": "sense",
+        "s": "Pour ce poste, il est important de ___ les besoins des clients.",
+        "en": "For this position, it is important to understand the needs of clients.",
+        "a": "connaître",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "s|2",
+        "f": "sense",
+        "s": "Est-ce que tu ___ l'heure du prochain train pour Lyon ?",
+        "en": "Do you know the time of the next train to Lyon?",
+        "a": "connais",
+        "alts": ["sais"],
+        "form": ""
+      },
+      {
+        "slot": "s|2",
+        "f": "sense",
+        "s": "Nous ne ___ pas encore la date exacte de la cérémonie.",
+        "en": "We do not know yet the exact date of the ceremony.",
+        "a": "connaissons",
+        "alts": ["savons"],
+        "form": ""
+      }
+    ]
+  }
+]

@@ -1,0 +1,693 @@
+[
+  {
+    "id": 3998,
+    "qs": [
+      {
+        "slot": "s|0",
+        "f": "sense",
+        "s": "Après l'accident de voiture, il a demandé une ___ à son assurance.",
+        "a": "indemnisation",
+        "en": "After the car accident, he requested compensation from his insurance.",
+        "alts": []
+      },
+      {
+        "slot": "s|0",
+        "f": "sense",
+        "s": "La victime a obtenu une ___ pour les préjudices subis lors du sinistre.",
+        "a": "indemnisation",
+        "en": "The victim obtained compensation for the damages suffered in the incident.",
+        "alts": []
+      },
+      {
+        "slot": "s|1",
+        "f": "sense",
+        "s": "Les salariés licenciés ont reçu une ___ pour la perte de leur emploi.",
+        "a": "indemnisation",
+        "en": "The laid-off employees received compensation for the loss of their jobs.",
+        "alts": []
+      },
+      {
+        "slot": "s|1",
+        "f": "sense",
+        "s": "Le gouvernement a mis en place un système d'___ pour les agriculteurs touchés par la sécheresse.",
+        "a": "indemnisation",
+        "en": "The government set up a compensation system for farmers affected by the drought.",
+        "alts": []
+      },
+      {
+        "slot": "s|2",
+        "f": "sense",
+        "s": "Le tribunal a ordonné l'___ des clients lésés par la fraude bancaire.",
+        "a": "indemnisation",
+        "en": "The court ordered the indemnification of customers harmed by the banking fraud.",
+        "alts": []
+      },
+      {
+        "slot": "s|2",
+        "f": "sense",
+        "s": "Son assurance habitation couvre l'___ des dommages causés par l'inondation.",
+        "a": "indemnisation",
+        "en": "His home insurance covers the indemnification of damages caused by the flood.",
+        "alts": []
+      },
+      {
+        "slot": "gender",
+        "f": "gender",
+        "s": "Elle a finalement touché ___ indemnisation après six mois de procédure.",
+        "a": "une",
+        "en": "She finally received a compensation payment after six months of proceedings.",
+        "alts": []
+      },
+      {
+        "slot": "gender",
+        "f": "gender",
+        "s": "Il faut présenter ___ demande d'indemnisation dans les trente jours.",
+        "a": "une",
+        "en": "A compensation claim must be submitted within thirty days.",
+        "alts": []
+      }
+    ]
+  },
+  {
+    "id": 3999,
+    "qs": [
+      {
+        "slot": "t|Présent|0",
+        "f": "tense",
+        "s": "Ce chef de bureau ___ ses subordonnés chaque jour.",
+        "a": "harcelle",
+        "en": "This office manager harasses his subordinates every day.",
+        "alts": [],
+        "form": "Présent"
+      },
+      {
+        "slot": "t|Présent|0",
+        "f": "tense",
+        "s": "Je ___ mon patron de questions sur mon avancement.",
+        "a": "harcelle",
+        "en": "I plague my boss with questions about my promotion.",
+        "alts": [],
+        "form": "Présent"
+      },
+      {
+        "slot": "t|Présent|1",
+        "f": "tense",
+        "s": "Tu ___ cette fille depuis des semaines, arrête.",
+        "a": "harcelles",
+        "en": "You have been harassing that girl for weeks, stop it.",
+        "alts": [],
+        "form": "Présent"
+      },
+      {
+        "slot": "t|Présent|1",
+        "f": "tense",
+        "s": "Est-ce que tu ___ vraiment tes collègues avec tes appels incessants ?",
+        "a": "harcelles",
+        "en": "Are you really plaguing your colleagues with your incessant calls?",
+        "alts": [],
+        "form": "Présent"
+      },
+      {
+        "slot": "t|Présent|2",
+        "f": "tense",
+        "s": "Nous ___ le service client pour obtenir un remboursement.",
+        "a": "harcelons",
+        "en": "We are pestering customer service to get a refund.",
+        "alts": [],
+        "form": "Présent"
+      },
+      {
+        "slot": "t|Présent|2",
+        "f": "tense",
+        "s": "Nous ne ___ jamais nos adversaires en dehors du terrain.",
+        "a": "harcelons",
+        "en": "We never harass our opponents off the field.",
+        "alts": [],
+        "form": "Présent"
+      },
+      {
+        "slot": "t|Présent|3",
+        "f": "tense",
+        "s": "Vous ___ cet employé avec des demandes impossibles.",
+        "a": "harcelez",
+        "en": "You are harassing that employee with impossible demands.",
+        "alts": [],
+        "form": "Présent"
+      },
+      {
+        "slot": "t|Présent|3",
+        "f": "tense",
+        "s": "Pourquoi ___ vous constamment cet homme sans raison valable ?",
+        "a": "harcelez",
+        "en": "Why do you constantly harass that man without valid reason?",
+        "alts": [],
+        "form": "Présent"
+      },
+      {
+        "slot": "t|Présent|4",
+        "f": "tense",
+        "s": "Les journalistes ___ la vedette à la sortie du théâtre.",
+        "a": "harcellent",
+        "en": "The journalists are plaguing the star at the theatre exit.",
+        "alts": [],
+        "form": "Présent"
+      },
+      {
+        "slot": "t|Présent|4",
+        "f": "tense",
+        "s": "Elles ___ leur professeur de réclamations injustifiées.",
+        "a": "harcellent",
+        "en": "They harass their teacher with unjustified complaints.",
+        "alts": [],
+        "form": "Présent"
+      },
+      {
+        "slot": "t|Passé composé|0",
+        "f": "tense",
+        "s": "J'___ mon directeur toute la matinée pour obtenir une réponse.",
+        "a": "ai harcelé",
+        "en": "I pestered my manager all morning to get an answer.",
+        "alts": [],
+        "form": "Passé composé"
+      },
+      {
+        "slot": "t|Passé composé|0",
+        "f": "tense",
+        "s": "Je l'___ de messages jusqu'à ce qu'il réponde.",
+        "a": "ai harcelé",
+        "en": "I bombarded him with messages until he replied.",
+        "alts": [],
+        "form": "Passé composé"
+      },
+      {
+        "slot": "t|Passé composé|1",
+        "f": "tense",
+        "s": "Tu ___ cette personne en ligne pendant plusieurs mois.",
+        "a": "as harcelé",
+        "en": "You harassed that person online for several months.",
+        "alts": [],
+        "form": "Passé composé"
+      },
+      {
+        "slot": "t|Passé composé|1",
+        "f": "tense",
+        "s": "Tu ___ ton frère pour qu'il te prête de l'argent.",
+        "a": "as harcelé",
+        "en": "You plagued your brother to lend you money.",
+        "alts": [],
+        "form": "Passé composé"
+      },
+      {
+        "slot": "t|Passé composé|2",
+        "f": "tense",
+        "s": "Ce groupe ___ la ministre lors de sa visite officielle.",
+        "a": "a harcelé",
+        "en": "This group harassed the minister during her official visit.",
+        "alts": [],
+        "form": "Passé composé"
+      },
+      {
+        "slot": "t|Passé composé|2",
+        "f": "tense",
+        "s": "On ___ la secrétaire toute la journée avec des appels urgents.",
+        "a": "a harcelé",
+        "en": "The secretary was plagued with urgent calls all day.",
+        "alts": [],
+        "form": "Passé composé"
+      },
+      {
+        "slot": "t|Passé composé|3",
+        "f": "tense",
+        "s": "Nous ___ les autorités jusqu'à l'obtention d'un résultat.",
+        "a": "avons harcelé",
+        "en": "We pestered the authorities until we got a result.",
+        "alts": [],
+        "form": "Passé composé"
+      },
+      {
+        "slot": "t|Passé composé|3",
+        "f": "tense",
+        "s": "Nous ___ ce fournisseur de réclamations pendant tout le mois.",
+        "a": "avons harcelé",
+        "en": "We bombarded that supplier with complaints throughout the month.",
+        "alts": [],
+        "form": "Passé composé"
+      },
+      {
+        "slot": "t|Passé composé|4",
+        "f": "tense",
+        "s": "Vous ___ cet ancien employé sans aucune raison légale.",
+        "a": "avez harcelé",
+        "en": "You harassed that former employee without any legal reason.",
+        "alts": [],
+        "form": "Passé composé"
+      },
+      {
+        "slot": "t|Passé composé|4",
+        "f": "tense",
+        "s": "Vous ___ notre équipe de demandes urgentes toute la semaine dernière.",
+        "a": "avez harcelé",
+        "en": "You plagued our team with urgent requests all last week.",
+        "alts": [],
+        "form": "Passé composé"
+      },
+      {
+        "slot": "t|Passé composé|5",
+        "f": "tense",
+        "s": "Les manifestants ___ le Premier ministre à sa sortie.",
+        "a": "ont harcelé",
+        "en": "The protesters harassed the Prime Minister as he left.",
+        "alts": [],
+        "form": "Passé composé"
+      },
+      {
+        "slot": "t|Passé composé|5",
+        "f": "tense",
+        "s": "Elles ___ leurs camarades sur les réseaux sociaux.",
+        "a": "ont harcelé",
+        "en": "They harassed their classmates on social media.",
+        "alts": [],
+        "form": "Passé composé"
+      },
+      {
+        "slot": "t|Imparfait|0",
+        "f": "tense",
+        "s": "Quand j'étais enfant, je ___ mon père pour avoir un chien.",
+        "a": "harcelais",
+        "en": "When I was a child, I used to pester my father to get a dog.",
+        "alts": [],
+        "form": "Imparfait"
+      },
+      {
+        "slot": "t|Imparfait|0",
+        "f": "tense",
+        "s": "Tu ___ sans cesse ta sœur pour lui emprunter ses affaires.",
+        "a": "harcelais",
+        "en": "You kept pestering your sister to borrow her things.",
+        "alts": [],
+        "form": "Imparfait"
+      },
+      {
+        "slot": "t|Imparfait|1",
+        "f": "tense",
+        "s": "Ce client ___ la réceptionniste à longueur de journée.",
+        "a": "harcelait",
+        "en": "That customer used to harass the receptionist all day long.",
+        "alts": [],
+        "form": "Imparfait"
+      },
+      {
+        "slot": "t|Imparfait|1",
+        "f": "tense",
+        "s": "Elle ___ son ex-partenaire de messages nocturnes.",
+        "a": "harcelait",
+        "en": "She was pestering her ex-partner with messages at night.",
+        "alts": [],
+        "form": "Imparfait"
+      },
+      {
+        "slot": "t|Imparfait|2",
+        "f": "tense",
+        "s": "Nous ___ nos parents pour passer les vacances à la mer.",
+        "a": "harcelions",
+        "en": "We used to pester our parents to spend the holidays at the seaside.",
+        "alts": [],
+        "form": "Imparfait"
+      },
+      {
+        "slot": "t|Imparfait|2",
+        "f": "tense",
+        "s": "À cette époque, nous ___ régulièrement le service technique.",
+        "a": "harcelions",
+        "en": "At that time, we regularly pestered the technical department.",
+        "alts": [],
+        "form": "Imparfait"
+      },
+      {
+        "slot": "t|Imparfait|3",
+        "f": "tense",
+        "s": "Vous ___ constamment vos supérieurs pour une augmentation.",
+        "a": "harceliez",
+        "en": "You constantly pestered your superiors for a raise.",
+        "alts": [],
+        "form": "Imparfait"
+      },
+      {
+        "slot": "t|Imparfait|3",
+        "f": "tense",
+        "s": "Est-ce que vous ___ vraiment ce voisin chaque soir ?",
+        "a": "harceliez",
+        "en": "Were you really harassing that neighbour every evening?",
+        "alts": [],
+        "form": "Imparfait"
+      },
+      {
+        "slot": "t|Imparfait|4",
+        "f": "tense",
+        "s": "Les créanciers ___ la famille semaine après semaine.",
+        "a": "harcelaient",
+        "en": "The creditors were harassing the family week after week.",
+        "alts": [],
+        "form": "Imparfait"
+      },
+      {
+        "slot": "t|Imparfait|4",
+        "f": "tense",
+        "s": "Elles ___ leur chef de projet avec des modifications sans fin.",
+        "a": "harcelaient",
+        "en": "They used to plague their project manager with endless changes.",
+        "alts": [],
+        "form": "Imparfait"
+      },
+      {
+        "slot": "t|Futur|0",
+        "f": "tense",
+        "s": "Si tu ne me rappelles pas, je ___ ton assistant toute la journée.",
+        "a": "harcellerai",
+        "en": "If you don't call me back, I will harass your assistant all day.",
+        "alts": [],
+        "form": "Futur"
+      },
+      {
+        "slot": "t|Futur|0",
+        "f": "tense",
+        "s": "Je ___ le service des ressources humaines jusqu'à obtenir une réponse.",
+        "a": "harcellerai",
+        "en": "I will pester the HR department until I get an answer.",
+        "alts": [],
+        "form": "Futur"
+      },
+      {
+        "slot": "t|Futur|1",
+        "f": "tense",
+        "s": "Si tu continues ainsi, tu ___ tout ton entourage.",
+        "a": "harcelleras",
+        "en": "If you carry on like this, you will harass everyone around you.",
+        "alts": [],
+        "form": "Futur"
+      },
+      {
+        "slot": "t|Futur|1",
+        "f": "tense",
+        "s": "Tu ___ encore cette vendeuse avec tes réclamations, j'en suis sûr.",
+        "a": "harcelleras",
+        "en": "You will pester that saleswoman again with your complaints, I'm sure.",
+        "alts": [],
+        "form": "Futur"
+      },
+      {
+        "slot": "t|Futur|2",
+        "f": "tense",
+        "s": "Cet avocat ___ la partie adverse jusqu'au procès.",
+        "a": "harcellera",
+        "en": "That lawyer will harass the opposing party until the trial.",
+        "alts": [],
+        "form": "Futur"
+      },
+      {
+        "slot": "t|Futur|2",
+        "f": "tense",
+        "s": "On ___ le comité tant que la décision ne sera pas rendue.",
+        "a": "harcellera",
+        "en": "People will pester the committee until a decision is made.",
+        "alts": [],
+        "form": "Futur"
+      },
+      {
+        "slot": "t|Futur|3",
+        "f": "tense",
+        "s": "Nous ___ les autorités jusqu'à ce que justice soit faite.",
+        "a": "harcellerons",
+        "en": "We will pester the authorities until justice is done.",
+        "alts": [],
+        "form": "Futur"
+      },
+      {
+        "slot": "t|Futur|3",
+        "f": "tense",
+        "s": "Nous ___ le maire s'il ne tient pas ses promesses.",
+        "a": "harcellerons",
+        "en": "We will harass the mayor if he does not keep his promises.",
+        "alts": [],
+        "form": "Futur"
+      },
+      {
+        "slot": "t|Futur|4",
+        "f": "tense",
+        "s": "Vous ___ votre banquier pour ce prêt jusqu'à ce qu'il cède.",
+        "a": "harcellerez",
+        "en": "You will pester your banker for that loan until he gives in.",
+        "alts": [],
+        "form": "Futur"
+      },
+      {
+        "slot": "t|Futur|4",
+        "f": "tense",
+        "s": "Vous ___ nos équipes si vous ne respectez pas les délais convenus.",
+        "a": "harcellerez",
+        "en": "You will harass our teams if you do not respect the agreed deadlines.",
+        "alts": [],
+        "form": "Futur"
+      },
+      {
+        "slot": "t|Futur|5",
+        "f": "tense",
+        "s": "Ces robots d'appel ___ des milliers de personnes chaque jour.",
+        "a": "harcelleront",
+        "en": "These call robots will harass thousands of people every day.",
+        "alts": [],
+        "form": "Futur"
+      },
+      {
+        "slot": "t|Futur|5",
+        "f": "tense",
+        "s": "Elles ___ leur directeur jusqu'à l'obtention d'une réponse claire.",
+        "a": "harcelleront",
+        "en": "They will pester their director until they get a clear answer.",
+        "alts": [],
+        "form": "Futur"
+      },
+      {
+        "slot": "t|Conditionnel|0",
+        "f": "tense",
+        "s": "Si tu refusais, je ___ ton supérieur hiérarchique.",
+        "a": "harcellerais",
+        "en": "If you refused, I would harass your line manager.",
+        "alts": [],
+        "form": "Conditionnel"
+      },
+      {
+        "slot": "t|Conditionnel|0",
+        "f": "tense",
+        "s": "Si tu agissais comme lui, tu ___ tout le monde au bureau.",
+        "a": "harcellerais",
+        "en": "If you acted like him, you would harass everyone in the office.",
+        "alts": [],
+        "form": "Conditionnel"
+      },
+      {
+        "slot": "t|Conditionnel|1",
+        "f": "tense",
+        "s": "Sans cette loi, il ___ ses victimes impunément.",
+        "a": "harcellerait",
+        "en": "Without this law, he would harass his victims with impunity.",
+        "alts": [],
+        "form": "Conditionnel"
+      },
+      {
+        "slot": "t|Conditionnel|1",
+        "f": "tense",
+        "s": "Si elle n'avait pas peur des conséquences, elle ___ encore cet homme.",
+        "a": "harcellerait",
+        "en": "If she were not afraid of the consequences, she would still harass that man.",
+        "alts": [],
+        "form": "Conditionnel"
+      },
+      {
+        "slot": "t|Conditionnel|2",
+        "f": "tense",
+        "s": "Si nous étions à votre place, nous ___ les responsables jusqu'à obtenir gain de cause.",
+        "a": "harcellerions",
+        "en": "If we were in your position, we would pester those responsible until we succeeded.",
+        "alts": [],
+        "form": "Conditionnel"
+      },
+      {
+        "slot": "t|Conditionnel|2",
+        "f": "tense",
+        "s": "Nous ___ les médias si le scandale n'était pas révélé.",
+        "a": "harcellerions",
+        "en": "We would pester the media if the scandal were not revealed.",
+        "alts": [],
+        "form": "Conditionnel"
+      },
+      {
+        "slot": "t|Conditionnel|3",
+        "f": "tense",
+        "s": "Si vous étiez mécontents, vous ___ sans doute le service clientèle.",
+        "a": "harcelleriez",
+        "en": "If you were dissatisfied, you would no doubt pester customer service.",
+        "alts": [],
+        "form": "Conditionnel"
+      },
+      {
+        "slot": "t|Conditionnel|3",
+        "f": "tense",
+        "s": "Vous ___ l'administration si vos droits n'étaient pas respectés.",
+        "a": "harcelleriez",
+        "en": "You would harass the administration if your rights were not respected.",
+        "alts": [],
+        "form": "Conditionnel"
+      },
+      {
+        "slot": "t|Conditionnel|4",
+        "f": "tense",
+        "s": "Sans surveillance, ces individus ___ les passants dans la rue.",
+        "a": "harcelleraient",
+        "en": "Without supervision, these individuals would harass passers-by in the street.",
+        "alts": [],
+        "form": "Conditionnel"
+      },
+      {
+        "slot": "t|Conditionnel|4",
+        "f": "tense",
+        "s": "Elles ___ davantage leurs victimes si la loi ne les en empêchait pas.",
+        "a": "harcelleraient",
+        "en": "They would harass their victims more if the law did not stop them.",
+        "alts": [],
+        "form": "Conditionnel"
+      },
+      {
+        "slot": "t|Subjonctif",
+        "f": "subj",
+        "s": "Il est inadmissible que tu ___ tes collègues de cette façon.",
+        "a": "harcelles",
+        "en": "It is unacceptable that you harass your colleagues in this way.",
+        "alts": [],
+        "form": "Subjonctif"
+      },
+      {
+        "slot": "t|Subjonctif",
+        "f": "subj",
+        "s": "Je veux qu'il ___ moins les clients pour leur vendre des services.",
+        "a": "harcelle",
+        "en": "I want him to stop harassing clients so much to sell them services.",
+        "alts": [],
+        "form": "Subjonctif"
+      },
+      {
+        "slot": "s|0",
+        "f": "sense",
+        "s": "Ce supérieur a été condamné pour avoir ___ plusieurs employés.",
+        "a": "harcelé",
+        "en": "That supervisor was convicted of having harassed several employees.",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "s|0",
+        "f": "sense",
+        "s": "Il est illégal de ___ quelqu'un en raison de son origine ethnique.",
+        "a": "harceler",
+        "en": "It is illegal to harass someone on grounds of their ethnic origin.",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "s|1",
+        "f": "sense",
+        "s": "Mon petit frère m'a ___ toute la soirée pour que je lui explique ses devoirs.",
+        "a": "harcelé",
+        "en": "My little brother pestered me all evening to explain his homework.",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "s|1",
+        "f": "sense",
+        "s": "Arrête de ___ ton ami avec cette même question !",
+        "a": "harceler",
+        "en": "Stop pestering your friend with that same question!",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "s|2",
+        "f": "sense",
+        "s": "Les publicités sur ce site ___ les utilisateurs à chaque clic.",
+        "a": "harcellent",
+        "en": "The adverts on this site constantly interrupt users with every click.",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "s|2",
+        "f": "sense",
+        "s": "Ces notifications incessantes ___ les employés et nuisent à leur concentration.",
+        "a": "harcellent",
+        "en": "These incessant notifications constantly disturb employees and harm their concentration.",
+        "alts": [],
+        "form": ""
+      }
+    ]
+  },
+  {
+    "id": 4000,
+    "qs": [
+      {
+        "slot": "s|0",
+        "f": "sense",
+        "s": "Son ___ a motivé toute l'équipe à donner le meilleur d'elle-même.",
+        "a": "leadership",
+        "en": "His leadership motivated the whole team to give their best.",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "s|0",
+        "f": "sense",
+        "s": "Elle suit des formations pour développer son ___ et mieux guider ses collaborateurs.",
+        "a": "leadership",
+        "en": "She takes training courses to develop her leadership and better guide her colleagues.",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "s|1",
+        "f": "sense",
+        "s": "Ce pays a consolidé son ___ économique en Asie au cours des dernières décennies.",
+        "a": "leadership",
+        "en": "This country consolidated its economic leadership in Asia over recent decades.",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "s|1",
+        "f": "sense",
+        "s": "L'entreprise veut conserver son ___ sur le marché face à une concurrence accrue.",
+        "a": "leadership",
+        "en": "The company wants to maintain its market leadership in the face of increased competition.",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "gender",
+        "f": "gender",
+        "s": "Il admire ___ leadership de cette directrice, qui sait fédérer ses équipes.",
+        "a": "le",
+        "en": "He admires the leadership of that director, who knows how to unite her teams.",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "gender",
+        "f": "gender",
+        "s": "Beaucoup d'entreprises investissent dans ___ leadership de leurs managers pour améliorer les performances.",
+        "a": "le",
+        "en": "Many companies invest in the leadership of their managers to improve performance.",
+        "alts": [],
+        "form": ""
+      }
+    ]
+  }
+]

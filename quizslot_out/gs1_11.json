@@ -1,0 +1,205 @@
+[
+  {
+    "id": 2884,
+    "qs": [
+      {
+        "slot": "s|0",
+        "f": "sense",
+        "s": "Cette réunion n'a servi à pas ___ , tout le monde est reparti avec les mêmes questions.",
+        "a": "grand-chose",
+        "en": "This meeting was of little use; everyone left with the same questions.",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "s|0",
+        "f": "sense",
+        "s": "Il n'a pas fait ___ de toute la journée, juste regardé son téléphone.",
+        "a": "grand-chose",
+        "en": "He didn't do much all day, just stared at his phone.",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "gender",
+        "f": "gender",
+        "s": "Après des heures de discussion, il n'en est pas sorti ___ grand-chose de concret.",
+        "a": "de",
+        "en": "After hours of discussion, not much concrete came out of it.",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "gender",
+        "f": "gender",
+        "s": "Tout ___ grand-chose qu'il avait promis s'est révélé sans importance.",
+        "a": "le",
+        "en": "All the 'great things' he had promised turned out to be of no importance.",
+        "alts": [],
+        "form": ""
+      }
+    ]
+  },
+  {
+    "id": 2885,
+    "qs": [
+      {
+        "slot": "s|0",
+        "f": "sense",
+        "s": "Elle a accepté un poste ___ dans cette entreprise en attendant de trouver mieux.",
+        "a": "temporaire",
+        "en": "She accepted a temporary position at this company while waiting to find something better.",
+        "alts": []
+      },
+      {
+        "slot": "s|0",
+        "f": "sense",
+        "s": "Les ouvriers ont construit un abri ___ sur le chantier.",
+        "a": "temporaire",
+        "en": "The workers built a temporary shelter on the construction site.",
+        "alts": []
+      },
+      {
+        "slot": "s|1",
+        "f": "sense",
+        "s": "Ne t'inquiète pas, cette douleur est ___ et disparaîtra bientôt.",
+        "a": "temporaire",
+        "en": "Don't worry, this pain is temporary and will go away soon.",
+        "alts": []
+      },
+      {
+        "slot": "s|1",
+        "f": "sense",
+        "s": "La panne de courant est ___ ; les techniciens travaillent à la réparer.",
+        "a": "temporaire",
+        "en": "The power outage is temporary; the technicians are working to fix it.",
+        "alts": []
+      },
+      {
+        "slot": "g|mp",
+        "f": "agree",
+        "s": "Ces logements ___ seront remplacés par des bâtiments définitifs l'année prochaine.",
+        "a": "temporaires",
+        "en": "These temporary accommodations will be replaced by permanent buildings next year.",
+        "alts": []
+      },
+      {
+        "slot": "g|mp",
+        "f": "agree",
+        "s": "Les contrats ___ de l'équipe arrivent à leur terme ce mois-ci.",
+        "a": "temporaires",
+        "en": "The team's temporary contracts are coming to an end this month.",
+        "alts": []
+      },
+      {
+        "slot": "g|f",
+        "f": "agree",
+        "s": "C'est une solution ___ qui ne résoudra pas le problème à long terme.",
+        "a": "temporaire",
+        "en": "It is a temporary solution that will not solve the problem in the long term.",
+        "alts": []
+      },
+      {
+        "slot": "g|f",
+        "f": "agree",
+        "s": "Elle occupe une chambre ___ chez sa sœur le temps de trouver un appartement.",
+        "a": "temporaire",
+        "en": "She is staying in a temporary room at her sister's place while looking for an apartment.",
+        "alts": []
+      },
+      {
+        "slot": "g|fp",
+        "f": "agree",
+        "s": "Les mesures ___ prises par le gouvernement seront réévaluées dans six mois.",
+        "a": "temporaires",
+        "en": "The temporary measures taken by the government will be reassessed in six months.",
+        "alts": []
+      },
+      {
+        "slot": "g|fp",
+        "f": "agree",
+        "s": "Ces installations ___ ont été démontées après la fin du festival.",
+        "a": "temporaires",
+        "en": "These temporary installations were taken down after the festival ended.",
+        "alts": []
+      }
+    ]
+  },
+  {
+    "id": 2886,
+    "qs": [
+      {
+        "slot": "s|0",
+        "f": "sense",
+        "s": "Elle a accroché une ___ de son chanteur préféré sur le mur de sa chambre.",
+        "a": "affiche",
+        "en": "She hung a poster of her favorite singer on her bedroom wall.",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "s|0",
+        "f": "sense",
+        "s": "Les étudiants ont collé une ___ du film à l'entrée du cinéma.",
+        "a": "affiche",
+        "en": "The students put up a movie poster at the cinema entrance.",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "s|1",
+        "f": "sense",
+        "s": "La mairie a placardé une ___ pour informer les habitants de la fermeture de la route.",
+        "a": "affiche",
+        "en": "The town hall posted a public notice to inform residents of the road closure.",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "s|1",
+        "f": "sense",
+        "s": "Une ___ officielle était apposée sur la porte de l'école pour annoncer les nouvelles règles.",
+        "a": "affiche",
+        "en": "An official public notice was posted on the school door to announce the new rules.",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "s|2",
+        "f": "sense",
+        "s": "Une grande ___ publicitaire domine le carrefour principal de la ville.",
+        "a": "affiche",
+        "en": "A large advertising billboard dominates the main intersection of the city.",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "s|2",
+        "f": "sense",
+        "s": "Les conducteurs remarquent souvent une ___ lumineuse sur l'autoroute.",
+        "a": "affiche",
+        "en": "Drivers often notice an illuminated billboard on the highway.",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "gender",
+        "f": "gender",
+        "s": "___ affiche est collée sur le mur de la salle de classe.",
+        "a": "L'",
+        "en": "The notice is stuck on the classroom wall.",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "gender",
+        "f": "gender",
+        "s": "Ils ont apposé ___ affiche pour le concert dans toute la ville.",
+        "a": "une",
+        "en": "They put up a poster for the concert all over the city.",
+        "alts": [],
+        "form": ""
+      }
+    ]
+  }
+]

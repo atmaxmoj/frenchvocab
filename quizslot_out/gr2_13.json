@@ -1,0 +1,47 @@
+[
+  {
+    "id": 2790,
+    "qs": [
+      {"slot":"s|0","f":"sense","s":"Pour vendre de l'alcool, ce bar doit obtenir ___ d'exploitation.","a":"une licence","en":"To sell alcohol, this bar must obtain an operating licence.","alts":[],"form":""},
+      {"slot":"s|0","f":"sense","s":"Le gouvernement a accordé ___ de diffusion à cette chaîne de télévision.","a":"une licence","en":"The government granted a broadcasting licence to this television channel.","alts":[],"form":""},
+      {"slot":"s|1","f":"sense","s":"Il a passé son examen et a obtenu ___ de conduire la semaine dernière.","a":"une licence","en":"He passed his exam and got his driver's licence last week.","alts":[],"form":""},
+      {"slot":"s|1","f":"sense","s":"Ce médecin risque de perdre ___ professionnelle s'il ne respecte pas les règles déontologiques.","a":"sa licence","en":"This doctor risks losing his professional licence if he does not follow ethical rules.","alts":["la licence"],"form":""},
+      {"slot":"s|2","f":"sense","s":"Après trois ans d'études, elle a obtenu ___ en droit à l'université de Lyon.","a":"une licence","en":"After three years of study, she obtained a law degree (bachelor's) at the University of Lyon.","alts":[],"form":""},
+      {"slot":"s|2","f":"sense","s":"Il prépare ___ de lettres modernes et espère trouver un poste d'enseignant.","a":"une licence","en":"He is preparing a modern literature bachelor's degree and hopes to find a teaching position.","alts":["sa licence"],"form":""},
+      {"slot":"gender","f":"gender","s":"Pour exercer ce métier légalement, il faut obtenir ___ licence officielle.","a":"une","en":"To practise this profession legally, one must obtain an official licence.","alts":[],"form":""},
+      {"slot":"gender","f":"gender","s":"Il a renouvelé ___ licence de pêche avant la saison estivale.","a":"la","en":"He renewed his fishing licence before the summer season.","alts":[],"form":""}
+    ]
+  },
+  {
+    "id": 2791,
+    "qs": [
+      {"slot":"s|0","f":"sense","s":"Ce directeur applique les règles avec une grande ___ et ne tolère aucune exception.","a":"rigueur","en":"This director applies the rules with great strictness and tolerates no exceptions.","alts":[],"form":""},
+      {"slot":"s|0","f":"sense","s":"L'entraîneur exige de ses joueurs une ___ absolue dans le respect des consignes.","a":"rigueur","en":"The coach demands absolute strictness from his players in following instructions.","alts":[],"form":""},
+      {"slot":"s|1","f":"sense","s":"Le juge a condamné l'accusé avec une ___ qui a surpris tout le monde.","a":"rigueur","en":"The judge sentenced the accused with a severity that surprised everyone.","alts":[],"form":""},
+      {"slot":"s|1","f":"sense","s":"Il a été traité avec une ___ excessive par ses supérieurs après sa faute.","a":"rigueur","en":"He was treated with excessive harshness by his superiors after his mistake.","alts":[],"form":""},
+      {"slot":"s|2","f":"sense","s":"Les explorateurs ont affronté la ___ du climat polaire pendant plusieurs semaines.","a":"rigueur","en":"The explorers faced the harshness of the polar climate for several weeks.","alts":[],"form":""},
+      {"slot":"s|2","f":"sense","s":"Les paysans craignaient la ___ de l'hiver et stockaient des provisions dès l'automne.","a":"rigueur","en":"The peasants feared the harshness of winter and stored provisions from autumn.","alts":[],"form":""},
+      {"slot":"s|3","f":"sense","s":"Ce rapport scientifique se distingue par la ___ de son analyse et la précision de ses données.","a":"rigueur","en":"This scientific report stands out for the rigor of its analysis and the precision of its data.","alts":[],"form":""},
+      {"slot":"s|3","f":"sense","s":"En mathématiques, la ___ du raisonnement est indispensable pour éviter toute erreur logique.","a":"rigueur","en":"In mathematics, the rigor of reasoning is indispensable to avoid any logical error.","alts":[],"form":""},
+      {"slot":"gender","f":"gender","s":"Il admire ___ rigueur avec laquelle elle conduit ses recherches.","a":"la","en":"He admires the rigor with which she conducts her research.","alts":[],"form":""},
+      {"slot":"gender","f":"gender","s":"Avec ___ rigueur d'un chirurgien, il vérifie chaque détail avant de signer le contrat.","a":"la","en":"With the rigor of a surgeon, he checks every detail before signing the contract.","alts":[],"form":""}
+    ]
+  },
+  {
+    "id": 2792,
+    "qs": [
+      {"slot":"s|0","f":"sense","s":"Le lait ___ est recommandé pour les nourrissons pendant leurs premiers mois de vie.","a":"maternel","en":"Mother's milk is recommended for infants during their first months of life.","alts":[],"form":""},
+      {"slot":"s|0","f":"sense","s":"L'amour ___ qu'elle portait à son fils était visible dans chacun de ses gestes.","a":"maternel","en":"The mother's love she had for her son was visible in her every gesture.","alts":[],"form":""},
+      {"slot":"s|1","f":"sense","s":"Son instinct ___ l'a poussée à protéger cet enfant qu'elle ne connaissait même pas.","a":"maternel","en":"Her motherly instinct drove her to protect that child she didn't even know.","alts":[],"form":""},
+      {"slot":"s|1","f":"sense","s":"Elle a développé un sentiment ___ envers cet orphelin qu'elle avait recueilli.","a":"maternel","en":"She developed a motherly feeling toward the orphan she had taken in.","alts":[],"form":""},
+      {"slot":"s|2","f":"sense","s":"Son grand-père ___ lui racontait des histoires de son village natal.","a":"maternel","en":"Her maternal grandfather used to tell her stories about his home village.","alts":[],"form":""},
+      {"slot":"s|2","f":"sense","s":"Son oncle ___ lui a transmis sa passion pour la musique traditionnelle.","a":"maternel","en":"His maternal uncle passed on to him his passion for traditional music.","alts":[],"form":""},
+      {"slot":"g|mp","f":"agree","s":"Les liens ___ sont parfois plus forts que les liens paternels.","a":"maternels","en":"Maternal bonds are sometimes stronger than paternal ones.","alts":[],"form":""},
+      {"slot":"g|mp","f":"agree","s":"Il rend visite à ses grands-parents ___ chaque été sans exception.","a":"maternels","en":"He visits his maternal grandparents every summer without exception.","alts":[],"form":""},
+      {"slot":"g|f","f":"agree","s":"Sa grand-mère ___ est originaire d'un petit village de Bretagne.","a":"maternelle","en":"His maternal grandmother comes from a small village in Brittany.","alts":[],"form":""},
+      {"slot":"g|f","f":"agree","s":"La tendresse ___ qu'elle lui témoignait touchait tous ceux qui les observaient.","a":"maternelle","en":"The motherly tenderness she showed him touched everyone who watched them.","alts":[],"form":""},
+      {"slot":"g|fp","f":"agree","s":"Ses tantes ___ habitent toutes à Lyon depuis de nombreuses années.","a":"maternelles","en":"His maternal aunts have all lived in Lyon for many years.","alts":[],"form":""},
+      {"slot":"g|fp","f":"agree","s":"Elle se souvient avec émotion des attentions ___ de sa grand-mère pendant son enfance.","a":"maternelles","en":"She fondly remembers the motherly attentions of her grandmother during her childhood.","alts":[],"form":""}
+    ]
+  }
+]

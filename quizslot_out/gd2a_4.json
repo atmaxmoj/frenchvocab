@@ -1,0 +1,125 @@
+[
+  {
+    "id": 13,
+    "qs": [
+      {
+        "slot": "s|0",
+        "f": "sense",
+        "s": "Mon père travaille beaucoup ; ___ rentre toujours tard le soir.",
+        "en": "My father works a lot; he always comes home late in the evening.",
+        "a": "il",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "s|0",
+        "f": "sense",
+        "s": "Paul est mon meilleur ami. ___ m'aide quand j'ai des problèmes.",
+        "en": "Paul is my best friend. He helps me when I have problems.",
+        "a": "il",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "s|1",
+        "f": "sense",
+        "s": "J'ai acheté un nouveau sac. ___ est en cuir marron.",
+        "en": "I bought a new bag. It is made of brown leather.",
+        "a": "il",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "s|1",
+        "f": "sense",
+        "s": "Le soleil brille ce matin. ___ réchauffe tout le quartier.",
+        "en": "The sun is shining this morning. It warms up the whole neighborhood.",
+        "a": "il",
+        "alts": [],
+        "form": ""
+      }
+    ]
+  },
+  {
+    "id": 14,
+    "qs": [
+      {
+        "slot": "s|0",
+        "f": "sense",
+        "s": "Tu sais ___ a appelé ce matin ?",
+        "en": "Do you know who called this morning?",
+        "a": "qui",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "s|0",
+        "f": "sense",
+        "s": "___ a frappé à la porte pendant que tu dormais ?",
+        "en": "Who knocked on the door while you were sleeping?",
+        "a": "qui",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "s|1",
+        "f": "sense",
+        "s": "C'est la femme ___ travaille dans notre bureau.",
+        "en": "She is the woman who works in our office.",
+        "a": "qui",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "s|1",
+        "f": "sense",
+        "s": "J'ai un ami ___ parle couramment trois langues.",
+        "en": "I have a friend who speaks three languages fluently.",
+        "a": "qui",
+        "alts": [],
+        "form": ""
+      }
+    ]
+  },
+  {
+    "id": 15,
+    "qs": [
+      {
+        "slot": "s|0",
+        "f": "sense",
+        "s": "Elle ___ parle pas français.",
+        "en": "She doesn't speak French. (ne...pas negation)",
+        "a": "ne",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "s|0",
+        "f": "sense",
+        "s": "Je ___ comprends pas ce que tu dis.",
+        "en": "I don't understand what you're saying. (ne...pas negation)",
+        "a": "ne",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "s|1",
+        "f": "sense",
+        "s": "Il ___ sort jamais le soir.",
+        "en": "He never goes out in the evening. (ne...jamais negation)",
+        "a": "ne",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "s|1",
+        "f": "sense",
+        "s": "Nous ___ mangeons plus de viande depuis un an.",
+        "en": "We no longer eat meat since a year ago. (ne...plus negation)",
+        "a": "ne",
+        "alts": [],
+        "form": ""
+      }
+    ]
+  }
+]

@@ -1,0 +1,719 @@
+[
+  {
+    "id": 1025,
+    "qs": [
+      {
+        "slot": "s|0",
+        "f": "sense",
+        "s": "J'ai décidé d'arrêter de fumer ; ___ , je ne toucherai plus à une cigarette.",
+        "a": "désormais",
+        "en": "I decided to stop smoking; from now on, I will never touch a cigarette again.",
+        "alts": ["dorénavant"],
+        "form": ""
+      },
+      {
+        "slot": "s|0",
+        "f": "sense",
+        "s": "Le règlement a changé : ___ , tout le monde doit porter un badge d'accès.",
+        "a": "désormais",
+        "en": "The rules have changed: from now on, everyone must wear an access badge.",
+        "alts": ["dorénavant"],
+        "form": ""
+      },
+      {
+        "slot": "s|1",
+        "f": "sense",
+        "s": "Il quitta la ville en 1990 et ne revint ___ que rarement.",
+        "a": "désormais",
+        "en": "He left the city in 1990 and thereafter returned only rarely.",
+        "alts": ["dorénavant"],
+        "form": ""
+      },
+      {
+        "slot": "s|1",
+        "f": "sense",
+        "s": "Après cet accident, elle perdit confiance en elle et ___ évitait de prendre la parole en public.",
+        "a": "désormais",
+        "en": "After that accident, she lost confidence in herself and thereafter avoided speaking in public.",
+        "alts": ["dorénavant"],
+        "form": ""
+      }
+    ]
+  },
+  {
+    "id": 1026,
+    "qs": [
+      {
+        "slot": "s|0",
+        "f": "sense",
+        "s": "Mon sac à dos est trop ___ ; je ne peux pas le porter toute la journée.",
+        "a": "lourd",
+        "en": "My backpack is too heavy; I can't carry it all day.",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "s|0",
+        "f": "sense",
+        "s": "Ce meuble est si ___ qu'il faut deux personnes pour le déplacer.",
+        "a": "lourd",
+        "en": "This piece of furniture is so heavy that it takes two people to move it.",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "s|1",
+        "f": "sense",
+        "s": "Le bilan fiscal de cette entreprise est ___ et compliqué à gérer.",
+        "a": "lourd",
+        "en": "This company's tax burden is heavy and complicated to manage.",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "s|1",
+        "f": "sense",
+        "s": "Ce programme de travail est vraiment ___ pour un seul employé.",
+        "a": "lourd",
+        "en": "This work schedule is really burdensome for a single employee.",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "s|2",
+        "f": "sense",
+        "s": "Son style d'écriture est trop ___ ; les phrases sont longues et maladroites.",
+        "a": "lourd",
+        "en": "His writing style is too clumsy; the sentences are long and unwieldy.",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "s|2",
+        "f": "sense",
+        "s": "Ce geste était vraiment ___ et déplacé dans ce contexte.",
+        "a": "lourd",
+        "en": "That gesture was really clumsy and out of place in that context.",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "g|mp",
+        "f": "agree",
+        "s": "Ces cartons sont trop ___ pour être soulevés par une seule personne.",
+        "a": "lourds",
+        "en": "These boxes are too heavy to be lifted by a single person.",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "g|mp",
+        "f": "agree",
+        "s": "Les impôts ___ pèsent sur les petites entreprises.",
+        "a": "lourds",
+        "en": "Heavy taxes weigh on small businesses.",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "g|f",
+        "f": "agree",
+        "s": "Cette valise est trop ___ ; tu devrais en enlever quelques affaires.",
+        "a": "lourde",
+        "en": "This suitcase is too heavy; you should take a few things out.",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "g|f",
+        "f": "agree",
+        "s": "La charge administrative est ___ pour les petits commerces.",
+        "a": "lourde",
+        "en": "The administrative burden is heavy for small businesses.",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "g|fp",
+        "f": "agree",
+        "s": "Ces caisses sont ___ ; faites attention à votre dos en les soulevant.",
+        "a": "lourdes",
+        "en": "These crates are heavy; be careful of your back when lifting them.",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "g|fp",
+        "f": "agree",
+        "s": "Les responsabilités ___ qu'il assume l'épuisent.",
+        "a": "lourdes",
+        "en": "The heavy responsibilities he bears exhaust him.",
+        "alts": [],
+        "form": ""
+      }
+    ]
+  },
+  {
+    "id": 1027,
+    "qs": [
+      {
+        "slot": "t|Présent|0",
+        "f": "tense",
+        "s": "Ce discours ___ beaucoup d'enthousiasme chez les étudiants.",
+        "a": "suscite",
+        "en": "This speech arouses a lot of enthusiasm among the students.",
+        "alts": [],
+        "form": "Présent"
+      },
+      {
+        "slot": "t|Présent|0",
+        "f": "tense",
+        "s": "Je ___ toujours de la curiosité chez mes collègues quand je parle de ce projet.",
+        "a": "suscite",
+        "en": "I always arouse curiosity among my colleagues when I talk about this project.",
+        "alts": [],
+        "form": "Présent"
+      },
+      {
+        "slot": "t|Présent|1",
+        "f": "tense",
+        "s": "Tu ___ de l'admiration avec tes performances artistiques.",
+        "a": "suscites",
+        "en": "You arouse admiration with your artistic performances.",
+        "alts": [],
+        "form": "Présent"
+      },
+      {
+        "slot": "t|Présent|1",
+        "f": "tense",
+        "s": "Pourquoi tu ___ toujours des controverses avec tes commentaires ?",
+        "a": "suscites",
+        "en": "Why do you always provoke controversies with your comments?",
+        "alts": [],
+        "form": "Présent"
+      },
+      {
+        "slot": "t|Présent|2",
+        "f": "tense",
+        "s": "Nous ___ l'intérêt des investisseurs grâce à notre innovation.",
+        "a": "suscitons",
+        "en": "We arouse the interest of investors thanks to our innovation.",
+        "alts": [],
+        "form": "Présent"
+      },
+      {
+        "slot": "t|Présent|2",
+        "f": "tense",
+        "s": "En publiant cet article, nous ___ un vif débat dans la communauté scientifique.",
+        "a": "suscitons",
+        "en": "By publishing this article, we provoke a lively debate in the scientific community.",
+        "alts": [],
+        "form": "Présent"
+      },
+      {
+        "slot": "t|Présent|3",
+        "f": "tense",
+        "s": "Vous ___ souvent de l'envie chez vos voisins avec votre jardin magnifique.",
+        "a": "suscitez",
+        "en": "You often arouse envy in your neighbours with your magnificent garden.",
+        "alts": [],
+        "form": "Présent"
+      },
+      {
+        "slot": "t|Présent|3",
+        "f": "tense",
+        "s": "Par vos actions généreuses, vous ___ l'admiration de tout le village.",
+        "a": "suscitez",
+        "en": "Through your generous actions, you arouse the admiration of the whole village.",
+        "alts": [],
+        "form": "Présent"
+      },
+      {
+        "slot": "t|Présent|4",
+        "f": "tense",
+        "s": "Ces images ___ des émotions profondes chez tous les spectateurs.",
+        "a": "suscitent",
+        "en": "These images arouse deep emotions in all the spectators.",
+        "alts": [],
+        "form": "Présent"
+      },
+      {
+        "slot": "t|Présent|4",
+        "f": "tense",
+        "s": "Les nouvelles technologies ___ à la fois de l'espoir et de l'inquiétude.",
+        "a": "suscitent",
+        "en": "New technologies arouse both hope and anxiety.",
+        "alts": [],
+        "form": "Présent"
+      },
+      {
+        "slot": "t|Passé composé|0",
+        "f": "tense",
+        "s": "J'___ une vive réaction en annonçant ma démission.",
+        "a": "ai suscité",
+        "en": "I provoked a strong reaction by announcing my resignation.",
+        "alts": [],
+        "form": "Passé composé"
+      },
+      {
+        "slot": "t|Passé composé|0",
+        "f": "tense",
+        "s": "Lors de cette conférence, j'___ l'intérêt de plusieurs journalistes.",
+        "a": "ai suscité",
+        "en": "During this conference, I aroused the interest of several journalists.",
+        "alts": [],
+        "form": "Passé composé"
+      },
+      {
+        "slot": "t|Passé composé|1",
+        "f": "tense",
+        "s": "Tu ___ de nombreuses questions avec ta présentation d'hier.",
+        "a": "as suscité",
+        "en": "You aroused many questions with your presentation yesterday.",
+        "alts": [],
+        "form": "Passé composé"
+      },
+      {
+        "slot": "t|Passé composé|1",
+        "f": "tense",
+        "s": "Par ton discours, tu ___ une grande émotion dans la salle.",
+        "a": "as suscité",
+        "en": "Through your speech, you provoked great emotion in the room.",
+        "alts": [],
+        "form": "Passé composé"
+      },
+      {
+        "slot": "t|Passé composé|2",
+        "f": "tense",
+        "s": "Ce roman ___ un débat passionné dès sa parution.",
+        "a": "a suscité",
+        "en": "This novel provoked a passionate debate as soon as it was published.",
+        "alts": [],
+        "form": "Passé composé"
+      },
+      {
+        "slot": "t|Passé composé|2",
+        "f": "tense",
+        "s": "La décision du gouvernement ___ une forte opposition parmi les citoyens.",
+        "a": "a suscité",
+        "en": "The government's decision provoked strong opposition among citizens.",
+        "alts": [],
+        "form": "Passé composé"
+      },
+      {
+        "slot": "t|Passé composé|3",
+        "f": "tense",
+        "s": "Nous ___ beaucoup d'enthousiasme avec notre campagne caritative.",
+        "a": "avons suscité",
+        "en": "We aroused a lot of enthusiasm with our charity campaign.",
+        "alts": [],
+        "form": "Passé composé"
+      },
+      {
+        "slot": "t|Passé composé|3",
+        "f": "tense",
+        "s": "En publiant ces photos, nous ___ une vague d'indignation sur les réseaux sociaux.",
+        "a": "avons suscité",
+        "en": "By publishing these photos, we provoked a wave of indignation on social media.",
+        "alts": [],
+        "form": "Passé composé"
+      },
+      {
+        "slot": "t|Passé composé|4",
+        "f": "tense",
+        "s": "Vous ___ la méfiance de vos partenaires en changeant d'avis si souvent.",
+        "a": "avez suscité",
+        "en": "You aroused the mistrust of your partners by changing your mind so often.",
+        "alts": [],
+        "form": "Passé composé"
+      },
+      {
+        "slot": "t|Passé composé|4",
+        "f": "tense",
+        "s": "Par votre discours courageux, vous ___ l'admiration de toute la nation.",
+        "a": "avez suscité",
+        "en": "Through your courageous speech, you aroused the admiration of the entire nation.",
+        "alts": [],
+        "form": "Passé composé"
+      },
+      {
+        "slot": "t|Passé composé|5",
+        "f": "tense",
+        "s": "Ces révélations ___ une grande surprise au sein du parti.",
+        "a": "ont suscité",
+        "en": "These revelations provoked great surprise within the party.",
+        "alts": [],
+        "form": "Passé composé"
+      },
+      {
+        "slot": "t|Passé composé|5",
+        "f": "tense",
+        "s": "Les propos du ministre ___ de vives critiques dans les médias.",
+        "a": "ont suscité",
+        "en": "The minister's remarks provoked sharp criticism in the media.",
+        "alts": [],
+        "form": "Passé composé"
+      },
+      {
+        "slot": "t|Imparfait|0",
+        "f": "tense",
+        "s": "Quand j'étais enfant, je ___ toujours la curiosité des adultes par mes questions.",
+        "a": "suscitais",
+        "en": "When I was a child, I always aroused the curiosity of adults with my questions.",
+        "alts": [],
+        "form": "Imparfait"
+      },
+      {
+        "slot": "t|Imparfait|0",
+        "f": "tense",
+        "s": "Autrefois, tu ___ l'envie de tes camarades avec tes jouets.",
+        "a": "suscitais",
+        "en": "In the past, you used to arouse envy in your classmates with your toys.",
+        "alts": [],
+        "form": "Imparfait"
+      },
+      {
+        "slot": "t|Imparfait|1",
+        "f": "tense",
+        "s": "Sa façon de parler ___ toujours de l'admiration chez ses auditeurs.",
+        "a": "suscitait",
+        "en": "His way of speaking always aroused admiration in his listeners.",
+        "alts": [],
+        "form": "Imparfait"
+      },
+      {
+        "slot": "t|Imparfait|1",
+        "f": "tense",
+        "s": "Ce tableau ___ une profonde mélancolie chez tous ceux qui le contemplaient.",
+        "a": "suscitait",
+        "en": "This painting used to arouse deep melancholy in all who contemplated it.",
+        "alts": [],
+        "form": "Imparfait"
+      },
+      {
+        "slot": "t|Imparfait|2",
+        "f": "tense",
+        "s": "À cette époque, nous ___ l'intérêt des médias avec nos expériences.",
+        "a": "suscitions",
+        "en": "At that time, we used to arouse the media's interest with our experiments.",
+        "alts": [],
+        "form": "Imparfait"
+      },
+      {
+        "slot": "t|Imparfait|2",
+        "f": "tense",
+        "s": "Chaque année, nous ___ des vocations chez nos jeunes étudiants.",
+        "a": "suscitions",
+        "en": "Every year, we used to inspire vocations in our young students.",
+        "alts": [],
+        "form": "Imparfait"
+      },
+      {
+        "slot": "t|Imparfait|3",
+        "f": "tense",
+        "s": "Vous ___ souvent des polémiques avec vos déclarations provocatrices.",
+        "a": "suscitiez",
+        "en": "You used to often provoke controversies with your provocative statements.",
+        "alts": [],
+        "form": "Imparfait"
+      },
+      {
+        "slot": "t|Imparfait|3",
+        "f": "tense",
+        "s": "À l'époque, vous ___ l'enthousiasme de vos élèves à chaque cours.",
+        "a": "suscitiez",
+        "en": "At the time, you used to arouse enthusiasm in your students at every lesson.",
+        "alts": [],
+        "form": "Imparfait"
+      },
+      {
+        "slot": "t|Imparfait|4",
+        "f": "tense",
+        "s": "Ces affiches ___ la curiosité des passants dans la rue.",
+        "a": "suscitaient",
+        "en": "These posters used to arouse the curiosity of passers-by in the street.",
+        "alts": [],
+        "form": "Imparfait"
+      },
+      {
+        "slot": "t|Imparfait|4",
+        "f": "tense",
+        "s": "Ses discours ___ toujours une vive émotion parmi ses partisans.",
+        "a": "suscitaient",
+        "en": "His speeches always aroused strong emotion among his supporters.",
+        "alts": [],
+        "form": "Imparfait"
+      },
+      {
+        "slot": "t|Futur|0",
+        "f": "tense",
+        "s": "Je suis sûr que je ___ de nombreuses réactions avec mon prochain livre.",
+        "a": "susciterai",
+        "en": "I am sure that I will arouse many reactions with my next book.",
+        "alts": [],
+        "form": "Futur"
+      },
+      {
+        "slot": "t|Futur|0",
+        "f": "tense",
+        "s": "Demain, lors du débat, je ___ l'intérêt du public sur ce sujet.",
+        "a": "susciterai",
+        "en": "Tomorrow, during the debate, I will arouse the public's interest in this topic.",
+        "alts": [],
+        "form": "Futur"
+      },
+      {
+        "slot": "t|Futur|1",
+        "f": "tense",
+        "s": "Avec cette initiative, tu ___ certainement l'admiration de tes supérieurs.",
+        "a": "susciteras",
+        "en": "With this initiative, you will certainly arouse the admiration of your superiors.",
+        "alts": [],
+        "form": "Futur"
+      },
+      {
+        "slot": "t|Futur|1",
+        "f": "tense",
+        "s": "Si tu publies cet article, tu ___ beaucoup de commentaires.",
+        "a": "susciteras",
+        "en": "If you publish this article, you will arouse many comments.",
+        "alts": [],
+        "form": "Futur"
+      },
+      {
+        "slot": "t|Futur|2",
+        "f": "tense",
+        "s": "Ce nouveau projet ___ sans doute l'enthousiasme des habitants.",
+        "a": "suscitera",
+        "en": "This new project will undoubtedly arouse the enthusiasm of the residents.",
+        "alts": [],
+        "form": "Futur"
+      },
+      {
+        "slot": "t|Futur|2",
+        "f": "tense",
+        "s": "La publication de ce rapport ___ de nombreuses questions au Parlement.",
+        "a": "suscitera",
+        "en": "The publication of this report will provoke many questions in Parliament.",
+        "alts": [],
+        "form": "Futur"
+      },
+      {
+        "slot": "t|Futur|3",
+        "f": "tense",
+        "s": "Ensemble, nous ___ l'intérêt des donateurs pour notre association.",
+        "a": "susciterons",
+        "en": "Together, we will arouse the interest of donors for our association.",
+        "alts": [],
+        "form": "Futur"
+      },
+      {
+        "slot": "t|Futur|3",
+        "f": "tense",
+        "s": "Avec ce documentaire, nous ___ la prise de conscience du public sur ce problème.",
+        "a": "susciterons",
+        "en": "With this documentary, we will arouse public awareness of this problem.",
+        "alts": [],
+        "form": "Futur"
+      },
+      {
+        "slot": "t|Futur|4",
+        "f": "tense",
+        "s": "En adoptant cette politique, vous ___ la confiance des citoyens.",
+        "a": "susciterez",
+        "en": "By adopting this policy, you will arouse the trust of citizens.",
+        "alts": [],
+        "form": "Futur"
+      },
+      {
+        "slot": "t|Futur|4",
+        "f": "tense",
+        "s": "Avec votre nouvelle offre, vous ___ l'intérêt de nouveaux clients.",
+        "a": "susciterez",
+        "en": "With your new offer, you will arouse the interest of new customers.",
+        "alts": [],
+        "form": "Futur"
+      },
+      {
+        "slot": "t|Futur|5",
+        "f": "tense",
+        "s": "Ces mesures ___ de vives protestations parmi les travailleurs.",
+        "a": "susciteront",
+        "en": "These measures will provoke strong protests among workers.",
+        "alts": [],
+        "form": "Futur"
+      },
+      {
+        "slot": "t|Futur|5",
+        "f": "tense",
+        "s": "Les résultats de cette étude ___ l'attention des chercheurs du monde entier.",
+        "a": "susciteront",
+        "en": "The results of this study will arouse the attention of researchers worldwide.",
+        "alts": [],
+        "form": "Futur"
+      },
+      {
+        "slot": "t|Conditionnel|0",
+        "f": "tense",
+        "s": "Si j'avais plus d'expérience, je ___ davantage l'intérêt des recruteurs.",
+        "a": "susciterais",
+        "en": "If I had more experience, I would arouse more interest from recruiters.",
+        "alts": [],
+        "form": "Conditionnel"
+      },
+      {
+        "slot": "t|Conditionnel|0",
+        "f": "tense",
+        "s": "Si tu essayais cette nouvelle approche, tu ___ moins de résistance de la part de tes collègues.",
+        "a": "susciterais",
+        "en": "If you tried this new approach, you would arouse less resistance from your colleagues.",
+        "alts": [],
+        "form": "Conditionnel"
+      },
+      {
+        "slot": "t|Conditionnel|1",
+        "f": "tense",
+        "s": "Une telle déclaration ___ immédiatement la colère de l'opposition.",
+        "a": "susciterait",
+        "en": "Such a statement would immediately arouse the anger of the opposition.",
+        "alts": [],
+        "form": "Conditionnel"
+      },
+      {
+        "slot": "t|Conditionnel|1",
+        "f": "tense",
+        "s": "Ce scandale ___ certainement la méfiance de l'opinion publique.",
+        "a": "susciterait",
+        "en": "This scandal would certainly arouse the distrust of public opinion.",
+        "alts": [],
+        "form": "Conditionnel"
+      },
+      {
+        "slot": "t|Conditionnel|2",
+        "f": "tense",
+        "s": "Si nous adoptions cette stratégie, nous ___ davantage d'intérêt pour notre produit.",
+        "a": "susciterions",
+        "en": "If we adopted this strategy, we would arouse more interest in our product.",
+        "alts": [],
+        "form": "Conditionnel"
+      },
+      {
+        "slot": "t|Conditionnel|2",
+        "f": "tense",
+        "s": "Avec un meilleur budget, nous ___ des vocations chez les jeunes chercheurs.",
+        "a": "susciterions",
+        "en": "With a better budget, we would inspire vocations among young researchers.",
+        "alts": [],
+        "form": "Conditionnel"
+      },
+      {
+        "slot": "t|Conditionnel|3",
+        "f": "tense",
+        "s": "Avec une communication plus claire, vous ___ moins de confusion chez vos clients.",
+        "a": "susciteriez",
+        "en": "With clearer communication, you would arouse less confusion among your customers.",
+        "alts": [],
+        "form": "Conditionnel"
+      },
+      {
+        "slot": "t|Conditionnel|3",
+        "f": "tense",
+        "s": "Si vous changiez de méthode, vous ___ plus d'enthousiasme dans votre équipe.",
+        "a": "susciteriez",
+        "en": "If you changed your method, you would arouse more enthusiasm in your team.",
+        "alts": [],
+        "form": "Conditionnel"
+      },
+      {
+        "slot": "t|Conditionnel|4",
+        "f": "tense",
+        "s": "De telles provocations ___ immédiatement des tensions entre les deux pays.",
+        "a": "susciteraient",
+        "en": "Such provocations would immediately arouse tensions between the two countries.",
+        "alts": [],
+        "form": "Conditionnel"
+      },
+      {
+        "slot": "t|Conditionnel|4",
+        "f": "tense",
+        "s": "Ces révélations ___ beaucoup d'indignation parmi les citoyens.",
+        "a": "susciteraient",
+        "en": "These revelations would arouse a lot of indignation among citizens.",
+        "alts": [],
+        "form": "Conditionnel"
+      },
+      {
+        "slot": "t|Subjonctif",
+        "f": "subj",
+        "s": "Il faut que tu ___ davantage l'intérêt de tes élèves pour les sciences.",
+        "a": "suscites",
+        "en": "You must arouse more interest in science among your students.",
+        "alts": [],
+        "form": "Subjonctif présent"
+      },
+      {
+        "slot": "t|Subjonctif",
+        "f": "subj",
+        "s": "Je souhaite que ce film ___ une vraie réflexion chez les spectateurs.",
+        "a": "suscite",
+        "en": "I wish that this film provokes genuine reflection in the audience.",
+        "alts": [],
+        "form": "Subjonctif présent"
+      },
+      {
+        "slot": "s|0",
+        "f": "sense",
+        "s": "Ses propos ont ___ une forte réaction de la part des médias.",
+        "a": "suscité",
+        "en": "His words gave rise to a strong reaction from the media.",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "s|0",
+        "f": "sense",
+        "s": "Ce projet architectural ___ un vif intérêt auprès des urbanistes.",
+        "a": "suscite",
+        "en": "This architectural project arouses keen interest among urban planners.",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "s|1",
+        "f": "sense",
+        "s": "Le discours du président a ___ la colère de nombreux manifestants.",
+        "a": "suscité",
+        "en": "The president's speech stirred up the anger of many protesters.",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "s|1",
+        "f": "sense",
+        "s": "Cette injustice flagrante ___ l'indignation de toute la population.",
+        "a": "suscite",
+        "en": "This blatant injustice stirs up indignation throughout the population.",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "s|2",
+        "f": "sense",
+        "s": "Cette vieille mélodie ___ en lui des souvenirs d'enfance.",
+        "a": "suscite",
+        "en": "This old melody evokes childhood memories in him.",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "s|2",
+        "f": "sense",
+        "s": "Le roman a ___ chez les lecteurs une nostalgie profonde pour le passé.",
+        "a": "suscité",
+        "en": "The novel evoked in readers a deep nostalgia for the past.",
+        "alts": [],
+        "form": ""
+      }
+    ]
+  }
+]

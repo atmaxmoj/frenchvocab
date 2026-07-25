@@ -1,0 +1,719 @@
+[
+  {
+    "id": 2607,
+    "qs": [
+      {
+        "slot": "s|0",
+        "f": "sense",
+        "s": "Elle a soutenu sa ___ de doctorat avec succès devant le jury.",
+        "a": "thèse",
+        "en": "She successfully defended her doctoral thesis before the committee.",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "s|0",
+        "f": "sense",
+        "s": "Pour obtenir le titre de docteur, il faut rédiger une ___ originale.",
+        "a": "thèse",
+        "en": "To earn a doctorate, one must write an original thesis.",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "s|1",
+        "f": "sense",
+        "s": "Le professeur a annoncé la ___ qu'il allait défendre dès le début du cours.",
+        "a": "thèse",
+        "en": "The professor announced the argument he was going to defend at the very start of the class.",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "s|1",
+        "f": "sense",
+        "s": "Les étudiants ont longuement discuté de la ___ proposée par l'intervenant.",
+        "a": "thèse",
+        "en": "The students debated at length the argument put forward by the speaker.",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "s|2",
+        "f": "sense",
+        "s": "Son avocat a présenté une ___ solide pour défendre son client devant le tribunal.",
+        "a": "thèse",
+        "en": "His lawyer presented a solid argument to defend his client before the court.",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "s|2",
+        "f": "sense",
+        "s": "L'auteur développe sa ___ tout au long du livre avec une grande rigueur.",
+        "a": "thèse",
+        "en": "The author develops his argument throughout the entire book with great rigor.",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "gender",
+        "f": "gender",
+        "s": "La directrice a rédigé ___ thèse remarquable sur la linguistique cognitive.",
+        "a": "une",
+        "en": "The director wrote a remarkable thesis on cognitive linguistics.",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "gender",
+        "f": "gender",
+        "s": "___ thèse de ce chercheur est disponible en accès libre sur Internet.",
+        "a": "La",
+        "en": "This researcher's thesis is freely available online.",
+        "alts": [],
+        "form": ""
+      }
+    ]
+  },
+  {
+    "id": 2608,
+    "qs": [
+      {
+        "slot": "s|0",
+        "f": "sense",
+        "s": "Ce niveau de risque est ___ selon les experts.",
+        "a": "acceptable",
+        "en": "This level of risk is acceptable according to the experts.",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "s|0",
+        "f": "sense",
+        "s": "Son comportement n'était pas ___ dans cette situation.",
+        "a": "acceptable",
+        "en": "His behaviour was not acceptable in that situation.",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "s|1",
+        "f": "sense",
+        "s": "Ses résultats scolaires sont ___ , mais il peut encore faire mieux.",
+        "a": "acceptable",
+        "en": "His school results are satisfactory, but he can still do better.",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "s|1",
+        "f": "sense",
+        "s": "La qualité de ce rapport est ___ pour une première version.",
+        "a": "acceptable",
+        "en": "The quality of this report is satisfactory for a first version.",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "g|mp",
+        "f": "agree",
+        "s": "Les délais proposés sont ___ pour notre équipe.",
+        "a": "acceptables",
+        "en": "The proposed deadlines are acceptable for our team.",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "g|mp",
+        "f": "agree",
+        "s": "Ces prix sont ___ compte tenu de la qualité des produits.",
+        "a": "acceptables",
+        "en": "These prices are acceptable given the quality of the products.",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "g|f",
+        "f": "agree",
+        "s": "La proposition faite par le directeur est tout à fait ___.",
+        "a": "acceptable",
+        "en": "The proposal made by the director is entirely acceptable.",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "g|f",
+        "f": "agree",
+        "s": "Cette solution me semble ___ dans les circonstances actuelles.",
+        "a": "acceptable",
+        "en": "This solution seems acceptable to me in the current circumstances.",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "g|fp",
+        "f": "agree",
+        "s": "Les conditions de travail dans cette entreprise sont ___.",
+        "a": "acceptables",
+        "en": "The working conditions in this company are acceptable.",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "g|fp",
+        "f": "agree",
+        "s": "Les températures prévues ce week-end sont ___ pour faire une randonnée.",
+        "a": "acceptables",
+        "en": "The forecast temperatures this weekend are acceptable for a hike.",
+        "alts": [],
+        "form": ""
+      }
+    ]
+  },
+  {
+    "id": 2609,
+    "qs": [
+      {
+        "slot": "t|Présent|0",
+        "f": "tense",
+        "s": "Je ___ de derrière un arbre pour faire peur à mon frère.",
+        "a": "surgis",
+        "en": "I spring up from behind a tree to scare my brother.",
+        "alts": [],
+        "form": "Présent"
+      },
+      {
+        "slot": "t|Présent|0",
+        "f": "tense",
+        "s": "Tu ___ toujours au mauvais moment, c'est incroyable.",
+        "a": "surgis",
+        "en": "You always spring up at the wrong moment, it's incredible.",
+        "alts": [],
+        "form": "Présent"
+      },
+      {
+        "slot": "t|Présent|1",
+        "f": "tense",
+        "s": "Un homme masqué ___ de l'ombre et bloque le passage.",
+        "a": "surgit",
+        "en": "A masked man springs up from the shadow and blocks the way.",
+        "alts": [],
+        "form": "Présent"
+      },
+      {
+        "slot": "t|Présent|1",
+        "f": "tense",
+        "s": "Chaque fois qu'on croit avoir réglé le problème, il ___ de nouveau.",
+        "a": "surgit",
+        "en": "Every time we think the problem is solved, it springs up again.",
+        "alts": [],
+        "form": "Présent"
+      },
+      {
+        "slot": "t|Présent|2",
+        "f": "tense",
+        "s": "Nous ___ de notre cachette dès que le signal retentit.",
+        "a": "surgissons",
+        "en": "We spring up from our hiding spot as soon as the signal sounds.",
+        "alts": [],
+        "form": "Présent"
+      },
+      {
+        "slot": "t|Présent|2",
+        "f": "tense",
+        "s": "Nous ___ parfois de la foule pour attirer l'attention.",
+        "a": "surgissons",
+        "en": "We sometimes spring up from the crowd to attract attention.",
+        "alts": [],
+        "form": "Présent"
+      },
+      {
+        "slot": "t|Présent|3",
+        "f": "tense",
+        "s": "Vous ___ toujours à l'improviste, sans prévenir personne.",
+        "a": "surgissez",
+        "en": "You always spring up unexpectedly, without warning anyone.",
+        "alts": [],
+        "form": "Présent"
+      },
+      {
+        "slot": "t|Présent|3",
+        "f": "tense",
+        "s": "D'où ___ vous, les enfants ? Je ne vous ai pas entendus entrer.",
+        "a": "surgissez",
+        "en": "Where do you spring up from, children? I didn't hear you come in.",
+        "alts": [],
+        "form": "Présent"
+      },
+      {
+        "slot": "t|Présent|4",
+        "f": "tense",
+        "s": "Des questions difficiles ___ dès que la réunion commence.",
+        "a": "surgissent",
+        "en": "Difficult questions spring up as soon as the meeting starts.",
+        "alts": [],
+        "form": "Présent"
+      },
+      {
+        "slot": "t|Présent|4",
+        "f": "tense",
+        "s": "Les manifestants ___ de partout dans le centre-ville.",
+        "a": "surgissent",
+        "en": "The protesters spring up from everywhere in the city centre.",
+        "alts": [],
+        "form": "Présent"
+      },
+      {
+        "slot": "t|Passé composé|0",
+        "f": "tense",
+        "s": "J'___ de derrière la porte pour surprendre mes collègues.",
+        "a": "ai surgi",
+        "en": "I sprang up from behind the door to surprise my colleagues.",
+        "alts": [],
+        "form": "Passé composé"
+      },
+      {
+        "slot": "t|Passé composé|0",
+        "f": "tense",
+        "s": "Ce matin, j'___ du lit à six heures quand mon téléphone a sonné.",
+        "a": "ai surgi",
+        "en": "This morning, I sprang up from bed at six when my phone rang.",
+        "alts": [],
+        "form": "Passé composé"
+      },
+      {
+        "slot": "t|Passé composé|1",
+        "f": "tense",
+        "s": "Tu ___ de nulle part et tu nous as tous surpris.",
+        "a": "as surgi",
+        "en": "You sprang up from nowhere and surprised us all.",
+        "alts": [],
+        "form": "Passé composé"
+      },
+      {
+        "slot": "t|Passé composé|1",
+        "f": "tense",
+        "s": "Tu ___ du couloir juste au moment où j'allais partir.",
+        "a": "as surgi",
+        "en": "You sprang up from the hallway just as I was about to leave.",
+        "alts": [],
+        "form": "Passé composé"
+      },
+      {
+        "slot": "t|Passé composé|2",
+        "f": "tense",
+        "s": "Un renard ___ des buissons et a traversé la route.",
+        "a": "a surgi",
+        "en": "A fox sprang up from the bushes and crossed the road.",
+        "alts": [],
+        "form": "Passé composé"
+      },
+      {
+        "slot": "t|Passé composé|2",
+        "f": "tense",
+        "s": "Une idée brillante lui ___ à l'esprit pendant la nuit.",
+        "a": "a surgi",
+        "en": "A brilliant idea sprang up in her mind during the night.",
+        "alts": [],
+        "form": "Passé composé"
+      },
+      {
+        "slot": "t|Passé composé|3",
+        "f": "tense",
+        "s": "Nous ___ de nos sièges quand l'arbitre a sifflé le but.",
+        "a": "avons surgi",
+        "en": "We sprang up from our seats when the referee blew the whistle for a goal.",
+        "alts": [],
+        "form": "Passé composé"
+      },
+      {
+        "slot": "t|Passé composé|3",
+        "f": "tense",
+        "s": "Nous ___ du sous-sol au premier bruit d'alarme.",
+        "a": "avons surgi",
+        "en": "We sprang up from the basement at the first alarm sound.",
+        "alts": [],
+        "form": "Passé composé"
+      },
+      {
+        "slot": "t|Passé composé|4",
+        "f": "tense",
+        "s": "Vous ___ de derrière les voitures et vous avez bloqué la rue.",
+        "a": "avez surgi",
+        "en": "You sprang up from behind the cars and blocked the street.",
+        "alts": [],
+        "form": "Passé composé"
+      },
+      {
+        "slot": "t|Passé composé|4",
+        "f": "tense",
+        "s": "Comment ___ vous si vite à cet endroit ? Vous avez pris un raccourci ?",
+        "a": "avez surgi",
+        "en": "How did you spring up so quickly at this place? Did you take a shortcut?",
+        "alts": [],
+        "form": "Passé composé"
+      },
+      {
+        "slot": "t|Passé composé|5",
+        "f": "tense",
+        "s": "Les gardes du corps ___ de partout quand le président est sorti.",
+        "a": "ont surgi",
+        "en": "The bodyguards sprang up from everywhere when the president came out.",
+        "alts": [],
+        "form": "Passé composé"
+      },
+      {
+        "slot": "t|Passé composé|5",
+        "f": "tense",
+        "s": "Des immeubles ___ dans ce quartier en moins de deux ans.",
+        "a": "ont surgi",
+        "en": "Buildings sprang up in this neighbourhood in less than two years.",
+        "alts": [],
+        "form": "Passé composé"
+      },
+      {
+        "slot": "t|Imparfait|0",
+        "f": "tense",
+        "s": "Quand j'étais enfant, je ___ souvent de mon lit en pleine nuit.",
+        "a": "surgissais",
+        "en": "When I was a child, I often sprang up from my bed in the middle of the night.",
+        "alts": [],
+        "form": "Imparfait"
+      },
+      {
+        "slot": "t|Imparfait|0",
+        "f": "tense",
+        "s": "Tu ___ toujours de la cuisine avec un grand sourire.",
+        "a": "surgissais",
+        "en": "You always sprang up from the kitchen with a big smile.",
+        "alts": [],
+        "form": "Imparfait"
+      },
+      {
+        "slot": "t|Imparfait|1",
+        "f": "tense",
+        "s": "Un lapin ___ régulièrement de ce terrier à l'aube.",
+        "a": "surgissait",
+        "en": "A rabbit regularly sprang up from that burrow at dawn.",
+        "alts": [],
+        "form": "Imparfait"
+      },
+      {
+        "slot": "t|Imparfait|1",
+        "f": "tense",
+        "s": "Elle ___ du bureau dès qu'elle entendait des pas dans le couloir.",
+        "a": "surgissait",
+        "en": "She sprang up from behind the desk as soon as she heard footsteps in the hallway.",
+        "alts": [],
+        "form": "Imparfait"
+      },
+      {
+        "slot": "t|Imparfait|2",
+        "f": "tense",
+        "s": "Nous ___ de notre cachette chaque fois que les enfants passaient.",
+        "a": "surgissions",
+        "en": "We sprang up from our hiding place each time the children walked by.",
+        "alts": [],
+        "form": "Imparfait"
+      },
+      {
+        "slot": "t|Imparfait|2",
+        "f": "tense",
+        "s": "Avant, nous ___ souvent du fond de la salle pour prendre la parole.",
+        "a": "surgissions",
+        "en": "Before, we often sprang up from the back of the room to speak.",
+        "alts": [],
+        "form": "Imparfait"
+      },
+      {
+        "slot": "t|Imparfait|3",
+        "f": "tense",
+        "s": "Vous ___ de nulle part chaque matin pour demander des nouvelles.",
+        "a": "surgissiez",
+        "en": "You sprang up from nowhere every morning to ask for news.",
+        "alts": [],
+        "form": "Imparfait"
+      },
+      {
+        "slot": "t|Imparfait|3",
+        "f": "tense",
+        "s": "Autrefois, vous ___ à chaque réunion pour contester les décisions.",
+        "a": "surgissiez",
+        "en": "In the past, you used to spring up at every meeting to challenge decisions.",
+        "alts": [],
+        "form": "Imparfait"
+      },
+      {
+        "slot": "t|Imparfait|4",
+        "f": "tense",
+        "s": "Les reporters ___ de partout dès que la star apparaissait.",
+        "a": "surgissaient",
+        "en": "Reporters sprang up from everywhere as soon as the star appeared.",
+        "alts": [],
+        "form": "Imparfait"
+      },
+      {
+        "slot": "t|Imparfait|4",
+        "f": "tense",
+        "s": "Des problèmes ___ sans cesse pendant la phase de construction.",
+        "a": "surgissaient",
+        "en": "Problems kept springing up continuously during the construction phase.",
+        "alts": [],
+        "form": "Imparfait"
+      },
+      {
+        "slot": "t|Futur|0",
+        "f": "tense",
+        "s": "Je ___ de ma chaise dès que le directeur annoncera sa décision.",
+        "a": "surgirai",
+        "en": "I will spring up from my chair as soon as the director announces his decision.",
+        "alts": [],
+        "form": "Futur"
+      },
+      {
+        "slot": "t|Futur|0",
+        "f": "tense",
+        "s": "Je ___ de la foule au moment voulu pour interpeller le ministre.",
+        "a": "surgirai",
+        "en": "I will spring up from the crowd at the right moment to confront the minister.",
+        "alts": [],
+        "form": "Futur"
+      },
+      {
+        "slot": "t|Futur|1",
+        "f": "tense",
+        "s": "Tu ___ certainement de ta torpeur quand tu verras les résultats.",
+        "a": "surgiras",
+        "en": "You will certainly spring up from your torpor when you see the results.",
+        "alts": [],
+        "form": "Futur"
+      },
+      {
+        "slot": "t|Futur|1",
+        "f": "tense",
+        "s": "Tu ___ de derrière le rideau au bon moment pour les surprendre.",
+        "a": "surgiras",
+        "en": "You will spring up from behind the curtain at the right moment to surprise them.",
+        "alts": [],
+        "form": "Futur"
+      },
+      {
+        "slot": "t|Futur|2",
+        "f": "tense",
+        "s": "Un nouveau concurrent ___ sans doute dans ce marché l'année prochaine.",
+        "a": "surgira",
+        "en": "A new competitor will no doubt spring up in this market next year.",
+        "alts": [],
+        "form": "Futur"
+      },
+      {
+        "slot": "t|Futur|2",
+        "f": "tense",
+        "s": "La vérité ___ tôt ou tard malgré tous leurs efforts pour la cacher.",
+        "a": "surgira",
+        "en": "The truth will spring up sooner or later despite all their efforts to hide it.",
+        "alts": [],
+        "form": "Futur"
+      },
+      {
+        "slot": "t|Futur|3",
+        "f": "tense",
+        "s": "Nous ___ de derrière la haie quand les invités arriveront.",
+        "a": "surgirons",
+        "en": "We will spring up from behind the hedge when the guests arrive.",
+        "alts": [],
+        "form": "Futur"
+      },
+      {
+        "slot": "t|Futur|3",
+        "f": "tense",
+        "s": "Nous ___ de nos abris dès que la tempête sera passée.",
+        "a": "surgirons",
+        "en": "We will spring up from our shelters as soon as the storm has passed.",
+        "alts": [],
+        "form": "Futur"
+      },
+      {
+        "slot": "t|Futur|4",
+        "f": "tense",
+        "s": "Vous ___ de votre silence quand le moment sera venu.",
+        "a": "surgirez",
+        "en": "You will spring up from your silence when the time comes.",
+        "alts": [],
+        "form": "Futur"
+      },
+      {
+        "slot": "t|Futur|4",
+        "f": "tense",
+        "s": "Vous ___ de scène à la fin du spectacle pour saluer le public.",
+        "a": "surgirez",
+        "en": "You will spring up onto the stage at the end of the show to greet the audience.",
+        "alts": [],
+        "form": "Futur"
+      },
+      {
+        "slot": "t|Futur|5",
+        "f": "tense",
+        "s": "De nouvelles idées ___ pendant le brainstorming de demain.",
+        "a": "surgiront",
+        "en": "New ideas will spring up during tomorrow's brainstorming session.",
+        "alts": [],
+        "form": "Futur"
+      },
+      {
+        "slot": "t|Futur|5",
+        "f": "tense",
+        "s": "Des bénévoles ___ dès qu'on lancera l'appel aux dons.",
+        "a": "surgiront",
+        "en": "Volunteers will spring up as soon as the call for donations is launched.",
+        "alts": [],
+        "form": "Futur"
+      },
+      {
+        "slot": "t|Conditionnel|0",
+        "f": "tense",
+        "s": "Si tu faisais du bruit, je ___ immédiatement pour voir ce qui se passe.",
+        "a": "surgirais",
+        "en": "If you made noise, I would spring up immediately to see what was happening.",
+        "alts": [],
+        "form": "Conditionnel"
+      },
+      {
+        "slot": "t|Conditionnel|0",
+        "f": "tense",
+        "s": "Tu ___ de ta chaise si quelqu'un prononçait ton nom à la radio.",
+        "a": "surgirais",
+        "en": "You would spring up from your chair if someone said your name on the radio.",
+        "alts": [],
+        "form": "Conditionnel"
+      },
+      {
+        "slot": "t|Conditionnel|1",
+        "f": "tense",
+        "s": "Un problème ___ forcément si on ignorait toutes ces alertes.",
+        "a": "surgirait",
+        "en": "A problem would inevitably spring up if all these warnings were ignored.",
+        "alts": [],
+        "form": "Conditionnel"
+      },
+      {
+        "slot": "t|Conditionnel|1",
+        "f": "tense",
+        "s": "Elle ___ de sa cachette si elle entendait son prénom.",
+        "a": "surgirait",
+        "en": "She would spring up from her hiding place if she heard her first name.",
+        "alts": [],
+        "form": "Conditionnel"
+      },
+      {
+        "slot": "t|Conditionnel|2",
+        "f": "tense",
+        "s": "Nous ___ de notre retraite si la situation l'exigeait.",
+        "a": "surgirions",
+        "en": "We would spring up from our retreat if the situation required it.",
+        "alts": [],
+        "form": "Conditionnel"
+      },
+      {
+        "slot": "t|Conditionnel|2",
+        "f": "tense",
+        "s": "Nous ___ certainement du groupe si quelqu'un nous attaquait.",
+        "a": "surgirions",
+        "en": "We would certainly spring up from the group if someone attacked us.",
+        "alts": [],
+        "form": "Conditionnel"
+      },
+      {
+        "slot": "t|Conditionnel|3",
+        "f": "tense",
+        "s": "Vous ___ de votre bureau si on vous annonçait une bonne nouvelle.",
+        "a": "surgiriez",
+        "en": "You would spring up from your desk if you were told some good news.",
+        "alts": [],
+        "form": "Conditionnel"
+      },
+      {
+        "slot": "t|Conditionnel|3",
+        "f": "tense",
+        "s": "Vous ___ de cette impasse si vous acceptiez de coopérer.",
+        "a": "surgiriez",
+        "en": "You would spring up from this dead end if you agreed to cooperate.",
+        "alts": [],
+        "form": "Conditionnel"
+      },
+      {
+        "slot": "t|Conditionnel|4",
+        "f": "tense",
+        "s": "Des complications ___ si on négligeait cette étape du processus.",
+        "a": "surgiraient",
+        "en": "Complications would spring up if this step of the process were neglected.",
+        "alts": [],
+        "form": "Conditionnel"
+      },
+      {
+        "slot": "t|Conditionnel|4",
+        "f": "tense",
+        "s": "Les manifestants ___ de partout si le gouvernement prenait cette décision.",
+        "a": "surgiraient",
+        "en": "Protesters would spring up from everywhere if the government made that decision.",
+        "alts": [],
+        "form": "Conditionnel"
+      },
+      {
+        "slot": "t|Subjonctif",
+        "f": "subj",
+        "s": "Il faut que tu ___ de ta torpeur et que tu réagisses enfin.",
+        "a": "surgisses",
+        "en": "You must spring up from your torpor and finally react.",
+        "alts": [],
+        "form": "Subjonctif présent"
+      },
+      {
+        "slot": "t|Subjonctif",
+        "f": "subj",
+        "s": "Je veux qu'il ___ de sa cachette avant que le signal retentisse.",
+        "a": "surgisse",
+        "en": "I want him to spring up from his hiding place before the signal sounds.",
+        "alts": [],
+        "form": "Subjonctif présent"
+      },
+      {
+        "slot": "s|0",
+        "f": "sense",
+        "s": "Un homme armé a ___ de derrière un véhicule et a bloqué la route.",
+        "a": "surgi",
+        "en": "An armed man suddenly appeared from behind a vehicle and blocked the road.",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "s|0",
+        "f": "sense",
+        "s": "Le chat a ___ du placard et a fait sursauter tout le monde.",
+        "a": "surgi",
+        "en": "The cat suddenly appeared from the cupboard and startled everyone.",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "s|1",
+        "f": "sense",
+        "s": "De nouvelles technologies ont ___ dans ce domaine ces dernières années.",
+        "a": "surgi",
+        "en": "New technologies have sprung up in this field in recent years.",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "s|1",
+        "f": "sense",
+        "s": "Des milliers de startups ont ___ dans la Silicon Valley en quelques décennies.",
+        "a": "surgi",
+        "en": "Thousands of start-ups have sprung up in Silicon Valley over a few decades.",
+        "alts": [],
+        "form": ""
+      }
+    ]
+  }
+]

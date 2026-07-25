@@ -1,0 +1,737 @@
+[
+  {
+    "id": 1854,
+    "qs": [
+      {
+        "slot": "s|0",
+        "f": "sense",
+        "s": "La musique peut déclencher des ___ très profondes chez les auditeurs.",
+        "a": "émotions",
+        "en": "Music can trigger very deep emotions in listeners.",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "s|0",
+        "f": "sense",
+        "s": "Il a du mal à contrôler ses ___ quand il est fatigué.",
+        "a": "émotions",
+        "en": "He has trouble controlling his emotions when he is tired.",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "s|1",
+        "f": "sense",
+        "s": "Sa voix tremblait d'___ quand il a annoncé la nouvelle.",
+        "a": "émotion",
+        "en": "His voice was trembling with emotion when he announced the news.",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "s|1",
+        "f": "sense",
+        "s": "Elle a fondu en larmes sous le coup de l'___ en recevant son prix.",
+        "a": "émotion",
+        "en": "She burst into tears, overcome with emotion, when receiving her award.",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "s|2",
+        "f": "sense",
+        "s": "Ce film exprime des ___ universelles que tout le monde peut ressentir.",
+        "a": "émotions",
+        "en": "This film expresses universal feelings that everyone can feel.",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "s|2",
+        "f": "sense",
+        "s": "Partager ses ___ avec ses proches renforce les liens affectifs.",
+        "a": "émotions",
+        "en": "Sharing one's feelings with loved ones strengthens emotional bonds.",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "gender",
+        "f": "gender",
+        "s": "C'était ___ émotion la plus intense qu'il ait jamais ressentie.",
+        "a": "l'",
+        "en": "It was the most intense emotion he had ever felt.",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "gender",
+        "f": "gender",
+        "s": "Il a partagé ___ émotion sincère avec son public ce soir-là.",
+        "a": "une",
+        "en": "He shared a sincere emotion with his audience that evening.",
+        "alts": [],
+        "form": ""
+      }
+    ]
+  },
+  {
+    "id": 1855,
+    "qs": [
+      {
+        "slot": "s|0",
+        "f": "sense",
+        "s": "Le pouvoir ___ est l'un des trois piliers de la démocratie.",
+        "a": "judiciaire",
+        "en": "The judiciary is one of the three pillars of democracy.",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "s|0",
+        "f": "sense",
+        "s": "Le système ___ français repose sur le principe de la séparation des pouvoirs.",
+        "a": "judiciaire",
+        "en": "The French judiciary system is based on the principle of the separation of powers.",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "s|1",
+        "f": "sense",
+        "s": "Il a passé trois ans en prison à cause d'une erreur ___.",
+        "a": "judiciaire",
+        "en": "He spent three years in prison because of a legal error.",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "s|1",
+        "f": "sense",
+        "s": "Elle a consulté un avocat pour engager une procédure ___ contre son employeur.",
+        "a": "judiciaire",
+        "en": "She consulted a lawyer to initiate legal proceedings against her employer.",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "g|mp",
+        "f": "agree",
+        "s": "Les systèmes ___ de ces deux pays sont très différents l'un de l'autre.",
+        "a": "judiciaires",
+        "en": "The judicial systems of these two countries are very different from each other.",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "g|mp",
+        "f": "agree",
+        "s": "Les pouvoirs ___ indépendants sont essentiels dans une société démocratique.",
+        "a": "judiciaires",
+        "en": "Independent judicial powers are essential in a democratic society.",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "g|f",
+        "f": "agree",
+        "s": "L'autorité ___ a ordonné la saisie des biens de l'accusé.",
+        "a": "judiciaire",
+        "en": "The judicial authority ordered the seizure of the accused's assets.",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "g|f",
+        "f": "agree",
+        "s": "Une enquête ___ a été ouverte après la découverte des documents compromettants.",
+        "a": "judiciaire",
+        "en": "A judicial inquiry was opened after the discovery of the compromising documents.",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "g|fp",
+        "f": "agree",
+        "s": "Les erreurs ___ peuvent avoir des conséquences graves pour les innocents.",
+        "a": "judiciaires",
+        "en": "Legal errors can have serious consequences for innocent people.",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "g|fp",
+        "f": "agree",
+        "s": "Les procédures ___ sont souvent longues et coûteuses pour les deux parties.",
+        "a": "judiciaires",
+        "en": "Legal proceedings are often long and costly for both parties.",
+        "alts": [],
+        "form": ""
+      }
+    ]
+  },
+  {
+    "id": 1856,
+    "qs": [
+      {
+        "slot": "t|Présent|0",
+        "f": "tense",
+        "s": "Chaque jour, je ___ un peu en français.",
+        "a": "progresse",
+        "en": "Every day, I progress a little in French.",
+        "alts": [],
+        "form": "Présent"
+      },
+      {
+        "slot": "t|Présent|0",
+        "f": "tense",
+        "s": "Mon fils ___ rapidement en mathématiques.",
+        "a": "progresse",
+        "en": "My son progresses quickly in mathematics.",
+        "alts": [],
+        "form": "Présent"
+      },
+      {
+        "slot": "t|Présent|1",
+        "f": "tense",
+        "s": "Tu ___ bien depuis le début de l'année.",
+        "a": "progresses",
+        "en": "You are progressing well since the beginning of the year.",
+        "alts": [],
+        "form": "Présent"
+      },
+      {
+        "slot": "t|Présent|1",
+        "f": "tense",
+        "s": "Est-ce que tu ___ en natation cette saison ?",
+        "a": "progresses",
+        "en": "Are you progressing in swimming this season?",
+        "alts": [],
+        "form": "Présent"
+      },
+      {
+        "slot": "t|Présent|2",
+        "f": "tense",
+        "s": "Nous ___ grâce aux efforts de toute l'équipe.",
+        "a": "progressons",
+        "en": "We progress thanks to the efforts of the whole team.",
+        "alts": [],
+        "form": "Présent"
+      },
+      {
+        "slot": "t|Présent|2",
+        "f": "tense",
+        "s": "Ensemble, nous ___ vers notre objectif commun.",
+        "a": "progressons",
+        "en": "Together, we progress toward our common goal.",
+        "alts": [],
+        "form": "Présent"
+      },
+      {
+        "slot": "t|Présent|3",
+        "f": "tense",
+        "s": "Vous ___ vraiment vite dans votre apprentissage.",
+        "a": "progressez",
+        "en": "You are progressing very quickly in your learning.",
+        "alts": [],
+        "form": "Présent"
+      },
+      {
+        "slot": "t|Présent|3",
+        "f": "tense",
+        "s": "Comment est-ce que vous ___ dans ce projet ?",
+        "a": "progressez",
+        "en": "How are you progressing in this project?",
+        "alts": [],
+        "form": "Présent"
+      },
+      {
+        "slot": "t|Présent|4",
+        "f": "tense",
+        "s": "Les élèves ___ à leur propre rythme.",
+        "a": "progressent",
+        "en": "The students progress at their own pace.",
+        "alts": [],
+        "form": "Présent"
+      },
+      {
+        "slot": "t|Présent|4",
+        "f": "tense",
+        "s": "Les négociations ___ lentement mais sûrement.",
+        "a": "progressent",
+        "en": "The negotiations progress slowly but surely.",
+        "alts": [],
+        "form": "Présent"
+      },
+      {
+        "slot": "t|Passé composé|0",
+        "f": "tense",
+        "s": "Cette année, j' ___ beaucoup en piano.",
+        "a": "ai progressé",
+        "en": "This year, I have progressed a lot in piano.",
+        "alts": [],
+        "form": "Passé composé"
+      },
+      {
+        "slot": "t|Passé composé|0",
+        "f": "tense",
+        "s": "Depuis mon retour, j' ___ en cuisine.",
+        "a": "ai progressé",
+        "en": "Since my return, I have progressed in cooking.",
+        "alts": [],
+        "form": "Passé composé"
+      },
+      {
+        "slot": "t|Passé composé|1",
+        "f": "tense",
+        "s": "Tu ___ énormément depuis la dernière évaluation.",
+        "a": "as progressé",
+        "en": "You have progressed enormously since the last evaluation.",
+        "alts": [],
+        "form": "Passé composé"
+      },
+      {
+        "slot": "t|Passé composé|1",
+        "f": "tense",
+        "s": "En six mois, tu ___ de façon remarquable.",
+        "a": "as progressé",
+        "en": "In six months, you have progressed remarkably.",
+        "alts": [],
+        "form": "Passé composé"
+      },
+      {
+        "slot": "t|Passé composé|2",
+        "f": "tense",
+        "s": "Cet étudiant ___ considérablement ce trimestre.",
+        "a": "a progressé",
+        "en": "This student has progressed considerably this term.",
+        "alts": [],
+        "form": "Passé composé"
+      },
+      {
+        "slot": "t|Passé composé|2",
+        "f": "tense",
+        "s": "Le chantier ___ rapidement la semaine dernière.",
+        "a": "a progressé",
+        "en": "The construction site progressed quickly last week.",
+        "alts": [],
+        "form": "Passé composé"
+      },
+      {
+        "slot": "t|Passé composé|3",
+        "f": "tense",
+        "s": "Nous ___ grâce à nos nouveaux outils de travail.",
+        "a": "avons progressé",
+        "en": "We have progressed thanks to our new work tools.",
+        "alts": [],
+        "form": "Passé composé"
+      },
+      {
+        "slot": "t|Passé composé|3",
+        "f": "tense",
+        "s": "En un an, nous ___ plus que prévu.",
+        "a": "avons progressé",
+        "en": "In one year, we have progressed more than expected.",
+        "alts": [],
+        "form": "Passé composé"
+      },
+      {
+        "slot": "t|Passé composé|4",
+        "f": "tense",
+        "s": "Vous ___ bien lors de cet atelier de formation.",
+        "a": "avez progressé",
+        "en": "You have progressed well during this training workshop.",
+        "alts": [],
+        "form": "Passé composé"
+      },
+      {
+        "slot": "t|Passé composé|4",
+        "f": "tense",
+        "s": "Est-ce que vous ___ depuis notre dernière rencontre ?",
+        "a": "avez progressé",
+        "en": "Have you progressed since our last meeting?",
+        "alts": [],
+        "form": "Passé composé"
+      },
+      {
+        "slot": "t|Passé composé|5",
+        "f": "tense",
+        "s": "Les chercheurs ___ dans leurs travaux ce mois-ci.",
+        "a": "ont progressé",
+        "en": "The researchers have progressed in their work this month.",
+        "alts": [],
+        "form": "Passé composé"
+      },
+      {
+        "slot": "t|Passé composé|5",
+        "f": "tense",
+        "s": "Les sportifs ___ grâce à un entraînement intensif.",
+        "a": "ont progressé",
+        "en": "The athletes have progressed thanks to intensive training.",
+        "alts": [],
+        "form": "Passé composé"
+      },
+      {
+        "slot": "t|Imparfait|0",
+        "f": "tense",
+        "s": "Quand j'étais jeune, je ___ vite en dessin.",
+        "a": "progressais",
+        "en": "When I was young, I used to progress quickly in drawing.",
+        "alts": [],
+        "form": "Imparfait"
+      },
+      {
+        "slot": "t|Imparfait|0",
+        "f": "tense",
+        "s": "À l'époque, tu ___ régulièrement en guitare.",
+        "a": "progressais",
+        "en": "At the time, you used to progress regularly in guitar.",
+        "alts": [],
+        "form": "Imparfait"
+      },
+      {
+        "slot": "t|Imparfait|1",
+        "f": "tense",
+        "s": "Le projet ___ bien avant les problèmes de financement.",
+        "a": "progressait",
+        "en": "The project was progressing well before the funding problems.",
+        "alts": [],
+        "form": "Imparfait"
+      },
+      {
+        "slot": "t|Imparfait|1",
+        "f": "tense",
+        "s": "La science ___ à grands pas à cette époque.",
+        "a": "progressait",
+        "en": "Science was progressing in great strides at that time.",
+        "alts": [],
+        "form": "Imparfait"
+      },
+      {
+        "slot": "t|Imparfait|2",
+        "f": "tense",
+        "s": "Nous ___ lentement mais nous ne nous découragions pas.",
+        "a": "progressions",
+        "en": "We were progressing slowly but we did not get discouraged.",
+        "alts": [],
+        "form": "Imparfait"
+      },
+      {
+        "slot": "t|Imparfait|2",
+        "f": "tense",
+        "s": "À ce moment-là, nous ___ ensemble vers le sommet.",
+        "a": "progressions",
+        "en": "At that moment, we were progressing together toward the summit.",
+        "alts": [],
+        "form": "Imparfait"
+      },
+      {
+        "slot": "t|Imparfait|3",
+        "f": "tense",
+        "s": "Vous ___ bien dans vos études avant l'accident.",
+        "a": "progressiez",
+        "en": "You were progressing well in your studies before the accident.",
+        "alts": [],
+        "form": "Imparfait"
+      },
+      {
+        "slot": "t|Imparfait|3",
+        "f": "tense",
+        "s": "Quand vous étiez enfants, vous ___ chaque semaine.",
+        "a": "progressiez",
+        "en": "When you were children, you used to progress every week.",
+        "alts": [],
+        "form": "Imparfait"
+      },
+      {
+        "slot": "t|Imparfait|4",
+        "f": "tense",
+        "s": "Les troupes ___ difficilement dans la montagne.",
+        "a": "progressaient",
+        "en": "The troops were progressing with difficulty in the mountains.",
+        "alts": [],
+        "form": "Imparfait"
+      },
+      {
+        "slot": "t|Imparfait|4",
+        "f": "tense",
+        "s": "Les élèves ___ tous à des vitesses différentes.",
+        "a": "progressaient",
+        "en": "The students were all progressing at different speeds.",
+        "alts": [],
+        "form": "Imparfait"
+      },
+      {
+        "slot": "t|Futur|0",
+        "f": "tense",
+        "s": "Avec ce nouveau professeur, je ___ plus vite.",
+        "a": "progresserai",
+        "en": "With this new teacher, I will progress faster.",
+        "alts": [],
+        "form": "Futur"
+      },
+      {
+        "slot": "t|Futur|0",
+        "f": "tense",
+        "s": "Si je m'entraîne tous les jours, je ___ rapidement.",
+        "a": "progresserai",
+        "en": "If I train every day, I will progress quickly.",
+        "alts": [],
+        "form": "Futur"
+      },
+      {
+        "slot": "t|Futur|1",
+        "f": "tense",
+        "s": "Si tu travailles avec méthode, tu ___ sûrement.",
+        "a": "progresseras",
+        "en": "If you work methodically, you will surely progress.",
+        "alts": [],
+        "form": "Futur"
+      },
+      {
+        "slot": "t|Futur|1",
+        "f": "tense",
+        "s": "Tu ___ encore plus vite l'an prochain.",
+        "a": "progresseras",
+        "en": "You will progress even faster next year.",
+        "alts": [],
+        "form": "Futur"
+      },
+      {
+        "slot": "t|Futur|2",
+        "f": "tense",
+        "s": "Avec de la pratique, cet élève ___ rapidement.",
+        "a": "progressera",
+        "en": "With practice, this student will progress quickly.",
+        "alts": [],
+        "form": "Futur"
+      },
+      {
+        "slot": "t|Futur|2",
+        "f": "tense",
+        "s": "La recherche médicale ___ grâce à ces fonds.",
+        "a": "progressera",
+        "en": "Medical research will progress thanks to these funds.",
+        "alts": [],
+        "form": "Futur"
+      },
+      {
+        "slot": "t|Futur|3",
+        "f": "tense",
+        "s": "Ensemble, nous ___ beaucoup plus vite.",
+        "a": "progresserons",
+        "en": "Together, we will progress much faster.",
+        "alts": [],
+        "form": "Futur"
+      },
+      {
+        "slot": "t|Futur|3",
+        "f": "tense",
+        "s": "Avec ce nouveau plan, nous ___ vers notre but.",
+        "a": "progresserons",
+        "en": "With this new plan, we will progress toward our goal.",
+        "alts": [],
+        "form": "Futur"
+      },
+      {
+        "slot": "t|Futur|4",
+        "f": "tense",
+        "s": "Vous ___ davantage si vous pratiquez régulièrement.",
+        "a": "progresserez",
+        "en": "You will progress more if you practice regularly.",
+        "alts": [],
+        "form": "Futur"
+      },
+      {
+        "slot": "t|Futur|4",
+        "f": "tense",
+        "s": "L'an prochain, vous ___ dans vos compétences linguistiques.",
+        "a": "progresserez",
+        "en": "Next year, you will progress in your language skills.",
+        "alts": [],
+        "form": "Futur"
+      },
+      {
+        "slot": "t|Futur|5",
+        "f": "tense",
+        "s": "Les scientifiques ___ dans leur compréhension du cerveau.",
+        "a": "progresseront",
+        "en": "The scientists will progress in their understanding of the brain.",
+        "alts": [],
+        "form": "Futur"
+      },
+      {
+        "slot": "t|Futur|5",
+        "f": "tense",
+        "s": "Ces enfants ___ rapidement avec un bon suivi.",
+        "a": "progresseront",
+        "en": "These children will progress quickly with proper support.",
+        "alts": [],
+        "form": "Futur"
+      },
+      {
+        "slot": "t|Conditionnel|0",
+        "f": "tense",
+        "s": "Si j'avais plus de temps, je ___ encore plus vite.",
+        "a": "progresserais",
+        "en": "If I had more time, I would progress even faster.",
+        "alts": [],
+        "form": "Conditionnel"
+      },
+      {
+        "slot": "t|Conditionnel|0",
+        "f": "tense",
+        "s": "Si tu avais un bon entraîneur, tu ___ beaucoup.",
+        "a": "progresserais",
+        "en": "If you had a good coach, you would progress a lot.",
+        "alts": [],
+        "form": "Conditionnel"
+      },
+      {
+        "slot": "t|Conditionnel|1",
+        "f": "tense",
+        "s": "Si elle s'entraînait davantage, elle ___ plus vite.",
+        "a": "progresserait",
+        "en": "If she trained more, she would progress faster.",
+        "alts": [],
+        "form": "Conditionnel"
+      },
+      {
+        "slot": "t|Conditionnel|1",
+        "f": "tense",
+        "s": "Ce projet ___ mieux avec plus de financement.",
+        "a": "progresserait",
+        "en": "This project would progress better with more funding.",
+        "alts": [],
+        "form": "Conditionnel"
+      },
+      {
+        "slot": "t|Conditionnel|2",
+        "f": "tense",
+        "s": "Si nous avions plus de ressources, nous ___ plus vite.",
+        "a": "progresserions",
+        "en": "If we had more resources, we would progress faster.",
+        "alts": [],
+        "form": "Conditionnel"
+      },
+      {
+        "slot": "t|Conditionnel|2",
+        "f": "tense",
+        "s": "Avec une meilleure méthode, nous ___ ensemble.",
+        "a": "progresserions",
+        "en": "With a better method, we would progress together.",
+        "alts": [],
+        "form": "Conditionnel"
+      },
+      {
+        "slot": "t|Conditionnel|3",
+        "f": "tense",
+        "s": "Si vous travailliez en équipe, vous ___ davantage.",
+        "a": "progresseriez",
+        "en": "If you worked as a team, you would progress more.",
+        "alts": [],
+        "form": "Conditionnel"
+      },
+      {
+        "slot": "t|Conditionnel|3",
+        "f": "tense",
+        "s": "Avec un peu plus d'efforts, vous ___ rapidement.",
+        "a": "progresseriez",
+        "en": "With a little more effort, you would progress quickly.",
+        "alts": [],
+        "form": "Conditionnel"
+      },
+      {
+        "slot": "t|Conditionnel|4",
+        "f": "tense",
+        "s": "Si les élèves pratiquaient chaque jour, ils ___ bien.",
+        "a": "progresseraient",
+        "en": "If the students practiced every day, they would progress well.",
+        "alts": [],
+        "form": "Conditionnel"
+      },
+      {
+        "slot": "t|Conditionnel|4",
+        "f": "tense",
+        "s": "Ces pays ___ plus vite avec de meilleures infrastructures.",
+        "a": "progresseraient",
+        "en": "These countries would progress faster with better infrastructure.",
+        "alts": [],
+        "form": "Conditionnel"
+      },
+      {
+        "slot": "t|Subjonctif",
+        "f": "subj",
+        "s": "Il faut que tu ___ dans tes études avant la fin du semestre.",
+        "a": "progresses",
+        "en": "It is necessary that you progress in your studies before the end of the semester.",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "t|Subjonctif",
+        "f": "subj",
+        "s": "Je souhaite que nous ___ ensemble dans ce domaine.",
+        "a": "progressions",
+        "en": "I wish that we progress together in this field.",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "s|0",
+        "f": "sense",
+        "s": "Elle travaille dur pour ___ en anglais.",
+        "a": "progresser",
+        "en": "She works hard to improve / make progress in English.",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "s|0",
+        "f": "sense",
+        "s": "Les efforts réguliers permettent de ___ dans n'importe quelle discipline.",
+        "a": "progresser",
+        "en": "Regular effort allows one to make progress in any discipline.",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "s|1",
+        "f": "sense",
+        "s": "Les soldats ont dû ___ prudemment à travers la forêt.",
+        "a": "progresser",
+        "en": "The soldiers had to advance / move forward carefully through the forest.",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "s|1",
+        "f": "sense",
+        "s": "La colonne de randonneurs continuait à ___ malgré le mauvais temps.",
+        "a": "progresser",
+        "en": "The column of hikers continued to advance despite the bad weather.",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "s|2",
+        "f": "sense",
+        "s": "Les discussions ont enfin commencé à ___ après plusieurs semaines de blocage.",
+        "a": "progresser",
+        "en": "The discussions finally began to make headway after several weeks of deadlock.",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "s|2",
+        "f": "sense",
+        "s": "L'enquête a réussi à ___ grâce à de nouveaux témoignages.",
+        "a": "progresser",
+        "en": "The investigation managed to make progress thanks to new testimonies.",
+        "alts": [],
+        "form": ""
+      }
+    ]
+  }
+]

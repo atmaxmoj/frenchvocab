@@ -1,0 +1,281 @@
+[
+  {
+    "id": 284,
+    "qs": [
+      {
+        "slot": "s|0",
+        "f": "sense",
+        "s": "— Tu viens ce soir ? — ___, j'arrive à vingt heures.",
+        "a": "oui",
+        "en": "— Are you coming tonight? — Yes, I'll be there at eight o'clock.",
+        "alts": []
+      },
+      {
+        "slot": "s|0",
+        "f": "sense",
+        "s": "— Est-ce que tu as compris la leçon ? — ___, c'est très clair maintenant.",
+        "a": "oui",
+        "en": "— Did you understand the lesson? — Yes, it's very clear now.",
+        "alts": []
+      },
+      {
+        "slot": "s|1",
+        "f": "sense",
+        "s": "Un ___ franc et sincère vaut mieux qu'un refus poli.",
+        "a": "oui",
+        "en": "A frank and sincere yes is worth more than a polite refusal.",
+        "alts": []
+      },
+      {
+        "slot": "s|1",
+        "f": "sense",
+        "s": "Elle nous a finalement donné un ___ après deux semaines de réflexion.",
+        "a": "oui",
+        "en": "She finally gave us a yes after two weeks of reflection.",
+        "alts": []
+      },
+      {
+        "slot": "gender",
+        "f": "gender",
+        "s": "___ oui de la direction suffirait à lancer le projet.",
+        "a": "Un",
+        "en": "A yes from management would be enough to launch the project.",
+        "alts": ["Le"]
+      },
+      {
+        "slot": "gender",
+        "f": "gender",
+        "s": "Nous attendions ___ oui, mais la réunion a été reportée.",
+        "a": "un",
+        "en": "We were waiting for a yes, but the meeting was postponed.",
+        "alts": []
+      }
+    ]
+  },
+  {
+    "id": 285,
+    "qs": [
+      {
+        "slot": "s|0",
+        "f": "sense",
+        "s": "Ce bâtiment appartient au domaine ___ et ne peut pas être vendu.",
+        "a": "public",
+        "en": "This building belongs to the public domain and cannot be sold.",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "s|0",
+        "f": "sense",
+        "s": "L'hôpital est un établissement ___ qui soigne tout le monde gratuitement.",
+        "a": "public",
+        "en": "The hospital is a public institution that treats everyone free of charge.",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "s|1",
+        "f": "sense",
+        "s": "Le procès sera ___ : n'importe qui peut venir y assister.",
+        "a": "public",
+        "en": "The trial will be public: anyone can come and attend.",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "s|1",
+        "f": "sense",
+        "s": "Son rapport a été rendu ___ par le ministère la semaine dernière.",
+        "a": "public",
+        "en": "His report was made public by the ministry last week.",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "s|2",
+        "f": "sense",
+        "s": "Cette réforme va à l'encontre de l'intérêt ___ selon les associations.",
+        "a": "public",
+        "en": "This reform goes against the public interest according to the associations.",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "s|2",
+        "f": "sense",
+        "s": "Le soutien ___ à ce projet est indéniable d'après les sondages.",
+        "a": "public",
+        "en": "Public support for this project is undeniable according to the polls.",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "g|mp",
+        "f": "agree",
+        "s": "Les jardins ___ de la ville sont très bien entretenus.",
+        "a": "publics",
+        "en": "The public gardens of the city are very well maintained.",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "g|mp",
+        "f": "agree",
+        "s": "Ces documents sont désormais ___ et accessibles à tous en ligne.",
+        "a": "publics",
+        "en": "These documents are now public and accessible to everyone online.",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "g|f",
+        "f": "agree",
+        "s": "La bibliothèque ___ ferme ses portes à vingt heures.",
+        "a": "publique",
+        "en": "The public library closes its doors at eight o'clock.",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "g|f",
+        "f": "agree",
+        "s": "Cette information est maintenant ___ ; tout le monde peut la consulter.",
+        "a": "publique",
+        "en": "This information is now public; everyone can consult it.",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "g|fp",
+        "f": "agree",
+        "s": "Les écoles ___ accueillent tous les enfants sans distinction d'origine.",
+        "a": "publiques",
+        "en": "Public schools welcome all children regardless of their background.",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "g|fp",
+        "f": "agree",
+        "s": "Ces déclarations ___ du président ont suscité de nombreuses réactions.",
+        "a": "publiques",
+        "en": "These public statements by the president sparked many reactions.",
+        "alts": [],
+        "form": ""
+      }
+    ]
+  },
+  {
+    "id": 286,
+    "qs": [
+      {
+        "slot": "s|0",
+        "f": "sense",
+        "s": "Le corps ___ contient environ 206 os.",
+        "a": "humain",
+        "en": "The human body contains about 206 bones.",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "s|0",
+        "f": "sense",
+        "s": "L'espèce ___ a évolué sur des millions d'années.",
+        "a": "humaine",
+        "en": "The human species has evolved over millions of years.",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "s|1",
+        "f": "sense",
+        "s": "Le droit international exige un traitement ___ pour tous les prisonniers de guerre.",
+        "a": "humain",
+        "en": "International law requires humane treatment for all prisoners of war.",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "s|1",
+        "f": "sense",
+        "s": "La peine de mort n'est pas considérée comme une punition ___.",
+        "a": "humaine",
+        "en": "The death penalty is not considered a humane punishment.",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "s|2",
+        "f": "sense",
+        "s": "Notre directeur est très ___ ; il comprend toujours nos difficultés personnelles.",
+        "a": "humain",
+        "en": "Our director is very humane; he always understands our personal difficulties.",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "s|2",
+        "f": "sense",
+        "s": "Sa réaction ___ m'a beaucoup touché dans ce moment difficile.",
+        "a": "humaine",
+        "en": "Her warm, human reaction touched me deeply in that difficult moment.",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "g|mp",
+        "f": "agree",
+        "s": "Les êtres ___ ont besoin de liens sociaux pour s'épanouir.",
+        "a": "humains",
+        "en": "Human beings need social bonds to flourish.",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "g|mp",
+        "f": "agree",
+        "s": "Les droits ___ doivent être respectés partout dans le monde.",
+        "a": "humains",
+        "en": "Human rights must be respected everywhere in the world.",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "g|f",
+        "f": "agree",
+        "s": "La voix ___ peut exprimer une grande variété d'émotions.",
+        "a": "humaine",
+        "en": "The human voice can express a great variety of emotions.",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "g|f",
+        "f": "agree",
+        "s": "La nature ___ est complexe et difficile à comprendre.",
+        "a": "humaine",
+        "en": "Human nature is complex and difficult to understand.",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "g|fp",
+        "f": "agree",
+        "s": "Les actions ___ peuvent changer le monde pour le meilleur.",
+        "a": "humaines",
+        "en": "Human actions can change the world for the better.",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "g|fp",
+        "f": "agree",
+        "s": "Ces erreurs sont tout à fait ___.",
+        "a": "humaines",
+        "en": "These mistakes are completely human (understandable).",
+        "alts": [],
+        "form": ""
+      }
+    ]
+  }
+]

@@ -1,0 +1,205 @@
+[
+  {
+    "id": 2310,
+    "qs": [
+      {
+        "slot": "s|0",
+        "f": "sense",
+        "s": "Un mouvement ___ le fit trébucher sur le trottoir.",
+        "a": "soudain",
+        "en": "A sudden movement made him stumble on the pavement.",
+        "alts": []
+      },
+      {
+        "slot": "s|0",
+        "f": "sense",
+        "s": "Le détective remarqua un changement ___ dans l'attitude du suspect.",
+        "a": "soudain",
+        "en": "The detective noticed a sudden change in the suspect's attitude.",
+        "alts": []
+      },
+      {
+        "slot": "s|1",
+        "f": "sense",
+        "s": "Il marchait tranquillement quand, ___, une voiture freina devant lui.",
+        "a": "soudain",
+        "en": "He was walking calmly when, suddenly, a car braked in front of him.",
+        "alts": ["soudainement", "tout à coup"]
+      },
+      {
+        "slot": "s|1",
+        "f": "sense",
+        "s": "Elle parlait depuis dix minutes quand elle s'arrêta ___.",
+        "a": "soudain",
+        "en": "She had been speaking for ten minutes when she suddenly stopped.",
+        "alts": ["soudainement", "brusquement"]
+      },
+      {
+        "slot": "g|mp",
+        "f": "agree",
+        "s": "Ces changements ___ ont complètement bouleversé nos plans de voyage.",
+        "a": "soudains",
+        "en": "These sudden changes completely disrupted our travel plans.",
+        "alts": []
+      },
+      {
+        "slot": "g|mp",
+        "f": "agree",
+        "s": "Ses gestes ___ surprirent tout le monde dans la salle.",
+        "a": "soudains",
+        "en": "His sudden gestures surprised everyone in the room.",
+        "alts": []
+      },
+      {
+        "slot": "g|f",
+        "f": "agree",
+        "s": "Une douleur ___ lui traversa la poitrine et il s'assit.",
+        "a": "soudaine",
+        "en": "A sudden pain shot through his chest and he sat down.",
+        "alts": []
+      },
+      {
+        "slot": "g|f",
+        "f": "agree",
+        "s": "Sa disparition ___ a beaucoup choqué ses proches.",
+        "a": "soudaine",
+        "en": "His sudden disappearance deeply shocked those close to him.",
+        "alts": []
+      },
+      {
+        "slot": "g|fp",
+        "f": "agree",
+        "s": "Ces réactions ___ nous ont tous pris par surprise.",
+        "a": "soudaines",
+        "en": "These sudden reactions took us all by surprise.",
+        "alts": []
+      },
+      {
+        "slot": "g|fp",
+        "f": "agree",
+        "s": "Les variations de température ___ ont endommagé les plantations.",
+        "a": "soudaines",
+        "en": "The sudden temperature variations damaged the crops.",
+        "alts": []
+      }
+    ]
+  },
+  {
+    "id": 2311,
+    "qs": [
+      {
+        "slot": "s|0",
+        "f": "sense",
+        "s": "Les enfants jouent avec une ___ dans le jardin.",
+        "en": "The children are playing with a ball in the garden.",
+        "a": "balle",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "s|0",
+        "f": "sense",
+        "s": "Le joueur de tennis a frappé la ___ hors du terrain.",
+        "en": "The tennis player hit the ball out of the court.",
+        "a": "balle",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "s|1",
+        "f": "sense",
+        "s": "Le soldat a tiré une ___ sur la cible.",
+        "en": "The soldier fired a bullet at the target.",
+        "a": "balle",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "s|1",
+        "f": "sense",
+        "s": "On a retrouvé une ___ dans le mur après la fusillade.",
+        "en": "A bullet was found in the wall after the shooting.",
+        "a": "balle",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "gender",
+        "f": "gender",
+        "s": "Il a rattrapé ___ balle au vol.",
+        "en": "He caught the ball in midair.",
+        "a": "la",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "gender",
+        "f": "gender",
+        "s": "La police a retrouvé ___ balle perdue dans le mur.",
+        "en": "The police found a stray bullet in the wall.",
+        "a": "une",
+        "alts": [],
+        "form": ""
+      }
+    ]
+  },
+  {
+    "id": 2312,
+    "qs": [
+      {
+        "slot": "s|0",
+        "f": "sense",
+        "s": "La banque centrale a relevé ses taux pour lutter contre ___ qui frappe l'économie.",
+        "a": "l'inflation",
+        "en": "The central bank raised its rates to fight the inflation affecting the economy.",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "s|0",
+        "f": "sense",
+        "s": "En période de crise, ___ peut dépasser plusieurs dizaines de pour cent par an.",
+        "a": "l'inflation",
+        "en": "In times of crisis, inflation can exceed several tens of percent per year.",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "s|1",
+        "f": "sense",
+        "s": "Les ménages souffrent de ___ des produits alimentaires, qui augmentent chaque semaine.",
+        "a": "l'inflation",
+        "en": "Households are suffering from the rising prices of food products, which increase every week.",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "s|1",
+        "f": "sense",
+        "s": "À cause de ___ persistante, de nombreux salariés peinent à joindre les deux bouts.",
+        "a": "l'inflation",
+        "en": "Because of persistent rising prices, many workers struggle to make ends meet.",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "gender",
+        "f": "gender",
+        "s": "___ inflation en zone euro a atteint un niveau record l'année dernière.",
+        "a": "L'",
+        "en": "Inflation in the eurozone reached a record level last year.",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "gender",
+        "f": "gender",
+        "s": "Les économistes prévoient ___ inflation modérée pour l'année prochaine.",
+        "a": "une",
+        "en": "Economists forecast moderate inflation for next year.",
+        "alts": [],
+        "form": ""
+      }
+    ]
+  }
+]

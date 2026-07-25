@@ -1,0 +1,747 @@
+[
+  {
+    "id": 3443,
+    "qs": [
+      {
+        "slot": "s|0",
+        "f": "sense",
+        "s": "Les deux sociétés ont eu recours à ___ pour régler leur conflit commercial sans passer par les tribunaux.",
+        "a": "l'arbitrage",
+        "en": "The two companies resorted to arbitration to settle their commercial dispute without going to court.",
+        "alts": []
+      },
+      {
+        "slot": "s|0",
+        "f": "sense",
+        "s": "La clause d'___ prévue dans le contrat oblige les parties à accepter la décision du comité.",
+        "a": "arbitrage",
+        "en": "The arbitration clause written into the contract requires the parties to accept the committee's decision.",
+        "alts": []
+      },
+      {
+        "slot": "s|1",
+        "f": "sense",
+        "s": "L'___ du match de football a été vivement critiqué par les deux équipes.",
+        "a": "arbitrage",
+        "en": "The refereeing of the football match was strongly criticized by both teams.",
+        "alts": []
+      },
+      {
+        "slot": "s|1",
+        "f": "sense",
+        "s": "Les joueurs se sont plaints de la qualité de ___ lors de la finale du tournoi.",
+        "a": "l'arbitrage",
+        "en": "The players complained about the quality of the refereeing during the tournament final.",
+        "alts": []
+      },
+      {
+        "slot": "s|2",
+        "f": "sense",
+        "s": "Cet opérateur a réalisé d'importants profits grâce à l'___ entre les marchés de Paris et de New York.",
+        "a": "arbitrage",
+        "en": "This trader made significant profits through arbitrage between the Paris and New York markets.",
+        "alts": []
+      },
+      {
+        "slot": "s|2",
+        "f": "sense",
+        "s": "L'___ financier permet d'exploiter les écarts de prix d'un même actif sur des places boursières différentes.",
+        "a": "arbitrage",
+        "en": "Financial arbitrage allows one to exploit price differences of the same asset across different stock exchanges.",
+        "alts": []
+      },
+      {
+        "slot": "gender",
+        "f": "gender",
+        "s": "Ils ont demandé ___ arbitrage international pour résoudre ce litige commercial.",
+        "a": "un",
+        "en": "They requested an international arbitration to resolve this commercial dispute.",
+        "alts": []
+      },
+      {
+        "slot": "gender",
+        "f": "gender",
+        "s": "Le syndicat a finalement accepté ___ arbitrage proposé par le médiateur.",
+        "a": "l'",
+        "en": "The union finally accepted the arbitration proposed by the mediator.",
+        "alts": []
+      }
+    ]
+  },
+  {
+    "id": 3444,
+    "qs": [
+      {
+        "slot": "t|Présent|0",
+        "f": "tense",
+        "s": "Je ___ ma valise avant de partir à l'aéroport.",
+        "a": "boucle",
+        "en": "I fasten my suitcase before leaving for the airport.",
+        "alts": [],
+        "form": "Présent"
+      },
+      {
+        "slot": "t|Présent|0",
+        "f": "tense",
+        "s": "Le coureur ___ le circuit en moins de deux minutes.",
+        "a": "boucle",
+        "en": "The runner loops the circuit in less than two minutes.",
+        "alts": [],
+        "form": "Présent"
+      },
+      {
+        "slot": "t|Présent|1",
+        "f": "tense",
+        "s": "Tu ___ toujours ta ceinture avant de démarrer, non ?",
+        "a": "boucles",
+        "en": "You always fasten your seatbelt before starting, right?",
+        "alts": [],
+        "form": "Présent"
+      },
+      {
+        "slot": "t|Présent|1",
+        "f": "tense",
+        "s": "Est-ce que tu ___ ce dossier avant la réunion ?",
+        "a": "boucles",
+        "en": "Are you wrapping up this file before the meeting?",
+        "alts": [],
+        "form": "Présent"
+      },
+      {
+        "slot": "t|Présent|2",
+        "f": "tense",
+        "s": "Nous ___ la boucle du sentier avant le coucher du soleil.",
+        "a": "bouclons",
+        "en": "We loop the trail circuit before sunset.",
+        "alts": [],
+        "form": "Présent"
+      },
+      {
+        "slot": "t|Présent|2",
+        "f": "tense",
+        "s": "Nous ___ enfin ce projet qui traînait depuis des mois.",
+        "a": "bouclons",
+        "en": "We are finally wrapping up this project that has been dragging on for months.",
+        "alts": [],
+        "form": "Présent"
+      },
+      {
+        "slot": "t|Présent|3",
+        "f": "tense",
+        "s": "Vous ___ votre sac à dos avant de grimper ?",
+        "a": "bouclez",
+        "en": "Do you fasten your backpack before climbing?",
+        "alts": [],
+        "form": "Présent"
+      },
+      {
+        "slot": "t|Présent|3",
+        "f": "tense",
+        "s": "Vous ___ toujours vos rapports à temps pour la direction ?",
+        "a": "bouclez",
+        "en": "Do you always complete your reports on time for management?",
+        "alts": [],
+        "form": "Présent"
+      },
+      {
+        "slot": "t|Présent|4",
+        "f": "tense",
+        "s": "Les enquêteurs ___ l'affaire après de longues recherches.",
+        "a": "bouclent",
+        "en": "The investigators resolve the case after lengthy research.",
+        "alts": [],
+        "form": "Présent"
+      },
+      {
+        "slot": "t|Présent|4",
+        "f": "tense",
+        "s": "Elles ___ le quartier pour retrouver le suspect.",
+        "a": "bouclent",
+        "en": "They loop the neighbourhood to find the suspect.",
+        "alts": [],
+        "form": "Présent"
+      },
+      {
+        "slot": "t|Passé composé|0",
+        "f": "tense",
+        "s": "J'___ mon sac à dos avant de quitter la maison.",
+        "a": "ai bouclé",
+        "en": "I fastened my backpack before leaving the house.",
+        "alts": [],
+        "form": "Passé composé"
+      },
+      {
+        "slot": "t|Passé composé|0",
+        "f": "tense",
+        "s": "J'___ ce rapport en une seule nuit.",
+        "a": "ai bouclé",
+        "en": "I completed this report in a single night.",
+        "alts": [],
+        "form": "Passé composé"
+      },
+      {
+        "slot": "t|Passé composé|1",
+        "f": "tense",
+        "s": "Tu ___ ta ceinture juste à temps avant le choc.",
+        "a": "as bouclé",
+        "en": "You fastened your seatbelt just in time before the impact.",
+        "alts": [],
+        "form": "Passé composé"
+      },
+      {
+        "slot": "t|Passé composé|1",
+        "f": "tense",
+        "s": "Tu ___ ce contrat en un temps record, bravo !",
+        "a": "as bouclé",
+        "en": "You wrapped up this contract in record time, well done!",
+        "alts": [],
+        "form": "Passé composé"
+      },
+      {
+        "slot": "t|Passé composé|2",
+        "f": "tense",
+        "s": "Mon père ___ ses bagages dès le matin.",
+        "a": "a bouclé",
+        "en": "My father fastened his luggage early in the morning.",
+        "alts": [],
+        "form": "Passé composé"
+      },
+      {
+        "slot": "t|Passé composé|2",
+        "f": "tense",
+        "s": "L'équipe ___ le projet avant la date limite.",
+        "a": "a bouclé",
+        "en": "The team completed the project before the deadline.",
+        "alts": [],
+        "form": "Passé composé"
+      },
+      {
+        "slot": "t|Passé composé|3",
+        "f": "tense",
+        "s": "Nous ___ la totalité du budget en moins d'une semaine.",
+        "a": "avons bouclé",
+        "en": "We wrapped up the entire budget in less than a week.",
+        "alts": [],
+        "form": "Passé composé"
+      },
+      {
+        "slot": "t|Passé composé|3",
+        "f": "tense",
+        "s": "Nous ___ le tour du lac à vélo hier.",
+        "a": "avons bouclé",
+        "en": "We looped around the lake by bike yesterday.",
+        "alts": [],
+        "form": "Passé composé"
+      },
+      {
+        "slot": "t|Passé composé|4",
+        "f": "tense",
+        "s": "Vous ___ vos valises très rapidement ce matin.",
+        "a": "avez bouclé",
+        "en": "You fastened your suitcases very quickly this morning.",
+        "alts": [],
+        "form": "Passé composé"
+      },
+      {
+        "slot": "t|Passé composé|4",
+        "f": "tense",
+        "s": "Vous ___ cette enquête difficile en deux jours.",
+        "a": "avez bouclé",
+        "en": "You resolved this difficult investigation in two days.",
+        "alts": [],
+        "form": "Passé composé"
+      },
+      {
+        "slot": "t|Passé composé|5",
+        "f": "tense",
+        "s": "Les agents ___ le périmètre autour du bâtiment.",
+        "a": "ont bouclé",
+        "en": "The agents sealed off the perimeter around the building.",
+        "alts": [],
+        "form": "Passé composé"
+      },
+      {
+        "slot": "t|Passé composé|5",
+        "f": "tense",
+        "s": "Les chercheurs ___ leurs travaux à temps pour la conférence.",
+        "a": "ont bouclé",
+        "en": "The researchers completed their work in time for the conference.",
+        "alts": [],
+        "form": "Passé composé"
+      },
+      {
+        "slot": "t|Imparfait|0",
+        "f": "tense",
+        "s": "Quand j'étais enfant, je ___ toujours mon sac avant d'aller à l'école.",
+        "a": "bouclais",
+        "en": "When I was a child, I always fastened my bag before going to school.",
+        "alts": [],
+        "form": "Imparfait"
+      },
+      {
+        "slot": "t|Imparfait|0",
+        "f": "tense",
+        "s": "Tu ___ le quartier chaque soir pour t'entraîner à la course.",
+        "a": "bouclais",
+        "en": "You used to loop the neighbourhood every evening to train for running.",
+        "alts": [],
+        "form": "Imparfait"
+      },
+      {
+        "slot": "t|Imparfait|1",
+        "f": "tense",
+        "s": "Il ___ systématiquement ses dossiers avant de rentrer chez lui.",
+        "a": "bouclait",
+        "en": "He would systematically close his files before going home.",
+        "alts": [],
+        "form": "Imparfait"
+      },
+      {
+        "slot": "t|Imparfait|1",
+        "f": "tense",
+        "s": "La monitrice ___ toujours ses cours avec une synthèse.",
+        "a": "bouclait",
+        "en": "The instructor always wrapped up her lessons with a summary.",
+        "alts": [],
+        "form": "Imparfait"
+      },
+      {
+        "slot": "t|Imparfait|2",
+        "f": "tense",
+        "s": "Nous ___ nos ceintures dès que nous montions dans la voiture.",
+        "a": "bouclions",
+        "en": "We would fasten our seatbelts as soon as we got into the car.",
+        "alts": [],
+        "form": "Imparfait"
+      },
+      {
+        "slot": "t|Imparfait|2",
+        "f": "tense",
+        "s": "Nous ___ le tour du parc chaque dimanche avec les enfants.",
+        "a": "bouclions",
+        "en": "We would loop around the park every Sunday with the children.",
+        "alts": [],
+        "form": "Imparfait"
+      },
+      {
+        "slot": "t|Imparfait|3",
+        "f": "tense",
+        "s": "Vous ___ toujours vos projets avant les autres équipes.",
+        "a": "boucliez",
+        "en": "You always wrapped up your projects before the other teams.",
+        "alts": [],
+        "form": "Imparfait"
+      },
+      {
+        "slot": "t|Imparfait|3",
+        "f": "tense",
+        "s": "Vous ___ le circuit en moins de trente minutes à l'époque.",
+        "a": "boucliez",
+        "en": "You used to complete the circuit in under thirty minutes back then.",
+        "alts": [],
+        "form": "Imparfait"
+      },
+      {
+        "slot": "t|Imparfait|4",
+        "f": "tense",
+        "s": "Les policiers ___ le quartier chaque nuit lors de l'enquête.",
+        "a": "bouclaient",
+        "en": "The police were sealing off the neighbourhood every night during the investigation.",
+        "alts": [],
+        "form": "Imparfait"
+      },
+      {
+        "slot": "t|Imparfait|4",
+        "f": "tense",
+        "s": "Les ouvriers ___ leurs tâches rapidement pour rentrer tôt.",
+        "a": "bouclaient",
+        "en": "The workers would wrap up their tasks quickly to go home early.",
+        "alts": [],
+        "form": "Imparfait"
+      },
+      {
+        "slot": "t|Futur|0",
+        "f": "tense",
+        "s": "Je ___ ma ceinture dès que je serai dans la voiture.",
+        "a": "bouclerai",
+        "en": "I will fasten my seatbelt as soon as I am in the car.",
+        "alts": [],
+        "form": "Futur"
+      },
+      {
+        "slot": "t|Futur|0",
+        "f": "tense",
+        "s": "Je ___ ce dossier avant la fin de la journée, c'est promis.",
+        "a": "bouclerai",
+        "en": "I will wrap up this file before the end of the day, I promise.",
+        "alts": [],
+        "form": "Futur"
+      },
+      {
+        "slot": "t|Futur|1",
+        "f": "tense",
+        "s": "Tu ___ ta valise demain matin avant de partir à l'aéroport.",
+        "a": "boucleras",
+        "en": "You will fasten your suitcase tomorrow morning before leaving for the airport.",
+        "alts": [],
+        "form": "Futur"
+      },
+      {
+        "slot": "t|Futur|1",
+        "f": "tense",
+        "s": "Tu ___ ce rapport à temps si tu travailles ce soir.",
+        "a": "boucleras",
+        "en": "You will finish this report on time if you work tonight.",
+        "alts": [],
+        "form": "Futur"
+      },
+      {
+        "slot": "t|Futur|2",
+        "f": "tense",
+        "s": "Le détective ___ cette affaire grâce aux nouveaux indices.",
+        "a": "bouclera",
+        "en": "The detective will resolve this case thanks to the new clues.",
+        "alts": [],
+        "form": "Futur"
+      },
+      {
+        "slot": "t|Futur|2",
+        "f": "tense",
+        "s": "Elle ___ le circuit en moins d'une heure, j'en suis sûr.",
+        "a": "bouclera",
+        "en": "She will complete the circuit in less than an hour, I am sure.",
+        "alts": [],
+        "form": "Futur"
+      },
+      {
+        "slot": "t|Futur|3",
+        "f": "tense",
+        "s": "Nous ___ le budget avant la réunion de direction.",
+        "a": "bouclerons",
+        "en": "We will wrap up the budget before the management meeting.",
+        "alts": [],
+        "form": "Futur"
+      },
+      {
+        "slot": "t|Futur|3",
+        "f": "tense",
+        "s": "Nous ___ le tour de la ville à pied pendant le week-end.",
+        "a": "bouclerons",
+        "en": "We will loop around the city on foot during the weekend.",
+        "alts": [],
+        "form": "Futur"
+      },
+      {
+        "slot": "t|Futur|4",
+        "f": "tense",
+        "s": "Vous ___ vos bagages la veille du départ, n'est-ce pas ?",
+        "a": "bouclerez",
+        "en": "You will fasten your bags the evening before departure, right?",
+        "alts": [],
+        "form": "Futur"
+      },
+      {
+        "slot": "t|Futur|4",
+        "f": "tense",
+        "s": "Vous ___ ce projet d'ici vendredi, j'espère.",
+        "a": "bouclerez",
+        "en": "You will complete this project by Friday, I hope.",
+        "alts": [],
+        "form": "Futur"
+      },
+      {
+        "slot": "t|Futur|5",
+        "f": "tense",
+        "s": "Les ingénieurs ___ la boucle de test demain matin.",
+        "a": "boucleront",
+        "en": "The engineers will close the test loop tomorrow morning.",
+        "alts": [],
+        "form": "Futur"
+      },
+      {
+        "slot": "t|Futur|5",
+        "f": "tense",
+        "s": "Les agents ___ le quartier dès l'arrivée des renforts.",
+        "a": "boucleront",
+        "en": "The agents will seal off the neighbourhood as soon as reinforcements arrive.",
+        "alts": [],
+        "form": "Futur"
+      },
+      {
+        "slot": "t|Conditionnel|0",
+        "f": "tense",
+        "s": "Si tu me le demandais, je ___ ce dossier dès ce soir.",
+        "a": "bouclerais",
+        "en": "If you asked me, I would wrap up this file this very evening.",
+        "alts": [],
+        "form": "Conditionnel"
+      },
+      {
+        "slot": "t|Conditionnel|0",
+        "f": "tense",
+        "s": "Tu ___ ta ceinture si tu pensais à la sécurité.",
+        "a": "bouclerais",
+        "en": "You would fasten your seatbelt if you thought about safety.",
+        "alts": [],
+        "form": "Conditionnel"
+      },
+      {
+        "slot": "t|Conditionnel|1",
+        "f": "tense",
+        "s": "S'il avait plus de temps, il ___ le rapport avant la réunion.",
+        "a": "bouclerait",
+        "en": "If he had more time, he would complete the report before the meeting.",
+        "alts": [],
+        "form": "Conditionnel"
+      },
+      {
+        "slot": "t|Conditionnel|1",
+        "f": "tense",
+        "s": "Elle ___ ce circuit plus vite avec de meilleures chaussures.",
+        "a": "bouclerait",
+        "en": "She would complete this circuit faster with better shoes.",
+        "alts": [],
+        "form": "Conditionnel"
+      },
+      {
+        "slot": "t|Conditionnel|2",
+        "f": "tense",
+        "s": "Si nous avions plus de ressources, nous ___ ce projet en un mois.",
+        "a": "bouclerions",
+        "en": "If we had more resources, we would wrap up this project in one month.",
+        "alts": [],
+        "form": "Conditionnel"
+      },
+      {
+        "slot": "t|Conditionnel|2",
+        "f": "tense",
+        "s": "Nous ___ le tour du lac si le temps le permettait.",
+        "a": "bouclerions",
+        "en": "We would loop around the lake if the weather allowed it.",
+        "alts": [],
+        "form": "Conditionnel"
+      },
+      {
+        "slot": "t|Conditionnel|3",
+        "f": "tense",
+        "s": "Si vous étiez plus organisés, vous ___ vos rapports sans stress.",
+        "a": "boucleriez",
+        "en": "If you were more organized, you would wrap up your reports without stress.",
+        "alts": [],
+        "form": "Conditionnel"
+      },
+      {
+        "slot": "t|Conditionnel|3",
+        "f": "tense",
+        "s": "Vous ___ le circuit plus facilement avec un meilleur entraînement.",
+        "a": "boucleriez",
+        "en": "You would complete the circuit more easily with better training.",
+        "alts": [],
+        "form": "Conditionnel"
+      },
+      {
+        "slot": "t|Conditionnel|4",
+        "f": "tense",
+        "s": "Avec plus d'effectifs, ils ___ l'enquête en quelques jours.",
+        "a": "boucleraient",
+        "en": "With more staff, they would resolve the investigation in a few days.",
+        "alts": [],
+        "form": "Conditionnel"
+      },
+      {
+        "slot": "t|Conditionnel|4",
+        "f": "tense",
+        "s": "Si elles partaient plus tôt, elles ___ la boucle avant la nuit.",
+        "a": "boucleraient",
+        "en": "If they left earlier, they would complete the loop before nightfall.",
+        "alts": [],
+        "form": "Conditionnel"
+      },
+      {
+        "slot": "t|Subjonctif",
+        "f": "subj",
+        "s": "Il faut que tu ___ ta ceinture avant de démarrer.",
+        "a": "boucles",
+        "en": "You must fasten your seatbelt before starting.",
+        "alts": [],
+        "form": "Subjonctif"
+      },
+      {
+        "slot": "t|Subjonctif",
+        "f": "subj",
+        "s": "Je veux qu'elle ___ ce dossier avant la fin de la semaine.",
+        "a": "boucle",
+        "en": "I want her to wrap up this file before the end of the week.",
+        "alts": [],
+        "form": "Subjonctif"
+      },
+      {
+        "slot": "s|0",
+        "f": "sense",
+        "s": "Pense à ___ ta ceinture avant que je démarre.",
+        "a": "boucler",
+        "en": "Remember to fasten your seatbelt before I start.",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "s|0",
+        "f": "sense",
+        "s": "Elle ___ son manteau rapidement avant de sortir sous la pluie.",
+        "a": "boucle",
+        "en": "She fastens her coat quickly before going out in the rain.",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "s|1",
+        "f": "sense",
+        "s": "Le cycliste ___ le tour du circuit en exactement quarante minutes.",
+        "a": "boucle",
+        "en": "The cyclist loops the circuit in exactly forty minutes.",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "s|1",
+        "f": "sense",
+        "s": "Nous avons ___ le tour de l'île en une seule journée.",
+        "a": "bouclé",
+        "en": "We looped around the island in a single day.",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "s|2",
+        "f": "sense",
+        "s": "La police a enfin ___ cette affaire complexe après trois ans d'enquête.",
+        "a": "bouclé",
+        "en": "The police finally resolved this complex case after three years of investigation.",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "s|2",
+        "f": "sense",
+        "s": "Le juge espère ___ le procès avant l'été.",
+        "a": "boucler",
+        "en": "The judge hopes to resolve the trial before summer.",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "s|3",
+        "f": "sense",
+        "s": "L'auteur a réussi à ___ son roman en seulement deux mois.",
+        "a": "boucler",
+        "en": "The author managed to complete his novel in just two months.",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "s|3",
+        "f": "sense",
+        "s": "Nous devons ___ la présentation avant la réunion de demain.",
+        "a": "boucler",
+        "en": "We must complete the presentation before tomorrow's meeting.",
+        "alts": [],
+        "form": ""
+      }
+    ]
+  },
+  {
+    "id": 3445,
+    "qs": [
+      {
+        "slot": "s|0",
+        "f": "sense",
+        "s": "Ma voiture est au garage pour une ___ du moteur.",
+        "a": "réparation",
+        "en": "My car is at the garage for an engine repair.",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "s|0",
+        "f": "sense",
+        "s": "La ___ du toit a pris deux jours à cause des dégâts importants.",
+        "a": "réparation",
+        "en": "The roof repair took two days because of the extensive damage.",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "s|1",
+        "f": "sense",
+        "s": "Il n'existe aucune ___ possible à cette erreur de procédure.",
+        "a": "réparation",
+        "en": "There is no possible remedy for this procedural error.",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "s|1",
+        "f": "sense",
+        "s": "Le gouvernement cherche une ___ à la crise sociale qu'il a provoquée.",
+        "a": "réparation",
+        "en": "The government is looking for a remedy to the social crisis it caused.",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "s|2",
+        "f": "sense",
+        "s": "La victime a demandé une ___ financière pour les préjudices subis.",
+        "a": "réparation",
+        "en": "The victim requested financial compensation for the harm suffered.",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "s|2",
+        "f": "sense",
+        "s": "Le tribunal a accordé une ___ de dix mille euros à la famille.",
+        "a": "réparation",
+        "en": "The court awarded ten thousand euros in compensation to the family.",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "s|3",
+        "f": "sense",
+        "s": "Il a offert des fleurs en guise de ___ pour ses paroles blessantes.",
+        "a": "réparation",
+        "en": "He offered flowers as a way of making amends for his hurtful words.",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "s|3",
+        "f": "sense",
+        "s": "Elle a voulu faire ___ des torts qu'elle avait causés à son ami.",
+        "a": "réparation",
+        "en": "She wanted to make amends for the wrongs she had done to her friend.",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "gender",
+        "f": "gender",
+        "s": "Il a fallu attendre une semaine pour ___ réparation complète de la machine.",
+        "a": "la",
+        "en": "They had to wait a week for the complete repair of the machine.",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "gender",
+        "f": "gender",
+        "s": "___ réparation de la fuite d'eau a coûté très cher.",
+        "a": "La",
+        "en": "The repair of the water leak was very expensive.",
+        "alts": [],
+        "form": ""
+      }
+    ]
+  }
+]

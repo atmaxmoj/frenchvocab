@@ -1,0 +1,219 @@
+[
+  {
+    "id": 1316,
+    "qs": [
+      {
+        "slot": "s|0",
+        "f": "sense",
+        "s": "Je suis ___ satisfait de ce résultat.",
+        "en": "I am entirely satisfied with this result.",
+        "a": "entièrement",
+        "alts": ["complètement", "totalement", "absolument", "tout à fait"]
+      },
+      {
+        "slot": "s|0",
+        "f": "sense",
+        "s": "Elle lui fait ___ confiance depuis le premier jour.",
+        "en": "She trusts him entirely since the first day.",
+        "a": "entièrement",
+        "alts": ["complètement", "totalement", "absolument"]
+      },
+      {
+        "slot": "s|1",
+        "f": "sense",
+        "s": "Il faut ___ nettoyer la cuisine avant l'arrivée des invités.",
+        "en": "The kitchen must be thoroughly cleaned before the guests arrive.",
+        "a": "entièrement",
+        "alts": ["complètement", "totalement"]
+      },
+      {
+        "slot": "s|1",
+        "f": "sense",
+        "s": "Tu t'es ___ trompé dans tes calculs.",
+        "en": "You were completely wrong in your calculations.",
+        "a": "entièrement",
+        "alts": ["complètement", "totalement", "absolument"]
+      },
+      {
+        "slot": "s|2",
+        "f": "sense",
+        "s": "Il a ___ remboursé sa dette en moins d'un an.",
+        "en": "He repaid his debt in full in less than a year.",
+        "a": "entièrement",
+        "alts": ["complètement", "totalement"]
+      },
+      {
+        "slot": "s|2",
+        "f": "sense",
+        "s": "La salle était ___ occupée lors de la conférence.",
+        "en": "The room was entirely full during the conference.",
+        "a": "entièrement",
+        "alts": ["complètement", "totalement"]
+      }
+    ]
+  },
+  {
+    "id": 1317,
+    "qs": [
+      {
+        "slot": "s|0",
+        "f": "sense",
+        "s": "Le professeur nous a demandé de lire le premier ___ avant demain.",
+        "en": "The teacher asked us to read the first chapter before tomorrow.",
+        "a": "chapitre",
+        "alts": []
+      },
+      {
+        "slot": "s|0",
+        "f": "sense",
+        "s": "J'ai relu ce ___ plusieurs fois pour bien comprendre le cours.",
+        "en": "I reread this chapter several times to understand the lesson well.",
+        "a": "chapitre",
+        "alts": []
+      },
+      {
+        "slot": "s|1",
+        "f": "sense",
+        "s": "Ce roman policier comporte vingt ___ au total.",
+        "en": "This detective novel has twenty chapters in total.",
+        "a": "chapitres",
+        "alts": []
+      },
+      {
+        "slot": "s|1",
+        "f": "sense",
+        "s": "Elle a terminé le troisième ___ de son livre préféré hier soir.",
+        "en": "She finished the third chapter of her favorite book last night.",
+        "a": "chapitre",
+        "alts": []
+      },
+      {
+        "slot": "s|2",
+        "f": "sense",
+        "s": "Sur le ___ de la ponctualité, mon chef est très strict.",
+        "en": "On the subject of punctuality, my boss is very strict.",
+        "a": "chapitre",
+        "alts": []
+      },
+      {
+        "slot": "s|2",
+        "f": "sense",
+        "s": "Passons à un autre ___ : les résultats financiers du trimestre.",
+        "en": "Let's move on to another topic: the financial results of the quarter.",
+        "a": "chapitre",
+        "alts": []
+      },
+      {
+        "slot": "gender",
+        "f": "gender",
+        "s": "___ chapitre suivant explique les causes de la guerre.",
+        "en": "The following chapter explains the causes of the war.",
+        "a": "Le",
+        "alts": []
+      },
+      {
+        "slot": "gender",
+        "f": "gender",
+        "s": "Elle a écrit ___ nouveau chapitre ce matin.",
+        "en": "She wrote a new chapter this morning.",
+        "a": "un",
+        "alts": []
+      }
+    ]
+  },
+  {
+    "id": 1318,
+    "qs": [
+      {
+        "slot": "s|0",
+        "f": "sense",
+        "s": "Les petits gestes ___ font partie de la routine de chacun.",
+        "en": "Small everyday gestures are part of everyone's routine.",
+        "a": "quotidiens",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "s|0",
+        "f": "sense",
+        "s": "Il observe avec curiosité la vie ___ des habitants du village.",
+        "en": "He observes with curiosity the everyday life of the village residents.",
+        "a": "quotidienne",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "s|1",
+        "f": "sense",
+        "s": "Le médecin lui a prescrit une dose ___ de ce médicament à prendre chaque matin.",
+        "en": "The doctor prescribed him a daily dose of this medication to be taken every morning.",
+        "a": "quotidienne",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "s|1",
+        "f": "sense",
+        "s": "Son entraînement ___ lui permet de progresser rapidement.",
+        "en": "His daily training allows him to progress quickly.",
+        "a": "quotidien",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "g|mp",
+        "f": "agree",
+        "s": "Les trajets ___ en transports en commun fatiguent beaucoup de travailleurs.",
+        "en": "The daily commutes by public transport tire many workers.",
+        "a": "quotidiens",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "g|mp",
+        "f": "agree",
+        "s": "Ces rituels ___ l'aident à rester organisé et serein.",
+        "en": "These daily rituals help him stay organized and serene.",
+        "a": "quotidiens",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "g|f",
+        "f": "agree",
+        "s": "La lecture ___ est une habitude précieuse qu'il cultive depuis l'enfance.",
+        "en": "Daily reading is a precious habit he has cultivated since childhood.",
+        "a": "quotidienne",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "g|f",
+        "f": "agree",
+        "s": "La promenade ___ du matin lui donne de l'énergie pour toute la journée.",
+        "en": "The morning daily walk gives him energy for the whole day.",
+        "a": "quotidienne",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "g|fp",
+        "f": "agree",
+        "s": "Les réunions ___ de l'équipe durent rarement plus d'une demi-heure.",
+        "en": "The team's daily meetings rarely last more than half an hour.",
+        "a": "quotidiennes",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "g|fp",
+        "f": "agree",
+        "s": "Ses préoccupations ___ disparaissent dès qu'elle commence à jouer de la musique.",
+        "en": "Her daily worries disappear as soon as she starts playing music.",
+        "a": "quotidiennes",
+        "alts": [],
+        "form": ""
+      }
+    ]
+  }
+]

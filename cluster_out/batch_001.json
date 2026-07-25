@@ -1,0 +1,182 @@
+[
+  {
+    "id": "51",
+    "note": "时间副词系统：déjà强调已完成，encore强调继续/重复，depuis强调持续起点，après强调顺序——四词构成完整时间语义体系，避免混淆。",
+    "members": [
+      {"fr": "déjà", "pos": "adv", "gloss": "已经、曾经"},
+      {"fr": "encore", "pos": "adv", "gloss": "还、再次、仍然"},
+      {"fr": "depuis", "pos": "prep", "gloss": "自从、已经（持续）"},
+      {"fr": "après", "pos": "adv", "gloss": "之后、以后"}
+    ]
+  },
+  {
+    "id": "56",
+    "note": "首尾对立形容词：premier（第一）vs dernier（最后），基础对立概念，成对记忆最牢固。",
+    "members": [
+      {"fr": "premier", "pos": "adj", "gloss": "第一的、首要的"},
+      {"fr": "dernier", "pos": "adj", "gloss": "最后的、最近的"}
+    ]
+  },
+  {
+    "id": "58",
+    "note": "时间线副词完整系统：déjà表已发生，encore表继续/重复，depuis表起点，après表先后——四词构成完整时间语义系统，避免重复记忆。",
+    "members": [
+      {"fr": "déjà", "pos": "adv", "gloss": "已经、曾经"},
+      {"fr": "encore", "pos": "adv", "gloss": "还、再次、仍然"},
+      {"fr": "depuis", "pos": "prep", "gloss": "自从、已经（持续）"},
+      {"fr": "après", "pos": "adv", "gloss": "之后、以后"}
+    ]
+  },
+  {
+    "id": "59",
+    "note": "正反义形容词基础对：grand（大）vs petit（小），最基础对立概念，成对记忆防混淆。",
+    "members": [
+      {"fr": "petit", "pos": "adj", "gloss": "小的"},
+      {"fr": "grand", "pos": "adj", "gloss": "大的"}
+    ]
+  },
+  {
+    "id": "62",
+    "note": "数量递减梯度：moins（较少）→ peu（少许）→ aucun（零个），构成否定量化从弱到强的连贯梯度体系。",
+    "members": [
+      {"fr": "moins", "pos": "adv", "gloss": "较少、更少"},
+      {"fr": "peu", "pos": "adv", "gloss": "少许、有点"},
+      {"fr": "aucun", "pos": "adj", "gloss": "没有任何、一个也没有"}
+    ]
+  },
+  {
+    "id": "63",
+    "note": "否定量化强度谱系：aucun（完全否定）→ peu（少量）→ moins（相对较少），三词在否定句中表强度不同，精确区分用法。",
+    "members": [
+      {"fr": "peu", "pos": "adv", "gloss": "少许、有点"},
+      {"fr": "moins", "pos": "adv", "gloss": "较少、更少"},
+      {"fr": "aucun", "pos": "adj", "gloss": "没有任何、一个也没有"}
+    ]
+  },
+  {
+    "id": "65",
+    "note": "时间单位递级系统：an（年，最大单位）→ jour（日）→ heure（小时）→ temps（时间抽象概念），从大单位到小单位再到抽象，时间表达最完整。",
+    "members": [
+      {"fr": "an", "pos": "noun", "gloss": "年、岁"},
+      {"fr": "jour", "pos": "noun", "gloss": "天、白天、日子"},
+      {"fr": "heure", "pos": "noun", "gloss": "小时、时刻"},
+      {"fr": "temps", "pos": "noun", "gloss": "时间、天气"}
+    ]
+  },
+  {
+    "id": "67",
+    "note": "认知动词三分系统：savoir（知道事实、会做技能）vs comprendre（理解原因/含义）vs connaître（认识人/地点），三词都涉及知识但侧重维度完全不同。",
+    "members": [
+      {"fr": "savoir", "pos": "verb", "gloss": "知道、懂得、能够"},
+      {"fr": "comprendre", "pos": "verb", "gloss": "理解、明白、包括"},
+      {"fr": "connaître", "pos": "verb", "gloss": "认识、了解（指人或已有认识）"}
+    ]
+  },
+  {
+    "id": "69",
+    "note": "视觉动词区别：voir（看见，无意/结果性）vs regarder（观看，有意/过程性），法文中必须区分意图和动作属性。",
+    "members": [
+      {"fr": "regarder", "pos": "verb", "gloss": "看、观看（有意注视）"},
+      {"fr": "voir", "pos": "verb", "gloss": "看见、理解（无意或瞬间）"}
+    ]
+  },
+  {
+    "id": "76",
+    "note": "时间名词组核心四词：an（年份计数）vs jour（日期/白天）vs heure（精确时刻）vs temps（时间抽象/天气），时间维度从宏观到微观到抽象，语境选用防混。",
+    "members": [
+      {"fr": "an", "pos": "noun", "gloss": "年、岁"},
+      {"fr": "jour", "pos": "noun", "gloss": "天、日子"},
+      {"fr": "heure", "pos": "noun", "gloss": "小时、时刻"},
+      {"fr": "temps", "pos": "noun", "gloss": "时间、天气"}
+    ]
+  },
+  {
+    "id": "78",
+    "note": "时间单位精细辨析：jour（日期/24小时周期）vs journée（一整天的时间跨度体验）vs heure（小时）vs an（年份），看语境和用途选用，jour/journée尤易混淆。",
+    "members": [
+      {"fr": "jour", "pos": "noun", "gloss": "日期、24小时"},
+      {"fr": "journée", "pos": "noun", "gloss": "一整天、白天的时段"},
+      {"fr": "heure", "pos": "noun", "gloss": "小时、时刻"},
+      {"fr": "an", "pos": "noun", "gloss": "年"}
+    ]
+  },
+  {
+    "id": "80",
+    "note": "请求动词礼貌度梯度：demander（中性询问/要求）vs prier（恳求，更礼貌正式），demander最常用，prier更显尊重和恳切。",
+    "members": [
+      {"fr": "demander", "pos": "verb", "gloss": "询问、请求、要求"},
+      {"fr": "prier", "pos": "verb", "gloss": "请求、恳求（更正式礼貌）"}
+    ]
+  },
+  {
+    "id": "82",
+    "note": "时序副词细微差别：après（时间点之后）vs puis（叙述顺序然后）vs alors（逻辑结果/当时），三词都涉及顺序关系但用法场景不同。",
+    "members": [
+      {"fr": "après", "pos": "adv", "gloss": "之后、以后"},
+      {"fr": "puis", "pos": "adv", "gloss": "然后、接着"},
+      {"fr": "alors", "pos": "adv", "gloss": "那么、当时、然后"}
+    ]
+  },
+  {
+    "id": "83",
+    "note": "发现/遇见动词区分：trouver（找到、碰巧发现、认为）→ découvrir（主动发现新事物）→ rencontrer（遇见人），trouver最宽泛，découvrir强调未知变已知，rencontrer专指人的相遇。",
+    "members": [
+      {"fr": "trouver", "pos": "verb", "gloss": "找到、发现、认为"},
+      {"fr": "découvrir", "pos": "verb", "gloss": "发现、揭示（未知的东西）"},
+      {"fr": "rencontrer", "pos": "verb", "gloss": "遇见、相遇（指人）"}
+    ]
+  },
+  {
+    "id": "87",
+    "note": "首尾对立形容词：dernier（最后）vs premier（第一），成对对立概念，必须同时掌握防混淆。",
+    "members": [
+      {"fr": "premier", "pos": "adj", "gloss": "第一的、首要的"},
+      {"fr": "dernier", "pos": "adj", "gloss": "最后的、最近的"}
+    ]
+  },
+  {
+    "id": "88",
+    "note": "移动动词核心框架：aller（去，离开说话者）vs venir（来，向说话者）vs passer（经过），三词构成位置移动和时间经过的完整语义框架。",
+    "members": [
+      {"fr": "aller", "pos": "verb", "gloss": "去、走、前往"},
+      {"fr": "venir", "pos": "verb", "gloss": "来、到来"},
+      {"fr": "passer", "pos": "verb", "gloss": "经过、度过"}
+    ]
+  },
+  {
+    "id": "90",
+    "note": "位置动词运动与静止对比：aller/venir（移动）vs rester（静止），构成离开/靠近/停留三种位置状态，运动与静止的基础对比。",
+    "members": [
+      {"fr": "aller", "pos": "verb", "gloss": "去、走"},
+      {"fr": "venir", "pos": "verb", "gloss": "来"},
+      {"fr": "rester", "pos": "verb", "gloss": "留下、停留"}
+    ]
+  },
+  {
+    "id": "95",
+    "note": "知识动词最易混淆三词：savoir（知道事实、会做技能）vs comprendre（理解原因/含义）vs connaître（认识人或地点），三词涉及知识的不同维度，必须精确区分。",
+    "members": [
+      {"fr": "savoir", "pos": "verb", "gloss": "知道、懂得、能够"},
+      {"fr": "comprendre", "pos": "verb", "gloss": "理解、明白"},
+      {"fr": "connaître", "pos": "verb", "gloss": "认识、了解（指人物地点）"}
+    ]
+  },
+  {
+    "id": "96",
+    "note": "时间关系词三分法：depuis（从起点持续到现在）vs pendant（某段时间内的区间）vs après（之后），三词均为介词，在时间点位关系上完全不同，必须精确区分。",
+    "members": [
+      {"fr": "depuis", "pos": "prep", "gloss": "自从、从……以来"},
+      {"fr": "pendant", "pos": "prep", "gloss": "在……期间、同时"},
+      {"fr": "après", "pos": "prep", "gloss": "之后"}
+    ]
+  },
+  {
+    "id": "100",
+    "note": "位置动词运动与静止对比：rester（留，静止状态）vs aller/venir（去/来，移动），rester是aller/venir的反概念，静动对比最明显，基础三词。",
+    "members": [
+      {"fr": "rester", "pos": "verb", "gloss": "留下、保持、停留"},
+      {"fr": "venir", "pos": "verb", "gloss": "来"},
+      {"fr": "aller", "pos": "verb", "gloss": "去"}
+    ]
+  }
+]

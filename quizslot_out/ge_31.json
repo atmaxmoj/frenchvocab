@@ -1,0 +1,701 @@
+[
+  {
+    "id": 594,
+    "qs": [
+      {
+        "slot": "s|0",
+        "f": "sense",
+        "s": "Les enfants jouaient ___ de la maison.",
+        "en": "The children were playing around the house.",
+        "a": "autour",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "s|0",
+        "f": "sense",
+        "s": "Nous avons exploré ___ du village avant de partir.",
+        "en": "We explored around the village before leaving.",
+        "a": "autour",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "s|1",
+        "f": "sense",
+        "s": "Les débats ___ de cette question ont duré des heures.",
+        "en": "The debates around this question lasted for hours.",
+        "a": "autour",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "s|1",
+        "f": "sense",
+        "s": "Toute la famille s'est réunie ___ de la table pour fêter son anniversaire.",
+        "en": "The whole family gathered around the table to celebrate her birthday.",
+        "a": "autour",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "s|2",
+        "f": "sense",
+        "s": "Il y a plusieurs restaurants ___ de la gare.",
+        "en": "There are several restaurants around the station.",
+        "a": "autour",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "s|2",
+        "f": "sense",
+        "s": "Nous habitons ___ du parc, à cinq minutes à pied.",
+        "en": "We live around the park, five minutes on foot.",
+        "a": "autour",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "gender",
+        "f": "gender",
+        "s": "On aperçoit ___ autour perché au sommet du grand chêne.",
+        "en": "One can see a goshawk perched at the top of the great oak tree.",
+        "a": "un",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "gender",
+        "f": "gender",
+        "s": "___ autour surveille le bois depuis son nid.",
+        "en": "The goshawk watches over the woods from its nest.",
+        "a": "L'",
+        "alts": [],
+        "form": ""
+      }
+    ]
+  },
+  {
+    "id": 595,
+    "qs": [
+      {
+        "slot": "t|Présent|0",
+        "f": "tense",
+        "s": "Je ___ ma consommation d'énergie chaque mois.",
+        "en": "I reduce my energy consumption every month.",
+        "a": "réduis",
+        "alts": [],
+        "form": "Présent"
+      },
+      {
+        "slot": "t|Présent|0",
+        "f": "tense",
+        "s": "Tu ___ toujours les dépenses inutiles dans ton budget.",
+        "en": "You always reduce unnecessary expenses in your budget.",
+        "a": "réduis",
+        "alts": [],
+        "form": "Présent"
+      },
+      {
+        "slot": "t|Présent|1",
+        "f": "tense",
+        "s": "Ce médicament ___ la douleur rapidement.",
+        "en": "This medicine reduces the pain quickly.",
+        "a": "réduit",
+        "alts": [],
+        "form": "Présent"
+      },
+      {
+        "slot": "t|Présent|1",
+        "f": "tense",
+        "s": "On ___ les émissions de CO₂ grâce à ces nouvelles mesures.",
+        "en": "One reduces CO₂ emissions thanks to these new measures.",
+        "a": "réduit",
+        "alts": [],
+        "form": "Présent"
+      },
+      {
+        "slot": "t|Présent|2",
+        "f": "tense",
+        "s": "Nous ___ nos déchets en triant mieux.",
+        "en": "We reduce our waste by sorting better.",
+        "a": "réduisons",
+        "alts": [],
+        "form": "Présent"
+      },
+      {
+        "slot": "t|Présent|2",
+        "f": "tense",
+        "s": "Nous ___ le budget de fonctionnement pour faire des économies.",
+        "en": "We reduce the operating budget to save money.",
+        "a": "réduisons",
+        "alts": [],
+        "form": "Présent"
+      },
+      {
+        "slot": "t|Présent|3",
+        "f": "tense",
+        "s": "Vous ___ vos heures supplémentaires ce trimestre.",
+        "en": "You reduce your overtime hours this quarter.",
+        "a": "réduisez",
+        "alts": [],
+        "form": "Présent"
+      },
+      {
+        "slot": "t|Présent|3",
+        "f": "tense",
+        "s": "Est-ce que vous ___ vraiment les coûts de production ?",
+        "en": "Do you really reduce production costs?",
+        "a": "réduisez",
+        "alts": [],
+        "form": "Présent"
+      },
+      {
+        "slot": "t|Présent|4",
+        "f": "tense",
+        "s": "Les entreprises ___ leurs effectifs en période de crise.",
+        "en": "Companies reduce their workforce during a crisis.",
+        "a": "réduisent",
+        "alts": [],
+        "form": "Présent"
+      },
+      {
+        "slot": "t|Présent|4",
+        "f": "tense",
+        "s": "Elles ___ leur temps de trajet en prenant le métro.",
+        "en": "They reduce their commute time by taking the metro.",
+        "a": "réduisent",
+        "alts": [],
+        "form": "Présent"
+      },
+      {
+        "slot": "t|Passé composé|0",
+        "f": "tense",
+        "s": "J'___ mes dépenses de moitié ce mois-ci.",
+        "en": "I reduced my expenses by half this month.",
+        "a": "ai réduit",
+        "alts": [],
+        "form": "Passé composé"
+      },
+      {
+        "slot": "t|Passé composé|0",
+        "f": "tense",
+        "s": "Hier, j'___ le volume de la musique pour ne pas déranger mes voisins.",
+        "en": "Yesterday, I reduced the music volume so as not to disturb my neighbors.",
+        "a": "ai réduit",
+        "alts": [],
+        "form": "Passé composé"
+      },
+      {
+        "slot": "t|Passé composé|1",
+        "f": "tense",
+        "s": "Tu ___ ton temps d'écran de façon significative la semaine dernière.",
+        "en": "You significantly reduced your screen time last week.",
+        "a": "as réduit",
+        "alts": [],
+        "form": "Passé composé"
+      },
+      {
+        "slot": "t|Passé composé|1",
+        "f": "tense",
+        "s": "Tu ___ tes absences ce semestre, bravo !",
+        "en": "You reduced your absences this semester, well done!",
+        "a": "as réduit",
+        "alts": [],
+        "form": "Passé composé"
+      },
+      {
+        "slot": "t|Passé composé|2",
+        "f": "tense",
+        "s": "Le gouvernement ___ les impôts l'année dernière.",
+        "en": "The government reduced taxes last year.",
+        "a": "a réduit",
+        "alts": [],
+        "form": "Passé composé"
+      },
+      {
+        "slot": "t|Passé composé|2",
+        "f": "tense",
+        "s": "Elle ___ ses portions pour perdre du poids.",
+        "en": "She reduced her portions to lose weight.",
+        "a": "a réduit",
+        "alts": [],
+        "form": "Passé composé"
+      },
+      {
+        "slot": "t|Passé composé|3",
+        "f": "tense",
+        "s": "Nous ___ nos émissions de carbone de 20 % l'an dernier.",
+        "en": "We reduced our carbon emissions by 20% last year.",
+        "a": "avons réduit",
+        "alts": [],
+        "form": "Passé composé"
+      },
+      {
+        "slot": "t|Passé composé|3",
+        "f": "tense",
+        "s": "Nous ___ le délai de livraison grâce à une meilleure organisation.",
+        "en": "We reduced the delivery time thanks to better organization.",
+        "a": "avons réduit",
+        "alts": [],
+        "form": "Passé composé"
+      },
+      {
+        "slot": "t|Passé composé|4",
+        "f": "tense",
+        "s": "Vous ___ les risques d'accident grâce à cette formation.",
+        "en": "You reduced the risk of accidents thanks to this training.",
+        "a": "avez réduit",
+        "alts": [],
+        "form": "Passé composé"
+      },
+      {
+        "slot": "t|Passé composé|4",
+        "f": "tense",
+        "s": "Vous ___ les délais de traitement des dossiers ce trimestre.",
+        "en": "You reduced the file processing times this quarter.",
+        "a": "avez réduit",
+        "alts": [],
+        "form": "Passé composé"
+      },
+      {
+        "slot": "t|Passé composé|5",
+        "f": "tense",
+        "s": "Les chercheurs ___ le taux d'erreur dans leurs expériences.",
+        "en": "The researchers reduced the error rate in their experiments.",
+        "a": "ont réduit",
+        "alts": [],
+        "form": "Passé composé"
+      },
+      {
+        "slot": "t|Passé composé|5",
+        "f": "tense",
+        "s": "Les élèves ___ le bruit dans la classe après l'intervention du professeur.",
+        "en": "The students reduced the noise in the classroom after the teacher's intervention.",
+        "a": "ont réduit",
+        "alts": [],
+        "form": "Passé composé"
+      },
+      {
+        "slot": "t|Imparfait|0",
+        "f": "tense",
+        "s": "Quand j'étais étudiant, je ___ mes dépenses au strict minimum.",
+        "en": "When I was a student, I used to reduce my expenses to the bare minimum.",
+        "a": "réduisais",
+        "alts": [],
+        "form": "Imparfait"
+      },
+      {
+        "slot": "t|Imparfait|0",
+        "f": "tense",
+        "s": "Tu ___ toujours le chauffage la nuit pour économiser l'énergie.",
+        "en": "You always used to reduce the heating at night to save energy.",
+        "a": "réduisais",
+        "alts": [],
+        "form": "Imparfait"
+      },
+      {
+        "slot": "t|Imparfait|1",
+        "f": "tense",
+        "s": "La sauce ___ lentement sur le feu.",
+        "en": "The sauce was slowly reducing on the heat.",
+        "a": "réduisait",
+        "alts": [],
+        "form": "Imparfait"
+      },
+      {
+        "slot": "t|Imparfait|1",
+        "f": "tense",
+        "s": "Il ___ régulièrement ses heures de travail pendant les vacances scolaires.",
+        "en": "He regularly used to reduce his working hours during school holidays.",
+        "a": "réduisait",
+        "alts": [],
+        "form": "Imparfait"
+      },
+      {
+        "slot": "t|Imparfait|2",
+        "f": "tense",
+        "s": "Nous ___ notre consommation d'eau chaque été.",
+        "en": "We used to reduce our water consumption every summer.",
+        "a": "réduisions",
+        "alts": [],
+        "form": "Imparfait"
+      },
+      {
+        "slot": "t|Imparfait|2",
+        "f": "tense",
+        "s": "Nous ___ les coûts en achetant en gros autrefois.",
+        "en": "We used to reduce costs by buying in bulk.",
+        "a": "réduisions",
+        "alts": [],
+        "form": "Imparfait"
+      },
+      {
+        "slot": "t|Imparfait|3",
+        "f": "tense",
+        "s": "Vous ___ votre vitesse en entrant dans les zones scolaires.",
+        "en": "You used to reduce your speed when entering school zones.",
+        "a": "réduisiez",
+        "alts": [],
+        "form": "Imparfait"
+      },
+      {
+        "slot": "t|Imparfait|3",
+        "f": "tense",
+        "s": "Vous ___ les effectifs chaque hiver pour faire des économies.",
+        "en": "You used to reduce the headcount every winter to save money.",
+        "a": "réduisiez",
+        "alts": [],
+        "form": "Imparfait"
+      },
+      {
+        "slot": "t|Imparfait|4",
+        "f": "tense",
+        "s": "Les usines ___ leur production pendant les crises économiques.",
+        "en": "The factories used to reduce their production during economic crises.",
+        "a": "réduisaient",
+        "alts": [],
+        "form": "Imparfait"
+      },
+      {
+        "slot": "t|Imparfait|4",
+        "f": "tense",
+        "s": "Les employés ___ leurs heures supplémentaires en été.",
+        "en": "The employees used to reduce their overtime hours in summer.",
+        "a": "réduisaient",
+        "alts": [],
+        "form": "Imparfait"
+      },
+      {
+        "slot": "t|Futur|0",
+        "f": "tense",
+        "s": "L'année prochaine, je ___ mes abonnements inutiles.",
+        "en": "Next year, I will reduce my unnecessary subscriptions.",
+        "a": "réduirai",
+        "alts": [],
+        "form": "Futur"
+      },
+      {
+        "slot": "t|Futur|0",
+        "f": "tense",
+        "s": "Je ___ mes déplacements en voiture dès que possible.",
+        "en": "I will reduce my car trips as soon as possible.",
+        "a": "réduirai",
+        "alts": [],
+        "form": "Futur"
+      },
+      {
+        "slot": "t|Futur|1",
+        "f": "tense",
+        "s": "Si tu fais attention, tu ___ tes frais de transport.",
+        "en": "If you pay attention, you will reduce your transport costs.",
+        "a": "réduiras",
+        "alts": [],
+        "form": "Futur"
+      },
+      {
+        "slot": "t|Futur|1",
+        "f": "tense",
+        "s": "Tu ___ ton temps de trajet en partant plus tôt.",
+        "en": "You will reduce your commute time by leaving earlier.",
+        "a": "réduiras",
+        "alts": [],
+        "form": "Futur"
+      },
+      {
+        "slot": "t|Futur|2",
+        "f": "tense",
+        "s": "Cette nouvelle technologie ___ les coûts de fabrication.",
+        "en": "This new technology will reduce manufacturing costs.",
+        "a": "réduira",
+        "alts": [],
+        "form": "Futur"
+      },
+      {
+        "slot": "t|Futur|2",
+        "f": "tense",
+        "s": "Elle ___ ses horaires de travail après son retour de congé maternité.",
+        "en": "She will reduce her working hours after returning from maternity leave.",
+        "a": "réduira",
+        "alts": [],
+        "form": "Futur"
+      },
+      {
+        "slot": "t|Futur|3",
+        "f": "tense",
+        "s": "Nous ___ notre empreinte carbone grâce à ce projet.",
+        "en": "We will reduce our carbon footprint thanks to this project.",
+        "a": "réduirons",
+        "alts": [],
+        "form": "Futur"
+      },
+      {
+        "slot": "t|Futur|3",
+        "f": "tense",
+        "s": "Nous ___ les délais de livraison dès la semaine prochaine.",
+        "en": "We will reduce delivery times starting next week.",
+        "a": "réduirons",
+        "alts": [],
+        "form": "Futur"
+      },
+      {
+        "slot": "t|Futur|4",
+        "f": "tense",
+        "s": "Vous ___ vos charges fixes en rationalisant vos achats.",
+        "en": "You will reduce your fixed costs by rationalizing your purchases.",
+        "a": "réduirez",
+        "alts": [],
+        "form": "Futur"
+      },
+      {
+        "slot": "t|Futur|4",
+        "f": "tense",
+        "s": "Grâce à ce plan, vous ___ le nombre d'erreurs dans vos rapports.",
+        "en": "Thanks to this plan, you will reduce the number of errors in your reports.",
+        "a": "réduirez",
+        "alts": [],
+        "form": "Futur"
+      },
+      {
+        "slot": "t|Futur|5",
+        "f": "tense",
+        "s": "Les autorités ___ la vitesse maximale sur ce tronçon l'année prochaine.",
+        "en": "The authorities will reduce the speed limit on this stretch of road next year.",
+        "a": "réduiront",
+        "alts": [],
+        "form": "Futur"
+      },
+      {
+        "slot": "t|Futur|5",
+        "f": "tense",
+        "s": "Ils ___ leurs émissions polluantes d'ici 2030.",
+        "en": "They will reduce their polluting emissions by 2030.",
+        "a": "réduiront",
+        "alts": [],
+        "form": "Futur"
+      },
+      {
+        "slot": "t|Conditionnel|0",
+        "f": "tense",
+        "s": "Si j'avais plus d'argent, je ___ mon temps de travail.",
+        "en": "If I had more money, I would reduce my working time.",
+        "a": "réduirais",
+        "alts": [],
+        "form": "Conditionnel"
+      },
+      {
+        "slot": "t|Conditionnel|0",
+        "f": "tense",
+        "s": "Si tu mangeais moins de sucre, tu ___ les risques de diabète.",
+        "en": "If you ate less sugar, you would reduce the risk of diabetes.",
+        "a": "réduirais",
+        "alts": [],
+        "form": "Conditionnel"
+      },
+      {
+        "slot": "t|Conditionnel|1",
+        "f": "tense",
+        "s": "Si le gouvernement agissait, il ___ le chômage plus rapidement.",
+        "en": "If the government acted, it would reduce unemployment more quickly.",
+        "a": "réduirait",
+        "alts": [],
+        "form": "Conditionnel"
+      },
+      {
+        "slot": "t|Conditionnel|1",
+        "f": "tense",
+        "s": "Si on utilisait les transports en commun, on ___ les embouteillages.",
+        "en": "If we used public transport, we would reduce traffic jams.",
+        "a": "réduirait",
+        "alts": [],
+        "form": "Conditionnel"
+      },
+      {
+        "slot": "t|Conditionnel|2",
+        "f": "tense",
+        "s": "Si nous avions moins de réunions, nous ___ le stress au bureau.",
+        "en": "If we had fewer meetings, we would reduce stress at the office.",
+        "a": "réduirions",
+        "alts": [],
+        "form": "Conditionnel"
+      },
+      {
+        "slot": "t|Conditionnel|2",
+        "f": "tense",
+        "s": "Si nous travaillions à distance, nous ___ nos frais de déplacement.",
+        "en": "If we worked remotely, we would reduce our travel expenses.",
+        "a": "réduirions",
+        "alts": [],
+        "form": "Conditionnel"
+      },
+      {
+        "slot": "t|Conditionnel|3",
+        "f": "tense",
+        "s": "Si vous recycliez davantage, vous ___ vos déchets.",
+        "en": "If you recycled more, you would reduce your waste.",
+        "a": "réduiriez",
+        "alts": [],
+        "form": "Conditionnel"
+      },
+      {
+        "slot": "t|Conditionnel|3",
+        "f": "tense",
+        "s": "Si vous révisiez votre budget, vous ___ les dépenses superflues.",
+        "en": "If you reviewed your budget, you would reduce superfluous expenses.",
+        "a": "réduiriez",
+        "alts": [],
+        "form": "Conditionnel"
+      },
+      {
+        "slot": "t|Conditionnel|4",
+        "f": "tense",
+        "s": "Si les usines investissaient dans des technologies vertes, elles ___ leur pollution.",
+        "en": "If factories invested in green technologies, they would reduce their pollution.",
+        "a": "réduiraient",
+        "alts": [],
+        "form": "Conditionnel"
+      },
+      {
+        "slot": "t|Conditionnel|4",
+        "f": "tense",
+        "s": "Si les entreprises coopéraient, elles ___ leurs coûts logistiques.",
+        "en": "If companies cooperated, they would reduce their logistics costs.",
+        "a": "réduiraient",
+        "alts": [],
+        "form": "Conditionnel"
+      },
+      {
+        "slot": "t|Subjonctif",
+        "f": "subj",
+        "s": "Il faut que tu ___ ton temps d'écran avant les examens.",
+        "en": "It is necessary that you reduce your screen time before the exams.",
+        "a": "réduises",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "t|Subjonctif",
+        "f": "subj",
+        "s": "Le médecin tient à ce que vous ___ votre consommation de sel.",
+        "en": "The doctor insists that you reduce your salt intake.",
+        "a": "réduisiez",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "s|0",
+        "f": "sense",
+        "s": "Le gouvernement cherche à ___ le nombre de sans-abri dans la capitale.",
+        "en": "The government seeks to reduce the number of homeless people in the capital.",
+        "a": "réduire",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "s|0",
+        "f": "sense",
+        "s": "Ces nouvelles habitudes alimentaires ont permis de ___ les risques de maladies cardiovasculaires.",
+        "en": "These new eating habits have made it possible to reduce the risk of cardiovascular diseases.",
+        "a": "réduire",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "s|1",
+        "f": "sense",
+        "s": "La direction a décidé de ___ le personnel de l'entreprise pour faire face à la crise.",
+        "en": "Management decided to reduce the company's workforce to deal with the crisis.",
+        "a": "réduire",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "s|1",
+        "f": "sense",
+        "s": "Il faudra ___ le budget alloué à la communication cette année.",
+        "en": "It will be necessary to reduce the budget allocated to communication this year.",
+        "a": "réduire",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "s|2",
+        "f": "sense",
+        "s": "Ces mesures ont contribué à ___ le taux de chômage dans la région.",
+        "en": "These measures helped to lower the unemployment rate in the region.",
+        "a": "réduire",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "s|2",
+        "f": "sense",
+        "s": "L'objectif de cette politique est de ___ les inégalités entre les différentes classes sociales.",
+        "en": "The goal of this policy is to lower inequalities between different social classes.",
+        "a": "réduire",
+        "alts": [],
+        "form": ""
+      }
+    ]
+  },
+  {
+    "id": 596,
+    "qs": [
+      {
+        "slot": "s|0",
+        "f": "sense",
+        "s": "___ les résultats de l'enquête, la majorité des citoyens soutient cette mesure.",
+        "en": "According to the survey results, the majority of citizens supports this measure.",
+        "a": "D'après",
+        "alts": ["Selon"],
+        "form": ""
+      },
+      {
+        "slot": "s|0",
+        "f": "sense",
+        "s": "___ le contrat, le paiement doit être effectué avant le 30 du mois.",
+        "en": "According to the contract, payment must be made before the 30th of the month.",
+        "a": "D'après",
+        "alts": ["Selon"],
+        "form": ""
+      },
+      {
+        "slot": "s|1",
+        "f": "sense",
+        "s": "Il a peint ce tableau ___ une photo de famille.",
+        "en": "He painted this picture after a family photo.",
+        "a": "d'après",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "s|1",
+        "f": "sense",
+        "s": "Elle a redessiné les plans ___ les instructions de l'architecte.",
+        "en": "She redrew the plans in accordance with the architect's instructions.",
+        "a": "d'après",
+        "alts": ["selon"],
+        "form": ""
+      },
+      {
+        "slot": "s|2",
+        "f": "sense",
+        "s": "___ Marie, le concert a été annulé à cause de la pluie.",
+        "en": "According to Marie, the concert was cancelled because of the rain.",
+        "a": "D'après",
+        "alts": ["Selon"],
+        "form": ""
+      },
+      {
+        "slot": "s|2",
+        "f": "sense",
+        "s": "___ mon père, ce restaurant sert les meilleures crêpes de la ville.",
+        "en": "According to my father, this restaurant serves the best crêpes in the city.",
+        "a": "D'après",
+        "alts": ["Selon"],
+        "form": ""
+      }
+    ]
+  }
+]

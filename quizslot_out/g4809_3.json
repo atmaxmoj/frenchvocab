@@ -1,0 +1,245 @@
+[
+  {
+    "id": 4818,
+    "qs": [
+      {
+        "slot": "s|0",
+        "f": "sense",
+        "s": "Les enfants de moins de six ans peuvent entrer ___ dans ce musée.",
+        "a": "gratuitement",
+        "en": "Children under six can enter this museum for free.",
+        "alts": []
+      },
+      {
+        "slot": "s|0",
+        "f": "sense",
+        "s": "Tu peux télécharger cette application ___ sur ton téléphone.",
+        "a": "gratuitement",
+        "en": "You can download this app for free on your phone.",
+        "alts": []
+      },
+      {
+        "slot": "s|1",
+        "f": "sense",
+        "s": "Elle consacre ses week-ends à aider les sans-abri ___ .",
+        "a": "gratuitement",
+        "en": "She devotes her weekends to helping the homeless without pay.",
+        "alts": []
+      },
+      {
+        "slot": "s|1",
+        "f": "sense",
+        "s": "Ce médecin soigne les réfugiés ___ depuis dix ans.",
+        "a": "gratuitement",
+        "en": "This doctor has been treating refugees without compensation for ten years.",
+        "alts": []
+      },
+      {
+        "slot": "s|2",
+        "f": "sense",
+        "s": "Il a insulté son collègue ___, sans aucune raison valable.",
+        "a": "gratuitement",
+        "en": "He insulted his colleague gratuitously, without any valid reason.",
+        "alts": []
+      },
+      {
+        "slot": "s|2",
+        "f": "sense",
+        "s": "Elle se montre cruelle ___ envers les gens qu'elle ne connaît pas.",
+        "a": "gratuitement",
+        "en": "She is gratuitously cruel towards people she does not know.",
+        "alts": []
+      }
+    ]
+  },
+  {
+    "id": 4819,
+    "qs": [
+      {
+        "slot": "s|0",
+        "f": "sense",
+        "s": "Ce manuel de physique quantique est ___ pour la plupart des étudiants de première année.",
+        "a": "incompréhensible",
+        "en": "This quantum physics textbook is incomprehensible for most first-year students.",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "s|0",
+        "f": "sense",
+        "s": "Son explication était tellement technique qu'elle m'a semblé complètement ___.",
+        "a": "incompréhensible",
+        "en": "His explanation was so technical that it seemed completely incomprehensible to me.",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "s|1",
+        "f": "sense",
+        "s": "Il a quitté son emploi sans donner de raison : son comportement est vraiment ___.",
+        "a": "incompréhensible",
+        "en": "He quit his job without giving any reason — his behaviour is truly inexplicable.",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "s|1",
+        "f": "sense",
+        "s": "Elle a refusé cette offre exceptionnelle ; c'est ___ de sa part.",
+        "a": "incompréhensible",
+        "en": "She turned down this exceptional offer; it is baffling on her part.",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "g|mp",
+        "f": "agree",
+        "s": "Ces arguments philosophiques me paraissent totalement ___.",
+        "a": "incompréhensibles",
+        "en": "These philosophical arguments seem totally incomprehensible to me.",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "g|mp",
+        "f": "agree",
+        "s": "Les règlements administratifs de ce service sont souvent ___ pour les usagers.",
+        "a": "incompréhensibles",
+        "en": "The administrative regulations of this department are often incomprehensible to users.",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "g|f",
+        "f": "agree",
+        "s": "Sa décision de partir à l'étranger reste ___ pour toute la famille.",
+        "a": "incompréhensible",
+        "en": "His decision to go abroad remains incomprehensible to the whole family.",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "g|f",
+        "f": "agree",
+        "s": "La notice de montage est tellement mal rédigée qu'elle est ___.",
+        "a": "incompréhensible",
+        "en": "The assembly instructions are so poorly written that they are incomprehensible.",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "g|fp",
+        "f": "agree",
+        "s": "Ses réactions face aux critiques sont parfois vraiment ___.",
+        "a": "incompréhensibles",
+        "en": "Her reactions to criticism are sometimes truly incomprehensible.",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "g|fp",
+        "f": "agree",
+        "s": "Les instructions données en jargon technique sont ___ pour les non-spécialistes.",
+        "a": "incompréhensibles",
+        "en": "The instructions given in technical jargon are incomprehensible to non-specialists.",
+        "alts": [],
+        "form": ""
+      }
+    ]
+  },
+  {
+    "id": 4820,
+    "qs": [
+      {
+        "slot": "s|0",
+        "f": "sense",
+        "s": "La route fait un ___ juste avant le village.",
+        "en": "The road winds/curves around just before the village.",
+        "a": "détour",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "s|0",
+        "f": "sense",
+        "s": "Il y a un ___ dangereux sur ce chemin de montagne.",
+        "en": "There is a dangerous winding section on this mountain path.",
+        "a": "détour",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "s|1",
+        "f": "sense",
+        "s": "L'armée a effectué un ___ pour contourner les positions ennemies.",
+        "en": "The army made a roundabout march to bypass the enemy positions.",
+        "a": "détour",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "s|1",
+        "f": "sense",
+        "s": "Le général a ordonné un ___ stratégique pour surprendre les troupes adverses.",
+        "en": "The general ordered a strategic circuitous maneuver to surprise the enemy troops.",
+        "a": "détour",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "s|2",
+        "f": "sense",
+        "s": "Nous avons dû faire un ___ à cause des travaux sur l'autoroute.",
+        "en": "We had to take a detour because of road works on the highway.",
+        "a": "détour",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "s|2",
+        "f": "sense",
+        "s": "J'ai pris un ___ pour éviter les embouteillages en centre-ville.",
+        "en": "I took a detour to avoid traffic jams in the city center.",
+        "a": "détour",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "s|3",
+        "f": "sense",
+        "s": "Il m'a dit la vérité sans ___, ce qui m'a vraiment surpris.",
+        "en": "He told me the truth without beating around the bush, which really surprised me.",
+        "a": "détour",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "s|3",
+        "f": "sense",
+        "s": "Elle répond toujours par des ___ au lieu de parler franchement.",
+        "en": "She always answers in a roundabout way instead of speaking frankly.",
+        "a": "détours",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "gender",
+        "f": "gender",
+        "s": "___ détour qu'il a pris était complètement inutile.",
+        "en": "The detour he took was completely unnecessary.",
+        "a": "Le",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "gender",
+        "f": "gender",
+        "s": "Nous avons fait ___ détour pour admirer ce vieux château.",
+        "en": "We made a detour to admire that old castle.",
+        "a": "un",
+        "alts": [],
+        "form": ""
+      }
+    ]
+  }
+]

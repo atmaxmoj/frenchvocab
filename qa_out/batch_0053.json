@@ -1,0 +1,20 @@
+[
+  {
+    "id": "431",
+    "fix": {
+      "examples": [
+        {
+          "fr": "Ce voyage vaut vraiment la peine d'être fait.",
+          "en": "This trip is truly worth taking.",
+          "target": "vaut"
+        },
+        {
+          "fr": "Cette vieille montre peut valoir une petite fortune aux enchères.",
+          "en": "This old watch can be worth a small fortune at auction.",
+          "target": "valoir"
+        }
+      ]
+    },
+    "reasons": ["second example used 'valoir ses compétences' which is unidiomatic; the correct idiom for the given English is 'faire valoir', so replaced with a natural sentence using 'valoir' in its core 'to be worth' sense"]
+  }
+]

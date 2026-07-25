@@ -1,0 +1,665 @@
+[
+  {
+    "id": 1013,
+    "qs": [
+      {
+        "slot": "s|0",
+        "f": "sense",
+        "s": "Il était ___ perdu dans ses pensées et n'entendait plus rien autour de lui.",
+        "en": "He was completely lost in his thoughts and could no longer hear anything around him.",
+        "a": "complètement",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "s|0",
+        "f": "sense",
+        "s": "Tu as ___ raison : il n'y a aucun doute là-dessus.",
+        "en": "You are completely right: there is absolutely no doubt about it.",
+        "a": "complètement",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "s|1",
+        "f": "sense",
+        "s": "Après l'incendie, la maison a été ___ détruite.",
+        "en": "After the fire, the house was thoroughly destroyed.",
+        "a": "complètement",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "s|1",
+        "f": "sense",
+        "s": "Il a ___ oublié notre rendez-vous, comme si ça n'avait jamais existé.",
+        "en": "He utterly forgot our appointment, as if it had never existed.",
+        "a": "complètement",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "gender",
+        "f": "gender",
+        "s": "C'est ___ adverbe très courant en français.",
+        "en": "It is a very common adverb in French.",
+        "a": "un",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "gender",
+        "f": "gender",
+        "s": "___ emploi abusif de cet adverbe affaiblit le style.",
+        "en": "Overuse of this adverb weakens the style.",
+        "a": "Un",
+        "alts": [],
+        "form": ""
+      }
+    ]
+  },
+  {
+    "id": 1014,
+    "qs": [
+      {
+        "slot": "t|Présent|0",
+        "f": "tense",
+        "s": "Je ___ ma réservation par téléphone.",
+        "en": "I confirm my reservation by phone.",
+        "a": "confirme",
+        "alts": [],
+        "form": "Présent"
+      },
+      {
+        "slot": "t|Présent|0",
+        "f": "tense",
+        "s": "Le médecin ___ le diagnostic après les examens.",
+        "en": "The doctor confirms the diagnosis after the tests.",
+        "a": "confirme",
+        "alts": [],
+        "form": "Présent"
+      },
+      {
+        "slot": "t|Présent|1",
+        "f": "tense",
+        "s": "Tu ___ bien ta présence à la réunion ?",
+        "en": "Are you confirming your attendance at the meeting?",
+        "a": "confirmes",
+        "alts": [],
+        "form": "Présent"
+      },
+      {
+        "slot": "t|Présent|1",
+        "f": "tense",
+        "s": "Est-ce que tu ___ l'heure du rendez-vous ?",
+        "en": "Are you confirming the time of the appointment?",
+        "a": "confirmes",
+        "alts": [],
+        "form": "Présent"
+      },
+      {
+        "slot": "t|Présent|2",
+        "f": "tense",
+        "s": "Nous ___ notre commande par e-mail.",
+        "en": "We confirm our order by email.",
+        "a": "confirmons",
+        "alts": [],
+        "form": "Présent"
+      },
+      {
+        "slot": "t|Présent|2",
+        "f": "tense",
+        "s": "Nous ___ la date de la cérémonie aujourd'hui.",
+        "en": "We confirm the date of the ceremony today.",
+        "a": "confirmons",
+        "alts": [],
+        "form": "Présent"
+      },
+      {
+        "slot": "t|Présent|3",
+        "f": "tense",
+        "s": "Vous ___ votre inscription avant vendredi ?",
+        "en": "Are you confirming your registration before Friday?",
+        "a": "confirmez",
+        "alts": [],
+        "form": "Présent"
+      },
+      {
+        "slot": "t|Présent|3",
+        "f": "tense",
+        "s": "Vous ___ bien les informations transmises ?",
+        "en": "Are you confirming the information provided?",
+        "a": "confirmez",
+        "alts": [],
+        "form": "Présent"
+      },
+      {
+        "slot": "t|Présent|4",
+        "f": "tense",
+        "s": "Les témoins ___ la version des faits.",
+        "en": "The witnesses confirm the account of events.",
+        "a": "confirment",
+        "alts": [],
+        "form": "Présent"
+      },
+      {
+        "slot": "t|Présent|4",
+        "f": "tense",
+        "s": "Les résultats ___ nos hypothèses initiales.",
+        "en": "The results confirm our initial hypotheses.",
+        "a": "confirment",
+        "alts": [],
+        "form": "Présent"
+      },
+      {
+        "slot": "t|Passé composé|0",
+        "f": "tense",
+        "s": "J'___ ma réservation hier soir.",
+        "en": "I confirmed my reservation yesterday evening.",
+        "a": "ai confirmé",
+        "alts": [],
+        "form": "Passé composé"
+      },
+      {
+        "slot": "t|Passé composé|0",
+        "f": "tense",
+        "s": "J'___ ma participation au projet la semaine dernière.",
+        "en": "I confirmed my participation in the project last week.",
+        "a": "ai confirmé",
+        "alts": [],
+        "form": "Passé composé"
+      },
+      {
+        "slot": "t|Passé composé|1",
+        "f": "tense",
+        "s": "Tu ___ ton vol avant de partir ?",
+        "en": "Did you confirm your flight before leaving?",
+        "a": "as confirmé",
+        "alts": [],
+        "form": "Passé composé"
+      },
+      {
+        "slot": "t|Passé composé|1",
+        "f": "tense",
+        "s": "Tu ___ la commande par SMS ce matin.",
+        "en": "You confirmed the order by text message this morning.",
+        "a": "as confirmé",
+        "alts": [],
+        "form": "Passé composé"
+      },
+      {
+        "slot": "t|Passé composé|2",
+        "f": "tense",
+        "s": "Le directeur ___ sa décision lors de la réunion.",
+        "en": "The director confirmed his decision at the meeting.",
+        "a": "a confirmé",
+        "alts": [],
+        "form": "Passé composé"
+      },
+      {
+        "slot": "t|Passé composé|2",
+        "f": "tense",
+        "s": "Elle ___ son arrivée par e-mail.",
+        "en": "She confirmed her arrival by email.",
+        "a": "a confirmé",
+        "alts": [],
+        "form": "Passé composé"
+      },
+      {
+        "slot": "t|Passé composé|3",
+        "f": "tense",
+        "s": "Nous ___ notre accord avec le client hier.",
+        "en": "We confirmed our agreement with the client yesterday.",
+        "a": "avons confirmé",
+        "alts": [],
+        "form": "Passé composé"
+      },
+      {
+        "slot": "t|Passé composé|3",
+        "f": "tense",
+        "s": "Nous ___ les détails du contrat ce matin.",
+        "en": "We confirmed the details of the contract this morning.",
+        "a": "avons confirmé",
+        "alts": [],
+        "form": "Passé composé"
+      },
+      {
+        "slot": "t|Passé composé|4",
+        "f": "tense",
+        "s": "Vous ___ votre présence à la conférence hier ?",
+        "en": "Did you confirm your attendance at the conference yesterday?",
+        "a": "avez confirmé",
+        "alts": [],
+        "form": "Passé composé"
+      },
+      {
+        "slot": "t|Passé composé|4",
+        "f": "tense",
+        "s": "Vous ___ la livraison pour demain ?",
+        "en": "Did you confirm the delivery for tomorrow?",
+        "a": "avez confirmé",
+        "alts": [],
+        "form": "Passé composé"
+      },
+      {
+        "slot": "t|Passé composé|5",
+        "f": "tense",
+        "s": "Les experts ___ les conclusions du rapport.",
+        "en": "The experts confirmed the conclusions of the report.",
+        "a": "ont confirmé",
+        "alts": [],
+        "form": "Passé composé"
+      },
+      {
+        "slot": "t|Passé composé|5",
+        "f": "tense",
+        "s": "Ils ___ leur départ prévu pour lundi.",
+        "en": "They confirmed their planned departure for Monday.",
+        "a": "ont confirmé",
+        "alts": [],
+        "form": "Passé composé"
+      },
+      {
+        "slot": "t|Imparfait|0",
+        "f": "tense",
+        "s": "Je ___ toujours mes rendez-vous par téléphone à l'époque.",
+        "en": "I always confirmed my appointments by phone back then.",
+        "a": "confirmais",
+        "alts": [],
+        "form": "Imparfait"
+      },
+      {
+        "slot": "t|Imparfait|0",
+        "f": "tense",
+        "s": "Tu ___ tes réservations la veille chaque fois.",
+        "en": "You used to confirm your reservations the day before each time.",
+        "a": "confirmais",
+        "alts": [],
+        "form": "Imparfait"
+      },
+      {
+        "slot": "t|Imparfait|1",
+        "f": "tense",
+        "s": "Le chef ___ les horaires chaque semaine.",
+        "en": "The manager used to confirm the schedules every week.",
+        "a": "confirmait",
+        "alts": [],
+        "form": "Imparfait"
+      },
+      {
+        "slot": "t|Imparfait|1",
+        "f": "tense",
+        "s": "Elle ___ toujours les détails avant de signer.",
+        "en": "She always confirmed the details before signing.",
+        "a": "confirmait",
+        "alts": [],
+        "form": "Imparfait"
+      },
+      {
+        "slot": "t|Imparfait|2",
+        "f": "tense",
+        "s": "Nous ___ nos commandes par fax à cette époque.",
+        "en": "We used to confirm our orders by fax at that time.",
+        "a": "confirmions",
+        "alts": [],
+        "form": "Imparfait"
+      },
+      {
+        "slot": "t|Imparfait|2",
+        "f": "tense",
+        "s": "Nous ___ toujours les résultats avant de les publier.",
+        "en": "We always confirmed the results before publishing them.",
+        "a": "confirmions",
+        "alts": [],
+        "form": "Imparfait"
+      },
+      {
+        "slot": "t|Imparfait|3",
+        "f": "tense",
+        "s": "Vous ___ vos réservations par courrier autrefois.",
+        "en": "You used to confirm your reservations by mail in the old days.",
+        "a": "confirmiez",
+        "alts": [],
+        "form": "Imparfait"
+      },
+      {
+        "slot": "t|Imparfait|3",
+        "f": "tense",
+        "s": "Vous ___ toujours les informations avant de les diffuser.",
+        "en": "You always confirmed the information before broadcasting it.",
+        "a": "confirmiez",
+        "alts": [],
+        "form": "Imparfait"
+      },
+      {
+        "slot": "t|Imparfait|4",
+        "f": "tense",
+        "s": "Les participants ___ leur présence quelques jours avant.",
+        "en": "The participants used to confirm their attendance a few days before.",
+        "a": "confirmaient",
+        "alts": [],
+        "form": "Imparfait"
+      },
+      {
+        "slot": "t|Imparfait|4",
+        "f": "tense",
+        "s": "Les scientifiques ___ leurs hypothèses par des expériences.",
+        "en": "The scientists used to confirm their hypotheses through experiments.",
+        "a": "confirmaient",
+        "alts": [],
+        "form": "Imparfait"
+      },
+      {
+        "slot": "t|Futur|0",
+        "f": "tense",
+        "s": "Je ___ mon rendez-vous demain matin.",
+        "en": "I will confirm my appointment tomorrow morning.",
+        "a": "confirmerai",
+        "alts": [],
+        "form": "Futur"
+      },
+      {
+        "slot": "t|Futur|0",
+        "f": "tense",
+        "s": "Je ___ les détails de la livraison dès que possible.",
+        "en": "I will confirm the delivery details as soon as possible.",
+        "a": "confirmerai",
+        "alts": [],
+        "form": "Futur"
+      },
+      {
+        "slot": "t|Futur|1",
+        "f": "tense",
+        "s": "Tu ___ ta participation avant la date limite ?",
+        "en": "Will you confirm your participation before the deadline?",
+        "a": "confirmeras",
+        "alts": [],
+        "form": "Futur"
+      },
+      {
+        "slot": "t|Futur|1",
+        "f": "tense",
+        "s": "Tu ___ la réservation de l'hôtel ce soir ?",
+        "en": "Will you confirm the hotel reservation this evening?",
+        "a": "confirmeras",
+        "alts": [],
+        "form": "Futur"
+      },
+      {
+        "slot": "t|Futur|2",
+        "f": "tense",
+        "s": "Le médecin ___ le diagnostic après les analyses.",
+        "en": "The doctor will confirm the diagnosis after the tests.",
+        "a": "confirmera",
+        "alts": [],
+        "form": "Futur"
+      },
+      {
+        "slot": "t|Futur|2",
+        "f": "tense",
+        "s": "Elle ___ sa présence par e-mail demain.",
+        "en": "She will confirm her attendance by email tomorrow.",
+        "a": "confirmera",
+        "alts": [],
+        "form": "Futur"
+      },
+      {
+        "slot": "t|Futur|3",
+        "f": "tense",
+        "s": "Nous ___ notre accord la semaine prochaine.",
+        "en": "We will confirm our agreement next week.",
+        "a": "confirmerons",
+        "alts": [],
+        "form": "Futur"
+      },
+      {
+        "slot": "t|Futur|3",
+        "f": "tense",
+        "s": "Nous ___ les résultats dès que les tests seront terminés.",
+        "en": "We will confirm the results as soon as the tests are done.",
+        "a": "confirmerons",
+        "alts": [],
+        "form": "Futur"
+      },
+      {
+        "slot": "t|Futur|4",
+        "f": "tense",
+        "s": "Vous ___ votre commande dans les prochains jours ?",
+        "en": "Will you confirm your order in the coming days?",
+        "a": "confirmerez",
+        "alts": [],
+        "form": "Futur"
+      },
+      {
+        "slot": "t|Futur|4",
+        "f": "tense",
+        "s": "Vous ___ la date du voyage avant de partir ?",
+        "en": "Will you confirm the travel date before leaving?",
+        "a": "confirmerez",
+        "alts": [],
+        "form": "Futur"
+      },
+      {
+        "slot": "t|Futur|5",
+        "f": "tense",
+        "s": "Les autorités ___ les résultats officiellement demain.",
+        "en": "The authorities will officially confirm the results tomorrow.",
+        "a": "confirmeront",
+        "alts": [],
+        "form": "Futur"
+      },
+      {
+        "slot": "t|Futur|5",
+        "f": "tense",
+        "s": "Les chercheurs ___ leurs conclusions lors de la conférence.",
+        "en": "The researchers will confirm their conclusions at the conference.",
+        "a": "confirmeront",
+        "alts": [],
+        "form": "Futur"
+      },
+      {
+        "slot": "t|Conditionnel|0",
+        "f": "tense",
+        "s": "Si tu me le demandais, je ___ la réservation tout de suite.",
+        "en": "If you asked me, I would confirm the reservation right away.",
+        "a": "confirmerais",
+        "alts": [],
+        "form": "Conditionnel"
+      },
+      {
+        "slot": "t|Conditionnel|0",
+        "f": "tense",
+        "s": "Si tu avais le temps, tu ___ les informations avant la réunion.",
+        "en": "If you had time, you would confirm the information before the meeting.",
+        "a": "confirmerais",
+        "alts": [],
+        "form": "Conditionnel"
+      },
+      {
+        "slot": "t|Conditionnel|1",
+        "f": "tense",
+        "s": "Le directeur ___ sa décision si les conditions étaient réunies.",
+        "en": "The director would confirm his decision if the conditions were met.",
+        "a": "confirmerait",
+        "alts": [],
+        "form": "Conditionnel"
+      },
+      {
+        "slot": "t|Conditionnel|1",
+        "f": "tense",
+        "s": "Elle ___ sa venue si elle recevait une invitation officielle.",
+        "en": "She would confirm her attendance if she received an official invitation.",
+        "a": "confirmerait",
+        "alts": [],
+        "form": "Conditionnel"
+      },
+      {
+        "slot": "t|Conditionnel|2",
+        "f": "tense",
+        "s": "Nous ___ notre participation si le budget était approuvé.",
+        "en": "We would confirm our participation if the budget were approved.",
+        "a": "confirmerions",
+        "alts": [],
+        "form": "Conditionnel"
+      },
+      {
+        "slot": "t|Conditionnel|2",
+        "f": "tense",
+        "s": "Nous ___ la réservation si vous nous donniez votre accord.",
+        "en": "We would confirm the reservation if you gave us your approval.",
+        "a": "confirmerions",
+        "alts": [],
+        "form": "Conditionnel"
+      },
+      {
+        "slot": "t|Conditionnel|3",
+        "f": "tense",
+        "s": "Vous ___ votre présence si l'événement était maintenu ?",
+        "en": "Would you confirm your attendance if the event were held?",
+        "a": "confirmeriez",
+        "alts": [],
+        "form": "Conditionnel"
+      },
+      {
+        "slot": "t|Conditionnel|3",
+        "f": "tense",
+        "s": "Vous ___ la commande si le prix baissait un peu ?",
+        "en": "Would you confirm the order if the price dropped a little?",
+        "a": "confirmeriez",
+        "alts": [],
+        "form": "Conditionnel"
+      },
+      {
+        "slot": "t|Conditionnel|4",
+        "f": "tense",
+        "s": "Les responsables ___ leur accord si les négociations aboutissaient.",
+        "en": "The managers would confirm their agreement if the negotiations succeeded.",
+        "a": "confirmeraient",
+        "alts": [],
+        "form": "Conditionnel"
+      },
+      {
+        "slot": "t|Conditionnel|4",
+        "f": "tense",
+        "s": "Ils ___ leur venue si la date leur convenait.",
+        "en": "They would confirm their attendance if the date suited them.",
+        "a": "confirmeraient",
+        "alts": [],
+        "form": "Conditionnel"
+      },
+      {
+        "slot": "t|Subjonctif",
+        "f": "subj",
+        "s": "Il faut que tu ___ ta réservation avant ce soir.",
+        "en": "You must confirm your reservation before tonight.",
+        "a": "confirmes",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "t|Subjonctif",
+        "f": "subj",
+        "s": "Je veux qu'elle ___ sa présence à la cérémonie.",
+        "en": "I want her to confirm her attendance at the ceremony.",
+        "a": "confirme",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "s|0",
+        "f": "sense",
+        "s": "Pouvez-vous ___ votre rendez-vous par e-mail ?",
+        "en": "Can you confirm your appointment by email?",
+        "a": "confirmer",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "s|0",
+        "f": "sense",
+        "s": "Merci de ___ votre participation avant lundi.",
+        "en": "Please confirm your participation before Monday.",
+        "a": "confirmer",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "s|1",
+        "f": "sense",
+        "s": "Ces nouvelles données permettent de ___ la théorie scientifique.",
+        "en": "These new data make it possible to confirm the scientific theory.",
+        "a": "confirmer",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "s|1",
+        "f": "sense",
+        "s": "L'enquête a permis de ___ les soupçons de la police.",
+        "en": "The investigation made it possible to confirm the police's suspicions.",
+        "a": "confirmer",
+        "alts": [],
+        "form": ""
+      }
+    ]
+  },
+  {
+    "id": 1015,
+    "qs": [
+      {
+        "slot": "s|0",
+        "f": "sense",
+        "s": "Elle négocie son ___ avec le directeur des ressources humaines.",
+        "en": "She is negotiating her salary with the HR director.",
+        "a": "salaire",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "s|0",
+        "f": "sense",
+        "s": "Son ___ mensuel lui permet de vivre confortablement à Paris.",
+        "en": "Her monthly salary allows her to live comfortably in Paris.",
+        "a": "salaire",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "s|1",
+        "f": "sense",
+        "s": "Les ouvriers de cette usine réclament une augmentation de ___.",
+        "en": "The workers at this factory are demanding a wage increase.",
+        "a": "salaire",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "s|1",
+        "f": "sense",
+        "s": "Il touche un ___ minimum depuis qu'il a commencé ce travail.",
+        "en": "He has been earning a minimum wage since he started this job.",
+        "a": "salaire",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "gender",
+        "f": "gender",
+        "s": "___ salaire de cet ingénieur est très élevé.",
+        "en": "The salary of this engineer is very high.",
+        "a": "Le",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "gender",
+        "f": "gender",
+        "s": "Elle cherche un emploi avec ___ salaire plus attractif.",
+        "en": "She is looking for a job with a more attractive salary.",
+        "a": "un",
+        "alts": [],
+        "form": ""
+      }
+    ]
+  }
+]

@@ -1,0 +1,39 @@
+[
+  {
+    "id": 6372,
+    "qs": [
+      {"slot":"s|0","f":"sense","s":"La recherche ___ dans ce domaine a beaucoup progressé ces dernières années.","a":"académique","en":"Academic research in this field has progressed a lot in recent years.","alts":[]},
+      {"slot":"s|0","f":"sense","s":"Il prépare un exposé ___ sur l'histoire de la philosophie.","a":"académique","en":"He is preparing an academic presentation on the history of philosophy.","alts":[]},
+      {"slot":"s|1","f":"sense","s":"L'inspection ___ a envoyé une circulaire à tous les établissements de la région.","a":"académique","en":"The regional education inspectorate sent a memo to all schools in the region.","alts":[]},
+      {"slot":"s|1","f":"sense","s":"Les autorités ___ ont annoncé un nouveau découpage des zones scolaires pour la rentrée prochaine.","a":"académiques","en":"The regional education authorities announced a new redistricting of school zones for the coming school year.","alts":[]},
+      {"slot":"s|2","f":"sense","s":"Les critiques ont trouvé son style de peinture trop ___, sans originalité ni audace.","a":"académique","en":"The critics found his painting style too academic (stiffly conventional), lacking originality or boldness.","alts":[]},
+      {"slot":"s|2","f":"sense","s":"Son discours restait ___ et manquait de spontanéité.","a":"académique","en":"His speech remained stiffly conventional and lacked spontaneity.","alts":[]},
+      {"slot":"g|mp","f":"agree","s":"Les résultats ___ de cette année sont excellents.","a":"académiques","en":"This year's academic results are excellent.","alts":[]},
+      {"slot":"g|mp","f":"agree","s":"Ces titres ___ ne garantissent pas le succès professionnel.","a":"académiques","en":"These academic degrees do not guarantee professional success.","alts":[]},
+      {"slot":"g|f","f":"agree","s":"Sa carrière ___ a commencé à l'université de Lyon.","a":"académique","en":"Her academic career began at the University of Lyon.","alts":[]},
+      {"slot":"g|f","f":"agree","s":"La réussite ___ de sa fille rend ses parents fiers.","a":"académique","en":"Her daughter's academic success makes her parents proud.","alts":[]},
+      {"slot":"g|fp","f":"agree","s":"Les qualifications ___ exigées pour ce poste sont très élevées.","a":"académiques","en":"The academic qualifications required for this position are very high.","alts":[]},
+      {"slot":"g|fp","f":"agree","s":"Les disciplines ___ enseignées dans cette université sont variées.","a":"académiques","en":"The academic disciplines taught at this university are varied.","alts":[]}
+    ]
+  },
+  {
+    "id": 6373,
+    "qs": [
+      {"slot":"s|0","f":"sense","s":"En balayant, elle a ramassé un ___ de verre tombé par terre.","a":"fragment","en":"While sweeping, she picked up a fragment of glass that had fallen on the floor.","alts":[]},
+      {"slot":"s|0","f":"sense","s":"Les archéologues ont découvert un ___ de poterie antique dans les ruines.","a":"fragment","en":"The archaeologists discovered a fragment of ancient pottery in the ruins.","alts":[]},
+      {"slot":"s|1","f":"sense","s":"Le professeur a lu un ___ du roman à voix haute en classe.","a":"fragment","en":"The teacher read a fragment (excerpt) of the novel aloud in class.","alts":[]},
+      {"slot":"s|1","f":"sense","s":"Elle a appris par cœur un ___ célèbre de ce poème.","a":"fragment","en":"She memorized a famous fragment of that poem by heart.","alts":[]},
+      {"slot":"gender","f":"gender","s":"___ fragment était encore visible sur la table du salon.","a":"Le","en":"The fragment was still visible on the living room table.","alts":[]},
+      {"slot":"gender","f":"gender","s":"Il a trouvé ___ fragment de la statue dans le jardin.","a":"un","en":"He found a fragment of the statue in the garden.","alts":[]}
+    ]
+  },
+  {
+    "id": 6374,
+    "qs": [
+      {"slot":"s|0","f":"sense","s":"Le couple a eu recours à une fécondation in ___ pour concevoir leur premier enfant.","a":"vitro","en":"The couple resorted to in vitro fertilization to conceive their first child.","alts":[]},
+      {"slot":"s|0","f":"sense","s":"Avant les essais cliniques, les chercheurs ont testé la molécule in ___ en laboratoire.","a":"vitro","en":"Before clinical trials, the researchers tested the molecule in vitro in the lab.","alts":[]},
+      {"slot":"gender","f":"gender","s":"Après plusieurs années d'essais infructueux, le couple a tenté ___ in vitro.","a":"une","en":"After several years of unsuccessful attempts, the couple tried in vitro fertilization.","alts":[]},
+      {"slot":"gender","f":"gender","s":"Le médecin leur a conseillé ___ in vitro pour augmenter leurs chances de grossesse.","a":"une","en":"The doctor advised them to try in vitro fertilization to increase their chances of pregnancy.","alts":[]}
+    ]
+  }
+]

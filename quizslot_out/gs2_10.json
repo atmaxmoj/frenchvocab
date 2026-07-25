@@ -1,0 +1,739 @@
+[
+  {
+    "id": 2931,
+    "qs": [
+      {
+        "slot": "s|0",
+        "f": "sense",
+        "s": "La ___ Trajane est l'un des monuments les plus célèbres de Rome.",
+        "a": "colonne",
+        "en": "The Trajan's Column is one of the most famous monuments in Rome.",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "s|0",
+        "f": "sense",
+        "s": "Les architectes ont conçu une grande ___ en marbre pour soutenir le plafond du temple.",
+        "a": "colonne",
+        "en": "The architects designed a large marble column to support the ceiling of the temple.",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "s|1",
+        "f": "sense",
+        "s": "Les soldats marchaient en ___ sur la route de campagne.",
+        "a": "colonne",
+        "en": "The soldiers were marching in a column along the country road.",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "s|1",
+        "f": "sense",
+        "s": "Le cortège funèbre formait une longue ___ silencieuse dans les rues de la ville.",
+        "a": "colonne",
+        "en": "The funeral procession formed a long silent column through the city streets.",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "s|2",
+        "f": "sense",
+        "s": "Il tient une ___ hebdomadaire sur la politique dans ce grand journal.",
+        "a": "colonne",
+        "en": "He writes a weekly column on politics in that major newspaper.",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "s|2",
+        "f": "sense",
+        "s": "Les chiffres des ventes sont alignés dans la première ___ du tableau.",
+        "a": "colonne",
+        "en": "The sales figures are lined up in the first column of the table.",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "gender",
+        "f": "gender",
+        "s": "On aperçoit ___ colonne dorée au centre de la place.",
+        "a": "la",
+        "en": "You can see the golden column in the center of the square.",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "gender",
+        "f": "gender",
+        "s": "L'architecte a ajouté ___ colonne supplémentaire pour renforcer la structure.",
+        "a": "une",
+        "en": "The architect added an extra column to reinforce the structure.",
+        "alts": [],
+        "form": ""
+      }
+    ]
+  },
+  {
+    "id": 2932,
+    "qs": [
+      {
+        "slot": "t|Présent|0",
+        "f": "tense",
+        "s": "Je ___ toujours les fleurs avant de les mettre dans le vase.",
+        "a": "arrange",
+        "en": "I always arrange the flowers before putting them in the vase.",
+        "alts": [],
+        "form": "Présent"
+      },
+      {
+        "slot": "t|Présent|0",
+        "f": "tense",
+        "s": "Mon père ___ les meubles dans le salon chaque week-end.",
+        "a": "arrange",
+        "en": "My father arranges the furniture in the living room every weekend.",
+        "alts": [],
+        "form": "Présent"
+      },
+      {
+        "slot": "t|Présent|1",
+        "f": "tense",
+        "s": "Tu ___ ta chambre avant que tes amis arrivent.",
+        "a": "arranges",
+        "en": "You are tidying your room before your friends arrive.",
+        "alts": [],
+        "form": "Présent"
+      },
+      {
+        "slot": "t|Présent|1",
+        "f": "tense",
+        "s": "Tu ___ toujours les détails pour les réunions importantes.",
+        "a": "arranges",
+        "en": "You always arrange the details for important meetings.",
+        "alts": [],
+        "form": "Présent"
+      },
+      {
+        "slot": "t|Présent|2",
+        "f": "tense",
+        "s": "Nous ___ les chaises en cercle pour la discussion.",
+        "a": "arrangeons",
+        "en": "We are arranging the chairs in a circle for the discussion.",
+        "alts": [],
+        "form": "Présent"
+      },
+      {
+        "slot": "t|Présent|2",
+        "f": "tense",
+        "s": "Nous ___ toujours nos vacances à l'avance.",
+        "a": "arrangeons",
+        "en": "We always arrange our holidays in advance.",
+        "alts": [],
+        "form": "Présent"
+      },
+      {
+        "slot": "t|Présent|3",
+        "f": "tense",
+        "s": "Vous ___ les documents sur le bureau avant la réunion.",
+        "a": "arrangez",
+        "en": "You are arranging the documents on the desk before the meeting.",
+        "alts": [],
+        "form": "Présent"
+      },
+      {
+        "slot": "t|Présent|3",
+        "f": "tense",
+        "s": "Comment vous ___ -vous pour livrer les commandes à temps ?",
+        "a": "arrangez",
+        "en": "How do you manage to deliver the orders on time?",
+        "alts": [],
+        "form": "Présent"
+      },
+      {
+        "slot": "t|Présent|4",
+        "f": "tense",
+        "s": "Les organisateurs ___ les tables pour le banquet ce matin.",
+        "a": "arrangent",
+        "en": "The organizers are arranging the tables for the banquet this morning.",
+        "alts": [],
+        "form": "Présent"
+      },
+      {
+        "slot": "t|Présent|4",
+        "f": "tense",
+        "s": "Ils ___ toujours les conflits à l'amiable.",
+        "a": "arrangent",
+        "en": "They always settle conflicts amicably.",
+        "alts": [],
+        "form": "Présent"
+      },
+      {
+        "slot": "t|Passé composé|0",
+        "f": "tense",
+        "s": "J'___ un rendez-vous avec le médecin pour demain.",
+        "a": "ai arrangé",
+        "en": "I arranged an appointment with the doctor for tomorrow.",
+        "alts": [],
+        "form": "Passé composé"
+      },
+      {
+        "slot": "t|Passé composé|0",
+        "f": "tense",
+        "s": "Ce matin, j'___ mes affaires avant de partir.",
+        "a": "ai arrangé",
+        "en": "This morning, I tidied up my things before leaving.",
+        "alts": [],
+        "form": "Passé composé"
+      },
+      {
+        "slot": "t|Passé composé|1",
+        "f": "tense",
+        "s": "Tu ___ la surprise pour l'anniversaire de ta mère hier soir.",
+        "a": "as arrangé",
+        "en": "You arranged the surprise for your mother's birthday last night.",
+        "alts": [],
+        "form": "Passé composé"
+      },
+      {
+        "slot": "t|Passé composé|1",
+        "f": "tense",
+        "s": "Tu ___ ta coiffure avant la photo de classe.",
+        "a": "as arrangé",
+        "en": "You fixed your hair before the class photo.",
+        "alts": [],
+        "form": "Passé composé"
+      },
+      {
+        "slot": "t|Passé composé|2",
+        "f": "tense",
+        "s": "Le secrétaire ___ le programme de la conférence la semaine dernière.",
+        "a": "a arrangé",
+        "en": "The secretary arranged the conference schedule last week.",
+        "alts": [],
+        "form": "Passé composé"
+      },
+      {
+        "slot": "t|Passé composé|2",
+        "f": "tense",
+        "s": "Elle ___ le malentendu entre les deux collègues hier.",
+        "a": "a arrangé",
+        "en": "She resolved the misunderstanding between the two colleagues yesterday.",
+        "alts": [],
+        "form": "Passé composé"
+      },
+      {
+        "slot": "t|Passé composé|3",
+        "f": "tense",
+        "s": "Nous ___ le salon pour la fête de fin d'année.",
+        "a": "avons arrangé",
+        "en": "We arranged the living room for the end-of-year party.",
+        "alts": [],
+        "form": "Passé composé"
+      },
+      {
+        "slot": "t|Passé composé|3",
+        "f": "tense",
+        "s": "Nous ___ tous les détails du voyage avant de partir.",
+        "a": "avons arrangé",
+        "en": "We arranged all the travel details before leaving.",
+        "alts": [],
+        "form": "Passé composé"
+      },
+      {
+        "slot": "t|Passé composé|4",
+        "f": "tense",
+        "s": "Vous ___ la réunion pour le lendemain matin.",
+        "a": "avez arrangé",
+        "en": "You arranged the meeting for the next morning.",
+        "alts": [],
+        "form": "Passé composé"
+      },
+      {
+        "slot": "t|Passé composé|4",
+        "f": "tense",
+        "s": "Vous ___ votre bureau avant l'inspection.",
+        "a": "avez arrangé",
+        "en": "You tidied up your office before the inspection.",
+        "alts": [],
+        "form": "Passé composé"
+      },
+      {
+        "slot": "t|Passé composé|5",
+        "f": "tense",
+        "s": "Les parents ___ une rencontre entre les enfants pendant les vacances.",
+        "a": "ont arrangé",
+        "en": "The parents arranged a meeting between the children during the holidays.",
+        "alts": [],
+        "form": "Passé composé"
+      },
+      {
+        "slot": "t|Passé composé|5",
+        "f": "tense",
+        "s": "Elles ___ le différend sans passer par le tribunal.",
+        "a": "ont arrangé",
+        "en": "They resolved the dispute without going to court.",
+        "alts": [],
+        "form": "Passé composé"
+      },
+      {
+        "slot": "t|Imparfait|0",
+        "f": "tense",
+        "s": "Quand j'étais enfant, j'___ toujours ma chambre le samedi matin.",
+        "a": "arrangeais",
+        "en": "When I was a child, I always tidied my room on Saturday mornings.",
+        "alts": [],
+        "form": "Imparfait"
+      },
+      {
+        "slot": "t|Imparfait|0",
+        "f": "tense",
+        "s": "Tu ___ les fleurs dans le vase avec beaucoup de soin.",
+        "a": "arrangeais",
+        "en": "You were arranging the flowers in the vase with great care.",
+        "alts": [],
+        "form": "Imparfait"
+      },
+      {
+        "slot": "t|Imparfait|1",
+        "f": "tense",
+        "s": "Autrefois, le directeur ___ toujours les conflits au sein de l'équipe.",
+        "a": "arrangeait",
+        "en": "In the past, the manager always resolved conflicts within the team.",
+        "alts": [],
+        "form": "Imparfait"
+      },
+      {
+        "slot": "t|Imparfait|1",
+        "f": "tense",
+        "s": "On ___ les horaires des réunions chaque lundi matin.",
+        "a": "arrangeait",
+        "en": "Meeting schedules were arranged every Monday morning.",
+        "alts": [],
+        "form": "Imparfait"
+      },
+      {
+        "slot": "t|Imparfait|2",
+        "f": "tense",
+        "s": "Nous ___ souvent les détails ensemble avant chaque événement.",
+        "a": "arrangions",
+        "en": "We often arranged the details together before each event.",
+        "alts": [],
+        "form": "Imparfait"
+      },
+      {
+        "slot": "t|Imparfait|2",
+        "f": "tense",
+        "s": "Quand nous travaillions ensemble, nous ___ les plannings à l'avance.",
+        "a": "arrangions",
+        "en": "When we worked together, we arranged the schedules in advance.",
+        "alts": [],
+        "form": "Imparfait"
+      },
+      {
+        "slot": "t|Imparfait|3",
+        "f": "tense",
+        "s": "Vous ___ toujours les rendez-vous professionnels avec efficacité.",
+        "a": "arrangiez",
+        "en": "You always arranged professional appointments efficiently.",
+        "alts": [],
+        "form": "Imparfait"
+      },
+      {
+        "slot": "t|Imparfait|3",
+        "f": "tense",
+        "s": "À cette époque, vous ___ les dossiers par ordre alphabétique.",
+        "a": "arrangiez",
+        "en": "At that time, you were arranging the files in alphabetical order.",
+        "alts": [],
+        "form": "Imparfait"
+      },
+      {
+        "slot": "t|Imparfait|4",
+        "f": "tense",
+        "s": "Elles ___ les expositions du musée avec beaucoup de talent.",
+        "a": "arrangeaient",
+        "en": "They used to arrange the museum exhibitions with great talent.",
+        "alts": [],
+        "form": "Imparfait"
+      },
+      {
+        "slot": "t|Imparfait|4",
+        "f": "tense",
+        "s": "Les enfants ___ leurs jouets par catégorie chaque soir.",
+        "a": "arrangeaient",
+        "en": "The children used to sort their toys by category every evening.",
+        "alts": [],
+        "form": "Imparfait"
+      },
+      {
+        "slot": "t|Futur|0",
+        "f": "tense",
+        "s": "J'___ un rendez-vous avec le client dès demain.",
+        "a": "arrangerai",
+        "en": "I will arrange an appointment with the client starting tomorrow.",
+        "alts": [],
+        "form": "Futur"
+      },
+      {
+        "slot": "t|Futur|0",
+        "f": "tense",
+        "s": "Je ___ ma chambre avant l'arrivée de mes parents.",
+        "a": "arrangerai",
+        "en": "I will tidy my room before my parents arrive.",
+        "alts": [],
+        "form": "Futur"
+      },
+      {
+        "slot": "t|Futur|1",
+        "f": "tense",
+        "s": "Tu ___ les fleurs sur la table avant le dîner.",
+        "a": "arrangeras",
+        "en": "You will arrange the flowers on the table before dinner.",
+        "alts": [],
+        "form": "Futur"
+      },
+      {
+        "slot": "t|Futur|1",
+        "f": "tense",
+        "s": "Tu ___ ce problème avec ton responsable demain matin.",
+        "a": "arrangeras",
+        "en": "You will sort out this problem with your manager tomorrow morning.",
+        "alts": [],
+        "form": "Futur"
+      },
+      {
+        "slot": "t|Futur|2",
+        "f": "tense",
+        "s": "Le chef de projet ___ le calendrier pour la semaine prochaine.",
+        "a": "arrangera",
+        "en": "The project manager will arrange the schedule for next week.",
+        "alts": [],
+        "form": "Futur"
+      },
+      {
+        "slot": "t|Futur|2",
+        "f": "tense",
+        "s": "Elle ___ les détails de la cérémonie avant la date prévue.",
+        "a": "arrangera",
+        "en": "She will arrange the details of the ceremony before the planned date.",
+        "alts": [],
+        "form": "Futur"
+      },
+      {
+        "slot": "t|Futur|3",
+        "f": "tense",
+        "s": "Nous ___ la salle de conférence avant l'arrivée des invités.",
+        "a": "arrangerons",
+        "en": "We will arrange the conference room before the guests arrive.",
+        "alts": [],
+        "form": "Futur"
+      },
+      {
+        "slot": "t|Futur|3",
+        "f": "tense",
+        "s": "Nous ___ tous les problèmes techniques d'ici vendredi.",
+        "a": "arrangerons",
+        "en": "We will sort out all the technical problems by Friday.",
+        "alts": [],
+        "form": "Futur"
+      },
+      {
+        "slot": "t|Futur|4",
+        "f": "tense",
+        "s": "Vous ___ les horaires des employés pour le mois prochain.",
+        "a": "arrangerez",
+        "en": "You will arrange the employees' schedules for next month.",
+        "alts": [],
+        "form": "Futur"
+      },
+      {
+        "slot": "t|Futur|4",
+        "f": "tense",
+        "s": "Vous ___ ce malentendu avec votre associé avant la fin de la semaine.",
+        "a": "arrangerez",
+        "en": "You will resolve this misunderstanding with your partner before the end of the week.",
+        "alts": [],
+        "form": "Futur"
+      },
+      {
+        "slot": "t|Futur|5",
+        "f": "tense",
+        "s": "Les assistants ___ les documents avant la présentation.",
+        "a": "arrangeront",
+        "en": "The assistants will arrange the documents before the presentation.",
+        "alts": [],
+        "form": "Futur"
+      },
+      {
+        "slot": "t|Futur|5",
+        "f": "tense",
+        "s": "Ils ___ sûrement les choses entre eux avant la réunion.",
+        "a": "arrangeront",
+        "en": "They will surely sort things out between themselves before the meeting.",
+        "alts": [],
+        "form": "Futur"
+      },
+      {
+        "slot": "t|Conditionnel|0",
+        "f": "tense",
+        "s": "Si j'avais plus de temps, j'___ mieux mon bureau.",
+        "a": "arrangerais",
+        "en": "If I had more time, I would tidy my office better.",
+        "alts": [],
+        "form": "Conditionnel"
+      },
+      {
+        "slot": "t|Conditionnel|0",
+        "f": "tense",
+        "s": "Si tu demandais poliment, tu ___ facilement ce rendez-vous.",
+        "a": "arrangerais",
+        "en": "If you asked politely, you would easily arrange this appointment.",
+        "alts": [],
+        "form": "Conditionnel"
+      },
+      {
+        "slot": "t|Conditionnel|1",
+        "f": "tense",
+        "s": "Si le patron était disponible, il ___ la situation rapidement.",
+        "a": "arrangerait",
+        "en": "If the boss were available, he would sort out the situation quickly.",
+        "alts": [],
+        "form": "Conditionnel"
+      },
+      {
+        "slot": "t|Conditionnel|1",
+        "f": "tense",
+        "s": "Elle ___ volontiers les fleurs si on lui demandait.",
+        "a": "arrangerait",
+        "en": "She would willingly arrange the flowers if asked.",
+        "alts": [],
+        "form": "Conditionnel"
+      },
+      {
+        "slot": "t|Conditionnel|2",
+        "f": "tense",
+        "s": "Si nous avions un plus grand appartement, nous ___ mieux les espaces.",
+        "a": "arrangerions",
+        "en": "If we had a bigger apartment, we would arrange the spaces better.",
+        "alts": [],
+        "form": "Conditionnel"
+      },
+      {
+        "slot": "t|Conditionnel|2",
+        "f": "tense",
+        "s": "Nous ___ bien une réunion de réconciliation si tout le monde était d'accord.",
+        "a": "arrangerions",
+        "en": "We would gladly arrange a reconciliation meeting if everyone agreed.",
+        "alts": [],
+        "form": "Conditionnel"
+      },
+      {
+        "slot": "t|Conditionnel|3",
+        "f": "tense",
+        "s": "Si vous aviez plus de budget, vous ___ une meilleure cérémonie.",
+        "a": "arrangeriez",
+        "en": "If you had more budget, you would arrange a better ceremony.",
+        "alts": [],
+        "form": "Conditionnel"
+      },
+      {
+        "slot": "t|Conditionnel|3",
+        "f": "tense",
+        "s": "Vous ___ cela différemment si vous connaissiez toute l'histoire.",
+        "a": "arrangeriez",
+        "en": "You would handle this differently if you knew the whole story.",
+        "alts": [],
+        "form": "Conditionnel"
+      },
+      {
+        "slot": "t|Conditionnel|4",
+        "f": "tense",
+        "s": "Si les collègues coopéraient, ils ___ les horaires sans difficulté.",
+        "a": "arrangeraient",
+        "en": "If the colleagues cooperated, they would arrange the schedules without difficulty.",
+        "alts": [],
+        "form": "Conditionnel"
+      },
+      {
+        "slot": "t|Conditionnel|4",
+        "f": "tense",
+        "s": "Elles ___ le conflit plus vite si elles se parlaient directement.",
+        "a": "arrangeraient",
+        "en": "They would resolve the conflict faster if they talked to each other directly.",
+        "alts": [],
+        "form": "Conditionnel"
+      },
+      {
+        "slot": "t|Subjonctif",
+        "f": "subj",
+        "s": "Il faut que tu ___ ta chambre avant ce soir.",
+        "a": "arranges",
+        "en": "You must tidy your room before this evening.",
+        "alts": [],
+        "form": "Subjonctif"
+      },
+      {
+        "slot": "t|Subjonctif",
+        "f": "subj",
+        "s": "Je veux que vous ___ ce différend avant la réunion de demain.",
+        "a": "arrangiez",
+        "en": "I want you to resolve this disagreement before tomorrow's meeting.",
+        "alts": [],
+        "form": "Subjonctif"
+      },
+      {
+        "slot": "s|0",
+        "f": "sense",
+        "s": "La secrétaire a ___ une réunion entre les deux équipes pour mardi.",
+        "a": "arrangé",
+        "en": "The secretary arranged a meeting between the two teams for Tuesday.",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "s|0",
+        "f": "sense",
+        "s": "Mon père ___ souvent des sorties en famille le week-end.",
+        "a": "arrange",
+        "en": "My father often arranges family outings on weekends.",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "s|1",
+        "f": "sense",
+        "s": "Elle ___ ses livres sur l'étagère par ordre de taille.",
+        "a": "arrange",
+        "en": "She arranges her books on the shelf by size.",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "s|1",
+        "f": "sense",
+        "s": "Il a ___ son bureau avant l'arrivée du directeur.",
+        "a": "arrangé",
+        "en": "He tidied his desk before the director arrived.",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "s|2",
+        "f": "sense",
+        "s": "Le médiateur a ___ le litige entre les deux voisins en quelques heures.",
+        "a": "arrangé",
+        "en": "The mediator resolved the dispute between the two neighbors in a few hours.",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "s|2",
+        "f": "sense",
+        "s": "Tu ___ toujours les problèmes avec beaucoup de calme.",
+        "a": "arranges",
+        "en": "You always resolve problems with great calm.",
+        "alts": [],
+        "form": ""
+      }
+    ]
+  },
+  {
+    "id": 2933,
+    "qs": [
+      {
+        "slot": "s|0",
+        "f": "sense",
+        "s": "On aperçoit un village ___ au bout de la vallée.",
+        "a": "lointain",
+        "en": "We can see a distant village at the end of the valley."
+      },
+      {
+        "slot": "s|0",
+        "f": "sense",
+        "s": "Le phare envoie sa lumière vers des navires ___ en mer.",
+        "a": "lointains",
+        "en": "The lighthouse sends its light toward distant ships at sea."
+      },
+      {
+        "slot": "s|1",
+        "f": "sense",
+        "s": "Ces événements appartiennent à un passé si ___ que peu de gens s'en souviennent.",
+        "a": "lointain",
+        "en": "These events belong to such a distant past that few people remember them."
+      },
+      {
+        "slot": "s|1",
+        "f": "sense",
+        "s": "Les origines de cette tradition remontent à une époque ___ .",
+        "a": "lointaine",
+        "en": "The origins of this tradition go back to a long-past era."
+      },
+      {
+        "slot": "g|ms",
+        "f": "agree",
+        "s": "Le village ___ se distinguait à peine à travers le brouillard.",
+        "a": "lointain",
+        "en": "The distant village was barely visible through the fog.",
+        "alts": []
+      },
+      {
+        "slot": "g|ms",
+        "f": "agree",
+        "s": "Un son ___ parvint à nos oreilles dans le silence de la nuit.",
+        "a": "lointain",
+        "en": "A distant sound reached our ears in the silence of the night.",
+        "alts": []
+      },
+      {
+        "slot": "g|mp",
+        "f": "agree",
+        "s": "Ces pays ___ nous semblent mystérieux.",
+        "a": "lointains",
+        "en": "These distant countries seem mysterious to us.",
+        "alts": []
+      },
+      {
+        "slot": "g|mp",
+        "f": "agree",
+        "s": "Les souvenirs de ses voyages ___ restaient gravés dans sa mémoire.",
+        "a": "lointains",
+        "en": "The memories of his distant travels remained engraved in his memory.",
+        "alts": []
+      },
+      {
+        "slot": "g|f",
+        "f": "agree",
+        "s": "Elle entendait une musique ___ portée par le vent.",
+        "a": "lointaine",
+        "en": "She heard a distant music carried by the wind.",
+        "alts": []
+      },
+      {
+        "slot": "g|f",
+        "f": "agree",
+        "s": "La ville ___ brillait sous les étoiles comme un mirage.",
+        "a": "lointaine",
+        "en": "The distant city shone under the stars like a mirage.",
+        "alts": []
+      },
+      {
+        "slot": "g|fp",
+        "f": "agree",
+        "s": "Elle rêvait de contrées ___ qu'elle n'avait jamais visitées.",
+        "a": "lointaines",
+        "en": "She dreamed of distant lands she had never visited.",
+        "alts": []
+      },
+      {
+        "slot": "g|fp",
+        "f": "agree",
+        "s": "Ces années ___ lui paraissaient appartenir à une autre vie.",
+        "a": "lointaines",
+        "en": "Those faraway years seemed to belong to another life.",
+        "alts": []
+      }
+    ]
+  }
+]

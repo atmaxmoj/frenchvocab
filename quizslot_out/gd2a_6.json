@@ -1,0 +1,665 @@
+[
+  {
+    "id": 19,
+    "qs": [
+      {
+        "slot": "s|0",
+        "f": "sense",
+        "s": "Je voudrais ___ de café, s'il vous plaît.",
+        "en": "I would like more coffee, please.",
+        "a": "plus",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "s|0",
+        "f": "sense",
+        "s": "Elle travaille ___ que son frère pour obtenir de bonnes notes.",
+        "en": "She works more than her brother to get good grades.",
+        "a": "plus",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "s|1",
+        "f": "sense",
+        "s": "Il ne fume ___ depuis qu'il a eu son premier enfant.",
+        "en": "He no longer smokes since he had his first child.",
+        "a": "plus",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "s|1",
+        "f": "sense",
+        "s": "Nous n'avons ___ de lait dans le réfrigérateur.",
+        "en": "We no longer have any milk in the fridge.",
+        "a": "plus",
+        "alts": [],
+        "form": ""
+      }
+    ]
+  },
+  {
+    "id": 20,
+    "qs": [
+      {
+        "slot": "t|Présent|0",
+        "f": "tense",
+        "s": "Je ne ___ pas sortir ce soir, j'ai trop de travail.",
+        "en": "I can't go out tonight, I have too much work.",
+        "a": "peux",
+        "alts": [],
+        "form": "Présent"
+      },
+      {
+        "slot": "t|Présent|0",
+        "f": "tense",
+        "s": "Tu ___ m'aider à porter ces cartons ?",
+        "en": "Can you help me carry these boxes?",
+        "a": "peux",
+        "alts": [],
+        "form": "Présent"
+      },
+      {
+        "slot": "t|Présent|1",
+        "f": "tense",
+        "s": "Mon fils ___ déjà lire à cinq ans.",
+        "en": "My son can already read at five years old.",
+        "a": "peut",
+        "alts": [],
+        "form": "Présent"
+      },
+      {
+        "slot": "t|Présent|1",
+        "f": "tense",
+        "s": "On ___ voir la mer depuis cette fenêtre.",
+        "en": "One can see the sea from this window.",
+        "a": "peut",
+        "alts": [],
+        "form": "Présent"
+      },
+      {
+        "slot": "t|Présent|2",
+        "f": "tense",
+        "s": "Nous ___ partir dès que tu seras prêt.",
+        "en": "We can leave as soon as you are ready.",
+        "a": "pouvons",
+        "alts": [],
+        "form": "Présent"
+      },
+      {
+        "slot": "t|Présent|2",
+        "f": "tense",
+        "s": "Nous ___ compter sur toi pour ce projet ?",
+        "en": "Can we count on you for this project?",
+        "a": "pouvons",
+        "alts": [],
+        "form": "Présent"
+      },
+      {
+        "slot": "t|Présent|3",
+        "f": "tense",
+        "s": "Vous ___ utiliser la salle de réunion jusqu'à midi.",
+        "en": "You can use the meeting room until noon.",
+        "a": "pouvez",
+        "alts": [],
+        "form": "Présent"
+      },
+      {
+        "slot": "t|Présent|3",
+        "f": "tense",
+        "s": "Est-ce que vous ___ répéter la question, s'il vous plaît ?",
+        "en": "Can you repeat the question, please?",
+        "a": "pouvez",
+        "alts": [],
+        "form": "Présent"
+      },
+      {
+        "slot": "t|Présent|4",
+        "f": "tense",
+        "s": "Les élèves ___ choisir leur sujet librement.",
+        "en": "The students can choose their topic freely.",
+        "a": "peuvent",
+        "alts": [],
+        "form": "Présent"
+      },
+      {
+        "slot": "t|Présent|4",
+        "f": "tense",
+        "s": "Elles ___ venir nous voir ce week-end si elles veulent.",
+        "en": "They can come to see us this weekend if they want.",
+        "a": "peuvent",
+        "alts": [],
+        "form": "Présent"
+      },
+      {
+        "slot": "t|Passé composé|0",
+        "f": "tense",
+        "s": "Hier soir, j'___ finir le rapport avant minuit.",
+        "en": "Yesterday evening, I was able to finish the report before midnight.",
+        "a": "ai pu",
+        "alts": [],
+        "form": "Passé composé"
+      },
+      {
+        "slot": "t|Passé composé|0",
+        "f": "tense",
+        "s": "J'___ réserver deux places pour le concert de vendredi.",
+        "en": "I was able to book two seats for Friday's concert.",
+        "a": "ai pu",
+        "alts": [],
+        "form": "Passé composé"
+      },
+      {
+        "slot": "t|Passé composé|1",
+        "f": "tense",
+        "s": "Tu ___ dormir un peu dans le train ?",
+        "en": "Were you able to sleep a little on the train?",
+        "a": "as pu",
+        "alts": [],
+        "form": "Passé composé"
+      },
+      {
+        "slot": "t|Passé composé|1",
+        "f": "tense",
+        "s": "Tu ___ parler au directeur avant la réunion ?",
+        "en": "Were you able to speak to the director before the meeting?",
+        "a": "as pu",
+        "alts": [],
+        "form": "Passé composé"
+      },
+      {
+        "slot": "t|Passé composé|2",
+        "f": "tense",
+        "s": "Heureusement, le médecin ___ arriver à temps.",
+        "en": "Fortunately, the doctor was able to arrive in time.",
+        "a": "a pu",
+        "alts": [],
+        "form": "Passé composé"
+      },
+      {
+        "slot": "t|Passé composé|2",
+        "f": "tense",
+        "s": "Elle ___ obtenir son visa sans difficulté.",
+        "en": "She was able to get her visa without difficulty.",
+        "a": "a pu",
+        "alts": [],
+        "form": "Passé composé"
+      },
+      {
+        "slot": "t|Passé composé|3",
+        "f": "tense",
+        "s": "Nous ___ enfin nous retrouver après deux ans de séparation.",
+        "en": "We were finally able to meet again after two years apart.",
+        "a": "avons pu",
+        "alts": [],
+        "form": "Passé composé"
+      },
+      {
+        "slot": "t|Passé composé|3",
+        "f": "tense",
+        "s": "Nous ___ résoudre le problème grâce à votre aide.",
+        "en": "We were able to solve the problem thanks to your help.",
+        "a": "avons pu",
+        "alts": [],
+        "form": "Passé composé"
+      },
+      {
+        "slot": "t|Passé composé|4",
+        "f": "tense",
+        "s": "Vous ___ joindre le responsable hier après-midi ?",
+        "en": "Were you able to reach the manager yesterday afternoon?",
+        "a": "avez pu",
+        "alts": [],
+        "form": "Passé composé"
+      },
+      {
+        "slot": "t|Passé composé|4",
+        "f": "tense",
+        "s": "Vous ___ terminer l'examen dans les temps impartis.",
+        "en": "You were able to finish the exam within the allotted time.",
+        "a": "avez pu",
+        "alts": [],
+        "form": "Passé composé"
+      },
+      {
+        "slot": "t|Passé composé|5",
+        "f": "tense",
+        "s": "Mes parents ___ venir à ma remise de diplôme.",
+        "en": "My parents were able to come to my graduation ceremony.",
+        "a": "ont pu",
+        "alts": [],
+        "form": "Passé composé"
+      },
+      {
+        "slot": "t|Passé composé|5",
+        "f": "tense",
+        "s": "Les pompiers ___ éteindre l'incendie rapidement.",
+        "en": "The firefighters were able to put out the fire quickly.",
+        "a": "ont pu",
+        "alts": [],
+        "form": "Passé composé"
+      },
+      {
+        "slot": "t|Imparfait|0",
+        "f": "tense",
+        "s": "Quand j'étais enfant, je ___ courir très vite.",
+        "en": "When I was a child, I could run very fast.",
+        "a": "pouvais",
+        "alts": [],
+        "form": "Imparfait"
+      },
+      {
+        "slot": "t|Imparfait|0",
+        "f": "tense",
+        "s": "Tu ___ rester encore un peu hier soir, non ?",
+        "en": "You could have stayed a little longer last night, couldn't you?",
+        "a": "pouvais",
+        "alts": [],
+        "form": "Imparfait"
+      },
+      {
+        "slot": "t|Imparfait|1",
+        "f": "tense",
+        "s": "Le blessé ne ___ pas marcher sans béquilles.",
+        "en": "The injured person could not walk without crutches.",
+        "a": "pouvait",
+        "alts": [],
+        "form": "Imparfait"
+      },
+      {
+        "slot": "t|Imparfait|1",
+        "f": "tense",
+        "s": "On ___ entendre la musique depuis la rue.",
+        "en": "You could hear the music from the street.",
+        "a": "pouvait",
+        "alts": [],
+        "form": "Imparfait"
+      },
+      {
+        "slot": "t|Imparfait|2",
+        "f": "tense",
+        "s": "À cette époque, nous ___ nous promener librement dans le parc.",
+        "en": "At that time, we could walk freely in the park.",
+        "a": "pouvions",
+        "alts": [],
+        "form": "Imparfait"
+      },
+      {
+        "slot": "t|Imparfait|2",
+        "f": "tense",
+        "s": "Nous ___ nous retrouver tous les soirs au café du coin.",
+        "en": "We could meet every evening at the corner café.",
+        "a": "pouvions",
+        "alts": [],
+        "form": "Imparfait"
+      },
+      {
+        "slot": "t|Imparfait|3",
+        "f": "tense",
+        "s": "Vous ___ nous prévenir avant de partir !",
+        "en": "You could have warned us before leaving!",
+        "a": "pouviez",
+        "alts": [],
+        "form": "Imparfait"
+      },
+      {
+        "slot": "t|Imparfait|3",
+        "f": "tense",
+        "s": "Est-ce que vous ___ voir la scène depuis vos places ?",
+        "en": "Could you see the stage from your seats?",
+        "a": "pouviez",
+        "alts": [],
+        "form": "Imparfait"
+      },
+      {
+        "slot": "t|Imparfait|4",
+        "f": "tense",
+        "s": "Les enfants ___ jouer dehors jusqu'à la nuit tombée.",
+        "en": "The children could play outside until nightfall.",
+        "a": "pouvaient",
+        "alts": [],
+        "form": "Imparfait"
+      },
+      {
+        "slot": "t|Imparfait|4",
+        "f": "tense",
+        "s": "Ils ___ travailler des heures sans se fatiguer.",
+        "en": "They could work for hours without getting tired.",
+        "a": "pouvaient",
+        "alts": [],
+        "form": "Imparfait"
+      },
+      {
+        "slot": "t|Futur|0",
+        "f": "tense",
+        "s": "Demain, je ___ te rejoindre vers dix-huit heures.",
+        "en": "Tomorrow, I will be able to join you around six o'clock.",
+        "a": "pourrai",
+        "alts": [],
+        "form": "Futur"
+      },
+      {
+        "slot": "t|Futur|0",
+        "f": "tense",
+        "s": "Après cette opération, je ___ enfin marcher normalement.",
+        "en": "After this operation, I will finally be able to walk normally.",
+        "a": "pourrai",
+        "alts": [],
+        "form": "Futur"
+      },
+      {
+        "slot": "t|Futur|1",
+        "f": "tense",
+        "s": "Avec ce nouveau diplôme, tu ___ postuler à de meilleurs emplois.",
+        "en": "With this new degree, you will be able to apply for better jobs.",
+        "a": "pourras",
+        "alts": [],
+        "form": "Futur"
+      },
+      {
+        "slot": "t|Futur|1",
+        "f": "tense",
+        "s": "Tu ___ partir en vacances dès que ton projet sera terminé.",
+        "en": "You will be able to go on holiday as soon as your project is finished.",
+        "a": "pourras",
+        "alts": [],
+        "form": "Futur"
+      },
+      {
+        "slot": "t|Futur|2",
+        "f": "tense",
+        "s": "Le technicien ___ réparer la panne d'ici demain matin.",
+        "en": "The technician will be able to fix the breakdown by tomorrow morning.",
+        "a": "pourra",
+        "alts": [],
+        "form": "Futur"
+      },
+      {
+        "slot": "t|Futur|2",
+        "f": "tense",
+        "s": "Elle ___ enfin prendre un peu de repos après les examens.",
+        "en": "She will finally be able to get some rest after the exams.",
+        "a": "pourra",
+        "alts": [],
+        "form": "Futur"
+      },
+      {
+        "slot": "t|Futur|3",
+        "f": "tense",
+        "s": "Nous ___ visiter le musée gratuitement samedi prochain.",
+        "en": "We will be able to visit the museum for free next Saturday.",
+        "a": "pourrons",
+        "alts": [],
+        "form": "Futur"
+      },
+      {
+        "slot": "t|Futur|3",
+        "f": "tense",
+        "s": "Avec un peu d'entraînement, nous ___ parler couramment.",
+        "en": "With a little practice, we will be able to speak fluently.",
+        "a": "pourrons",
+        "alts": [],
+        "form": "Futur"
+      },
+      {
+        "slot": "t|Futur|4",
+        "f": "tense",
+        "s": "Vous ___ récupérer votre commande dès lundi.",
+        "en": "You will be able to collect your order from Monday.",
+        "a": "pourrez",
+        "alts": [],
+        "form": "Futur"
+      },
+      {
+        "slot": "t|Futur|4",
+        "f": "tense",
+        "s": "Si vous venez tôt, vous ___ avoir une bonne place.",
+        "en": "If you come early, you will be able to get a good seat.",
+        "a": "pourrez",
+        "alts": [],
+        "form": "Futur"
+      },
+      {
+        "slot": "t|Futur|5",
+        "f": "tense",
+        "s": "Les candidats ___ consulter leurs résultats en ligne vendredi.",
+        "en": "The candidates will be able to check their results online on Friday.",
+        "a": "pourront",
+        "alts": [],
+        "form": "Futur"
+      },
+      {
+        "slot": "t|Futur|5",
+        "f": "tense",
+        "s": "Ils ___ rejoindre l'équipe une fois leur formation terminée.",
+        "en": "They will be able to join the team once their training is complete.",
+        "a": "pourront",
+        "alts": [],
+        "form": "Futur"
+      },
+      {
+        "slot": "t|Conditionnel|0",
+        "f": "tense",
+        "s": "Je ___ vous aider si j'avais plus de temps libre.",
+        "en": "I could help you if I had more free time.",
+        "a": "pourrais",
+        "alts": [],
+        "form": "Conditionnel"
+      },
+      {
+        "slot": "t|Conditionnel|0",
+        "f": "tense",
+        "s": "Tu ___ me prêter ton vélo pour le week-end ?",
+        "en": "Could you lend me your bike for the weekend?",
+        "a": "pourrais",
+        "alts": [],
+        "form": "Conditionnel"
+      },
+      {
+        "slot": "t|Conditionnel|1",
+        "f": "tense",
+        "s": "Avec un peu de courage, il ___ réussir cet examen difficile.",
+        "en": "With a little courage, he could pass this difficult exam.",
+        "a": "pourrait",
+        "alts": [],
+        "form": "Conditionnel"
+      },
+      {
+        "slot": "t|Conditionnel|1",
+        "f": "tense",
+        "s": "Elle ___ partir en voyage si elle économisait davantage.",
+        "en": "She could go travelling if she saved more money.",
+        "a": "pourrait",
+        "alts": [],
+        "form": "Conditionnel"
+      },
+      {
+        "slot": "t|Conditionnel|2",
+        "f": "tense",
+        "s": "Nous ___ organiser une fête si tout le monde était disponible.",
+        "en": "We could organise a party if everyone was available.",
+        "a": "pourrions",
+        "alts": [],
+        "form": "Conditionnel"
+      },
+      {
+        "slot": "t|Conditionnel|2",
+        "f": "tense",
+        "s": "Nous ___ réduire nos dépenses en faisant nos courses en ligne.",
+        "en": "We could reduce our expenses by shopping online.",
+        "a": "pourrions",
+        "alts": [],
+        "form": "Conditionnel"
+      },
+      {
+        "slot": "t|Conditionnel|3",
+        "f": "tense",
+        "s": "Vous ___ prendre un taxi si le dernier métro est parti.",
+        "en": "You could take a taxi if the last metro has gone.",
+        "a": "pourriez",
+        "alts": [],
+        "form": "Conditionnel"
+      },
+      {
+        "slot": "t|Conditionnel|3",
+        "f": "tense",
+        "s": "Vous ___ m'expliquer comment fonctionne ce logiciel ?",
+        "en": "Could you explain to me how this software works?",
+        "a": "pourriez",
+        "alts": [],
+        "form": "Conditionnel"
+      },
+      {
+        "slot": "t|Conditionnel|4",
+        "f": "tense",
+        "s": "Avec plus de financement, les chercheurs ___ avancer plus vite.",
+        "en": "With more funding, the researchers could progress more quickly.",
+        "a": "pourraient",
+        "alts": [],
+        "form": "Conditionnel"
+      },
+      {
+        "slot": "t|Conditionnel|4",
+        "f": "tense",
+        "s": "Elles ___ finir le projet à temps si elles travaillaient ensemble.",
+        "en": "They could finish the project on time if they worked together.",
+        "a": "pourraient",
+        "alts": [],
+        "form": "Conditionnel"
+      },
+      {
+        "slot": "t|Subjonctif",
+        "f": "subj",
+        "s": "Il faut que tu ___ te libérer avant vendredi pour signer les documents.",
+        "en": "You need to be able to free yourself before Friday to sign the documents.",
+        "a": "puisses",
+        "alts": [],
+        "form": "Subjonctif"
+      },
+      {
+        "slot": "t|Subjonctif",
+        "f": "subj",
+        "s": "Je souhaite qu'elle ___ assister à la cérémonie de remise des prix.",
+        "en": "I wish she could attend the award ceremony.",
+        "a": "puisse",
+        "alts": [],
+        "form": "Subjonctif"
+      },
+      {
+        "slot": "s|0",
+        "f": "sense",
+        "s": "Malgré sa blessure, le sportif ___ terminer la course.",
+        "en": "Despite his injury, the athlete is able to finish the race.",
+        "a": "peut",
+        "alts": ["peut encore", "parvient à"],
+        "form": ""
+      },
+      {
+        "slot": "s|0",
+        "f": "sense",
+        "s": "Je ne ___ pas soulever cette caisse, elle est trop lourde.",
+        "en": "I am not able to lift this crate, it is too heavy.",
+        "a": "peux",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "s|1",
+        "f": "sense",
+        "s": "Le président a le ___ de dissoudre l'Assemblée nationale.",
+        "en": "The president has the power to dissolve the National Assembly.",
+        "a": "pouvoir",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "s|1",
+        "f": "sense",
+        "s": "Dans une démocratie, le ___ appartient au peuple.",
+        "en": "In a democracy, power belongs to the people.",
+        "a": "pouvoir",
+        "alts": [],
+        "form": ""
+      }
+    ]
+  },
+  {
+    "id": 21,
+    "qs": [
+      {
+        "slot": "s|0",
+        "f": "sense",
+        "s": "Il a réussi l'examen ___ un travail acharné.",
+        "en": "He passed the exam through hard work.",
+        "a": "par",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "s|0",
+        "f": "sense",
+        "s": "Elle a obtenu ce poste ___ ses propres efforts.",
+        "en": "She got this position through her own efforts.",
+        "a": "par",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "s|1",
+        "f": "sense",
+        "s": "Nous sommes passés ___ Lyon pour aller à Marseille.",
+        "en": "We went through Lyon to get to Marseille.",
+        "a": "par",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "s|1",
+        "f": "sense",
+        "s": "Le train passe ___ le tunnel sous la Manche.",
+        "en": "The train goes through the Channel Tunnel.",
+        "a": "par",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "s|2",
+        "f": "sense",
+        "s": "Ce roman a été écrit ___ Victor Hugo.",
+        "en": "This novel was written by Victor Hugo.",
+        "a": "par",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "s|2",
+        "f": "sense",
+        "s": "La décision a été prise ___ le directeur.",
+        "en": "The decision was made by the director.",
+        "a": "par",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "s|3",
+        "f": "sense",
+        "s": "Il gagne trois mille euros ___ mois.",
+        "en": "He earns three thousand euros per month.",
+        "a": "par",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "s|3",
+        "f": "sense",
+        "s": "Prenez ce médicament deux fois ___ jour.",
+        "en": "Take this medication twice per day.",
+        "a": "par",
+        "alts": [],
+        "form": ""
+      }
+    ]
+  }
+]

@@ -1,0 +1,45 @@
+[
+  {
+    "id": 1793,
+    "qs": [
+      {"slot":"s|0","f":"sense","s":"La France est un grand pays ___ qui exporte beaucoup de céréales.","a":"agricole","en":"France is a great agricultural country that exports a lot of cereals.","alts":[],"form":""},
+      {"slot":"s|0","f":"sense","s":"Le ministre a annoncé une nouvelle politique ___ pour soutenir les agriculteurs.","a":"agricole","en":"The minister announced a new agricultural policy to support farmers.","alts":[],"form":""},
+      {"slot":"s|1","f":"sense","s":"Cette région pratique une activité ___ depuis des siècles.","a":"agricole","en":"This region has been engaged in farming activity for centuries.","alts":[],"form":""},
+      {"slot":"s|1","f":"sense","s":"Mon grand-père a passé toute sa vie dans le monde ___, cultivant la terre de ses ancêtres.","a":"agricole","en":"My grandfather spent his whole life in the farming world, cultivating his ancestors' land.","alts":[],"form":""},
+      {"slot":"g|mp","f":"agree","s":"Les travailleurs ___ récoltent le blé chaque été.","a":"agricoles","en":"The farming workers harvest wheat every summer.","alts":[],"form":""},
+      {"slot":"g|mp","f":"agree","s":"Ces nouveaux équipements ___ ont amélioré le rendement des fermes.","a":"agricoles","en":"These new agricultural pieces of equipment have improved farm yields.","alts":[],"form":""},
+      {"slot":"g|f","f":"agree","s":"La coopérative ___ du village aide les paysans à vendre leurs produits.","a":"agricole","en":"The village's agricultural cooperative helps farmers sell their products.","alts":[],"form":""},
+      {"slot":"g|f","f":"agree","s":"Cette zone ___ est protégée par la loi contre la construction.","a":"agricole","en":"This farming zone is protected by law against construction.","alts":[],"form":""},
+      {"slot":"g|fp","f":"agree","s":"Les exploitations ___ de la région produisent du vin et du fromage.","a":"agricoles","en":"The farming operations in the region produce wine and cheese.","alts":[],"form":""},
+      {"slot":"g|fp","f":"agree","s":"Ces terres ___ fertiles attirent de nombreux investisseurs.","a":"agricoles","en":"These fertile farming lands attract many investors.","alts":[],"form":""}
+    ]
+  },
+  {
+    "id": 1794,
+    "qs": [
+      {"slot":"s|0","f":"sense","s":"Son développement ___ a progressé grâce à ses lectures quotidiennes.","a":"intellectuel","en":"His intellectual development progressed thanks to his daily reading.","alts":[]},
+      {"slot":"s|0","f":"sense","s":"Ce jeu d'échecs est un défi ___ que j'adore relever.","a":"intellectuel","en":"Chess is an intellectual challenge that I love to take on.","alts":[]},
+      {"slot":"s|1","f":"sense","s":"Le milieu ___ parisien se réunit souvent dans ce café historique.","a":"intellectuel","en":"The Parisian intellectual milieu often gathers in this historic café.","alts":[]},
+      {"slot":"s|1","f":"sense","s":"Ce mouvement ___ des années 1960 a profondément marqué la société française.","a":"intellectuel","en":"This intellectual movement of the 1960s profoundly marked French society.","alts":[]},
+      {"slot":"g|mp","f":"agree","s":"Les débats ___ de ce siècle portent souvent sur l'intelligence artificielle.","a":"intellectuels","en":"The intellectual debates of this century often concern artificial intelligence.","alts":[]},
+      {"slot":"g|mp","f":"agree","s":"Ses parents sont des hommes ___ reconnus dans leur domaine.","a":"intellectuels","en":"His parents are intellectual men recognized in their field.","alts":[]},
+      {"slot":"g|f","f":"agree","s":"C'est une femme ___ qui lit plusieurs livres par semaine.","a":"intellectuelle","en":"She is an intellectual woman who reads several books a week.","alts":[]},
+      {"slot":"g|f","f":"agree","s":"Sa curiosité ___ l'a conduite à étudier la philosophie.","a":"intellectuelle","en":"Her intellectual curiosity led her to study philosophy.","alts":[]},
+      {"slot":"g|fp","f":"agree","s":"Ces autrices ___ ont transformé le paysage littéraire français.","a":"intellectuelles","en":"These intellectual authors transformed the French literary landscape.","alts":[]},
+      {"slot":"g|fp","f":"agree","s":"Les activités ___ comme la lecture stimulent le cerveau.","a":"intellectuelles","en":"Intellectual activities such as reading stimulate the brain.","alts":[]}
+    ]
+  },
+  {
+    "id": 1795,
+    "qs": [
+      {"slot":"s|0","f":"sense","s":"Le prix de l'___ a encore augmenté cette semaine à la station-service.","a":"essence","en":"The price of gasoline has gone up again this week at the gas station.","alts":[],"form":""},
+      {"slot":"s|0","f":"sense","s":"Mon père est allé faire le plein d'___ avant de partir en voyage.","a":"essence","en":"My father went to fill up with gas before leaving on a trip.","alts":[],"form":""},
+      {"slot":"s|1","f":"sense","s":"Ce philosophe a consacré sa vie à comprendre l'___ de la liberté humaine.","a":"essence","en":"This philosopher devoted his life to understanding the essence of human freedom.","alts":[],"form":""},
+      {"slot":"s|1","f":"sense","s":"Le débat touche à l'___ même de la démocratie.","a":"essence","en":"The debate touches on the very essence of democracy.","alts":[],"form":""},
+      {"slot":"s|2","f":"sense","s":"La cuisinière a ajouté quelques gouttes d'___ de vanille dans la pâte.","a":"essence","en":"The cook added a few drops of vanilla essence to the batter.","alts":[],"form":""},
+      {"slot":"s|2","f":"sense","s":"On utilise l'___ de lavande pour ses vertus apaisantes en aromathérapie.","a":"essence","en":"Lavender essence is used for its soothing properties in aromatherapy.","alts":[],"form":""},
+      {"slot":"gender","f":"gender","s":"Tu as oublié de mettre ___ essence dans la voiture avant de partir.","a":"de l'","en":"You forgot to put gas in the car before leaving.","alts":[],"form":""},
+      {"slot":"gender","f":"gender","s":"___ essence sans plomb est vendue à ce prix dans cette région.","a":"L'","en":"Unleaded gasoline is sold at this price in this region.","alts":[],"form":""}
+    ]
+  }
+]

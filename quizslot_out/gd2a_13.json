@@ -1,0 +1,43 @@
+[
+  {
+    "id": 40,
+    "qs": [
+      {"slot":"s|0","f":"sense","s":"Finissez vos devoirs ___ le dîner, s'il vous plaît.","a":"avant","en":"Finish your homework before dinner, please.","alts":[]},
+      {"slot":"s|0","f":"sense","s":"Il faut réserver les billets ___ la date limite.","a":"avant","en":"You must book the tickets before the deadline.","alts":[]},
+      {"slot":"s|1","f":"sense","s":"Le capitaine se tient toujours à l'___ du navire.","a":"avant","en":"The captain always stands at the front of the ship.","alts":[]},
+      {"slot":"s|1","f":"sense","s":"Les enfants ont choisi des places à l'___ du bus.","a":"avant","en":"The children chose seats at the front of the bus.","alts":[]},
+      {"slot":"s|2","f":"sense","s":"L'entraîneur a crié : « Allez en ___ ! »","a":"avant","en":"The coach shouted: 'Go forward!'","alts":[]},
+      {"slot":"s|2","f":"sense","s":"Faites trois pas en ___ et arrêtez-vous.","a":"avant","en":"Take three steps forward and stop.","alts":[]},
+      {"slot":"gender","f":"gender","s":"___ avant de la voiture a été légèrement abîmé dans l'accident.","a":"L'","en":"The front of the car was slightly damaged in the accident.","alts":[]},
+      {"slot":"gender","f":"gender","s":"Cette équipe a ___ avant très solide cette saison.","a":"un","en":"This team has a very solid front line this season.","alts":[]}
+    ]
+  },
+  {
+    "id": 41,
+    "qs": [
+      {"slot":"s|0","f":"sense","s":"Le chiffre ___ vient après le un et avant le trois.","a":"deux","en":"The digit two comes after one and before three.","alts":[],"form":""},
+      {"slot":"s|0","f":"sense","s":"En mathématiques, ___ est le seul nombre premier pair.","a":"deux","en":"In mathematics, two is the only even prime number.","alts":[],"form":""},
+      {"slot":"s|1","f":"sense","s":"J'ai acheté ___ livres à la librairie ce matin.","a":"deux","en":"I bought two books at the bookstore this morning.","alts":[],"form":""},
+      {"slot":"s|1","f":"sense","s":"Il a ___ enfants : une fille et un garçon.","a":"deux","en":"He has two children: a girl and a boy.","alts":[],"form":""},
+      {"slot":"gender","f":"gender","s":"Sur ___ deux, il faut bien choisir.","a":"le","en":"Out of the two, one must choose well.","alts":[],"form":""},
+      {"slot":"gender","f":"gender","s":"Elle habite au numéro ___ deux de cette rue.","a":"le","en":"She lives at number two on this street.","alts":[],"form":""}
+    ]
+  },
+  {
+    "id": 42,
+    "qs": [
+      {"slot":"s|0","f":"sense","s":"Nous habitons dans la ___ rue depuis dix ans.","a":"même","en":"We have lived on the same street for ten years.","alts":[],"form":""},
+      {"slot":"s|0","f":"sense","s":"Il a commandé exactement le ___ plat que moi.","a":"même","en":"He ordered exactly the same dish as me.","alts":[],"form":""},
+      {"slot":"s|1","f":"sense","s":"Elle travaille le week-end et ___ pendant les vacances.","a":"même","en":"She works on weekends and even during the holidays.","alts":[],"form":""},
+      {"slot":"s|1","f":"sense","s":"Il ne sait ___ pas lire.","a":"même","en":"He cannot even read.","alts":[],"form":""},
+      {"slot":"s|2","f":"sense","s":"Le président lui-___ a signé le document.","a":"même","en":"The president himself signed the document.","alts":[],"form":""},
+      {"slot":"s|2","f":"sense","s":"Tu dois résoudre ce problème toi-___ .","a":"même","en":"You must solve this problem yourself.","alts":[],"form":""},
+      {"slot":"g|mp","f":"agree","s":"Ces deux garçons ont les ___ goûts en musique.","a":"mêmes","en":"These two boys have the same tastes in music.","alts":[],"form":""},
+      {"slot":"g|mp","f":"agree","s":"Ils ont visité les ___ musées que nous l'année dernière.","a":"mêmes","en":"They visited the same museums as we did last year.","alts":[],"form":""},
+      {"slot":"g|f","f":"agree","s":"Ma sœur et moi portons la ___ robe ce soir.","a":"même","en":"My sister and I are wearing the same dress this evening.","alts":[],"form":""},
+      {"slot":"g|f","f":"agree","s":"Ils ont pris la ___ décision sans se consulter.","a":"même","en":"They made the same decision without consulting each other.","alts":[],"form":""},
+      {"slot":"g|fp","f":"agree","s":"Les deux équipes ont commis les ___ erreurs pendant le match.","a":"mêmes","en":"Both teams made the same mistakes during the match.","alts":[],"form":""},
+      {"slot":"g|fp","f":"agree","s":"Nous avons les ___ valeurs que nos parents.","a":"mêmes","en":"We share the same values as our parents.","alts":[],"form":""}
+    ]
+  }
+]

@@ -1,0 +1,683 @@
+[
+  {
+    "id": 3926,
+    "qs": [
+      {
+        "slot": "s|0",
+        "f": "sense",
+        "s": "Elle a acheté une ___ de boucles d'oreilles en argent pour l'anniversaire de sa mère.",
+        "a": "paire",
+        "en": "She bought a pair of silver earrings for her mother's birthday.",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "s|0",
+        "f": "sense",
+        "s": "Mon oncle m'a offert une ___ de billets pour le match de football.",
+        "a": "paire",
+        "en": "My uncle gave me a pair of tickets for the football match.",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "s|1",
+        "f": "sense",
+        "s": "J'ai besoin d'une ___ de chaussures solides pour partir en randonnée.",
+        "a": "paire",
+        "en": "I need a pair of sturdy shoes to go hiking.",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "s|1",
+        "f": "sense",
+        "s": "Elle a rangé chaque ___ de chaussettes soigneusement dans le tiroir.",
+        "a": "paire",
+        "en": "She carefully put each pair of socks away in the drawer.",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "gender",
+        "f": "gender",
+        "s": "___ paire de gants que j'ai achetée est trop grande pour mes mains.",
+        "a": "La",
+        "en": "The pair of gloves I bought is too big for my hands.",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "gender",
+        "f": "gender",
+        "s": "Il cherche ___ paire de lunettes de soleil à prix raisonnable.",
+        "a": "une",
+        "en": "He is looking for a pair of sunglasses at a reasonable price.",
+        "alts": [],
+        "form": ""
+      }
+    ]
+  },
+  {
+    "id": 3927,
+    "qs": [
+      {
+        "slot": "s|0",
+        "f": "sense",
+        "s": "Le ___ est un animal sauvage qui vit en meute dans la forêt.",
+        "a": "loup",
+        "en": "The wolf is a wild animal that lives in packs in the forest.",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "s|0",
+        "f": "sense",
+        "s": "Dans ce conte, le grand méchant ___ veut dévorer le Petit Chaperon Rouge.",
+        "a": "loup",
+        "en": "In this tale, the big bad wolf wants to devour Little Red Riding Hood.",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "s|1",
+        "f": "sense",
+        "s": "Ne t'inquiète pas, Pierre s'occupe du dossier — c'est un vieux ___ de la négociation.",
+        "a": "loup",
+        "en": "Don't worry, Pierre is handling the file — he's an old hand at negotiation.",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "s|1",
+        "f": "sense",
+        "s": "Dans ce métier, Marie est un vieux ___ : elle connaît toutes les ficelles.",
+        "a": "loup",
+        "en": "In this trade, Marie is an old hand: she knows all the tricks.",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "s|2",
+        "f": "sense",
+        "s": "Pour le bal masqué, elle a choisi un ___ de velours noir pour cacher son visage.",
+        "a": "loup",
+        "en": "For the masquerade ball, she chose a black velvet mask to hide her face.",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "s|2",
+        "f": "sense",
+        "s": "Il portait un ___ doré et personne ne l'a reconnu au carnaval.",
+        "a": "loup",
+        "en": "He wore a golden mask and nobody recognized him at the carnival.",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "gender",
+        "f": "gender",
+        "s": "___ loup hurle à la lune chaque nuit dans la montagne.",
+        "a": "Le",
+        "en": "The wolf howls at the moon every night in the mountains.",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "gender",
+        "f": "gender",
+        "s": "J'ai vu ___ loup pour la première fois au zoo la semaine dernière.",
+        "a": "un",
+        "en": "I saw a wolf for the first time at the zoo last week.",
+        "alts": [],
+        "form": ""
+      }
+    ]
+  },
+  {
+    "id": 3928,
+    "qs": [
+      {
+        "slot": "t|Présent|0",
+        "f": "tense",
+        "s": "Je ___ mes idées avec mon collègue avant chaque réunion.",
+        "a": "concerte",
+        "en": "I consult my ideas with my colleague before each meeting.",
+        "alts": [],
+        "form": "Présent"
+      },
+      {
+        "slot": "t|Présent|0",
+        "f": "tense",
+        "s": "Le directeur ___ toujours sa stratégie avec son équipe.",
+        "a": "concerte",
+        "en": "The director always consults his strategy with his team.",
+        "alts": [],
+        "form": "Présent"
+      },
+      {
+        "slot": "t|Présent|1",
+        "f": "tense",
+        "s": "Tu ___ ta position avec tes partenaires avant de signer ?",
+        "a": "concertes",
+        "en": "Do you consult your position with your partners before signing?",
+        "alts": [],
+        "form": "Présent"
+      },
+      {
+        "slot": "t|Présent|1",
+        "f": "tense",
+        "s": "Pourquoi est-ce que tu ne ___ pas tes projets avec nous ?",
+        "a": "concertes",
+        "en": "Why don't you consult your projects with us?",
+        "alts": [],
+        "form": "Présent"
+      },
+      {
+        "slot": "t|Présent|2",
+        "f": "tense",
+        "s": "Nous ___ notre plan d'action avec tous les membres du comité.",
+        "a": "concertons",
+        "en": "We consult our action plan with all the committee members.",
+        "alts": [],
+        "form": "Présent"
+      },
+      {
+        "slot": "t|Présent|2",
+        "f": "tense",
+        "s": "Nous ___ notre réponse avant de l'envoyer à la direction.",
+        "a": "concertons",
+        "en": "We coordinate our response before sending it to management.",
+        "alts": [],
+        "form": "Présent"
+      },
+      {
+        "slot": "t|Présent|3",
+        "f": "tense",
+        "s": "Vous ___ vos décisions avec les représentants syndicaux ?",
+        "a": "concertez",
+        "en": "Do you consult your decisions with union representatives?",
+        "alts": [],
+        "form": "Présent"
+      },
+      {
+        "slot": "t|Présent|3",
+        "f": "tense",
+        "s": "Vous ___ toujours vos efforts avec les partenaires avant de décider.",
+        "a": "concertez",
+        "en": "You always coordinate your efforts with partners before deciding.",
+        "alts": [],
+        "form": "Présent"
+      },
+      {
+        "slot": "t|Présent|4",
+        "f": "tense",
+        "s": "Les deux ministres ___ leur position avant le sommet.",
+        "a": "concertent",
+        "en": "The two ministers coordinate their position before the summit.",
+        "alts": [],
+        "form": "Présent"
+      },
+      {
+        "slot": "t|Présent|4",
+        "f": "tense",
+        "s": "Ils ___ leurs actions pour éviter tout malentendu.",
+        "a": "concertent",
+        "en": "They coordinate their actions to avoid any misunderstanding.",
+        "alts": [],
+        "form": "Présent"
+      },
+      {
+        "slot": "t|Passé composé|0",
+        "f": "tense",
+        "s": "J'___ ma stratégie avec mon associé avant la présentation.",
+        "a": "ai concerté",
+        "en": "I coordinated my strategy with my partner before the presentation.",
+        "alts": [],
+        "form": "Passé composé"
+      },
+      {
+        "slot": "t|Passé composé|0",
+        "f": "tense",
+        "s": "J'___ mon discours avec la chargée de communication hier.",
+        "a": "ai concerté",
+        "en": "I consulted my speech with the communications officer yesterday.",
+        "alts": [],
+        "form": "Passé composé"
+      },
+      {
+        "slot": "t|Passé composé|1",
+        "f": "tense",
+        "s": "Est-ce que tu ___ ta décision avec tes parents avant de partir ?",
+        "a": "as concerté",
+        "en": "Did you consult your decision with your parents before leaving?",
+        "alts": [],
+        "form": "Passé composé"
+      },
+      {
+        "slot": "t|Passé composé|1",
+        "f": "tense",
+        "s": "Tu ___ ton projet avec le responsable la semaine dernière.",
+        "a": "as concerté",
+        "en": "You coordinated your project with the manager last week.",
+        "alts": [],
+        "form": "Passé composé"
+      },
+      {
+        "slot": "t|Passé composé|2",
+        "f": "tense",
+        "s": "Le chef de projet ___ son plan avec toute l'équipe avant le lancement.",
+        "a": "a concerté",
+        "en": "The project manager coordinated his plan with the whole team before the launch.",
+        "alts": [],
+        "form": "Passé composé"
+      },
+      {
+        "slot": "t|Passé composé|2",
+        "f": "tense",
+        "s": "On ___ une réponse commune lors de la dernière réunion.",
+        "a": "a concerté",
+        "en": "They devised a common response at the last meeting.",
+        "alts": [],
+        "form": "Passé composé"
+      },
+      {
+        "slot": "t|Passé composé|3",
+        "f": "tense",
+        "s": "Nous ___ notre position avec nos alliés avant le vote.",
+        "a": "avons concerté",
+        "en": "We coordinated our position with our allies before the vote.",
+        "alts": [],
+        "form": "Passé composé"
+      },
+      {
+        "slot": "t|Passé composé|3",
+        "f": "tense",
+        "s": "Nous ___ notre plan d'urgence en amont de la crise.",
+        "a": "avons concerté",
+        "en": "We devised our emergency plan ahead of the crisis.",
+        "alts": [],
+        "form": "Passé composé"
+      },
+      {
+        "slot": "t|Passé composé|4",
+        "f": "tense",
+        "s": "Vous ___ vos efforts avec ceux des partenaires étrangers.",
+        "a": "avez concerté",
+        "en": "You coordinated your efforts with those of foreign partners.",
+        "alts": [],
+        "form": "Passé composé"
+      },
+      {
+        "slot": "t|Passé composé|4",
+        "f": "tense",
+        "s": "Vous ___ votre stratégie avant la conférence de presse, n'est-ce pas ?",
+        "a": "avez concerté",
+        "en": "You coordinated your strategy before the press conference, didn't you?",
+        "alts": [],
+        "form": "Passé composé"
+      },
+      {
+        "slot": "t|Passé composé|5",
+        "f": "tense",
+        "s": "Les deux délégations ___ une approche commune lors du sommet.",
+        "a": "ont concerté",
+        "en": "The two delegations devised a common approach at the summit.",
+        "alts": [],
+        "form": "Passé composé"
+      },
+      {
+        "slot": "t|Passé composé|5",
+        "f": "tense",
+        "s": "Ils ___ leurs actions avant de lancer la campagne.",
+        "a": "ont concerté",
+        "en": "They coordinated their actions before launching the campaign.",
+        "alts": [],
+        "form": "Passé composé"
+      },
+      {
+        "slot": "t|Imparfait|0",
+        "f": "tense",
+        "s": "Quand j'étais chef de projet, je ___ toujours mes décisions avec mon équipe.",
+        "a": "concertais",
+        "en": "When I was project manager, I always consulted my decisions with my team.",
+        "alts": [],
+        "form": "Imparfait"
+      },
+      {
+        "slot": "t|Imparfait|0",
+        "f": "tense",
+        "s": "À cette époque, tu ___ tes choix avec tes proches avant d'agir.",
+        "a": "concertais",
+        "en": "At that time, you consulted your choices with your loved ones before acting.",
+        "alts": [],
+        "form": "Imparfait"
+      },
+      {
+        "slot": "t|Imparfait|1",
+        "f": "tense",
+        "s": "Le président ___ sa stratégie avec ses conseillers chaque semaine.",
+        "a": "concertait",
+        "en": "The president consulted his strategy with his advisors every week.",
+        "alts": [],
+        "form": "Imparfait"
+      },
+      {
+        "slot": "t|Imparfait|1",
+        "f": "tense",
+        "s": "Elle ___ ses projets avec ses collègues avant de les soumettre.",
+        "a": "concertait",
+        "en": "She coordinated her projects with her colleagues before submitting them.",
+        "alts": [],
+        "form": "Imparfait"
+      },
+      {
+        "slot": "t|Imparfait|2",
+        "f": "tense",
+        "s": "Nous ___ régulièrement nos plans avec les autres services.",
+        "a": "concertions",
+        "en": "We regularly coordinated our plans with the other departments.",
+        "alts": [],
+        "form": "Imparfait"
+      },
+      {
+        "slot": "t|Imparfait|2",
+        "f": "tense",
+        "s": "À l'époque, nous ___ notre réponse avant chaque débat public.",
+        "a": "concertions",
+        "en": "At the time, we coordinated our response before each public debate.",
+        "alts": [],
+        "form": "Imparfait"
+      },
+      {
+        "slot": "t|Imparfait|3",
+        "f": "tense",
+        "s": "Vous ___ toujours vos décisions avec la direction centrale.",
+        "a": "concertiez",
+        "en": "You always consulted your decisions with central management.",
+        "alts": [],
+        "form": "Imparfait"
+      },
+      {
+        "slot": "t|Imparfait|3",
+        "f": "tense",
+        "s": "Est-ce que vous ___ vos plans avec les partenaires à l'époque ?",
+        "a": "concertiez",
+        "en": "Were you coordinating your plans with partners at the time?",
+        "alts": [],
+        "form": "Imparfait"
+      },
+      {
+        "slot": "t|Imparfait|4",
+        "f": "tense",
+        "s": "Les deux équipes ___ leurs efforts avant chaque match important.",
+        "a": "concertaient",
+        "en": "The two teams coordinated their efforts before each important match.",
+        "alts": [],
+        "form": "Imparfait"
+      },
+      {
+        "slot": "t|Imparfait|4",
+        "f": "tense",
+        "s": "Ils ___ leurs positions avec soin avant les négociations.",
+        "a": "concertaient",
+        "en": "They carefully coordinated their positions before negotiations.",
+        "alts": [],
+        "form": "Imparfait"
+      },
+      {
+        "slot": "t|Futur|0",
+        "f": "tense",
+        "s": "Je ___ ma proposition avec mon supérieur avant la prochaine séance.",
+        "a": "concerterai",
+        "en": "I will coordinate my proposal with my superior before the next session.",
+        "alts": [],
+        "form": "Futur"
+      },
+      {
+        "slot": "t|Futur|0",
+        "f": "tense",
+        "s": "Demain matin, je ___ mon plan avec l'ensemble du groupe.",
+        "a": "concerterai",
+        "en": "Tomorrow morning, I will consult my plan with the whole group.",
+        "alts": [],
+        "form": "Futur"
+      },
+      {
+        "slot": "t|Futur|1",
+        "f": "tense",
+        "s": "Tu ___ ta décision avec tes associés avant de signer le contrat.",
+        "a": "concerteras",
+        "en": "You will consult your decision with your associates before signing the contract.",
+        "alts": [],
+        "form": "Futur"
+      },
+      {
+        "slot": "t|Futur|1",
+        "f": "tense",
+        "s": "Est-ce que tu ___ ta réponse avec moi avant de l'envoyer ?",
+        "a": "concerteras",
+        "en": "Will you coordinate your response with me before sending it?",
+        "alts": [],
+        "form": "Futur"
+      },
+      {
+        "slot": "t|Futur|2",
+        "f": "tense",
+        "s": "Le nouveau directeur ___ sa stratégie avec le conseil d'administration.",
+        "a": "concertera",
+        "en": "The new director will coordinate his strategy with the board of directors.",
+        "alts": [],
+        "form": "Futur"
+      },
+      {
+        "slot": "t|Futur|2",
+        "f": "tense",
+        "s": "Elle ___ son projet avec ses partenaires la semaine prochaine.",
+        "a": "concertera",
+        "en": "She will consult her project with her partners next week.",
+        "alts": [],
+        "form": "Futur"
+      },
+      {
+        "slot": "t|Futur|3",
+        "f": "tense",
+        "s": "Nous ___ notre position commune lors de la prochaine réunion.",
+        "a": "concerterons",
+        "en": "We will coordinate our common position at the next meeting.",
+        "alts": [],
+        "form": "Futur"
+      },
+      {
+        "slot": "t|Futur|3",
+        "f": "tense",
+        "s": "Avant de répondre, nous ___ notre plan avec tous les membres.",
+        "a": "concerterons",
+        "en": "Before responding, we will consult our plan with all the members.",
+        "alts": [],
+        "form": "Futur"
+      },
+      {
+        "slot": "t|Futur|4",
+        "f": "tense",
+        "s": "Vous ___ vos stratégies avec nos experts lors du prochain atelier.",
+        "a": "concerterez",
+        "en": "You will coordinate your strategies with our experts at the next workshop.",
+        "alts": [],
+        "form": "Futur"
+      },
+      {
+        "slot": "t|Futur|4",
+        "f": "tense",
+        "s": "Vous ___ votre plan d'action dès que vous aurez les résultats.",
+        "a": "concerterez",
+        "en": "You will consult your action plan as soon as you have the results.",
+        "alts": [],
+        "form": "Futur"
+      },
+      {
+        "slot": "t|Futur|5",
+        "f": "tense",
+        "s": "Les partenaires ___ leurs positions avant d'entamer les négociations.",
+        "a": "concerteront",
+        "en": "The partners will coordinate their positions before starting negotiations.",
+        "alts": [],
+        "form": "Futur"
+      },
+      {
+        "slot": "t|Futur|5",
+        "f": "tense",
+        "s": "Elles ___ leurs efforts pour mener à bien ce projet commun.",
+        "a": "concerteront",
+        "en": "They will coordinate their efforts to successfully carry out this joint project.",
+        "alts": [],
+        "form": "Futur"
+      },
+      {
+        "slot": "t|Conditionnel|0",
+        "f": "tense",
+        "s": "Si j'étais à ta place, je ___ mon plan avec les experts du domaine.",
+        "a": "concerterais",
+        "en": "If I were in your place, I would consult my plan with the domain experts.",
+        "alts": [],
+        "form": "Conditionnel"
+      },
+      {
+        "slot": "t|Conditionnel|0",
+        "f": "tense",
+        "s": "Si tu avais plus de temps, tu ___ mieux tes idées avec l'équipe.",
+        "a": "concerterais",
+        "en": "If you had more time, you would better consult your ideas with the team.",
+        "alts": [],
+        "form": "Conditionnel"
+      },
+      {
+        "slot": "t|Conditionnel|1",
+        "f": "tense",
+        "s": "Il ___ sa décision avec le comité s'il avait plus d'informations.",
+        "a": "concerterait",
+        "en": "He would consult his decision with the committee if he had more information.",
+        "alts": [],
+        "form": "Conditionnel"
+      },
+      {
+        "slot": "t|Conditionnel|1",
+        "f": "tense",
+        "s": "Elle ___ sa stratégie avec ses alliés si elle en avait la possibilité.",
+        "a": "concerterait",
+        "en": "She would coordinate her strategy with her allies if she had the opportunity.",
+        "alts": [],
+        "form": "Conditionnel"
+      },
+      {
+        "slot": "t|Conditionnel|2",
+        "f": "tense",
+        "s": "Nous ___ notre position avec davantage de partenaires si nous avions le temps.",
+        "a": "concerterions",
+        "en": "We would coordinate our position with more partners if we had the time.",
+        "alts": [],
+        "form": "Conditionnel"
+      },
+      {
+        "slot": "t|Conditionnel|2",
+        "f": "tense",
+        "s": "Si nous avions des ressources supplémentaires, nous ___ notre plan plus efficacement.",
+        "a": "concerterions",
+        "en": "If we had additional resources, we would coordinate our plan more effectively.",
+        "alts": [],
+        "form": "Conditionnel"
+      },
+      {
+        "slot": "t|Conditionnel|3",
+        "f": "tense",
+        "s": "Si vous aviez consulté les experts, vous ___ votre approche différemment.",
+        "a": "concerteriez",
+        "en": "If you had consulted the experts, you would coordinate your approach differently.",
+        "alts": [],
+        "form": "Conditionnel"
+      },
+      {
+        "slot": "t|Conditionnel|3",
+        "f": "tense",
+        "s": "Vous ___ votre réponse avec vos collègues si vous étiez prudents.",
+        "a": "concerteriez",
+        "en": "You would consult your response with your colleagues if you were careful.",
+        "alts": [],
+        "form": "Conditionnel"
+      },
+      {
+        "slot": "t|Conditionnel|4",
+        "f": "tense",
+        "s": "Les responsables ___ leurs actions si ils avaient davantage de temps.",
+        "a": "concerteraient",
+        "en": "The managers would coordinate their actions if they had more time.",
+        "alts": [],
+        "form": "Conditionnel"
+      },
+      {
+        "slot": "t|Conditionnel|4",
+        "f": "tense",
+        "s": "Elles ___ leurs efforts si elles avaient un meilleur accès aux données.",
+        "a": "concerteraient",
+        "en": "They would coordinate their efforts if they had better access to the data.",
+        "alts": [],
+        "form": "Conditionnel"
+      },
+      {
+        "slot": "t|Subjonctif",
+        "f": "subj",
+        "s": "Il faut que tu ___ ta position avec le reste de l'équipe avant la réunion.",
+        "a": "concertes",
+        "en": "You must consult your position with the rest of the team before the meeting.",
+        "alts": [],
+        "form": "Subjonctif"
+      },
+      {
+        "slot": "t|Subjonctif",
+        "f": "subj",
+        "s": "Je veux qu'il ___ sa stratégie avec nos partenaires avant de prendre une décision.",
+        "a": "concerte",
+        "en": "I want him to coordinate his strategy with our partners before making a decision.",
+        "alts": [],
+        "form": "Subjonctif"
+      },
+      {
+        "slot": "s|0",
+        "f": "sense",
+        "s": "Avant de prendre une décision importante, les deux chefs d'État ont décidé de ___ leurs positions.",
+        "a": "concerter",
+        "en": "Before making an important decision, the two heads of state decided to consult together on their positions.",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "s|0",
+        "f": "sense",
+        "s": "Les représentants des deux partis se sont réunis pour ___ une réponse commune à la crise.",
+        "a": "concerter",
+        "en": "Representatives of both parties met to consult together on a common response to the crisis.",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "s|1",
+        "f": "sense",
+        "s": "Ils ont passé des heures à ___ un plan d'attaque précis avant le lancement de la campagne.",
+        "a": "concerter",
+        "en": "They spent hours devising a precise action plan before the launch of the campaign.",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "s|1",
+        "f": "sense",
+        "s": "Les ingénieurs ont travaillé ensemble pour ___ une stratégie de déploiement coordonnée.",
+        "a": "concerter",
+        "en": "The engineers worked together to devise a coordinated deployment strategy.",
+        "alts": [],
+        "form": ""
+      }
+    ]
+  }
+]

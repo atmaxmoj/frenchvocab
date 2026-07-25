@@ -1,0 +1,295 @@
+[
+  {
+    "id": 2516,
+    "qs": [
+      {
+        "slot": "s|0",
+        "f": "sense",
+        "s": "Les familles ___ de ces appartements doivent payer le loyer chaque mois.",
+        "en": "The families occupying these apartments must pay rent every month.",
+        "a": "tenantes",
+        "alts": []
+      },
+      {
+        "slot": "s|0",
+        "f": "sense",
+        "s": "Le locataire ___ des lieux a refusé de quitter l'immeuble avant la fin du bail.",
+        "en": "The tenant occupying the premises refused to leave the building before the end of the lease.",
+        "a": "tenant",
+        "alts": []
+      },
+      {
+        "slot": "s|1",
+        "f": "sense",
+        "s": "Le président ___ a annoncé qu'il ne se représenterait pas aux prochaines élections.",
+        "en": "The incumbent president announced that he would not run in the next elections.",
+        "a": "tenant",
+        "alts": []
+      },
+      {
+        "slot": "s|1",
+        "f": "sense",
+        "s": "La ministre ___ du portefeuille de l'éducation a défendu sa politique devant l'Assemblée.",
+        "en": "The incumbent minister holding the education portfolio defended her policy before the Assembly.",
+        "a": "tenante",
+        "alts": []
+      },
+      {
+        "slot": "g|mp",
+        "f": "agree",
+        "s": "Les députés ___ de leurs sièges depuis dix ans cherchent à se faire réélire.",
+        "en": "The deputies currently holding their seats for ten years are seeking to be re-elected.",
+        "a": "tenants",
+        "alts": []
+      },
+      {
+        "slot": "g|mp",
+        "f": "agree",
+        "s": "Les directeurs ___ de ces postes ont été invités à présenter leur bilan.",
+        "en": "The directors currently holding these positions were invited to present their results.",
+        "a": "tenants",
+        "alts": []
+      },
+      {
+        "slot": "g|f",
+        "f": "agree",
+        "s": "La responsable ___ du dossier a présenté ses conclusions à la réunion.",
+        "en": "The incumbent officer in charge of the file presented her conclusions at the meeting.",
+        "a": "tenante",
+        "alts": []
+      },
+      {
+        "slot": "g|f",
+        "f": "agree",
+        "s": "La championne ___ du titre affrontera son adversaire lors de la finale de samedi.",
+        "en": "The defending champion will face her opponent in Saturday's final.",
+        "a": "tenante",
+        "alts": []
+      },
+      {
+        "slot": "g|fp",
+        "f": "agree",
+        "s": "Les championnes ___ du tournoi ont refusé de participer à la cérémonie d'ouverture.",
+        "en": "The defending champions of the tournament refused to participate in the opening ceremony.",
+        "a": "tenantes",
+        "alts": []
+      },
+      {
+        "slot": "g|fp",
+        "f": "agree",
+        "s": "Les élues ___ de leurs mandats ont voté contre la nouvelle réforme constitutionnelle.",
+        "en": "The elected officials currently holding their mandates voted against the new constitutional reform.",
+        "a": "tenantes",
+        "alts": []
+      }
+    ]
+  },
+  {
+    "id": 2517,
+    "qs": [
+      {
+        "slot": "s|0",
+        "f": "sense",
+        "s": "La situation économique du pays est enfin ___ après des années de crise.",
+        "en": "The country's economic situation is finally stable after years of crisis.",
+        "a": "stable",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "s|0",
+        "f": "sense",
+        "s": "Son état de santé est ___ depuis ce matin, et les médecins sont rassurés.",
+        "en": "His health condition has been stable since this morning, and the doctors are reassured.",
+        "a": "stable",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "s|1",
+        "f": "sense",
+        "s": "Avant de monter sur l'échelle, vérifie qu'elle est bien ___ sur le sol.",
+        "en": "Before climbing the ladder, make sure it is firmly stable on the ground.",
+        "a": "stable",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "s|1",
+        "f": "sense",
+        "s": "La table bancale n'était pas ___ et elle a failli tomber quand on l'a chargée.",
+        "en": "The wobbly table was not sturdy and nearly fell when we loaded it.",
+        "a": "stable",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "s|2",
+        "f": "sense",
+        "s": "Les fondations de l'immeuble sont ___, il n'y a aucun risque d'effondrement.",
+        "en": "The building's foundations are solid, there is no risk of collapse.",
+        "a": "stables",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "s|2",
+        "f": "sense",
+        "s": "Sa position au sein de l'entreprise est désormais ___ après dix ans de loyaux services.",
+        "en": "His position within the company is now firmly established after ten years of loyal service.",
+        "a": "stable",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "g|mp",
+        "f": "agree",
+        "s": "Ces gouvernements ___ ont favorisé la croissance économique sur plusieurs décennies.",
+        "en": "These stable governments have fostered economic growth over several decades.",
+        "a": "stables",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "g|mp",
+        "f": "agree",
+        "s": "Les piliers du pont sont solides et ___ malgré les crues répétées.",
+        "en": "The bridge's pillars are solid and stable despite repeated floods.",
+        "a": "stables",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "g|f",
+        "f": "agree",
+        "s": "La plateforme est ___ et ne bouge pas malgré les vagues.",
+        "en": "The platform is stable and does not move despite the waves.",
+        "a": "stable",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "g|f",
+        "f": "agree",
+        "s": "La relation diplomatique entre les deux pays est restée ___ pendant de nombreuses années.",
+        "en": "The diplomatic relationship between the two countries has remained stable for many years.",
+        "a": "stable",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "g|fp",
+        "f": "agree",
+        "s": "Ces constructions anciennes sont étonnamment ___ après tant de siècles.",
+        "en": "These ancient structures are surprisingly stable after so many centuries.",
+        "a": "stables",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "g|fp",
+        "f": "agree",
+        "s": "Les conditions météorologiques resteront ___ pendant les prochains jours, selon la météo.",
+        "en": "Weather conditions will remain stable over the next few days, according to the forecast.",
+        "a": "stables",
+        "alts": [],
+        "form": ""
+      }
+    ]
+  },
+  {
+    "id": 2518,
+    "qs": [
+      {
+        "slot": "s|0",
+        "f": "sense",
+        "s": "Le ___ a guidé le navire jusqu'au port en toute sécurité.",
+        "en": "The captain guided the ship to port safely. (ship captain)",
+        "a": "capitaine",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "s|0",
+        "f": "sense",
+        "s": "Le ___ a ordonné à l'équipage de mettre les voiles.",
+        "en": "The captain ordered the crew to set sail. (ship captain)",
+        "a": "capitaine",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "s|1",
+        "f": "sense",
+        "s": "Le ___ a annoncé que l'avion atterrirait avec vingt minutes de retard.",
+        "en": "The captain announced that the plane would land twenty minutes late. (airline captain)",
+        "a": "capitaine",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "s|1",
+        "f": "sense",
+        "s": "Le ___ a demandé aux passagers d'attacher leurs ceintures de sécurité.",
+        "en": "The captain asked the passengers to fasten their seat belts. (airline captain)",
+        "a": "capitaine",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "s|2",
+        "f": "sense",
+        "s": "Le ___ de l'équipe a motivé ses coéquipiers avant le match.",
+        "en": "The team captain motivated his teammates before the match.",
+        "a": "capitaine",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "s|2",
+        "f": "sense",
+        "s": "Les joueurs ont élu leur ___ avant le début du tournoi.",
+        "en": "The players elected their captain before the start of the tournament.",
+        "a": "capitaine",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "s|3",
+        "f": "sense",
+        "s": "Le ___ a transmis les ordres du commandant à ses soldats.",
+        "en": "The captain passed the commander's orders on to his soldiers. (army captain)",
+        "a": "capitaine",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "s|3",
+        "f": "sense",
+        "s": "Le jeune officier a été promu au grade de ___ après sa mission.",
+        "en": "The young officer was promoted to the rank of captain after his mission. (army captain)",
+        "a": "capitaine",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "gender",
+        "f": "gender",
+        "s": "C'est ___ capitaine qui commande ce navire.",
+        "en": "It is the captain who commands this ship.",
+        "a": "le",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "gender",
+        "f": "gender",
+        "s": "Mon père est ___ capitaine dans la marine nationale.",
+        "en": "My father is a captain in the national navy.",
+        "a": "un",
+        "alts": [],
+        "form": ""
+      }
+    ]
+  }
+]

@@ -1,0 +1,149 @@
+[
+  {
+    "id": 5184,
+    "qs": [
+      {
+        "slot": "s|0",
+        "f": "sense",
+        "s": "Pour le dîner, ma mère a préparé des ___ à la bolognaise.",
+        "en": "For dinner, my mother made spaghetti bolognese.",
+        "a": "spaghettis",
+        "alts": ["spaghetti"]
+      },
+      {
+        "slot": "s|0",
+        "f": "sense",
+        "s": "Au restaurant italien, il a commandé des ___ aux fruits de mer.",
+        "en": "At the Italian restaurant, he ordered seafood spaghetti.",
+        "a": "spaghettis",
+        "alts": ["spaghetti"]
+      },
+      {
+        "slot": "gender",
+        "f": "gender",
+        "s": "En Italie, ___ spaghetti est souvent servi avec une sauce tomate simple.",
+        "en": "In Italy, spaghetti is often served with a simple tomato sauce.",
+        "a": "le",
+        "alts": []
+      },
+      {
+        "slot": "gender",
+        "f": "gender",
+        "s": "Il a fait tomber ___ spaghetti sur la table en dressant les assiettes.",
+        "en": "He dropped a piece of spaghetti on the table while setting the plates.",
+        "a": "un",
+        "alts": []
+      }
+    ]
+  },
+  {
+    "id": 5185,
+    "qs": [
+      {
+        "slot": "s|0",
+        "f": "sense",
+        "s": "Nous avons fixé un miroir ___ au-dessus du lavabo.",
+        "en": "We fixed a wall mirror above the sink.",
+        "a": "mural",
+        "alts": []
+      },
+      {
+        "slot": "s|0",
+        "f": "sense",
+        "s": "L'école a installé un tableau ___ pour afficher les résultats.",
+        "en": "The school installed a wall board to display the results.",
+        "a": "mural",
+        "alts": []
+      },
+      {
+        "slot": "g|mp",
+        "f": "agree",
+        "s": "Le magasin vend des radiateurs ___ économiques.",
+        "en": "The store sells energy-efficient wall heaters.",
+        "a": "muraux",
+        "alts": []
+      },
+      {
+        "slot": "g|mp",
+        "f": "agree",
+        "s": "Les ouvriers ont posé de nouveaux supports ___ pour les étagères.",
+        "en": "The workers installed new wall brackets for the shelves.",
+        "a": "muraux",
+        "alts": []
+      },
+      {
+        "slot": "g|f",
+        "f": "agree",
+        "s": "L'artiste a réalisé une fresque ___ sur le mur de l'école.",
+        "en": "The artist created a wall fresco on the school's wall.",
+        "a": "murale",
+        "alts": []
+      },
+      {
+        "slot": "g|f",
+        "f": "agree",
+        "s": "La salle de classe possède une carte ___ de l'Europe.",
+        "en": "The classroom has a wall map of Europe.",
+        "a": "murale",
+        "alts": []
+      },
+      {
+        "slot": "g|fp",
+        "f": "agree",
+        "s": "Les touristes admirent les peintures ___ du musée.",
+        "en": "The tourists admire the wall paintings in the museum.",
+        "a": "murales",
+        "alts": []
+      },
+      {
+        "slot": "g|fp",
+        "f": "agree",
+        "s": "Ces cartes ___ décorent les murs de la bibliothèque.",
+        "en": "These wall maps decorate the library's walls.",
+        "a": "murales",
+        "alts": []
+      }
+    ]
+  },
+  {
+    "id": 5186,
+    "qs": [
+      {
+        "slot": "s|0",
+        "f": "sense",
+        "s": "Sur la place du village, les hommes aiment jouer à la ___ après le déjeuner.",
+        "en": "In the village square, the men like to play pétanque after lunch.",
+        "a": "pétanque",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "s|0",
+        "f": "sense",
+        "s": "Pendant les vacances, nous organisons souvent un tournoi de ___ entre amis.",
+        "en": "During the holidays, we often organize a pétanque tournament among friends.",
+        "a": "pétanque",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "gender",
+        "f": "gender",
+        "s": "___ pétanque se joue avec des boules en métal sur un terrain de terre battue.",
+        "en": "Pétanque is played with metal balls on a hard dirt court.",
+        "a": "La",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "gender",
+        "f": "gender",
+        "s": "Dans le Midi, tout le monde connaît les règles de ___ pétanque.",
+        "en": "In the South of France, everyone knows the rules of pétanque.",
+        "a": "la",
+        "alts": [],
+        "form": ""
+      }
+    ]
+  }
+]

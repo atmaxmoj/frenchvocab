@@ -1,0 +1,179 @@
+[
+  {
+    "id": 28,
+    "qs": [
+      {
+        "slot": "s|0",
+        "f": "sense",
+        "s": "Ce stylo ne fonctionne plus. Peux-tu me prêter un ___ stylo ?",
+        "en": "This pen doesn't work anymore. Can you lend me another pen?",
+        "a": "autre",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "s|0",
+        "f": "sense",
+        "s": "Ma première tentative a échoué, alors j'ai essayé un ___ moyen.",
+        "en": "My first attempt failed, so I tried a different way.",
+        "a": "autre",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "s|1",
+        "f": "sense",
+        "s": "Deux élèves ont répondu, mais les ___ n'ont rien dit.",
+        "en": "Two students answered, but the others said nothing.",
+        "a": "autres",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "s|1",
+        "f": "sense",
+        "s": "Il a deux frères : l'un vit à Paris, l'___ vit à Lyon.",
+        "en": "He has two brothers: one lives in Paris, the other lives in Lyon.",
+        "a": "autre",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "g|mp",
+        "f": "agree",
+        "s": "Il a rencontré plusieurs ___ collègues lors de la conférence.",
+        "en": "He met several other colleagues at the conference.",
+        "a": "autres",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "g|mp",
+        "f": "agree",
+        "s": "Ses ___ amis sont arrivés en retard à la fête.",
+        "en": "His other friends arrived late to the party.",
+        "a": "autres",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "g|f",
+        "f": "agree",
+        "s": "Cette robe ne me plaît pas ; je vais essayer une ___ robe.",
+        "en": "I don't like this dress; I'm going to try on another dress.",
+        "a": "autre",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "g|f",
+        "f": "agree",
+        "s": "Il nous faudra trouver une ___ solution à ce problème.",
+        "en": "We will need to find another solution to this problem.",
+        "a": "autre",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "g|fp",
+        "f": "agree",
+        "s": "Les ___ filles de la classe ont voté pour Marie comme déléguée.",
+        "en": "The other girls in the class voted for Marie as class representative.",
+        "a": "autres",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "g|fp",
+        "f": "agree",
+        "s": "Elle a visité plusieurs ___ villes françaises pendant ses vacances.",
+        "en": "She visited several other French cities during her holidays.",
+        "a": "autres",
+        "alts": [],
+        "form": ""
+      }
+    ]
+  },
+  {
+    "id": 29,
+    "qs": [
+      {
+        "slot": "s|0",
+        "f": "sense",
+        "s": "En France, ___ mange souvent du fromage après le repas.",
+        "en": "In France, one often eats cheese after the meal.",
+        "a": "on",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "s|0",
+        "f": "sense",
+        "s": "Quand ___ est fatigué, il vaut mieux se reposer.",
+        "en": "When one is tired, it is better to rest.",
+        "a": "on",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "s|1",
+        "f": "sense",
+        "s": "Ce soir, ___ va au cinéma avec mes amis.",
+        "en": "Tonight, we are going to the cinema with my friends.",
+        "a": "on",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "s|1",
+        "f": "sense",
+        "s": "Hier, ___ a fêté l'anniversaire de Marie ensemble.",
+        "en": "Yesterday, we celebrated Marie's birthday together.",
+        "a": "on",
+        "alts": [],
+        "form": ""
+      }
+    ]
+  },
+  {
+    "id": 30,
+    "qs": [
+      {
+        "slot": "s|0",
+        "f": "sense",
+        "s": "Il voulait partir en vacances, ___ il n'avait pas assez d'argent.",
+        "en": "He wanted to go on vacation, but he didn't have enough money.",
+        "a": "mais",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "s|0",
+        "f": "sense",
+        "s": "Ce restaurant est cher, ___ la cuisine est excellente.",
+        "en": "This restaurant is expensive, but the food is excellent.",
+        "a": "mais",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "s|1",
+        "f": "sense",
+        "s": "J'ai essayé de l'appeler plusieurs fois, ___ il ne répondait pas.",
+        "en": "I tried to call him several times, yet he wasn't answering.",
+        "a": "mais",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "s|1",
+        "f": "sense",
+        "s": "Elle semblait calme, ___ au fond elle était très inquiète.",
+        "en": "She seemed calm, yet deep down she was very worried.",
+        "a": "mais",
+        "alts": [],
+        "form": ""
+      }
+    ]
+  }
+]

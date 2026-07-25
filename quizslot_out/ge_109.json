@@ -1,0 +1,737 @@
+[
+  {
+    "id": 997,
+    "qs": [
+      {
+        "slot": "s|0",
+        "f": "sense",
+        "s": "Elle a envoyé le ___ par email avant la réunion.",
+        "a": "document",
+        "en": "She sent the document by email before the meeting.",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "s|0",
+        "f": "sense",
+        "s": "Il faut imprimer ce ___ et le signer avant de partir.",
+        "a": "document",
+        "en": "You need to print this document and sign it before leaving.",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "s|1",
+        "f": "sense",
+        "s": "Pour obtenir ce visa, vous devez fournir un ___ prouvant votre domicile.",
+        "a": "document",
+        "en": "To obtain this visa, you must provide a document proving your residence.",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "s|1",
+        "f": "sense",
+        "s": "Le notaire a demandé un ___ justificatif pour valider la transaction.",
+        "a": "document",
+        "en": "The notary asked for a supporting document to validate the transaction.",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "s|2",
+        "f": "sense",
+        "s": "Les historiens ont retrouvé un ___ médiéval dans les archives de la cathédrale.",
+        "a": "document",
+        "en": "Historians found a medieval document in the cathedral archives.",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "s|2",
+        "f": "sense",
+        "s": "Ce ___ du XVIIe siècle est précieux pour comprendre l'histoire de la région.",
+        "a": "document",
+        "en": "This 17th-century document is precious for understanding the history of the region.",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "gender",
+        "f": "gender",
+        "s": "Elle a rangé ___ document dans la chemise bleue.",
+        "a": "le",
+        "en": "She put the document away in the blue folder.",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "gender",
+        "f": "gender",
+        "s": "J'ai besoin d'___ document officiel pour m'inscrire.",
+        "a": "un",
+        "en": "I need an official document to register.",
+        "alts": [],
+        "form": ""
+      }
+    ]
+  },
+  {
+    "id": 998,
+    "qs": [
+      {
+        "slot": "s|0",
+        "f": "sense",
+        "s": "L'___ financier du projet inquiète les investisseurs.",
+        "a": "aspect",
+        "en": "The financial aspect of the project worries the investors.",
+        "alts": ["côté"],
+        "form": ""
+      },
+      {
+        "slot": "s|0",
+        "f": "sense",
+        "s": "Nous devons examiner chaque ___ de ce problème avant de décider.",
+        "a": "aspect",
+        "en": "We must examine every aspect of this problem before deciding.",
+        "alts": ["côté"],
+        "form": ""
+      },
+      {
+        "slot": "s|1",
+        "f": "sense",
+        "s": "L'___ extérieur de la maison a été entièrement rénové.",
+        "a": "aspect",
+        "en": "The exterior appearance of the house has been completely renovated.",
+        "alts": ["apparence"],
+        "form": ""
+      },
+      {
+        "slot": "s|1",
+        "f": "sense",
+        "s": "Ces fruits ont un ___ appétissant qui donne envie de les manger.",
+        "a": "aspect",
+        "en": "These fruits have an appetizing appearance that makes you want to eat them.",
+        "alts": ["apparence"],
+        "form": ""
+      },
+      {
+        "slot": "s|2",
+        "f": "sense",
+        "s": "Depuis son retour de voyage, il a l'___ d'un homme épuisé.",
+        "a": "aspect",
+        "en": "Since his return from the trip, he has the look of an exhausted man.",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "s|2",
+        "f": "sense",
+        "s": "La ville a complètement changé d'___ après les grands travaux.",
+        "a": "aspect",
+        "en": "The city has completely changed its appearance after the major construction work.",
+        "alts": ["visage"],
+        "form": ""
+      },
+      {
+        "slot": "gender",
+        "f": "gender",
+        "s": "___ aspect technique de ce dossier mérite une attention particulière.",
+        "a": "L'",
+        "en": "The technical aspect of this file deserves particular attention.",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "gender",
+        "f": "gender",
+        "s": "C'est ___ aspect important à ne pas négliger lors de la planification.",
+        "a": "un",
+        "en": "It is an important aspect not to be neglected during planning.",
+        "alts": [],
+        "form": ""
+      }
+    ]
+  },
+  {
+    "id": 999,
+    "qs": [
+      {
+        "slot": "t|Présent|0",
+        "f": "tense",
+        "s": "Chaque soir, je ___ à la maison vers dix-neuf heures.",
+        "a": "retourne",
+        "en": "Every evening, I return home around 7 PM.",
+        "alts": [],
+        "form": "Présent"
+      },
+      {
+        "slot": "t|Présent|0",
+        "f": "tense",
+        "s": "Mon chat ___ toujours dans le même coin pour dormir.",
+        "a": "retourne",
+        "en": "My cat always returns to the same corner to sleep.",
+        "alts": [],
+        "form": "Présent"
+      },
+      {
+        "slot": "t|Présent|1",
+        "f": "tense",
+        "s": "Tu ___ au bureau après la pause déjeuner ?",
+        "a": "retournes",
+        "en": "Do you return to the office after the lunch break?",
+        "alts": [],
+        "form": "Présent"
+      },
+      {
+        "slot": "t|Présent|1",
+        "f": "tense",
+        "s": "Est-ce que tu ___ souvent dans ton pays natal ?",
+        "a": "retournes",
+        "en": "Do you often return to your home country?",
+        "alts": [],
+        "form": "Présent"
+      },
+      {
+        "slot": "t|Présent|2",
+        "f": "tense",
+        "s": "Nous ___ au marché tous les samedis matin.",
+        "a": "retournons",
+        "en": "We return to the market every Saturday morning.",
+        "alts": [],
+        "form": "Présent"
+      },
+      {
+        "slot": "t|Présent|2",
+        "f": "tense",
+        "s": "Nous ___ les crêpes à mi-cuisson pour les faire dorer des deux côtés.",
+        "a": "retournons",
+        "en": "We flip the crêpes halfway through cooking to brown them on both sides.",
+        "alts": [],
+        "form": "Présent"
+      },
+      {
+        "slot": "t|Présent|3",
+        "f": "tense",
+        "s": "Vous ___ en France cet été ?",
+        "a": "retournez",
+        "en": "Are you going back to France this summer?",
+        "alts": [],
+        "form": "Présent"
+      },
+      {
+        "slot": "t|Présent|3",
+        "f": "tense",
+        "s": "Vous ___ le sable avec une pelle pour trouver des coquillages.",
+        "a": "retournez",
+        "en": "You are turning over the sand with a shovel to find shells.",
+        "alts": [],
+        "form": "Présent"
+      },
+      {
+        "slot": "t|Présent|4",
+        "f": "tense",
+        "s": "Mes parents ___ dans leur village chaque été.",
+        "a": "retournent",
+        "en": "My parents return to their village every summer.",
+        "alts": [],
+        "form": "Présent"
+      },
+      {
+        "slot": "t|Présent|4",
+        "f": "tense",
+        "s": "Les enfants ___ les pierres pour observer les insectes dessous.",
+        "a": "retournent",
+        "en": "The children turn over the stones to observe the insects underneath.",
+        "alts": [],
+        "form": "Présent"
+      },
+      {
+        "slot": "t|Passé composé|0",
+        "f": "tense",
+        "s": "L'année dernière, je ___ en Espagne pour les vacances.",
+        "a": "suis retourné",
+        "en": "Last year, I went back to Spain for the holidays.",
+        "alts": [],
+        "form": "Passé composé"
+      },
+      {
+        "slot": "t|Passé composé|0",
+        "f": "tense",
+        "s": "Je ___ au restaurant que tu m'avais recommandé la semaine passée.",
+        "a": "suis retourné",
+        "en": "I went back to the restaurant you had recommended to me last week.",
+        "alts": [],
+        "form": "Passé composé"
+      },
+      {
+        "slot": "t|Passé composé|1",
+        "f": "tense",
+        "s": "Tu ___ à Paris après dix ans d'absence ?",
+        "a": "es retourné",
+        "en": "Did you go back to Paris after ten years away?",
+        "alts": ["es retournée"],
+        "form": "Passé composé"
+      },
+      {
+        "slot": "t|Passé composé|1",
+        "f": "tense",
+        "s": "Hier soir, tu ___ au bureau chercher tes clés oubliées.",
+        "a": "es retourné",
+        "en": "Last night, you went back to the office to get your forgotten keys.",
+        "alts": ["es retournée"],
+        "form": "Passé composé"
+      },
+      {
+        "slot": "t|Passé composé|2",
+        "f": "tense",
+        "s": "Mon frère ___ dans son ancienne école pour une réunion.",
+        "a": "est retourné",
+        "en": "My brother went back to his old school for a meeting.",
+        "alts": [],
+        "form": "Passé composé"
+      },
+      {
+        "slot": "t|Passé composé|2",
+        "f": "tense",
+        "s": "On ___ au parc après le dîner pour se promener.",
+        "a": "est retourné",
+        "en": "We went back to the park after dinner for a walk.",
+        "alts": [],
+        "form": "Passé composé"
+      },
+      {
+        "slot": "t|Passé composé|3",
+        "f": "tense",
+        "s": "Nous ___ en Italie vingt ans après notre lune de miel.",
+        "a": "sommes retournés",
+        "en": "We went back to Italy twenty years after our honeymoon.",
+        "alts": [],
+        "form": "Passé composé"
+      },
+      {
+        "slot": "t|Passé composé|3",
+        "f": "tense",
+        "s": "Après la pause, nous ___ dans la salle de conférence.",
+        "a": "sommes retournés",
+        "en": "After the break, we went back into the conference room.",
+        "alts": [],
+        "form": "Passé composé"
+      },
+      {
+        "slot": "t|Passé composé|4",
+        "f": "tense",
+        "s": "Vous ___ au même hôtel que l'an dernier, n'est-ce pas ?",
+        "a": "êtes retournés",
+        "en": "You went back to the same hotel as last year, didn't you?",
+        "alts": ["êtes retournées"],
+        "form": "Passé composé"
+      },
+      {
+        "slot": "t|Passé composé|4",
+        "f": "tense",
+        "s": "Mes amis, vous ___ sur les lieux de votre enfance hier.",
+        "a": "êtes retournés",
+        "en": "My friends, you went back to the places of your childhood yesterday.",
+        "alts": ["êtes retournées"],
+        "form": "Passé composé"
+      },
+      {
+        "slot": "t|Passé composé|5",
+        "f": "tense",
+        "s": "Les touristes ___ voir le château une deuxième fois.",
+        "a": "sont retournés",
+        "en": "The tourists went back to see the castle a second time.",
+        "alts": [],
+        "form": "Passé composé"
+      },
+      {
+        "slot": "t|Passé composé|5",
+        "f": "tense",
+        "s": "Mes collègues ___ au bureau un dimanche pour finir le projet.",
+        "a": "sont retournés",
+        "en": "My colleagues went back to the office on a Sunday to finish the project.",
+        "alts": [],
+        "form": "Passé composé"
+      },
+      {
+        "slot": "t|Imparfait|0",
+        "f": "tense",
+        "s": "Quand j'étais enfant, je ___ souvent chez ma grand-mère pendant les vacances.",
+        "a": "retournais",
+        "en": "When I was a child, I often went back to my grandmother's during the holidays.",
+        "alts": [],
+        "form": "Imparfait"
+      },
+      {
+        "slot": "t|Imparfait|0",
+        "f": "tense",
+        "s": "Avant, tu ___ toujours au même café après les cours.",
+        "a": "retournais",
+        "en": "Before, you always went back to the same café after class.",
+        "alts": [],
+        "form": "Imparfait"
+      },
+      {
+        "slot": "t|Imparfait|1",
+        "f": "tense",
+        "s": "Le chef ___ les steaks sur le gril au bon moment.",
+        "a": "retournait",
+        "en": "The chef flipped the steaks on the grill at the right moment.",
+        "alts": [],
+        "form": "Imparfait"
+      },
+      {
+        "slot": "t|Imparfait|1",
+        "f": "tense",
+        "s": "Il ___ régulièrement dans ce musée pour admirer les mêmes tableaux.",
+        "a": "retournait",
+        "en": "He regularly went back to that museum to admire the same paintings.",
+        "alts": [],
+        "form": "Imparfait"
+      },
+      {
+        "slot": "t|Imparfait|2",
+        "f": "tense",
+        "s": "Enfants, nous ___ souvent au bord de la mer chaque été.",
+        "a": "retournions",
+        "en": "As children, we often went back to the seaside every summer.",
+        "alts": [],
+        "form": "Imparfait"
+      },
+      {
+        "slot": "t|Imparfait|2",
+        "f": "tense",
+        "s": "Nous ___ les pages du livre pour les lire dans l'ordre inverse.",
+        "a": "retournions",
+        "en": "We were turning over the pages of the book to read them in reverse order.",
+        "alts": [],
+        "form": "Imparfait"
+      },
+      {
+        "slot": "t|Imparfait|3",
+        "f": "tense",
+        "s": "Quand vous habitiez à Lyon, vous ___ souvent à Paris pour le travail.",
+        "a": "retourniez",
+        "en": "When you lived in Lyon, you often went back to Paris for work.",
+        "alts": [],
+        "form": "Imparfait"
+      },
+      {
+        "slot": "t|Imparfait|3",
+        "f": "tense",
+        "s": "Vous ___ toujours au même restaurant du quartier, autrefois.",
+        "a": "retourniez",
+        "en": "You always used to go back to the same restaurant in the neighborhood.",
+        "alts": [],
+        "form": "Imparfait"
+      },
+      {
+        "slot": "t|Imparfait|4",
+        "f": "tense",
+        "s": "Les ouvriers ___ la terre avec leurs pelles toute la journée.",
+        "a": "retournaient",
+        "en": "The workers were turning over the soil with their shovels all day.",
+        "alts": [],
+        "form": "Imparfait"
+      },
+      {
+        "slot": "t|Imparfait|4",
+        "f": "tense",
+        "s": "Ils ___ régulièrement dans ce village pour rendre visite à leurs amis.",
+        "a": "retournaient",
+        "en": "They regularly went back to that village to visit their friends.",
+        "alts": [],
+        "form": "Imparfait"
+      },
+      {
+        "slot": "t|Futur|0",
+        "f": "tense",
+        "s": "L'année prochaine, je ___ au Japon pour revoir mes amis.",
+        "a": "retournerai",
+        "en": "Next year, I will go back to Japan to see my friends again.",
+        "alts": [],
+        "form": "Futur simple"
+      },
+      {
+        "slot": "t|Futur|0",
+        "f": "tense",
+        "s": "Je ___ à la bibliothèque dès qu'elle rouvrira ses portes.",
+        "a": "retournerai",
+        "en": "I will go back to the library as soon as it reopens.",
+        "alts": [],
+        "form": "Futur simple"
+      },
+      {
+        "slot": "t|Futur|1",
+        "f": "tense",
+        "s": "Tu ___ chez le médecin dans une semaine pour un contrôle.",
+        "a": "retourneras",
+        "en": "You will go back to the doctor in a week for a check-up.",
+        "alts": [],
+        "form": "Futur simple"
+      },
+      {
+        "slot": "t|Futur|1",
+        "f": "tense",
+        "s": "Si tu aimes cet endroit, tu ___ sûrement l'année prochaine.",
+        "a": "retourneras",
+        "en": "If you like this place, you will surely go back next year.",
+        "alts": [],
+        "form": "Futur simple"
+      },
+      {
+        "slot": "t|Futur|2",
+        "f": "tense",
+        "s": "Mon père ___ à son ancien lycée pour la réunion des anciens élèves.",
+        "a": "retournera",
+        "en": "My father will go back to his old high school for the alumni reunion.",
+        "alts": [],
+        "form": "Futur simple"
+      },
+      {
+        "slot": "t|Futur|2",
+        "f": "tense",
+        "s": "Il ___ les crêpes quand elles seront bien dorées d'un côté.",
+        "a": "retournera",
+        "en": "He will flip the crêpes when they are nicely browned on one side.",
+        "alts": [],
+        "form": "Futur simple"
+      },
+      {
+        "slot": "t|Futur|3",
+        "f": "tense",
+        "s": "Nous ___ en Grèce cet été pour nos vacances.",
+        "a": "retournerons",
+        "en": "We will go back to Greece this summer for our holidays.",
+        "alts": [],
+        "form": "Futur simple"
+      },
+      {
+        "slot": "t|Futur|3",
+        "f": "tense",
+        "s": "Nous ___ les matelas pour aérer les deux faces.",
+        "a": "retournerons",
+        "en": "We will flip the mattresses to air out both sides.",
+        "alts": [],
+        "form": "Futur simple"
+      },
+      {
+        "slot": "t|Futur|4",
+        "f": "tense",
+        "s": "Vous ___ dans cette ville une fois les travaux terminés ?",
+        "a": "retournerez",
+        "en": "Will you go back to this city once the works are finished?",
+        "alts": [],
+        "form": "Futur simple"
+      },
+      {
+        "slot": "t|Futur|4",
+        "f": "tense",
+        "s": "Vous ___ les documents signés au service des ressources humaines demain.",
+        "a": "retournerez",
+        "en": "You will return the signed documents to the human resources department tomorrow.",
+        "alts": [],
+        "form": "Futur simple"
+      },
+      {
+        "slot": "t|Futur|5",
+        "f": "tense",
+        "s": "Mes amis ___ au Canada dans quelques mois.",
+        "a": "retourneront",
+        "en": "My friends will go back to Canada in a few months.",
+        "alts": [],
+        "form": "Futur simple"
+      },
+      {
+        "slot": "t|Futur|5",
+        "f": "tense",
+        "s": "Les candidats ___ les formulaires remplis au bureau avant vendredi.",
+        "a": "retourneront",
+        "en": "The candidates will return the completed forms to the office before Friday.",
+        "alts": [],
+        "form": "Futur simple"
+      },
+      {
+        "slot": "t|Conditionnel|0",
+        "f": "tense",
+        "s": "Si j'avais le temps, je ___ vivre en Provence.",
+        "a": "retournerais",
+        "en": "If I had the time, I would go back to live in Provence.",
+        "alts": [],
+        "form": "Conditionnel présent"
+      },
+      {
+        "slot": "t|Conditionnel|0",
+        "f": "tense",
+        "s": "Si tu avais plus d'argent, tu ___ dans ce pays exotique.",
+        "a": "retournerais",
+        "en": "If you had more money, you would go back to that exotic country.",
+        "alts": [],
+        "form": "Conditionnel présent"
+      },
+      {
+        "slot": "t|Conditionnel|1",
+        "f": "tense",
+        "s": "Si elle avait un visa, elle ___ immédiatement dans son pays d'origine.",
+        "a": "retournerait",
+        "en": "If she had a visa, she would go back to her home country immediately.",
+        "alts": [],
+        "form": "Conditionnel présent"
+      },
+      {
+        "slot": "t|Conditionnel|1",
+        "f": "tense",
+        "s": "Mon oncle dit qu'il ___ dans ce restaurant s'il était moins cher.",
+        "a": "retournerait",
+        "en": "My uncle says he would go back to that restaurant if it were less expensive.",
+        "alts": [],
+        "form": "Conditionnel présent"
+      },
+      {
+        "slot": "t|Conditionnel|2",
+        "f": "tense",
+        "s": "Nous ___ en Asie si les billets d'avion étaient moins chers.",
+        "a": "retournerions",
+        "en": "We would go back to Asia if the plane tickets were cheaper.",
+        "alts": [],
+        "form": "Conditionnel présent"
+      },
+      {
+        "slot": "t|Conditionnel|2",
+        "f": "tense",
+        "s": "Nous ___ volontiers les livres à la bibliothèque s'ils nous le demandaient.",
+        "a": "retournerions",
+        "en": "We would gladly return the books to the library if they asked us to.",
+        "alts": [],
+        "form": "Conditionnel présent"
+      },
+      {
+        "slot": "t|Conditionnel|3",
+        "f": "tense",
+        "s": "Vous ___ sur place si vous aviez plus de vacances.",
+        "a": "retourneriez",
+        "en": "You would go back there if you had more vacation time.",
+        "alts": [],
+        "form": "Conditionnel présent"
+      },
+      {
+        "slot": "t|Conditionnel|3",
+        "f": "tense",
+        "s": "Est-ce que vous ___ vivre dans cette région si on vous le proposait ?",
+        "a": "retourneriez",
+        "en": "Would you go back to live in that region if it were offered to you?",
+        "alts": [],
+        "form": "Conditionnel présent"
+      },
+      {
+        "slot": "t|Conditionnel|4",
+        "f": "tense",
+        "s": "Mes parents disent qu'ils ___ en Italie si les enfants étaient d'accord.",
+        "a": "retourneraient",
+        "en": "My parents say they would go back to Italy if the children agreed.",
+        "alts": [],
+        "form": "Conditionnel présent"
+      },
+      {
+        "slot": "t|Conditionnel|4",
+        "f": "tense",
+        "s": "Les employés ___ les marchandises défectueuses au fournisseur si on les y autorisait.",
+        "a": "retourneraient",
+        "en": "The employees would return the defective goods to the supplier if they were authorized to.",
+        "alts": [],
+        "form": "Conditionnel présent"
+      },
+      {
+        "slot": "t|Subjonctif",
+        "f": "subj",
+        "s": "Il faut que tu ___ au bureau avant midi.",
+        "a": "retournes",
+        "en": "You need to go back to the office before noon.",
+        "alts": [],
+        "form": "Subjonctif présent"
+      },
+      {
+        "slot": "t|Subjonctif",
+        "f": "subj",
+        "s": "Je souhaite que vous ___ ce livre à la bibliothèque aujourd'hui.",
+        "a": "retourniez",
+        "en": "I wish that you would return this book to the library today.",
+        "alts": [],
+        "form": "Subjonctif présent"
+      },
+      {
+        "slot": "s|0",
+        "f": "sense",
+        "s": "Après un long voyage, il est doux de ___ chez soi.",
+        "a": "retourner",
+        "en": "After a long trip, it is nice to return home.",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "s|0",
+        "f": "sense",
+        "s": "Elle a décidé de ___ dans sa ville natale après des années à l'étranger.",
+        "a": "retourner",
+        "en": "She decided to return to her hometown after years abroad.",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "s|1",
+        "f": "sense",
+        "s": "Il a oublié son téléphone et a dû ___ sur ses pas.",
+        "a": "retourner",
+        "en": "He forgot his phone and had to go back the way he came.",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "s|1",
+        "f": "sense",
+        "s": "Le soldat voulait ___ au camp avant la nuit.",
+        "a": "retourner",
+        "en": "The soldier wanted to go back to the camp before nightfall.",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "s|2",
+        "f": "sense",
+        "s": "Le cuisinier doit ___ la viande pour la cuire de l'autre côté.",
+        "a": "retourner",
+        "en": "The cook must flip the meat to cook it on the other side.",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "s|2",
+        "f": "sense",
+        "s": "Elle a dû ___ le sac pour trouver ses clés au fond.",
+        "a": "retourner",
+        "en": "She had to turn the bag upside down to find her keys at the bottom.",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "s|3",
+        "f": "sense",
+        "s": "Tu dois ___ cet article défectueux au vendeur pour être remboursé.",
+        "a": "retourner",
+        "en": "You must return this defective item to the seller to get a refund.",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "s|3",
+        "f": "sense",
+        "s": "Le bibliothécaire lui a rappelé de ___ les livres empruntés avant la date limite.",
+        "a": "retourner",
+        "en": "The librarian reminded him to return the borrowed books before the due date.",
+        "alts": [],
+        "form": ""
+      }
+    ]
+  }
+]

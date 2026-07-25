@@ -1,0 +1,687 @@
+[
+  {
+    "id": 3325,
+    "qs": [
+      {
+        "slot": "s|0",
+        "f": "sense",
+        "s": "Il a été pris d'un ___ en plein milieu du discours et a dû s'asseoir.",
+        "a": "malaise",
+        "en": "He was overcome by a sudden physical faintness in the middle of the speech and had to sit down.",
+        "alts": []
+      },
+      {
+        "slot": "s|0",
+        "f": "sense",
+        "s": "Après avoir travaillé sous la chaleur toute la journée, elle a ressenti un ___ et a demandé à rentrer chez elle.",
+        "a": "malaise",
+        "en": "After working in the heat all day, she felt a bout of physical illness and asked to go home.",
+        "alts": []
+      },
+      {
+        "slot": "s|1",
+        "f": "sense",
+        "s": "Les résultats des élections révèlent un profond ___ au sein de la société.",
+        "a": "malaise",
+        "en": "The election results reveal a deep uneasiness within society.",
+        "alts": []
+      },
+      {
+        "slot": "s|1",
+        "f": "sense",
+        "s": "Le chômage croissant engendre un ___ social que les politiques ne peuvent plus ignorer.",
+        "a": "malaise",
+        "en": "Growing unemployment is generating a social unease that politicians can no longer ignore.",
+        "alts": []
+      },
+      {
+        "slot": "s|2",
+        "f": "sense",
+        "s": "Face à cette question indiscrète, il a éprouvé un ___ difficile à dissimuler.",
+        "a": "malaise",
+        "en": "Faced with this intrusive question, he felt a discomfort that was hard to hide.",
+        "alts": []
+      },
+      {
+        "slot": "s|2",
+        "f": "sense",
+        "s": "Un ___ s'est installé dans la pièce quand elle a mentionné son ex-mari.",
+        "a": "malaise",
+        "en": "A discomfort settled over the room when she mentioned her ex-husband.",
+        "alts": []
+      },
+      {
+        "slot": "gender",
+        "f": "gender",
+        "s": "On pouvait sentir ___ malaise dans l'air dès les premières minutes de la réunion.",
+        "a": "le",
+        "en": "One could sense the discomfort in the air from the very first minutes of the meeting.",
+        "alts": []
+      },
+      {
+        "slot": "gender",
+        "f": "gender",
+        "s": "Elle a dissimulé ___ malaise qu'elle ressentait face à ces remarques déplacées.",
+        "a": "le",
+        "en": "She concealed the discomfort she felt in response to those inappropriate remarks.",
+        "alts": []
+      }
+    ]
+  },
+  {
+    "id": 3326,
+    "qs": [
+      {
+        "slot": "t|Présent|0",
+        "f": "tense",
+        "s": "Chaque matin, je ___ mon vieux vélo avant de partir au travail.",
+        "a": "restaure",
+        "en": "Every morning, I restore my old bicycle before going to work.",
+        "alts": [],
+        "form": "Présent"
+      },
+      {
+        "slot": "t|Présent|0",
+        "f": "tense",
+        "s": "L'artisan ___ les tableaux anciens avec beaucoup de soin.",
+        "a": "restaure",
+        "en": "The craftsman restores old paintings with great care.",
+        "alts": [],
+        "form": "Présent"
+      },
+      {
+        "slot": "t|Présent|1",
+        "f": "tense",
+        "s": "Tu ___ ce meuble du XVIIIe siècle depuis plusieurs semaines.",
+        "a": "restaures",
+        "en": "You have been restoring this 18th-century piece of furniture for several weeks.",
+        "alts": [],
+        "form": "Présent"
+      },
+      {
+        "slot": "t|Présent|1",
+        "f": "tense",
+        "s": "Est-ce que tu ___ toi-même les vieilles photos de famille ?",
+        "a": "restaures",
+        "en": "Do you restore the old family photos yourself?",
+        "alts": [],
+        "form": "Présent"
+      },
+      {
+        "slot": "t|Présent|2",
+        "f": "tense",
+        "s": "Nous ___ cette façade historique avec des matériaux d'époque.",
+        "a": "restaurons",
+        "en": "We are restoring this historic facade with period materials.",
+        "alts": [],
+        "form": "Présent"
+      },
+      {
+        "slot": "t|Présent|2",
+        "f": "tense",
+        "s": "En ce moment, nous ___ la confiance des citoyens dans nos institutions.",
+        "a": "restaurons",
+        "en": "At the moment, we are restoring citizens' trust in our institutions.",
+        "alts": [],
+        "form": "Présent"
+      },
+      {
+        "slot": "t|Présent|3",
+        "f": "tense",
+        "s": "Vous ___ les fresques de cette chapelle avec une grande précision.",
+        "a": "restaurez",
+        "en": "You are restoring the frescoes of this chapel with great precision.",
+        "alts": [],
+        "form": "Présent"
+      },
+      {
+        "slot": "t|Présent|3",
+        "f": "tense",
+        "s": "Est-ce que vous ___ aussi des sculptures en marbre dans votre atelier ?",
+        "a": "restaurez",
+        "en": "Do you also restore marble sculptures in your workshop?",
+        "alts": [],
+        "form": "Présent"
+      },
+      {
+        "slot": "t|Présent|4",
+        "f": "tense",
+        "s": "Ces spécialistes ___ les manuscrits médiévaux de la bibliothèque nationale.",
+        "a": "restaurent",
+        "en": "These specialists are restoring the medieval manuscripts at the national library.",
+        "alts": [],
+        "form": "Présent"
+      },
+      {
+        "slot": "t|Présent|4",
+        "f": "tense",
+        "s": "Les équipes municipales ___ les fontaines du vieux quartier chaque été.",
+        "a": "restaurent",
+        "en": "The municipal teams restore the fountains of the old district every summer.",
+        "alts": [],
+        "form": "Présent"
+      },
+      {
+        "slot": "t|Passé composé|0",
+        "f": "tense",
+        "s": "L'année dernière, j' ___ trois tableaux du musée.",
+        "a": "ai restauré",
+        "en": "Last year, I restored three paintings from the museum.",
+        "alts": [],
+        "form": "Passé composé"
+      },
+      {
+        "slot": "t|Passé composé|0",
+        "f": "tense",
+        "s": "J' ___ ma santé grâce à ce long séjour à la montagne.",
+        "a": "ai restauré",
+        "en": "I restored my health thanks to this long stay in the mountains.",
+        "alts": [],
+        "form": "Passé composé"
+      },
+      {
+        "slot": "t|Passé composé|1",
+        "f": "tense",
+        "s": "Tu ___ ce buffet ancien en seulement deux semaines, bravo !",
+        "a": "as restauré",
+        "en": "You restored this antique sideboard in just two weeks, well done!",
+        "alts": [],
+        "form": "Passé composé"
+      },
+      {
+        "slot": "t|Passé composé|1",
+        "f": "tense",
+        "s": "Est-ce que tu ___ la connexion Internet avant que je revienne ?",
+        "a": "as restauré",
+        "en": "Did you restore the internet connection before I got back?",
+        "alts": [],
+        "form": "Passé composé"
+      },
+      {
+        "slot": "t|Passé composé|2",
+        "f": "tense",
+        "s": "Le gouvernement ___ l'ordre public après les manifestations.",
+        "a": "a restauré",
+        "en": "The government restored public order after the demonstrations.",
+        "alts": [],
+        "form": "Passé composé"
+      },
+      {
+        "slot": "t|Passé composé|2",
+        "f": "tense",
+        "s": "L'architecte ___ la tour médiévale en respectant son style d'origine.",
+        "a": "a restauré",
+        "en": "The architect restored the medieval tower while respecting its original style.",
+        "alts": [],
+        "form": "Passé composé"
+      },
+      {
+        "slot": "t|Passé composé|3",
+        "f": "tense",
+        "s": "Nous ___ cette maison classée monument historique l'été dernier.",
+        "a": "avons restauré",
+        "en": "We restored this listed historic monument last summer.",
+        "alts": [],
+        "form": "Passé composé"
+      },
+      {
+        "slot": "t|Passé composé|3",
+        "f": "tense",
+        "s": "Ensemble, nous ___ la paix dans la région après de longues négociations.",
+        "a": "avons restauré",
+        "en": "Together, we restored peace in the region after long negotiations.",
+        "alts": [],
+        "form": "Passé composé"
+      },
+      {
+        "slot": "t|Passé composé|4",
+        "f": "tense",
+        "s": "Vous ___ ces peintures murales avec un talent remarquable.",
+        "a": "avez restauré",
+        "en": "You restored these murals with remarkable talent.",
+        "alts": [],
+        "form": "Passé composé"
+      },
+      {
+        "slot": "t|Passé composé|4",
+        "f": "tense",
+        "s": "Avez-vous ___ la totalité des archives endommagées par l'incendie ?",
+        "a": "avez restauré",
+        "en": "Have you restored all the archives damaged by the fire?",
+        "alts": [],
+        "form": "Passé composé"
+      },
+      {
+        "slot": "t|Passé composé|5",
+        "f": "tense",
+        "s": "Les bénévoles ___ la vieille église du village pendant l'automne.",
+        "a": "ont restauré",
+        "en": "The volunteers restored the old village church during autumn.",
+        "alts": [],
+        "form": "Passé composé"
+      },
+      {
+        "slot": "t|Passé composé|5",
+        "f": "tense",
+        "s": "Les techniciens ___ le système informatique en moins d'une heure.",
+        "a": "ont restauré",
+        "en": "The technicians restored the computer system in less than an hour.",
+        "alts": [],
+        "form": "Passé composé"
+      },
+      {
+        "slot": "t|Imparfait|0",
+        "f": "tense",
+        "s": "Quand j'étais étudiant, je ___ des meubles anciens pour gagner de l'argent.",
+        "a": "restaurais",
+        "en": "When I was a student, I used to restore antique furniture to earn money.",
+        "alts": [],
+        "form": "Imparfait"
+      },
+      {
+        "slot": "t|Imparfait|0",
+        "f": "tense",
+        "s": "Tu ___ toujours les vieux objets avec passion avant de les revendre.",
+        "a": "restaurais",
+        "en": "You always used to restore old objects with passion before reselling them.",
+        "alts": [],
+        "form": "Imparfait"
+      },
+      {
+        "slot": "t|Imparfait|1",
+        "f": "tense",
+        "s": "Le musée ___ régulièrement ses œuvres les plus précieuses.",
+        "a": "restaurait",
+        "en": "The museum used to regularly restore its most precious works.",
+        "alts": [],
+        "form": "Imparfait"
+      },
+      {
+        "slot": "t|Imparfait|1",
+        "f": "tense",
+        "s": "Elle ___ la confiance de ses élèves par sa patience et sa bienveillance.",
+        "a": "restaurait",
+        "en": "She used to restore her students' confidence through her patience and kindness.",
+        "alts": [],
+        "form": "Imparfait"
+      },
+      {
+        "slot": "t|Imparfait|2",
+        "f": "tense",
+        "s": "Nous ___ le château depuis deux ans quand les travaux ont dû s'arrêter.",
+        "a": "restaurions",
+        "en": "We had been restoring the castle for two years when the work had to stop.",
+        "alts": [],
+        "form": "Imparfait"
+      },
+      {
+        "slot": "t|Imparfait|2",
+        "f": "tense",
+        "s": "Avant la pandémie, nous ___ plusieurs bâtiments historiques chaque année.",
+        "a": "restaurions",
+        "en": "Before the pandemic, we used to restore several historic buildings each year.",
+        "alts": [],
+        "form": "Imparfait"
+      },
+      {
+        "slot": "t|Imparfait|3",
+        "f": "tense",
+        "s": "Vous ___ ces statues avec des outils très spécialisés à l'époque.",
+        "a": "restauriez",
+        "en": "You used to restore these statues with very specialized tools at the time.",
+        "alts": [],
+        "form": "Imparfait"
+      },
+      {
+        "slot": "t|Imparfait|3",
+        "f": "tense",
+        "s": "Je me souviens que vous ___ une vieille carrosserie dans votre garage.",
+        "a": "restauriez",
+        "en": "I remember that you were restoring an old car body in your garage.",
+        "alts": [],
+        "form": "Imparfait"
+      },
+      {
+        "slot": "t|Imparfait|4",
+        "f": "tense",
+        "s": "Ces artisans ___ les vitraux avec des techniques ancestrales.",
+        "a": "restauraient",
+        "en": "These craftsmen used to restore the stained-glass windows with ancestral techniques.",
+        "alts": [],
+        "form": "Imparfait"
+      },
+      {
+        "slot": "t|Imparfait|4",
+        "f": "tense",
+        "s": "Les ouvriers ___ la cathédrale quand l'incendie a éclaté.",
+        "a": "restauraient",
+        "en": "The workers were restoring the cathedral when the fire broke out.",
+        "alts": [],
+        "form": "Imparfait"
+      },
+      {
+        "slot": "t|Futur|0",
+        "f": "tense",
+        "s": "L'an prochain, je ___ ce tableau que j'ai acheté aux enchères.",
+        "a": "restaurerai",
+        "en": "Next year, I will restore this painting I bought at auction.",
+        "alts": [],
+        "form": "Futur"
+      },
+      {
+        "slot": "t|Futur|0",
+        "f": "tense",
+        "s": "Je ___ ma réputation après avoir prouvé mon innocence.",
+        "a": "restaurerai",
+        "en": "I will restore my reputation after proving my innocence.",
+        "alts": [],
+        "form": "Futur"
+      },
+      {
+        "slot": "t|Futur|1",
+        "f": "tense",
+        "s": "Tu ___ cette armoire ancienne dès que tu auras du temps libre.",
+        "a": "restaureras",
+        "en": "You will restore this antique wardrobe as soon as you have free time.",
+        "alts": [],
+        "form": "Futur"
+      },
+      {
+        "slot": "t|Futur|1",
+        "f": "tense",
+        "s": "Quand tu seras diplômé, tu ___ des œuvres d'art dans un grand musée.",
+        "a": "restaureras",
+        "en": "When you graduate, you will restore works of art in a major museum.",
+        "alts": [],
+        "form": "Futur"
+      },
+      {
+        "slot": "t|Futur|2",
+        "f": "tense",
+        "s": "L'équipe ___ les mosaïques romaines dès que les fonds seront disponibles.",
+        "a": "restaurera",
+        "en": "The team will restore the Roman mosaics as soon as the funds are available.",
+        "alts": [],
+        "form": "Futur"
+      },
+      {
+        "slot": "t|Futur|2",
+        "f": "tense",
+        "s": "Ce nouveau traité ___ la paix entre les deux nations.",
+        "a": "restaurera",
+        "en": "This new treaty will restore peace between the two nations.",
+        "alts": [],
+        "form": "Futur"
+      },
+      {
+        "slot": "t|Futur|3",
+        "f": "tense",
+        "s": "Nous ___ ce palais royal pour le centenaire de la République.",
+        "a": "restaurerons",
+        "en": "We will restore this royal palace for the centenary of the Republic.",
+        "alts": [],
+        "form": "Futur"
+      },
+      {
+        "slot": "t|Futur|3",
+        "f": "tense",
+        "s": "Avec ce nouveau budget, nous ___ enfin la fontaine centrale de la ville.",
+        "a": "restaurerons",
+        "en": "With this new budget, we will finally restore the city's central fountain.",
+        "alts": [],
+        "form": "Futur"
+      },
+      {
+        "slot": "t|Futur|4",
+        "f": "tense",
+        "s": "Vous ___ cette fresque avant la fin de l'année, j'espère.",
+        "a": "restaurerez",
+        "en": "You will restore this fresco before the end of the year, I hope.",
+        "alts": [],
+        "form": "Futur"
+      },
+      {
+        "slot": "t|Futur|4",
+        "f": "tense",
+        "s": "Si vous obtenez le contrat, vous ___ le beffroi de la ville.",
+        "a": "restaurerez",
+        "en": "If you get the contract, you will restore the city's belfry.",
+        "alts": [],
+        "form": "Futur"
+      },
+      {
+        "slot": "t|Futur|5",
+        "f": "tense",
+        "s": "Les spécialistes ___ les tableaux abîmés après leur retour du laboratoire.",
+        "a": "restaureront",
+        "en": "The specialists will restore the damaged paintings after returning from the laboratory.",
+        "alts": [],
+        "form": "Futur"
+      },
+      {
+        "slot": "t|Futur|5",
+        "f": "tense",
+        "s": "Ces chirurgiens ___ la mobilité du patient grâce à cette opération innovante.",
+        "a": "restaureront",
+        "en": "These surgeons will restore the patient's mobility thanks to this innovative operation.",
+        "alts": [],
+        "form": "Futur"
+      },
+      {
+        "slot": "t|Conditionnel|0",
+        "f": "tense",
+        "s": "Si j'avais plus d'argent, je ___ cette vieille demeure familiale.",
+        "a": "restaurerais",
+        "en": "If I had more money, I would restore this old family home.",
+        "alts": [],
+        "form": "Conditionnel"
+      },
+      {
+        "slot": "t|Conditionnel|0",
+        "f": "tense",
+        "s": "Si tu avais les compétences requises, tu ___ toi-même ces céramiques antiques.",
+        "a": "restaurerais",
+        "en": "If you had the required skills, you would restore these antique ceramics yourself.",
+        "alts": [],
+        "form": "Conditionnel"
+      },
+      {
+        "slot": "t|Conditionnel|1",
+        "f": "tense",
+        "s": "Si le musée avait les moyens, il ___ toutes ses sculptures endommagées.",
+        "a": "restaurerait",
+        "en": "If the museum had the means, it would restore all its damaged sculptures.",
+        "alts": [],
+        "form": "Conditionnel"
+      },
+      {
+        "slot": "t|Conditionnel|1",
+        "f": "tense",
+        "s": "Ce traitement médical ___ partiellement la vue du patient, selon le médecin.",
+        "a": "restaurerait",
+        "en": "This medical treatment would partially restore the patient's sight, according to the doctor.",
+        "alts": [],
+        "form": "Conditionnel"
+      },
+      {
+        "slot": "t|Conditionnel|2",
+        "f": "tense",
+        "s": "Avec plus de financement, nous ___ ce site archéologique bien plus vite.",
+        "a": "restaurerions",
+        "en": "With more funding, we would restore this archaeological site much faster.",
+        "alts": [],
+        "form": "Conditionnel"
+      },
+      {
+        "slot": "t|Conditionnel|2",
+        "f": "tense",
+        "s": "Si nous avions accès aux archives, nous ___ l'histoire de ce bâtiment.",
+        "a": "restaurerions",
+        "en": "If we had access to the archives, we would restore the history of this building.",
+        "alts": [],
+        "form": "Conditionnel"
+      },
+      {
+        "slot": "t|Conditionnel|3",
+        "f": "tense",
+        "s": "Si vous aviez davantage de personnel, vous ___ ce monument plus rapidement.",
+        "a": "restaureriez",
+        "en": "If you had more staff, you would restore this monument more quickly.",
+        "alts": [],
+        "form": "Conditionnel"
+      },
+      {
+        "slot": "t|Conditionnel|3",
+        "f": "tense",
+        "s": "Avec les bons matériaux, vous ___ ces vitraux sans difficulté.",
+        "a": "restaureriez",
+        "en": "With the right materials, you would restore these stained-glass windows without difficulty.",
+        "alts": [],
+        "form": "Conditionnel"
+      },
+      {
+        "slot": "t|Conditionnel|4",
+        "f": "tense",
+        "s": "Si ces artisans avaient le budget nécessaire, ils ___ toute la cathédrale.",
+        "a": "restaureraient",
+        "en": "If these craftsmen had the necessary budget, they would restore the entire cathedral.",
+        "alts": [],
+        "form": "Conditionnel"
+      },
+      {
+        "slot": "t|Conditionnel|4",
+        "f": "tense",
+        "s": "Ces experts ___ la paix sociale, si on leur en donnait l'occasion.",
+        "a": "restaureraient",
+        "en": "These experts would restore social peace, if given the opportunity.",
+        "alts": [],
+        "form": "Conditionnel"
+      },
+      {
+        "slot": "t|Subjonctif",
+        "f": "subj",
+        "s": "Il faut que tu ___ ce tableau avant l'exposition de la semaine prochaine.",
+        "a": "restaures",
+        "en": "You must restore this painting before next week's exhibition.",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "t|Subjonctif",
+        "f": "subj",
+        "s": "Je tiens à ce que nous ___ la façade avant les fêtes.",
+        "a": "restaurions",
+        "en": "I insist that we restore the facade before the holidays.",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "s|0",
+        "f": "sense",
+        "s": "Les ouvriers ont travaillé pendant six mois pour ___ les colonnes antiques du temple.",
+        "a": "restaurer",
+        "en": "The workers worked for six months to restore the ancient columns of the temple.",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "s|0",
+        "f": "sense",
+        "s": "Il a fallu des années pour ___ ce tableau de maître abîmé par l'humidité.",
+        "a": "restaurer",
+        "en": "It took years to restore this masterpiece damaged by humidity.",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "s|1",
+        "f": "sense",
+        "s": "Après la crise, le nouveau premier ministre a réussi à ___ la confiance des investisseurs.",
+        "a": "restaurer",
+        "en": "After the crisis, the new prime minister managed to restore investors' confidence.",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "s|1",
+        "f": "sense",
+        "s": "Ce séjour au bord de la mer a permis de ___ ses forces après une longue maladie.",
+        "a": "restaurer",
+        "en": "This stay by the sea allowed him to restore his strength after a long illness.",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "s|2",
+        "f": "sense",
+        "s": "L'auberge proposait de ___ les voyageurs avec une soupe chaude et du pain frais.",
+        "a": "restaurer",
+        "en": "The inn offered to feed travellers with hot soup and fresh bread.",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "s|2",
+        "f": "sense",
+        "s": "Le chef cuisinier s'est engagé à ___ les randonneurs épuisés à leur arrivée au refuge.",
+        "a": "restaurer",
+        "en": "The chef committed to feeding the exhausted hikers upon their arrival at the refuge.",
+        "alts": [],
+        "form": ""
+      }
+    ]
+  },
+  {
+    "id": 3327,
+    "qs": [
+      {
+        "slot": "s|0",
+        "f": "sense",
+        "s": "Il a déposé sa demande de visa à ___ de France à Pékin.",
+        "a": "l'ambassade",
+        "en": "He submitted his visa application at the French embassy in Beijing.",
+        "alts": []
+      },
+      {
+        "slot": "s|0",
+        "f": "sense",
+        "s": "Des manifestants se sont rassemblés devant ___ américaine hier soir.",
+        "a": "l'ambassade",
+        "en": "Protesters gathered in front of the American embassy last night.",
+        "alts": []
+      },
+      {
+        "slot": "s|1",
+        "f": "sense",
+        "s": "Toute ___ s'est mobilisée pour aider les ressortissants bloqués à l'étranger.",
+        "a": "l'ambassade",
+        "en": "The entire embassy staff mobilized to help nationals stranded abroad.",
+        "alts": []
+      },
+      {
+        "slot": "s|1",
+        "f": "sense",
+        "s": "___ au grand complet était réunie pour accueillir la délégation officielle.",
+        "a": "L'ambassade",
+        "en": "The entire embassy staff was gathered to welcome the official delegation.",
+        "alts": []
+      },
+      {
+        "slot": "gender",
+        "f": "gender",
+        "s": "Il faut contacter ___ ambassade de France dès que possible.",
+        "a": "l'",
+        "en": "You need to contact the French embassy as soon as possible.",
+        "alts": []
+      },
+      {
+        "slot": "gender",
+        "f": "gender",
+        "s": "Le gouvernement a décidé de construire ___ nouvelle ambassade dans ce quartier.",
+        "a": "une",
+        "en": "The government decided to build a new embassy in this district.",
+        "alts": []
+      }
+    ]
+  }
+]

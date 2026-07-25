@@ -1,0 +1,41 @@
+[
+  {
+    "id": 4529,
+    "qs": [
+      {"slot": "s|0", "f": "sense", "s": "Au XIXe siècle, il y avait des ___ dans tous les quartiers populaires de Paris.", "en": "In the 19th century, there were brothels in every working-class district of Paris.", "a": "bordels", "alts": [], "form": ""},
+      {"slot": "s|0", "f": "sense", "s": "La police a fermé ce ___ clandestin après une longue enquête.", "en": "The police shut down that clandestine brothel after a lengthy investigation.", "a": "bordel", "alts": [], "form": ""},
+      {"slot": "s|1", "f": "sense", "s": "Quel ___ dans cette pièce — il y a des vêtements partout !", "en": "What a mess in this room — there are clothes everywhere!", "a": "bordel", "alts": [], "form": ""},
+      {"slot": "s|1", "f": "sense", "s": "Après le déménagement, c'était le ___ total : personne ne savait où étaient les cartons.", "en": "After the move, it was total chaos: nobody knew where the boxes were.", "a": "bordel", "alts": [], "form": ""},
+      {"slot": "gender", "f": "gender", "s": "C'est ___ bordel complet ici, range tes affaires !", "en": "It's a complete mess here, put your things away!", "a": "un", "alts": [], "form": ""},
+      {"slot": "gender", "f": "gender", "s": "Au XVIIIe siècle, ___ bordel était une institution tolérée dans certaines villes.", "en": "In the 18th century, the brothel was a tolerated institution in certain towns.", "a": "le", "alts": [], "form": ""}
+    ]
+  },
+  {
+    "id": 4530,
+    "qs": [
+      {"slot": "s|0", "f": "sense", "s": "Le client tapait du pied, visiblement ___ d'attendre si longtemps.", "en": "The customer was tapping his foot, visibly impatient at having to wait so long.", "a": "impatient", "alts": []},
+      {"slot": "s|0", "f": "sense", "s": "Elle devenait ___ chaque fois que son mari rentrait en retard sans prévenir.", "en": "She would become impatient every time her husband came home late without warning.", "a": "impatiente", "alts": []},
+      {"slot": "s|1", "f": "sense", "s": "Les enfants étaient ___ de déballer leurs cadeaux de Noël.", "en": "The children were eager to unwrap their Christmas presents.", "a": "impatients", "alts": []},
+      {"slot": "s|1", "f": "sense", "s": "Elle est ___ de revoir ses amis après plusieurs mois de séparation.", "en": "She is eager to see her friends again after several months apart.", "a": "impatiente", "alts": []},
+      {"slot": "g|mp", "f": "agree", "s": "Les voyageurs ___ faisaient les cent pas dans le hall d'attente.", "en": "The impatient travelers were pacing back and forth in the waiting hall.", "a": "impatients", "alts": []},
+      {"slot": "g|mp", "f": "agree", "s": "Ces journalistes ___ voulaient tous interviewer la star en même temps.", "en": "These impatient journalists all wanted to interview the star at the same time.", "a": "impatients", "alts": []},
+      {"slot": "g|f", "f": "agree", "s": "Ma sœur, ___ par nature, n'aime pas faire la queue.", "en": "My sister, impatient by nature, doesn't like standing in line.", "a": "impatiente", "alts": []},
+      {"slot": "g|f", "f": "agree", "s": "La directrice ___ tapait des doigts sur le bureau pendant la réunion.", "en": "The impatient director was drumming her fingers on the desk during the meeting.", "a": "impatiente", "alts": []},
+      {"slot": "g|fp", "f": "agree", "s": "Les spectatrices ___ attendaient depuis des heures devant la salle de concert.", "en": "The impatient female spectators had been waiting for hours in front of the concert hall.", "a": "impatientes", "alts": []},
+      {"slot": "g|fp", "f": "agree", "s": "Ces deux élèves ___ levaient la main avant même que la professeure finisse de poser la question.", "en": "These two impatient female students raised their hands even before the teacher finished asking the question.", "a": "impatientes", "alts": []}
+    ]
+  },
+  {
+    "id": 4531,
+    "qs": [
+      {"slot": "s|0", "f": "sense", "s": "Le contrat prévoit un ___ échelonné sur douze mois.", "en": "The contract provides for a payment spread over twelve months.", "a": "versement", "alts": [], "form": ""},
+      {"slot": "s|0", "f": "sense", "s": "Veuillez effectuer votre ___ avant la date limite indiquée sur la facture.", "en": "Please make your payment before the deadline indicated on the invoice.", "a": "versement", "alts": ["paiement"], "form": ""},
+      {"slot": "s|1", "f": "sense", "s": "Le ___ des cotisations retraite est prélevé automatiquement chaque mois sur le salaire.", "en": "The payment of pension contributions is automatically deducted from the salary each month.", "a": "versement", "alts": ["paiement"], "form": ""},
+      {"slot": "s|1", "f": "sense", "s": "L'entreprise doit justifier chaque ___ effectué au titre des charges sociales.", "en": "The company must justify every payment made in respect of social charges.", "a": "versement", "alts": ["paiement"], "form": ""},
+      {"slot": "s|2", "f": "sense", "s": "Il envoie un ___ mensuel à sa famille restée dans son pays d'origine.", "en": "He sends a monthly remittance to his family who remained in his home country.", "a": "versement", "alts": ["virement"], "form": ""},
+      {"slot": "s|2", "f": "sense", "s": "Le ___ international de fonds peut prendre deux à cinq jours ouvrables selon les banques.", "en": "The international remittance of funds can take two to five business days depending on the banks.", "a": "versement", "alts": ["virement"], "form": ""},
+      {"slot": "gender", "f": "gender", "s": "Elle attend ___ versement de son client depuis plus d'une semaine.", "en": "She has been waiting for the payment from her client for more than a week.", "a": "le", "alts": ["un"], "form": ""},
+      {"slot": "gender", "f": "gender", "s": "Il a effectué ___ versement de cinq cents euros ce matin.", "en": "He made a payment of five hundred euros this morning.", "a": "un", "alts": [], "form": ""}
+    ]
+  }
+]

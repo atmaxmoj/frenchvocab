@@ -1,0 +1,619 @@
+[
+  {
+    "id": 6690,
+    "qs": [
+      {
+        "slot": "s|0",
+        "f": "sense",
+        "s": "Les passagers ont emprunté la ___ pour monter à bord du navire.",
+        "a": "passerelle",
+        "en": "The passengers used the gangway to board the ship.",
+        "alts": []
+      },
+      {
+        "slot": "s|0",
+        "f": "sense",
+        "s": "Pour traverser l'autoroute, les piétons utilisent une ___ métallique.",
+        "a": "passerelle",
+        "en": "To cross the highway, pedestrians use a metal footbridge.",
+        "alts": []
+      },
+      {
+        "slot": "s|1",
+        "f": "sense",
+        "s": "Ce logiciel sert de ___ entre les deux systèmes informatiques.",
+        "a": "passerelle",
+        "en": "This software serves as a gateway between the two computer systems.",
+        "alts": []
+      },
+      {
+        "slot": "s|1",
+        "f": "sense",
+        "s": "Cette formation propose une ___ entre les études de médecine et de pharmacie.",
+        "a": "passerelle",
+        "en": "This program offers a bridge between medical and pharmacy studies.",
+        "alts": []
+      },
+      {
+        "slot": "gender",
+        "f": "gender",
+        "s": "Il a construit ___ passerelle en bois au-dessus du ruisseau.",
+        "a": "une",
+        "en": "He built a wooden footbridge above the stream.",
+        "alts": []
+      },
+      {
+        "slot": "gender",
+        "f": "gender",
+        "s": "___ passerelle du navire était gardée par un marin.",
+        "a": "La",
+        "en": "The ship's gangway was guarded by a sailor.",
+        "alts": []
+      }
+    ]
+  },
+  {
+    "id": 6691,
+    "qs": [
+      {
+        "slot": "s|0",
+        "f": "sense",
+        "s": "Le vieil ___ au bout du chemin a été planté par mon arrière-grand-père.",
+        "a": "orme",
+        "en": "The old elm at the end of the path was planted by my great-grandfather.",
+        "alts": []
+      },
+      {
+        "slot": "s|0",
+        "f": "sense",
+        "s": "La maladie hollandaise de l'___ a détruit des milliers d'arbres en Europe.",
+        "a": "orme",
+        "en": "Dutch elm disease destroyed thousands of trees in Europe.",
+        "alts": []
+      },
+      {
+        "slot": "gender",
+        "f": "gender",
+        "s": "Au fond du parc pousse ___ orme majestueux qui a plus de cent ans.",
+        "a": "un",
+        "en": "At the back of the park grows a majestic elm that is more than a hundred years old.",
+        "alts": []
+      },
+      {
+        "slot": "gender",
+        "f": "gender",
+        "s": "Mon grand-père a planté ___ orme dans son jardin il y a vingt ans.",
+        "a": "un",
+        "en": "My grandfather planted an elm in his garden twenty years ago.",
+        "alts": []
+      }
+    ]
+  },
+  {
+    "id": 6692,
+    "qs": [
+      {
+        "slot": "t|Présent|0",
+        "f": "tense",
+        "form": "Présent",
+        "s": "Cette tradition ___ depuis des générations.",
+        "a": "perdure",
+        "en": "This tradition endures for generations.",
+        "alts": []
+      },
+      {
+        "slot": "t|Présent|0",
+        "f": "tense",
+        "form": "Présent",
+        "s": "Envers et contre tout, je ___ .",
+        "a": "perdure",
+        "en": "Against all odds, I endure.",
+        "alts": []
+      },
+      {
+        "slot": "t|Présent|1",
+        "f": "tense",
+        "form": "Présent",
+        "s": "Tu ___ malgré tous les obstacles.",
+        "a": "perdures",
+        "en": "You persist despite all the obstacles.",
+        "alts": []
+      },
+      {
+        "slot": "t|Présent|1",
+        "f": "tense",
+        "form": "Présent",
+        "s": "Peu importe les difficultés, tu ___ toujours.",
+        "a": "perdures",
+        "en": "No matter the difficulties, you always persist.",
+        "alts": []
+      },
+      {
+        "slot": "t|Présent|2",
+        "f": "tense",
+        "form": "Présent",
+        "s": "Nous ___ dans nos efforts malgré les échecs.",
+        "a": "perdurons",
+        "en": "We persist in our efforts despite the failures.",
+        "alts": []
+      },
+      {
+        "slot": "t|Présent|2",
+        "f": "tense",
+        "form": "Présent",
+        "s": "Envers et contre tout, nous ___ .",
+        "a": "perdurons",
+        "en": "Against all odds, we endure.",
+        "alts": []
+      },
+      {
+        "slot": "t|Présent|3",
+        "f": "tense",
+        "form": "Présent",
+        "s": "Vous ___ dans cette voie depuis longtemps.",
+        "a": "perdurez",
+        "en": "You have been persisting in this path for a long time.",
+        "alts": []
+      },
+      {
+        "slot": "t|Présent|3",
+        "f": "tense",
+        "form": "Présent",
+        "s": "Malgré la crise, vous ___ .",
+        "a": "perdurez",
+        "en": "Despite the crisis, you endure.",
+        "alts": []
+      },
+      {
+        "slot": "t|Présent|4",
+        "f": "tense",
+        "form": "Présent",
+        "s": "Ces traditions ___ malgré la modernité.",
+        "a": "perdurent",
+        "en": "These traditions endure despite modernity.",
+        "alts": []
+      },
+      {
+        "slot": "t|Présent|4",
+        "f": "tense",
+        "form": "Présent",
+        "s": "Leurs rivalités ___ depuis des décennies.",
+        "a": "perdurent",
+        "en": "Their rivalries have persisted for decades.",
+        "alts": []
+      },
+      {
+        "slot": "t|Passé composé|0",
+        "f": "tense",
+        "form": "Passé composé",
+        "s": "Malgré tous les obstacles, j'___ jusqu'au bout.",
+        "a": "ai perduré",
+        "en": "Despite all the obstacles, I endured to the end.",
+        "alts": []
+      },
+      {
+        "slot": "t|Passé composé|0",
+        "f": "tense",
+        "form": "Passé composé",
+        "s": "Cette année, j'___ envers et contre tout.",
+        "a": "ai perduré",
+        "en": "This year, I persisted against all odds.",
+        "alts": []
+      },
+      {
+        "slot": "t|Passé composé|1",
+        "f": "tense",
+        "form": "Passé composé",
+        "s": "Tu ___ malgré la maladie.",
+        "a": "as perduré",
+        "en": "You endured despite the illness.",
+        "alts": []
+      },
+      {
+        "slot": "t|Passé composé|1",
+        "f": "tense",
+        "form": "Passé composé",
+        "s": "Face à l'adversité, tu ___ .",
+        "a": "as perduré",
+        "en": "In the face of adversity, you persisted.",
+        "alts": []
+      },
+      {
+        "slot": "t|Passé composé|2",
+        "f": "tense",
+        "form": "Passé composé",
+        "s": "Cette coutume ___ pendant des siècles avant de disparaître.",
+        "a": "a perduré",
+        "en": "This custom endured for centuries before disappearing.",
+        "alts": []
+      },
+      {
+        "slot": "t|Passé composé|2",
+        "f": "tense",
+        "form": "Passé composé",
+        "s": "Le conflit ___ plus longtemps que prévu.",
+        "a": "a perduré",
+        "en": "The conflict lasted longer than expected.",
+        "alts": []
+      },
+      {
+        "slot": "t|Passé composé|3",
+        "f": "tense",
+        "form": "Passé composé",
+        "s": "Nous ___ malgré toutes les difficultés.",
+        "a": "avons perduré",
+        "en": "We endured despite all the difficulties.",
+        "alts": []
+      },
+      {
+        "slot": "t|Passé composé|3",
+        "f": "tense",
+        "form": "Passé composé",
+        "s": "Envers et contre tout, nous ___ jusqu'à la victoire.",
+        "a": "avons perduré",
+        "en": "Against all odds, we persisted until victory.",
+        "alts": []
+      },
+      {
+        "slot": "t|Passé composé|4",
+        "f": "tense",
+        "form": "Passé composé",
+        "s": "Vous ___ malgré la tempête.",
+        "a": "avez perduré",
+        "en": "You endured despite the storm.",
+        "alts": []
+      },
+      {
+        "slot": "t|Passé composé|4",
+        "f": "tense",
+        "form": "Passé composé",
+        "s": "Vous ___ dans cette entreprise pendant dix ans avant de la revendre.",
+        "a": "avez perduré",
+        "en": "You persisted in this business for ten years before selling it.",
+        "alts": []
+      },
+      {
+        "slot": "t|Passé composé|5",
+        "f": "tense",
+        "form": "Passé composé",
+        "s": "Ces traditions ___ jusqu'à la révolution.",
+        "a": "ont perduré",
+        "en": "These traditions endured until the revolution.",
+        "alts": []
+      },
+      {
+        "slot": "t|Passé composé|5",
+        "f": "tense",
+        "form": "Passé composé",
+        "s": "Leurs liens d'amitié ___ malgré la distance.",
+        "a": "ont perduré",
+        "en": "Their bonds of friendship endured despite the distance.",
+        "alts": []
+      },
+      {
+        "slot": "t|Imparfait|0",
+        "f": "tense",
+        "form": "Imparfait",
+        "s": "À cette époque, je ___ malgré les critiques.",
+        "a": "perdurais",
+        "en": "At that time, I was enduring despite the criticism.",
+        "alts": []
+      },
+      {
+        "slot": "t|Imparfait|0",
+        "f": "tense",
+        "form": "Imparfait",
+        "s": "Quand tu étais jeune, tu ___ dans tes convictions.",
+        "a": "perdurais",
+        "en": "When you were young, you persisted in your convictions.",
+        "alts": []
+      },
+      {
+        "slot": "t|Imparfait|1",
+        "f": "tense",
+        "form": "Imparfait",
+        "s": "Cette tradition ___ encore au siècle dernier.",
+        "a": "perdurait",
+        "en": "This tradition still endured last century.",
+        "alts": []
+      },
+      {
+        "slot": "t|Imparfait|1",
+        "f": "tense",
+        "form": "Imparfait",
+        "s": "Le conflit ___ depuis des années quand la paix a été signée.",
+        "a": "perdurait",
+        "en": "The conflict had been going on for years when peace was signed.",
+        "alts": []
+      },
+      {
+        "slot": "t|Imparfait|2",
+        "f": "tense",
+        "form": "Imparfait",
+        "s": "À l'époque, nous ___ malgré les échecs répétés.",
+        "a": "perdurions",
+        "en": "At the time, we persisted despite repeated failures.",
+        "alts": []
+      },
+      {
+        "slot": "t|Imparfait|2",
+        "f": "tense",
+        "form": "Imparfait",
+        "s": "Nous ___ dans nos habitudes avant ce changement.",
+        "a": "perdurions",
+        "en": "We persisted in our habits before this change.",
+        "alts": []
+      },
+      {
+        "slot": "t|Imparfait|3",
+        "f": "tense",
+        "form": "Imparfait",
+        "s": "Vous ___ dans vos efforts malgré le découragement.",
+        "a": "perduriez",
+        "en": "You persisted in your efforts despite discouragement.",
+        "alts": []
+      },
+      {
+        "slot": "t|Imparfait|3",
+        "f": "tense",
+        "form": "Imparfait",
+        "s": "Avant la réforme, vous ___ dans cette pratique ancienne.",
+        "a": "perduriez",
+        "en": "Before the reform, you persisted in this old practice.",
+        "alts": []
+      },
+      {
+        "slot": "t|Imparfait|4",
+        "f": "tense",
+        "form": "Imparfait",
+        "s": "Ces coutumes ___ malgré les interdictions.",
+        "a": "perduraient",
+        "en": "These customs persisted despite the bans.",
+        "alts": []
+      },
+      {
+        "slot": "t|Imparfait|4",
+        "f": "tense",
+        "form": "Imparfait",
+        "s": "Leurs disputes ___ depuis des mois quand ils se sont enfin réconciliés.",
+        "a": "perduraient",
+        "en": "Their disputes had been going on for months when they finally reconciled.",
+        "alts": []
+      },
+      {
+        "slot": "t|Futur|0",
+        "f": "tense",
+        "form": "Futur",
+        "s": "Quoi qu'il arrive, je ___ .",
+        "a": "perdurerai",
+        "en": "Whatever happens, I will endure.",
+        "alts": []
+      },
+      {
+        "slot": "t|Futur|0",
+        "f": "tense",
+        "form": "Futur",
+        "s": "Je ___ dans mon combat, envers et contre tout.",
+        "a": "perdurerai",
+        "en": "I will persist in my fight, against all odds.",
+        "alts": []
+      },
+      {
+        "slot": "t|Futur|1",
+        "f": "tense",
+        "form": "Futur",
+        "s": "Tu ___ malgré les obstacles à venir.",
+        "a": "perdureras",
+        "en": "You will endure despite the obstacles to come.",
+        "alts": []
+      },
+      {
+        "slot": "t|Futur|1",
+        "f": "tense",
+        "form": "Futur",
+        "s": "Peu importe les épreuves, tu ___ .",
+        "a": "perdureras",
+        "en": "No matter the trials, you will persist.",
+        "alts": []
+      },
+      {
+        "slot": "t|Futur|2",
+        "f": "tense",
+        "form": "Futur",
+        "s": "Cette tradition ___ encore longtemps.",
+        "a": "perdurera",
+        "en": "This tradition will endure for a long time yet.",
+        "alts": []
+      },
+      {
+        "slot": "t|Futur|2",
+        "f": "tense",
+        "form": "Futur",
+        "s": "Leur amitié ___ malgré la distance.",
+        "a": "perdurera",
+        "en": "Their friendship will endure despite the distance.",
+        "alts": []
+      },
+      {
+        "slot": "t|Futur|3",
+        "f": "tense",
+        "form": "Futur",
+        "s": "Nous ___ dans nos convictions malgré les critiques.",
+        "a": "perdurerons",
+        "en": "We will persist in our convictions despite criticism.",
+        "alts": []
+      },
+      {
+        "slot": "t|Futur|3",
+        "f": "tense",
+        "form": "Futur",
+        "s": "Quoi qu'il arrive, nous ___ .",
+        "a": "perdurerons",
+        "en": "Whatever happens, we will endure.",
+        "alts": []
+      },
+      {
+        "slot": "t|Futur|4",
+        "f": "tense",
+        "form": "Futur",
+        "s": "Vous ___ dans cette voie si vous restez déterminés.",
+        "a": "perdurerez",
+        "en": "You will persist in this path if you remain determined.",
+        "alts": []
+      },
+      {
+        "slot": "t|Futur|4",
+        "f": "tense",
+        "form": "Futur",
+        "s": "Malgré les difficultés, vous ___ .",
+        "a": "perdurerez",
+        "en": "Despite the difficulties, you will endure.",
+        "alts": []
+      },
+      {
+        "slot": "t|Futur|5",
+        "f": "tense",
+        "form": "Futur",
+        "s": "Ces traditions ___ pendant encore des siècles.",
+        "a": "perdureront",
+        "en": "These traditions will endure for centuries more.",
+        "alts": []
+      },
+      {
+        "slot": "t|Futur|5",
+        "f": "tense",
+        "form": "Futur",
+        "s": "Leurs souvenirs ___ dans nos mémoires.",
+        "a": "perdureront",
+        "en": "Their memories will endure in our minds.",
+        "alts": []
+      },
+      {
+        "slot": "t|Conditionnel|0",
+        "f": "tense",
+        "form": "Conditionnel",
+        "s": "Si j'avais plus de patience, je ___ dans ce projet.",
+        "a": "perdurerais",
+        "en": "If I had more patience, I would persist in this project.",
+        "alts": []
+      },
+      {
+        "slot": "t|Conditionnel|0",
+        "f": "tense",
+        "form": "Conditionnel",
+        "s": "Si tu avais confiance en toi, tu ___ malgré les échecs.",
+        "a": "perdurerais",
+        "en": "If you had confidence in yourself, you would persist despite failures.",
+        "alts": []
+      },
+      {
+        "slot": "t|Conditionnel|1",
+        "f": "tense",
+        "form": "Conditionnel",
+        "s": "Si personne n'intervenait, ce conflit ___ indéfiniment.",
+        "a": "perdurerait",
+        "en": "If no one intervened, this conflict would go on indefinitely.",
+        "alts": []
+      },
+      {
+        "slot": "t|Conditionnel|1",
+        "f": "tense",
+        "form": "Conditionnel",
+        "s": "Si on la préservait, cette tradition ___ encore longtemps.",
+        "a": "perdurerait",
+        "en": "If it were preserved, this tradition would endure for a long time yet.",
+        "alts": []
+      },
+      {
+        "slot": "t|Conditionnel|2",
+        "f": "tense",
+        "form": "Conditionnel",
+        "s": "Si nous avions plus de moyens, nous ___ dans ce combat.",
+        "a": "perdurerions",
+        "en": "If we had more resources, we would persist in this fight.",
+        "alts": []
+      },
+      {
+        "slot": "t|Conditionnel|2",
+        "f": "tense",
+        "form": "Conditionnel",
+        "s": "Si nous étions plus patients, nous ___ malgré les obstacles.",
+        "a": "perdurerions",
+        "en": "If we were more patient, we would persist despite the obstacles.",
+        "alts": []
+      },
+      {
+        "slot": "t|Conditionnel|3",
+        "f": "tense",
+        "form": "Conditionnel",
+        "s": "Si vous aviez plus de détermination, vous ___ dans cette entreprise.",
+        "a": "perdureriez",
+        "en": "If you had more determination, you would persist in this venture.",
+        "alts": []
+      },
+      {
+        "slot": "t|Conditionnel|3",
+        "f": "tense",
+        "form": "Conditionnel",
+        "s": "Si vous restiez unis, vous ___ malgré les épreuves.",
+        "a": "perdureriez",
+        "en": "If you stayed united, you would endure despite the trials.",
+        "alts": []
+      },
+      {
+        "slot": "t|Conditionnel|4",
+        "f": "tense",
+        "form": "Conditionnel",
+        "s": "Si on les protégeait, ces traditions ___ encore des siècles.",
+        "a": "perdureraient",
+        "en": "If they were protected, these traditions would endure for centuries more.",
+        "alts": []
+      },
+      {
+        "slot": "t|Conditionnel|4",
+        "f": "tense",
+        "form": "Conditionnel",
+        "s": "Sans compromis, leurs conflits ___ indéfiniment.",
+        "a": "perdureraient",
+        "en": "Without compromise, their conflicts would go on indefinitely.",
+        "alts": []
+      },
+      {
+        "slot": "t|Subjonctif",
+        "f": "subj",
+        "form": "Subjonctif",
+        "s": "Il faut que cette tradition ___ pour les générations futures.",
+        "a": "perdure",
+        "en": "This tradition must endure for future generations.",
+        "alts": []
+      },
+      {
+        "slot": "t|Subjonctif",
+        "f": "subj",
+        "form": "Subjonctif",
+        "s": "Je souhaite que ces valeurs ___ envers et contre tout.",
+        "a": "perdurent",
+        "en": "I wish that these values would endure no matter what.",
+        "alts": []
+      },
+      {
+        "slot": "s|0",
+        "f": "sense",
+        "form": "",
+        "s": "Grâce à cet accord, la paix va ___ .",
+        "a": "perdurer",
+        "en": "Thanks to this agreement, peace will endure.",
+        "alts": []
+      },
+      {
+        "slot": "s|0",
+        "f": "sense",
+        "form": "",
+        "s": "Personne ne pensait que cette entreprise allait ___ aussi longtemps.",
+        "a": "perdurer",
+        "en": "No one thought this business would endure so long.",
+        "alts": []
+      }
+    ]
+  }
+]

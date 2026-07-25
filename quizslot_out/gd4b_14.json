@@ -1,0 +1,755 @@
+[
+  {
+    "id": 393,
+    "qs": [
+      {
+        "slot": "s|0",
+        "f": "sense",
+        "s": "Elle a épousé un homme ___ et très intelligent.",
+        "en": "She married a handsome and very intelligent man.",
+        "a": "beau",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "s|0",
+        "f": "sense",
+        "s": "Cet acteur est vraiment ___ ; toutes les filles l'admirent.",
+        "en": "This actor is truly handsome; all the girls admire him.",
+        "a": "beau",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "s|1",
+        "f": "sense",
+        "s": "Il fait un temps ___ aujourd'hui ; allons nous promener au parc.",
+        "en": "The weather is fine today; let's go for a walk in the park.",
+        "a": "beau",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "s|1",
+        "f": "sense",
+        "s": "Nous avons admiré un ___ paysage depuis le sommet de la montagne.",
+        "en": "We admired a beautiful landscape from the top of the mountain.",
+        "a": "beau",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "s|2",
+        "f": "sense",
+        "s": "Il a fait un ___ effort pour terminer ce projet difficile à temps.",
+        "en": "He made a considerable effort to finish this difficult project on time.",
+        "a": "bel",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "s|2",
+        "f": "sense",
+        "s": "Il y avait un ___ nombre de participants à la conférence internationale.",
+        "en": "There was a considerable number of participants at the international conference.",
+        "a": "beau",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "gender",
+        "f": "gender",
+        "s": "C'est ___ beau château du XVIIe siècle.",
+        "en": "It is a fine seventeenth-century château.",
+        "a": "un",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "gender",
+        "f": "gender",
+        "s": "J'aime contempler ___ beau coucher de soleil depuis ma fenêtre.",
+        "en": "I like to contemplate the beautiful sunset from my window.",
+        "a": "le",
+        "alts": [],
+        "form": ""
+      }
+    ]
+  },
+  {
+    "id": 394,
+    "qs": [
+      {
+        "slot": "s|0",
+        "f": "sense",
+        "s": "Le bus est ___ ce matin, je ne trouve pas de place assise.",
+        "en": "The bus is full this morning, I can't find a seat.",
+        "a": "plein",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "s|0",
+        "f": "sense",
+        "s": "Mon verre est ___, merci, je n'en veux plus.",
+        "en": "My glass is full, thank you, I don't want any more.",
+        "a": "plein",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "s|1",
+        "f": "sense",
+        "s": "Il nous a regardés avec des yeux ___ de larmes.",
+        "en": "He looked at us with eyes full of tears.",
+        "a": "pleins",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "s|1",
+        "f": "sense",
+        "s": "Elle est revenue de ce voyage ___ d'énergie et d'enthousiasme.",
+        "en": "She came back from this trip full of energy and enthusiasm.",
+        "a": "pleine",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "s|2",
+        "f": "sense",
+        "s": "Les négociations se déroulent en ___ accord entre les deux parties.",
+        "en": "The negotiations are taking place in complete agreement between the two parties.",
+        "a": "plein",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "s|2",
+        "f": "sense",
+        "s": "L'accident s'est produit en ___ jour, devant de nombreux témoins.",
+        "en": "The accident happened in broad daylight, in front of many witnesses.",
+        "a": "plein",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "g|mp",
+        "f": "agree",
+        "s": "Ses tiroirs sont ___ de vieux papiers inutiles.",
+        "en": "His drawers are full of old useless papers.",
+        "a": "pleins",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "g|mp",
+        "f": "agree",
+        "s": "Les marchés du quartier sont ___ de fruits et de légumes frais.",
+        "en": "The neighborhood markets are full of fresh fruits and vegetables.",
+        "a": "pleins",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "g|f",
+        "f": "agree",
+        "s": "La salle de conférence est ___ à craquer.",
+        "en": "The conference room is absolutely packed.",
+        "a": "pleine",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "g|f",
+        "f": "agree",
+        "s": "La bouteille est encore ___, on peut la partager.",
+        "en": "The bottle is still full, we can share it.",
+        "a": "pleine",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "g|fp",
+        "f": "agree",
+        "s": "Ses poches étaient ___ de cailloux qu'il avait ramassés sur la plage.",
+        "en": "His pockets were full of pebbles he had picked up on the beach.",
+        "a": "pleines",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "g|fp",
+        "f": "agree",
+        "s": "Les rues de la ville étaient ___ de touristes pendant les vacances.",
+        "en": "The city streets were full of tourists during the holidays.",
+        "a": "pleines",
+        "alts": [],
+        "form": ""
+      }
+    ]
+  },
+  {
+    "id": 395,
+    "qs": [
+      {
+        "slot": "t|Présent|0",
+        "f": "tense",
+        "s": "Je ___ son comportement inacceptable dans cette situation.",
+        "en": "I judge his behavior unacceptable in this situation.",
+        "a": "juge",
+        "alts": [],
+        "form": "Présent"
+      },
+      {
+        "slot": "t|Présent|0",
+        "f": "tense",
+        "s": "Je ___ qu'il a raison sur ce point.",
+        "en": "I judge that he is right on this point.",
+        "a": "juge",
+        "alts": [],
+        "form": "Présent"
+      },
+      {
+        "slot": "t|Présent|1",
+        "f": "tense",
+        "s": "Tu ___ les autres trop vite.",
+        "en": "You judge others too quickly.",
+        "a": "juges",
+        "alts": [],
+        "form": "Présent"
+      },
+      {
+        "slot": "t|Présent|1",
+        "f": "tense",
+        "s": "Est-ce que tu ___ ce tableau beau ?",
+        "en": "Do you judge this painting beautiful?",
+        "a": "juges",
+        "alts": [],
+        "form": "Présent"
+      },
+      {
+        "slot": "t|Présent|2",
+        "f": "tense",
+        "s": "Nous ___ la situation très grave.",
+        "en": "We judge the situation very serious.",
+        "a": "jugeons",
+        "alts": [],
+        "form": "Présent"
+      },
+      {
+        "slot": "t|Présent|2",
+        "f": "tense",
+        "s": "Nous ne ___ pas les gens sur leur apparence.",
+        "en": "We do not judge people on their appearance.",
+        "a": "jugeons",
+        "alts": [],
+        "form": "Présent"
+      },
+      {
+        "slot": "t|Présent|3",
+        "f": "tense",
+        "s": "Comment ___ vous cette décision ?",
+        "en": "How do you judge this decision?",
+        "a": "jugez",
+        "alts": [],
+        "form": "Présent"
+      },
+      {
+        "slot": "t|Présent|3",
+        "f": "tense",
+        "s": "Vous ___ le travail de vos employés chaque mois.",
+        "en": "You judge your employees' work every month.",
+        "a": "jugez",
+        "alts": [],
+        "form": "Présent"
+      },
+      {
+        "slot": "t|Présent|4",
+        "f": "tense",
+        "s": "Les jurés ___ l'accusé sur la base des preuves.",
+        "en": "The jurors judge the accused based on the evidence.",
+        "a": "jugent",
+        "alts": [],
+        "form": "Présent"
+      },
+      {
+        "slot": "t|Présent|4",
+        "f": "tense",
+        "s": "Ils ___ souvent sans connaître toute la vérité.",
+        "en": "They often judge without knowing the whole truth.",
+        "a": "jugent",
+        "alts": [],
+        "form": "Présent"
+      },
+      {
+        "slot": "t|Passé composé|0",
+        "f": "tense",
+        "s": "J'___ que c'était la bonne décision à prendre.",
+        "en": "I judged that it was the right decision to make.",
+        "a": "ai jugé",
+        "alts": [],
+        "form": "Passé composé"
+      },
+      {
+        "slot": "t|Passé composé|0",
+        "f": "tense",
+        "s": "J'___ ce roman excellent après l'avoir lu.",
+        "en": "I judged this novel excellent after reading it.",
+        "a": "ai jugé",
+        "alts": [],
+        "form": "Passé composé"
+      },
+      {
+        "slot": "t|Passé composé|1",
+        "f": "tense",
+        "s": "Tu ___ la situation trop vite sans réfléchir.",
+        "en": "You judged the situation too quickly without thinking.",
+        "a": "as jugé",
+        "alts": [],
+        "form": "Passé composé"
+      },
+      {
+        "slot": "t|Passé composé|1",
+        "f": "tense",
+        "s": "Est-ce que tu ___ utile d'intervenir ?",
+        "en": "Did you judge it useful to intervene?",
+        "a": "as jugé",
+        "alts": [],
+        "form": "Passé composé"
+      },
+      {
+        "slot": "t|Passé composé|2",
+        "f": "tense",
+        "s": "Le juge ___ l'affaire en moins d'une heure.",
+        "en": "The judge judged the case in less than an hour.",
+        "a": "a jugé",
+        "alts": [],
+        "form": "Passé composé"
+      },
+      {
+        "slot": "t|Passé composé|2",
+        "f": "tense",
+        "s": "Elle ___ nécessaire de contacter la police.",
+        "en": "She judged it necessary to contact the police.",
+        "a": "a jugé",
+        "alts": [],
+        "form": "Passé composé"
+      },
+      {
+        "slot": "t|Passé composé|3",
+        "f": "tense",
+        "s": "Nous ___ préférable de partir plus tôt.",
+        "en": "We judged it preferable to leave earlier.",
+        "a": "avons jugé",
+        "alts": [],
+        "form": "Passé composé"
+      },
+      {
+        "slot": "t|Passé composé|3",
+        "f": "tense",
+        "s": "Nous ___ l'accusé coupable après délibération.",
+        "en": "We judged the accused guilty after deliberation.",
+        "a": "avons jugé",
+        "alts": [],
+        "form": "Passé composé"
+      },
+      {
+        "slot": "t|Passé composé|4",
+        "f": "tense",
+        "s": "Vous ___ que ma proposition était irréaliste.",
+        "en": "You judged that my proposal was unrealistic.",
+        "a": "avez jugé",
+        "alts": [],
+        "form": "Passé composé"
+      },
+      {
+        "slot": "t|Passé composé|4",
+        "f": "tense",
+        "s": "Vous ___ bon de reporter la réunion.",
+        "en": "You judged it right to postpone the meeting.",
+        "a": "avez jugé",
+        "alts": [],
+        "form": "Passé composé"
+      },
+      {
+        "slot": "t|Passé composé|5",
+        "f": "tense",
+        "s": "Les experts ___ le bâtiment dangereux après l'inspection.",
+        "en": "The experts judged the building dangerous after the inspection.",
+        "a": "ont jugé",
+        "alts": [],
+        "form": "Passé composé"
+      },
+      {
+        "slot": "t|Passé composé|5",
+        "f": "tense",
+        "s": "Ils ___ inutile de poursuivre les négociations.",
+        "en": "They judged it useless to continue the negotiations.",
+        "a": "ont jugé",
+        "alts": [],
+        "form": "Passé composé"
+      },
+      {
+        "slot": "t|Imparfait|0",
+        "f": "tense",
+        "s": "Quand j'étais enfant, je ___ tout le monde trop sévèrement.",
+        "en": "When I was a child, I used to judge everyone too harshly.",
+        "a": "jugeais",
+        "alts": [],
+        "form": "Imparfait"
+      },
+      {
+        "slot": "t|Imparfait|0",
+        "f": "tense",
+        "s": "Tu ___ cette idée ridicule à l'époque.",
+        "en": "You used to judge this idea ridiculous at the time.",
+        "a": "jugeais",
+        "alts": [],
+        "form": "Imparfait"
+      },
+      {
+        "slot": "t|Imparfait|1",
+        "f": "tense",
+        "s": "Le professeur ___ les élèves selon leurs efforts.",
+        "en": "The teacher used to judge students according to their efforts.",
+        "a": "jugeait",
+        "alts": [],
+        "form": "Imparfait"
+      },
+      {
+        "slot": "t|Imparfait|1",
+        "f": "tense",
+        "s": "Elle ___ toujours la situation avec objectivité.",
+        "en": "She always judged the situation with objectivity.",
+        "a": "jugeait",
+        "alts": [],
+        "form": "Imparfait"
+      },
+      {
+        "slot": "t|Imparfait|2",
+        "f": "tense",
+        "s": "Nous ___ que ce projet méritait notre soutien.",
+        "en": "We used to judge that this project deserved our support.",
+        "a": "jugions",
+        "alts": [],
+        "form": "Imparfait"
+      },
+      {
+        "slot": "t|Imparfait|2",
+        "f": "tense",
+        "s": "Nous ___ indispensable de vérifier chaque détail.",
+        "en": "We used to judge it essential to check every detail.",
+        "a": "jugions",
+        "alts": [],
+        "form": "Imparfait"
+      },
+      {
+        "slot": "t|Imparfait|3",
+        "f": "tense",
+        "s": "Vous ___ sévèrement les candidats lors des entretiens.",
+        "en": "You used to judge candidates harshly during interviews.",
+        "a": "jugiez",
+        "alts": [],
+        "form": "Imparfait"
+      },
+      {
+        "slot": "t|Imparfait|3",
+        "f": "tense",
+        "s": "Vous ___ ce comportement inacceptable à l'époque.",
+        "en": "You used to judge this behavior unacceptable at the time.",
+        "a": "jugiez",
+        "alts": [],
+        "form": "Imparfait"
+      },
+      {
+        "slot": "t|Imparfait|4",
+        "f": "tense",
+        "s": "Les critiques ___ ce film médiocre à sa sortie.",
+        "en": "The critics used to judge this film mediocre upon its release.",
+        "a": "jugeaient",
+        "alts": [],
+        "form": "Imparfait"
+      },
+      {
+        "slot": "t|Imparfait|4",
+        "f": "tense",
+        "s": "Ils ___ chaque œuvre d'après des critères très stricts.",
+        "en": "They used to judge each work according to very strict criteria.",
+        "a": "jugeaient",
+        "alts": [],
+        "form": "Imparfait"
+      },
+      {
+        "slot": "t|Futur|0",
+        "f": "tense",
+        "s": "Je ___ cette proposition après avoir examiné tous les faits.",
+        "en": "I will judge this proposal after examining all the facts.",
+        "a": "jugerai",
+        "alts": [],
+        "form": "Futur"
+      },
+      {
+        "slot": "t|Futur|0",
+        "f": "tense",
+        "s": "Je ___ moi-même si c'est la bonne solution.",
+        "en": "I will judge myself whether it is the right solution.",
+        "a": "jugerai",
+        "alts": [],
+        "form": "Futur"
+      },
+      {
+        "slot": "t|Futur|1",
+        "f": "tense",
+        "s": "Tu ___ le travail de tes collègues à la fin du projet.",
+        "en": "You will judge your colleagues' work at the end of the project.",
+        "a": "jugeras",
+        "alts": [],
+        "form": "Futur"
+      },
+      {
+        "slot": "t|Futur|1",
+        "f": "tense",
+        "s": "Tu ___ par toi-même si notre méthode est efficace.",
+        "en": "You will judge for yourself whether our method is effective.",
+        "a": "jugeras",
+        "alts": [],
+        "form": "Futur"
+      },
+      {
+        "slot": "t|Futur|2",
+        "f": "tense",
+        "s": "Le jury ___ les candidats demain matin.",
+        "en": "The jury will judge the candidates tomorrow morning.",
+        "a": "jugera",
+        "alts": [],
+        "form": "Futur"
+      },
+      {
+        "slot": "t|Futur|2",
+        "f": "tense",
+        "s": "On ___ l'arbre à ses fruits.",
+        "en": "One will judge the tree by its fruits.",
+        "a": "jugera",
+        "alts": [],
+        "form": "Futur"
+      },
+      {
+        "slot": "t|Futur|3",
+        "f": "tense",
+        "s": "Nous ___ la qualité de ce travail à la fin du mois.",
+        "en": "We will judge the quality of this work at the end of the month.",
+        "a": "jugerons",
+        "alts": [],
+        "form": "Futur"
+      },
+      {
+        "slot": "t|Futur|3",
+        "f": "tense",
+        "s": "Nous ___ l'affaire selon les lois en vigueur.",
+        "en": "We will judge the case according to the laws in force.",
+        "a": "jugerons",
+        "alts": [],
+        "form": "Futur"
+      },
+      {
+        "slot": "t|Futur|4",
+        "f": "tense",
+        "s": "Vous ___ l'efficacité de ce nouveau système dans six mois.",
+        "en": "You will judge the effectiveness of this new system in six months.",
+        "a": "jugerez",
+        "alts": [],
+        "form": "Futur"
+      },
+      {
+        "slot": "t|Futur|4",
+        "f": "tense",
+        "s": "Vous ___ par vous-mêmes de la beauté de ce paysage.",
+        "en": "You will judge for yourselves the beauty of this landscape.",
+        "a": "jugerez",
+        "alts": [],
+        "form": "Futur"
+      },
+      {
+        "slot": "t|Futur|5",
+        "f": "tense",
+        "s": "Les historiens ___ cette période avec davantage de recul.",
+        "en": "Historians will judge this period with more hindsight.",
+        "a": "jugeront",
+        "alts": [],
+        "form": "Futur"
+      },
+      {
+        "slot": "t|Futur|5",
+        "f": "tense",
+        "s": "Les juges ___ l'affaire la semaine prochaine.",
+        "en": "The judges will judge the case next week.",
+        "a": "jugeront",
+        "alts": [],
+        "form": "Futur"
+      },
+      {
+        "slot": "t|Conditionnel|0",
+        "f": "tense",
+        "s": "Si tu me demandais mon avis, je ___ cette décision prématurée.",
+        "en": "If you asked my opinion, I would judge this decision premature.",
+        "a": "jugerais",
+        "alts": [],
+        "form": "Conditionnel"
+      },
+      {
+        "slot": "t|Conditionnel|0",
+        "f": "tense",
+        "s": "Si tu étais à ma place, tu ___ toi-même la situation.",
+        "en": "If you were in my place, you would judge the situation yourself.",
+        "a": "jugerais",
+        "alts": [],
+        "form": "Conditionnel"
+      },
+      {
+        "slot": "t|Conditionnel|1",
+        "f": "tense",
+        "s": "Si elle avait plus d'informations, elle ___ différemment.",
+        "en": "If she had more information, she would judge differently.",
+        "a": "jugerait",
+        "alts": [],
+        "form": "Conditionnel"
+      },
+      {
+        "slot": "t|Conditionnel|1",
+        "f": "tense",
+        "s": "Il ___ plus objectivement s'il ne connaissait pas les parties.",
+        "en": "He would judge more objectively if he did not know the parties.",
+        "a": "jugerait",
+        "alts": [],
+        "form": "Conditionnel"
+      },
+      {
+        "slot": "t|Conditionnel|2",
+        "f": "tense",
+        "s": "Si nous avions le temps, nous ___ chaque candidat individuellement.",
+        "en": "If we had the time, we would judge each candidate individually.",
+        "a": "jugerions",
+        "alts": [],
+        "form": "Conditionnel"
+      },
+      {
+        "slot": "t|Conditionnel|2",
+        "f": "tense",
+        "s": "Nous ___ cette action inacceptable si elle se produisait.",
+        "en": "We would judge this action unacceptable if it occurred.",
+        "a": "jugerions",
+        "alts": [],
+        "form": "Conditionnel"
+      },
+      {
+        "slot": "t|Conditionnel|3",
+        "f": "tense",
+        "s": "Si vous étiez présents, vous ___ par vous-mêmes.",
+        "en": "If you were present, you would judge for yourselves.",
+        "a": "jugeriez",
+        "alts": [],
+        "form": "Conditionnel"
+      },
+      {
+        "slot": "t|Conditionnel|3",
+        "f": "tense",
+        "s": "Vous ___ ce comportement inacceptable si vous le voyiez.",
+        "en": "You would judge this behavior unacceptable if you saw it.",
+        "a": "jugeriez",
+        "alts": [],
+        "form": "Conditionnel"
+      },
+      {
+        "slot": "t|Conditionnel|4",
+        "f": "tense",
+        "s": "Si les experts examinaient ce tableau, ils ___ son authenticité.",
+        "en": "If the experts examined this painting, they would judge its authenticity.",
+        "a": "jugeraient",
+        "alts": [],
+        "form": "Conditionnel"
+      },
+      {
+        "slot": "t|Conditionnel|4",
+        "f": "tense",
+        "s": "Elles ___ cette méthode trop risquée si elles en avaient connaissance.",
+        "en": "They would judge this method too risky if they were aware of it.",
+        "a": "jugeraient",
+        "alts": [],
+        "form": "Conditionnel"
+      },
+      {
+        "slot": "t|Subjonctif",
+        "f": "subj",
+        "s": "Il faut que tu ___ cette affaire avec impartialité.",
+        "en": "It is necessary that you judge this matter with impartiality.",
+        "a": "juges",
+        "alts": [],
+        "form": "Subjonctif"
+      },
+      {
+        "slot": "t|Subjonctif",
+        "f": "subj",
+        "s": "Je doute qu'elle ___ la situation correctement.",
+        "en": "I doubt that she judges the situation correctly.",
+        "a": "juge",
+        "alts": [],
+        "form": "Subjonctif"
+      },
+      {
+        "slot": "s|0",
+        "f": "sense",
+        "s": "Il est difficile de ___ une situation sans connaître tous les faits.",
+        "en": "It is difficult to judge a situation without knowing all the facts.",
+        "a": "juger",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "s|0",
+        "f": "sense",
+        "s": "Pour bien ___, il faut analyser toutes les preuves disponibles.",
+        "en": "To judge well, one must analyze all the available evidence.",
+        "a": "juger",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "s|1",
+        "f": "sense",
+        "s": "Le concours invite le public à ___ les œuvres des artistes.",
+        "en": "The competition invites the public to evaluate the artists' works.",
+        "a": "juger",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "s|1",
+        "f": "sense",
+        "s": "On lui a demandé de ___ les performances des participants.",
+        "en": "He was asked to evaluate the performances of the participants.",
+        "a": "juger",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "s|2",
+        "f": "sense",
+        "s": "Je ___ cette idée très intéressante pour notre projet.",
+        "en": "I consider this idea very interesting for our project.",
+        "a": "juge",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "s|2",
+        "f": "sense",
+        "s": "Ils ___ utile de revoir le contrat avant de signer.",
+        "en": "They consider it useful to review the contract before signing.",
+        "a": "jugent",
+        "alts": [],
+        "form": ""
+      }
+    ]
+  }
+]

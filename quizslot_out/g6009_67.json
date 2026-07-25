@@ -1,0 +1,43 @@
+[
+  {
+    "id": 6696,
+    "qs": [
+      {"slot":"s|0","f":"sense","s":"L'ordinateur génère un mot de passe ___ pour chaque utilisateur.","en":"The computer generates a random password for each user.","a":"aléatoire","alts":[]},
+      {"slot":"s|0","f":"sense","s":"Le sondage a été réalisé auprès d'un échantillon ___ de la population.","en":"The survey was conducted on a random sample of the population.","a":"aléatoire","alts":[]},
+      {"slot":"s|1","f":"sense","s":"Miser toutes nos économies sur ce seul projet serait ___.","en":"Betting all our savings on this single project would be chancy.","a":"aléatoire","alts":[]},
+      {"slot":"s|1","f":"sense","s":"Chercher un emploi sans réseau ni expérience reste une démarche ___.","en":"Looking for a job without connections or experience remains a chancy endeavor.","a":"aléatoire","alts":[]},
+      {"slot":"s|2","f":"sense","s":"En raison de la météo, l'heure d'arrivée du vol est ___.","en":"Because of the weather, the flight's arrival time is uncertain.","a":"aléatoire","alts":[]},
+      {"slot":"s|2","f":"sense","s":"Le succès de ce traitement expérimental reste ___.","en":"The success of this experimental treatment remains uncertain.","a":"aléatoire","alts":[]},
+      {"slot":"g|mp","f":"agree","s":"Ces résultats ___ ne permettent aucune conclusion fiable.","en":"These random results allow no reliable conclusion.","a":"aléatoires","alts":[]},
+      {"slot":"g|mp","f":"agree","s":"Les numéros ___ tirés par la machine changent à chaque partie.","en":"The random numbers drawn by the machine change with every round.","a":"aléatoires","alts":[]},
+      {"slot":"g|f","f":"agree","s":"La sélection ___ des candidats a surpris tout le monde.","en":"The random selection of candidates surprised everyone.","a":"aléatoire","alts":[]},
+      {"slot":"g|f","f":"agree","s":"Cette décision ___ n'était fondée sur aucune analyse.","en":"This random decision was not based on any analysis.","a":"aléatoire","alts":[]},
+      {"slot":"g|fp","f":"agree","s":"Les données ___ recueillies par le capteur sont difficiles à interpréter.","en":"The random data collected by the sensor are hard to interpret.","a":"aléatoires","alts":[]},
+      {"slot":"g|fp","f":"agree","s":"Ses réponses ___ montraient qu'il ne connaissait pas la solution exacte.","en":"His random answers showed he didn't know the exact solution.","a":"aléatoires","alts":[]}
+    ]
+  },
+  {
+    "id": 6697,
+    "qs": [
+      {"slot":"s|0","f":"sense","s":"Le budget ___ de la mairie permet aux habitants de voter pour de nouveaux projets.","en":"The city's participatory budget allows residents to vote for new projects.","a":"participatif","alts":[]},
+      {"slot":"s|0","f":"sense","s":"Ce festival ___ invite le public à choisir les artistes de l'affiche.","en":"This participatory festival invites the public to choose the lineup artists.","a":"participatif","alts":[]},
+      {"slot":"s|1","f":"sense","s":"Ce projet ___ associe tous les employés aux décisions importantes.","en":"This collaborative project involves all employees in important decisions.","a":"participatif","alts":[]},
+      {"slot":"s|1","f":"sense","s":"Nous avons adopté un style de management ___ où chacun donne son avis.","en":"We have adopted a collaborative management style where everyone gives their opinion.","a":"participatif","alts":[]},
+      {"slot":"g|mp","f":"agree","s":"Les budgets ___ se multiplient dans les grandes villes françaises.","en":"Participatory budgets are multiplying in major French cities.","a":"participatifs","alts":[]},
+      {"slot":"g|mp","f":"agree","s":"Les projets ___ menés par la mairie ont été bien accueillis par les habitants.","en":"The participatory projects run by the city hall were well received by residents.","a":"participatifs","alts":[]},
+      {"slot":"g|f","f":"agree","s":"La démocratie ___ encourage les citoyens à s'impliquer davantage dans la vie politique.","en":"Participatory democracy encourages citizens to get more involved in political life.","a":"participative","alts":[]},
+      {"slot":"g|f","f":"agree","s":"Cette entreprise a mis en place une gestion ___ pour impliquer ses salariés.","en":"This company has implemented participatory management to involve its employees.","a":"participative","alts":[]},
+      {"slot":"g|fp","f":"agree","s":"Les plateformes ___ permettent aux internautes de proposer des idées.","en":"Participatory platforms allow internet users to suggest ideas.","a":"participatives","alts":[]},
+      {"slot":"g|fp","f":"agree","s":"Ces méthodes ___ favorisent l'implication de tous les membres de l'équipe.","en":"These participatory methods encourage the involvement of all team members.","a":"participatives","alts":[]}
+    ]
+  },
+  {
+    "id": 6698,
+    "qs": [
+      {"slot":"s|0","f":"sense","s":"Le bus roule jusqu'au ___, à l'autre bout de la ville.","en":"The bus goes all the way to the terminus, at the other end of town.","a":"terminus","alts":[]},
+      {"slot":"s|0","f":"sense","s":"Le train arrive au ___ dans dix minutes, tout le monde doit descendre.","en":"The train arrives at the terminus in ten minutes, everyone has to get off.","a":"terminus","alts":[]},
+      {"slot":"gender","f":"gender","s":"Ce quartier abrite ___ terminus très fréquenté.","en":"This neighborhood houses a very busy terminus.","a":"un","alts":[]},
+      {"slot":"gender","f":"gender","s":"On aperçoit déjà ___ terminus, tout au bout de la rue.","en":"We can already see the terminus, right at the end of the street.","a":"le","alts":[]}
+    ]
+  }
+]

@@ -1,0 +1,727 @@
+[
+  {
+    "id": 546,
+    "qs": [
+      {
+        "slot": "s|0",
+        "f": "sense",
+        "s": "Cet homme est ___ avec moi : c'est le frère de ma mère.",
+        "a": "parent",
+        "en": "This man is related to me: he is my mother's brother.",
+        "alts": []
+      },
+      {
+        "slot": "s|0",
+        "f": "sense",
+        "s": "Ce voisin n'est pas ___ avec nous ; il n'appartient pas à notre famille.",
+        "a": "parent",
+        "en": "This neighbor is not related to us; he does not belong to our family.",
+        "alts": []
+      },
+      {
+        "slot": "s|1",
+        "f": "sense",
+        "s": "Le loup et le chien sont des animaux ___ : ils partagent un ancêtre commun.",
+        "a": "parents",
+        "en": "The wolf and the dog are related animals: they share a common ancestor.",
+        "alts": []
+      },
+      {
+        "slot": "s|1",
+        "f": "sense",
+        "s": "Ces deux langues sont ___ : elles descendent toutes deux du latin.",
+        "a": "parentes",
+        "en": "These two languages are related: they both descend from Latin.",
+        "alts": []
+      },
+      {
+        "slot": "g|mp",
+        "f": "agree",
+        "s": "Ces deux peuples sont ___ : ils ont les mêmes origines.",
+        "a": "parents",
+        "en": "These two peoples are related: they have the same origins.",
+        "alts": []
+      },
+      {
+        "slot": "g|mp",
+        "f": "agree",
+        "s": "Les singes et les humains sont des êtres ___ sur le plan génétique.",
+        "a": "parents",
+        "en": "Apes and humans are genetically related beings.",
+        "alts": []
+      },
+      {
+        "slot": "g|f",
+        "f": "agree",
+        "s": "Marie est ___ avec Lucie : elles sont cousines.",
+        "a": "parente",
+        "en": "Marie is related to Lucie: they are cousins.",
+        "alts": []
+      },
+      {
+        "slot": "g|f",
+        "f": "agree",
+        "s": "Cette espèce est ___ de la rose sauvage par ses caractéristiques botaniques.",
+        "a": "parente",
+        "en": "This species is related to the wild rose by its botanical characteristics.",
+        "alts": []
+      },
+      {
+        "slot": "g|fp",
+        "f": "agree",
+        "s": "Ces deux nations sont ___ par leur histoire et leur culture communes.",
+        "a": "parentes",
+        "en": "These two nations are related by their shared history and culture.",
+        "alts": []
+      },
+      {
+        "slot": "g|fp",
+        "f": "agree",
+        "s": "Ces deux familles royales sont ___ depuis plusieurs générations.",
+        "a": "parentes",
+        "en": "These two royal families have been related for several generations.",
+        "alts": []
+      }
+    ]
+  },
+  {
+    "id": 547,
+    "qs": [
+      {
+        "slot": "t|Présent|0",
+        "f": "tense",
+        "s": "Attention, la branche ___ si tu montes trop haut !",
+        "a": "tombe",
+        "en": "Watch out, the branch falls if you climb too high!",
+        "alts": [],
+        "form": "Présent"
+      },
+      {
+        "slot": "t|Présent|0",
+        "f": "tense",
+        "s": "Chaque automne, je ___ malade à cause du froid.",
+        "a": "tombe",
+        "en": "Every autumn, I fall ill because of the cold.",
+        "alts": [],
+        "form": "Présent"
+      },
+      {
+        "slot": "t|Présent|1",
+        "f": "tense",
+        "s": "Fais attention, tu ___ si tu cours sur ce sol mouillé.",
+        "a": "tombes",
+        "en": "Be careful, you fall if you run on this wet floor.",
+        "alts": [],
+        "form": "Présent"
+      },
+      {
+        "slot": "t|Présent|1",
+        "f": "tense",
+        "s": "Tu ___ toujours dans le même piège, il faut changer de stratégie.",
+        "a": "tombes",
+        "en": "You always fall into the same trap, you need to change strategy.",
+        "alts": [],
+        "form": "Présent"
+      },
+      {
+        "slot": "t|Présent|2",
+        "f": "tense",
+        "s": "Nous ___ des nues en apprenant cette nouvelle incroyable.",
+        "a": "tombons",
+        "en": "We are dumbfounded upon learning this incredible news.",
+        "alts": [],
+        "form": "Présent"
+      },
+      {
+        "slot": "t|Présent|2",
+        "f": "tense",
+        "s": "Nous ___ souvent sur des erreurs quand nous relisons le texte.",
+        "a": "tombons",
+        "en": "We often come across mistakes when we reread the text.",
+        "alts": [],
+        "form": "Présent"
+      },
+      {
+        "slot": "t|Présent|3",
+        "f": "tense",
+        "s": "Vous ___ bien à pic, nous avons justement besoin d'aide.",
+        "a": "tombez",
+        "en": "You come just at the right moment, we need help.",
+        "alts": [],
+        "form": "Présent"
+      },
+      {
+        "slot": "t|Présent|3",
+        "f": "tense",
+        "s": "Est-ce que vous ___ souvent quand vous faites du ski ?",
+        "a": "tombez",
+        "en": "Do you often fall when you ski?",
+        "alts": [],
+        "form": "Présent"
+      },
+      {
+        "slot": "t|Présent|4",
+        "f": "tense",
+        "s": "Les feuilles ___ doucement dans le jardin ce matin.",
+        "a": "tombent",
+        "en": "The leaves fall gently in the garden this morning.",
+        "alts": [],
+        "form": "Présent"
+      },
+      {
+        "slot": "t|Présent|4",
+        "f": "tense",
+        "s": "Ils ___ dans les bras l'un de l'autre après de longues années de séparation.",
+        "a": "tombent",
+        "en": "They fall into each other's arms after long years of separation.",
+        "alts": [],
+        "form": "Présent"
+      },
+      {
+        "slot": "t|Passé composé|0",
+        "f": "tense",
+        "s": "Ce matin, je ___ en descendant l'escalier et je me suis fait mal au genou.",
+        "a": "suis tombé",
+        "en": "This morning, I fell while going down the stairs and hurt my knee.",
+        "alts": [],
+        "form": "Passé composé"
+      },
+      {
+        "slot": "t|Passé composé|0",
+        "f": "tense",
+        "s": "Hier soir, je ___ amoureux d'une mélodie entendue à la radio.",
+        "a": "suis tombé",
+        "en": "Yesterday evening, I fell in love with a melody heard on the radio.",
+        "alts": [],
+        "form": "Passé composé"
+      },
+      {
+        "slot": "t|Passé composé|1",
+        "f": "tense",
+        "s": "Tu ___ de vélo la semaine dernière, comment va ta jambe ?",
+        "a": "es tombé",
+        "en": "You fell off your bike last week, how is your leg?",
+        "alts": [],
+        "form": "Passé composé"
+      },
+      {
+        "slot": "t|Passé composé|1",
+        "f": "tense",
+        "s": "Est-ce que tu ___ dans le panneau une nouvelle fois ?",
+        "a": "es tombé",
+        "en": "Did you fall for the trick one more time?",
+        "alts": [],
+        "form": "Passé composé"
+      },
+      {
+        "slot": "t|Passé composé|2",
+        "f": "tense",
+        "s": "Mon père ___ dans l'escalier hier et s'est cassé le poignet.",
+        "a": "est tombé",
+        "en": "My father fell on the stairs yesterday and broke his wrist.",
+        "alts": [],
+        "form": "Passé composé"
+      },
+      {
+        "slot": "t|Passé composé|2",
+        "f": "tense",
+        "s": "Le vase ___ de l'étagère pendant la nuit et s'est brisé.",
+        "a": "est tombé",
+        "en": "The vase fell from the shelf during the night and shattered.",
+        "alts": [],
+        "form": "Passé composé"
+      },
+      {
+        "slot": "t|Passé composé|3",
+        "f": "tense",
+        "s": "Nous ___ en panne sur l'autoroute et avons dû appeler de l'aide.",
+        "a": "sommes tombés",
+        "en": "We broke down on the motorway and had to call for help.",
+        "alts": [],
+        "form": "Passé composé"
+      },
+      {
+        "slot": "t|Passé composé|3",
+        "f": "tense",
+        "s": "Hier, nous ___ d'accord sur toutes les décisions importantes.",
+        "a": "sommes tombés",
+        "en": "Yesterday, we agreed on all the important decisions.",
+        "alts": [],
+        "form": "Passé composé"
+      },
+      {
+        "slot": "t|Passé composé|4",
+        "f": "tense",
+        "s": "Vous ___ malades juste avant les vacances, c'est malchanceux.",
+        "a": "êtes tombés",
+        "en": "You fell ill just before the holidays, that is unlucky.",
+        "alts": [],
+        "form": "Passé composé"
+      },
+      {
+        "slot": "t|Passé composé|4",
+        "f": "tense",
+        "s": "Vous ___ dans un beau piège tendu par vos adversaires.",
+        "a": "êtes tombés",
+        "en": "You fell into a fine trap set by your opponents.",
+        "alts": [],
+        "form": "Passé composé"
+      },
+      {
+        "slot": "t|Passé composé|5",
+        "f": "tense",
+        "s": "Les soldats ___ sur le champ de bataille il y a cent ans.",
+        "a": "sont tombés",
+        "en": "The soldiers fell on the battlefield a hundred years ago.",
+        "alts": [],
+        "form": "Passé composé"
+      },
+      {
+        "slot": "t|Passé composé|5",
+        "f": "tense",
+        "s": "Ils ___ d'accord sur le prix après de longues négociations.",
+        "a": "sont tombés",
+        "en": "They agreed on the price after long negotiations.",
+        "alts": [],
+        "form": "Passé composé"
+      },
+      {
+        "slot": "t|Imparfait|0",
+        "f": "tense",
+        "s": "Quand j'étais enfant, je ___ souvent en faisant du vélo.",
+        "a": "tombais",
+        "en": "When I was a child, I often fell while riding my bike.",
+        "alts": [],
+        "form": "Imparfait"
+      },
+      {
+        "slot": "t|Imparfait|0",
+        "f": "tense",
+        "s": "Tu ___ facilement dans la colère à cette époque-là.",
+        "a": "tombais",
+        "en": "You used to lose your temper easily back then.",
+        "alts": [],
+        "form": "Imparfait"
+      },
+      {
+        "slot": "t|Imparfait|1",
+        "f": "tense",
+        "s": "La neige ___ sans interruption depuis le matin.",
+        "a": "tombait",
+        "en": "The snow was falling without stopping since morning.",
+        "alts": [],
+        "form": "Imparfait"
+      },
+      {
+        "slot": "t|Imparfait|1",
+        "f": "tense",
+        "s": "Le soir ___ lentement sur la ville quand nous avons quitté le restaurant.",
+        "a": "tombait",
+        "en": "Evening was slowly falling over the city when we left the restaurant.",
+        "alts": [],
+        "form": "Imparfait"
+      },
+      {
+        "slot": "t|Imparfait|2",
+        "f": "tense",
+        "s": "Nous ___ souvent sur des pépites dans les vieilles librairies.",
+        "a": "tombions",
+        "en": "We used to often come across gems in old bookshops.",
+        "alts": [],
+        "form": "Imparfait"
+      },
+      {
+        "slot": "t|Imparfait|2",
+        "f": "tense",
+        "s": "Nous ___ malades chaque hiver à cause du froid humide de cette région.",
+        "a": "tombions",
+        "en": "We used to fall ill every winter because of the damp cold in that region.",
+        "alts": [],
+        "form": "Imparfait"
+      },
+      {
+        "slot": "t|Imparfait|3",
+        "f": "tense",
+        "s": "Quand vous étiez jeunes, vous ___ souvent en faisant du patin.",
+        "a": "tombiez",
+        "en": "When you were young, you often fell while skating.",
+        "alts": [],
+        "form": "Imparfait"
+      },
+      {
+        "slot": "t|Imparfait|3",
+        "f": "tense",
+        "s": "Vous ___ toujours d'accord à cette époque, c'était agréable.",
+        "a": "tombiez",
+        "en": "You always used to agree back then, it was pleasant.",
+        "alts": [],
+        "form": "Imparfait"
+      },
+      {
+        "slot": "t|Imparfait|4",
+        "f": "tense",
+        "s": "Les feuilles ___ une à une dans le jardin silencieux.",
+        "a": "tombaient",
+        "en": "The leaves were falling one by one in the silent garden.",
+        "alts": [],
+        "form": "Imparfait"
+      },
+      {
+        "slot": "t|Imparfait|4",
+        "f": "tense",
+        "s": "Les prix ___ chaque semaine à cause de la crise économique.",
+        "a": "tombaient",
+        "en": "Prices were falling every week because of the economic crisis.",
+        "alts": [],
+        "form": "Imparfait"
+      },
+      {
+        "slot": "t|Futur|0",
+        "f": "tense",
+        "s": "Si je ne fais pas attention sur ce chemin verglacé, je ___.",
+        "a": "tomberai",
+        "en": "If I am not careful on this icy path, I will fall.",
+        "alts": [],
+        "form": "Futur"
+      },
+      {
+        "slot": "t|Futur|0",
+        "f": "tense",
+        "s": "Je ___ dans la catégorie des seniors l'année prochaine.",
+        "a": "tomberai",
+        "en": "I will fall into the senior category next year.",
+        "alts": [],
+        "form": "Futur"
+      },
+      {
+        "slot": "t|Futur|1",
+        "f": "tense",
+        "s": "Tu ___ amoureux dès que tu la verras, j'en suis sûr.",
+        "a": "tomberas",
+        "en": "You will fall in love the moment you see her, I am sure of it.",
+        "alts": [],
+        "form": "Futur"
+      },
+      {
+        "slot": "t|Futur|1",
+        "f": "tense",
+        "s": "Si tu continues à courir sans regarder, tu ___ dans l'escalier.",
+        "a": "tomberas",
+        "en": "If you keep running without looking, you will fall on the stairs.",
+        "alts": [],
+        "form": "Futur"
+      },
+      {
+        "slot": "t|Futur|2",
+        "f": "tense",
+        "s": "La nuit ___ tôt en décembre dans ce pays nordique.",
+        "a": "tombera",
+        "en": "Night will fall early in December in that Nordic country.",
+        "alts": [],
+        "form": "Futur"
+      },
+      {
+        "slot": "t|Futur|2",
+        "f": "tense",
+        "s": "La décision ___ demain matin après la réunion du conseil.",
+        "a": "tombera",
+        "en": "The decision will fall tomorrow morning after the council meeting.",
+        "alts": [],
+        "form": "Futur"
+      },
+      {
+        "slot": "t|Futur|3",
+        "f": "tense",
+        "s": "Nous ___ d'accord sur ce point si vous nous présentez les preuves.",
+        "a": "tomberons",
+        "en": "We will agree on this point if you present us with the evidence.",
+        "alts": [],
+        "form": "Futur"
+      },
+      {
+        "slot": "t|Futur|3",
+        "f": "tense",
+        "s": "Nous ___ dans l'oubli si nous ne documentons pas notre travail.",
+        "a": "tomberons",
+        "en": "We will fall into oblivion if we do not document our work.",
+        "alts": [],
+        "form": "Futur"
+      },
+      {
+        "slot": "t|Futur|4",
+        "f": "tense",
+        "s": "Vous ___ sous le charme de cette ville dès votre arrivée.",
+        "a": "tomberez",
+        "en": "You will fall under the charm of this city as soon as you arrive.",
+        "alts": [],
+        "form": "Futur"
+      },
+      {
+        "slot": "t|Futur|4",
+        "f": "tense",
+        "s": "Vous ne ___ pas si vous utilisez les équipements de sécurité.",
+        "a": "tomberez",
+        "en": "You will not fall if you use the safety equipment.",
+        "alts": [],
+        "form": "Futur"
+      },
+      {
+        "slot": "t|Futur|5",
+        "f": "tense",
+        "s": "Les prix ___ encore si la concurrence s'intensifie.",
+        "a": "tomberont",
+        "en": "Prices will fall further if competition intensifies.",
+        "alts": [],
+        "form": "Futur"
+      },
+      {
+        "slot": "t|Futur|5",
+        "f": "tense",
+        "s": "Ils ___ dans le piège si on ne les prévient pas à temps.",
+        "a": "tomberont",
+        "en": "They will fall into the trap if we do not warn them in time.",
+        "alts": [],
+        "form": "Futur"
+      },
+      {
+        "slot": "t|Conditionnel|0",
+        "f": "tense",
+        "s": "Si tu ne regardais pas ton téléphone, tu ne ___ pas dans la rue.",
+        "a": "tomberais",
+        "en": "If you were not looking at your phone, you would not fall in the street.",
+        "alts": [],
+        "form": "Conditionnel"
+      },
+      {
+        "slot": "t|Conditionnel|0",
+        "f": "tense",
+        "s": "Sans ton aide, je ___ facilement dans le découragement.",
+        "a": "tomberais",
+        "en": "Without your help, I would easily fall into discouragement.",
+        "alts": [],
+        "form": "Conditionnel"
+      },
+      {
+        "slot": "t|Conditionnel|1",
+        "f": "tense",
+        "s": "Si le gouvernement ne réagissait pas, le pays ___ dans une grave crise.",
+        "a": "tomberait",
+        "en": "If the government did not react, the country would fall into a serious crisis.",
+        "alts": [],
+        "form": "Conditionnel"
+      },
+      {
+        "slot": "t|Conditionnel|1",
+        "f": "tense",
+        "s": "La pluie ___ sans doute demain, selon les prévisions météo.",
+        "a": "tomberait",
+        "en": "Rain would apparently fall tomorrow, according to the weather forecast.",
+        "alts": [],
+        "form": "Conditionnel"
+      },
+      {
+        "slot": "t|Conditionnel|2",
+        "f": "tense",
+        "s": "Sans filet de sécurité, nous ___ dans le vide en cas de faux pas.",
+        "a": "tomberions",
+        "en": "Without a safety net, we would fall into the void with one wrong step.",
+        "alts": [],
+        "form": "Conditionnel"
+      },
+      {
+        "slot": "t|Conditionnel|2",
+        "f": "tense",
+        "s": "Si nous ne prenions pas de précautions, nous ___ malades.",
+        "a": "tomberions",
+        "en": "If we did not take precautions, we would fall ill.",
+        "alts": [],
+        "form": "Conditionnel"
+      },
+      {
+        "slot": "t|Conditionnel|3",
+        "f": "tense",
+        "s": "Si vous marchiez sur ce vieux pont vermoulu, vous ___ à l'eau.",
+        "a": "tomberiez",
+        "en": "If you walked on that old rotten bridge, you would fall into the water.",
+        "alts": [],
+        "form": "Conditionnel"
+      },
+      {
+        "slot": "t|Conditionnel|3",
+        "f": "tense",
+        "s": "Vous ___ certainement sous le charme si vous visitiez ce château.",
+        "a": "tomberiez",
+        "en": "You would certainly fall under the charm if you visited that castle.",
+        "alts": [],
+        "form": "Conditionnel"
+      },
+      {
+        "slot": "t|Conditionnel|4",
+        "f": "tense",
+        "s": "Si les arbres n'étaient pas entretenus, ils ___ sur les maisons voisines.",
+        "a": "tomberaient",
+        "en": "If the trees were not maintained, they would fall on the neighbouring houses.",
+        "alts": [],
+        "form": "Conditionnel"
+      },
+      {
+        "slot": "t|Conditionnel|4",
+        "f": "tense",
+        "s": "Sans entraînement régulier, les sportifs ___ dans une mauvaise forme.",
+        "a": "tomberaient",
+        "en": "Without regular training, the athletes would fall out of good shape.",
+        "alts": [],
+        "form": "Conditionnel"
+      },
+      {
+        "slot": "t|Subjonctif",
+        "f": "subj",
+        "s": "Il faut que tu ___ immédiatement sur ce problème avant qu'il empire.",
+        "a": "tombes",
+        "en": "You must immediately come across this problem before it gets worse.",
+        "alts": [],
+        "form": "Subjonctif"
+      },
+      {
+        "slot": "t|Subjonctif",
+        "f": "subj",
+        "s": "Je ne veux pas que vous ___ dans le même piège que vos prédécesseurs.",
+        "a": "tombiez",
+        "en": "I do not want you to fall into the same trap as your predecessors.",
+        "alts": [],
+        "form": "Subjonctif"
+      },
+      {
+        "slot": "s|0",
+        "f": "sense",
+        "s": "Les premières feuilles de l'automne commencent à ___ des arbres.",
+        "a": "tomber",
+        "en": "The first autumn leaves begin to fall from the trees.",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "s|0",
+        "f": "sense",
+        "s": "La neige commence à ___ doucement sur la ville.",
+        "a": "tomber",
+        "en": "The snow begins to fall gently over the city.",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "s|1",
+        "f": "sense",
+        "s": "Il a suffi d'une pierre sur le trottoir pour qu'elle ___ et se blesse.",
+        "a": "tombe",
+        "en": "A stone on the pavement was enough for her to fall and hurt herself.",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "s|1",
+        "f": "sense",
+        "s": "Le cycliste a glissé sur la flaque d'eau et a failli ___.",
+        "a": "tomber",
+        "en": "The cyclist slipped on the puddle and nearly fell.",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "s|2",
+        "f": "sense",
+        "s": "La nuit ___ vite en hiver, et les rues se vident dès dix-sept heures.",
+        "a": "tombe",
+        "en": "Night falls quickly in winter, and the streets empty out by five o'clock.",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "s|2",
+        "f": "sense",
+        "s": "Le silence ___ sur la salle quand le chef d'orchestre leva sa baguette.",
+        "a": "tomba",
+        "en": "Silence fell over the hall when the conductor raised his baton.",
+        "alts": [],
+        "form": ""
+      }
+    ]
+  },
+  {
+    "id": 548,
+    "qs": [
+      {
+        "slot": "s|0",
+        "f": "sense",
+        "s": "Le train est en retard, mais notre ___ est prévu pour midi.",
+        "a": "départ",
+        "en": "The train is late, but our departure is scheduled for noon.",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "s|0",
+        "f": "sense",
+        "s": "Nous attendons le signal du ___ pour commencer la course.",
+        "a": "départ",
+        "en": "We are waiting for the departure signal to start the race.",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "s|1",
+        "f": "sense",
+        "s": "Son ___ soudain a surpris toute l'équipe.",
+        "a": "départ",
+        "en": "His sudden departure surprised the whole team.",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "s|1",
+        "f": "sense",
+        "s": "Depuis son ___ de la ville, elle n'a donné aucune nouvelle.",
+        "a": "départ",
+        "en": "Since her departure from the city, she has given no news.",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "s|2",
+        "f": "sense",
+        "s": "Au ___, personne ne croyait que ce projet réussirait.",
+        "a": "départ",
+        "en": "At the start, nobody believed this project would succeed.",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "s|2",
+        "f": "sense",
+        "s": "Il faut reprendre la discussion dès le ___, car les bases sont mauvaises.",
+        "a": "départ",
+        "en": "We need to restart the discussion from the very beginning, as the foundations are wrong.",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "gender",
+        "f": "gender",
+        "s": "___ départ de Marie a attristé tous ses collègues.",
+        "a": "Le",
+        "en": "Marie's departure saddened all her colleagues.",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "gender",
+        "f": "gender",
+        "s": "C'est ___ départ difficile pour toute la famille.",
+        "a": "un",
+        "en": "It is a difficult departure for the whole family.",
+        "alts": [],
+        "form": ""
+      }
+    ]
+  }
+]

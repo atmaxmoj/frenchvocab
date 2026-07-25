@@ -1,0 +1,43 @@
+[
+  {
+    "id": 2119,
+    "qs": [
+      {"slot":"s|0","f":"sense","s":"Mon père est ___ dans une petite entreprise depuis vingt ans.","en":"My father has been a salaried employee at a small company for twenty years.","a":"salarié","alts":[],"form":""},
+      {"slot":"s|0","f":"sense","s":"Contrairement à son frère qui est indépendant, elle est ___ et perçoit un salaire fixe chaque mois.","en":"Unlike her brother who is self-employed, she is a wage-earner and receives a fixed salary every month.","a":"salariée","alts":[],"form":""},
+      {"slot":"s|1","f":"sense","s":"Les revendications de la classe ___ ont été entendues par le gouvernement.","en":"The demands of the salaried class were heard by the government.","a":"salariée","alts":[],"form":""},
+      {"slot":"s|1","f":"sense","s":"Le monde ___ a été fortement touché par la crise économique des dernières années.","en":"The salaried working class has been severely affected by the economic crisis of recent years.","a":"salarié","alts":[],"form":""},
+      {"slot":"s|2","f":"sense","s":"Un ___ a le droit de bénéficier de congés payés et d'une protection sociale.","en":"A salaried employee has the right to paid leave and social protection.","a":"salarié","alts":[],"form":""},
+      {"slot":"s|2","f":"sense","s":"Les ___ de cette usine ont voté pour la grève vendredi matin.","en":"The employees of this factory voted to strike on Friday morning.","a":"salariés","alts":[],"form":""},
+      {"slot":"g|mp","f":"agree","s":"Les travailleurs ___ de cette région bénéficient d'une bonne couverture sociale.","en":"The salaried workers in this region benefit from good social coverage.","a":"salariés","alts":[],"form":""},
+      {"slot":"g|mp","f":"agree","s":"Ces employés ___ ont négocié de nouvelles conditions de travail avec la direction.","en":"These salaried employees negotiated new working conditions with management.","a":"salariés","alts":[],"form":""},
+      {"slot":"g|f","f":"agree","s":"Cette personne est ___ à temps partiel dans une agence de communication.","en":"This person is a part-time salaried employee at a communications agency.","a":"salariée","alts":[],"form":""},
+      {"slot":"g|f","f":"agree","s":"Ma voisine, ancienne indépendante, est maintenant ___ dans un cabinet d'avocats.","en":"My neighbor, a former freelancer, is now a salaried employee at a law firm.","a":"salariée","alts":[],"form":""},
+      {"slot":"g|fp","f":"agree","s":"Ces infirmières ___ travaillent dans des hôpitaux publics et disposent d'avantages sociaux.","en":"These salaried nurses work in public hospitals and have social benefits.","a":"salariées","alts":[],"form":""},
+      {"slot":"g|fp","f":"agree","s":"Les femmes ___ de cette entreprise représentent plus de la moitié des effectifs.","en":"The salaried women at this company represent more than half of the workforce.","a":"salariées","alts":[],"form":""}
+    ]
+  },
+  {
+    "id": 2120,
+    "qs": [
+      {"slot":"s|0","f":"sense","s":"Dans cette école, ___ est stricte : les élèves doivent respecter toutes les règles.","en":"In this school, discipline is strict: students must respect all the rules.","a":"la discipline","alts":[],"form":""},
+      {"slot":"s|0","f":"sense","s":"Le général exige une ___ de fer au sein de ses troupes.","en":"The general demands iron discipline within his troops.","a":"discipline","alts":[],"form":""},
+      {"slot":"s|1","f":"sense","s":"La philosophie est une ___ enseignée dans toutes les universités françaises.","en":"Philosophy is an academic discipline taught in all French universities.","a":"discipline","alts":[],"form":""},
+      {"slot":"s|1","f":"sense","s":"Il doit choisir sa ___ principale : il hésite entre l'histoire et la sociologie.","en":"He has to choose his main academic discipline: he is hesitating between history and sociology.","a":"discipline","alts":[],"form":""},
+      {"slot":"s|2","f":"sense","s":"Pour réussir ses études, il faut beaucoup de ___ personnelle et de persévérance.","en":"To succeed in one's studies, a lot of personal self-discipline and perseverance are needed.","a":"discipline","alts":[],"form":""},
+      {"slot":"s|2","f":"sense","s":"Elle fait preuve d'une grande ___ en se levant à six heures chaque matin pour s'entraîner.","en":"She demonstrates great self-discipline by getting up at six every morning to train.","a":"discipline","alts":[],"form":""},
+      {"slot":"gender","f":"gender","s":"Le professeur insiste sur ___ discipline en classe.","en":"The teacher insists on discipline in class.","a":"la","alts":[],"form":""},
+      {"slot":"gender","f":"gender","s":"La biologie est ___ discipline scientifique très populaire.","en":"Biology is a very popular scientific discipline.","a":"une","alts":[],"form":""}
+    ]
+  },
+  {
+    "id": 2121,
+    "qs": [
+      {"slot":"s|0","f":"sense","s":"Les pompiers ont été appelés d'urgence après une ___ dans l'usine.","en":"The firefighters were called urgently after an explosion in the factory.","a":"explosion","alts":[],"form":""},
+      {"slot":"s|0","f":"sense","s":"On a entendu une ___ au loin pendant la nuit.","en":"An explosion was heard in the distance during the night.","a":"explosion","alts":[],"form":""},
+      {"slot":"s|1","f":"sense","s":"Les économistes ont prévu une ___ de la demande après la crise.","en":"Economists predicted an explosion of demand after the crisis.","a":"explosion","alts":[],"form":""},
+      {"slot":"s|1","f":"sense","s":"Son ___ de joie a surpris tout le monde dans la salle.","en":"His outburst of joy surprised everyone in the room.","a":"explosion","alts":[],"form":""},
+      {"slot":"gender","f":"gender","s":"On a entendu ___ explosion au loin.","en":"An explosion was heard in the distance.","a":"une","alts":[],"form":""},
+      {"slot":"gender","f":"gender","s":"Les experts ont analysé ___ explosion qui avait détruit le bâtiment.","en":"The experts analysed the explosion that had destroyed the building.","a":"l'","alts":[],"form":""}
+    ]
+  }
+]

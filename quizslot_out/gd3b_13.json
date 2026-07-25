@@ -1,0 +1,641 @@
+[
+  {
+    "id": 240,
+    "qs": [
+      {
+        "slot": "s|0",
+        "f": "sense",
+        "s": "___ les experts, le réchauffement climatique va s'accélérer dans les prochaines décennies.",
+        "a": "Selon",
+        "en": "According to the experts, global warming will accelerate in the coming decades.",
+        "alts": ["D'après"],
+        "form": ""
+      },
+      {
+        "slot": "s|0",
+        "f": "sense",
+        "s": "___ les dernières données, le nombre de cas a diminué cette semaine.",
+        "a": "Selon",
+        "en": "According to the latest data, the number of cases has decreased this week.",
+        "alts": ["D'après"],
+        "form": ""
+      },
+      {
+        "slot": "s|1",
+        "f": "sense",
+        "s": "Il faut agir ___ les règles établies par l'entreprise.",
+        "a": "selon",
+        "en": "We must act in accordance with the rules established by the company.",
+        "alts": ["conformément à"],
+        "form": ""
+      },
+      {
+        "slot": "s|1",
+        "f": "sense",
+        "s": "Chacun vit ___ ses propres valeurs et convictions.",
+        "a": "selon",
+        "en": "Everyone lives according to their own values and convictions.",
+        "alts": [],
+        "form": ""
+      }
+    ]
+  },
+  {
+    "id": 241,
+    "qs": [
+      {
+        "slot": "s|0",
+        "f": "sense",
+        "s": "La ___ Bretagne est connue pour ses paysages côtiers et sa culture celtique.",
+        "a": "région",
+        "en": "The Brittany region is known for its coastal landscapes and Celtic culture.",
+        "alts": []
+      },
+      {
+        "slot": "s|0",
+        "f": "sense",
+        "s": "Le gouvernement a décidé d'investir davantage dans les ___ rurales de France.",
+        "a": "régions",
+        "en": "The government decided to invest more in the rural regions of France.",
+        "alts": []
+      },
+      {
+        "slot": "s|1",
+        "f": "sense",
+        "s": "Il ressent une douleur dans la ___ lombaire depuis plusieurs jours.",
+        "a": "région",
+        "en": "He has been feeling pain in the lumbar area for several days.",
+        "alts": []
+      },
+      {
+        "slot": "s|1",
+        "f": "sense",
+        "s": "Cette ___ montagneuse est difficile d'accès en hiver à cause de la neige.",
+        "a": "région",
+        "en": "This mountainous area is difficult to reach in winter because of the snow.",
+        "alts": ["zone"]
+      },
+      {
+        "slot": "gender",
+        "f": "gender",
+        "s": "La Provence est ___ région du sud de la France très appréciée des touristes.",
+        "a": "une",
+        "en": "Provence is a region in southern France much appreciated by tourists.",
+        "alts": []
+      },
+      {
+        "slot": "gender",
+        "f": "gender",
+        "s": "Nous habitons dans ___ région où il fait chaud presque toute l'année.",
+        "a": "une",
+        "en": "We live in a region where it is warm almost all year round.",
+        "alts": []
+      }
+    ]
+  },
+  {
+    "id": 242,
+    "qs": [
+      {
+        "slot": "t|Présent|0",
+        "f": "tense",
+        "s": "J'___ le chocolat noir.",
+        "a": "aime",
+        "en": "I like dark chocolate.",
+        "alts": [],
+        "form": "Présent"
+      },
+      {
+        "slot": "t|Présent|0",
+        "f": "tense",
+        "s": "Mon chien ___ se promener dans le parc.",
+        "a": "aime",
+        "en": "My dog likes to walk in the park.",
+        "alts": [],
+        "form": "Présent"
+      },
+      {
+        "slot": "t|Présent|1",
+        "f": "tense",
+        "s": "Tu ___ la musique classique ?",
+        "a": "aimes",
+        "en": "Do you like classical music?",
+        "alts": [],
+        "form": "Présent"
+      },
+      {
+        "slot": "t|Présent|1",
+        "f": "tense",
+        "s": "Est-ce que tu ___ cuisiner le week-end ?",
+        "a": "aimes",
+        "en": "Do you like to cook on weekends?",
+        "alts": [],
+        "form": "Présent"
+      },
+      {
+        "slot": "t|Présent|2",
+        "f": "tense",
+        "s": "Nous ___ beaucoup voyager en Europe.",
+        "a": "aimons",
+        "en": "We really like traveling in Europe.",
+        "alts": [],
+        "form": "Présent"
+      },
+      {
+        "slot": "t|Présent|2",
+        "f": "tense",
+        "s": "Nous ___ regarder des films le soir.",
+        "a": "aimons",
+        "en": "We like watching movies in the evening.",
+        "alts": [],
+        "form": "Présent"
+      },
+      {
+        "slot": "t|Présent|3",
+        "f": "tense",
+        "s": "Vous ___ les romans policiers, je crois.",
+        "a": "aimez",
+        "en": "You like detective novels, I believe.",
+        "alts": [],
+        "form": "Présent"
+      },
+      {
+        "slot": "t|Présent|3",
+        "f": "tense",
+        "s": "Est-ce que vous ___ le café ou le thé ?",
+        "a": "aimez",
+        "en": "Do you like coffee or tea?",
+        "alts": [],
+        "form": "Présent"
+      },
+      {
+        "slot": "t|Présent|4",
+        "f": "tense",
+        "s": "Les enfants ___ jouer dans le jardin.",
+        "a": "aiment",
+        "en": "The children like to play in the garden.",
+        "alts": [],
+        "form": "Présent"
+      },
+      {
+        "slot": "t|Présent|4",
+        "f": "tense",
+        "s": "Mes parents ___ se lever tôt le matin.",
+        "a": "aiment",
+        "en": "My parents like to get up early in the morning.",
+        "alts": [],
+        "form": "Présent"
+      },
+      {
+        "slot": "t|Passé composé|0",
+        "f": "tense",
+        "s": "J'___ ce film quand je l'ai vu la première fois.",
+        "a": "ai aimé",
+        "en": "I liked this film when I saw it for the first time.",
+        "alts": [],
+        "form": "Passé composé"
+      },
+      {
+        "slot": "t|Passé composé|0",
+        "f": "tense",
+        "s": "J'___ beaucoup vivre à Paris l'année dernière.",
+        "a": "ai aimé",
+        "en": "I really liked living in Paris last year.",
+        "alts": [],
+        "form": "Passé composé"
+      },
+      {
+        "slot": "t|Passé composé|1",
+        "f": "tense",
+        "s": "Tu ___ la pièce de théâtre hier soir ?",
+        "a": "as aimé",
+        "en": "Did you like the play last night?",
+        "alts": [],
+        "form": "Passé composé"
+      },
+      {
+        "slot": "t|Passé composé|1",
+        "f": "tense",
+        "s": "Tu ___ le repas que j'ai préparé ?",
+        "a": "as aimé",
+        "en": "Did you like the meal I prepared?",
+        "alts": [],
+        "form": "Passé composé"
+      },
+      {
+        "slot": "t|Passé composé|2",
+        "f": "tense",
+        "s": "Ma sœur ___ son séjour à Lyon.",
+        "a": "a aimé",
+        "en": "My sister liked her stay in Lyon.",
+        "alts": [],
+        "form": "Passé composé"
+      },
+      {
+        "slot": "t|Passé composé|2",
+        "f": "tense",
+        "s": "Le professeur ___ notre présentation.",
+        "a": "a aimé",
+        "en": "The teacher liked our presentation.",
+        "alts": [],
+        "form": "Passé composé"
+      },
+      {
+        "slot": "t|Passé composé|3",
+        "f": "tense",
+        "s": "Nous ___ nos vacances à la mer cet été.",
+        "a": "avons aimé",
+        "en": "We liked our vacation by the sea this summer.",
+        "alts": [],
+        "form": "Passé composé"
+      },
+      {
+        "slot": "t|Passé composé|3",
+        "f": "tense",
+        "s": "Nous ___ le concert de jazz vendredi soir.",
+        "a": "avons aimé",
+        "en": "We liked the jazz concert Friday evening.",
+        "alts": [],
+        "form": "Passé composé"
+      },
+      {
+        "slot": "t|Passé composé|4",
+        "f": "tense",
+        "s": "Vous ___ l'exposition de peinture au musée ?",
+        "a": "avez aimé",
+        "en": "Did you like the painting exhibition at the museum?",
+        "alts": [],
+        "form": "Passé composé"
+      },
+      {
+        "slot": "t|Passé composé|4",
+        "f": "tense",
+        "s": "Vous ___ votre séjour dans notre hôtel ?",
+        "a": "avez aimé",
+        "en": "Did you enjoy your stay at our hotel?",
+        "alts": [],
+        "form": "Passé composé"
+      },
+      {
+        "slot": "t|Passé composé|5",
+        "f": "tense",
+        "s": "Les critiques ___ beaucoup ce roman.",
+        "a": "ont aimé",
+        "en": "The critics really liked this novel.",
+        "alts": [],
+        "form": "Passé composé"
+      },
+      {
+        "slot": "t|Passé composé|5",
+        "f": "tense",
+        "s": "Mes amis ___ dîner dans ce restaurant.",
+        "a": "ont aimé",
+        "en": "My friends liked dining at this restaurant.",
+        "alts": [],
+        "form": "Passé composé"
+      },
+      {
+        "slot": "t|Imparfait|0",
+        "f": "tense",
+        "s": "Quand j'étais enfant, j'___ lire des bandes dessinées.",
+        "a": "aimais",
+        "en": "When I was a child, I liked reading comic books.",
+        "alts": [],
+        "form": "Imparfait"
+      },
+      {
+        "slot": "t|Imparfait|0",
+        "f": "tense",
+        "s": "Tu ___ beaucoup nager quand tu étais petit.",
+        "a": "aimais",
+        "en": "You liked swimming a lot when you were little.",
+        "alts": [],
+        "form": "Imparfait"
+      },
+      {
+        "slot": "t|Imparfait|1",
+        "f": "tense",
+        "s": "Mon grand-père ___ écouter la radio le soir.",
+        "a": "aimait",
+        "en": "My grandfather liked listening to the radio in the evening.",
+        "alts": [],
+        "form": "Imparfait"
+      },
+      {
+        "slot": "t|Imparfait|1",
+        "f": "tense",
+        "s": "Elle ___ se promener au bord du lac avant.",
+        "a": "aimait",
+        "en": "She liked walking by the lake before.",
+        "alts": [],
+        "form": "Imparfait"
+      },
+      {
+        "slot": "t|Imparfait|2",
+        "f": "tense",
+        "s": "Nous ___ jouer aux cartes après le dîner.",
+        "a": "aimions",
+        "en": "We liked playing cards after dinner.",
+        "alts": [],
+        "form": "Imparfait"
+      },
+      {
+        "slot": "t|Imparfait|2",
+        "f": "tense",
+        "s": "Nous ___ passer nos étés à la campagne.",
+        "a": "aimions",
+        "en": "We liked spending our summers in the countryside.",
+        "alts": [],
+        "form": "Imparfait"
+      },
+      {
+        "slot": "t|Imparfait|3",
+        "f": "tense",
+        "s": "Vous ___ vous retrouver au café chaque semaine.",
+        "a": "aimiez",
+        "en": "You liked meeting at the café every week.",
+        "alts": [],
+        "form": "Imparfait"
+      },
+      {
+        "slot": "t|Imparfait|3",
+        "f": "tense",
+        "s": "Est-ce que vous ___ la cuisine italienne à l'époque ?",
+        "a": "aimiez",
+        "en": "Did you like Italian food at the time?",
+        "alts": [],
+        "form": "Imparfait"
+      },
+      {
+        "slot": "t|Imparfait|4",
+        "f": "tense",
+        "s": "Mes cousins ___ camper dans les montagnes chaque été.",
+        "a": "aimaient",
+        "en": "My cousins liked camping in the mountains every summer.",
+        "alts": [],
+        "form": "Imparfait"
+      },
+      {
+        "slot": "t|Imparfait|4",
+        "f": "tense",
+        "s": "Les élèves ___ les cours de dessin plus que les maths.",
+        "a": "aimaient",
+        "en": "The students liked drawing classes more than math.",
+        "alts": [],
+        "form": "Imparfait"
+      },
+      {
+        "slot": "t|Futur|0",
+        "f": "tense",
+        "s": "J'___ vivre près de la mer un jour.",
+        "a": "aimerai",
+        "en": "I will like living near the sea one day.",
+        "alts": [],
+        "form": "Futur"
+      },
+      {
+        "slot": "t|Futur|0",
+        "f": "tense",
+        "s": "Je pense que j'___ ce nouveau quartier quand je m'y habituerai.",
+        "a": "aimerai",
+        "en": "I think I will like this new neighborhood when I get used to it.",
+        "alts": [],
+        "form": "Futur"
+      },
+      {
+        "slot": "t|Futur|1",
+        "f": "tense",
+        "s": "Tu ___ sûrement cette chanson quand tu l'entendras.",
+        "a": "aimeras",
+        "en": "You will surely like this song when you hear it.",
+        "alts": [],
+        "form": "Futur"
+      },
+      {
+        "slot": "t|Futur|1",
+        "f": "tense",
+        "s": "Quand tu voyageras en Italie, tu ___ la cuisine locale.",
+        "a": "aimeras",
+        "en": "When you travel in Italy, you will like the local food.",
+        "alts": [],
+        "form": "Futur"
+      },
+      {
+        "slot": "t|Futur|2",
+        "f": "tense",
+        "s": "Mon fils ___ cette nouvelle école, j'en suis sûre.",
+        "a": "aimera",
+        "en": "My son will like this new school, I'm sure of it.",
+        "alts": [],
+        "form": "Futur"
+      },
+      {
+        "slot": "t|Futur|2",
+        "f": "tense",
+        "s": "Elle ___ le cadeau que nous lui avons choisi.",
+        "a": "aimera",
+        "en": "She will like the gift we chose for her.",
+        "alts": [],
+        "form": "Futur"
+      },
+      {
+        "slot": "t|Futur|3",
+        "f": "tense",
+        "s": "Nous ___ notre nouveau appartement dès que nous serons installés.",
+        "a": "aimerons",
+        "en": "We will like our new apartment as soon as we are settled in.",
+        "alts": [],
+        "form": "Futur"
+      },
+      {
+        "slot": "t|Futur|3",
+        "f": "tense",
+        "s": "Nous ___ ce voyage en Asie, c'est certain.",
+        "a": "aimerons",
+        "en": "We will like this trip to Asia, that's for sure.",
+        "alts": [],
+        "form": "Futur"
+      },
+      {
+        "slot": "t|Futur|4",
+        "f": "tense",
+        "s": "Vous ___ ce musée quand vous le visiterez.",
+        "a": "aimerez",
+        "en": "You will like this museum when you visit it.",
+        "alts": [],
+        "form": "Futur"
+      },
+      {
+        "slot": "t|Futur|4",
+        "f": "tense",
+        "s": "Je suis sûr que vous ___ travailler dans cette équipe.",
+        "a": "aimerez",
+        "en": "I'm sure you will like working in this team.",
+        "alts": [],
+        "form": "Futur"
+      },
+      {
+        "slot": "t|Futur|5",
+        "f": "tense",
+        "s": "Les touristes ___ beaucoup ce village pittoresque.",
+        "a": "aimeront",
+        "en": "The tourists will like this picturesque village a lot.",
+        "alts": [],
+        "form": "Futur"
+      },
+      {
+        "slot": "t|Futur|5",
+        "f": "tense",
+        "s": "Mes collègues ___ travailler dans les nouveaux bureaux.",
+        "a": "aimeront",
+        "en": "My colleagues will like working in the new offices.",
+        "alts": [],
+        "form": "Futur"
+      },
+      {
+        "slot": "t|Conditionnel|0",
+        "f": "tense",
+        "s": "Si j'avais le temps, j'___ apprendre le piano.",
+        "a": "aimerais",
+        "en": "If I had the time, I would like to learn the piano.",
+        "alts": [],
+        "form": "Conditionnel"
+      },
+      {
+        "slot": "t|Conditionnel|0",
+        "f": "tense",
+        "s": "Si tu étais libre ce soir, tu ___ venir dîner chez nous ?",
+        "a": "aimerais",
+        "en": "If you were free tonight, would you like to come for dinner at our place?",
+        "alts": [],
+        "form": "Conditionnel"
+      },
+      {
+        "slot": "t|Conditionnel|1",
+        "f": "tense",
+        "s": "Si elle avait plus d'argent, elle ___ voyager au Japon.",
+        "a": "aimerait",
+        "en": "If she had more money, she would like to travel to Japan.",
+        "alts": [],
+        "form": "Conditionnel"
+      },
+      {
+        "slot": "t|Conditionnel|1",
+        "f": "tense",
+        "s": "Mon frère ___ changer de métier si c'était possible.",
+        "a": "aimerait",
+        "en": "My brother would like to change careers if it were possible.",
+        "alts": [],
+        "form": "Conditionnel"
+      },
+      {
+        "slot": "t|Conditionnel|2",
+        "f": "tense",
+        "s": "Nous ___ avoir une maison à la campagne si nous pouvions.",
+        "a": "aimerions",
+        "en": "We would like to have a house in the countryside if we could.",
+        "alts": [],
+        "form": "Conditionnel"
+      },
+      {
+        "slot": "t|Conditionnel|2",
+        "f": "tense",
+        "s": "Si nous avions plus de temps libre, nous ___ apprendre le japonais.",
+        "a": "aimerions",
+        "en": "If we had more free time, we would like to learn Japanese.",
+        "alts": [],
+        "form": "Conditionnel"
+      },
+      {
+        "slot": "t|Conditionnel|3",
+        "f": "tense",
+        "s": "Vous ___ venir avec nous si vous étiez disponibles ?",
+        "a": "aimeriez",
+        "en": "Would you like to come with us if you were available?",
+        "alts": [],
+        "form": "Conditionnel"
+      },
+      {
+        "slot": "t|Conditionnel|3",
+        "f": "tense",
+        "s": "Est-ce que vous ___ goûter ce plat typique ?",
+        "a": "aimeriez",
+        "en": "Would you like to taste this typical dish?",
+        "alts": [],
+        "form": "Conditionnel"
+      },
+      {
+        "slot": "t|Conditionnel|4",
+        "f": "tense",
+        "s": "Si les enfants avaient le choix, ils ___ rester en vacances toute l'année.",
+        "a": "aimeraient",
+        "en": "If the children had the choice, they would like to stay on holiday all year.",
+        "alts": [],
+        "form": "Conditionnel"
+      },
+      {
+        "slot": "t|Conditionnel|4",
+        "f": "tense",
+        "s": "Mes parents ___ que je revienne vivre près d'eux.",
+        "a": "aimeraient",
+        "en": "My parents would like me to come back to live near them.",
+        "alts": [],
+        "form": "Conditionnel"
+      },
+      {
+        "slot": "t|Subjonctif",
+        "f": "subj",
+        "s": "Il faut que tu ___ davantage les légumes pour rester en bonne santé.",
+        "a": "aimes",
+        "en": "You must learn to like vegetables more to stay healthy.",
+        "alts": [],
+        "form": "Subjonctif"
+      },
+      {
+        "slot": "t|Subjonctif",
+        "f": "subj",
+        "s": "Je souhaite que vous ___ votre nouveau poste.",
+        "a": "aimiez",
+        "en": "I hope you will like your new position.",
+        "alts": [],
+        "form": "Subjonctif"
+      },
+      {
+        "slot": "s|0",
+        "f": "sense",
+        "s": "Il ___ profondément sa femme depuis vingt ans.",
+        "a": "aime",
+        "en": "He has deeply loved his wife for twenty years.",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "s|0",
+        "f": "sense",
+        "s": "Elle ___ ses enfants par-dessus tout.",
+        "a": "aime",
+        "en": "She loves her children above all else.",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "s|1",
+        "f": "sense",
+        "s": "Mon frère ___ faire du vélo le dimanche matin.",
+        "a": "aime",
+        "en": "My brother likes cycling on Sunday mornings.",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "s|1",
+        "f": "sense",
+        "s": "Vous ___ le jazz ou plutôt le rock ?",
+        "a": "aimez",
+        "en": "Do you like jazz or rather rock?",
+        "alts": [],
+        "form": ""
+      }
+    ]
+  }
+]

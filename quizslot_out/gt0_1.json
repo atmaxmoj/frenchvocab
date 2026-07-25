@@ -1,0 +1,41 @@
+[
+  {
+    "id": 2954,
+    "qs": [
+      {"slot":"s|0","f":"sense","s":"Le candidat ___ a prononcé un discours devant ses partisans.","en":"The elected candidate gave a speech before his supporters.","a":"élu","alts":[],"form":""},
+      {"slot":"s|0","f":"sense","s":"La maire ___ a immédiatement commencé à travailler pour la ville.","en":"The elected mayor immediately began to work for the city.","a":"élue","alts":[],"form":""},
+      {"slot":"s|1","f":"sense","s":"Les citoyens souhaitent que leurs ___ rendent des comptes.","en":"Citizens want their elected members to be accountable.","a":"élus","alts":[],"form":""},
+      {"slot":"s|1","f":"sense","s":"Cet ___ local s'est engagé à améliorer les transports publics.","en":"This elected member committed to improving public transport.","a":"élu","alts":[],"form":""},
+      {"slot":"g|mp","f":"agree","s":"Ces conseillers municipaux, tous ___, se réunissent chaque lundi.","en":"These municipal councillors, all elected, meet every Monday.","a":"élus","alts":[],"form":""},
+      {"slot":"g|mp","f":"agree","s":"Les représentants ___ ont voté la nouvelle loi à l'unanimité.","en":"The elected representatives voted unanimously for the new law.","a":"élus","alts":[],"form":""},
+      {"slot":"g|f","f":"agree","s":"La députée ___ a pris ses fonctions dès le lendemain du scrutin.","en":"The elected MP took up her duties the day after the vote.","a":"élue","alts":[],"form":""},
+      {"slot":"g|f","f":"agree","s":"Elle est ___ présidente de l'association pour la troisième fois.","en":"She is elected president of the association for the third time.","a":"élue","alts":[],"form":""},
+      {"slot":"g|fp","f":"agree","s":"Les conseillères ___, réunies en session, ont défendu ce projet avec ardeur.","en":"The elected councillors, meeting in session, defended this project with passion.","a":"élues","alts":[],"form":""},
+      {"slot":"g|fp","f":"agree","s":"Ces deux femmes ___ représentent leur quartier depuis dix ans.","en":"These two elected women have represented their neighbourhood for ten years.","a":"élues","alts":[],"form":""}
+    ]
+  },
+  {
+    "id": 2955,
+    "qs": [
+      {"slot":"s|0","f":"sense","s":"La France mise beaucoup sur le ___ pour dynamiser son économie.","en":"France relies heavily on tourism to boost its economy.","a":"tourisme","alts":[],"form":""},
+      {"slot":"s|0","f":"sense","s":"Le ___ représente une part importante du PIB de nombreux pays méditerranéens.","en":"Tourism represents an important share of the GDP of many Mediterranean countries.","a":"tourisme","alts":[],"form":""},
+      {"slot":"s|1","f":"sense","s":"Pendant nos vacances à Rome, nous avons fait du ___ toute la journée.","en":"During our vacation in Rome, we went sightseeing all day.","a":"tourisme","alts":[],"form":""},
+      {"slot":"s|1","f":"sense","s":"Mon oncle adore le ___ ; il visite toujours les monuments et les musées quand il voyage.","en":"My uncle loves sightseeing; he always visits monuments and museums when he travels.","a":"tourisme","alts":[],"form":""},
+      {"slot":"gender","f":"gender","s":"___ tourisme est l'un des secteurs les plus importants de l'économie française.","en":"Tourism is one of the most important sectors of the French economy.","a":"Le","alts":[],"form":""},
+      {"slot":"gender","f":"gender","s":"Elle a décidé de travailler dans ___ tourisme après ses études.","en":"She decided to work in tourism after her studies.","a":"le","alts":[],"form":""}
+    ]
+  },
+  {
+    "id": 2956,
+    "qs": [
+      {"slot":"s|0","f":"sense","s":"Le chef cuisinier a fait une ___ pour montrer comment préparer ce plat.","en":"The head chef gave a demonstration to show how to prepare this dish.","a":"démonstration","alts":[],"form":""},
+      {"slot":"s|0","f":"sense","s":"La formatrice a réalisé une ___ en direct devant tous les stagiaires.","en":"The trainer gave a live demonstration in front of all the trainees.","a":"démonstration","alts":[],"form":""},
+      {"slot":"s|1","f":"sense","s":"L'étudiant a suivi chaque étape de la ___ mathématique au tableau.","en":"The student followed each step of the mathematical proof on the board.","a":"démonstration","alts":[],"form":""},
+      {"slot":"s|1","f":"sense","s":"Ce philosophe a proposé une ___ rigoureuse de l'existence de Dieu.","en":"This philosopher put forward a rigorous proof of the existence of God.","a":"démonstration","alts":[],"form":""},
+      {"slot":"s|2","f":"sense","s":"Des milliers de personnes ont participé à la ___ contre la réforme des retraites.","en":"Thousands of people took part in the demonstration against the pension reform.","a":"démonstration","alts":[],"form":""},
+      {"slot":"s|2","f":"sense","s":"Les organisateurs ont déposé un dossier en préfecture pour autoriser la ___ syndicale.","en":"The organizers submitted a file to the prefecture to authorize the trade union demonstration.","a":"démonstration","alts":[],"form":""},
+      {"slot":"gender","f":"gender","s":"C'était ___ démonstration de force qui a impressionné tout le monde.","en":"It was a show of strength that impressed everyone.","a":"une","alts":[],"form":""},
+      {"slot":"gender","f":"gender","s":"Il a suivi ___ démonstration avec beaucoup d'attention.","en":"He followed the demonstration with great attention.","a":"la","alts":[],"form":""}
+    ]
+  }
+]

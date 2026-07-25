@@ -1,0 +1,233 @@
+[
+  {
+    "id": 4589,
+    "qs": [
+      {
+        "slot": "s|0",
+        "f": "sense",
+        "s": "Toutes mes ___ pour votre réussite au concours !",
+        "en": "Congratulations on passing the competitive exam!",
+        "a": "félicitations",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "s|0",
+        "f": "sense",
+        "s": "Elle a reçu de nombreuses ___ après la publication de son livre.",
+        "en": "She received many congratulations after the publication of her book.",
+        "a": "félicitations",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "s|1",
+        "f": "sense",
+        "s": "Il est passé lui exprimer ses ___ pour la naissance de son enfant.",
+        "en": "He stopped by to offer his congratulations on the birth of his child.",
+        "a": "félicitations",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "s|1",
+        "f": "sense",
+        "s": "Ses amis sont venus lui présenter leurs ___ le jour de son mariage.",
+        "en": "His friends came to offer their congratulations on his wedding day.",
+        "a": "félicitations",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "gender",
+        "f": "gender",
+        "s": "Il lui a adressé ___ félicitation chaleureuse de la part du directeur.",
+        "en": "He conveyed a warm congratulation to her on behalf of the director.",
+        "a": "une",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "gender",
+        "f": "gender",
+        "s": "La secrétaire a lu ___ félicitation officielle envoyée par le ministre.",
+        "en": "The secretary read the official congratulation sent by the minister.",
+        "a": "la",
+        "alts": [],
+        "form": ""
+      }
+    ]
+  },
+  {
+    "id": 4590,
+    "qs": [
+      {
+        "slot": "s|0",
+        "f": "sense",
+        "s": "Ce manuscrit, retrouvé dans les archives familiales, est encore ___.",
+        "en": "This manuscript, found in the family archives, is still unpublished.",
+        "a": "inédit",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "s|0",
+        "f": "sense",
+        "s": "Ces lettres de l'écrivain, jamais montrées au public, demeurent ___ à ce jour.",
+        "en": "These letters from the writer, never shown to the public, remain unpublished to this day.",
+        "a": "inédites",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "s|1",
+        "f": "sense",
+        "s": "Cet architecte a conçu une solution ___ pour réduire la consommation d'énergie dans les bâtiments.",
+        "en": "This architect designed an original solution to reduce energy consumption in buildings.",
+        "a": "inédite",
+        "alts": ["originale"],
+        "form": ""
+      },
+      {
+        "slot": "s|1",
+        "f": "sense",
+        "s": "Son procédé de fabrication, à la fois simple et ___, lui a valu un brevet international.",
+        "en": "His manufacturing process, both simple and original, earned him an international patent.",
+        "a": "inédit",
+        "alts": ["original"],
+        "form": ""
+      },
+      {
+        "slot": "s|2",
+        "f": "sense",
+        "s": "Ce phénomène astronomique, jamais observé auparavant, est absolument ___.",
+        "en": "This astronomical phenomenon, never observed before, is absolutely unprecedented.",
+        "a": "inédit",
+        "alts": ["inouï"],
+        "form": ""
+      },
+      {
+        "slot": "s|2",
+        "f": "sense",
+        "s": "Les chercheurs ont documenté des comportements ___ chez cette espèce récemment découverte.",
+        "en": "The researchers documented unprecedented behaviors in this recently discovered species.",
+        "a": "inédits",
+        "alts": ["inouïs"],
+        "form": ""
+      },
+      {
+        "slot": "g|mp",
+        "f": "agree",
+        "s": "Des textes ___ de Proust ont été mis aux enchères la semaine dernière.",
+        "en": "Some unpublished texts by Proust were auctioned last week.",
+        "a": "inédits",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "g|mp",
+        "f": "agree",
+        "s": "Ces enregistrements ___ du chanteur viennent enfin d'être publiés.",
+        "en": "These unpublished recordings by the singer have finally just been released.",
+        "a": "inédits",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "g|f",
+        "f": "agree",
+        "s": "La chercheuse a proposé une approche ___ pour traiter cette maladie rare.",
+        "en": "The researcher proposed an original approach to treat this rare disease.",
+        "a": "inédite",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "g|f",
+        "f": "agree",
+        "s": "Cette collaboration entre un compositeur et une poète est une expérience tout à fait ___.",
+        "en": "This collaboration between a composer and a poet is a completely unprecedented experience.",
+        "a": "inédite",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "g|fp",
+        "f": "agree",
+        "s": "Des partitions ___ de Bach ont été retrouvées dans une bibliothèque allemande.",
+        "en": "Some unpublished scores by Bach were found in a German library.",
+        "a": "inédites",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "g|fp",
+        "f": "agree",
+        "s": "Ces photographies ___ de la Seconde Guerre mondiale seront exposées au musée dès demain.",
+        "en": "These unpublished photographs from World War II will be exhibited at the museum starting tomorrow.",
+        "a": "inédites",
+        "alts": [],
+        "form": ""
+      }
+    ]
+  },
+  {
+    "id": 4591,
+    "qs": [
+      {
+        "slot": "s|0",
+        "f": "sense",
+        "s": "Le chevalier tient ___ dans la main droite pendant le tournoi.",
+        "en": "The knight holds a lance in his right hand during the tournament.",
+        "a": "une lance",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "s|0",
+        "f": "sense",
+        "s": "Les soldats romains utilisaient ___ pour charger l'ennemi à cheval.",
+        "en": "Roman soldiers used a lance to charge the enemy on horseback.",
+        "a": "une lance",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "s|1",
+        "f": "sense",
+        "s": "Le pompier dirige ___ vers les flammes pour éteindre l'incendie.",
+        "en": "The firefighter directs the hose nozzle toward the flames to put out the fire.",
+        "a": "la lance",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "s|1",
+        "f": "sense",
+        "s": "Il faut tenir ___ à deux mains pour contrôler le jet d'eau.",
+        "en": "You have to hold the nozzle with both hands to control the water jet.",
+        "a": "la lance",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "gender",
+        "f": "gender",
+        "s": "C'est ___ lance très ancienne qui date du Moyen Âge.",
+        "en": "It is a very old lance dating from the Middle Ages.",
+        "a": "une",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "gender",
+        "f": "gender",
+        "s": "Le chevalier a brisé ___ lance de l'adversaire en deux morceaux.",
+        "en": "The knight broke the opponent's lance in two pieces.",
+        "a": "la",
+        "alts": [],
+        "form": ""
+      }
+    ]
+  }
+]

@@ -1,0 +1,727 @@
+[
+  {
+    "id": 4836,
+    "qs": [
+      {
+        "slot": "s|0",
+        "f": "sense",
+        "s": "Elle a décidé d'étudier la ___ à l'université.",
+        "a": "psychologie",
+        "en": "She decided to study psychology at university.",
+        "alts": []
+      },
+      {
+        "slot": "s|0",
+        "f": "sense",
+        "s": "La ___ est une science qui explore le comportement humain.",
+        "a": "psychologie",
+        "en": "Psychology is a science that explores human behavior.",
+        "alts": []
+      },
+      {
+        "slot": "s|1",
+        "f": "sense",
+        "s": "Ce thérapeute comprend bien la ___ des adolescents.",
+        "a": "psychologie",
+        "en": "This therapist understands the psychology of adolescents well.",
+        "alts": []
+      },
+      {
+        "slot": "s|1",
+        "f": "sense",
+        "s": "Il faut étudier la ___ de l'adversaire avant de négocier.",
+        "a": "psychologie",
+        "en": "You need to study the psychology of the opponent before negotiating.",
+        "alts": []
+      },
+      {
+        "slot": "s|2",
+        "f": "sense",
+        "s": "Sa ___ positive lui a permis de surmonter cette épreuve.",
+        "a": "psychologie",
+        "en": "Her positive mental state allowed her to overcome this ordeal.",
+        "alts": []
+      },
+      {
+        "slot": "s|2",
+        "f": "sense",
+        "s": "Après l'accident, les médecins ont évalué sa ___ avec soin.",
+        "a": "psychologie",
+        "en": "After the accident, the doctors carefully assessed his mental state.",
+        "alts": []
+      },
+      {
+        "slot": "gender",
+        "f": "gender",
+        "s": "Il a consacré toute sa vie à ___ psychologie.",
+        "a": "la",
+        "en": "He devoted his whole life to psychology.",
+        "alts": []
+      },
+      {
+        "slot": "gender",
+        "f": "gender",
+        "s": "C'est ___ psychologie très complexe qui fascine les chercheurs.",
+        "a": "une",
+        "en": "It is a very complex psychology that fascinates researchers.",
+        "alts": []
+      }
+    ]
+  },
+  {
+    "id": 4837,
+    "qs": [
+      {
+        "slot": "t|Présent|0",
+        "f": "tense",
+        "s": "Je ne ___ jamais mes animaux de compagnie.",
+        "a": "maltraite",
+        "en": "I never ill-treat my pets.",
+        "alts": [],
+        "form": "Présent"
+      },
+      {
+        "slot": "t|Présent|0",
+        "f": "tense",
+        "s": "On dit que ce propriétaire ___ ses locataires.",
+        "a": "maltraite",
+        "en": "It is said that this landlord mistreats his tenants.",
+        "alts": [],
+        "form": "Présent"
+      },
+      {
+        "slot": "t|Présent|1",
+        "f": "tense",
+        "s": "Tu ___ ce pauvre chien, arrête immédiatement !",
+        "a": "maltraites",
+        "en": "You are ill-treating this poor dog, stop immediately!",
+        "alts": [],
+        "form": "Présent"
+      },
+      {
+        "slot": "t|Présent|1",
+        "f": "tense",
+        "s": "Est-ce que tu ___ vraiment tes employés de cette façon ?",
+        "a": "maltraites",
+        "en": "Do you really mistreat your employees that way?",
+        "alts": [],
+        "form": "Présent"
+      },
+      {
+        "slot": "t|Présent|2",
+        "f": "tense",
+        "s": "Nous ne ___ jamais les ressources naturelles de notre pays.",
+        "a": "maltraitons",
+        "en": "We never misuse the natural resources of our country.",
+        "alts": [],
+        "form": "Présent"
+      },
+      {
+        "slot": "t|Présent|2",
+        "f": "tense",
+        "s": "Nous ___ parfois la langue française sans le savoir.",
+        "a": "maltraitons",
+        "en": "We sometimes misuse the French language without realizing it.",
+        "alts": [],
+        "form": "Présent"
+      },
+      {
+        "slot": "t|Présent|3",
+        "f": "tense",
+        "s": "Vous ___ ces enfants en leur imposant une discipline si sévère.",
+        "a": "maltraitez",
+        "en": "You are ill-treating these children by imposing such strict discipline.",
+        "alts": [],
+        "form": "Présent"
+      },
+      {
+        "slot": "t|Présent|3",
+        "f": "tense",
+        "s": "Pourquoi ___ vous ainsi vos outils de travail ?",
+        "a": "maltraitez",
+        "en": "Why do you misuse your work tools like that?",
+        "alts": [],
+        "form": "Présent"
+      },
+      {
+        "slot": "t|Présent|4",
+        "f": "tense",
+        "s": "Ces gardiens ___ les prisonniers, selon les témoins.",
+        "a": "maltraitent",
+        "en": "These guards ill-treat the prisoners, according to witnesses.",
+        "alts": [],
+        "form": "Présent"
+      },
+      {
+        "slot": "t|Présent|4",
+        "f": "tense",
+        "s": "Elles ___ leur matériel informatique en le laissant trainer partout.",
+        "a": "maltraitent",
+        "en": "They misuse their computer equipment by leaving it lying around everywhere.",
+        "alts": [],
+        "form": "Présent"
+      },
+      {
+        "slot": "t|Passé composé|0",
+        "f": "tense",
+        "s": "J'___ cet enfant sans le vouloir et j'en suis honteux.",
+        "a": "ai maltraité",
+        "en": "I unintentionally ill-treated this child and I am ashamed of it.",
+        "alts": [],
+        "form": "Passé composé"
+      },
+      {
+        "slot": "t|Passé composé|0",
+        "f": "tense",
+        "s": "Je reconnais que j'___ ce cheval lors de la compétition.",
+        "a": "ai maltraité",
+        "en": "I admit that I manhandled this horse during the competition.",
+        "alts": [],
+        "form": "Passé composé"
+      },
+      {
+        "slot": "t|Passé composé|1",
+        "f": "tense",
+        "s": "Tu ___ cet appareil en le laissant tomber plusieurs fois.",
+        "a": "as maltraité",
+        "en": "You have misused this device by dropping it several times.",
+        "alts": [],
+        "form": "Passé composé"
+      },
+      {
+        "slot": "t|Passé composé|1",
+        "f": "tense",
+        "s": "Comment as-tu pu ? Tu ___ ce vieux chien sans raison.",
+        "a": "as maltraité",
+        "en": "How could you? You ill-treated this old dog for no reason.",
+        "alts": [],
+        "form": "Passé composé"
+      },
+      {
+        "slot": "t|Passé composé|2",
+        "f": "tense",
+        "s": "Ce chef de cuisine ___ son apprenti devant tout le personnel.",
+        "a": "a maltraité",
+        "en": "This head chef manhandled his apprentice in front of all the staff.",
+        "alts": [],
+        "form": "Passé composé"
+      },
+      {
+        "slot": "t|Passé composé|2",
+        "f": "tense",
+        "s": "La société ___ ses ressources humaines pendant des années.",
+        "a": "a maltraité",
+        "en": "The company has misused its human resources for years.",
+        "alts": [],
+        "form": "Passé composé"
+      },
+      {
+        "slot": "t|Passé composé|3",
+        "f": "tense",
+        "s": "Nous ___ ces données confidentielles en les divulguant par erreur.",
+        "a": "avons maltraité",
+        "en": "We misused these confidential data by disclosing them by mistake.",
+        "alts": [],
+        "form": "Passé composé"
+      },
+      {
+        "slot": "t|Passé composé|3",
+        "f": "tense",
+        "s": "Nous ___ cet employé en lui refusant toute promotion pendant dix ans.",
+        "a": "avons maltraité",
+        "en": "We ill-treated this employee by denying him any promotion for ten years.",
+        "alts": [],
+        "form": "Passé composé"
+      },
+      {
+        "slot": "t|Passé composé|4",
+        "f": "tense",
+        "s": "Vous ___ ce jeune stagiaire, et cela ne sera pas toléré.",
+        "a": "avez maltraité",
+        "en": "You have ill-treated this young intern, and that will not be tolerated.",
+        "alts": [],
+        "form": "Passé composé"
+      },
+      {
+        "slot": "t|Passé composé|4",
+        "f": "tense",
+        "s": "Avez-vous ___ ces animaux lors du transport ?",
+        "a": "maltraité",
+        "en": "Did you ill-treat these animals during transport?",
+        "alts": [],
+        "form": "Passé composé"
+      },
+      {
+        "slot": "t|Passé composé|5",
+        "f": "tense",
+        "s": "Ces soldats ___ des civils innocents pendant le conflit.",
+        "a": "ont maltraité",
+        "en": "These soldiers ill-treated innocent civilians during the conflict.",
+        "alts": [],
+        "form": "Passé composé"
+      },
+      {
+        "slot": "t|Passé composé|5",
+        "f": "tense",
+        "s": "Les enfants ___ leurs jouets et il n'en reste plus aucun intact.",
+        "a": "ont maltraité",
+        "en": "The children have misused their toys and none of them are intact anymore.",
+        "alts": [],
+        "form": "Passé composé"
+      },
+      {
+        "slot": "t|Imparfait|0",
+        "f": "tense",
+        "s": "Quand j'étais enfant, je ___ parfois mes affaires par négligence.",
+        "a": "maltraitais",
+        "en": "When I was a child, I sometimes misused my things out of negligence.",
+        "alts": [],
+        "form": "Imparfait"
+      },
+      {
+        "slot": "t|Imparfait|0",
+        "f": "tense",
+        "s": "Tu ___ ce vieux dictionnaire à force de le plier dans tous les sens.",
+        "a": "maltraitais",
+        "en": "You were misusing this old dictionary by bending it in all directions.",
+        "alts": [],
+        "form": "Imparfait"
+      },
+      {
+        "slot": "t|Imparfait|1",
+        "f": "tense",
+        "s": "Ce directeur ___ ses subordonnés chaque fois qu'il était de mauvaise humeur.",
+        "a": "maltraitait",
+        "en": "This manager would ill-treat his subordinates every time he was in a bad mood.",
+        "alts": [],
+        "form": "Imparfait"
+      },
+      {
+        "slot": "t|Imparfait|1",
+        "f": "tense",
+        "s": "On ___ souvent les langues régionales à cette époque.",
+        "a": "maltraitait",
+        "en": "Regional languages were often ill-treated at that time.",
+        "alts": [],
+        "form": "Imparfait"
+      },
+      {
+        "slot": "t|Imparfait|2",
+        "f": "tense",
+        "s": "Nous ___ notre environnement sans en mesurer les conséquences.",
+        "a": "maltraitions",
+        "en": "We were misusing our environment without measuring the consequences.",
+        "alts": [],
+        "form": "Imparfait"
+      },
+      {
+        "slot": "t|Imparfait|2",
+        "f": "tense",
+        "s": "Nous ___ parfois nos livres de classe quand nous étions étudiants.",
+        "a": "maltraitions",
+        "en": "We sometimes misused our textbooks when we were students.",
+        "alts": [],
+        "form": "Imparfait"
+      },
+      {
+        "slot": "t|Imparfait|3",
+        "f": "tense",
+        "s": "Vous ___ ces outils, c'est pourquoi ils sont tous abîmés.",
+        "a": "maltraitiez",
+        "en": "You were misusing these tools, which is why they are all damaged.",
+        "alts": [],
+        "form": "Imparfait"
+      },
+      {
+        "slot": "t|Imparfait|3",
+        "f": "tense",
+        "s": "Vous ___ vos chevaux lors des courses, d'après les juges.",
+        "a": "maltraitiez",
+        "en": "You were ill-treating your horses during the races, according to the judges.",
+        "alts": [],
+        "form": "Imparfait"
+      },
+      {
+        "slot": "t|Imparfait|4",
+        "f": "tense",
+        "s": "Ces parents ___ leurs enfants, ce qui a alerté les voisins.",
+        "a": "maltraitaient",
+        "en": "These parents were ill-treating their children, which alerted the neighbours.",
+        "alts": [],
+        "form": "Imparfait"
+      },
+      {
+        "slot": "t|Imparfait|4",
+        "f": "tense",
+        "s": "Ils ___ les mots de cette belle langue sans s'en rendre compte.",
+        "a": "maltraitaient",
+        "en": "They were misusing the words of this beautiful language without realising it.",
+        "alts": [],
+        "form": "Imparfait"
+      },
+      {
+        "slot": "t|Futur|0",
+        "f": "tense",
+        "s": "Je promets que je ne ___ plus jamais ce matériel fragile.",
+        "a": "maltraiterai",
+        "en": "I promise that I will never misuse this fragile equipment again.",
+        "alts": [],
+        "form": "Futur"
+      },
+      {
+        "slot": "t|Futur|0",
+        "f": "tense",
+        "s": "Si on me confie cet animal, je ne le ___ pas.",
+        "a": "maltraiterai",
+        "en": "If I am entrusted with this animal, I will not ill-treat it.",
+        "alts": [],
+        "form": "Futur"
+      },
+      {
+        "slot": "t|Futur|1",
+        "f": "tense",
+        "s": "Si tu continues ainsi, tu ___ ta santé à force de travailler sans repos.",
+        "a": "maltraiteras",
+        "en": "If you carry on like this, you will misuse your health by working without rest.",
+        "alts": [],
+        "form": "Futur"
+      },
+      {
+        "slot": "t|Futur|1",
+        "f": "tense",
+        "s": "Tu ne ___ plus ces animaux, j'en suis certain après ta formation.",
+        "a": "maltraiteras",
+        "en": "You will no longer ill-treat these animals, I am sure of it after your training.",
+        "alts": [],
+        "form": "Futur"
+      },
+      {
+        "slot": "t|Futur|2",
+        "f": "tense",
+        "s": "Ce nouveau directeur ne ___ pas ses employés comme son prédécesseur.",
+        "a": "maltraitera",
+        "en": "This new manager will not ill-treat his employees like his predecessor.",
+        "alts": [],
+        "form": "Futur"
+      },
+      {
+        "slot": "t|Futur|2",
+        "f": "tense",
+        "s": "On espère que le prochain gouvernement ne ___ pas les deniers publics.",
+        "a": "maltraitera",
+        "en": "One hopes that the next government will not misuse public funds.",
+        "alts": [],
+        "form": "Futur"
+      },
+      {
+        "slot": "t|Futur|3",
+        "f": "tense",
+        "s": "Nous ne ___ jamais les personnes vulnérables confiées à nos soins.",
+        "a": "maltraiterons",
+        "en": "We will never ill-treat the vulnerable people entrusted to our care.",
+        "alts": [],
+        "form": "Futur"
+      },
+      {
+        "slot": "t|Futur|3",
+        "f": "tense",
+        "s": "Nous ___ ces archives si nous ne les protégeons pas correctement.",
+        "a": "maltraiterons",
+        "en": "We will misuse these archives if we do not protect them properly.",
+        "alts": [],
+        "form": "Futur"
+      },
+      {
+        "slot": "t|Futur|4",
+        "f": "tense",
+        "s": "Vous ne ___ plus ces résidents dès que la nouvelle loi entrera en vigueur.",
+        "a": "maltraiterez",
+        "en": "You will no longer ill-treat these residents as soon as the new law comes into force.",
+        "alts": [],
+        "form": "Futur"
+      },
+      {
+        "slot": "t|Futur|4",
+        "f": "tense",
+        "s": "Est-ce que vous ___ encore votre voiture de cette façon après l'accident ?",
+        "a": "maltraiterez",
+        "en": "Will you still misuse your car like that after the accident?",
+        "alts": [],
+        "form": "Futur"
+      },
+      {
+        "slot": "t|Futur|5",
+        "f": "tense",
+        "s": "Ces juges ___ la langue du droit si aucune formation n'est prévue.",
+        "a": "maltraiteront",
+        "en": "These judges will misuse legal language if no training is provided.",
+        "alts": [],
+        "form": "Futur"
+      },
+      {
+        "slot": "t|Futur|5",
+        "f": "tense",
+        "s": "Ils ___ ces prisonniers si personne ne surveille les conditions de détention.",
+        "a": "maltraiteront",
+        "en": "They will ill-treat these prisoners if no one monitors the detention conditions.",
+        "alts": [],
+        "form": "Futur"
+      },
+      {
+        "slot": "t|Conditionnel|0",
+        "f": "tense",
+        "s": "Si j'étais à leur place, je ne ___ jamais ces animaux.",
+        "a": "maltraiterais",
+        "en": "If I were in their position, I would never ill-treat these animals.",
+        "alts": [],
+        "form": "Conditionnel"
+      },
+      {
+        "slot": "t|Conditionnel|0",
+        "f": "tense",
+        "s": "Si tu avais moins de stress, tu ne ___ pas ton entourage.",
+        "a": "maltraiterais",
+        "en": "If you had less stress, you would not ill-treat those around you.",
+        "alts": [],
+        "form": "Conditionnel"
+      },
+      {
+        "slot": "t|Conditionnel|1",
+        "f": "tense",
+        "s": "Si ce gardien avait moins de pouvoir, il ne ___ pas les détenus.",
+        "a": "maltraiterait",
+        "en": "If this guard had less power, he would not ill-treat the detainees.",
+        "alts": [],
+        "form": "Conditionnel"
+      },
+      {
+        "slot": "t|Conditionnel|1",
+        "f": "tense",
+        "s": "Elle ne ___ pas sa voix si elle prenait soin de sa santé.",
+        "a": "maltraiterait",
+        "en": "She would not misuse her voice if she took care of her health.",
+        "alts": [],
+        "form": "Conditionnel"
+      },
+      {
+        "slot": "t|Conditionnel|2",
+        "f": "tense",
+        "s": "Si nous avions moins de pression, nous ne ___ pas nos collaborateurs.",
+        "a": "maltraiterions",
+        "en": "If we had less pressure, we would not ill-treat our colleagues.",
+        "alts": [],
+        "form": "Conditionnel"
+      },
+      {
+        "slot": "t|Conditionnel|2",
+        "f": "tense",
+        "s": "Nous ne ___ pas ces terres agricoles si nous avions un meilleur plan.",
+        "a": "maltraiterions",
+        "en": "We would not misuse these agricultural lands if we had a better plan.",
+        "alts": [],
+        "form": "Conditionnel"
+      },
+      {
+        "slot": "t|Conditionnel|3",
+        "f": "tense",
+        "s": "Si vous aviez plus d'empathie, vous ne ___ pas ces enfants.",
+        "a": "maltraiteriez",
+        "en": "If you had more empathy, you would not ill-treat these children.",
+        "alts": [],
+        "form": "Conditionnel"
+      },
+      {
+        "slot": "t|Conditionnel|3",
+        "f": "tense",
+        "s": "Vous ne ___ pas autant la langue si vous lisiez davantage.",
+        "a": "maltraiteriez",
+        "en": "You would not misuse the language so much if you read more.",
+        "alts": [],
+        "form": "Conditionnel"
+      },
+      {
+        "slot": "t|Conditionnel|4",
+        "f": "tense",
+        "s": "Si ces entraîneurs avaient plus de formation, ils ne ___ pas leurs athlètes.",
+        "a": "maltraiteraient",
+        "en": "If these coaches had more training, they would not ill-treat their athletes.",
+        "alts": [],
+        "form": "Conditionnel"
+      },
+      {
+        "slot": "t|Conditionnel|4",
+        "f": "tense",
+        "s": "Elles ne ___ pas ces instruments si elles savaient leur vraie valeur.",
+        "a": "maltraiteraient",
+        "en": "They would not misuse these instruments if they knew their true value.",
+        "alts": [],
+        "form": "Conditionnel"
+      },
+      {
+        "slot": "t|Subjonctif",
+        "f": "subj",
+        "s": "Il faut que tu ne ___ pas cet animal blessé.",
+        "a": "maltraites",
+        "en": "You must not ill-treat this injured animal.",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "t|Subjonctif",
+        "f": "subj",
+        "s": "Je tiens à ce qu'il ne ___ pas ses employés.",
+        "a": "maltraite",
+        "en": "I insist that he not ill-treat his employees.",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "s|0",
+        "f": "sense",
+        "s": "Cet homme a été condamné pour avoir ___ sa fille pendant des années.",
+        "a": "maltraité",
+        "en": "This man was convicted for having ill-treated his daughter for years.",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "s|0",
+        "f": "sense",
+        "s": "Il est interdit de ___ les enfants, que ce soit physiquement ou psychologiquement.",
+        "a": "maltraiter",
+        "en": "It is forbidden to ill-treat children, whether physically or psychologically.",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "s|1",
+        "f": "sense",
+        "s": "Le policier a été suspendu pour avoir ___ un suspect lors de son arrestation.",
+        "a": "maltraité",
+        "en": "The police officer was suspended for having manhandled a suspect during his arrest.",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "s|1",
+        "f": "sense",
+        "s": "Ce médecin risque de ___ ses patients s'il manque de patience.",
+        "a": "maltraiter",
+        "en": "This doctor risks manhandling his patients if he lacks patience.",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "s|2",
+        "f": "sense",
+        "s": "Ce journaliste ___ les faits en les sortant de leur contexte.",
+        "a": "maltraite",
+        "en": "This journalist misuses the facts by taking them out of context.",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "s|2",
+        "f": "sense",
+        "s": "Il ne faut pas ___ les antibiotiques en les prenant sans ordonnance.",
+        "a": "maltraiter",
+        "en": "One must not misuse antibiotics by taking them without a prescription.",
+        "alts": [],
+        "form": ""
+      }
+    ]
+  },
+  {
+    "id": 4838,
+    "qs": [
+      {
+        "slot": "s|0",
+        "f": "sense",
+        "s": "Les villageois allaient chercher de l'eau dans le ___ du village.",
+        "a": "puits",
+        "en": "The villagers went to fetch water from the village well.",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "s|0",
+        "f": "sense",
+        "s": "Autrefois, le ___ au fond du jardin était la seule source d'eau de la ferme.",
+        "a": "puits",
+        "en": "In the old days, the well at the back of the garden was the only water source on the farm.",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "s|1",
+        "f": "sense",
+        "s": "Les ingénieurs ont creusé un ___ de ventilation pour assurer la circulation d'air dans le tunnel.",
+        "a": "puits",
+        "en": "The engineers dug a ventilation shaft to ensure air circulation in the tunnel.",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "s|1",
+        "f": "sense",
+        "s": "Un ___ central traverse tous les étages du bâtiment pour laisser passer la lumière.",
+        "a": "puits",
+        "en": "A central shaft runs through all the floors of the building to let light through.",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "s|2",
+        "f": "sense",
+        "s": "Les mineurs descendaient chaque matin dans le ___ pour extraire le charbon.",
+        "a": "puits",
+        "en": "The miners went down into the mine shaft every morning to extract coal.",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "s|2",
+        "f": "sense",
+        "s": "Après l'éboulement, l'accès au ___ de charbon a été interdit.",
+        "a": "puits",
+        "en": "After the cave-in, access to the coal mine shaft was forbidden.",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "s|3",
+        "f": "sense",
+        "s": "Les archéologues ont découvert plusieurs ___ remplis d'ossements datant de l'époque gauloise.",
+        "a": "puits",
+        "en": "The archaeologists discovered several pits filled with bones dating from the Gaulish era.",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "s|3",
+        "f": "sense",
+        "s": "Pour poser les fondations, les ouvriers ont creusé un ___ de trois mètres de profondeur.",
+        "a": "puits",
+        "en": "To lay the foundations, the workers dug a pit three metres deep.",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "gender",
+        "f": "gender",
+        "s": "Il y a encore ___ puits en activité dans ce vieux village de montagne.",
+        "a": "un",
+        "en": "There is still an active well in this old mountain village.",
+        "alts": []
+      },
+      {
+        "slot": "gender",
+        "f": "gender",
+        "s": "Les enfants se penchaient sur le bord du ___ pour voir leur reflet dans l'eau.",
+        "a": "puits",
+        "en": "The children leaned over the edge of the well to see their reflection in the water.",
+        "alts": []
+      }
+    ]
+  }
+]

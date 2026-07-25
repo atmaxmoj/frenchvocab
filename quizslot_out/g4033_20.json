@@ -1,0 +1,39 @@
+[
+  {
+    "id": 4093,
+    "qs": [
+      {"slot":"s|0","f":"sense","s":"L'agence a abaissé ___ de crédit du pays après la crise financière.","en":"The agency lowered the country's credit rating after the financial crisis.","a":"la cote","alts":[],"form":""},
+      {"slot":"s|0","f":"sense","s":"Sa ___ de popularité auprès des électeurs a chuté après le scandale.","en":"His approval rating among voters dropped after the scandal.","a":"cote","alts":[],"form":""},
+      {"slot":"s|1","f":"sense","s":"Les investisseurs suivent chaque jour ___ boursière des grandes entreprises.","en":"Investors follow the stock market quotation of major companies every day.","a":"la cote","alts":[],"form":""},
+      {"slot":"s|1","f":"sense","s":"Cette action a été retirée de ___ officielle de la Bourse de Paris.","en":"This share was delisted from the official stock exchange quotation of the Paris Bourse.","a":"la cote","alts":[],"form":""},
+      {"slot":"s|2","f":"sense","s":"L'expert a établi ___ de la maison à cinq cent mille euros.","en":"The expert set the valuation of the house at five hundred thousand euros.","a":"la cote","alts":[],"form":""},
+      {"slot":"s|2","f":"sense","s":"Avant de vendre sa voiture, il a consulté ___ Argus pour connaître son prix.","en":"Before selling his car, he checked the Argus valuation to find out its price.","a":"la cote","alts":[],"form":""},
+      {"slot":"s|3","f":"sense","s":"Depuis son dernier film à succès, cet acteur a vraiment ___ auprès du public.","en":"Since his last hit film, this actor has really gained popularity with the public.","a":"la cote","alts":[],"form":""},
+      {"slot":"s|3","f":"sense","s":"Ce restaurant a ___ en ce moment : il faut réserver plusieurs semaines à l'avance.","en":"This restaurant is very popular right now: you have to book several weeks in advance.","a":"la cote","alts":[],"form":""},
+      {"slot":"gender","f":"gender","s":"Il a consulté ___ Argus avant d'acheter cette voiture d'occasion.","en":"He checked the Argus guide before buying this second-hand car.","a":"la","alts":[],"form":""},
+      {"slot":"gender","f":"gender","s":"L'analyste a publié ___ nouvelle de cette entreprise sur les marchés financiers.","en":"The analyst published a new rating for this company on the financial markets.","a":"une","alts":[],"form":""}
+    ]
+  },
+  {
+    "id": 4094,
+    "qs": [
+      {"slot":"s|0","f":"sense","s":"Pour vérifier l'orthographe de ce mot, consulte ___ .","en":"To check the spelling of this word, consult the dictionary.","a":"le dictionnaire","alts":[],"form":""},
+      {"slot":"s|0","f":"sense","s":"Ce ___ bilingue contient plus de cinquante mille entrées.","en":"This bilingual dictionary contains more than fifty thousand entries.","a":"dictionnaire","alts":[],"form":""},
+      {"slot":"s|1","f":"sense","s":"J'utilise ___ pour chercher la définition des mots difficiles.","en":"I use the dictionary to look up the definition of difficult words.","a":"le dictionnaire","alts":[],"form":""},
+      {"slot":"s|1","f":"sense","s":"Elle a trouvé la traduction dans ___ en ligne.","en":"She found the translation in an online dictionary.","a":"un dictionnaire","alts":["le dictionnaire"],"form":""},
+      {"slot":"gender","f":"gender","s":"As-tu apporté ___ dictionnaire pour le cours de français ?","en":"Did you bring the dictionary for the French class?","a":"le","alts":[],"form":""},
+      {"slot":"gender","f":"gender","s":"Il y a ___ dictionnaire sur la table.","en":"There is a dictionary on the table.","a":"un","alts":[],"form":""}
+    ]
+  },
+  {
+    "id": 4095,
+    "qs": [
+      {"slot":"s|0","f":"sense","s":"La fièvre est souvent ___ du rhume ou de la grippe.","en":"Fever is often a symptom of a cold or the flu.","a":"un symptôme","alts":[],"form":""},
+      {"slot":"s|0","f":"sense","s":"La toux et la fatigue sont des ___ courants de cette maladie.","en":"Coughing and fatigue are common symptoms of this illness.","a":"symptômes","alts":[],"form":""},
+      {"slot":"s|1","f":"sense","s":"Cette crise économique est ___ d'un déséquilibre plus profond dans la société.","en":"This economic crisis is a sign of a deeper imbalance in society.","a":"un symptôme","alts":[],"form":""},
+      {"slot":"s|1","f":"sense","s":"La montée du populisme est considérée comme ___ d'une perte de confiance dans les institutions.","en":"The rise of populism is considered a sign of a loss of trust in institutions.","a":"un symptôme","alts":[],"form":""},
+      {"slot":"gender","f":"gender","s":"Le médecin a expliqué que ___ symptôme principal était la douleur thoracique.","en":"The doctor explained that the main symptom was chest pain.","a":"le","alts":[],"form":""},
+      {"slot":"gender","f":"gender","s":"Elle a ressenti ___ symptôme inhabituel après avoir pris ce médicament.","en":"She felt an unusual symptom after taking this medication.","a":"un","alts":[],"form":""}
+    ]
+  }
+]

@@ -1,0 +1,691 @@
+[
+ {
+  "id": 6174,
+  "qs": [
+   {
+    "slot": "s|0",
+    "f": "sense",
+    "s": "Autrefois, les paysans lisaient le soir à la lumière d'une ___ .",
+    "en": "In the old days, peasants read in the evening by the light of a candle.",
+    "a": "chandelle",
+    "alts": []
+   },
+   {
+    "slot": "s|0",
+    "f": "sense",
+    "s": "Il chercha une ___ pour éclairer la cave plongée dans le noir.",
+    "en": "He looked for a candle to light up the cellar that was plunged in darkness.",
+    "a": "chandelle",
+    "alts": []
+   },
+   {
+    "slot": "s|1",
+    "f": "sense",
+    "s": "L'attaquant a marqué en envoyant une ___ par-dessus le gardien.",
+    "en": "The forward scored by sending a high lob over the goalkeeper.",
+    "a": "chandelle",
+    "alts": []
+   },
+   {
+    "slot": "s|1",
+    "f": "sense",
+    "s": "Au tennis, elle a surpris son adversaire avec une magnifique ___ .",
+    "en": "In tennis, she surprised her opponent with a magnificent lob.",
+    "a": "chandelle",
+    "alts": []
+   },
+   {
+    "slot": "gender",
+    "f": "gender",
+    "s": "Elle alluma ___ chandelle pour éclairer la table du dîner.",
+    "en": "She lit a candle to light the dinner table.",
+    "a": "une",
+    "alts": []
+   },
+   {
+    "slot": "gender",
+    "f": "gender",
+    "s": "___ chandelle vacillait doucement dans le courant d'air.",
+    "en": "The candle flickered gently in the draft.",
+    "a": "La",
+    "alts": []
+   }
+  ]
+ },
+ {
+  "id": 6175,
+  "qs": [
+   {
+    "slot": "t|Présent|0",
+    "f": "tense",
+    "s": "Le virus ___ rapidement dans l'organisme dès qu'il pénètre dans une cellule.",
+    "en": "The virus proliferates rapidly in the body as soon as it enters a cell.",
+    "a": "prolifère",
+    "alts": [],
+    "form": "Présent"
+   },
+   {
+    "slot": "t|Présent|0",
+    "f": "tense",
+    "s": "Cette rumeur ___ sur les réseaux sociaux depuis la publication de l'article.",
+    "en": "This rumor is proliferating on social media since the article was published.",
+    "a": "prolifère",
+    "alts": [],
+    "form": "Présent"
+   },
+   {
+    "slot": "t|Présent|1",
+    "f": "tense",
+    "s": "Dans ce jeu vidéo, en tant que virus, tu ___ à chaque tour si personne ne réagit.",
+    "en": "In this video game, as a virus, you proliferate every turn if no one reacts.",
+    "a": "prolifères",
+    "alts": [],
+    "form": "Présent"
+   },
+   {
+    "slot": "t|Présent|1",
+    "f": "tense",
+    "s": "Dans cette simulation, en tant que bactérie, tu ___ toutes les vingt minutes tant que le milieu est favorable.",
+    "en": "In this simulation, as a bacterium, you proliferate every twenty minutes as long as the environment is favorable.",
+    "a": "prolifères",
+    "alts": [],
+    "form": "Présent"
+   },
+   {
+    "slot": "t|Présent|2",
+    "f": "tense",
+    "s": "Dans cette simulation écologique, en tant qu'espèce invasive, nous ___ faute de prédateurs naturels.",
+    "en": "In this ecological simulation, as an invasive species, we proliferate for lack of natural predators.",
+    "a": "proliférons",
+    "alts": [],
+    "form": "Présent"
+   },
+   {
+    "slot": "t|Présent|2",
+    "f": "tense",
+    "s": "Dans ce jeu de stratégie, en tant que colonie de fourmis, nous ___ rapidement si la nourriture est abondante.",
+    "en": "In this strategy game, as an ant colony, we proliferate quickly if food is abundant.",
+    "a": "proliférons",
+    "alts": [],
+    "form": "Présent"
+   },
+   {
+    "slot": "t|Présent|3",
+    "f": "tense",
+    "s": "Dans ce jeu de rôle, en tant que colonie de rats, vous ___ dans les égouts de la ville.",
+    "en": "In this role-playing game, as a colony of rats, you proliferate in the city's sewers.",
+    "a": "proliférez",
+    "alts": [],
+    "form": "Présent"
+   },
+   {
+    "slot": "t|Présent|3",
+    "f": "tense",
+    "s": "Dans ce scénario de science-fiction, en tant que robots autonomes, vous ___ sans limite après la panne du système de contrôle.",
+    "en": "In this science-fiction scenario, as autonomous robots, you proliferate without limit after the control system failure.",
+    "a": "proliférez",
+    "alts": [],
+    "form": "Présent"
+   },
+   {
+    "slot": "t|Présent|4",
+    "f": "tense",
+    "s": "Les algues vertes ___ dans cet étang pollué chaque été.",
+    "en": "The green algae proliferate in this polluted pond every summer.",
+    "a": "prolifèrent",
+    "alts": [],
+    "form": "Présent"
+   },
+   {
+    "slot": "t|Présent|4",
+    "f": "tense",
+    "s": "Les fausses informations ___ sur internet plus vite que les rectificatifs.",
+    "en": "Fake news proliferates on the internet faster than corrections.",
+    "a": "prolifèrent",
+    "alts": [],
+    "form": "Présent"
+   },
+   {
+    "slot": "t|Passé composé|0",
+    "f": "tense",
+    "s": "Dans ce jeu, en tant que virus informatique, j'___ dans tout le réseau avant d'être détecté.",
+    "en": "In this game, as a computer virus, I proliferated throughout the network before being detected.",
+    "a": "ai proliféré",
+    "alts": [],
+    "form": "Passé composé"
+   },
+   {
+    "slot": "t|Passé composé|0",
+    "f": "tense",
+    "s": "Lors de cette expérience, en tant que bactérie modifiée, j'___ dans la boîte de Petri en quelques heures seulement.",
+    "en": "During this experiment, as a modified bacterium, I proliferated in the petri dish in just a few hours.",
+    "a": "ai proliféré",
+    "alts": [],
+    "form": "Passé composé"
+   },
+   {
+    "slot": "t|Passé composé|1",
+    "f": "tense",
+    "s": "Dans ce jeu, en tant que virus, tu ___ dans tout le système avant que l'antivirus ne réagisse.",
+    "en": "In this game, as a virus, you proliferated throughout the system before the antivirus reacted.",
+    "a": "as proliféré",
+    "alts": [],
+    "form": "Passé composé"
+   },
+   {
+    "slot": "t|Passé composé|1",
+    "f": "tense",
+    "s": "Dans cette simulation, en tant que moisissure, tu ___ sur tout le pain en une seule nuit.",
+    "en": "In this simulation, as mold, you proliferated over the entire loaf of bread in a single night.",
+    "a": "as proliféré",
+    "alts": [],
+    "form": "Passé composé"
+   },
+   {
+    "slot": "t|Passé composé|2",
+    "f": "tense",
+    "s": "Le virus ___ dans tout l'organisme avant que les médecins ne réagissent.",
+    "en": "The virus proliferated throughout the body before the doctors reacted.",
+    "a": "a proliféré",
+    "alts": [],
+    "form": "Passé composé"
+   },
+   {
+    "slot": "t|Passé composé|2",
+    "f": "tense",
+    "s": "Cette rumeur ___ dans toute l'entreprise en quelques heures seulement.",
+    "en": "This rumor proliferated throughout the company in just a few hours.",
+    "a": "a proliféré",
+    "alts": [],
+    "form": "Passé composé"
+   },
+   {
+    "slot": "t|Passé composé|3",
+    "f": "tense",
+    "s": "Dans ce jeu de simulation, en tant que colonie de cellules cancéreuses, nous ___ avant que le traitement ne commence.",
+    "en": "In this simulation game, as a colony of cancer cells, we proliferated before the treatment began.",
+    "a": "avons proliféré",
+    "alts": [],
+    "form": "Passé composé"
+   },
+   {
+    "slot": "t|Passé composé|3",
+    "f": "tense",
+    "s": "Dans ce documentaire animé, en tant qu'espèce invasive, nous ___ dans toute la région faute de prédateurs.",
+    "en": "In this animated documentary, as an invasive species, we proliferated throughout the region for lack of predators.",
+    "a": "avons proliféré",
+    "alts": [],
+    "form": "Passé composé"
+   },
+   {
+    "slot": "t|Passé composé|4",
+    "f": "tense",
+    "s": "Dans ce scénario, en tant que colonie de rats, vous ___ dans les égouts avant que la ville ne réagisse.",
+    "en": "In this scenario, as a colony of rats, you proliferated in the sewers before the city reacted.",
+    "a": "avez proliféré",
+    "alts": [],
+    "form": "Passé composé"
+   },
+   {
+    "slot": "t|Passé composé|4",
+    "f": "tense",
+    "s": "Dans cette simulation, en tant que robots autonomes, vous ___ sans contrôle après la panne du système.",
+    "en": "In this simulation, as autonomous robots, you proliferated uncontrollably after the system failure.",
+    "a": "avez proliféré",
+    "alts": [],
+    "form": "Passé composé"
+   },
+   {
+    "slot": "t|Passé composé|5",
+    "f": "tense",
+    "s": "Les moustiques ___ dans la région après les fortes pluies de l'été dernier.",
+    "en": "Mosquitoes proliferated in the region after last summer's heavy rains.",
+    "a": "ont proliféré",
+    "alts": [],
+    "form": "Passé composé"
+   },
+   {
+    "slot": "t|Passé composé|5",
+    "f": "tense",
+    "s": "Les fausses nouvelles ___ en quelques jours à peine après la diffusion de la vidéo.",
+    "en": "Fake news proliferated within just a few days after the video was released.",
+    "a": "ont proliféré",
+    "alts": [],
+    "form": "Passé composé"
+   },
+   {
+    "slot": "t|Imparfait|0",
+    "f": "tense",
+    "s": "Autrefois, dans ce vieux jeu, en tant que virus, je ___ sans que personne ne s'en aperçoive.",
+    "en": "In the past, in this old game, as a virus, I used to proliferate without anyone noticing.",
+    "a": "proliférais",
+    "alts": [],
+    "form": "Imparfait"
+   },
+   {
+    "slot": "t|Imparfait|0",
+    "f": "tense",
+    "s": "À l'époque où tu incarnais cette bactérie dans le jeu, tu ___ toutes les dix minutes.",
+    "en": "Back when you played that bacterium in the game, you used to proliferate every ten minutes.",
+    "a": "proliférais",
+    "alts": [],
+    "form": "Imparfait"
+   },
+   {
+    "slot": "t|Imparfait|1",
+    "f": "tense",
+    "s": "Avant la vaccination généralisée, ce virus ___ facilement dans la population.",
+    "en": "Before widespread vaccination, this virus used to proliferate easily among the population.",
+    "a": "proliférait",
+    "alts": [],
+    "form": "Imparfait"
+   },
+   {
+    "slot": "t|Imparfait|1",
+    "f": "tense",
+    "s": "Chaque printemps, cette mauvaise herbe ___ dans tout le jardin si on ne l'arrachait pas.",
+    "en": "Every spring, this weed used to proliferate throughout the garden if it wasn't pulled out.",
+    "a": "proliférait",
+    "alts": [],
+    "form": "Imparfait"
+   },
+   {
+    "slot": "t|Imparfait|2",
+    "f": "tense",
+    "s": "Dans cette vieille simulation, en tant que cellules, nous ___ sans que rien ne nous arrête.",
+    "en": "In that old simulation, as cells, we used to proliferate without anything stopping us.",
+    "a": "proliférions",
+    "alts": [],
+    "form": "Imparfait"
+   },
+   {
+    "slot": "t|Imparfait|2",
+    "f": "tense",
+    "s": "Quand nous incarnions cette espèce invasive dans le jeu, nous ___ dès la première génération.",
+    "en": "When we played that invasive species in the game, we used to proliferate from the very first generation.",
+    "a": "proliférions",
+    "alts": [],
+    "form": "Imparfait"
+   },
+   {
+    "slot": "t|Imparfait|3",
+    "f": "tense",
+    "s": "Dans ce scénario, quand vous incarniez ces robots, vous ___ dès que le système tombait en panne.",
+    "en": "In that scenario, when you played those robots, you used to proliferate as soon as the system broke down.",
+    "a": "prolifériez",
+    "alts": [],
+    "form": "Imparfait"
+   },
+   {
+    "slot": "t|Imparfait|3",
+    "f": "tense",
+    "s": "À cette époque, en tant que colonie de rats dans le jeu, vous ___ dans tous les niveaux.",
+    "en": "At that time, as a colony of rats in the game, you used to proliferate throughout all the levels.",
+    "a": "prolifériez",
+    "alts": [],
+    "form": "Imparfait"
+   },
+   {
+    "slot": "t|Imparfait|4",
+    "f": "tense",
+    "s": "Avant l'arrivée des prédateurs naturels, ces insectes ___ sans aucun contrôle.",
+    "en": "Before the arrival of natural predators, these insects used to proliferate without any control.",
+    "a": "proliféraient",
+    "alts": [],
+    "form": "Imparfait"
+   },
+   {
+    "slot": "t|Imparfait|4",
+    "f": "tense",
+    "s": "Dans les années 1980, les rumeurs sur cette maladie ___ faute d'informations fiables.",
+    "en": "In the 1980s, rumors about this disease used to proliferate due to a lack of reliable information.",
+    "a": "proliféraient",
+    "alts": [],
+    "form": "Imparfait"
+   },
+   {
+    "slot": "t|Futur|0",
+    "f": "tense",
+    "s": "Dans ce jeu, en tant que virus, je ___ tant que personne ne m'arrêtera.",
+    "en": "In this game, as a virus, I will proliferate as long as no one stops me.",
+    "a": "proliférerai",
+    "alts": [],
+    "form": "Futur"
+   },
+   {
+    "slot": "t|Futur|0",
+    "f": "tense",
+    "s": "Selon le scénario, en tant que bactérie, je ___ rapidement si la température reste élevée.",
+    "en": "According to the scenario, as a bacterium, I will proliferate quickly if the temperature stays high.",
+    "a": "proliférerai",
+    "alts": [],
+    "form": "Futur"
+   },
+   {
+    "slot": "t|Futur|1",
+    "f": "tense",
+    "s": "Dans ce jeu, en tant que champignon, tu ___ sur tout le tronc si l'humidité persiste.",
+    "en": "In this game, as a fungus, you will proliferate over the whole trunk if the humidity persists.",
+    "a": "proliféreras",
+    "alts": [],
+    "form": "Futur"
+   },
+   {
+    "slot": "t|Futur|1",
+    "f": "tense",
+    "s": "Si tu deviens ce virus dans la simulation, tu ___ dans tout le système en quelques secondes.",
+    "en": "If you become this virus in the simulation, you will proliferate throughout the system in a few seconds.",
+    "a": "proliféreras",
+    "alts": [],
+    "form": "Futur"
+   },
+   {
+    "slot": "t|Futur|2",
+    "f": "tense",
+    "s": "Sans traitement rapide, ce virus ___ dans tout l'organisme.",
+    "en": "Without prompt treatment, this virus will proliferate throughout the body.",
+    "a": "proliférera",
+    "alts": [],
+    "form": "Futur"
+   },
+   {
+    "slot": "t|Futur|2",
+    "f": "tense",
+    "s": "Si on ne l'arrache pas maintenant, cette mauvaise herbe ___ dans tout le potager.",
+    "en": "If it isn't pulled out now, this weed will proliferate throughout the vegetable garden.",
+    "a": "proliférera",
+    "alts": [],
+    "form": "Futur"
+   },
+   {
+    "slot": "t|Futur|3",
+    "f": "tense",
+    "s": "Dans ce scénario, en tant qu'espèce invasive, nous ___ rapidement dans cette nouvelle région.",
+    "en": "In this scenario, as an invasive species, we will proliferate quickly in this new region.",
+    "a": "proliférerons",
+    "alts": [],
+    "form": "Futur"
+   },
+   {
+    "slot": "t|Futur|3",
+    "f": "tense",
+    "s": "Selon la simulation, en tant que cellules, nous ___ tant que les ressources seront disponibles.",
+    "en": "According to the simulation, as cells, we will proliferate as long as resources are available.",
+    "a": "proliférerons",
+    "alts": [],
+    "form": "Futur"
+   },
+   {
+    "slot": "t|Futur|4",
+    "f": "tense",
+    "s": "Dans ce jeu, en tant que colonie de robots, vous ___ dès que le système de contrôle cessera de fonctionner.",
+    "en": "In this game, as a colony of robots, you will proliferate as soon as the control system stops working.",
+    "a": "proliférerez",
+    "alts": [],
+    "form": "Futur"
+   },
+   {
+    "slot": "t|Futur|4",
+    "f": "tense",
+    "s": "Selon le scénario, en tant que rats, vous ___ dans les égouts si la ville n'intervient pas.",
+    "en": "According to the scenario, as rats, you will proliferate in the sewers if the city doesn't intervene.",
+    "a": "proliférerez",
+    "alts": [],
+    "form": "Futur"
+   },
+   {
+    "slot": "t|Futur|5",
+    "f": "tense",
+    "s": "Sans intervention rapide, ces insectes ___ dans toute la région d'ici l'été.",
+    "en": "Without swift intervention, these insects will proliferate throughout the region by summer.",
+    "a": "proliféreront",
+    "alts": [],
+    "form": "Futur"
+   },
+   {
+    "slot": "t|Futur|5",
+    "f": "tense",
+    "s": "Si rien n'est fait, les fausses informations ___ encore davantage sur les réseaux sociaux.",
+    "en": "If nothing is done, fake news will proliferate even more on social media.",
+    "a": "proliféreront",
+    "alts": [],
+    "form": "Futur"
+   },
+   {
+    "slot": "t|Conditionnel|0",
+    "f": "tense",
+    "s": "Si j'étais un virus dans ce jeu, je ___ sans que personne ne puisse m'arrêter.",
+    "en": "If I were a virus in this game, I would proliferate without anyone being able to stop me.",
+    "a": "proliférerais",
+    "alts": [],
+    "form": "Conditionnel"
+   },
+   {
+    "slot": "t|Conditionnel|0",
+    "f": "tense",
+    "s": "Si tu incarnais cette bactérie dans la simulation, tu ___ toutes les cinq minutes.",
+    "en": "If you played that bacterium in the simulation, you would proliferate every five minutes.",
+    "a": "proliférerais",
+    "alts": [],
+    "form": "Conditionnel"
+   },
+   {
+    "slot": "t|Conditionnel|1",
+    "f": "tense",
+    "s": "Si on ne traitait pas ce jardin, la mauvaise herbe ___ partout.",
+    "en": "If this garden weren't treated, the weed would proliferate everywhere.",
+    "a": "proliférerait",
+    "alts": [],
+    "form": "Conditionnel"
+   },
+   {
+    "slot": "t|Conditionnel|1",
+    "f": "tense",
+    "s": "Si les conditions étaient favorables, ce virus ___ très rapidement dans la population.",
+    "en": "If conditions were favorable, this virus would proliferate very quickly among the population.",
+    "a": "proliférerait",
+    "alts": [],
+    "form": "Conditionnel"
+   },
+   {
+    "slot": "t|Conditionnel|2",
+    "f": "tense",
+    "s": "Si nous étions cette espèce invasive, nous ___ sans aucun prédateur pour nous freiner.",
+    "en": "If we were this invasive species, we would proliferate without any predator to hold us back.",
+    "a": "proliférerions",
+    "alts": [],
+    "form": "Conditionnel"
+   },
+   {
+    "slot": "t|Conditionnel|2",
+    "f": "tense",
+    "s": "Si nous incarnions ces cellules dans la simulation, nous ___ jusqu'à saturer tout l'espace.",
+    "en": "If we played those cells in the simulation, we would proliferate until saturating the entire space.",
+    "a": "proliférerions",
+    "alts": [],
+    "form": "Conditionnel"
+   },
+   {
+    "slot": "t|Conditionnel|3",
+    "f": "tense",
+    "s": "Si vous incarniez ces robots dans le jeu, vous ___ dès que le système tomberait en panne.",
+    "en": "If you played those robots in the game, you would proliferate as soon as the system broke down.",
+    "a": "proliféreriez",
+    "alts": [],
+    "form": "Conditionnel"
+   },
+   {
+    "slot": "t|Conditionnel|3",
+    "f": "tense",
+    "s": "Si vous étiez cette colonie de rats, vous ___ dans tous les recoins de la ville.",
+    "en": "If you were that colony of rats, you would proliferate in every corner of the city.",
+    "a": "proliféreriez",
+    "alts": [],
+    "form": "Conditionnel"
+   },
+   {
+    "slot": "t|Conditionnel|4",
+    "f": "tense",
+    "s": "Si aucun prédateur n'existait, ces insectes ___ sans aucune limite.",
+    "en": "If no predator existed, these insects would proliferate without any limit.",
+    "a": "proliféreraient",
+    "alts": [],
+    "form": "Conditionnel"
+   },
+   {
+    "slot": "t|Conditionnel|4",
+    "f": "tense",
+    "s": "Si personne ne les combattait, ces fausses rumeurs ___ encore plus vite.",
+    "en": "If no one fought them, these false rumors would proliferate even faster.",
+    "a": "proliféreraient",
+    "alts": [],
+    "form": "Conditionnel"
+   },
+   {
+    "slot": "t|Subjonctif",
+    "f": "subj",
+    "s": "Je crains que cette rumeur ne ___ dans toute l'entreprise.",
+    "en": "I'm afraid this rumor will proliferate throughout the company.",
+    "a": "prolifère",
+    "alts": [],
+    "form": "Subjonctif"
+   },
+   {
+    "slot": "t|Subjonctif",
+    "f": "subj",
+    "s": "Il est possible que les moustiques ___ davantage cet été à cause de la chaleur.",
+    "en": "It's possible that mosquitoes will proliferate more this summer because of the heat.",
+    "a": "prolifèrent",
+    "alts": [],
+    "form": "Subjonctif"
+   },
+   {
+    "slot": "s|0",
+    "f": "sense",
+    "s": "Après la disparition de leurs prédateurs, les lapins ont commencé à ___ dans toute la région.",
+    "en": "After their predators disappeared, rabbits started to proliferate throughout the region.",
+    "a": "proliférer",
+    "alts": []
+   },
+   {
+    "slot": "s|0",
+    "f": "sense",
+    "s": "Ces bactéries peuvent ___ à une vitesse impressionnante en l'absence d'antibiotiques.",
+    "en": "These bacteria can proliferate at an impressive rate in the absence of antibiotics.",
+    "a": "proliférer",
+    "alts": []
+   },
+   {
+    "slot": "s|1",
+    "f": "sense",
+    "s": "Les fausses informations ont tendance à ___ sur internet plus vite que la vérité.",
+    "en": "Fake news tends to proliferate on the internet faster than the truth.",
+    "a": "proliférer",
+    "alts": []
+   },
+   {
+    "slot": "s|1",
+    "f": "sense",
+    "s": "Les armes légères continuent de ___ dans les zones de conflit malgré les embargos.",
+    "en": "Small arms continue to proliferate in conflict zones despite the embargoes.",
+    "a": "proliférer",
+    "alts": []
+   }
+  ]
+ },
+ {
+  "id": 6176,
+  "qs": [
+   {
+    "slot": "s|0",
+    "f": "sense",
+    "s": "Ce nouveau smartphone est équipé d'un appareil photo très ___.",
+    "en": "This new smartphone is equipped with a very sophisticated camera.",
+    "a": "sophistiqué",
+    "alts": [],
+    "form": ""
+   },
+   {
+    "slot": "s|0",
+    "f": "sense",
+    "s": "Les ingénieurs ont conçu un système de navigation extrêmement ___.",
+    "en": "The engineers designed an extremely sophisticated navigation system.",
+    "a": "sophistiqué",
+    "alts": [],
+    "form": ""
+   },
+   {
+    "slot": "s|1",
+    "f": "sense",
+    "s": "Son discours était tellement ___ qu'il en perdait toute sincérité.",
+    "en": "His speech was so contrived that it lost all sincerity.",
+    "a": "sophistiqué",
+    "alts": [],
+    "form": ""
+   },
+   {
+    "slot": "s|1",
+    "f": "sense",
+    "s": "Je trouve ce raisonnement trop ___ pour être convaincant.",
+    "en": "I find this reasoning too contrived to be convincing.",
+    "a": "sophistiqué",
+    "alts": [],
+    "form": ""
+   },
+   {
+    "slot": "g|mp",
+    "f": "agree",
+    "s": "Ces logiciels sont très ___ et demandent une formation spécifique.",
+    "en": "These pieces of software are very sophisticated and require specific training.",
+    "a": "sophistiqués",
+    "alts": [],
+    "form": ""
+   },
+   {
+    "slot": "g|mp",
+    "f": "agree",
+    "s": "Les mécanismes de cette montre sont incroyablement ___.",
+    "en": "The mechanisms of this watch are incredibly sophisticated.",
+    "a": "sophistiqués",
+    "alts": [],
+    "form": ""
+   },
+   {
+    "slot": "g|f",
+    "f": "agree",
+    "s": "Cette technologie est la plus ___ du marché.",
+    "en": "This technology is the most sophisticated on the market.",
+    "a": "sophistiquée",
+    "alts": [],
+    "form": ""
+   },
+   {
+    "slot": "g|f",
+    "f": "agree",
+    "s": "La méthode qu'ils ont développée est très ___.",
+    "en": "The method they developed is very sophisticated.",
+    "a": "sophistiquée",
+    "alts": [],
+    "form": ""
+   },
+   {
+    "slot": "g|fp",
+    "f": "agree",
+    "s": "Ces machines sont particulièrement ___ pour leur époque.",
+    "en": "These machines are particularly sophisticated for their time.",
+    "a": "sophistiquées",
+    "alts": [],
+    "form": ""
+   },
+   {
+    "slot": "g|fp",
+    "f": "agree",
+    "s": "Leurs stratégies marketing sont de plus en plus ___.",
+    "en": "Their marketing strategies are increasingly sophisticated.",
+    "a": "sophistiquées",
+    "alts": [],
+    "form": ""
+   }
+  ]
+ }
+]

@@ -1,0 +1,37 @@
+[
+  {
+    "id": 5934,
+    "qs": [
+      {"slot":"s|0","f":"sense","s":"Ce vin est classé grand ___ depuis plusieurs décennies.","en":"This wine has been classified as a grand cru for several decades.","a":"cru","alts":[]},
+      {"slot":"s|0","f":"sense","s":"Ce vignoble produit un ___ très prisé des connaisseurs.","en":"This vineyard produces a vintage highly prized by connoisseurs.","a":"cru","alts":[]},
+      {"slot":"s|1","f":"sense","s":"Il a raconté aux enfants une histoire de son ___ pour les amuser.","en":"He told the children a story of his own invention to amuse them.","a":"cru","alts":[]},
+      {"slot":"s|1","f":"sense","s":"Elle a ajouté quelques plaisanteries de son ___ à son discours.","en":"She added a few jokes of her own making to her speech.","a":"cru","alts":[]},
+      {"slot":"gender","f":"gender","s":"___ cru de cette région est mondialement connu.","en":"The vintage/vineyard of this region is world-famous.","a":"Le","alts":[]},
+      {"slot":"gender","f":"gender","s":"Ils ont dégusté ___ cru rare lors du dîner.","en":"They tasted a rare vintage during the dinner.","a":"un","alts":[]}
+    ]
+  },
+  {
+    "id": 5935,
+    "qs": [
+      {"slot":"s|0","f":"sense","s":"L'___ du christianisme a profondément transformé l'Empire romain.","en":"The advent of Christianity profoundly transformed the Roman Empire.","a":"avènement","alts":[]},
+      {"slot":"s|0","f":"sense","s":"Les sociologues étudient l'___ d'une nouvelle ère marquée par la mondialisation.","en":"Sociologists are studying the advent of a new era marked by globalization.","a":"avènement","alts":[]},
+      {"slot":"s|1","f":"sense","s":"L'___ de l'automobile a radicalement changé les habitudes de déplacement.","en":"The advent of the automobile radically changed travel habits.","a":"avènement","alts":[]},
+      {"slot":"s|1","f":"sense","s":"L'___ d'Internet dans les années 1990 a bouleversé l'accès à l'information.","en":"The advent (emergence) of the internet in the 1990s upended access to information.","a":"avènement","alts":[]},
+      {"slot":"s|2","f":"sense","s":"L'___ de Louis XVI au trône a eu lieu en 1774.","en":"Louis XVI's accession to the throne took place in 1774.","a":"avènement","alts":["accession"]},
+      {"slot":"s|2","f":"sense","s":"Sous l'Ancien Régime, l'___ d'un roi était toujours célébré par un sacre solennel à Reims.","en":"Under the Ancien Régime, a king's accession to the throne was always celebrated with a solemn coronation at Reims.","a":"avènement","alts":["accession"]},
+      {"slot":"s|3","f":"sense","s":"La date de l'___ de la reine Elizabeth II au trône est le 6 février 1952.","en":"The date of Queen Elizabeth II's enthronement is February 6, 1952.","a":"avènement","alts":["accession"]},
+      {"slot":"s|3","f":"sense","s":"Un grand cérémonial a marqué l'___ de l'empereur Napoléon III au trône en 1852.","en":"A grand ceremony marked Emperor Napoleon III's enthronement in 1852.","a":"avènement","alts":["accession"]},
+      {"slot":"gender","f":"gender","s":"___ avènement de la démocratie moderne remonte au XVIIIe siècle.","en":"The advent of modern democracy dates back to the 18th century.","a":"L'","alts":[]},
+      {"slot":"gender","f":"gender","s":"C'est ___ avènement extraordinaire pour ce petit pays.","en":"It is an extraordinary event for this small country.","a":"un","alts":[]}
+    ]
+  },
+  {
+    "id": 5936,
+    "qs": [
+      {"slot":"s|0","f":"sense","s":"J'ai fini de lire le premier ___ de cette encyclopédie en dix volumes.","en":"I finished reading the first volume of this ten-volume encyclopedia.","a":"tome","alts":[]},
+      {"slot":"s|0","f":"sense","s":"Cette bibliothèque possède le dernier ___ de la collection complète.","en":"This library has the last volume of the complete collection.","a":"tome","alts":[]},
+      {"slot":"gender","f":"gender","s":"As-tu déjà lu ___ tome que je t'ai prêté la semaine dernière ?","en":"Have you already read the volume I lent you last week?","a":"le","alts":[]},
+      {"slot":"gender","f":"gender","s":"Elle a acheté ___ tome rare chez ce vieux libraire.","en":"She bought a rare volume from that old bookseller.","a":"un","alts":[]}
+    ]
+  }
+]

@@ -1,0 +1,44 @@
+[
+  {
+    "id": "1922",
+    "fix": {
+      "etym": {
+        "from": "lat.",
+        "text": "Composé du préfixe re- et de 'cul' (derrière, partie postérieure), issu du latin 'culus'."
+      }
+    },
+    "reasons": ["etym was circular ('dérivé de reculer' to explain reculer); rewritten and source tag corrected to lat."]
+  },
+  {
+    "id": "1924",
+    "fix": {
+      "etym": {
+        "from": "a. fr.",
+        "text": "De l'ancien français 'gardein', issu du francique *'wardjan' (garder, protéger)."
+      },
+      "examples": [
+        {
+          "fr": "Le gardien de l'immeuble distribue le courrier et surveille les allées et venues.",
+          "en": "The building's caretaker distributes the mail and watches who comes and goes.",
+          "target": "gardien"
+        },
+        {
+          "fr": "Le gardien de but a réalisé un arrêt impressionnant lors du match.",
+          "en": "The goalkeeper made an impressive save during the match.",
+          "target": "gardien"
+        }
+      ]
+    },
+    "reasons": ["from tag said 'frq.' but text says 'vieux français'; word enters via a. fr. so changed to a. fr.", "first example used 'rôle gardien' as a forced/unnatural attributive adjective; replaced with natural nominal use"]
+  },
+  {
+    "id": "1928",
+    "fix": {
+      "etym": {
+        "from": "fr.",
+        "text": "Altération populaire de 'oui', avec prononciation relâchée attestée dans le registre familier."
+      }
+    },
+    "reasons": ["typo 'prononcication' corrected to 'prononciation'"]
+  }
+]

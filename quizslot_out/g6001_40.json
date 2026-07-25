@@ -1,0 +1,33 @@
+[
+  {
+    "id": 5334,
+    "qs": [
+      {"slot":"s|0","f":"sense","s":"Ce logiciel est très ___.","a":"interactif","en":"This software is very interactive.","alts":[],"form":""},
+      {"slot":"s|0","f":"sense","s":"Le professeur utilise un tableau ___ pour ses cours.","a":"interactif","en":"The teacher uses an interactive whiteboard for his classes.","alts":[],"form":""},
+      {"slot":"g|mp","f":"agree","s":"Ces jeux vidéo sont vraiment ___.","a":"interactifs","en":"These video games are really interactive.","alts":[],"form":""},
+      {"slot":"g|mp","f":"agree","s":"Les manuels scolaires deviennent de plus en plus ___.","a":"interactifs","en":"School textbooks are becoming more and more interactive.","alts":[],"form":""},
+      {"slot":"g|f","f":"agree","s":"Cette application est très ___.","a":"interactive","en":"This app is very interactive.","alts":[],"form":""},
+      {"slot":"g|f","f":"agree","s":"La carte ___ permet de zoomer sur chaque région du pays.","a":"interactive","en":"The interactive map allows you to zoom in on each region of the country.","alts":[],"form":""},
+      {"slot":"g|fp","f":"agree","s":"Ces bornes ___ facilitent l'accès aux informations touristiques.","a":"interactives","en":"These interactive kiosks make it easier to access tourist information.","alts":[],"form":""},
+      {"slot":"g|fp","f":"agree","s":"Les affiches ___ attirent l'attention des visiteurs du musée.","a":"interactives","en":"The interactive posters catch the attention of the museum's visitors.","alts":[],"form":""}
+    ]
+  },
+  {
+    "id": 5335,
+    "qs": [
+      {"slot":"s|0","f":"sense","s":"Chaque dimanche, les enfants vont embrasser leur ___ avant le déjeuner.","a":"mamie","en":"Every Sunday, the children go kiss their granny before lunch.","alts":[]},
+      {"slot":"s|0","f":"sense","s":"Ma ___ me raconte toujours des histoires avant de dormir.","a":"mamie","en":"My granny always tells me stories before I sleep.","alts":[]},
+      {"slot":"gender","f":"gender","s":"Dans le jardin, ___ mamie arrose ses fleurs tous les matins.","a":"la","en":"In the garden, the granny waters her flowers every morning.","alts":[]},
+      {"slot":"gender","f":"gender","s":"Elle a rencontré ___ mamie adorable dans le parc.","a":"une","en":"She met an adorable granny in the park.","alts":[]}
+    ]
+  },
+  {
+    "id": 5336,
+    "qs": [
+      {"slot":"s|0","f":"sense","s":"Chaque été, des milliers de touristes assistent à une ___ dans les arènes de Séville.","a":"corrida","en":"Every summer, thousands of tourists attend a bullfight in the arenas of Seville.","alts":[]},
+      {"slot":"s|0","f":"sense","s":"En Espagne, la ___ attire encore de nombreux spectateurs malgré les critiques des défenseurs des animaux.","a":"corrida","en":"In Spain, the bullfight still attracts many spectators despite criticism from animal rights defenders.","alts":[]},
+      {"slot":"gender","f":"gender","s":"Il a acheté deux billets pour ___ corrida qui se déroule dimanche.","a":"la","en":"He bought two tickets for the bullfight taking place on Sunday.","alts":[]},
+      {"slot":"gender","f":"gender","s":"Nous avons assisté à ___ corrida traditionnelle en Andalousie.","a":"une","en":"We attended a traditional bullfight in Andalusia.","alts":[]}
+    ]
+  }
+]

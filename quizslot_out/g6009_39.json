@@ -1,0 +1,99 @@
+[
+  {
+    "id": 6612,
+    "qs": [
+      {
+        "slot": "s|0",
+        "f": "sense",
+        "s": "Vous devez ___ rendre ce rapport avant vendredi.",
+        "en": "You must submit this report by Friday without fail.",
+        "a": "impérativement",
+        "alts": ["absolument"]
+      },
+      {
+        "slot": "s|0",
+        "f": "sense",
+        "s": "Il faut ___ respecter les consignes de sécurité avant d'entrer sur le chantier.",
+        "en": "You must follow the safety instructions without fail before entering the construction site.",
+        "a": "impérativement",
+        "alts": ["absolument"]
+      }
+    ]
+  },
+  {
+    "id": 6613,
+    "qs": [
+      {
+        "slot": "s|0",
+        "f": "sense",
+        "s": "Les bombardements ont laissé de terribles ___ dans la ville.",
+        "a": "ravages",
+        "en": "The bombings left terrible devastation in the city.",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "s|0",
+        "f": "sense",
+        "s": "L'alcool fait des ___ chez les jeunes.",
+        "a": "ravages",
+        "en": "Alcohol wreaks havoc among young people.",
+        "alts": [],
+        "form": ""
+      },
+      {
+        "slot": "gender",
+        "f": "gender",
+        "s": "Cet incendie a provoqué ___ vrai ravage dans la forêt.",
+        "a": "un",
+        "en": "This fire caused real devastation in the forest.",
+        "alts": []
+      },
+      {
+        "slot": "gender",
+        "f": "gender",
+        "s": "Les habitants n'oublieront jamais ___ ravage causé par cette inondation.",
+        "a": "le",
+        "en": "The residents will never forget the devastation caused by this flood.",
+        "alts": []
+      }
+    ]
+  },
+  {
+    "id": 6614,
+    "qs": [
+      {
+        "slot": "s|0",
+        "f": "sense",
+        "s": "Le mot « chat » ne contient qu'une seule ___.",
+        "a": "syllabe",
+        "en": "The word 'chat' contains only one syllable.",
+        "alts": []
+      },
+      {
+        "slot": "s|0",
+        "f": "sense",
+        "s": "Pour bien prononcer ce mot, il faut accentuer la dernière ___.",
+        "a": "syllabe",
+        "en": "To pronounce this word correctly, you must stress the last syllable.",
+        "alts": []
+      },
+      {
+        "slot": "gender",
+        "f": "gender",
+        "s": "___ syllabe finale de ce mot est muette.",
+        "a": "La",
+        "en": "The final syllable of this word is silent.",
+        "alts": []
+      },
+      {
+        "slot": "gender",
+        "f": "gender",
+        "s": "Il a ajouté ___ syllabe supplémentaire à la fin du vers.",
+        "a": "une",
+        "en": "He added one extra syllable to the end of the line.",
+        "alts": []
+      }
+    ]
+  }
+]

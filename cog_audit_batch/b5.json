@@ -1,0 +1,642 @@
+[
+  {
+    "id": 401,
+    "fr": "objet",
+    "pos": "noun",
+    "en": "object, objective",
+    "zh": "物体；目标；对象",
+    "cog": "object"
+  },
+  {
+    "id": 402,
+    "fr": "unique",
+    "pos": "adj",
+    "en": "unique",
+    "zh": "独特的；唯一的",
+    "cog": "unique"
+  },
+  {
+    "id": 403,
+    "fr": "souhaiter",
+    "pos": "verb",
+    "en": "to wish",
+    "zh": "希望；祝愿",
+    "cog": null
+  },
+  {
+    "id": 404,
+    "fr": "afin",
+    "pos": "conj",
+    "en": "in order to, so that",
+    "zh": "为了（常与de或que连用）",
+    "cog": null
+  },
+  {
+    "id": 405,
+    "fr": "peine",
+    "pos": "noun",
+    "en": "effort, trouble",
+    "zh": "努力；痛苦；惩罚",
+    "cog": null
+  },
+  {
+    "id": 406,
+    "fr": "malgré",
+    "pos": "prep",
+    "en": "despite, in spite of",
+    "zh": "尽管；不顾",
+    "cog": null
+  },
+  {
+    "id": 407,
+    "fr": "période",
+    "pos": "noun",
+    "en": "period",
+    "zh": "时期；周期；阶段",
+    "cog": "period"
+  },
+  {
+    "id": 408,
+    "fr": "engager",
+    "pos": "verb",
+    "en": "to hire, involve",
+    "zh": "雇用；使投入；承诺；参与",
+    "cog": "engage"
+  },
+  {
+    "id": 409,
+    "fr": "réaliser",
+    "pos": "verb",
+    "en": "to realize, achieve",
+    "zh": "实现；完成；意识到",
+    "cog": "realize"
+  },
+  {
+    "id": 410,
+    "fr": "parfois",
+    "pos": "adv",
+    "en": "sometimes",
+    "zh": "有时；偶尔",
+    "cog": null
+  },
+  {
+    "id": 411,
+    "fr": "lors",
+    "pos": "adv",
+    "en": "at the time of",
+    "zh": "当时；在……之时（常与 de 连用）",
+    "cog": null
+  },
+  {
+    "id": 412,
+    "fr": "sérieux",
+    "pos": "adj",
+    "en": "serious",
+    "zh": "严肃的；认真的；严重的",
+    "cog": "serious"
+  },
+  {
+    "id": 413,
+    "fr": "aider",
+    "pos": "verb",
+    "en": "to help, assist",
+    "zh": "帮助；援助；协助",
+    "cog": "aid"
+  },
+  {
+    "id": 414,
+    "fr": "voix",
+    "pos": "noun",
+    "en": "voice",
+    "zh": "声音；嗓音；（语法）语态；投票权",
+    "cog": "voice"
+  },
+  {
+    "id": 415,
+    "fr": "terminer",
+    "pos": "verb",
+    "en": "to finish, end,",
+    "zh": "完成；结束；终止",
+    "cog": "terminate"
+  },
+  {
+    "id": 416,
+    "fr": "base",
+    "pos": "noun",
+    "en": "base",
+    "zh": "基础；底部；基地；基本原则",
+    "cog": "base"
+  },
+  {
+    "id": 417,
+    "fr": "espérer",
+    "pos": "verb",
+    "en": "to hope",
+    "zh": "希望；期盼",
+    "cog": null
+  },
+  {
+    "id": 418,
+    "fr": "main",
+    "pos": "noun",
+    "en": "hand",
+    "zh": "手；手掌",
+    "cog": null
+  },
+  {
+    "id": 419,
+    "fr": "gros",
+    "pos": "adj",
+    "en": "big",
+    "zh": "大的；粗壮的；肥胖的；严重的",
+    "cog": null
+  },
+  {
+    "id": 420,
+    "fr": "arrêter",
+    "pos": "verb",
+    "en": "to stop, arrest",
+    "zh": "停止；逮捕；中断",
+    "cog": "arrest"
+  },
+  {
+    "id": 421,
+    "fr": "retour",
+    "pos": "noun",
+    "en": "return",
+    "zh": "返回；回归；回报",
+    "cog": "return"
+  },
+  {
+    "id": 422,
+    "fr": "prêt",
+    "pos": "noun",
+    "en": "ready",
+    "zh": "准备好的；愿意的",
+    "cog": null
+  },
+  {
+    "id": 423,
+    "fr": "occasion",
+    "pos": "noun",
+    "en": "opportunity, chance",
+    "zh": "机会；场合；二手（商品）",
+    "cog": "occasion"
+  },
+  {
+    "id": 424,
+    "fr": "député",
+    "pos": "noun",
+    "en": "deputy, parliamentary delegate",
+    "zh": "代表；议员；特派员",
+    "cog": "deputy"
+  },
+  {
+    "id": 425,
+    "fr": "regarder",
+    "pos": "verb",
+    "en": "to look, watch",
+    "zh": "看；注视；观看",
+    "cog": "regard"
+  },
+  {
+    "id": 426,
+    "fr": "plupart",
+    "pos": "noun",
+    "en": "most",
+    "zh": "大多数；大部分",
+    "cog": null
+  },
+  {
+    "id": 427,
+    "fr": "deuxième",
+    "pos": "noun",
+    "en": "second",
+    "zh": "第二；第二个",
+    "cog": null
+  },
+  {
+    "id": 428,
+    "fr": "résultat",
+    "pos": "noun",
+    "en": "result, follow-up",
+    "zh": "结果；成绩；效果",
+    "cog": "result"
+  },
+  {
+    "id": 429,
+    "fr": "écouter",
+    "pos": "verb",
+    "en": "to listen to",
+    "zh": "倾听；听取",
+    "cog": null
+  },
+  {
+    "id": 430,
+    "fr": "terre",
+    "pos": "noun",
+    "en": "earth, land, soil, world",
+    "zh": "大地；土地；泥土；地球；陆地",
+    "cog": null
+  },
+  {
+    "id": 431,
+    "fr": "valoir",
+    "pos": "verb",
+    "en": "to be worth",
+    "zh": "值得；相当于；有价值",
+    "cog": "value"
+  },
+  {
+    "id": 432,
+    "fr": "dollar",
+    "pos": "noun",
+    "en": "dollar",
+    "zh": "美元；元（货币单位）",
+    "cog": "dollar"
+  },
+  {
+    "id": 433,
+    "fr": "intérieur",
+    "pos": "adj",
+    "en": "interior, inside",
+    "zh": "内部的；内心的",
+    "cog": "interior"
+  },
+  {
+    "id": 434,
+    "fr": "page",
+    "pos": "noun",
+    "en": "page",
+    "zh": "页；版面",
+    "cog": "page"
+  },
+  {
+    "id": 435,
+    "fr": "confiance",
+    "pos": "noun",
+    "en": "trust, confidence",
+    "zh": "信任；信心",
+    "cog": "confidence"
+  },
+  {
+    "id": 436,
+    "fr": "choix",
+    "pos": "noun",
+    "en": "choice",
+    "zh": "选择；选项",
+    "cog": "choice"
+  },
+  {
+    "id": 437,
+    "fr": "prévoir",
+    "pos": "verb",
+    "en": "to foresee, anticipate",
+    "zh": "预见；预料；计划",
+    "cog": null
+  },
+  {
+    "id": 438,
+    "fr": "chance",
+    "pos": "noun",
+    "en": "luck; chance",
+    "zh": "运气；机会",
+    "cog": "chance"
+  },
+  {
+    "id": 439,
+    "fr": "notamment",
+    "pos": "adv",
+    "en": "notably",
+    "zh": "尤其；特别是",
+    "cog": null
+  },
+  {
+    "id": 440,
+    "fr": "type",
+    "pos": "noun",
+    "en": "type; guy",
+    "zh": "类型；（口）家伙；种类",
+    "cog": "type"
+  },
+  {
+    "id": 441,
+    "fr": "but",
+    "pos": "noun",
+    "en": "goal, aim, objective, purpose",
+    "zh": "目标；目的；球门",
+    "cog": null
+  },
+  {
+    "id": 442,
+    "fr": "matin",
+    "pos": "noun",
+    "en": "morning",
+    "zh": "早晨；上午",
+    "cog": null
+  },
+  {
+    "id": 443,
+    "fr": "grave",
+    "pos": "noun",
+    "en": "serious, grave",
+    "zh": "严重的；庄重的；低沉的",
+    "cog": "grave"
+  },
+  {
+    "id": 444,
+    "fr": "prise",
+    "pos": "noun",
+    "en": "grip, hold, seizure, catch",
+    "zh": "抓握；占领；捕获；插座",
+    "cog": null
+  },
+  {
+    "id": 445,
+    "fr": "européen",
+    "pos": "adj",
+    "en": "European",
+    "zh": "欧洲的；欧洲人的",
+    "cog": "european"
+  },
+  {
+    "id": 446,
+    "fr": "étude",
+    "pos": "noun",
+    "en": "study",
+    "zh": "学习；研究；调查；学业",
+    "cog": "study"
+  },
+  {
+    "id": 447,
+    "fr": "principe",
+    "pos": "noun",
+    "en": "principle",
+    "zh": "原则；原理；准则",
+    "cog": "principle"
+  },
+  {
+    "id": 448,
+    "fr": "remplacer",
+    "pos": "verb",
+    "en": "to replace",
+    "zh": "替换；取代；代替",
+    "cog": "replace"
+  },
+  {
+    "id": 449,
+    "fr": "avancer",
+    "pos": "verb",
+    "en": "to advance, move forward",
+    "zh": "推进；前进；提前",
+    "cog": "advance"
+  },
+  {
+    "id": 450,
+    "fr": "six",
+    "pos": "noun",
+    "en": "six",
+    "zh": "六；六个",
+    "cog": "six"
+  },
+  {
+    "id": 451,
+    "fr": "nécessaire",
+    "pos": "adj",
+    "en": "necessary, required",
+    "zh": "必要的；必需的",
+    "cog": "necessary"
+  },
+  {
+    "id": 452,
+    "fr": "activité",
+    "pos": "noun",
+    "en": "activity",
+    "zh": "活动；活跃；业务",
+    "cog": "activity"
+  },
+  {
+    "id": 453,
+    "fr": "valeur",
+    "pos": "noun",
+    "en": "value, worth",
+    "zh": "价值；价值量",
+    "cog": "value"
+  },
+  {
+    "id": 454,
+    "fr": "marquer",
+    "pos": "verb",
+    "en": "to mark",
+    "zh": "标记；打分；留下印记",
+    "cog": null
+  },
+  {
+    "id": 455,
+    "fr": "entier",
+    "pos": "adj",
+    "en": "whole, full",
+    "zh": "整个的；完整的；完全的",
+    "cog": "entire"
+  },
+  {
+    "id": 456,
+    "fr": "réponse",
+    "pos": "noun",
+    "en": "answer, response",
+    "zh": "回答；反应；答复",
+    "cog": "response"
+  },
+  {
+    "id": 457,
+    "fr": "aide",
+    "pos": "noun",
+    "en": "help, assistance",
+    "zh": "帮助；援助",
+    "cog": "aid"
+  },
+  {
+    "id": 458,
+    "fr": "principal",
+    "pos": "adj",
+    "en": "principal",
+    "zh": "主要的；首要的",
+    "cog": "principal"
+  },
+  {
+    "id": 459,
+    "fr": "élever",
+    "pos": "verb",
+    "en": "to grow, lift, raise",
+    "zh": "升高；抬起；养育；培养",
+    "cog": "elevate"
+  },
+  {
+    "id": 460,
+    "fr": "pourtant",
+    "pos": "adv",
+    "en": "yet, nonetheless, nevertheless",
+    "zh": "然而；尽管如此；可是",
+    "cog": null
+  },
+  {
+    "id": 461,
+    "fr": "commission",
+    "pos": "noun",
+    "en": "commission",
+    "zh": "委员会；佣金；任务；差事",
+    "cog": "commission"
+  },
+  {
+    "id": 462,
+    "fr": "cesser",
+    "pos": "verb",
+    "en": "to cease, stop",
+    "zh": "停止；中止；不再",
+    "cog": "cease"
+  },
+  {
+    "id": 463,
+    "fr": "poursuivre",
+    "pos": "verb",
+    "en": "to pursue",
+    "zh": "追赶；继续；起诉；追求",
+    "cog": null
+  },
+  {
+    "id": 464,
+    "fr": "maintenir",
+    "pos": "verb",
+    "en": "to maintain",
+    "zh": "维持；保持；坚持；维护",
+    "cog": "maintain"
+  },
+  {
+    "id": 465,
+    "fr": "époque",
+    "pos": "noun",
+    "en": "era, period",
+    "zh": "时代；时期",
+    "cog": "epoch"
+  },
+  {
+    "id": 466,
+    "fr": "exprimer",
+    "pos": "verb",
+    "en": "to express",
+    "zh": "表达；表示",
+    "cog": "express"
+  },
+  {
+    "id": 467,
+    "fr": "ami",
+    "pos": "adj",
+    "en": "friend",
+    "zh": "友好的；作为朋友的",
+    "cog": "amiable"
+  },
+  {
+    "id": 468,
+    "fr": "bas",
+    "pos": "noun",
+    "en": "low; stockings",
+    "zh": "底部；低处；长筒袜",
+    "cog": null
+  },
+  {
+    "id": 469,
+    "fr": "imposer",
+    "pos": "verb",
+    "en": "to impose",
+    "zh": "强加；施加；规定",
+    "cog": "impose"
+  },
+  {
+    "id": 470,
+    "fr": "moitié",
+    "pos": "noun",
+    "en": "half",
+    "zh": "一半；配偶（口语）",
+    "cog": "moiety"
+  },
+  {
+    "id": 471,
+    "fr": "avenir",
+    "pos": "noun",
+    "en": "future",
+    "zh": "未来；前途",
+    "cog": null
+  },
+  {
+    "id": 472,
+    "fr": "argent",
+    "pos": "noun",
+    "en": "money; silver",
+    "zh": "钱；银（金属）",
+    "cog": "argent"
+  },
+  {
+    "id": 473,
+    "fr": "mise",
+    "pos": "noun",
+    "en": "putting, placing",
+    "zh": "放置；投入；（赌注的）下注",
+    "cog": null
+  },
+  {
+    "id": 474,
+    "fr": "æil",
+    "pos": "noun",
+    "en": "eye",
+    "zh": "眼睛；目光；眼孔",
+    "cog": null
+  },
+  {
+    "id": 475,
+    "fr": "eau",
+    "pos": "noun",
+    "en": "water",
+    "zh": "水",
+    "cog": null
+  },
+  {
+    "id": 476,
+    "fr": "sauf",
+    "pos": "adj",
+    "en": "except; safe",
+    "zh": "除了；安全的；无恙的",
+    "cog": null
+  },
+  {
+    "id": 477,
+    "fr": "école",
+    "pos": "noun",
+    "en": "school",
+    "zh": "学校；流派；学派",
+    "cog": null
+  },
+  {
+    "id": 478,
+    "fr": "sécurité",
+    "pos": "noun",
+    "en": "security, safety",
+    "zh": "安全；保障；安心",
+    "cog": "security"
+  },
+  {
+    "id": 479,
+    "fr": "milieu",
+    "pos": "noun",
+    "en": "middle",
+    "zh": "中间；环境；圈子；中等",
+    "cog": "milieu"
+  },
+  {
+    "id": 480,
+    "fr": "lettre",
+    "pos": "noun",
+    "en": "letter",
+    "zh": "信件；字母；文学",
+    "cog": "letter"
+  }
+]

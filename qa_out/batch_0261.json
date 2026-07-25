@@ -1,0 +1,29 @@
+[
+  {
+    "id": "2091",
+    "fix": {
+      "zh": "武装；装备（武器）"
+    },
+    "reasons": ["zh sense '激发（情绪）' is not a standard meaning of armer and not in en"]
+  },
+  {
+    "id": "2093",
+    "fix": {
+      "etym": {
+        "from": "frq.",
+        "text": "Du francique *bastjan, « construire, tresser des clayonnages », à l'origine en référence à la construction d'enclos en branchages."
+      }
+    },
+    "reasons": ["removed fabricated Old High German form 'bastian'"]
+  },
+  {
+    "id": "2094",
+    "fix": {
+      "etym": {
+        "from": "lat.",
+        "text": "Du latin praemium, « récompense, gain, butin », d'où les sens de gratification, de prime financière puis de cadeau offert."
+      }
+    },
+    "reasons": ["incorrect etymology; 'prime' (reward/bonus/gift) derives from Latin praemium, not from prima/prima merces"]
+  }
+]
