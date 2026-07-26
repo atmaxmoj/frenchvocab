@@ -1,0 +1,2207 @@
+[
+  {
+    "id": 6820,
+    "qs": [
+      {
+        "slot": "s|0",
+        "f": "sense",
+        "s": "Son ___ lui a fait éviter une grave erreur.",
+        "a": "intuition",
+        "en": "Her intuition made her avoid a serious mistake.",
+        "alts": []
+      },
+      {
+        "slot": "s|0",
+        "f": "sense",
+        "s": "J'ai eu une soudaine ___ sur la bonne réponse.",
+        "a": "intuition",
+        "en": "I suddenly had an intuition about the right answer.",
+        "alts": []
+      },
+      {
+        "slot": "gender",
+        "f": "gender",
+        "s": "___ intuition est parfois plus forte que la raison.",
+        "a": "l'",
+        "en": "Intuition is sometimes stronger than reason.",
+        "alts": []
+      },
+      {
+        "slot": "gender",
+        "f": "gender",
+        "s": "Il fait confiance à ___ intuition.",
+        "a": "l'",
+        "en": "He trusts his intuition.",
+        "alts": []
+      }
+    ]
+  },
+  {
+    "id": 6821,
+    "qs": [
+      {
+        "slot": "t|Présent|0",
+        "f": "tense",
+        "s": "Je ___ avec un grand verre d'eau fraîche.",
+        "a": "désaltère",
+        "en": "I quench my thirst with a big glass of cool water.",
+        "alts": [],
+        "form": "Présent"
+      },
+      {
+        "slot": "t|Présent|0",
+        "f": "tense",
+        "s": "Elle ___ les voyageurs en leur offrant du thé.",
+        "a": "désaltère",
+        "en": "She quenches the travelers' thirst by offering them tea.",
+        "alts": [],
+        "form": "Présent"
+      },
+      {
+        "slot": "t|Présent|1",
+        "f": "tense",
+        "s": "Tu ___ ton chien après la longue promenade.",
+        "a": "désaltères",
+        "en": "You quench your dog's thirst after the long walk.",
+        "alts": [],
+        "form": "Présent"
+      },
+      {
+        "slot": "t|Présent|1",
+        "f": "tense",
+        "s": "Tu ___ vite quand il fait très chaud.",
+        "a": "désaltères",
+        "en": "You quench your thirst quickly when it is very hot.",
+        "alts": [],
+        "form": "Présent"
+      },
+      {
+        "slot": "t|Présent|2",
+        "f": "tense",
+        "s": "Nous ___ l'équipe à la mi-temps.",
+        "a": "désaltérons",
+        "en": "We quench the team's thirst at halftime.",
+        "alts": [],
+        "form": "Présent"
+      },
+      {
+        "slot": "t|Présent|2",
+        "f": "tense",
+        "s": "Nous ___ nos invités avec de la limonade.",
+        "a": "désaltérons",
+        "en": "We quench our guests' thirst with lemonade.",
+        "alts": [],
+        "form": "Présent"
+      },
+      {
+        "slot": "t|Présent|3",
+        "f": "tense",
+        "s": "Vous ___ les plantes en fin de journée.",
+        "a": "désaltérez",
+        "en": "You water/quench the plants at the end of the day.",
+        "alts": [],
+        "form": "Présent"
+      },
+      {
+        "slot": "t|Présent|3",
+        "f": "tense",
+        "s": "Vous ___ vos enfants avec du jus d'orange.",
+        "a": "désaltérez",
+        "en": "You quench your children's thirst with orange juice.",
+        "alts": [],
+        "form": "Présent"
+      },
+      {
+        "slot": "t|Présent|4",
+        "f": "tense",
+        "s": "Ils ___ les chevaux à l'abreuvoir.",
+        "a": "désaltèrent",
+        "en": "They quench the horses' thirst at the drinking trough.",
+        "alts": [],
+        "form": "Présent"
+      },
+      {
+        "slot": "t|Présent|4",
+        "f": "tense",
+        "s": "Elles ___ leur chien après la course.",
+        "a": "désaltèrent",
+        "en": "They quench their dog's thirst after the race.",
+        "alts": [],
+        "form": "Présent"
+      },
+      {
+        "slot": "t|Passé composé|0",
+        "f": "tense",
+        "s": "Je ___ après une longue randonnée sous le soleil.",
+        "a": "ai désaltéré",
+        "en": "I quenched my thirst after a long hike in the sun.",
+        "alts": [],
+        "form": "Passé composé"
+      },
+      {
+        "slot": "t|Passé composé|0",
+        "f": "tense",
+        "s": "J'___ les enfants avec de l'eau fraîche.",
+        "a": "ai désaltéré",
+        "en": "I quenched the children's thirst with cool water.",
+        "alts": [],
+        "form": "Passé composé"
+      },
+      {
+        "slot": "t|Passé composé|1",
+        "f": "tense",
+        "s": "Tu ___ ton chien sous le soleil de plomb.",
+        "a": "as désaltéré",
+        "en": "You quenched your dog's thirst under the scorching sun.",
+        "alts": [],
+        "form": "Passé composé"
+      },
+      {
+        "slot": "t|Passé composé|1",
+        "f": "tense",
+        "s": "Tu ___ les coureurs à l'arrivée.",
+        "a": "as désaltéré",
+        "en": "You quenched the runners' thirst at the finish line.",
+        "alts": [],
+        "form": "Passé composé"
+      },
+      {
+        "slot": "t|Passé composé|2",
+        "f": "tense",
+        "s": "Il ___ toute l'équipe avec des bouteilles d'eau.",
+        "a": "a désaltéré",
+        "en": "He quenched the whole team's thirst with bottles of water.",
+        "alts": [],
+        "form": "Passé composé"
+      },
+      {
+        "slot": "t|Passé composé|2",
+        "f": "tense",
+        "s": "Elle ___ son jardin après la sécheresse.",
+        "a": "a désaltéré",
+        "en": "She quenched her garden after the drought.",
+        "alts": [],
+        "form": "Passé composé"
+      },
+      {
+        "slot": "t|Passé composé|3",
+        "f": "tense",
+        "s": "Nous ___ les spectateurs pendant l'entracte.",
+        "a": "avons désaltéré",
+        "en": "We quenched the spectators' thirst during the intermission.",
+        "alts": [],
+        "form": "Passé composé"
+      },
+      {
+        "slot": "t|Passé composé|3",
+        "f": "tense",
+        "s": "Nous ___ les passants avec une fontaine publique.",
+        "a": "avons désaltéré",
+        "en": "We quenched the passersby's thirst with a public fountain.",
+        "alts": [],
+        "form": "Passé composé"
+      },
+      {
+        "slot": "t|Passé composé|4",
+        "f": "tense",
+        "s": "Vous ___ vos clients avec des boissons fraîches.",
+        "a": "avez désaltéré",
+        "en": "You quenched your customers' thirst with cool drinks.",
+        "alts": [],
+        "form": "Passé composé"
+      },
+      {
+        "slot": "t|Passé composé|4",
+        "f": "tense",
+        "s": "Vous ___ les animaux du refuge.",
+        "a": "avez désaltéré",
+        "en": "You quenched the shelter animals' thirst.",
+        "alts": [],
+        "form": "Passé composé"
+      },
+      {
+        "slot": "t|Passé composé|5",
+        "f": "tense",
+        "s": "Ils ___ les pompiers après l'incendie.",
+        "a": "ont désaltéré",
+        "en": "They quenched the firefighters' thirst after the fire.",
+        "alts": [],
+        "form": "Passé composé"
+      },
+      {
+        "slot": "t|Passé composé|5",
+        "f": "tense",
+        "s": "Elles ___ les sportifs à la fin du match.",
+        "a": "ont désaltéré",
+        "en": "They quenched the athletes' thirst at the end of the match.",
+        "alts": [],
+        "form": "Passé composé"
+      },
+      {
+        "slot": "t|Imparfait|0",
+        "f": "tense",
+        "s": "Je ___ mon petit frère quand nous rentrions de l'école.",
+        "a": "désaltérais",
+        "en": "I used to quench my little brother's thirst when we came home from school.",
+        "alts": [],
+        "form": "Imparfait"
+      },
+      {
+        "slot": "t|Imparfait|0",
+        "f": "tense",
+        "s": "Tu ___ toujours les cyclistes à cette fontaine.",
+        "a": "désaltérais",
+        "en": "You always quenched the cyclists' thirst at that fountain.",
+        "alts": [],
+        "form": "Imparfait"
+      },
+      {
+        "slot": "t|Imparfait|1",
+        "f": "tense",
+        "s": "Elle ___ les poules avec de l'eau du puits.",
+        "a": "désaltérait",
+        "en": "She used to quench the hens' thirst with well water.",
+        "alts": [],
+        "form": "Imparfait"
+      },
+      {
+        "slot": "t|Imparfait|1",
+        "f": "tense",
+        "s": "On ___ les vendeurs au marché en leur offrant du café.",
+        "a": "désaltérait",
+        "en": "We used to quench the vendors' thirst at the market by offering them coffee.",
+        "alts": [],
+        "form": "Imparfait"
+      },
+      {
+        "slot": "t|Imparfait|2",
+        "f": "tense",
+        "s": "Nous ___ les chiens de traîneau après l'expédition.",
+        "a": "désaltérions",
+        "en": "We used to quench the sled dogs' thirst after the expedition.",
+        "alts": [],
+        "form": "Imparfait"
+      },
+      {
+        "slot": "t|Imparfait|2",
+        "f": "tense",
+        "s": "Nous ___ les ouvriers à la pause.",
+        "a": "désaltérions",
+        "en": "We used to quench the workers' thirst at break time.",
+        "alts": [],
+        "form": "Imparfait"
+      },
+      {
+        "slot": "t|Imparfait|3",
+        "f": "tense",
+        "s": "Vous ___ vos hôtes avec du thé glacé.",
+        "a": "désaltériez",
+        "en": "You used to quench your guests' thirst with iced tea.",
+        "alts": [],
+        "form": "Imparfait"
+      },
+      {
+        "slot": "t|Imparfait|3",
+        "f": "tense",
+        "s": "Vous ___ les pèlerins à la source.",
+        "a": "désaltériez",
+        "en": "You used to quench the pilgrims' thirst at the spring.",
+        "alts": [],
+        "form": "Imparfait"
+      },
+      {
+        "slot": "t|Imparfait|4",
+        "f": "tense",
+        "s": "Ils ___ leurs montures avant de repartir.",
+        "a": "désaltéraient",
+        "en": "They used to quench their mounts' thirst before leaving again.",
+        "alts": [],
+        "form": "Imparfait"
+      },
+      {
+        "slot": "t|Imparfait|4",
+        "f": "tense",
+        "s": "Elles ___ les convives à chaque repas.",
+        "a": "désaltéraient",
+        "en": "They used to quench the diners' thirst at every meal.",
+        "alts": [],
+        "form": "Imparfait"
+      },
+      {
+        "slot": "t|Futur|0",
+        "f": "tense",
+        "s": "Je ___ toute la famille avec de la sangria.",
+        "a": "désaltérerai",
+        "en": "I will quench the whole family's thirst with sangria.",
+        "alts": [],
+        "form": "Futur"
+      },
+      {
+        "slot": "t|Futur|0",
+        "f": "tense",
+        "s": "J'___ les randonneurs à la prochaine halte.",
+        "a": "désaltérerai",
+        "en": "I will quench the hikers' thirst at the next stop.",
+        "alts": [],
+        "form": "Futur"
+      },
+      {
+        "slot": "t|Futur|1",
+        "f": "tense",
+        "s": "Tu ___ ton chien dès le retour de la promenade.",
+        "a": "désaltéreras",
+        "en": "You will quench your dog's thirst as soon as you return from the walk.",
+        "alts": [],
+        "form": "Futur"
+      },
+      {
+        "slot": "t|Futur|1",
+        "f": "tense",
+        "s": "Tu ___ les invités avec du champagne.",
+        "a": "désaltéreras",
+        "en": "You will quench the guests' thirst with champagne.",
+        "alts": [],
+        "form": "Futur"
+      },
+      {
+        "slot": "t|Futur|2",
+        "f": "tense",
+        "s": "Elle ___ ses plantes en arrosant le sol.",
+        "a": "désaltérera",
+        "en": "She will quench her plants by watering the soil.",
+        "alts": [],
+        "form": "Futur"
+      },
+      {
+        "slot": "t|Futur|2",
+        "f": "tense",
+        "s": "On ___ les coureurs à chaque station.",
+        "a": "désaltérera",
+        "en": "We will quench the runners' thirst at each station.",
+        "alts": [],
+        "form": "Futur"
+      },
+      {
+        "slot": "t|Futur|3",
+        "f": "tense",
+        "s": "Nous ___ les spectateurs sous le soleil.",
+        "a": "désaltérerons",
+        "en": "We will quench the spectators' thirst in the sun.",
+        "alts": [],
+        "form": "Futur"
+      },
+      {
+        "slot": "t|Futur|3",
+        "f": "tense",
+        "s": "Nous ___ les passagers pendant le voyage.",
+        "a": "désaltérerons",
+        "en": "We will quench the passengers' thirst during the trip.",
+        "alts": [],
+        "form": "Futur"
+      },
+      {
+        "slot": "t|Futur|4",
+        "f": "tense",
+        "s": "Vous ___ vos collègues à la pause café.",
+        "a": "désaltérerez",
+        "en": "You will quench your colleagues' thirst at the coffee break.",
+        "alts": [],
+        "form": "Futur"
+      },
+      {
+        "slot": "t|Futur|4",
+        "f": "tense",
+        "s": "Vous ___ les enfants après leur match.",
+        "a": "désaltérerez",
+        "en": "You will quench the children's thirst after their match.",
+        "alts": [],
+        "form": "Futur"
+      },
+      {
+        "slot": "t|Futur|5",
+        "f": "tense",
+        "s": "Ils ___ les troupes avant la bataille.",
+        "a": "désaltéreront",
+        "en": "They will quench the troops' thirst before the battle.",
+        "alts": [],
+        "form": "Futur"
+      },
+      {
+        "slot": "t|Futur|5",
+        "f": "tense",
+        "s": "Elles ___ leurs chats en leur donnant du lait.",
+        "a": "désaltéreront",
+        "en": "They will quench their cats' thirst by giving them milk.",
+        "alts": [],
+        "form": "Futur"
+      },
+      {
+        "slot": "t|Conditionnel|0",
+        "f": "tense",
+        "s": "Je ___ volontiers les voyageurs égarés.",
+        "a": "désaltérerais",
+        "en": "I would gladly quench the lost travelers' thirst.",
+        "alts": [],
+        "form": "Conditionnel"
+      },
+      {
+        "slot": "t|Conditionnel|0",
+        "f": "tense",
+        "s": "Tu ___ mieux les plantes si tu avais plus d'eau.",
+        "a": "désaltérerais",
+        "en": "You would water the plants better if you had more water.",
+        "alts": [],
+        "form": "Conditionnel"
+      },
+      {
+        "slot": "t|Conditionnel|1",
+        "f": "tense",
+        "s": "Elle ___ tout le monde avec sa limonade maison.",
+        "a": "désaltérerait",
+        "en": "She would quench everyone's thirst with her homemade lemonade.",
+        "alts": [],
+        "form": "Conditionnel"
+      },
+      {
+        "slot": "t|Conditionnel|1",
+        "f": "tense",
+        "s": "On ___ facilement les athlètes avec cette boisson.",
+        "a": "désaltérerait",
+        "en": "One could easily quench the athletes' thirst with this drink.",
+        "alts": [],
+        "form": "Conditionnel"
+      },
+      {
+        "slot": "t|Conditionnel|2",
+        "f": "tense",
+        "s": "Nous ___ les sans-abri si nous avions une fontaine.",
+        "a": "désaltérerions",
+        "en": "We would quench the homeless people's thirst if we had a fountain.",
+        "alts": [],
+        "form": "Conditionnel"
+      },
+      {
+        "slot": "t|Conditionnel|2",
+        "f": "tense",
+        "s": "Nous ___ les oiseaux du jardin en été.",
+        "a": "désaltérerions",
+        "en": "We would quench the garden birds' thirst in the summer.",
+        "alts": [],
+        "form": "Conditionnel"
+      },
+      {
+        "slot": "t|Conditionnel|3",
+        "f": "tense",
+        "s": "Vous ___ vos amis avec du jus de pomme.",
+        "a": "désaltéreriez",
+        "en": "You would quench your friends' thirst with apple juice.",
+        "alts": [],
+        "form": "Conditionnel"
+      },
+      {
+        "slot": "t|Conditionnel|3",
+        "f": "tense",
+        "s": "Vous ___ les clients avec plus de choix de boissons.",
+        "a": "désaltéreriez",
+        "en": "You would quench the customers' thirst with more drink choices.",
+        "alts": [],
+        "form": "Conditionnel"
+      },
+      {
+        "slot": "t|Conditionnel|4",
+        "f": "tense",
+        "s": "Ils ___ les randonneurs à chaque refuge.",
+        "a": "désaltéreraient",
+        "en": "They would quench the hikers' thirst at each shelter.",
+        "alts": [],
+        "form": "Conditionnel"
+      },
+      {
+        "slot": "t|Conditionnel|4",
+        "f": "tense",
+        "s": "Elles ___ leurs hôtes avec plus d'attention.",
+        "a": "désaltéreraient",
+        "en": "They would quench their guests' thirst with more attention.",
+        "alts": [],
+        "form": "Conditionnel"
+      },
+      {
+        "slot": "t|Subjonctif",
+        "f": "subj",
+        "s": "Il faut que tu ___ les invités avant le discours.",
+        "a": "désaltères",
+        "en": "You must quench the guests' thirst before the speech.",
+        "alts": [],
+        "form": "Subjonctif"
+      },
+      {
+        "slot": "t|Subjonctif",
+        "f": "subj",
+        "s": "Je veux qu'elle ___ le chien après la promenade.",
+        "a": "désaltère",
+        "en": "I want her to quench the dog's thirst after the walk.",
+        "alts": [],
+        "form": "Subjonctif"
+      },
+      {
+        "slot": "s|0",
+        "f": "sense",
+        "s": "Cette limonade fraîche va nous ___.",
+        "a": "désaltérer",
+        "en": "This cool lemonade will quench our thirst.",
+        "alts": []
+      },
+      {
+        "slot": "s|0",
+        "f": "sense",
+        "s": "Un verre d'eau suffit à ___ les sportifs.",
+        "a": "désaltérer",
+        "en": "A glass of water is enough to quench the athletes' thirst.",
+        "alts": []
+      },
+      {
+        "slot": "s|1",
+        "f": "sense",
+        "s": "Les cyclistes se sont arrêtés pour se ___.",
+        "a": "désaltérer",
+        "en": "The cyclists stopped to get a drink / quench their thirst.",
+        "alts": []
+      },
+      {
+        "slot": "s|1",
+        "f": "sense",
+        "s": "Après la course, il a bu un grand verre pour se ___.",
+        "a": "désaltérer",
+        "en": "After the race, he drank a large glass to quench his thirst.",
+        "alts": []
+      }
+    ]
+  },
+  {
+    "id": 6822,
+    "qs": [
+      {
+        "slot": "s|0",
+        "f": "sense",
+        "s": "J'ai cassé la ___ de ma bicyclette.",
+        "a": "pédale",
+        "en": "I broke the pedal of my bicycle.",
+        "alts": []
+      },
+      {
+        "slot": "s|0",
+        "f": "sense",
+        "s": "La ___ de l'accélérateur est trop dure.",
+        "a": "pédale",
+        "en": "The accelerator pedal is too stiff.",
+        "alts": []
+      },
+      {
+        "slot": "s|1",
+        "f": "sense",
+        "s": "Il a employé un mot offensant, la ___, pour blesser son voisin.",
+        "a": "pédale",
+        "en": "He used an offensive word, \"pédale\", to hurt his neighbor.",
+        "alts": []
+      },
+      {
+        "slot": "s|1",
+        "f": "sense",
+        "s": "Cette blague utilise la ___ de façon blessante et dégradante.",
+        "a": "pédale",
+        "en": "This joke uses \"pédale\" in a hurtful and demeaning way.",
+        "alts": []
+      },
+      {
+        "slot": "gender",
+        "f": "gender",
+        "s": "___ pédale de la bicyclette est cassée.",
+        "a": "La",
+        "en": "The bicycle pedal is broken.",
+        "alts": []
+      },
+      {
+        "slot": "gender",
+        "f": "gender",
+        "s": "Elle a enfoncé ___ pédale du frein.",
+        "a": "la",
+        "en": "She pressed the brake pedal.",
+        "alts": []
+      }
+    ]
+  },
+  {
+    "id": 6823,
+    "qs": [
+      {
+        "slot": "s|0",
+        "f": "sense",
+        "s": "La ___ de ce timbre en fait un objet précieux.",
+        "a": "rareté",
+        "en": "The rarity of this stamp makes it a precious object.",
+        "alts": []
+      },
+      {
+        "slot": "s|0",
+        "f": "sense",
+        "s": "On remarque la ___ des pluies dans cette région.",
+        "a": "rareté",
+        "en": "We notice the scarcity of rain in this region.",
+        "alts": []
+      },
+      {
+        "slot": "s|1",
+        "f": "sense",
+        "s": "Ce vase ancien est une véritable ___.",
+        "a": "rareté",
+        "en": "This ancient vase is a real curio / rarity.",
+        "alts": []
+      },
+      {
+        "slot": "s|1",
+        "f": "sense",
+        "s": "Parmi ses livres, il conserve cette précieuse ___.",
+        "a": "rareté",
+        "en": "Among his books, he keeps this precious curio.",
+        "alts": []
+      },
+      {
+        "slot": "gender",
+        "f": "gender",
+        "s": "___ rareté de ce minéral intrigue les géologues.",
+        "a": "La",
+        "en": "The rarity of this mineral intrigues geologists.",
+        "alts": []
+      },
+      {
+        "slot": "gender",
+        "f": "gender",
+        "s": "___ rareté de cette collection est célèbre.",
+        "a": "La",
+        "en": "The rarity of this collection is famous.",
+        "alts": []
+      }
+    ]
+  },
+  {
+    "id": 6824,
+    "qs": [
+      {
+        "slot": "s|0",
+        "f": "sense",
+        "s": "Il s'est tordu la ___ en courant.",
+        "a": "cheville",
+        "en": "He sprained his ankle while running.",
+        "alts": []
+      },
+      {
+        "slot": "s|0",
+        "f": "sense",
+        "s": "Elle porte une entorse à la ___ gauche.",
+        "a": "cheville",
+        "en": "She has a sprain in her left ankle.",
+        "alts": []
+      },
+      {
+        "slot": "s|1",
+        "f": "sense",
+        "s": "On fixe la corde avec une ___ en bois.",
+        "a": "cheville",
+        "en": "We fasten the rope with a wooden peg.",
+        "alts": []
+      },
+      {
+        "slot": "s|1",
+        "f": "sense",
+        "s": "Le marin a glissé une ___ dans l'œillet.",
+        "a": "cheville",
+        "en": "The sailor slipped a peg into the eyelet.",
+        "alts": []
+      },
+      {
+        "slot": "s|2",
+        "f": "sense",
+        "s": "Les menuisiers utilisent une ___ pour assembler les pièces.",
+        "a": "cheville",
+        "en": "The carpenters use a dowel to assemble the pieces.",
+        "alts": []
+      },
+      {
+        "slot": "s|2",
+        "f": "sense",
+        "s": "Cette ___ en chêne assure la solidité de la chaise.",
+        "a": "cheville",
+        "en": "This oak dowel ensures the sturdiness of the chair.",
+        "alts": []
+      },
+      {
+        "slot": "s|3",
+        "f": "sense",
+        "s": "La lampe est fixée au mur par une ___.",
+        "a": "cheville",
+        "en": "The lamp is fixed to the wall by a wall plug.",
+        "alts": []
+      },
+      {
+        "slot": "s|3",
+        "f": "sense",
+        "s": "Il a percé le mur pour insérer une ___.",
+        "a": "cheville",
+        "en": "He drilled the wall to insert a wall plug.",
+        "alts": []
+      },
+      {
+        "slot": "gender",
+        "f": "gender",
+        "s": "___ cheville de cette étagère est usée.",
+        "a": "La",
+        "en": "The dowel of this shelf is worn.",
+        "alts": []
+      },
+      {
+        "slot": "gender",
+        "f": "gender",
+        "s": "Elle a mal à ___ cheville gauche.",
+        "a": "la",
+        "en": "She has pain in her left ankle.",
+        "alts": []
+      }
+    ]
+  },
+  {
+    "id": 6825,
+    "qs": [
+      {
+        "slot": "t|Présent|0",
+        "f": "tense",
+        "s": "Je ___ une étagère dans le garage.",
+        "a": "bricole",
+        "en": "I tinker with / build a shelf in the garage.",
+        "alts": [],
+        "form": "Présent"
+      },
+      {
+        "slot": "t|Présent|0",
+        "f": "tense",
+        "s": "Elle ___ des bijoux avec des matériaux recyclés.",
+        "a": "bricole",
+        "en": "She tinkers with / makes jewelry from recycled materials.",
+        "alts": [],
+        "form": "Présent"
+      },
+      {
+        "slot": "t|Présent|1",
+        "f": "tense",
+        "s": "Tu ___ une table en bois de palette.",
+        "a": "bricoles",
+        "en": "You tinker with / build a table from pallet wood.",
+        "alts": [],
+        "form": "Présent"
+      },
+      {
+        "slot": "t|Présent|1",
+        "f": "tense",
+        "s": "Tu ___ toujours quelque chose le week-end.",
+        "a": "bricoles",
+        "en": "You are always tinkering with something on weekends.",
+        "alts": [],
+        "form": "Présent"
+      },
+      {
+        "slot": "t|Présent|2",
+        "f": "tense",
+        "s": "Nous ___ une cabane dans le jardin.",
+        "a": "bricolons",
+        "en": "We tinker with / build a hut in the garden.",
+        "alts": [],
+        "form": "Présent"
+      },
+      {
+        "slot": "t|Présent|2",
+        "f": "tense",
+        "s": "Nous ___ un petit meuble pour l'entrée.",
+        "a": "bricolons",
+        "en": "We tinker with / make a small piece of furniture for the entryway.",
+        "alts": [],
+        "form": "Présent"
+      },
+      {
+        "slot": "t|Présent|3",
+        "f": "tense",
+        "s": "Vous ___ une lampe originale.",
+        "a": "bricolez",
+        "en": "You tinker with / make an original lamp.",
+        "alts": [],
+        "form": "Présent"
+      },
+      {
+        "slot": "t|Présent|3",
+        "f": "tense",
+        "s": "Vous ___ des décorations pour la fête.",
+        "a": "bricolez",
+        "en": "You tinker with / make decorations for the party.",
+        "alts": [],
+        "form": "Présent"
+      },
+      {
+        "slot": "t|Présent|4",
+        "f": "tense",
+        "s": "Ils ___ des maquettes d'avions.",
+        "a": "bricolent",
+        "en": "They tinker with / build model airplanes.",
+        "alts": [],
+        "form": "Présent"
+      },
+      {
+        "slot": "t|Présent|4",
+        "f": "tense",
+        "s": "Elles ___ des accessoires pour leur spectacle.",
+        "a": "bricolent",
+        "en": "They tinker with / make accessories for their show.",
+        "alts": [],
+        "form": "Présent"
+      },
+      {
+        "slot": "t|Passé composé|0",
+        "f": "tense",
+        "s": "J'ai ___ une boîte à outils moi-même.",
+        "a": "ai bricolé",
+        "en": "I tinkered with / made a toolbox myself.",
+        "alts": [],
+        "form": "Passé composé"
+      },
+      {
+        "slot": "t|Passé composé|0",
+        "f": "tense",
+        "s": "Je ___ une table basse avec des planches.",
+        "a": "ai bricolé",
+        "en": "I tinkered with / made a coffee table with planks.",
+        "alts": [],
+        "form": "Passé composé"
+      },
+      {
+        "slot": "t|Passé composé|1",
+        "f": "tense",
+        "s": "Tu ___ un porte-manteau en fer vieilli.",
+        "a": "as bricolé",
+        "en": "You tinkered with / made a coat rack from aged iron.",
+        "alts": [],
+        "form": "Passé composé"
+      },
+      {
+        "slot": "t|Passé composé|1",
+        "f": "tense",
+        "s": "Tu ___ un petit robot avec tes enfants.",
+        "a": "as bricolé",
+        "en": "You tinkered with / made a small robot with your children.",
+        "alts": [],
+        "form": "Passé composé"
+      },
+      {
+        "slot": "t|Passé composé|2",
+        "f": "tense",
+        "s": "Il ___ une antenne pour la télévision.",
+        "a": "a bricolé",
+        "en": "He tinkered with / made an antenna for the television.",
+        "alts": [],
+        "form": "Passé composé"
+      },
+      {
+        "slot": "t|Passé composé|2",
+        "f": "tense",
+        "s": "Elle ___ une décoration murale en macramé.",
+        "a": "a bricolé",
+        "en": "She tinkered with / made a macramé wall decoration.",
+        "alts": [],
+        "form": "Passé composé"
+      },
+      {
+        "slot": "t|Passé composé|3",
+        "f": "tense",
+        "s": "Nous ___ une serre pour le potager.",
+        "a": "avons bricolé",
+        "en": "We tinkered with / built a greenhouse for the vegetable garden.",
+        "alts": [],
+        "form": "Passé composé"
+      },
+      {
+        "slot": "t|Passé composé|3",
+        "f": "tense",
+        "s": "Nous ___ un abri de jardin l'été dernier.",
+        "a": "avons bricolé",
+        "en": "We tinkered with / built a garden shed last summer.",
+        "alts": [],
+        "form": "Passé composé"
+      },
+      {
+        "slot": "t|Passé composé|4",
+        "f": "tense",
+        "s": "Vous ___ une cuisine d'été en bois.",
+        "a": "avez bricolé",
+        "en": "You tinkered with / built a summer kitchen in wood.",
+        "alts": [],
+        "form": "Passé composé"
+      },
+      {
+        "slot": "t|Passé composé|4",
+        "f": "tense",
+        "s": "Vous ___ une étagère industrielle.",
+        "a": "avez bricolé",
+        "en": "You tinkered with / made an industrial-style shelf.",
+        "alts": [],
+        "form": "Passé composé"
+      },
+      {
+        "slot": "t|Passé composé|5",
+        "f": "tense",
+        "s": "Ils ___ une remorque pour leurs vacances.",
+        "a": "ont bricolé",
+        "en": "They tinkered with / built a trailer for their vacation.",
+        "alts": [],
+        "form": "Passé composé"
+      },
+      {
+        "slot": "t|Passé composé|5",
+        "f": "tense",
+        "s": "Elles ___ un théâtre de marionnettes.",
+        "a": "ont bricolé",
+        "en": "They tinkered with / made a puppet theater.",
+        "alts": [],
+        "form": "Passé composé"
+      },
+      {
+        "slot": "t|Imparfait|0",
+        "f": "tense",
+        "s": "Je ___ des maquettes quand j'étais enfant.",
+        "a": "bricolais",
+        "en": "I used to tinker with models when I was a child.",
+        "alts": [],
+        "form": "Imparfait"
+      },
+      {
+        "slot": "t|Imparfait|0",
+        "f": "tense",
+        "s": "Tu ___ souvent des petits objets en métal.",
+        "a": "bricolais",
+        "en": "You often used to tinker with small metal objects.",
+        "alts": [],
+        "form": "Imparfait"
+      },
+      {
+        "slot": "t|Imparfait|1",
+        "f": "tense",
+        "s": "Elle ___ des cadres photo le dimanche.",
+        "a": "bricolait",
+        "en": "She used to tinker with / make picture frames on Sundays.",
+        "alts": [],
+        "form": "Imparfait"
+      },
+      {
+        "slot": "t|Imparfait|1",
+        "f": "tense",
+        "s": "On ___ des meubles avec des caisses de vin.",
+        "a": "bricolait",
+        "en": "We used to tinker with / make furniture from wine crates.",
+        "alts": [],
+        "form": "Imparfait"
+      },
+      {
+        "slot": "t|Imparfait|2",
+        "f": "tense",
+        "s": "Nous ___ des instruments de musique artisanaux.",
+        "a": "bricolions",
+        "en": "We used to tinker with / make handmade musical instruments.",
+        "alts": [],
+        "form": "Imparfait"
+      },
+      {
+        "slot": "t|Imparfait|2",
+        "f": "tense",
+        "s": "Nous ___ des nichoirs pour les oiseaux.",
+        "a": "bricolions",
+        "en": "We used to tinker with / make birdhouses.",
+        "alts": [],
+        "form": "Imparfait"
+      },
+      {
+        "slot": "t|Imparfait|3",
+        "f": "tense",
+        "s": "Vous ___ des bijoux fantaisie le samedi.",
+        "a": "bricoliez",
+        "en": "You used to tinker with / make costume jewelry on Saturdays.",
+        "alts": [],
+        "form": "Imparfait"
+      },
+      {
+        "slot": "t|Imparfait|3",
+        "f": "tense",
+        "s": "Vous ___ des étagères murales.",
+        "a": "bricoliez",
+        "en": "You used to tinker with / make wall shelves.",
+        "alts": [],
+        "form": "Imparfait"
+      },
+      {
+        "slot": "t|Imparfait|4",
+        "f": "tense",
+        "s": "Ils ___ des meubles en carton.",
+        "a": "bricolaient",
+        "en": "They used to tinker with / make cardboard furniture.",
+        "alts": [],
+        "form": "Imparfait"
+      },
+      {
+        "slot": "t|Imparfait|4",
+        "f": "tense",
+        "s": "Elles ___ des décorations de Noël.",
+        "a": "bricolaient",
+        "en": "They used to tinker with / make Christmas decorations.",
+        "alts": [],
+        "form": "Imparfait"
+      },
+      {
+        "slot": "t|Futur|0",
+        "f": "tense",
+        "s": "Je ___ une niche pour le chien demain.",
+        "a": "bricolerai",
+        "en": "I will tinker with / build a doghouse tomorrow.",
+        "alts": [],
+        "form": "Futur"
+      },
+      {
+        "slot": "t|Futur|0",
+        "f": "tense",
+        "s": "J'___ un porte-revues en cuivre.",
+        "a": "bricolerai",
+        "en": "I will tinker with / make a copper magazine rack.",
+        "alts": [],
+        "form": "Futur"
+      },
+      {
+        "slot": "t|Futur|1",
+        "f": "tense",
+        "s": "Tu ___ une rampe d'éclairage pour ton bureau.",
+        "a": "bricoleras",
+        "en": "You will tinker with / build a desk lamp.",
+        "alts": [],
+        "form": "Futur"
+      },
+      {
+        "slot": "t|Futur|1",
+        "f": "tense",
+        "s": "Tu ___ un support pour ta guitare.",
+        "a": "bricoleras",
+        "en": "You will tinker with / make a stand for your guitar.",
+        "alts": [],
+        "form": "Futur"
+      },
+      {
+        "slot": "t|Futur|2",
+        "f": "tense",
+        "s": "Elle ___ une mangeoire pour les oiseaux.",
+        "a": "bricolera",
+        "en": "She will tinker with / make a bird feeder.",
+        "alts": [],
+        "form": "Futur"
+      },
+      {
+        "slot": "t|Futur|2",
+        "f": "tense",
+        "s": "On ___ une table de jardin ce printemps.",
+        "a": "bricolera",
+        "en": "We will tinker with / build a garden table this spring.",
+        "alts": [],
+        "form": "Futur"
+      },
+      {
+        "slot": "t|Futur|3",
+        "f": "tense",
+        "s": "Nous ___ un banc pour le balcon.",
+        "a": "bricolerons",
+        "en": "We will tinker with / build a bench for the balcony.",
+        "alts": [],
+        "form": "Futur"
+      },
+      {
+        "slot": "t|Futur|3",
+        "f": "tense",
+        "s": "Nous ___ une mangeoire à écureuils.",
+        "a": "bricolerons",
+        "en": "We will tinker with / make a squirrel feeder.",
+        "alts": [],
+        "form": "Futur"
+      },
+      {
+        "slot": "t|Futur|4",
+        "f": "tense",
+        "s": "Vous ___ une horloge murale géante.",
+        "a": "bricolerez",
+        "en": "You will tinker with / make a giant wall clock.",
+        "alts": [],
+        "form": "Futur"
+      },
+      {
+        "slot": "t|Futur|4",
+        "f": "tense",
+        "s": "Vous ___ un présentoir pour vos plantes.",
+        "a": "bricolerez",
+        "en": "You will tinker with / make a display stand for your plants.",
+        "alts": [],
+        "form": "Futur"
+      },
+      {
+        "slot": "t|Futur|5",
+        "f": "tense",
+        "s": "Ils ___ une remorque pour le bateau.",
+        "a": "bricoleront",
+        "en": "They will tinker with / build a trailer for the boat.",
+        "alts": [],
+        "form": "Futur"
+      },
+      {
+        "slot": "t|Futur|5",
+        "f": "tense",
+        "s": "Elles ___ un décor pour la pièce de théâtre.",
+        "a": "bricoleront",
+        "en": "They will tinker with / make a set for the play.",
+        "alts": [],
+        "form": "Futur"
+      },
+      {
+        "slot": "t|Conditionnel|0",
+        "f": "tense",
+        "s": "Je ___ un bureau si j'avais les outils.",
+        "a": "bricolerais",
+        "en": "I would tinker with / build a desk if I had the tools.",
+        "alts": [],
+        "form": "Conditionnel"
+      },
+      {
+        "slot": "t|Conditionnel|0",
+        "f": "tense",
+        "s": "Tu ___ une lampe si tu trouvais le matériel.",
+        "a": "bricolerais",
+        "en": "You would tinker with / make a lamp if you found the materials.",
+        "alts": [],
+        "form": "Conditionnel"
+      },
+      {
+        "slot": "t|Conditionnel|1",
+        "f": "tense",
+        "s": "Elle ___ des jouets en bois si elle avait du temps.",
+        "a": "bricolerait",
+        "en": "She would tinker with / make wooden toys if she had time.",
+        "alts": [],
+        "form": "Conditionnel"
+      },
+      {
+        "slot": "t|Conditionnel|1",
+        "f": "tense",
+        "s": "On ___ une cabane si le temps le permettait.",
+        "a": "bricolerait",
+        "en": "We would tinker with / build a hut if the weather allowed.",
+        "alts": [],
+        "form": "Conditionnel"
+      },
+      {
+        "slot": "t|Conditionnel|2",
+        "f": "tense",
+        "s": "Nous ___ une étagère si nous avions plus de place.",
+        "a": "bricolerions",
+        "en": "We would tinker with / build a shelf if we had more space.",
+        "alts": [],
+        "form": "Conditionnel"
+      },
+      {
+        "slot": "t|Conditionnel|2",
+        "f": "tense",
+        "s": "Nous ___ un pont pour le ruisseau.",
+        "a": "bricolerions",
+        "en": "We would tinker with / build a bridge for the stream.",
+        "alts": [],
+        "form": "Conditionnel"
+      },
+      {
+        "slot": "t|Conditionnel|3",
+        "f": "tense",
+        "s": "Vous ___ une horloge si vous aviez un mouvement.",
+        "a": "bricoleriez",
+        "en": "You would tinker with / make a clock if you had a movement.",
+        "alts": [],
+        "form": "Conditionnel"
+      },
+      {
+        "slot": "t|Conditionnel|3",
+        "f": "tense",
+        "s": "Vous ___ une bibliothèque sur mesure.",
+        "a": "bricoleriez",
+        "en": "You would tinker with / make a custom bookcase.",
+        "alts": [],
+        "form": "Conditionnel"
+      },
+      {
+        "slot": "t|Conditionnel|4",
+        "f": "tense",
+        "s": "Ils ___ des canoës en bois.",
+        "a": "bricoleraient",
+        "en": "They would tinker with / build wooden canoes.",
+        "alts": [],
+        "form": "Conditionnel"
+      },
+      {
+        "slot": "t|Conditionnel|4",
+        "f": "tense",
+        "s": "Elles ___ des bijoux avec des coquillages.",
+        "a": "bricoleraient",
+        "en": "They would tinker with / make jewelry from seashells.",
+        "alts": [],
+        "form": "Conditionnel"
+      },
+      {
+        "slot": "t|Subjonctif",
+        "f": "subj",
+        "s": "Je souhaite que nous ___ une maison de poupée ensemble.",
+        "a": "bricolions",
+        "en": "I wish we would tinker with / build a dollhouse together.",
+        "alts": [],
+        "form": "Subjonctif"
+      },
+      {
+        "slot": "t|Subjonctif",
+        "f": "subj",
+        "s": "Il est important qu'il ___ ses propres meubles.",
+        "a": "bricole",
+        "en": "It is important that he tinker with / build his own furniture.",
+        "alts": [],
+        "form": "Subjonctif"
+      },
+      {
+        "slot": "s|0",
+        "f": "sense",
+        "s": "Le week-end, il aime ___ dans son atelier.",
+        "a": "bricoler",
+        "en": "On weekends, he likes to tinker in his workshop.",
+        "alts": []
+      },
+      {
+        "slot": "s|0",
+        "f": "sense",
+        "s": "Elle a passé l'après-midi à ___ un vieux meuble.",
+        "a": "bricoler",
+        "en": "She spent the afternoon tinkering with an old piece of furniture.",
+        "alts": []
+      }
+    ]
+  },
+  {
+    "id": 6826,
+    "qs": [
+      {
+        "slot": "s|0",
+        "f": "sense",
+        "s": "On mélange l'eau et le ___ pour faire du béton.",
+        "a": "ciment",
+        "en": "We mix water and cement to make concrete.",
+        "alts": []
+      },
+      {
+        "slot": "s|0",
+        "f": "sense",
+        "s": "Le ___ est encore humide sur le trottoir.",
+        "a": "ciment",
+        "en": "The cement is still wet on the sidewalk.",
+        "alts": []
+      },
+      {
+        "slot": "s|1",
+        "f": "sense",
+        "s": "La confiance est le ___ de leur amitié.",
+        "a": "ciment",
+        "en": "Trust is the bond of their friendship.",
+        "alts": []
+      },
+      {
+        "slot": "s|1",
+        "f": "sense",
+        "s": "Cette tradition est le ___ de la communauté.",
+        "a": "ciment",
+        "en": "This tradition is the bond of the community.",
+        "alts": []
+      },
+      {
+        "slot": "s|2",
+        "f": "sense",
+        "s": "Cette colle agit comme un ___ puissant.",
+        "a": "ciment",
+        "en": "This glue acts as a powerful adhesive / cement.",
+        "alts": []
+      },
+      {
+        "slot": "s|2",
+        "f": "sense",
+        "s": "Il a utilisé un ___ spécial pour réparer le vase.",
+        "a": "ciment",
+        "en": "He used a special cement to repair the vase.",
+        "alts": []
+      },
+      {
+        "slot": "gender",
+        "f": "gender",
+        "s": "___ ciment a séché rapidement.",
+        "a": "Le",
+        "en": "The cement dried quickly.",
+        "alts": []
+      },
+      {
+        "slot": "gender",
+        "f": "gender",
+        "s": "On verse ___ ciment dans le moule.",
+        "a": "le",
+        "en": "We pour the cement into the mold.",
+        "alts": []
+      }
+    ]
+  },
+  {
+    "id": 6827,
+    "qs": [
+      {
+        "slot": "s|0",
+        "f": "sense",
+        "s": "Autrefois, la ___ lavait le linge au bord de la rivière.",
+        "a": "lavandière",
+        "en": "Long ago, the washerwoman washed laundry by the river.",
+        "alts": []
+      },
+      {
+        "slot": "s|0",
+        "f": "sense",
+        "s": "La ___ repassait les chemises toute la journée.",
+        "a": "lavandière",
+        "en": "The washerwoman ironed shirts all day long.",
+        "alts": []
+      },
+      {
+        "slot": "gender",
+        "f": "gender",
+        "s": "___ lavandière portait un grand panier.",
+        "a": "La",
+        "en": "The washerwoman carried a large basket.",
+        "alts": []
+      },
+      {
+        "slot": "gender",
+        "f": "gender",
+        "s": "On confiait le linge à ___ lavandière du village.",
+        "a": "la",
+        "en": "People entrusted the laundry to the village washerwoman.",
+        "alts": []
+      }
+    ]
+  },
+  {
+    "id": 6828,
+    "qs": [
+      {
+        "slot": "s|0",
+        "f": "sense",
+        "s": "Le ___ a conçu l'intérieur de l'appartement.",
+        "a": "designer",
+        "en": "The designer designed the interior of the apartment.",
+        "alts": []
+      },
+      {
+        "slot": "s|0",
+        "f": "sense",
+        "s": "Ce ___ travaille pour une grande marque de mode.",
+        "a": "designer",
+        "en": "This designer works for a big fashion brand.",
+        "alts": []
+      },
+      {
+        "slot": "gender",
+        "f": "gender",
+        "s": "___ designer a présenté sa nouvelle collection.",
+        "a": "Le",
+        "en": "The designer presented his new collection.",
+        "alts": []
+      },
+      {
+        "slot": "gender",
+        "f": "gender",
+        "s": "Le magazine a interviewé ___ designer célèbre.",
+        "a": "le",
+        "en": "The magazine interviewed the famous designer.",
+        "alts": []
+      }
+    ]
+  },
+  {
+    "id": 6829,
+    "qs": [
+      {
+        "slot": "s|0",
+        "f": "sense",
+        "s": "Ce ___ apprécie les vins de Bordeaux.",
+        "a": "buveur",
+        "en": "This drinker appreciates Bordeaux wines.",
+        "alts": []
+      },
+      {
+        "slot": "s|0",
+        "f": "sense",
+        "s": "Le ___ commande une bière au comptoir.",
+        "a": "buveur",
+        "en": "The drinker orders a beer at the counter.",
+        "alts": []
+      },
+      {
+        "slot": "s|1",
+        "f": "sense",
+        "s": "Cet homme est un ___ invétéré.",
+        "a": "buveur",
+        "en": "This man is a hardened drinker / alcoholic.",
+        "alts": []
+      },
+      {
+        "slot": "s|1",
+        "f": "sense",
+        "s": "Le ___ ne peut pas s'empêcher de boire.",
+        "a": "buveur",
+        "en": "The drunkard cannot stop drinking.",
+        "alts": []
+      },
+      {
+        "slot": "gender",
+        "f": "gender",
+        "s": "___ buveur a levé son verre.",
+        "a": "Le",
+        "en": "The drinker raised his glass.",
+        "alts": []
+      },
+      {
+        "slot": "gender",
+        "f": "gender",
+        "s": "On a reconnu ___ buveur habituel.",
+        "a": "le",
+        "en": "We recognized the usual drinker.",
+        "alts": []
+      }
+    ]
+  },
+  {
+    "id": 6830,
+    "qs": [
+      {
+        "slot": "s|0",
+        "f": "sense",
+        "s": "Un violent ___ a salué la fin du concert.",
+        "a": "applaudissement",
+        "en": "A loud burst of applause greeted the end of the concert.",
+        "alts": []
+      },
+      {
+        "slot": "s|0",
+        "f": "sense",
+        "s": "L'___ du public a été enthousiaste.",
+        "a": "applaudissement",
+        "en": "The audience's applause was enthusiastic.",
+        "alts": []
+      },
+      {
+        "slot": "gender",
+        "f": "gender",
+        "s": "___ applaudissement du public a été chaleureux.",
+        "a": "L'",
+        "en": "The audience's applause was warm.",
+        "alts": []
+      },
+      {
+        "slot": "gender",
+        "f": "gender",
+        "s": "___ applaudissement a marqué la fin du spectacle.",
+        "a": "L'",
+        "en": "The applause marked the end of the show.",
+        "alts": []
+      }
+    ]
+  },
+  {
+    "id": 6831,
+    "qs": [
+      {
+        "slot": "s|0",
+        "f": "sense",
+        "s": "Il est toujours ___ avec les clients.",
+        "a": "courtois",
+        "en": "He is always courteous with customers.",
+        "alts": []
+      },
+      {
+        "slot": "s|0",
+        "f": "sense",
+        "s": "Son salut ___ a impressionné l'assemblée.",
+        "a": "courtois",
+        "en": "His courteous greeting impressed the assembly.",
+        "alts": []
+      },
+      {
+        "slot": "g|mp",
+        "f": "agree",
+        "s": "Les garçons sont très ___ envers leurs aînés.",
+        "a": "courtois",
+        "en": "The boys are very courteous toward their elders.",
+        "alts": []
+      },
+      {
+        "slot": "g|mp",
+        "f": "agree",
+        "s": "Ces messieurs ont été ___ tout au long du dîner.",
+        "a": "courtois",
+        "en": "These gentlemen were courteous throughout dinner.",
+        "alts": []
+      },
+      {
+        "slot": "g|f",
+        "f": "agree",
+        "s": "La jeune femme a répondu d'une voix ___.",
+        "a": "courtoise",
+        "en": "The young woman answered in a courteous voice.",
+        "alts": []
+      },
+      {
+        "slot": "g|f",
+        "f": "agree",
+        "s": "Sa remarque était particulièrement ___.",
+        "a": "courtoise",
+        "en": "Her remark was particularly courteous.",
+        "alts": []
+      },
+      {
+        "slot": "g|fp",
+        "f": "agree",
+        "s": "Les employées sont restées ___ malgré la tension.",
+        "a": "courtoises",
+        "en": "The employees remained courteous despite the tension.",
+        "alts": []
+      },
+      {
+        "slot": "g|fp",
+        "f": "agree",
+        "s": "Ses paroles étaient toujours ___ et mesurées.",
+        "a": "courtoises",
+        "en": "Her words were always courteous and measured.",
+        "alts": []
+      }
+    ]
+  },
+  {
+    "id": 6832,
+    "qs": [
+      {
+        "slot": "s|0",
+        "f": "sense",
+        "s": "Ce mot a une ___ négative dans ce contexte.",
+        "a": "connotation",
+        "en": "This word has a negative connotation in this context.",
+        "alts": []
+      },
+      {
+        "slot": "s|0",
+        "f": "sense",
+        "s": "La ___ religieuse de ce symbole est évidente.",
+        "a": "connotation",
+        "en": "The religious connotation of this symbol is obvious.",
+        "alts": []
+      },
+      {
+        "slot": "gender",
+        "f": "gender",
+        "s": "___ connotation de ce terme est ambiguë.",
+        "a": "La",
+        "en": "The connotation of this term is ambiguous.",
+        "alts": []
+      },
+      {
+        "slot": "gender",
+        "f": "gender",
+        "s": "Il faut comprendre ___ connotation culturelle.",
+        "a": "la",
+        "en": "One must understand its cultural connotation.",
+        "alts": []
+      }
+    ]
+  },
+  {
+    "id": 6833,
+    "qs": [
+      {
+        "slot": "s|0",
+        "f": "sense",
+        "s": "Le ___ automobile traverse le désert.",
+        "a": "rallye",
+        "en": "The car rally crosses the desert.",
+        "alts": []
+      },
+      {
+        "slot": "s|0",
+        "f": "sense",
+        "s": "Ils ont remporté le ___ de Monte-Carlo.",
+        "a": "rallye",
+        "en": "They won the Monte Carlo rally.",
+        "alts": []
+      },
+      {
+        "slot": "gender",
+        "f": "gender",
+        "s": "___ rallye a été annulé à cause de la pluie.",
+        "a": "Le",
+        "en": "The rally was canceled because of the rain.",
+        "alts": []
+      },
+      {
+        "slot": "gender",
+        "f": "gender",
+        "s": "Le pilote prépare ___ rallye depuis des mois.",
+        "a": "le",
+        "en": "The driver has been preparing for the rally for months.",
+        "alts": []
+      }
+    ]
+  },
+  {
+    "id": 6834,
+    "qs": [
+      {
+        "slot": "s|0",
+        "f": "sense",
+        "s": "Les deux gentlemen se sont battus en ___ à l'aube.",
+        "a": "duel",
+        "en": "The two gentlemen fought in a duel at dawn.",
+        "alts": []
+      },
+      {
+        "slot": "s|0",
+        "f": "sense",
+        "s": "Le ___ à l'épée a tourné au tragique.",
+        "a": "duel",
+        "en": "The sword duel turned tragic.",
+        "alts": []
+      },
+      {
+        "slot": "s|1",
+        "f": "sense",
+        "s": "Le match a été un véritable ___ entre les deux équipes.",
+        "a": "duel",
+        "en": "The match was a real showdown between the two teams.",
+        "alts": []
+      },
+      {
+        "slot": "s|1",
+        "f": "sense",
+        "s": "Ce débat électoral ressemble à un ___.",
+        "a": "duel",
+        "en": "This election debate looks like a showdown.",
+        "alts": []
+      },
+      {
+        "slot": "gender",
+        "f": "gender",
+        "s": "___ duel opposait deux familles rivales.",
+        "a": "Le",
+        "en": "The duel opposed two rival families.",
+        "alts": []
+      },
+      {
+        "slot": "gender",
+        "f": "gender",
+        "s": "Le témoin a assisté à ___ duel mortel.",
+        "a": "le",
+        "en": "The witness attended the deadly duel.",
+        "alts": []
+      }
+    ]
+  },
+  {
+    "id": 6835,
+    "qs": [
+      {
+        "slot": "s|0",
+        "f": "sense",
+        "s": "Le ___ a été arrêté à la frontière.",
+        "a": "contrebandier",
+        "en": "The smuggler was arrested at the border.",
+        "alts": []
+      },
+      {
+        "slot": "s|0",
+        "f": "sense",
+        "s": "Ce ___ transportait des marchandises illégales.",
+        "a": "contrebandier",
+        "en": "This smuggler was transporting illegal goods.",
+        "alts": []
+      },
+      {
+        "slot": "gender",
+        "f": "gender",
+        "s": "___ contrebandier a échappé à la douane.",
+        "a": "Le",
+        "en": "The smuggler escaped customs.",
+        "alts": []
+      },
+      {
+        "slot": "gender",
+        "f": "gender",
+        "s": "La police traque ___ contrebandier depuis des mois.",
+        "a": "le",
+        "en": "The police have been tracking the smuggler for months.",
+        "alts": []
+      }
+    ]
+  },
+  {
+    "id": 6836,
+    "qs": [
+      {
+        "slot": "s|0",
+        "f": "sense",
+        "s": "Cette offre d'emploi est une véritable ___.",
+        "a": "aubaine",
+        "en": "This job offer is a real godsend.",
+        "alts": []
+      },
+      {
+        "slot": "s|0",
+        "f": "sense",
+        "s": "La pluie en été est une ___ pour les agriculteurs.",
+        "a": "aubaine",
+        "en": "Rain in summer is a godsend for farmers.",
+        "alts": []
+      },
+      {
+        "slot": "s|1",
+        "f": "sense",
+        "s": "J'ai trouvé cette robe en solde, c'est une ___.",
+        "a": "aubaine",
+        "en": "I found this dress on sale; it's a bargain.",
+        "alts": []
+      },
+      {
+        "slot": "s|1",
+        "f": "sense",
+        "s": "À ce prix, c'est une ___ !",
+        "a": "aubaine",
+        "en": "At this price, it's a bargain!",
+        "alts": []
+      },
+      {
+        "slot": "gender",
+        "f": "gender",
+        "s": "___ aubaine est tombée au bon moment.",
+        "a": "L'",
+        "en": "The windfall came at the right time.",
+        "alts": []
+      },
+      {
+        "slot": "gender",
+        "f": "gender",
+        "s": "Elle a saisi ___ aubaine avec enthousiasme.",
+        "a": "l'",
+        "en": "She seized the opportunity with enthusiasm.",
+        "alts": []
+      }
+    ]
+  },
+  {
+    "id": 6837,
+    "qs": [
+      {
+        "slot": "s|0",
+        "f": "sense",
+        "s": "Le ___ a écouté attentivement les témoignages.",
+        "a": "juré",
+        "en": "The juror listened carefully to the testimonies.",
+        "alts": []
+      },
+      {
+        "slot": "s|0",
+        "f": "sense",
+        "s": "Chaque ___ doit rendre un verdict impartial.",
+        "a": "juré",
+        "en": "Each juror must deliver an impartial verdict.",
+        "alts": []
+      },
+      {
+        "slot": "gender",
+        "f": "gender",
+        "s": "___ juré a levé la main pour poser une question.",
+        "a": "Le",
+        "en": "The juror raised his hand to ask a question.",
+        "alts": []
+      },
+      {
+        "slot": "gender",
+        "f": "gender",
+        "s": "L'avocat a interrogé ___ juré.",
+        "a": "le",
+        "en": "The lawyer questioned the juror.",
+        "alts": []
+      }
+    ]
+  },
+  {
+    "id": 6838,
+    "qs": [
+      {
+        "slot": "s|0",
+        "f": "sense",
+        "s": "Ce village est une ___ entourée de montagnes.",
+        "a": "enclave",
+        "en": "This village is an enclave surrounded by mountains.",
+        "alts": []
+      },
+      {
+        "slot": "s|0",
+        "f": "sense",
+        "s": "La petite ___ territoriale appartient à ce pays.",
+        "a": "enclave",
+        "en": "The small territorial enclave belongs to this country.",
+        "alts": []
+      },
+      {
+        "slot": "gender",
+        "f": "gender",
+        "s": "___ enclave est difficile d'accès.",
+        "a": "L'",
+        "en": "The enclave is hard to reach.",
+        "alts": []
+      },
+      {
+        "slot": "gender",
+        "f": "gender",
+        "s": "Les habitants de ___ enclave vivent isolés.",
+        "a": "l'",
+        "en": "The inhabitants of the enclave live isolated.",
+        "alts": []
+      }
+    ]
+  },
+  {
+    "id": 6839,
+    "qs": [
+      {
+        "slot": "s|0",
+        "f": "sense",
+        "s": "J'ai acheté une grappe de ___ frais.",
+        "a": "raisin",
+        "en": "I bought a bunch of fresh grapes.",
+        "alts": []
+      },
+      {
+        "slot": "s|0",
+        "f": "sense",
+        "s": "Le ___ mûr tombe de la vigne.",
+        "a": "raisin",
+        "en": "The ripe grape falls from the vine.",
+        "alts": []
+      },
+      {
+        "slot": "s|1",
+        "f": "sense",
+        "s": "Le ___ sec se conserve longtemps.",
+        "a": "raisin",
+        "en": "Dried grapes / raisins keep for a long time.",
+        "alts": []
+      },
+      {
+        "slot": "s|1",
+        "f": "sense",
+        "s": "Le ___ sec est plus sucré que le frais.",
+        "a": "raisin",
+        "en": "The dried grape is sweeter than the fresh one.",
+        "alts": []
+      },
+      {
+        "slot": "gender",
+        "f": "gender",
+        "s": "___ raisin est noir à maturité.",
+        "a": "Le",
+        "en": "The grape is black when ripe.",
+        "alts": []
+      },
+      {
+        "slot": "gender",
+        "f": "gender",
+        "s": "Le fermier vend ___ raisin aux marchés.",
+        "a": "le",
+        "en": "The farmer sells the grape at the markets.",
+        "alts": []
+      }
+    ]
+  },
+  {
+    "id": 6840,
+    "qs": [
+      {
+        "slot": "s|0",
+        "f": "sense",
+        "s": "C'est un ___ défenseur des droits humains.",
+        "a": "fervent",
+        "en": "He is a fervent defender of human rights.",
+        "alts": []
+      },
+      {
+        "slot": "s|0",
+        "f": "sense",
+        "s": "Son ___ soutien nous a beaucoup aidés.",
+        "a": "fervent",
+        "en": "His fervent support helped us a lot.",
+        "alts": []
+      },
+      {
+        "slot": "g|mp",
+        "f": "agree",
+        "s": "Les militants sont ___ et déterminés.",
+        "a": "fervents",
+        "en": "The activists are fervent and determined.",
+        "alts": []
+      },
+      {
+        "slot": "g|mp",
+        "f": "agree",
+        "s": "Ces disciples restèrent ___ toute leur vie.",
+        "a": "fervents",
+        "en": "These disciples remained fervent all their lives.",
+        "alts": []
+      },
+      {
+        "slot": "g|f",
+        "f": "agree",
+        "s": "Sa ___ foi la soutenait dans l'épreuve.",
+        "a": "fervente",
+        "en": "Her fervent faith sustained her through the ordeal.",
+        "alts": []
+      },
+      {
+        "slot": "g|f",
+        "f": "agree",
+        "s": "La supportrice était ___ pour son équipe.",
+        "a": "fervente",
+        "en": "The supporter was fervent for her team.",
+        "alts": []
+      },
+      {
+        "slot": "g|fp",
+        "f": "agree",
+        "s": "Les prières ___ des fidèles montaient vers le ciel.",
+        "a": "ferventes",
+        "en": "The fervent prayers of the faithful rose to heaven.",
+        "alts": []
+      },
+      {
+        "slot": "g|fp",
+        "f": "agree",
+        "s": "Ses convictions étaient ___ et sincères.",
+        "a": "ferventes",
+        "en": "Her convictions were fervent and sincere.",
+        "alts": []
+      }
+    ]
+  },
+  {
+    "id": 6841,
+    "qs": [
+      {
+        "slot": "s|0",
+        "f": "sense",
+        "s": "L'___ niche dans la grange abandonnée.",
+        "a": "effraie",
+        "en": "The barn owl nests in the abandoned barn.",
+        "alts": []
+      },
+      {
+        "slot": "s|0",
+        "f": "sense",
+        "s": "On a aperçu une ___ au crépuscule.",
+        "a": "effraie",
+        "en": "We spotted a barn owl at dusk.",
+        "alts": []
+      },
+      {
+        "slot": "gender",
+        "f": "gender",
+        "s": "___ effraie chasse les souris la nuit.",
+        "a": "L'",
+        "en": "The barn owl hunts mice at night.",
+        "alts": []
+      },
+      {
+        "slot": "gender",
+        "f": "gender",
+        "s": "L'enfant a dessiné ___ effraie.",
+        "a": "l'",
+        "en": "The child drew a barn owl.",
+        "alts": []
+      }
+    ]
+  },
+  {
+    "id": 6842,
+    "qs": [
+      {
+        "slot": "s|0",
+        "f": "sense",
+        "s": "L'enfant ___ a été recueilli par ses grands-parents.",
+        "a": "orphelin",
+        "en": "The orphaned child was taken in by his grandparents.",
+        "alts": []
+      },
+      {
+        "slot": "s|0",
+        "f": "sense",
+        "s": "Devenu ___ très jeune, il a grandi dans un foyer.",
+        "a": "orphelin",
+        "en": "Having become orphaned very young, he grew up in a home.",
+        "alts": []
+      },
+      {
+        "slot": "s|1",
+        "f": "sense",
+        "s": "Cette station de métro semble ___ en pleine nuit.",
+        "a": "orpheline",
+        "en": "This metro station seems lonely / isolated in the middle of the night.",
+        "alts": []
+      },
+      {
+        "slot": "s|1",
+        "f": "sense",
+        "s": "Cette petite rue paraissait ___ sous la neige.",
+        "a": "orpheline",
+        "en": "This little street seemed isolated under the snow.",
+        "alts": []
+      },
+      {
+        "slot": "g|mp",
+        "f": "agree",
+        "s": "Les deux frères sont restés ___ après l'accident.",
+        "a": "orphelins",
+        "en": "The two brothers remained orphaned after the accident.",
+        "alts": []
+      },
+      {
+        "slot": "g|mp",
+        "f": "agree",
+        "s": "Ces villages étaient ___ de toute infrastructure.",
+        "a": "orphelins",
+        "en": "These villages were bereft of any infrastructure.",
+        "alts": []
+      },
+      {
+        "slot": "g|f",
+        "f": "agree",
+        "s": "La fillette ___ a trouvé une famille aimante.",
+        "a": "orpheline",
+        "en": "The orphaned little girl found a loving family.",
+        "alts": []
+      },
+      {
+        "slot": "g|f",
+        "f": "agree",
+        "s": "Cette île semblait ___ de tout contact humain.",
+        "a": "orpheline",
+        "en": "This island seemed cut off from all human contact.",
+        "alts": []
+      },
+      {
+        "slot": "g|fp",
+        "f": "agree",
+        "s": "Les deux sœurs sont devenues ___ très tôt.",
+        "a": "orphelines",
+        "en": "The two sisters became orphaned very early.",
+        "alts": []
+      },
+      {
+        "slot": "g|fp",
+        "f": "agree",
+        "s": "Ces régions restent ___ de grandes villes.",
+        "a": "orphelines",
+        "en": "These regions remain isolated from big cities.",
+        "alts": []
+      }
+    ]
+  },
+  {
+    "id": 6843,
+    "qs": [
+      {
+        "slot": "s|0",
+        "f": "sense",
+        "s": "Il a obtenu une ___ à la réglementation.",
+        "a": "dérogation",
+        "en": "He obtained an exemption from the regulation.",
+        "alts": []
+      },
+      {
+        "slot": "s|0",
+        "f": "sense",
+        "s": "Cette ___ exceptionnelle a été accordée par le ministre.",
+        "a": "dérogation",
+        "en": "This exceptional waiver was granted by the minister.",
+        "alts": []
+      },
+      {
+        "slot": "gender",
+        "f": "gender",
+        "s": "___ dérogation a été accordée sous conditions.",
+        "a": "La",
+        "en": "The waiver was granted under conditions.",
+        "alts": []
+      },
+      {
+        "slot": "gender",
+        "f": "gender",
+        "s": "Le maire a signé ___ dérogation.",
+        "a": "la",
+        "en": "The mayor signed the waiver.",
+        "alts": []
+      }
+    ]
+  },
+  {
+    "id": 6844,
+    "qs": [
+      {
+        "slot": "s|0",
+        "f": "sense",
+        "s": "Le ___ de ce milieu m'agace profondément.",
+        "a": "snobisme",
+        "en": "The snobbery of this milieu annoys me deeply.",
+        "alts": []
+      },
+      {
+        "slot": "s|0",
+        "f": "sense",
+        "s": "Son ___ la pousse à fréquenter des artistes célèbres.",
+        "a": "snobisme",
+        "en": "Her snobbishness pushes her to hang out with famous artists.",
+        "alts": []
+      },
+      {
+        "slot": "gender",
+        "f": "gender",
+        "s": "___ snobisme de ce club est insupportable.",
+        "a": "Le",
+        "en": "The snobbery of this club is unbearable.",
+        "alts": []
+      },
+      {
+        "slot": "gender",
+        "f": "gender",
+        "s": "On dénonce souvent ___ snobisme intellectuel.",
+        "a": "le",
+        "en": "We often denounce intellectual snobbery.",
+        "alts": []
+      }
+    ]
+  }
+]

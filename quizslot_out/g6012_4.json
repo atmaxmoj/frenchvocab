@@ -1,0 +1,2765 @@
+[
+  {
+    "id": 6895,
+    "qs": [
+      {
+        "slot": "s|0",
+        "f": "sense",
+        "s": "Cette maladie touche le secteur ___ de l'économie.",
+        "a": "tertiaire",
+        "en": "This disease affects the tertiary sector of the economy.",
+        "alts": []
+      },
+      {
+        "slot": "s|0",
+        "f": "sense",
+        "s": "Les services publics appartiennent au secteur ___.",
+        "a": "tertiaire",
+        "en": "Public services belong to the tertiary sector.",
+        "alts": []
+      },
+      {
+        "slot": "s|1",
+        "f": "sense",
+        "s": "La croissance du secteur ___ emploie de plus en plus de monde.",
+        "a": "tertiaire",
+        "en": "Growth in the service sector employs more and more people.",
+        "alts": []
+      },
+      {
+        "slot": "s|1",
+        "f": "sense",
+        "s": "Les banques et les hôtels font partie du secteur ___.",
+        "a": "tertiaire",
+        "en": "Banks and hotels are part of the service sector.",
+        "alts": []
+      },
+      {
+        "slot": "g|mp",
+        "f": "agree",
+        "s": "Les emplois ___ se développent rapidement.",
+        "a": "tertiaires",
+        "en": "Tertiary jobs are developing rapidly.",
+        "alts": []
+      },
+      {
+        "slot": "g|mp",
+        "f": "agree",
+        "s": "Ces secteurs ___ représentent la majorité du PIB.",
+        "a": "tertiaires",
+        "en": "These tertiary sectors represent the majority of GDP.",
+        "alts": []
+      },
+      {
+        "slot": "g|f",
+        "f": "agree",
+        "s": "Une activité ___ domine cette région.",
+        "a": "tertiaire",
+        "en": "A tertiary activity dominates this region.",
+        "alts": []
+      },
+      {
+        "slot": "g|f",
+        "f": "agree",
+        "s": "La partie ___ de l'économie progresse vite.",
+        "a": "tertiaire",
+        "en": "The tertiary part of the economy is progressing quickly.",
+        "alts": []
+      },
+      {
+        "slot": "g|fp",
+        "f": "agree",
+        "s": "Les industries ___ se sont modernisées.",
+        "a": "tertiaires",
+        "en": "Tertiary industries have modernized.",
+        "alts": []
+      },
+      {
+        "slot": "g|fp",
+        "f": "agree",
+        "s": "Plusieurs entreprises ___ ont déménagé dans le centre.",
+        "a": "tertiaires",
+        "en": "Several tertiary companies moved downtown.",
+        "alts": []
+      }
+    ]
+  },
+  {
+    "id": 6896,
+    "qs": [
+      {
+        "slot": "s|0",
+        "f": "sense",
+        "s": "Cette usine appartient au secteur ___ français.",
+        "a": "agro-alimentaire",
+        "en": "This factory belongs to the French food-processing sector.",
+        "alts": []
+      },
+      {
+        "slot": "s|0",
+        "f": "sense",
+        "s": "L'industrie ___ emploie des milliers de personnes.",
+        "a": "agro-alimentaire",
+        "en": "The agri-food industry employs thousands of people.",
+        "alts": []
+      },
+      {
+        "slot": "g|mp",
+        "f": "agree",
+        "s": "Les produits ___ sont exportés dans le monde entier.",
+        "a": "agro-alimentaires",
+        "en": "Agri-food products are exported worldwide.",
+        "alts": []
+      },
+      {
+        "slot": "g|mp",
+        "f": "agree",
+        "s": "Ces groupes ___ investissent dans la qualité.",
+        "a": "agro-alimentaires",
+        "en": "These agri-food groups invest in quality.",
+        "alts": []
+      },
+      {
+        "slot": "g|f",
+        "f": "agree",
+        "s": "Une entreprise ___ a ouvert près de chez nous.",
+        "a": "agro-alimentaire",
+        "en": "A food-processing company opened near us.",
+        "alts": []
+      },
+      {
+        "slot": "g|f",
+        "f": "agree",
+        "s": "La filière ___ recrute des ingénieurs.",
+        "a": "agro-alimentaire",
+        "en": "The agri-food sector is recruiting engineers.",
+        "alts": []
+      },
+      {
+        "slot": "g|fp",
+        "f": "agree",
+        "s": "Les coopératives ___ se regroupent.",
+        "a": "agro-alimentaires",
+        "en": "Agri-food cooperatives are grouping together.",
+        "alts": []
+      },
+      {
+        "slot": "g|fp",
+        "f": "agree",
+        "s": "Certaines industries ___ polluent la rivière.",
+        "a": "agro-alimentaires",
+        "en": "Some food-processing industries pollute the river.",
+        "alts": []
+      }
+    ]
+  },
+  {
+    "id": 6897,
+    "qs": [
+      {
+        "slot": "s|0",
+        "f": "sense",
+        "s": "On a découvert un important ___ de pétrole en mer.",
+        "a": "gisement",
+        "en": "An important oil deposit was discovered at sea.",
+        "alts": []
+      },
+      {
+        "slot": "s|0",
+        "f": "sense",
+        "s": "Ce ___ de minerai est exploité depuis longtemps.",
+        "a": "gisement",
+        "en": "This ore deposit has been exploited for a long time.",
+        "alts": []
+      },
+      {
+        "slot": "s|1",
+        "f": "sense",
+        "s": "Un nouveau ___ de gaz naturel a été repéré.",
+        "a": "gisement",
+        "en": "A new natural gas field has been identified.",
+        "alts": []
+      },
+      {
+        "slot": "s|1",
+        "f": "sense",
+        "s": "Le ___ fournira du pétrole pendant vingt ans.",
+        "a": "gisement",
+        "en": "The field will provide oil for twenty years.",
+        "alts": []
+      },
+      {
+        "slot": "gender",
+        "f": "gender",
+        "s": "___ gisement est difficile d'accès.",
+        "a": "le",
+        "en": "The deposit is difficult to access.",
+        "alts": []
+      },
+      {
+        "slot": "gender",
+        "f": "gender",
+        "s": "On explore ___ gisement depuis des années.",
+        "a": "le",
+        "en": "We have been exploring the deposit for years.",
+        "alts": []
+      }
+    ]
+  },
+  {
+    "id": 6898,
+    "qs": [
+      {
+        "slot": "s|0",
+        "f": "sense",
+        "s": "La ___ de ce plat me rappelle mon enfance.",
+        "a": "saveur",
+        "en": "The flavor of this dish reminds me of my childhood.",
+        "alts": []
+      },
+      {
+        "slot": "s|0",
+        "f": "sense",
+        "s": "Chaque région a sa propre ___.",
+        "a": "saveur",
+        "en": "Each region has its own flavor.",
+        "alts": []
+      },
+      {
+        "slot": "s|1",
+        "f": "sense",
+        "s": "Il y a une certaine ___ exotique dans ce poème.",
+        "a": "saveur",
+        "en": "There is a certain exotic savor in this poem.",
+        "alts": []
+      },
+      {
+        "slot": "s|1",
+        "f": "sense",
+        "s": "Cette musique a une ___ mélancolique.",
+        "a": "saveur",
+        "en": "This music has a melancholy savor.",
+        "alts": []
+      },
+      {
+        "slot": "gender",
+        "f": "gender",
+        "s": "___ saveur est très délicate.",
+        "a": "la",
+        "en": "The flavor is very delicate.",
+        "alts": []
+      },
+      {
+        "slot": "gender",
+        "f": "gender",
+        "s": "J'adore ___ saveur de la vanille.",
+        "a": "la",
+        "en": "I love the flavor of vanilla.",
+        "alts": []
+      }
+    ]
+  },
+  {
+    "id": 6899,
+    "qs": [
+      {
+        "slot": "s|0",
+        "f": "sense",
+        "s": "La Tour Eiffel est un monument ___ de Paris.",
+        "a": "emblématique",
+        "en": "The Eiffel Tower is an emblematic monument of Paris.",
+        "alts": []
+      },
+      {
+        "slot": "s|0",
+        "f": "sense",
+        "s": "Cette chanson est devenue ___ de sa carrière.",
+        "a": "emblématique",
+        "en": "This song became emblematic of his career.",
+        "alts": []
+      },
+      {
+        "slot": "g|mp",
+        "f": "agree",
+        "s": "Ces lieux ___ attirent des millions de visiteurs.",
+        "a": "emblématiques",
+        "en": "These emblematic places attract millions of visitors.",
+        "alts": []
+      },
+      {
+        "slot": "g|mp",
+        "f": "agree",
+        "s": "Les personnages ___ du roman restent célèbres.",
+        "a": "emblématiques",
+        "en": "The emblematic characters of the novel remain famous.",
+        "alts": []
+      },
+      {
+        "slot": "g|f",
+        "f": "agree",
+        "s": "Cette robe est devenue une tenue ___.",
+        "a": "emblématique",
+        "en": "This dress became an iconic outfit.",
+        "alts": []
+      },
+      {
+        "slot": "g|f",
+        "f": "agree",
+        "s": "Une scène ___ du film est projetée.",
+        "a": "emblématique",
+        "en": "An emblematic scene from the film is being shown.",
+        "alts": []
+      },
+      {
+        "slot": "g|fp",
+        "f": "agree",
+        "s": "Les images ___ de la Révolution sont conservées.",
+        "a": "emblématiques",
+        "en": "The emblematic images of the Revolution are preserved.",
+        "alts": []
+      },
+      {
+        "slot": "g|fp",
+        "f": "agree",
+        "s": "Plusieurs œuvres ___ ornent le musée.",
+        "a": "emblématiques",
+        "en": "Several emblematic works adorn the museum.",
+        "alts": []
+      }
+    ]
+  },
+  {
+    "id": 6900,
+    "qs": [
+      {
+        "slot": "s|0",
+        "f": "sense",
+        "s": "Les animaux arrivent à ___ pour être abattus.",
+        "a": "abattoir",
+        "en": "The animals arrive at the slaughterhouse to be slaughtered.",
+        "alts": []
+      },
+      {
+        "slot": "s|0",
+        "f": "sense",
+        "s": "Un nouvel ___ respecte les normes sanitaires.",
+        "a": "abattoir",
+        "en": "A new slaughterhouse meets health standards.",
+        "alts": []
+      },
+      {
+        "slot": "gender",
+        "f": "gender",
+        "s": "___ abattoir emploie cent personnes.",
+        "a": "l'",
+        "en": "The slaughterhouse employs a hundred people.",
+        "alts": [
+          "le"
+        ]
+      },
+      {
+        "slot": "gender",
+        "f": "gender",
+        "s": "On ferme ___ abattoir à la fin de l'année.",
+        "a": "l'",
+        "en": "They are closing the slaughterhouse at the end of the year.",
+        "alts": [
+          "le"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 6901,
+    "qs": [
+      {
+        "slot": "s|0",
+        "f": "sense",
+        "s": "Merci de remplir ce ___ avant la consultation.",
+        "a": "questionnaire",
+        "en": "Please fill out this questionnaire before the appointment.",
+        "alts": []
+      },
+      {
+        "slot": "s|0",
+        "f": "sense",
+        "s": "Le ___ comporte vingt questions.",
+        "a": "questionnaire",
+        "en": "The questionnaire contains twenty questions.",
+        "alts": []
+      },
+      {
+        "slot": "gender",
+        "f": "gender",
+        "s": "___ questionnaire est anonyme.",
+        "a": "le",
+        "en": "The questionnaire is anonymous.",
+        "alts": []
+      },
+      {
+        "slot": "gender",
+        "f": "gender",
+        "s": "Tu dois compléter ___ questionnaire en ligne.",
+        "a": "le",
+        "en": "You must complete the questionnaire online.",
+        "alts": []
+      }
+    ]
+  },
+  {
+    "id": 6902,
+    "qs": [
+      {
+        "slot": "s|0",
+        "f": "sense",
+        "s": "Il parle un ___ que je ne comprends pas.",
+        "a": "dialecte",
+        "en": "He speaks a dialect that I do not understand.",
+        "alts": []
+      },
+      {
+        "slot": "s|0",
+        "f": "sense",
+        "s": "Ce ___ régional est encore utilisé.",
+        "a": "dialecte",
+        "en": "This regional dialect is still used.",
+        "alts": []
+      },
+      {
+        "slot": "gender",
+        "f": "gender",
+        "s": "___ dialecte disparaît peu à peu.",
+        "a": "le",
+        "en": "The dialect is disappearing little by little.",
+        "alts": []
+      },
+      {
+        "slot": "gender",
+        "f": "gender",
+        "s": "Les linguistes étudient ___ dialecte.",
+        "a": "ce",
+        "en": "The linguists study this dialect.",
+        "alts": []
+      }
+    ]
+  },
+  {
+    "id": 6903,
+    "qs": [
+      {
+        "slot": "s|0",
+        "f": "sense",
+        "s": "Je suis ___ aux poils de chat.",
+        "a": "allergique",
+        "en": "I am allergic to cat hair.",
+        "alts": []
+      },
+      {
+        "slot": "s|0",
+        "f": "sense",
+        "s": "Elle est ___ aux arachides.",
+        "a": "allergique",
+        "en": "She is allergic to peanuts.",
+        "alts": []
+      },
+      {
+        "slot": "s|1",
+        "f": "sense",
+        "s": "Il est ___ au bruit des moteurs.",
+        "a": "allergique",
+        "en": "He is extremely averse to the noise of engines.",
+        "alts": []
+      },
+      {
+        "slot": "s|1",
+        "f": "sense",
+        "s": "Elle est ___ à toute forme de mensonge.",
+        "a": "allergique",
+        "en": "She is allergic to any form of lying.",
+        "alts": []
+      },
+      {
+        "slot": "g|mp",
+        "f": "agree",
+        "s": "Certains enfants sont ___ au pollen.",
+        "a": "allergiques",
+        "en": "Some children are allergic to pollen.",
+        "alts": []
+      },
+      {
+        "slot": "g|mp",
+        "f": "agree",
+        "s": "Les chats peuvent être ___ à ce produit.",
+        "a": "allergiques",
+        "en": "Cats can be allergic to this product.",
+        "alts": []
+      },
+      {
+        "slot": "g|f",
+        "f": "agree",
+        "s": "Cette patiente est ___ au gluten.",
+        "a": "allergique",
+        "en": "This patient is allergic to gluten.",
+        "alts": []
+      },
+      {
+        "slot": "g|f",
+        "f": "agree",
+        "s": "Ma sœur est ___ aux piqûres d'abeille.",
+        "a": "allergique",
+        "en": "My sister is allergic to bee stings.",
+        "alts": []
+      },
+      {
+        "slot": "g|fp",
+        "f": "agree",
+        "s": "Plusieurs personnes sont ___ aux acariens.",
+        "a": "allergiques",
+        "en": "Several people are allergic to dust mites.",
+        "alts": []
+      },
+      {
+        "slot": "g|fp",
+        "f": "agree",
+        "s": "Ces plantes sont ___ au froid.",
+        "a": "allergiques",
+        "en": "These plants are sensitive to cold.",
+        "alts": []
+      }
+    ]
+  },
+  {
+    "id": 6904,
+    "qs": [
+      {
+        "slot": "s|0",
+        "f": "sense",
+        "s": "Un ___ joue de la musique traditionnelle.",
+        "a": "gitan",
+        "en": "A Roma person plays traditional music.",
+        "alts": []
+      },
+      {
+        "slot": "s|0",
+        "f": "sense",
+        "s": "Le film raconte la vie d'un ___ espagnol.",
+        "a": "gitan",
+        "en": "The film tells the life of a Spanish Gypsy.",
+        "alts": []
+      },
+      {
+        "slot": "gender",
+        "f": "gender",
+        "s": "___ gitan voyage avec sa famille.",
+        "a": "le",
+        "en": "The Gypsy travels with his family.",
+        "alts": []
+      },
+      {
+        "slot": "gender",
+        "f": "gender",
+        "s": "J'ai rencontré ___ gitan au marché.",
+        "a": "un",
+        "en": "I met a Gypsy at the market.",
+        "alts": []
+      }
+    ]
+  },
+  {
+    "id": 6905,
+    "qs": [
+      {
+        "slot": "s|0",
+        "f": "sense",
+        "s": "Une couche ___ protège le sous-sol.",
+        "a": "géologique",
+        "en": "A geological layer protects the subsoil.",
+        "alts": []
+      },
+      {
+        "slot": "s|0",
+        "f": "sense",
+        "s": "Ce phénomène ___ date de plusieurs siècles.",
+        "a": "géologique",
+        "en": "This geological phenomenon dates back several centuries.",
+        "alts": []
+      },
+      {
+        "slot": "g|mp",
+        "f": "agree",
+        "s": "Les temps ___ de cette région sont fascinants.",
+        "a": "géologiques",
+        "en": "The geological times of this region are fascinating.",
+        "alts": []
+      },
+      {
+        "slot": "g|mp",
+        "f": "agree",
+        "s": "Ces phénomènes ___ restent mystérieux.",
+        "a": "géologiques",
+        "en": "These geological phenomena remain mysterious.",
+        "alts": []
+      },
+      {
+        "slot": "g|f",
+        "f": "agree",
+        "s": "Une étude ___ a confirmé l'hypothèse.",
+        "a": "géologique",
+        "en": "A geological study confirmed the hypothesis.",
+        "alts": []
+      },
+      {
+        "slot": "g|f",
+        "f": "agree",
+        "s": "La carte ___ montre les failles.",
+        "a": "géologique",
+        "en": "The geological map shows the faults.",
+        "alts": []
+      },
+      {
+        "slot": "g|fp",
+        "f": "agree",
+        "s": "Les formations ___ sont impressionnantes.",
+        "a": "géologiques",
+        "en": "The geological formations are impressive.",
+        "alts": []
+      },
+      {
+        "slot": "g|fp",
+        "f": "agree",
+        "s": "Certaines périodes ___ ont duré des millions d'années.",
+        "a": "géologiques",
+        "en": "Some geological periods lasted millions of years.",
+        "alts": []
+      }
+    ]
+  },
+  {
+    "id": 6906,
+    "qs": [
+      {
+        "slot": "s|0",
+        "f": "sense",
+        "s": "Il a été ___ accusé de ce crime.",
+        "a": "faussement",
+        "en": "He was falsely accused of this crime.",
+        "alts": []
+      },
+      {
+        "slot": "s|0",
+        "f": "sense",
+        "s": "Ce document a été ___ daté.",
+        "a": "faussement",
+        "en": "This document was wrongly dated.",
+        "alts": []
+      },
+      {
+        "slot": "s|1",
+        "f": "sense",
+        "s": "Elle a ___ admis son erreur pour le rassurer.",
+        "a": "faussement",
+        "en": "She falsely admitted her mistake to reassure him.",
+        "alts": []
+      },
+      {
+        "slot": "s|1",
+        "f": "sense",
+        "s": "Il s'est ___ excusé devant ses collègues.",
+        "a": "faussement",
+        "en": "He made a false apology in front of his colleagues.",
+        "alts": []
+      }
+    ]
+  },
+  {
+    "id": 6907,
+    "qs": [
+      {
+        "slot": "s|0",
+        "f": "sense",
+        "s": "Ce manteau est fait de ___ véritable.",
+        "a": "fourrure",
+        "en": "This coat is made of real fur.",
+        "alts": []
+      },
+      {
+        "slot": "s|0",
+        "f": "sense",
+        "s": "La ___ de cet animal est très douce.",
+        "a": "fourrure",
+        "en": "This animal's fur is very soft.",
+        "alts": []
+      },
+      {
+        "slot": "gender",
+        "f": "gender",
+        "s": "___ fourrure coûte très cher.",
+        "a": "la",
+        "en": "The fur is very expensive.",
+        "alts": []
+      },
+      {
+        "slot": "gender",
+        "f": "gender",
+        "s": "Elle porte ___ fourrure noire.",
+        "a": "une",
+        "en": "She is wearing a black fur coat.",
+        "alts": []
+      }
+    ]
+  },
+  {
+    "id": 6908,
+    "qs": [
+      {
+        "slot": "s|0",
+        "f": "sense",
+        "s": "Les invités attendent dans le ___.",
+        "a": "vestibule",
+        "en": "The guests are waiting in the entrance hall.",
+        "alts": []
+      },
+      {
+        "slot": "s|0",
+        "f": "sense",
+        "s": "Le ___ de cet hôtel est magnifique.",
+        "a": "vestibule",
+        "en": "The entrance hall of this hotel is magnificent.",
+        "alts": []
+      },
+      {
+        "slot": "s|1",
+        "f": "sense",
+        "s": "Le médecin examine le ___ de l'oreille.",
+        "a": "vestibule",
+        "en": "The doctor examines the vestibule of the ear.",
+        "alts": []
+      },
+      {
+        "slot": "s|1",
+        "f": "sense",
+        "s": "Le ___ innerve l'équilibre du corps.",
+        "a": "vestibule",
+        "en": "The vestibule innervates the body's balance.",
+        "alts": []
+      },
+      {
+        "slot": "gender",
+        "f": "gender",
+        "s": "___ vestibule mène au salon.",
+        "a": "le",
+        "en": "The vestibule leads to the living room.",
+        "alts": []
+      },
+      {
+        "slot": "gender",
+        "f": "gender",
+        "s": "On entre par ___ vestibule.",
+        "a": "le",
+        "en": "We enter through the vestibule.",
+        "alts": []
+      }
+    ]
+  },
+  {
+    "id": 6909,
+    "qs": [
+      {
+        "slot": "s|0",
+        "f": "sense",
+        "s": "On entend un ___ de porte dans la nuit.",
+        "a": "grincement",
+        "en": "We hear a door creaking in the night.",
+        "alts": []
+      },
+      {
+        "slot": "s|0",
+        "f": "sense",
+        "s": "Le ___ des freins m'agace.",
+        "a": "grincement",
+        "en": "The grinding of the brakes annoys me.",
+        "alts": []
+      },
+      {
+        "slot": "gender",
+        "f": "gender",
+        "s": "___ grincement vient du grenier.",
+        "a": "le",
+        "en": "The creaking comes from the attic.",
+        "alts": []
+      },
+      {
+        "slot": "gender",
+        "f": "gender",
+        "s": "J'entends ___ grincement étrange.",
+        "a": "un",
+        "en": "I hear a strange creaking.",
+        "alts": []
+      }
+    ]
+  },
+  {
+    "id": 6910,
+    "qs": [
+      {
+        "slot": "t|Présent|0",
+        "f": "tense",
+        "s": "J'___ les musiciens à la fin du concert.",
+        "a": "acclame",
+        "en": "I acclaim the musicians at the end of the concert.",
+        "alts": [],
+        "form": "Présent"
+      },
+      {
+        "slot": "t|Présent|0",
+        "f": "tense",
+        "s": "Le public ___ les acteurs à la fin de la pièce.",
+        "a": "acclame",
+        "en": "The public acclaims the actors at the end of the play.",
+        "alts": [],
+        "form": "Présent"
+      },
+      {
+        "slot": "t|Présent|1",
+        "f": "tense",
+        "s": "Tu ___ cette équipe avec enthousiasme.",
+        "a": "acclames",
+        "en": "You acclaim this team enthusiastically.",
+        "alts": [],
+        "form": "Présent"
+      },
+      {
+        "slot": "t|Présent|1",
+        "f": "tense",
+        "s": "Tu ___ ton héros quand il arrive sur scène.",
+        "a": "acclames",
+        "en": "You acclaim your hero when he comes on stage.",
+        "alts": [],
+        "form": "Présent"
+      },
+      {
+        "slot": "t|Présent|2",
+        "f": "tense",
+        "s": "Nous ___ le candidat lors de son meeting.",
+        "a": "acclamons",
+        "en": "We acclaim the candidate during his rally.",
+        "alts": [],
+        "form": "Présent"
+      },
+      {
+        "slot": "t|Présent|2",
+        "f": "tense",
+        "s": "Nous ___ les artistes de tout notre cœur.",
+        "a": "acclamons",
+        "en": "We acclaim the artists with all our heart.",
+        "alts": [],
+        "form": "Présent"
+      },
+      {
+        "slot": "t|Présent|3",
+        "f": "tense",
+        "s": "Vous ___ le chanteur à la fin de son tour.",
+        "a": "acclamez",
+        "en": "You acclaim the singer at the end of his set.",
+        "alts": [],
+        "form": "Présent"
+      },
+      {
+        "slot": "t|Présent|3",
+        "f": "tense",
+        "s": "Vous ___ cette pièce de théâtre debout.",
+        "a": "acclamez",
+        "en": "You acclaim this play standing up.",
+        "alts": [],
+        "form": "Présent"
+      },
+      {
+        "slot": "t|Présent|4",
+        "f": "tense",
+        "s": "Les fans ___ leur idole devant la scène.",
+        "a": "acclament",
+        "en": "The fans acclaim their idol in front of the stage.",
+        "alts": [],
+        "form": "Présent"
+      },
+      {
+        "slot": "t|Présent|4",
+        "f": "tense",
+        "s": "Elles ___ la metteuse en scène à la fin.",
+        "a": "acclament",
+        "en": "They acclaim the director at the end.",
+        "alts": [],
+        "form": "Présent"
+      },
+      {
+        "slot": "t|Passé composé|0",
+        "f": "tense",
+        "s": "J'___ mon équipe après sa victoire.",
+        "a": "ai acclamé",
+        "en": "I acclaimed my team after its victory.",
+        "alts": [],
+        "form": "Passé composé"
+      },
+      {
+        "slot": "t|Passé composé|0",
+        "f": "tense",
+        "s": "J'___ les musiciens à la fin du concert.",
+        "a": "ai acclamé",
+        "en": "I acclaimed the musicians at the end of the concert.",
+        "alts": [],
+        "form": "Passé composé"
+      },
+      {
+        "slot": "t|Passé composé|1",
+        "f": "tense",
+        "s": "Tu ___ ton héros quand il est arrivé sur scène.",
+        "a": "as acclamé",
+        "en": "You acclaimed your hero when he came on stage.",
+        "alts": [],
+        "form": "Passé composé"
+      },
+      {
+        "slot": "t|Passé composé|1",
+        "f": "tense",
+        "s": "Tu ___ cette équipe avec enthousiasme.",
+        "a": "as acclamé",
+        "en": "You acclaimed this team enthusiastically.",
+        "alts": [],
+        "form": "Passé composé"
+      },
+      {
+        "slot": "t|Passé composé|2",
+        "f": "tense",
+        "s": "Elle ___ ce réalisateur à chaque festival.",
+        "a": "a acclamé",
+        "en": "She acclaimed this director at every festival.",
+        "alts": [],
+        "form": "Passé composé"
+      },
+      {
+        "slot": "t|Passé composé|2",
+        "f": "tense",
+        "s": "Le public ___ les acteurs à la fin de la pièce.",
+        "a": "a acclamé",
+        "en": "The public acclaimed the actors at the end of the play.",
+        "alts": [],
+        "form": "Passé composé"
+      },
+      {
+        "slot": "t|Passé composé|3",
+        "f": "tense",
+        "s": "Nous ___ le candidat lors de son meeting.",
+        "a": "avons acclamé",
+        "en": "We acclaimed the candidate during his rally.",
+        "alts": [],
+        "form": "Passé composé"
+      },
+      {
+        "slot": "t|Passé composé|3",
+        "f": "tense",
+        "s": "Nous ___ les artistes de tout notre cœur.",
+        "a": "avons acclamé",
+        "en": "We acclaimed the artists with all our heart.",
+        "alts": [],
+        "form": "Passé composé"
+      },
+      {
+        "slot": "t|Passé composé|4",
+        "f": "tense",
+        "s": "Vous ___ le chanteur à la fin de son tour.",
+        "a": "avez acclamé",
+        "en": "You acclaimed the singer at the end of his set.",
+        "alts": [],
+        "form": "Passé composé"
+      },
+      {
+        "slot": "t|Passé composé|4",
+        "f": "tense",
+        "s": "Vous ___ cette pièce de théâtre debout.",
+        "a": "avez acclamé",
+        "en": "You acclaimed this play standing up.",
+        "alts": [],
+        "form": "Passé composé"
+      },
+      {
+        "slot": "t|Passé composé|5",
+        "f": "tense",
+        "s": "Les fans ___ leur idole devant la scène.",
+        "a": "ont acclamé",
+        "en": "The fans acclaimed their idol in front of the stage.",
+        "alts": [],
+        "form": "Passé composé"
+      },
+      {
+        "slot": "t|Passé composé|5",
+        "f": "tense",
+        "s": "Les spectateurs ___ l'équipe gagnante.",
+        "a": "ont acclamé",
+        "en": "The spectators acclaimed the winning team.",
+        "alts": [],
+        "form": "Passé composé"
+      },
+      {
+        "slot": "t|Imparfait|0",
+        "f": "tense",
+        "s": "J'___ mon équipe après chaque victoire.",
+        "a": "acclamais",
+        "en": "I used to acclaim my team after every victory.",
+        "alts": [],
+        "form": "Imparfait"
+      },
+      {
+        "slot": "t|Imparfait|0",
+        "f": "tense",
+        "s": "Tu ___ ce film dès le générique de fin.",
+        "a": "acclamais",
+        "en": "You used to acclaim this film as soon as the credits rolled.",
+        "alts": [],
+        "form": "Imparfait"
+      },
+      {
+        "slot": "t|Imparfait|1",
+        "f": "tense",
+        "s": "Il ___ son ami pour son courage.",
+        "a": "acclamait",
+        "en": "He used to acclaim his friend for his courage.",
+        "alts": [],
+        "form": "Imparfait"
+      },
+      {
+        "slot": "t|Imparfait|1",
+        "f": "tense",
+        "s": "Elle ___ ce réalisateur à chaque festival.",
+        "a": "acclamait",
+        "en": "She used to acclaim this director at every festival.",
+        "alts": [],
+        "form": "Imparfait"
+      },
+      {
+        "slot": "t|Imparfait|2",
+        "f": "tense",
+        "s": "Nous ___ le candidat lors de ses meetings.",
+        "a": "acclamions",
+        "en": "We used to acclaim the candidate during his rallies.",
+        "alts": [],
+        "form": "Imparfait"
+      },
+      {
+        "slot": "t|Imparfait|2",
+        "f": "tense",
+        "s": "Nous ___ les artistes de tout notre cœur.",
+        "a": "acclamions",
+        "en": "We used to acclaim the artists with all our heart.",
+        "alts": [],
+        "form": "Imparfait"
+      },
+      {
+        "slot": "t|Imparfait|3",
+        "f": "tense",
+        "s": "Vous ___ cette pièce de théâtre debout.",
+        "a": "acclamiez",
+        "en": "You used to acclaim this play standing up.",
+        "alts": [],
+        "form": "Imparfait"
+      },
+      {
+        "slot": "t|Imparfait|3",
+        "f": "tense",
+        "s": "Vous ___ le chanteur à la fin de son tour.",
+        "a": "acclamiez",
+        "en": "You used to acclaim the singer at the end of his set.",
+        "alts": [],
+        "form": "Imparfait"
+      },
+      {
+        "slot": "t|Imparfait|4",
+        "f": "tense",
+        "s": "Les fans ___ leur idole devant la scène.",
+        "a": "acclamaient",
+        "en": "The fans used to acclaim their idol in front of the stage.",
+        "alts": [],
+        "form": "Imparfait"
+      },
+      {
+        "slot": "t|Imparfait|4",
+        "f": "tense",
+        "s": "Ils ___ ce discours par des applaudissements.",
+        "a": "acclamaient",
+        "en": "They used to acclaim this speech with applause.",
+        "alts": [],
+        "form": "Imparfait"
+      },
+      {
+        "slot": "t|Futur|0",
+        "f": "tense",
+        "s": "J'___ mon équipe après sa victoire.",
+        "a": "acclamerai",
+        "en": "I will acclaim my team after its victory.",
+        "alts": [],
+        "form": "Futur"
+      },
+      {
+        "slot": "t|Futur|0",
+        "f": "tense",
+        "s": "J'___ les musiciens à la fin du concert.",
+        "a": "acclamerai",
+        "en": "I will acclaim the musicians at the end of the concert.",
+        "alts": [],
+        "form": "Futur"
+      },
+      {
+        "slot": "t|Futur|1",
+        "f": "tense",
+        "s": "Tu ___ ton héros quand il arrivera sur scène.",
+        "a": "acclameras",
+        "en": "You will acclaim your hero when he comes on stage.",
+        "alts": [],
+        "form": "Futur"
+      },
+      {
+        "slot": "t|Futur|1",
+        "f": "tense",
+        "s": "Tu ___ cette équipe avec enthousiasme.",
+        "a": "acclameras",
+        "en": "You will acclaim this team enthusiastically.",
+        "alts": [],
+        "form": "Futur"
+      },
+      {
+        "slot": "t|Futur|2",
+        "f": "tense",
+        "s": "Elle ___ ce réalisateur à chaque festival.",
+        "a": "acclamera",
+        "en": "She will acclaim this director at every festival.",
+        "alts": [],
+        "form": "Futur"
+      },
+      {
+        "slot": "t|Futur|2",
+        "f": "tense",
+        "s": "La foule ___ le vainqueur sur le podium.",
+        "a": "acclamera",
+        "en": "The crowd will acclaim the winner on the podium.",
+        "alts": [],
+        "form": "Futur"
+      },
+      {
+        "slot": "t|Futur|3",
+        "f": "tense",
+        "s": "Nous ___ le candidat lors de son meeting.",
+        "a": "acclamerons",
+        "en": "We will acclaim the candidate during his rally.",
+        "alts": [],
+        "form": "Futur"
+      },
+      {
+        "slot": "t|Futur|3",
+        "f": "tense",
+        "s": "Nous ___ les artistes de tout notre cœur.",
+        "a": "acclamerons",
+        "en": "We will acclaim the artists with all our heart.",
+        "alts": [],
+        "form": "Futur"
+      },
+      {
+        "slot": "t|Futur|4",
+        "f": "tense",
+        "s": "Vous ___ cette pièce de théâtre debout.",
+        "a": "acclamerez",
+        "en": "You will acclaim this play standing up.",
+        "alts": [],
+        "form": "Futur"
+      },
+      {
+        "slot": "t|Futur|4",
+        "f": "tense",
+        "s": "Vous ___ le chanteur à la fin de son tour.",
+        "a": "acclamerez",
+        "en": "You will acclaim the singer at the end of his set.",
+        "alts": [],
+        "form": "Futur"
+      },
+      {
+        "slot": "t|Futur|5",
+        "f": "tense",
+        "s": "Elles ___ la metteuse en scène à la fin.",
+        "a": "acclameront",
+        "en": "They will acclaim the director at the end.",
+        "alts": [],
+        "form": "Futur"
+      },
+      {
+        "slot": "t|Futur|5",
+        "f": "tense",
+        "s": "Ils ___ ce discours par des applaudissements.",
+        "a": "acclameront",
+        "en": "They will acclaim this speech with applause.",
+        "alts": [],
+        "form": "Futur"
+      },
+      {
+        "slot": "t|Conditionnel|0",
+        "f": "tense",
+        "s": "J'___ mon équipe après sa victoire.",
+        "a": "acclamerais",
+        "en": "I would acclaim my team after its victory.",
+        "alts": [],
+        "form": "Conditionnel"
+      },
+      {
+        "slot": "t|Conditionnel|0",
+        "f": "tense",
+        "s": "Tu ___ ce film dès le générique de fin.",
+        "a": "acclamerais",
+        "en": "You would acclaim this film as soon as the credits rolled.",
+        "alts": [],
+        "form": "Conditionnel"
+      },
+      {
+        "slot": "t|Conditionnel|1",
+        "f": "tense",
+        "s": "Le public ___ les acteurs à la fin de la pièce.",
+        "a": "acclamerait",
+        "en": "The public would acclaim the actors at the end of the play.",
+        "alts": [],
+        "form": "Conditionnel"
+      },
+      {
+        "slot": "t|Conditionnel|1",
+        "f": "tense",
+        "s": "Elle ___ ce réalisateur à chaque festival.",
+        "a": "acclamerait",
+        "en": "She would acclaim this director at every festival.",
+        "alts": [],
+        "form": "Conditionnel"
+      },
+      {
+        "slot": "t|Conditionnel|2",
+        "f": "tense",
+        "s": "Nous ___ le candidat lors de son meeting.",
+        "a": "acclamerions",
+        "en": "We would acclaim the candidate during his rally.",
+        "alts": [],
+        "form": "Conditionnel"
+      },
+      {
+        "slot": "t|Conditionnel|2",
+        "f": "tense",
+        "s": "Nous ___ les artistes de tout notre cœur.",
+        "a": "acclamerions",
+        "en": "We would acclaim the artists with all our heart.",
+        "alts": [],
+        "form": "Conditionnel"
+      },
+      {
+        "slot": "t|Conditionnel|3",
+        "f": "tense",
+        "s": "Vous ___ cette pièce de théâtre debout.",
+        "a": "acclameriez",
+        "en": "You would acclaim this play standing up.",
+        "alts": [],
+        "form": "Conditionnel"
+      },
+      {
+        "slot": "t|Conditionnel|3",
+        "f": "tense",
+        "s": "Vous ___ le chanteur à la fin de son tour.",
+        "a": "acclameriez",
+        "en": "You would acclaim the singer at the end of his set.",
+        "alts": [],
+        "form": "Conditionnel"
+      },
+      {
+        "slot": "t|Conditionnel|4",
+        "f": "tense",
+        "s": "Les fans ___ leur idole devant la scène.",
+        "a": "acclameraient",
+        "en": "The fans would acclaim their idol in front of the stage.",
+        "alts": [],
+        "form": "Conditionnel"
+      },
+      {
+        "slot": "t|Conditionnel|4",
+        "f": "tense",
+        "s": "Les spectateurs ___ l'équipe gagnante.",
+        "a": "acclameraient",
+        "en": "The spectators would acclaim the winning team.",
+        "alts": [],
+        "form": "Conditionnel"
+      },
+      {
+        "slot": "t|Subjonctif",
+        "f": "subj",
+        "s": "Il faut que le public ___ le nouveau directeur.",
+        "a": "acclame",
+        "en": "The public must acclaim the new director.",
+        "alts": [],
+        "form": "Subjonctif"
+      },
+      {
+        "slot": "t|Subjonctif",
+        "f": "subj",
+        "s": "Je veux qu'ils ___ leur champion à la fin.",
+        "a": "acclament",
+        "en": "I want them to acclaim their champion at the end.",
+        "alts": [],
+        "form": "Subjonctif"
+      },
+      {
+        "slot": "s|0",
+        "f": "sense",
+        "s": "Le public commence à ___ l'acteur.",
+        "a": "acclamer",
+        "en": "The public begins to acclaim the actor.",
+        "alts": []
+      },
+      {
+        "slot": "s|0",
+        "f": "sense",
+        "s": "Les fans se lèvent pour ___ leur idole.",
+        "a": "acclamer",
+        "en": "The fans stand up to acclaim their idol.",
+        "alts": []
+      },
+      {
+        "slot": "s|1",
+        "f": "sense",
+        "s": "Toute la salle se met à ___ le vainqueur.",
+        "a": "acclamer",
+        "en": "The whole room begins to acclaim the winner.",
+        "alts": []
+      },
+      {
+        "slot": "s|1",
+        "f": "sense",
+        "s": "Ils applaudissent pour ___ le héros.",
+        "a": "acclamer",
+        "en": "They applaud to acclaim the hero.",
+        "alts": []
+      }
+    ]
+  },
+  {
+    "id": 6911,
+    "qs": [
+      {
+        "slot": "s|0",
+        "f": "sense",
+        "s": "Le ___ déplace les décors entre les scènes.",
+        "a": "machiniste",
+        "en": "The stagehand moves the sets between scenes.",
+        "alts": []
+      },
+      {
+        "slot": "s|0",
+        "f": "sense",
+        "s": "Un ___ travaille dans les coulisses.",
+        "a": "machiniste",
+        "en": "A stagehand works backstage.",
+        "alts": []
+      },
+      {
+        "slot": "s|1",
+        "f": "sense",
+        "s": "Le ___ ajuste la machine toute la matinée.",
+        "a": "machiniste",
+        "en": "The machine operator adjusts the machine all morning.",
+        "alts": []
+      },
+      {
+        "slot": "s|1",
+        "f": "sense",
+        "s": "Un ___ conduit l'autobus dans cette ville.",
+        "a": "machiniste",
+        "en": "A bus driver drives the bus in this city.",
+        "alts": []
+      },
+      {
+        "slot": "gender",
+        "f": "gender",
+        "s": "___ machiniste arrive tôt au théâtre.",
+        "a": "le",
+        "en": "The stagehand arrives early at the theater.",
+        "alts": []
+      },
+      {
+        "slot": "gender",
+        "f": "gender",
+        "s": "C'est ___ machiniste très expérimenté.",
+        "a": "un",
+        "en": "He is a very experienced stagehand.",
+        "alts": []
+      }
+    ]
+  },
+  {
+    "id": 6912,
+    "qs": [
+      {
+        "slot": "s|0",
+        "f": "sense",
+        "s": "Il faut une ___ pour assembler les pièces.",
+        "a": "rondelle",
+        "en": "A washer is needed to assemble the parts.",
+        "alts": []
+      },
+      {
+        "slot": "s|0",
+        "f": "sense",
+        "s": "La ___ empêche le boulon de se desserrer.",
+        "a": "rondelle",
+        "en": "The washer prevents the bolt from loosening.",
+        "alts": []
+      },
+      {
+        "slot": "s|1",
+        "f": "sense",
+        "s": "Elle coupe une ___ de citron pour le thé.",
+        "a": "rondelle",
+        "en": "She cuts a slice of lemon for the tea.",
+        "alts": []
+      },
+      {
+        "slot": "s|1",
+        "f": "sense",
+        "s": "Une ___ de concombre garnit l'assiette.",
+        "a": "rondelle",
+        "en": "A slice of cucumber decorates the plate.",
+        "alts": []
+      },
+      {
+        "slot": "s|2",
+        "f": "sense",
+        "s": "Les enfants jouent à la ___ sur la glace.",
+        "a": "rondelle",
+        "en": "The children play hockey on the ice.",
+        "alts": []
+      },
+      {
+        "slot": "s|2",
+        "f": "sense",
+        "s": "Il frappe la ___ avec son bâton.",
+        "a": "rondelle",
+        "en": "He hits the puck with his stick.",
+        "alts": []
+      },
+      {
+        "slot": "gender",
+        "f": "gender",
+        "s": "___ rondelle est en métal.",
+        "a": "la",
+        "en": "The washer is made of metal.",
+        "alts": []
+      },
+      {
+        "slot": "gender",
+        "f": "gender",
+        "s": "Il a perdu ___ rondelle.",
+        "a": "la",
+        "en": "He lost the puck.",
+        "alts": []
+      }
+    ]
+  },
+  {
+    "id": 6913,
+    "qs": [
+      {
+        "slot": "s|0",
+        "f": "sense",
+        "s": "Nous avons pêché une ___ dans la rivière.",
+        "a": "truite",
+        "en": "We caught a trout in the river.",
+        "alts": []
+      },
+      {
+        "slot": "s|0",
+        "f": "sense",
+        "s": "La ___ est un poisson recherché.",
+        "a": "truite",
+        "en": "The trout is a sought-after fish.",
+        "alts": []
+      },
+      {
+        "slot": "gender",
+        "f": "gender",
+        "s": "___ truite grille sur le feu.",
+        "a": "la",
+        "en": "The trout is grilling over the fire.",
+        "alts": []
+      },
+      {
+        "slot": "gender",
+        "f": "gender",
+        "s": "Il cuisine ___ truite au four.",
+        "a": "la",
+        "en": "He cooks the trout in the oven.",
+        "alts": []
+      }
+    ]
+  },
+  {
+    "id": 6914,
+    "qs": [
+      {
+        "slot": "t|Présent|0",
+        "f": "tense",
+        "s": "Je me ___ bien devant cette comédie.",
+        "a": "marre",
+        "en": "I really have a laugh watching this comedy.",
+        "alts": [],
+        "form": "Présent"
+      },
+      {
+        "slot": "t|Présent|0",
+        "f": "tense",
+        "s": "Elle se ___ devant ce mème depuis dix minutes.",
+        "a": "marre",
+        "en": "She has been laughing at this meme for ten minutes.",
+        "alts": [],
+        "form": "Présent"
+      },
+      {
+        "slot": "t|Présent|1",
+        "f": "tense",
+        "s": "Tu te ___ toujours de ses histoires.",
+        "a": "marres",
+        "en": "You always laugh at his stories.",
+        "alts": [],
+        "form": "Présent"
+      },
+      {
+        "slot": "t|Présent|1",
+        "f": "tense",
+        "s": "Tu te ___ comme un fou quand tu revois cette vidéo.",
+        "a": "marres",
+        "en": "You laugh like crazy when you watch this video again.",
+        "alts": [],
+        "form": "Présent"
+      },
+      {
+        "slot": "t|Présent|2",
+        "f": "tense",
+        "s": "Nous nous ___ de nos propres bêtises.",
+        "a": "marrons",
+        "en": "We laugh at our own silly mistakes.",
+        "alts": [],
+        "form": "Présent"
+      },
+      {
+        "slot": "t|Présent|2",
+        "f": "tense",
+        "s": "Nous nous ___ beaucoup pendant les vacances.",
+        "a": "marrons",
+        "en": "We laugh a lot during the holidays.",
+        "alts": [],
+        "form": "Présent"
+      },
+      {
+        "slot": "t|Présent|3",
+        "f": "tense",
+        "s": "Vous vous ___ aux blagues du professeur.",
+        "a": "marrez",
+        "en": "You laugh at the teacher's jokes.",
+        "alts": [],
+        "form": "Présent"
+      },
+      {
+        "slot": "t|Présent|3",
+        "f": "tense",
+        "s": "Vous vous ___ tous les deux de la même chose.",
+        "a": "marrez",
+        "en": "You both laugh at the same thing.",
+        "alts": [],
+        "form": "Présent"
+      },
+      {
+        "slot": "t|Présent|4",
+        "f": "tense",
+        "s": "Mes amis se ___ à chaque fois qu'ils se revoient.",
+        "a": "marrent",
+        "en": "My friends laugh every time they see each other again.",
+        "alts": [],
+        "form": "Présent"
+      },
+      {
+        "slot": "t|Présent|4",
+        "f": "tense",
+        "s": "Les enfants se ___ en regardant ce dessin animé.",
+        "a": "marrent",
+        "en": "The children laugh while watching this cartoon.",
+        "alts": [],
+        "form": "Présent"
+      },
+      {
+        "slot": "t|Passé composé|0",
+        "f": "tense",
+        "s": "J'___ à cette blague hier soir.",
+        "a": "ai marré",
+        "en": "I had a laugh at this joke last night.",
+        "alts": [],
+        "form": "Passé composé"
+      },
+      {
+        "slot": "t|Passé composé|0",
+        "f": "tense",
+        "s": "J'___ bien devant cette comédie.",
+        "a": "ai marré",
+        "en": "I really had a laugh watching this comedy.",
+        "alts": [],
+        "form": "Passé composé"
+      },
+      {
+        "slot": "t|Passé composé|1",
+        "f": "tense",
+        "s": "Tu ___ comme un fou quand tu as revu cette vidéo.",
+        "a": "as marré",
+        "en": "You laughed like crazy when you watched this video again.",
+        "alts": [],
+        "form": "Passé composé"
+      },
+      {
+        "slot": "t|Passé composé|1",
+        "f": "tense",
+        "s": "Tu ___ toujours de ses histoires.",
+        "a": "as marré",
+        "en": "You always laughed at his stories.",
+        "alts": [],
+        "form": "Passé composé"
+      },
+      {
+        "slot": "t|Passé composé|2",
+        "f": "tense",
+        "s": "Elle ___ devant ce mème pendant dix minutes.",
+        "a": "a marré",
+        "en": "She laughed at this meme for ten minutes.",
+        "alts": [],
+        "form": "Passé composé"
+      },
+      {
+        "slot": "t|Passé composé|2",
+        "f": "tense",
+        "s": "On ___ bien ensemble le vendredi soir.",
+        "a": "a marré",
+        "en": "We had a good laugh together on Friday evening.",
+        "alts": [],
+        "form": "Passé composé"
+      },
+      {
+        "slot": "t|Passé composé|3",
+        "f": "tense",
+        "s": "Nous ___ de nos propres bêtises.",
+        "a": "avons marré",
+        "en": "We laughed at our own silly mistakes.",
+        "alts": [],
+        "form": "Passé composé"
+      },
+      {
+        "slot": "t|Passé composé|3",
+        "f": "tense",
+        "s": "Nous ___ beaucoup pendant les vacances.",
+        "a": "avons marré",
+        "en": "We laughed a lot during the holidays.",
+        "alts": [],
+        "form": "Passé composé"
+      },
+      {
+        "slot": "t|Passé composé|4",
+        "f": "tense",
+        "s": "Vous ___ aux blagues du professeur.",
+        "a": "avez marré",
+        "en": "You laughed at the teacher's jokes.",
+        "alts": [],
+        "form": "Passé composé"
+      },
+      {
+        "slot": "t|Passé composé|4",
+        "f": "tense",
+        "s": "Vous ___ tous les deux de la même chose.",
+        "a": "avez marré",
+        "en": "You both laughed at the same thing.",
+        "alts": [],
+        "form": "Passé composé"
+      },
+      {
+        "slot": "t|Passé composé|5",
+        "f": "tense",
+        "s": "Ils ___ de bon cœur ce soir.",
+        "a": "ont marré",
+        "en": "They had a good laugh this evening.",
+        "alts": [],
+        "form": "Passé composé"
+      },
+      {
+        "slot": "t|Passé composé|5",
+        "f": "tense",
+        "s": "Les enfants ___ en regardant ce dessin animé.",
+        "a": "ont marré",
+        "en": "The children laughed while watching this cartoon.",
+        "alts": [],
+        "form": "Passé composé"
+      },
+      {
+        "slot": "t|Imparfait|0",
+        "f": "tense",
+        "s": "Je me ___ à cette blague tous les jours.",
+        "a": "marrais",
+        "en": "I used to laugh at this joke every day.",
+        "alts": [],
+        "form": "Imparfait"
+      },
+      {
+        "slot": "t|Imparfait|0",
+        "f": "tense",
+        "s": "Tu te ___ bien devant cette comédie.",
+        "a": "marrais",
+        "en": "You used to really laugh watching this comedy.",
+        "alts": [],
+        "form": "Imparfait"
+      },
+      {
+        "slot": "t|Imparfait|1",
+        "f": "tense",
+        "s": "On se ___ bien ensemble le vendredi soir.",
+        "a": "marrait",
+        "en": "We used to have a good laugh together on Friday evenings.",
+        "alts": [],
+        "form": "Imparfait"
+      },
+      {
+        "slot": "t|Imparfait|1",
+        "f": "tense",
+        "s": "Elle se ___ devant ce mème.",
+        "a": "marrait",
+        "en": "She used to laugh at this meme.",
+        "alts": [],
+        "form": "Imparfait"
+      },
+      {
+        "slot": "t|Imparfait|2",
+        "f": "tense",
+        "s": "Nous nous ___ de nos propres bêtises.",
+        "a": "marrions",
+        "en": "We used to laugh at our own silly mistakes.",
+        "alts": [],
+        "form": "Imparfait"
+      },
+      {
+        "slot": "t|Imparfait|2",
+        "f": "tense",
+        "s": "Nous nous ___ beaucoup pendant les vacances.",
+        "a": "marrions",
+        "en": "We used to laugh a lot during the holidays.",
+        "alts": [],
+        "form": "Imparfait"
+      },
+      {
+        "slot": "t|Imparfait|3",
+        "f": "tense",
+        "s": "Vous vous ___ tous les deux de la même chose.",
+        "a": "marriez",
+        "en": "You both used to laugh at the same thing.",
+        "alts": [],
+        "form": "Imparfait"
+      },
+      {
+        "slot": "t|Imparfait|3",
+        "f": "tense",
+        "s": "Vous vous ___ aux blagues du professeur.",
+        "a": "marriez",
+        "en": "You used to laugh at the teacher's jokes.",
+        "alts": [],
+        "form": "Imparfait"
+      },
+      {
+        "slot": "t|Imparfait|4",
+        "f": "tense",
+        "s": "Les enfants se ___ en regardant ce dessin animé.",
+        "a": "marraient",
+        "en": "The children used to laugh while watching this cartoon.",
+        "alts": [],
+        "form": "Imparfait"
+      },
+      {
+        "slot": "t|Imparfait|4",
+        "f": "tense",
+        "s": "Mes amis se ___ à chaque fois qu'ils se revoyaient.",
+        "a": "marraient",
+        "en": "My friends used to laugh every time they saw each other again.",
+        "alts": [],
+        "form": "Imparfait"
+      },
+      {
+        "slot": "t|Futur|0",
+        "f": "tense",
+        "s": "Je me ___ à cette blague demain.",
+        "a": "marrerai",
+        "en": "I will laugh at this joke tomorrow.",
+        "alts": [],
+        "form": "Futur"
+      },
+      {
+        "slot": "t|Futur|0",
+        "f": "tense",
+        "s": "Je me ___ bien devant cette comédie.",
+        "a": "marrerai",
+        "en": "I will really have a laugh watching this comedy.",
+        "alts": [],
+        "form": "Futur"
+      },
+      {
+        "slot": "t|Futur|1",
+        "f": "tense",
+        "s": "Tu te ___ comme un fou quand tu reverras cette vidéo.",
+        "a": "marreras",
+        "en": "You will laugh like crazy when you watch this video again.",
+        "alts": [],
+        "form": "Futur"
+      },
+      {
+        "slot": "t|Futur|1",
+        "f": "tense",
+        "s": "Tu te ___ toujours de ses histoires.",
+        "a": "marreras",
+        "en": "You will always laugh at his stories.",
+        "alts": [],
+        "form": "Futur"
+      },
+      {
+        "slot": "t|Futur|2",
+        "f": "tense",
+        "s": "On se ___ bien ensemble le vendredi soir.",
+        "a": "marrera",
+        "en": "We will have a good laugh together on Friday evening.",
+        "alts": [],
+        "form": "Futur"
+      },
+      {
+        "slot": "t|Futur|2",
+        "f": "tense",
+        "s": "Elle se ___ devant ce mème.",
+        "a": "marrera",
+        "en": "She will laugh at this meme.",
+        "alts": [],
+        "form": "Futur"
+      },
+      {
+        "slot": "t|Futur|3",
+        "f": "tense",
+        "s": "Nous nous ___ de nos propres bêtises.",
+        "a": "marrerons",
+        "en": "We will laugh at our own silly mistakes.",
+        "alts": [],
+        "form": "Futur"
+      },
+      {
+        "slot": "t|Futur|3",
+        "f": "tense",
+        "s": "Nous nous ___ beaucoup pendant les vacances.",
+        "a": "marrerons",
+        "en": "We will laugh a lot during the holidays.",
+        "alts": [],
+        "form": "Futur"
+      },
+      {
+        "slot": "t|Futur|4",
+        "f": "tense",
+        "s": "Vous vous ___ tous les deux de la même chose.",
+        "a": "marrerez",
+        "en": "You both will laugh at the same thing.",
+        "alts": [],
+        "form": "Futur"
+      },
+      {
+        "slot": "t|Futur|4",
+        "f": "tense",
+        "s": "Vous vous ___ aux blagues du professeur.",
+        "a": "marrerez",
+        "en": "You will laugh at the teacher's jokes.",
+        "alts": [],
+        "form": "Futur"
+      },
+      {
+        "slot": "t|Futur|5",
+        "f": "tense",
+        "s": "Mes amis se ___ à chaque fois qu'ils se reverront.",
+        "a": "marreront",
+        "en": "My friends will laugh every time they see each other again.",
+        "alts": [],
+        "form": "Futur"
+      },
+      {
+        "slot": "t|Futur|5",
+        "f": "tense",
+        "s": "Les enfants se ___ en regardant ce dessin animé.",
+        "a": "marreront",
+        "en": "The children will laugh while watching this cartoon.",
+        "alts": [],
+        "form": "Futur"
+      },
+      {
+        "slot": "t|Conditionnel|0",
+        "f": "tense",
+        "s": "Je me ___ à cette blague tous les jours.",
+        "a": "marrerais",
+        "en": "I would laugh at this joke every day.",
+        "alts": [],
+        "form": "Conditionnel"
+      },
+      {
+        "slot": "t|Conditionnel|0",
+        "f": "tense",
+        "s": "Tu te ___ toujours de ses histoires.",
+        "a": "marrerais",
+        "en": "You would always laugh at his stories.",
+        "alts": [],
+        "form": "Conditionnel"
+      },
+      {
+        "slot": "t|Conditionnel|1",
+        "f": "tense",
+        "s": "Elle se ___ devant ce mème.",
+        "a": "marrerait",
+        "en": "She would laugh at this meme.",
+        "alts": [],
+        "form": "Conditionnel"
+      },
+      {
+        "slot": "t|Conditionnel|1",
+        "f": "tense",
+        "s": "Mon frère se ___ à chaque répétition.",
+        "a": "marrerait",
+        "en": "My brother would laugh at every rehearsal.",
+        "alts": [],
+        "form": "Conditionnel"
+      },
+      {
+        "slot": "t|Conditionnel|2",
+        "f": "tense",
+        "s": "Nous nous ___ de nos propres bêtises.",
+        "a": "marrerions",
+        "en": "We would laugh at our own silly mistakes.",
+        "alts": [],
+        "form": "Conditionnel"
+      },
+      {
+        "slot": "t|Conditionnel|2",
+        "f": "tense",
+        "s": "Nous nous ___ beaucoup pendant les vacances.",
+        "a": "marrerions",
+        "en": "We would laugh a lot during the holidays.",
+        "alts": [],
+        "form": "Conditionnel"
+      },
+      {
+        "slot": "t|Conditionnel|3",
+        "f": "tense",
+        "s": "Vous vous ___ tous les deux de la même chose.",
+        "a": "marreriez",
+        "en": "You both would laugh at the same thing.",
+        "alts": [],
+        "form": "Conditionnel"
+      },
+      {
+        "slot": "t|Conditionnel|3",
+        "f": "tense",
+        "s": "Vous vous ___ aux blagues du professeur.",
+        "a": "marreriez",
+        "en": "You would laugh at the teacher's jokes.",
+        "alts": [],
+        "form": "Conditionnel"
+      },
+      {
+        "slot": "t|Conditionnel|4",
+        "f": "tense",
+        "s": "Les enfants se ___ en regardant ce dessin animé.",
+        "a": "marreraient",
+        "en": "The children would laugh while watching this cartoon.",
+        "alts": [],
+        "form": "Conditionnel"
+      },
+      {
+        "slot": "t|Conditionnel|4",
+        "f": "tense",
+        "s": "Mes amis se ___ à chaque fois qu'ils se revoyaient.",
+        "a": "marreraient",
+        "en": "My friends would laugh every time they saw each other again.",
+        "alts": [],
+        "form": "Conditionnel"
+      },
+      {
+        "slot": "t|Subjonctif",
+        "f": "subj",
+        "s": "Il faut que tu ___ un peu ce soir.",
+        "a": "te marres",
+        "en": "You need to have a laugh a little this evening.",
+        "alts": [],
+        "form": "Subjonctif"
+      },
+      {
+        "slot": "t|Subjonctif",
+        "f": "subj",
+        "s": "Je veux qu'ils ___ bien pendant les vacances.",
+        "a": "se marrent",
+        "en": "I want them to have fun during the holidays.",
+        "alts": [],
+        "form": "Subjonctif"
+      },
+      {
+        "slot": "s|0",
+        "f": "sense",
+        "s": "Tout le monde se met à ___ devant ce spectacle.",
+        "a": "se marrer",
+        "en": "Everyone starts to laugh at this show.",
+        "alts": []
+      },
+      {
+        "slot": "s|0",
+        "f": "sense",
+        "s": "Les spectateurs vont ___ de plus en plus fort.",
+        "a": "se marrer",
+        "en": "The spectators are going to laugh louder and louder.",
+        "alts": []
+      },
+      {
+        "slot": "s|1",
+        "f": "sense",
+        "s": "Les enfants vont ___ avec leurs jouets.",
+        "a": "se marrer",
+        "en": "The children are going to have fun with their toys.",
+        "alts": []
+      },
+      {
+        "slot": "s|1",
+        "f": "sense",
+        "s": "On va bien ___ avec cette application.",
+        "a": "se marrer",
+        "en": "We are going to have a good laugh with this app.",
+        "alts": []
+      }
+    ]
+  },
+  {
+    "id": 6915,
+    "qs": [
+      {
+        "slot": "s|0",
+        "f": "sense",
+        "s": "Sa ___ du français est parfaite.",
+        "a": "prononciation",
+        "en": "His pronunciation of French is perfect.",
+        "alts": []
+      },
+      {
+        "slot": "s|0",
+        "f": "sense",
+        "s": "Le professeur corrige ma ___.",
+        "a": "prononciation",
+        "en": "The teacher corrects my pronunciation.",
+        "alts": []
+      },
+      {
+        "slot": "gender",
+        "f": "gender",
+        "s": "___ prononciation est difficile à maîtriser.",
+        "a": "la",
+        "en": "The pronunciation is difficult to master.",
+        "alts": []
+      },
+      {
+        "slot": "gender",
+        "f": "gender",
+        "s": "Travaille ___ prononciation des voyelles.",
+        "a": "la",
+        "en": "Work on the pronunciation of the vowels.",
+        "alts": []
+      }
+    ]
+  },
+  {
+    "id": 6916,
+    "qs": [
+      {
+        "slot": "s|0",
+        "f": "sense",
+        "s": "Le chirurgien injecte un ___ avant l'opération.",
+        "a": "anesthésique",
+        "en": "The surgeon injects an anesthetic before the operation.",
+        "alts": []
+      },
+      {
+        "slot": "s|0",
+        "f": "sense",
+        "s": "Cet ___ agit très vite.",
+        "a": "anesthésique",
+        "en": "This anesthetic acts very quickly.",
+        "alts": []
+      },
+      {
+        "slot": "gender",
+        "f": "gender",
+        "s": "___ anesthésique endort le patient.",
+        "a": "l'",
+        "en": "The anesthetic puts the patient to sleep.",
+        "alts": [
+          "le"
+        ]
+      },
+      {
+        "slot": "gender",
+        "f": "gender",
+        "s": "On utilise ___ anesthésique local.",
+        "a": "un",
+        "en": "A local anesthetic is used.",
+        "alts": []
+      }
+    ]
+  },
+  {
+    "id": 6917,
+    "qs": [
+      {
+        "slot": "t|Présent|0",
+        "f": "tense",
+        "s": "Je ___ cet anniversaire avec ma famille.",
+        "a": "commémore",
+        "en": "I commemorate this anniversary with my family.",
+        "alts": [],
+        "form": "Présent"
+      },
+      {
+        "slot": "t|Présent|0",
+        "f": "tense",
+        "s": "La ville ___ ce massacre par une cérémonie.",
+        "a": "commémore",
+        "en": "The city commemorates this massacre with a ceremony.",
+        "alts": [],
+        "form": "Présent"
+      },
+      {
+        "slot": "t|Présent|1",
+        "f": "tense",
+        "s": "Tu ___ les victimes dans ton village.",
+        "a": "commémores",
+        "en": "You commemorate the victims in your village.",
+        "alts": [],
+        "form": "Présent"
+      },
+      {
+        "slot": "t|Présent|1",
+        "f": "tense",
+        "s": "Tu ___ ce jour par un discours.",
+        "a": "commémores",
+        "en": "You commemorate this day with a speech.",
+        "alts": [],
+        "form": "Présent"
+      },
+      {
+        "slot": "t|Présent|2",
+        "f": "tense",
+        "s": "Nous ___ les disparus par une minute de silence.",
+        "a": "commémorons",
+        "en": "We commemorate the missing with a minute of silence.",
+        "alts": [],
+        "form": "Présent"
+      },
+      {
+        "slot": "t|Présent|2",
+        "f": "tense",
+        "s": "Nous ___ cet événement chaque 11 novembre.",
+        "a": "commémorons",
+        "en": "We commemorate this event every November 11.",
+        "alts": [],
+        "form": "Présent"
+      },
+      {
+        "slot": "t|Présent|3",
+        "f": "tense",
+        "s": "Vous ___ cette bataille dans votre région.",
+        "a": "commémorez",
+        "en": "You commemorate this battle in your region.",
+        "alts": [],
+        "form": "Présent"
+      },
+      {
+        "slot": "t|Présent|3",
+        "f": "tense",
+        "s": "Vous ___ ce traité par une exposition.",
+        "a": "commémorez",
+        "en": "You commemorate this treaty with an exhibition.",
+        "alts": [],
+        "form": "Présent"
+      },
+      {
+        "slot": "t|Présent|4",
+        "f": "tense",
+        "s": "Les autorités ___ ce drame par une plaque.",
+        "a": "commémorent",
+        "en": "The authorities commemorate this tragedy with a plaque.",
+        "alts": [],
+        "form": "Présent"
+      },
+      {
+        "slot": "t|Présent|4",
+        "f": "tense",
+        "s": "Les citoyens ___ la Révolution chaque année.",
+        "a": "commémorent",
+        "en": "The citizens commemorate the Revolution every year.",
+        "alts": [],
+        "form": "Présent"
+      },
+      {
+        "slot": "t|Passé composé|0",
+        "f": "tense",
+        "s": "J'___ la fin de la guerre l'année dernière.",
+        "a": "ai commémoré",
+        "en": "I commemorated the end of the war last year.",
+        "alts": [],
+        "form": "Passé composé"
+      },
+      {
+        "slot": "t|Passé composé|0",
+        "f": "tense",
+        "s": "J'___ cet anniversaire avec ma famille.",
+        "a": "ai commémoré",
+        "en": "I commemorated this anniversary with my family.",
+        "alts": [],
+        "form": "Passé composé"
+      },
+      {
+        "slot": "t|Passé composé|1",
+        "f": "tense",
+        "s": "Tu ___ ce jour par un discours.",
+        "a": "as commémoré",
+        "en": "You commemorated this day with a speech.",
+        "alts": [],
+        "form": "Passé composé"
+      },
+      {
+        "slot": "t|Passé composé|1",
+        "f": "tense",
+        "s": "Tu ___ les victimes dans ton village.",
+        "a": "as commémoré",
+        "en": "You commemorated the victims in your village.",
+        "alts": [],
+        "form": "Passé composé"
+      },
+      {
+        "slot": "t|Passé composé|2",
+        "f": "tense",
+        "s": "La ville ___ ce massacre par une cérémonie.",
+        "a": "a commémoré",
+        "en": "The city commemorated this massacre with a ceremony.",
+        "alts": [],
+        "form": "Passé composé"
+      },
+      {
+        "slot": "t|Passé composé|2",
+        "f": "tense",
+        "s": "On ___ cette date au monument aux morts.",
+        "a": "a commémoré",
+        "en": "We commemorated this date at the war memorial.",
+        "alts": [],
+        "form": "Passé composé"
+      },
+      {
+        "slot": "t|Passé composé|3",
+        "f": "tense",
+        "s": "Nous ___ les disparus par une minute de silence.",
+        "a": "avons commémoré",
+        "en": "We commemorated the missing with a minute of silence.",
+        "alts": [],
+        "form": "Passé composé"
+      },
+      {
+        "slot": "t|Passé composé|3",
+        "f": "tense",
+        "s": "Nous ___ cet événement le 11 novembre dernier.",
+        "a": "avons commémoré",
+        "en": "We commemorated this event last November 11.",
+        "alts": [],
+        "form": "Passé composé"
+      },
+      {
+        "slot": "t|Passé composé|4",
+        "f": "tense",
+        "s": "Vous ___ cette bataille dans votre région.",
+        "a": "avez commémoré",
+        "en": "You commemorated this battle in your region.",
+        "alts": [],
+        "form": "Passé composé"
+      },
+      {
+        "slot": "t|Passé composé|4",
+        "f": "tense",
+        "s": "Vous ___ ce traité par une exposition.",
+        "a": "avez commémoré",
+        "en": "You commemorated this treaty with an exhibition.",
+        "alts": [],
+        "form": "Passé composé"
+      },
+      {
+        "slot": "t|Passé composé|5",
+        "f": "tense",
+        "s": "Ils ___ leur indépendance le jour férié.",
+        "a": "ont commémoré",
+        "en": "They commemorated their independence on the public holiday.",
+        "alts": [],
+        "form": "Passé composé"
+      },
+      {
+        "slot": "t|Passé composé|5",
+        "f": "tense",
+        "s": "Les citoyens ___ la Révolution l'année dernière.",
+        "a": "ont commémoré",
+        "en": "The citizens commemorated the Revolution last year.",
+        "alts": [],
+        "form": "Passé composé"
+      },
+      {
+        "slot": "t|Imparfait|0",
+        "f": "tense",
+        "s": "Je ___ la fin de la guerre chaque année.",
+        "a": "commémorais",
+        "en": "I used to commemorate the end of the war every year.",
+        "alts": [],
+        "form": "Imparfait"
+      },
+      {
+        "slot": "t|Imparfait|0",
+        "f": "tense",
+        "s": "Tu ___ cet anniversaire avec ta famille.",
+        "a": "commémorais",
+        "en": "You used to commemorate this anniversary with your family.",
+        "alts": [],
+        "form": "Imparfait"
+      },
+      {
+        "slot": "t|Imparfait|1",
+        "f": "tense",
+        "s": "On ___ cette date au monument aux morts.",
+        "a": "commémorait",
+        "en": "We used to commemorate this date at the war memorial.",
+        "alts": [],
+        "form": "Imparfait"
+      },
+      {
+        "slot": "t|Imparfait|1",
+        "f": "tense",
+        "s": "La ville ___ ce massacre par une cérémonie.",
+        "a": "commémorait",
+        "en": "The city used to commemorate this massacre with a ceremony.",
+        "alts": [],
+        "form": "Imparfait"
+      },
+      {
+        "slot": "t|Imparfait|2",
+        "f": "tense",
+        "s": "Nous ___ les disparus par une minute de silence.",
+        "a": "commémorions",
+        "en": "We used to commemorate the missing with a minute of silence.",
+        "alts": [],
+        "form": "Imparfait"
+      },
+      {
+        "slot": "t|Imparfait|2",
+        "f": "tense",
+        "s": "Nous ___ cet événement chaque 11 novembre.",
+        "a": "commémorions",
+        "en": "We used to commemorate this event every November 11.",
+        "alts": [],
+        "form": "Imparfait"
+      },
+      {
+        "slot": "t|Imparfait|3",
+        "f": "tense",
+        "s": "Vous ___ ce traité par une exposition.",
+        "a": "commémoriez",
+        "en": "You used to commemorate this treaty with an exhibition.",
+        "alts": [],
+        "form": "Imparfait"
+      },
+      {
+        "slot": "t|Imparfait|3",
+        "f": "tense",
+        "s": "Vous ___ cette bataille dans votre région.",
+        "a": "commémoriez",
+        "en": "You used to commemorate this battle in your region.",
+        "alts": [],
+        "form": "Imparfait"
+      },
+      {
+        "slot": "t|Imparfait|4",
+        "f": "tense",
+        "s": "Les citoyens ___ la Révolution chaque année.",
+        "a": "commémoraient",
+        "en": "The citizens used to commemorate the Revolution every year.",
+        "alts": [],
+        "form": "Imparfait"
+      },
+      {
+        "slot": "t|Imparfait|4",
+        "f": "tense",
+        "s": "Les autorités ___ ce drame par une plaque.",
+        "a": "commémoraient",
+        "en": "The authorities used to commemorate this tragedy with a plaque.",
+        "alts": [],
+        "form": "Imparfait"
+      },
+      {
+        "slot": "t|Futur|0",
+        "f": "tense",
+        "s": "Je ___ la fin de la guerre chaque année.",
+        "a": "commémorerai",
+        "en": "I will commemorate the end of the war every year.",
+        "alts": [],
+        "form": "Futur"
+      },
+      {
+        "slot": "t|Futur|0",
+        "f": "tense",
+        "s": "Je ___ cet anniversaire avec ma famille.",
+        "a": "commémorerai",
+        "en": "I will commemorate this anniversary with my family.",
+        "alts": [],
+        "form": "Futur"
+      },
+      {
+        "slot": "t|Futur|1",
+        "f": "tense",
+        "s": "Tu ___ ce jour par un discours.",
+        "a": "commémoreras",
+        "en": "You will commemorate this day with a speech.",
+        "alts": [],
+        "form": "Futur"
+      },
+      {
+        "slot": "t|Futur|1",
+        "f": "tense",
+        "s": "Tu ___ les victimes dans ton village.",
+        "a": "commémoreras",
+        "en": "You will commemorate the victims in your village.",
+        "alts": [],
+        "form": "Futur"
+      },
+      {
+        "slot": "t|Futur|2",
+        "f": "tense",
+        "s": "On ___ cette date au monument aux morts.",
+        "a": "commémorera",
+        "en": "We will commemorate this date at the war memorial.",
+        "alts": [],
+        "form": "Futur"
+      },
+      {
+        "slot": "t|Futur|2",
+        "f": "tense",
+        "s": "La ville ___ ce massacre par une cérémonie.",
+        "a": "commémorera",
+        "en": "The city will commemorate this massacre with a ceremony.",
+        "alts": [],
+        "form": "Futur"
+      },
+      {
+        "slot": "t|Futur|3",
+        "f": "tense",
+        "s": "Nous ___ les disparus par une minute de silence.",
+        "a": "commémorerons",
+        "en": "We will commemorate the missing with a minute of silence.",
+        "alts": [],
+        "form": "Futur"
+      },
+      {
+        "slot": "t|Futur|3",
+        "f": "tense",
+        "s": "Nous ___ cet événement chaque 11 novembre.",
+        "a": "commémorerons",
+        "en": "We will commemorate this event every November 11.",
+        "alts": [],
+        "form": "Futur"
+      },
+      {
+        "slot": "t|Futur|4",
+        "f": "tense",
+        "s": "Vous ___ ce traité par une exposition.",
+        "a": "commémorerez",
+        "en": "You will commemorate this treaty with an exhibition.",
+        "alts": [],
+        "form": "Futur"
+      },
+      {
+        "slot": "t|Futur|4",
+        "f": "tense",
+        "s": "Vous ___ cette bataille dans votre région.",
+        "a": "commémorerez",
+        "en": "You will commemorate this battle in your region.",
+        "alts": [],
+        "form": "Futur"
+      },
+      {
+        "slot": "t|Futur|5",
+        "f": "tense",
+        "s": "Les autorités ___ ce drame par une plaque.",
+        "a": "commémoreront",
+        "en": "The authorities will commemorate this tragedy with a plaque.",
+        "alts": [],
+        "form": "Futur"
+      },
+      {
+        "slot": "t|Futur|5",
+        "f": "tense",
+        "s": "Les citoyens ___ la Révolution chaque année.",
+        "a": "commémoreront",
+        "en": "The citizens will commemorate the Revolution every year.",
+        "alts": [],
+        "form": "Futur"
+      },
+      {
+        "slot": "t|Conditionnel|0",
+        "f": "tense",
+        "s": "Je ___ la fin de la guerre chaque année.",
+        "a": "commémorerais",
+        "en": "I would commemorate the end of the war every year.",
+        "alts": [],
+        "form": "Conditionnel"
+      },
+      {
+        "slot": "t|Conditionnel|0",
+        "f": "tense",
+        "s": "Tu ___ les victimes dans ton village.",
+        "a": "commémorerais",
+        "en": "You would commemorate the victims in your village.",
+        "alts": [],
+        "form": "Conditionnel"
+      },
+      {
+        "slot": "t|Conditionnel|1",
+        "f": "tense",
+        "s": "La ville ___ ce massacre par une cérémonie.",
+        "a": "commémorerait",
+        "en": "The city would commemorate this massacre with a ceremony.",
+        "alts": [],
+        "form": "Conditionnel"
+      },
+      {
+        "slot": "t|Conditionnel|1",
+        "f": "tense",
+        "s": "Le maire ___ la libération de la ville.",
+        "a": "commémorerait",
+        "en": "The mayor would commemorate the liberation of the city.",
+        "alts": [],
+        "form": "Conditionnel"
+      },
+      {
+        "slot": "t|Conditionnel|2",
+        "f": "tense",
+        "s": "Nous ___ les disparus par une minute de silence.",
+        "a": "commémorerions",
+        "en": "We would commemorate the missing with a minute of silence.",
+        "alts": [],
+        "form": "Conditionnel"
+      },
+      {
+        "slot": "t|Conditionnel|2",
+        "f": "tense",
+        "s": "Nous ___ cet événement chaque 11 novembre.",
+        "a": "commémorerions",
+        "en": "We would commemorate this event every November 11.",
+        "alts": [],
+        "form": "Conditionnel"
+      },
+      {
+        "slot": "t|Conditionnel|3",
+        "f": "tense",
+        "s": "Vous ___ ce traité par une exposition.",
+        "a": "commémoreriez",
+        "en": "You would commemorate this treaty with an exhibition.",
+        "alts": [],
+        "form": "Conditionnel"
+      },
+      {
+        "slot": "t|Conditionnel|3",
+        "f": "tense",
+        "s": "Vous ___ cette bataille dans votre région.",
+        "a": "commémoreriez",
+        "en": "You would commemorate this battle in your region.",
+        "alts": [],
+        "form": "Conditionnel"
+      },
+      {
+        "slot": "t|Conditionnel|4",
+        "f": "tense",
+        "s": "Les citoyens ___ la Révolution chaque année.",
+        "a": "commémoreraient",
+        "en": "The citizens would commemorate the Revolution every year.",
+        "alts": [],
+        "form": "Conditionnel"
+      },
+      {
+        "slot": "t|Conditionnel|4",
+        "f": "tense",
+        "s": "Les autorités ___ ce drame par une plaque.",
+        "a": "commémoreraient",
+        "en": "The authorities would commemorate this tragedy with a plaque.",
+        "alts": [],
+        "form": "Conditionnel"
+      },
+      {
+        "slot": "t|Subjonctif",
+        "f": "subj",
+        "s": "Il faut que nous ___ cette victoire ensemble.",
+        "a": "commémorions",
+        "en": "We must commemorate this victory together.",
+        "alts": [],
+        "form": "Subjonctif"
+      },
+      {
+        "slot": "t|Subjonctif",
+        "f": "subj",
+        "s": "Je souhaite qu'elle ___ la fin de la guerre.",
+        "a": "commémore",
+        "en": "I wish she would commemorate the end of the war.",
+        "alts": [],
+        "form": "Subjonctif"
+      },
+      {
+        "slot": "s|0",
+        "f": "sense",
+        "s": "La ville organise une cérémonie pour ___ les victimes.",
+        "a": "commémorer",
+        "en": "The city organizes a ceremony to commemorate the victims.",
+        "alts": []
+      },
+      {
+        "slot": "s|0",
+        "f": "sense",
+        "s": "Nous devons ___ ce moment historique.",
+        "a": "commémorer",
+        "en": "We must commemorate this historic moment.",
+        "alts": []
+      }
+    ]
+  },
+  {
+    "id": 6918,
+    "qs": [
+      {
+        "slot": "s|0",
+        "f": "sense",
+        "s": "Le ___ régnait sur un vaste empire.",
+        "a": "sultan",
+        "en": "The sultan ruled over a vast empire.",
+        "alts": []
+      },
+      {
+        "slot": "s|0",
+        "f": "sense",
+        "s": "Un ___ accueille les ambassadeurs au palais.",
+        "a": "sultan",
+        "en": "A sultan receives the ambassadors at the palace.",
+        "alts": []
+      },
+      {
+        "slot": "gender",
+        "f": "gender",
+        "s": "___ sultan porte une robe somptueuse.",
+        "a": "le",
+        "en": "The sultan wears a sumptuous robe.",
+        "alts": []
+      },
+      {
+        "slot": "gender",
+        "f": "gender",
+        "s": "C'est ___ sultan très respecté.",
+        "a": "un",
+        "en": "He is a very respected sultan.",
+        "alts": []
+      }
+    ]
+  },
+  {
+    "id": 6919,
+    "qs": [
+      {
+        "slot": "s|0",
+        "f": "sense",
+        "s": "Le club ___ a remporté plusieurs médailles.",
+        "a": "alpin",
+        "en": "The Alpine club won several medals.",
+        "alts": []
+      },
+      {
+        "slot": "s|0",
+        "f": "sense",
+        "s": "Un village ___ se cache dans la vallée.",
+        "a": "alpin",
+        "en": "An Alpine village hides in the valley.",
+        "alts": []
+      },
+      {
+        "slot": "s|1",
+        "f": "sense",
+        "s": "Une plante ___ pousse à haute altitude.",
+        "a": "alpine",
+        "en": "A mountain plant grows at high altitude.",
+        "alts": []
+      },
+      {
+        "slot": "s|1",
+        "f": "sense",
+        "s": "Le paysage ___ est spectaculaire.",
+        "a": "alpin",
+        "en": "The mountain landscape is spectacular.",
+        "alts": []
+      },
+      {
+        "slot": "g|mp",
+        "f": "agree",
+        "s": "Les villages ___ sont recouverts de neige.",
+        "a": "alpins",
+        "en": "The mountain villages are covered with snow.",
+        "alts": []
+      },
+      {
+        "slot": "g|mp",
+        "f": "agree",
+        "s": "Ces sommets ___ attirent les alpinistes.",
+        "a": "alpins",
+        "en": "These mountain peaks attract mountaineers.",
+        "alts": []
+      },
+      {
+        "slot": "g|f",
+        "f": "agree",
+        "s": "Une fleur ___ pousse sur le rocher.",
+        "a": "alpine",
+        "en": "A mountain flower grows on the rock.",
+        "alts": []
+      },
+      {
+        "slot": "g|f",
+        "f": "agree",
+        "s": "La station ___ est prisée en hiver.",
+        "a": "alpine",
+        "en": "The mountain resort is popular in winter.",
+        "alts": []
+      },
+      {
+        "slot": "g|fp",
+        "f": "agree",
+        "s": "Les plantes ___ résistent au froid.",
+        "a": "alpines",
+        "en": "Alpine plants resist the cold.",
+        "alts": []
+      },
+      {
+        "slot": "g|fp",
+        "f": "agree",
+        "s": "Ces régions ___ connaissent peu de tourisme.",
+        "a": "alpines",
+        "en": "These Alpine regions see little tourism.",
+        "alts": []
+      }
+    ]
+  }
+]

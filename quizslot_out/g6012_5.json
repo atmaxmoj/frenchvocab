@@ -1,0 +1,439 @@
+[
+  {
+    "id": 6920,
+    "qs": [
+      {"slot": "s|0", "f": "sense", "s": "Ce vendeur est ___ ; il a menti sur le prix.", "a": "malhonnête", "en": "This seller is dishonest; he lied about the price.", "alts": []},
+      {"slot": "s|0", "f": "sense", "s": "Il est ___ de tricher à l'examen.", "a": "malhonnête", "en": "It is dishonest to cheat on the exam.", "alts": []},
+      {"slot": "s|1", "f": "sense", "s": "Il a utilisé des méthodes ___ pour gagner.", "a": "malhonnête", "en": "He used dishonest methods to win.", "alts": []},
+      {"slot": "s|1", "f": "sense", "s": "Cette transaction d'affaires est ___ .", "a": "malhonnête", "en": "This business transaction is dishonest.", "alts": []},
+      {"slot": "g|mp", "f": "agree", "s": "Les commerçants ___ ont été condamnés.", "a": "malhonnêtes", "en": "The dishonest shopkeepers were convicted.", "alts": []},
+      {"slot": "g|mp", "f": "agree", "s": "Ce sont des hommes ___ .", "a": "malhonnêtes", "en": "They are dishonest men.", "alts": []},
+      {"slot": "g|f", "f": "agree", "s": "La vendeuse est ___ .", "a": "malhonnête", "en": "The saleswoman is dishonest.", "alts": []},
+      {"slot": "g|f", "f": "agree", "s": "C'est une personne ___ .", "a": "malhonnête", "en": "She is a dishonest person.", "alts": []},
+      {"slot": "g|fp", "f": "agree", "s": "Les vendeuses sont ___ .", "a": "malhonnêtes", "en": "The saleswomen are dishonest.", "alts": []},
+      {"slot": "g|fp", "f": "agree", "s": "Ce sont des femmes ___ .", "a": "malhonnêtes", "en": "They are dishonest women.", "alts": []}
+    ]
+  },
+  {
+    "id": 6921,
+    "qs": [
+      {"slot": "s|0", "f": "sense", "s": "Il a été ___ à sa femme.", "a": "infidèle", "en": "He was unfaithful to his wife.", "alts": []},
+      {"slot": "s|0", "f": "sense", "s": "Elle soupçonne son mari d'être ___ .", "a": "infidèle", "en": "She suspects her husband of being unfaithful.", "alts": []},
+      {"slot": "s|1", "f": "sense", "s": "Un ami ___ m'a trahi.", "a": "infidèle", "en": "A disloyal friend betrayed me.", "alts": []},
+      {"slot": "s|1", "f": "sense", "s": "Il est resté ___ à ses principes.", "a": "infidèle", "en": "He remained unfaithful to his principles.", "alts": []},
+      {"slot": "g|mp", "f": "agree", "s": "Les maris ___ ont divorcé.", "a": "infidèles", "en": "The unfaithful husbands divorced.", "alts": []},
+      {"slot": "g|mp", "f": "agree", "s": "Ce sont des amis ___ .", "a": "infidèles", "en": "They are disloyal friends.", "alts": []},
+      {"slot": "g|f", "f": "agree", "s": "Sa femme est ___ .", "a": "infidèle", "en": "His wife is unfaithful.", "alts": []},
+      {"slot": "g|f", "f": "agree", "s": "C'est une amie ___ .", "a": "infidèle", "en": "She is a disloyal friend.", "alts": []},
+      {"slot": "g|fp", "f": "agree", "s": "Les femmes ___ ont quitté leurs maris.", "a": "infidèles", "en": "The unfaithful women left their husbands.", "alts": []},
+      {"slot": "g|fp", "f": "agree", "s": "Ce sont des amies ___ .", "a": "infidèles", "en": "They are disloyal friends.", "alts": []}
+    ]
+  },
+  {
+    "id": 6922,
+    "qs": [
+      {"slot": "s|0", "f": "sense", "s": "La ___ entre les peuples est essentielle.", "a": "fraternité", "en": "Brotherhood among peoples is essential.", "alts": []},
+      {"slot": "s|0", "f": "sense", "s": "Il croit en la ___ humaine.", "a": "fraternité", "en": "He believes in human brotherhood.", "alts": []},
+      {"slot": "gender", "f": "gender", "s": "___ fraternité est un idéal républicain.", "a": "La", "en": "Brotherhood is a republican ideal.", "alts": ["la"]},
+      {"slot": "gender", "f": "gender", "s": "J'admire ___ fraternité entre eux.", "a": "la", "en": "I admire the brotherhood between them.", "alts": ["La"]}
+    ]
+  },
+  {
+    "id": 6923,
+    "qs": [
+      {"slot": "s|0", "f": "sense", "s": "Le ___ m'a posé beaucoup de questions.", "a": "recruteur", "en": "The recruiter asked me many questions.", "alts": []},
+      {"slot": "s|0", "f": "sense", "s": "L'entreprise cherche un ___ expérimenté.", "a": "recruteur", "en": "The company is looking for an experienced recruiter.", "alts": []},
+      {"slot": "gender", "f": "gender", "s": "___ recruteur travaille pour une grande société.", "a": "Le", "en": "The recruiter works for a large company.", "alts": ["le"]},
+      {"slot": "gender", "f": "gender", "s": "J'ai rencontré ___ recruteur ce matin.", "a": "le", "en": "I met the recruiter this morning.", "alts": ["Le"]}
+    ]
+  },
+  {
+    "id": 6924,
+    "qs": [
+      {"slot": "t|Présent|0", "f": "tense", "s": "Je ___ par terre pour me réchauffer.", "a": "piétine", "en": "I stamp my feet on the ground to warm up.", "alts": [], "form": "Présent"},
+      {"slot": "t|Présent|0", "f": "tense", "s": "Elle ___ dans la boue sans faire attention.", "a": "piétine", "en": "She tramples in the mud without paying attention.", "alts": [], "form": "Présent"},
+      {"slot": "t|Présent|1", "f": "tense", "s": "Tu ___ les fleurs du jardin !", "a": "piétines", "en": "You are trampling the garden flowers!", "alts": [], "form": "Présent"},
+      {"slot": "t|Présent|1", "f": "tense", "s": "Tu ___ toujours devant la porte.", "a": "piétines", "en": "You always stamp your feet in front of the door.", "alts": [], "form": "Présent"},
+      {"slot": "t|Présent|2", "f": "tense", "s": "Nous ___ le sol pour faire entrer la chaleur.", "a": "piétinons", "en": "We stamp our feet to let the heat in.", "alts": [], "form": "Présent"},
+      {"slot": "t|Présent|2", "f": "tense", "s": "Nous ___ les herbes en marchant.", "a": "piétinons", "en": "We trample the grass as we walk.", "alts": [], "form": "Présent"},
+      {"slot": "t|Présent|3", "f": "tense", "s": "Vous ___ le tapis avec vos bottes mouillées.", "a": "piétinez", "en": "You trample the carpet with your wet boots.", "alts": [], "form": "Présent"},
+      {"slot": "t|Présent|3", "f": "tense", "s": "Vous ___ devant l'entrée pour attendre.", "a": "piétinez", "en": "You stamp your feet in front of the entrance while waiting.", "alts": [], "form": "Présent"},
+      {"slot": "t|Présent|4", "f": "tense", "s": "Les manifestants ___ le sol avec colère.", "a": "piétinent", "en": "The protesters stamp their feet angrily.", "alts": [], "form": "Présent"},
+      {"slot": "t|Présent|4", "f": "tense", "s": "Les enfants ___ les feuilles mortes.", "a": "piétinent", "en": "The children trample the dead leaves.", "alts": [], "form": "Présent"},
+      {"slot": "t|Passé composé|0", "f": "tense", "s": "J' ___ le gâteau en entrant.", "a": "ai piétiné", "en": "I trampled the cake when entering.", "alts": [], "form": "Passé composé"},
+      {"slot": "t|Passé composé|0", "f": "tense", "s": "J' ___ longtemps dans le froid.", "a": "ai piétiné", "en": "I stamped my feet for a long time in the cold.", "alts": [], "form": "Passé composé"},
+      {"slot": "t|Passé composé|1", "f": "tense", "s": "Tu ___ mon sac sans le voir.", "a": "as piétiné", "en": "You trampled my bag without seeing it.", "alts": [], "form": "Passé composé"},
+      {"slot": "t|Passé composé|1", "f": "tense", "s": "Tu ___ devant la porte ce matin.", "a": "as piétiné", "en": "You stamped your feet in front of the door this morning.", "alts": [], "form": "Passé composé"},
+      {"slot": "t|Passé composé|2", "f": "tense", "s": "Il ___ les plantes en reculant.", "a": "a piétiné", "en": "He trampled the plants while stepping back.", "alts": [], "form": "Passé composé"},
+      {"slot": "t|Passé composé|2", "f": "tense", "s": "Elle ___ les branches sur le chemin.", "a": "a piétiné", "en": "She trampled the branches on the path.", "alts": [], "form": "Passé composé"},
+      {"slot": "t|Passé composé|3", "f": "tense", "s": "Nous ___ le terrain avant la construction.", "a": "avons piétiné", "en": "We trampled the ground before construction.", "alts": [], "form": "Passé composé"},
+      {"slot": "t|Passé composé|3", "f": "tense", "s": "Nous ___ pour ne pas avoir froid.", "a": "avons piétiné", "en": "We stamped our feet so as not to be cold.", "alts": [], "form": "Passé composé"},
+      {"slot": "t|Passé composé|4", "f": "tense", "s": "Vous ___ la neige fraîche.", "a": "avez piétiné", "en": "You trampled the fresh snow.", "alts": [], "form": "Passé composé"},
+      {"slot": "t|Passé composé|4", "f": "tense", "s": "Vous ___ pendant une heure.", "a": "avez piétiné", "en": "You stamped your feet for an hour.", "alts": [], "form": "Passé composé"},
+      {"slot": "t|Passé composé|5", "f": "tense", "s": "Les vandales ___ les plates-bandes.", "a": "ont piétiné", "en": "The vandals trampled the flower beds.", "alts": [], "form": "Passé composé"},
+      {"slot": "t|Passé composé|5", "f": "tense", "s": "Les spectateurs ___ l'herbe du stade.", "a": "ont piétiné", "en": "The spectators trampled the stadium grass.", "alts": [], "form": "Passé composé"},
+      {"slot": "t|Imparfait|0", "f": "tense", "s": "Je ___ devant la gare tous les matins.", "a": "piétinais", "en": "I used to stamp my feet in front of the station every morning.", "alts": [], "form": "Imparfait"},
+      {"slot": "t|Imparfait|0", "f": "tense", "s": "Tu ___ les mêmes sentiers chaque jour.", "a": "piétinais", "en": "You used to trample the same paths every day.", "alts": [], "form": "Imparfait"},
+      {"slot": "t|Imparfait|1", "f": "tense", "s": "Il ___ nerveusement en attendant.", "a": "piétinait", "en": "He was stamping his feet nervously while waiting.", "alts": [], "form": "Imparfait"},
+      {"slot": "t|Imparfait|1", "f": "tense", "s": "La foule ___ les débris sans s'arrêter.", "a": "piétinait", "en": "The crowd was trampling the debris without stopping.", "alts": [], "form": "Imparfait"},
+      {"slot": "t|Imparfait|2", "f": "tense", "s": "Nous ___ le sol pour nous réchauffer.", "a": "piétinions", "en": "We were stamping our feet to warm up.", "alts": [], "form": "Imparfait"},
+      {"slot": "t|Imparfait|2", "f": "tense", "s": "Nous ___ les jonquilles sans faire attention.", "a": "piétinions", "en": "We were trampling the daffodils without paying attention.", "alts": [], "form": "Imparfait"},
+      {"slot": "t|Imparfait|3", "f": "tense", "s": "Vous ___ toujours devant la porte.", "a": "piétiniez", "en": "You were always stamping your feet in front of the door.", "alts": [], "form": "Imparfait"},
+      {"slot": "t|Imparfait|3", "f": "tense", "s": "Vous ___ les fleurs en jouant.", "a": "piétiniez", "en": "You were trampling the flowers while playing.", "alts": [], "form": "Imparfait"},
+      {"slot": "t|Imparfait|4", "f": "tense", "s": "Les chevaux ___ l'herbe humide.", "a": "piétinaient", "en": "The horses were trampling the wet grass.", "alts": [], "form": "Imparfait"},
+      {"slot": "t|Imparfait|4", "f": "tense", "s": "Les manifestants ___ le sol avec rage.", "a": "piétinaient", "en": "The protesters were stamping their feet with rage.", "alts": [], "form": "Imparfait"},
+      {"slot": "t|Futur|0", "f": "tense", "s": "Je ___ longtemps avant de rentrer, car j'ai froid aux pieds.", "a": "piétinerai", "en": "I will stamp my feet for a long time before going home, because my feet are cold.", "alts": [], "form": "Futur"},
+      {"slot": "t|Futur|0", "f": "tense", "s": "J'___ devant la porte en attendant le bus demain matin.", "a": "piétinerai", "en": "I will stamp my feet in front of the door while waiting for the bus tomorrow morning.", "alts": [], "form": "Futur"},
+      {"slot": "t|Futur|1", "f": "tense", "s": "Tu ___ la neige pour enlever la boue de tes bottes.", "a": "piétineras", "en": "You will stamp the snow to remove the mud from your boots.", "alts": [], "form": "Futur"},
+      {"slot": "t|Futur|1", "f": "tense", "s": "Tu ___ les feuilles mortes dans l'allée demain.", "a": "piétineras", "en": "You will trample the dead leaves in the path tomorrow.", "alts": [], "form": "Futur"},
+      {"slot": "t|Futur|2", "f": "tense", "s": "Elle ___ les mauvaises herbes pour les écraser.", "a": "piétinera", "en": "She will trample the weeds to crush them.", "alts": [], "form": "Futur"},
+      {"slot": "t|Futur|2", "f": "tense", "s": "On ___ le tapis avant d'entrer dans la maison.", "a": "piétinera", "en": "We will stamp our feet on the doormat before entering the house.", "alts": [], "form": "Futur"},
+      {"slot": "t|Futur|3", "f": "tense", "s": "Nous ___ le sol ensemble pour faire du bruit.", "a": "piétinerons", "en": "We will stamp our feet together to make noise.", "alts": [], "form": "Futur"},
+      {"slot": "t|Futur|3", "f": "tense", "s": "Nous ___ la terre autour du jeune arbre.", "a": "piétinerons", "en": "We will trample the earth around the young tree.", "alts": [], "form": "Futur"},
+      {"slot": "t|Futur|4", "f": "tense", "s": "Vous ___ dans la flaque d'eau sans vous en apercevoir.", "a": "piétinerez", "en": "You will trample in the puddle without noticing.", "alts": [], "form": "Futur"},
+      {"slot": "t|Futur|4", "f": "tense", "s": "Vous ___ l'herbe fraîche en traversant le jardin.", "a": "piétinerez", "en": "You will trample the fresh grass while crossing the garden.", "alts": [], "form": "Futur"},
+      {"slot": "t|Futur|5", "f": "tense", "s": "Les vaches ___ le pré toute la journée.", "a": "piétineront", "en": "The cows will trample the meadow all day.", "alts": [], "form": "Futur"},
+      {"slot": "t|Futur|5", "f": "tense", "s": "Les enfants ___ la neige en jouant dehors.", "a": "piétineront", "en": "The children will trample the snow while playing outside.", "alts": [], "form": "Futur"},
+      {"slot": "t|Conditionnel|0", "f": "tense", "s": "Je ___ la boue si je n'avais pas peur de salir mes chaussures.", "a": "piétinerais", "en": "I would trample the mud if I weren't afraid of dirtying my shoes.", "alts": [], "form": "Conditionnel"},
+      {"slot": "t|Conditionnel|0", "f": "tense", "s": "Tu ___ les fleurs si tu ne faisais pas attention où tu marchais.", "a": "piétinerais", "en": "You would trample the flowers if you didn't pay attention to where you walked.", "alts": [], "form": "Conditionnel"},
+      {"slot": "t|Conditionnel|1", "f": "tense", "s": "Elle ___ la pelouse si on lui permettait d'y passer.", "a": "piétinerait", "en": "She would trample the lawn if we let her walk on it.", "alts": [], "form": "Conditionnel"},
+      {"slot": "t|Conditionnel|1", "f": "tense", "s": "Il ___ le tapis pour enlever la neige de ses bottes.", "a": "piétinerait", "en": "He would stamp the doormat to remove the snow from his boots.", "alts": [], "form": "Conditionnel"},
+      {"slot": "t|Conditionnel|2", "f": "tense", "s": "Nous ___ le sol pour nous réchauffer s'il faisait plus froid.", "a": "piétinerions", "en": "We would stamp our feet to warm up if it were colder.", "alts": [], "form": "Conditionnel"},
+      {"slot": "t|Conditionnel|2", "f": "tense", "s": "Nous ___ les feuilles mortes en automne pour le plaisir.", "a": "piétinerions", "en": "We would trample the dead leaves in autumn for fun.", "alts": [], "form": "Conditionnel"},
+      {"slot": "t|Conditionnel|3", "f": "tense", "s": "Vous ___ le parquet si vous entriez avec vos bottes pleines de boue.", "a": "piétineriez", "en": "You would trample the floor if you came in with boots full of mud.", "alts": [], "form": "Conditionnel"},
+      {"slot": "t|Conditionnel|3", "f": "tense", "s": "Vous ___ le sol avec impatience si l'attente durait trop longtemps.", "a": "piétineriez", "en": "You would stamp your feet impatiently if the wait lasted too long.", "alts": [], "form": "Conditionnel"},
+      {"slot": "t|Conditionnel|4", "f": "tense", "s": "Les manifestants ___ le sol avec colère si le discours continuait.", "a": "piétineraient", "en": "The protesters would stamp their feet angrily if the speech continued.", "alts": [], "form": "Conditionnel"},
+      {"slot": "t|Conditionnel|4", "f": "tense", "s": "Les éléphants ___ les jeunes plants s'ils passaient par là.", "a": "piétineraient", "en": "The elephants would trample the young plants if they passed by there.", "alts": [], "form": "Conditionnel"},
+      {"slot": "t|Subjonctif", "f": "subj", "s": "Il faut que tu ___ pour montrer ton impatience.", "a": "piétines", "en": "You must stamp your feet to show your impatience.", "alts": [], "form": "Subjonctif"},
+      {"slot": "t|Subjonctif", "f": "subj", "s": "Je veux qu'il ___ la neige avant d'entrer dans la maison.", "a": "piétine", "en": "I want him to stamp the snow before entering the house.", "alts": [], "form": "Subjonctif"},
+      {"slot": "s|0", "f": "sense", "s": "Les soldats ont tendance à ___ les champs de blé.", "a": "piétiner", "en": "The soldiers tend to trample the wheat fields.", "alts": []},
+      {"slot": "s|0", "f": "sense", "s": "On ne doit pas ___ les fleurs dans le parc.", "a": "piétiner", "en": "One must not trample the flowers in the park.", "alts": []},
+      {"slot": "s|1", "f": "sense", "s": "J'ai tellement froid que je commence à ___ .", "a": "piétiner", "en": "I'm so cold that I start stamping my feet.", "alts": []},
+      {"slot": "s|1", "f": "sense", "s": "Elle a l'habitude de ___ quand elle attend dans le froid.", "a": "piétiner", "en": "She has the habit of stamping her feet when she waits in the cold.", "alts": []},
+      {"slot": "s|2", "f": "sense", "s": "Le projet semble ___ depuis plusieurs mois.", "a": "piétiner", "en": "The project seems to have stalled for several months.", "alts": []},
+      {"slot": "s|2", "f": "sense", "s": "Les discussions ont tendance à ___ sans aboutir.", "a": "piétiner", "en": "The discussions tend to stall without result.", "alts": []}
+    ]
+  },
+  {
+    "id": 6925,
+    "qs": [
+      {"slot": "s|0", "f": "sense", "s": "Le suspect a un ___ solide pour la soirée.", "a": "alibi", "en": "The suspect has a solid alibi for the evening.", "alts": []},
+      {"slot": "s|0", "f": "sense", "s": "La police vérifie son ___ .", "a": "alibi", "en": "The police are checking his alibi.", "alts": []},
+      {"slot": "s|1", "f": "sense", "s": "Il utilise le travail comme ___ pour ne pas venir.", "a": "alibi", "en": "He uses work as an excuse not to come.", "alts": []},
+      {"slot": "s|1", "f": "sense", "s": "Cette maladie n'est qu'un ___ .", "a": "alibi", "en": "This illness is just an excuse.", "alts": []},
+      {"slot": "gender", "f": "gender", "s": "___ alibi n'est pas convaincant.", "a": "L'", "en": "The alibi is not convincing.", "alts": ["l'"]},
+      {"slot": "gender", "f": "gender", "s": "J'ai vérifié ___ alibi du témoin.", "a": "l'", "en": "I checked the witness's alibi.", "alts": ["L'"]}
+    ]
+  },
+  {
+    "id": 6926,
+    "qs": [
+      {"slot": "s|0", "f": "sense", "s": "Le système ___ a disparu en France.", "a": "féodal", "en": "The feudal system disappeared in France.", "alts": []},
+      {"slot": "s|0", "f": "sense", "s": "Les seigneurs exerçaient le pouvoir ___ .", "a": "féodal", "en": "The lords exercised feudal power.", "alts": []},
+      {"slot": "g|mp", "f": "agree", "s": "Les châteaux ___ dominaient la région.", "a": "féodaux", "en": "The feudal castles dominated the region.", "alts": []},
+      {"slot": "g|mp", "f": "agree", "s": "Les seigneurs ___ possédaient de vastes terres.", "a": "féodaux", "en": "The feudal lords owned vast lands.", "alts": []},
+      {"slot": "g|f", "f": "agree", "s": "La société ___ était hiérarchisée.", "a": "féodale", "en": "Feudal society was hierarchical.", "alts": []},
+      {"slot": "g|f", "f": "agree", "s": "Cette organisation est ___ .", "a": "féodale", "en": "This organization is feudal.", "alts": []},
+      {"slot": "g|fp", "f": "agree", "s": "Les structures ___ duraient des siècles.", "a": "féodales", "en": "Feudal structures lasted for centuries.", "alts": []},
+      {"slot": "g|fp", "f": "agree", "s": "Les coutumes ___ régissaient la vie rurale.", "a": "féodales", "en": "Feudal customs governed rural life.", "alts": []}
+    ]
+  },
+  {
+    "id": 6927,
+    "qs": [
+      {"slot": "t|Présent|0", "f": "tense", "s": "Le bébé ___ son biberon calmement.", "a": "tète", "en": "The baby sucks his bottle calmly.", "alts": [], "form": "Présent"},
+      {"slot": "t|Présent|0", "f": "tense", "s": "Je ___ encore mon pouce quand j'étais petit.", "a": "tète", "en": "I still sucked my thumb when I was little.", "alts": [], "form": "Présent"},
+      {"slot": "t|Présent|1", "f": "tense", "s": "Tu ___ la tétine avec appétit.", "a": "tètes", "en": "You suck the pacifier eagerly.", "alts": [], "form": "Présent"},
+      {"slot": "t|Présent|1", "f": "tense", "s": "Tu ___ encore quand tu as faim.", "a": "tètes", "en": "You still suckle when you are hungry.", "alts": [], "form": "Présent"},
+      {"slot": "t|Présent|2", "f": "tense", "s": "Nous ___ nos biberons ensemble.", "a": "tétons", "en": "We suck our bottles together.", "alts": [], "form": "Présent"},
+      {"slot": "t|Présent|2", "f": "tense", "s": "Nous ___ le lait chaud avant de dormir.", "a": "tétons", "en": "We sip the warm milk before sleeping.", "alts": [], "form": "Présent"},
+      {"slot": "t|Présent|3", "f": "tense", "s": "Vous ___ votre limonade tranquillement.", "a": "tétez", "en": "You sip your lemonade quietly.", "alts": [], "form": "Présent"},
+      {"slot": "t|Présent|3", "f": "tense", "s": "Vous ___ le lait à même la bouteille.", "a": "tétez", "en": "You suck the milk straight from the bottle.", "alts": [], "form": "Présent"},
+      {"slot": "t|Présent|4", "f": "tense", "s": "Les agneaux ___ leur mère.", "a": "tètent", "en": "The lambs nurse from their mother.", "alts": [], "form": "Présent"},
+      {"slot": "t|Présent|4", "f": "tense", "s": "Les veaux ___ encore au champ.", "a": "tètent", "en": "The calves are still nursing in the field.", "alts": [], "form": "Présent"},
+      {"slot": "t|Passé composé|0", "f": "tense", "s": "J' ___ mon biberon ce matin.", "a": "ai tété", "en": "I sucked my bottle this morning.", "alts": [], "form": "Passé composé"},
+      {"slot": "t|Passé composé|0", "f": "tense", "s": "J' ___ le lait à la paille.", "a": "ai tété", "en": "I sipped the milk through a straw.", "alts": [], "form": "Passé composé"},
+      {"slot": "t|Passé composé|1", "f": "tense", "s": "Tu ___ ta bouteille en une minute.", "a": "as tété", "en": "You drank from your bottle in one minute.", "alts": [], "form": "Passé composé"},
+      {"slot": "t|Passé composé|1", "f": "tense", "s": "Tu ___ le jus avec enthousiasme.", "a": "as tété", "en": "You sipped the juice enthusiastically.", "alts": [], "form": "Passé composé"},
+      {"slot": "t|Passé composé|2", "f": "tense", "s": "Le chaton ___ sa mère jusqu'à huit semaines.", "a": "a tété", "en": "The kitten nursed from its mother until eight weeks.", "alts": [], "form": "Passé composé"},
+      {"slot": "t|Passé composé|2", "f": "tense", "s": "Elle ___ son verre de lait.", "a": "a tété", "en": "She sipped her glass of milk.", "alts": [], "form": "Passé composé"},
+      {"slot": "t|Passé composé|3", "f": "tense", "s": "Nous ___ nos biberons quand nous étions bébés.", "a": "avons tété", "en": "We sucked our bottles when we were babies.", "alts": [], "form": "Passé composé"},
+      {"slot": "t|Passé composé|3", "f": "tense", "s": "Nous ___ le lait chaud avant de partir.", "a": "avons tété", "en": "We sipped the warm milk before leaving.", "alts": [], "form": "Passé composé"},
+      {"slot": "t|Passé composé|4", "f": "tense", "s": "Vous ___ vos verres jusqu'à la dernière goutte.", "a": "avez tété", "en": "You drank from your glasses until the last drop.", "alts": [], "form": "Passé composé"},
+      {"slot": "t|Passé composé|4", "f": "tense", "s": "Vous ___ le thé à la paille.", "a": "avez tété", "en": "You sipped the tea through a straw.", "alts": [], "form": "Passé composé"},
+      {"slot": "t|Passé composé|5", "f": "tense", "s": "Les chiots ___ leur mère toute la nuit.", "a": "ont tété", "en": "The puppies nursed from their mother all night.", "alts": [], "form": "Passé composé"},
+      {"slot": "t|Passé composé|5", "f": "tense", "s": "Les enfants ___ leurs biberons.", "a": "ont tété", "en": "The children drank from their bottles.", "alts": [], "form": "Passé composé"},
+      {"slot": "t|Imparfait|0", "f": "tense", "s": "Je ___ mon pouce quand j'avais trois ans.", "a": "tétais", "en": "I sucked my thumb when I was three.", "alts": [], "form": "Imparfait"},
+      {"slot": "t|Imparfait|0", "f": "tense", "s": "Tu ___ ton biberon tous les soirs.", "a": "tétais", "en": "You sucked your bottle every evening.", "alts": [], "form": "Imparfait"},
+      {"slot": "t|Imparfait|1", "f": "tense", "s": "Le bébé ___ son pouce pour s'endormir.", "a": "tétait", "en": "The baby sucked his thumb to fall asleep.", "alts": [], "form": "Imparfait"},
+      {"slot": "t|Imparfait|1", "f": "tense", "s": "Elle ___ le lait à la cuillère.", "a": "tétait", "en": "She sipped the milk from a spoon.", "alts": [], "form": "Imparfait"},
+      {"slot": "t|Imparfait|2", "f": "tense", "s": "Nous ___ nos biberons ensemble le matin.", "a": "tétions", "en": "We used to suck our bottles together in the morning.", "alts": [], "form": "Imparfait"},
+      {"slot": "t|Imparfait|2", "f": "tense", "s": "Nous ___ le thé à la paille.", "a": "tétions", "en": "We used to sip the tea through a straw.", "alts": [], "form": "Imparfait"},
+      {"slot": "t|Imparfait|3", "f": "tense", "s": "Vous ___ votre biberon avant de dormir.", "a": "tétiez", "en": "You used to suck your bottle before sleeping.", "alts": [], "form": "Imparfait"},
+      {"slot": "t|Imparfait|3", "f": "tense", "s": "Vous ___ le café à petites gorgées.", "a": "tétiez", "en": "You used to sip the coffee in small sips.", "alts": [], "form": "Imparfait"},
+      {"slot": "t|Imparfait|4", "f": "tense", "s": "Les agneaux ___ leur mère dans la prairie.", "a": "tétaient", "en": "The lambs were nursing from their mother in the meadow.", "alts": [], "form": "Imparfait"},
+      {"slot": "t|Imparfait|4", "f": "tense", "s": "Les enfants ___ leurs biberons en silence.", "a": "tétaient", "en": "The children were sucking their bottles in silence.", "alts": [], "form": "Imparfait"},
+      {"slot": "t|Futur|0", "f": "tense", "s": "Je ___ le biberon du chaton avec une petite seringue.", "a": "téterai", "en": "I will nurse the kitten with a small syringe.", "alts": [], "form": "Futur"},
+      {"slot": "t|Futur|0", "f": "tense", "s": "J'___ encore le sein dans mes rêves d'enfant.", "a": "téterai", "en": "I will still nurse at the breast in my childhood dreams.", "alts": [], "form": "Futur"},
+      {"slot": "t|Futur|1", "f": "tense", "s": "Tu ___ la tétine jusqu'à t'endormir.", "a": "téteras", "en": "You will suck the pacifier until you fall asleep.", "alts": [], "form": "Futur"},
+      {"slot": "t|Futur|1", "f": "tense", "s": "Tu ___ le biberon tout seul demain.", "a": "téteras", "en": "You will drink from the bottle all by yourself tomorrow.", "alts": [], "form": "Futur"},
+      {"slot": "t|Futur|2", "f": "tense", "s": "Le bébé ___ sa mère toute la nuit.", "a": "tétera", "en": "The baby will nurse from his mother all night.", "alts": [], "form": "Futur"},
+      {"slot": "t|Futur|2", "f": "tense", "s": "Elle ___ le biberon avant de faire dodo.", "a": "tétera", "en": "She will drink from the bottle before going to sleep.", "alts": [], "form": "Futur"},
+      {"slot": "t|Futur|3", "f": "tense", "s": "Nous ___ les agneaux abandonnés avec du lait chaud.", "a": "téterons", "en": "We will nurse the abandoned lambs with warm milk.", "alts": [], "form": "Futur"},
+      {"slot": "t|Futur|3", "f": "tense", "s": "Nous ___ le veau à la main jusqu'à sa guérison.", "a": "téterons", "en": "We will nurse the calf by hand until it recovers.", "alts": [], "form": "Futur"},
+      {"slot": "t|Futur|4", "f": "tense", "s": "Vous ___ ce petit chaton jusqu'à ce qu'il grandisse.", "a": "téterez", "en": "You will nurse this little kitten until it grows up.", "alts": [], "form": "Futur"},
+      {"slot": "t|Futur|4", "f": "tense", "s": "Vous ___ le bébé avec ce biberon spécial.", "a": "téterez", "en": "You will feed the baby with this special bottle.", "alts": [], "form": "Futur"},
+      {"slot": "t|Futur|5", "f": "tense", "s": "Les chiots ___ leur mère pendant plusieurs semaines.", "a": "téteront", "en": "The puppies will nurse from their mother for several weeks.", "alts": [], "form": "Futur"},
+      {"slot": "t|Futur|5", "f": "tense", "s": "Les petits ___ le lait de leur mère jusqu'au sevrage.", "a": "téteront", "en": "The young will nurse their mother's milk until weaning.", "alts": [], "form": "Futur"},
+      {"slot": "t|Conditionnel|0", "f": "tense", "s": "Je ___ le bébé si tu me passais le biberon.", "a": "téterais", "en": "I would feed the baby if you handed me the bottle.", "alts": [], "form": "Conditionnel"},
+      {"slot": "t|Conditionnel|0", "f": "tense", "s": "Tu ___ le petit agneau si tu savais comment faire.", "a": "téterais", "en": "You would nurse the little lamb if you knew how.", "alts": [], "form": "Conditionnel"},
+      {"slot": "t|Conditionnel|1", "f": "tense", "s": "Le chaton ___ la pipette si elle avait faim.", "a": "téterait", "en": "The kitten would suck the dropper if it were hungry.", "alts": [], "form": "Conditionnel"},
+      {"slot": "t|Conditionnel|1", "f": "tense", "s": "Elle ___ le biberon si elle se réveillait la nuit.", "a": "téterait", "en": "She would drink from the bottle if she woke up at night.", "alts": [], "form": "Conditionnel"},
+      {"slot": "t|Conditionnel|2", "f": "tense", "s": "Nous ___ le veau ensemble si la mère refusait.", "a": "téterions", "en": "We would nurse the calf together if the mother refused.", "alts": [], "form": "Conditionnel"},
+      {"slot": "t|Conditionnel|2", "f": "tense", "s": "Nous ___ le petit chien à la seringue si nécessaire.", "a": "téterions", "en": "We would nurse the little dog with a syringe if necessary.", "alts": [], "form": "Conditionnel"},
+      {"slot": "t|Conditionnel|3", "f": "tense", "s": "Vous ___ ce bébé chat si vous le trouviez abandonné.", "a": "téteriez", "en": "You would nurse this baby cat if you found it abandoned.", "alts": [], "form": "Conditionnel"},
+      {"slot": "t|Conditionnel|3", "f": "tense", "s": "Vous ___ l'agneau au biberon si la brebis ne voulait pas.", "a": "téteriez", "en": "You would bottle-feed the lamb if the ewe wouldn't.", "alts": [], "form": "Conditionnel"},
+      {"slot": "t|Conditionnel|4", "f": "tense", "s": "Les chiots ___ encore si leur mère les acceptait.", "a": "téteraient", "en": "The puppies would still nurse if their mother accepted them.", "alts": [], "form": "Conditionnel"},
+      {"slot": "t|Conditionnel|4", "f": "tense", "s": "Les enfants ___ leurs biberons si on ne les sevrait pas.", "a": "téteraient", "en": "The children would still suck their bottles if we didn't wean them.", "alts": [], "form": "Conditionnel"},
+      {"slot": "t|Subjonctif", "f": "subj", "s": "Il faut que le bébé ___ calmement.", "a": "tète", "en": "The baby must nurse calmly.", "alts": [], "form": "Subjonctif"},
+      {"slot": "t|Subjonctif", "f": "subj", "s": "Je veux qu'il ___ le biberon avant de dormir.", "a": "tète", "en": "I want him to drink from the bottle before sleeping.", "alts": [], "form": "Subjonctif"},
+      {"slot": "s|0", "f": "sense", "s": "Le chiot a besoin de ___ sa mère.", "a": "téter", "en": "The puppy needs to nurse from its mother.", "alts": []},
+      {"slot": "s|0", "f": "sense", "s": "On apprend au bébé à ___ le biberon.", "a": "téter", "en": "We teach the baby to suck from the bottle.", "alts": []}
+    ]
+  },
+  {
+    "id": 6928,
+    "qs": [
+      {"slot": "s|0", "f": "sense", "s": "Ce carton est très ___ .", "a": "volumineux", "en": "This cardboard box is very bulky.", "alts": []},
+      {"slot": "s|0", "f": "sense", "s": "Ce meuble est trop ___ pour la chambre.", "a": "volumineux", "en": "This piece of furniture is too bulky for the bedroom.", "alts": []},
+      {"slot": "s|1", "f": "sense", "s": "Il a écrit un ouvrage ___ sur l'histoire romaine.", "a": "volumineux", "en": "He wrote a voluminous work on Roman history.", "alts": []},
+      {"slot": "s|1", "f": "sense", "s": "C'est un rapport très ___ .", "a": "volumineux", "en": "It is a very voluminous report.", "alts": []},
+      {"slot": "g|mp", "f": "agree", "s": "Les colis ___ occupent tout le garage.", "a": "volumineux", "en": "The bulky packages occupy the whole garage.", "alts": []},
+      {"slot": "g|mp", "f": "agree", "s": "Ce sont des meubles ___ .", "a": "volumineux", "en": "They are bulky pieces of furniture.", "alts": []},
+      {"slot": "g|f", "f": "agree", "s": "La valise est ___ .", "a": "volumineuse", "en": "The suitcase is bulky.", "alts": []},
+      {"slot": "g|f", "f": "agree", "s": "C'est une bibliographie ___ .", "a": "volumineuse", "en": "It is a voluminous bibliography.", "alts": []},
+      {"slot": "g|fp", "f": "agree", "s": "Les malles sont ___ .", "a": "volumineuses", "en": "The trunks are bulky.", "alts": []},
+      {"slot": "g|fp", "f": "agree", "s": "Ce sont des archives ___ .", "a": "volumineuses", "en": "They are voluminous archives.", "alts": []}
+    ]
+  },
+  {
+    "id": 6929,
+    "qs": [
+      {"slot": "s|0", "f": "sense", "s": "Je vais à la ___ trois fois par semaine.", "a": "gym", "en": "I go to the gym three times a week.", "alts": []},
+      {"slot": "s|0", "f": "sense", "s": "La nouvelle ___ est bien équipée.", "a": "gym", "en": "The new gym is well equipped.", "alts": []},
+      {"slot": "s|1", "f": "sense", "s": "Nous avons une séance de ___ ce matin.", "a": "gym", "en": "We have a gymnastics session this morning.", "alts": []},
+      {"slot": "s|1", "f": "sense", "s": "La ___ est mon sport préféré.", "a": "gym", "en": "Gymnastics is my favorite sport.", "alts": []},
+      {"slot": "gender", "f": "gender", "s": "___ gym ferme à vingt-deux heures.", "a": "La", "en": "The gym closes at ten p.m.", "alts": ["la"]},
+      {"slot": "gender", "f": "gender", "s": "Je fréquente ___ gym du quartier.", "a": "la", "en": "I frequent the neighborhood gym.", "alts": ["La"]}
+    ]
+  },
+  {
+    "id": 6930,
+    "qs": [
+      {"slot": "s|0", "f": "sense", "s": "Mon ___ a investi dans le projet.", "a": "associé", "en": "My partner invested in the project.", "alts": []},
+      {"slot": "s|0", "f": "sense", "s": "Il cherche un ___ pour lancer son entreprise.", "a": "associé", "en": "He is looking for a partner to launch his business.", "alts": []},
+      {"slot": "s|1", "f": "sense", "s": "C'est mon ___ depuis dix ans.", "a": "associé", "en": "He has been my associate for ten years.", "alts": []},
+      {"slot": "s|1", "f": "sense", "s": "Son ___ l'a accompagné à la réunion.", "a": "associé", "en": "His associate accompanied him to the meeting.", "alts": []},
+      {"slot": "gender", "f": "gender", "s": "___ associé gère les finances.", "a": "L'", "en": "The partner manages the finances.", "alts": ["l'"]},
+      {"slot": "gender", "f": "gender", "s": "J'ai rencontré ___ associé hier.", "a": "l'", "en": "I met the partner yesterday.", "alts": ["L'"]}
+    ]
+  },
+  {
+    "id": 6931,
+    "qs": [
+      {"slot": "s|0", "f": "sense", "s": "Le bateau traverse le ___ de Gibraltar.", "a": "détroit", "en": "The boat crosses the Strait of Gibraltar.", "alts": []},
+      {"slot": "s|0", "f": "sense", "s": "Ce ___ relie deux grandes mers.", "a": "détroit", "en": "This strait connects two great seas.", "alts": []},
+      {"slot": "gender", "f": "gender", "s": "___ détroit est très étroit ici.", "a": "Le", "en": "The strait is very narrow here.", "alts": ["le"]},
+      {"slot": "gender", "f": "gender", "s": "Les pêcheurs connaissent ___ détroit par cœur.", "a": "le", "en": "The fishermen know the strait by heart.", "alts": ["Le"]}
+    ]
+  },
+  {
+    "id": 6932,
+    "qs": [
+      {"slot": "s|0", "f": "sense", "s": "L'___ montre la hiérarchie de l'entreprise.", "a": "organigramme", "en": "The organizational chart shows the company hierarchy.", "alts": []},
+      {"slot": "s|0", "f": "sense", "s": "Le directeur a présenté le nouvel ___ .", "a": "organigramme", "en": "The director presented the new organizational chart.", "alts": []},
+      {"slot": "gender", "f": "gender", "s": "___ organigramme est affiché dans le hall.", "a": "L'", "en": "The organizational chart is displayed in the hall.", "alts": ["l'"]},
+      {"slot": "gender", "f": "gender", "s": "Consultez ___ organigramme pour comprendre.", "a": "l'", "en": "Consult the organizational chart to understand.", "alts": ["L'"]}
+    ]
+  },
+  {
+    "id": 6933,
+    "qs": [
+      {"slot": "s|0", "f": "sense", "s": "Le stand est déjà ___ .", "a": "monté", "en": "The stand is already assembled.", "alts": []},
+      {"slot": "s|0", "f": "sense", "s": "L'échafaudage est ___ par des professionnels.", "a": "monté", "en": "The scaffolding is assembled by professionals.", "alts": []},
+      {"slot": "s|1", "f": "sense", "s": "Le cavalier est ___ sur son cheval.", "a": "monté", "en": "The rider is mounted on his horse.", "alts": []},
+      {"slot": "s|1", "f": "sense", "s": "Il est resté ___ en selle pendant l'attaque.", "a": "monté", "en": "He remained mounted in the saddle during the attack.", "alts": []},
+      {"slot": "s|2", "f": "sense", "s": "Il est facilement ___ contre les injustices.", "a": "monté", "en": "He easily gets worked up against injustices.", "alts": []},
+      {"slot": "s|2", "f": "sense", "s": "Il est ___ après cette discussion.", "a": "monté", "en": "He is worked up after that discussion.", "alts": []},
+      {"slot": "g|mp", "f": "agree", "s": "Les échafaudages sont ___ .", "a": "montés", "en": "The scaffolds are assembled.", "alts": []},
+      {"slot": "g|mp", "f": "agree", "s": "Les cavaliers sont ___ sur leurs chevaux.", "a": "montés", "en": "The riders are mounted on their horses.", "alts": []},
+      {"slot": "g|f", "f": "agree", "s": "La tente est ___ correctement.", "a": "montée", "en": "The tent is set up properly.", "alts": []},
+      {"slot": "g|f", "f": "agree", "s": "La cavalière est ___ sur sa jument.", "a": "montée", "en": "The female rider is mounted on her mare.", "alts": []},
+      {"slot": "g|fp", "f": "agree", "s": "Les tentes sont ___ près du lac.", "a": "montées", "en": "The tents are set up near the lake.", "alts": []},
+      {"slot": "g|fp", "f": "agree", "s": "Les cavalières sont ___ sur leurs montures.", "a": "montées", "en": "The female riders are mounted on their mounts.", "alts": []}
+    ]
+  },
+  {
+    "id": 6934,
+    "qs": [
+      {"slot": "s|0", "f": "sense", "s": "Ce ___ du marketing connaît bien le marché.", "a": "pro", "en": "This marketing professional knows the market well.", "alts": []},
+      {"slot": "s|0", "f": "sense", "s": "Fais appel à un ___ pour ce travail.", "a": "pro", "en": "Call in a pro for this job.", "alts": []},
+      {"slot": "s|1", "f": "sense", "s": "Ce joueur est passé ___ l'année dernière.", "a": "pro", "en": "This player turned professional last year.", "alts": []},
+      {"slot": "s|1", "f": "sense", "s": "Il est devenu ___ après des années d'entraînement.", "a": "pro", "en": "He became a pro after years of training.", "alts": []},
+      {"slot": "gender", "f": "gender", "s": "___ pro nous a donné de bons conseils.", "a": "Le", "en": "The professional gave us good advice.", "alts": ["le"]},
+      {"slot": "gender", "f": "gender", "s": "J'ai embauché ___ pro pour la rénovation.", "a": "un", "en": "I hired a pro for the renovation.", "alts": []}
+    ]
+  },
+  {
+    "id": 6935,
+    "qs": [
+      {"slot": "s|0", "f": "sense", "s": "Baisse le ___ pour bloquer le soleil.", "a": "store", "en": "Lower the blind to block the sun.", "alts": []},
+      {"slot": "s|0", "f": "sense", "s": "Le ___ de la fenêtre est cassé.", "a": "store", "en": "The window blind is broken.", "alts": []},
+      {"slot": "gender", "f": "gender", "s": "___ store protège la pièce de la chaleur.", "a": "Le", "en": "The blind protects the room from heat.", "alts": ["le"]},
+      {"slot": "gender", "f": "gender", "s": "Ferme ___ store, s'il te plaît.", "a": "le", "en": "Close the blind, please.", "alts": ["Le"]}
+    ]
+  },
+  {
+    "id": 6936,
+    "qs": [
+      {"slot": "s|0", "f": "sense", "s": "La robe de mariée a une longue ___ .", "a": "traîne", "en": "The wedding dress has a long train.", "alts": []},
+      {"slot": "s|0", "f": "sense", "s": "Elle soulevait la ___ de sa robe pour marcher.", "a": "traîne", "en": "She lifted the train of her dress to walk.", "alts": []},
+      {"slot": "s|1", "f": "sense", "s": "Notre équipe est à la ___ sur ce projet.", "a": "traîne", "en": "Our team is lagging behind on this project.", "alts": []},
+      {"slot": "s|1", "f": "sense", "s": "Ne reste pas à la ___ !", "a": "traîne", "en": "Don't fall behind!", "alts": []},
+      {"slot": "gender", "f": "gender", "s": "___ traîne de la robe est en satin.", "a": "La", "en": "The train of the dress is made of satin.", "alts": ["la"]},
+      {"slot": "gender", "f": "gender", "s": "Elle a fait raccourcir ___ traîne.", "a": "la", "en": "She had the train shortened.", "alts": ["La"]}
+    ]
+  },
+  {
+    "id": 6937,
+    "qs": [
+      {"slot": "s|0", "f": "sense", "s": "Le rythme ___ est entraînant.", "a": "antillais", "en": "The Caribbean rhythm is catchy.", "alts": []},
+      {"slot": "s|0", "f": "sense", "s": "Il cuisine des plats ___ authentiques.", "a": "antillais", "en": "He cooks authentic Caribbean dishes.", "alts": []},
+      {"slot": "g|mp", "f": "agree", "s": "Les rythmes ___ animent le carnaval.", "a": "antillais", "en": "The Caribbean rhythms animate the carnival.", "alts": []},
+      {"slot": "g|mp", "f": "agree", "s": "Les peuples ___ ont une riche histoire.", "a": "antillais", "en": "The Caribbean peoples have a rich history.", "alts": []},
+      {"slot": "g|f", "f": "agree", "s": "La culture ___ est très colorée.", "a": "antillaise", "en": "Caribbean culture is very colorful.", "alts": []},
+      {"slot": "g|f", "f": "agree", "s": "Cette danse est ___ .", "a": "antillaise", "en": "This dance is Caribbean.", "alts": []},
+      {"slot": "g|fp", "f": "agree", "s": "Les îles ___ attirent de nombreux touristes.", "a": "antillaises", "en": "The Caribbean islands attract many tourists.", "alts": []},
+      {"slot": "g|fp", "f": "agree", "s": "Les traditions ___ sont bien vivantes.", "a": "antillaises", "en": "Caribbean traditions are very much alive.", "alts": []}
+    ]
+  },
+  {
+    "id": 6938,
+    "qs": [
+      {"slot": "s|0", "f": "sense", "s": "Elle danse la ___ avec passion.", "a": "salsa", "en": "She dances salsa with passion.", "alts": []},
+      {"slot": "s|0", "f": "sense", "s": "La ___ est originaire de Cuba.", "a": "salsa", "en": "Salsa is originally from Cuba.", "alts": []},
+      {"slot": "gender", "f": "gender", "s": "___ salsa joue toute la nuit dans le club.", "a": "La", "en": "Salsa plays all night in the club.", "alts": ["la"]},
+      {"slot": "gender", "f": "gender", "s": "J'apprends ___ salsa depuis un an.", "a": "la", "en": "I have been learning salsa for a year.", "alts": ["La"]}
+    ]
+  },
+  {
+    "id": 6939,
+    "qs": [
+      {"slot": "t|Présent|0", "f": "tense", "s": "Je ___ beaucoup avec mes collègues.", "a": "interagis", "en": "I interact a lot with my colleagues.", "alts": [], "form": "Présent"},
+      {"slot": "t|Présent|0", "f": "tense", "s": "Tu ___ facilement avec les inconnus.", "a": "interagis", "en": "You interact easily with strangers.", "alts": [], "form": "Présent"},
+      {"slot": "t|Présent|1", "f": "tense", "s": "Elle ___ avec ses followers sur les réseaux.", "a": "interagit", "en": "She interacts with her followers on social media.", "alts": [], "form": "Présent"},
+      {"slot": "t|Présent|1", "f": "tense", "s": "Le médicament ___ avec l'alcool.", "a": "interagit", "en": "The medication interacts with alcohol.", "alts": [], "form": "Présent"},
+      {"slot": "t|Présent|2", "f": "tense", "s": "Nous ___ avec le public pendant le spectacle.", "a": "interagissons", "en": "We interact with the audience during the show.", "alts": [], "form": "Présent"},
+      {"slot": "t|Présent|2", "f": "tense", "s": "Nous ___ régulièrement avec nos partenaires.", "a": "interagissons", "en": "We interact regularly with our partners.", "alts": [], "form": "Présent"},
+      {"slot": "t|Présent|3", "f": "tense", "s": "Vous ___ avec les clients chaque jour.", "a": "interagissez", "en": "You interact with clients every day.", "alts": [], "form": "Présent"},
+      {"slot": "t|Présent|3", "f": "tense", "s": "Vous ___ souvent sur les forums.", "a": "interagissez", "en": "You often interact on forums.", "alts": [], "form": "Présent"},
+      {"slot": "t|Présent|4", "f": "tense", "s": "Les élèves ___ entre eux en groupe.", "a": "interagissent", "en": "The students interact with each other in groups.", "alts": [], "form": "Présent"},
+      {"slot": "t|Présent|4", "f": "tense", "s": "Les deux systèmes ___ automatiquement.", "a": "interagissent", "en": "The two systems interact automatically.", "alts": [], "form": "Présent"},
+      {"slot": "t|Passé composé|0", "f": "tense", "s": "J' ___ avec lui lors de la conférence.", "a": "ai interagi", "en": "I interacted with him at the conference.", "alts": [], "form": "Passé composé"},
+      {"slot": "t|Passé composé|0", "f": "tense", "s": "J' ___ peu avec cette application.", "a": "ai interagi", "en": "I interacted little with this application.", "alts": [], "form": "Passé composé"},
+      {"slot": "t|Passé composé|1", "f": "tense", "s": "Tu ___ avec plusieurs experts hier.", "a": "as interagi", "en": "You interacted with several experts yesterday.", "alts": [], "form": "Passé composé"},
+      {"slot": "t|Passé composé|1", "f": "tense", "s": "Tu ___ avec le chatbot ce matin.", "a": "as interagi", "en": "You interacted with the chatbot this morning.", "alts": [], "form": "Passé composé"},
+      {"slot": "t|Passé composé|2", "f": "tense", "s": "Il ___ avec le jury pendant l'entretien.", "a": "a interagi", "en": "He interacted with the jury during the interview.", "alts": [], "form": "Passé composé"},
+      {"slot": "t|Passé composé|2", "f": "tense", "s": "Le logiciel ___ avec la base de données.", "a": "a interagi", "en": "The software interacted with the database.", "alts": [], "form": "Passé composé"},
+      {"slot": "t|Passé composé|3", "f": "tense", "s": "Nous ___ avec les autorités locales.", "a": "avons interagi", "en": "We interacted with the local authorities.", "alts": [], "form": "Passé composé"},
+      {"slot": "t|Passé composé|3", "f": "tense", "s": "Nous ___ avec vous par email.", "a": "avons interagi", "en": "We interacted with you by email.", "alts": [], "form": "Passé composé"},
+      {"slot": "t|Passé composé|4", "f": "tense", "s": "Vous ___ avec le système en direct.", "a": "avez interagi", "en": "You interacted with the system live.", "alts": [], "form": "Passé composé"},
+      {"slot": "t|Passé composé|4", "f": "tense", "s": "Vous ___ avec nos équipes la semaine dernière.", "a": "avez interagi", "en": "You interacted with our teams last week.", "alts": [], "form": "Passé composé"},
+      {"slot": "t|Passé composé|5", "f": "tense", "s": "Les chercheurs ___ avec les habitants.", "a": "ont interagi", "en": "The researchers interacted with the residents.", "alts": [], "form": "Passé composé"},
+      {"slot": "t|Passé composé|5", "f": "tense", "s": "Les médicaments ___ entre eux.", "a": "ont interagi", "en": "The medications interacted with each other.", "alts": [], "form": "Passé composé"},
+      {"slot": "t|Imparfait|0", "f": "tense", "s": "Je ___ avec elle tous les jours au bureau.", "a": "interagissais", "en": "I used to interact with her every day at the office.", "alts": [], "form": "Imparfait"},
+      {"slot": "t|Imparfait|0", "f": "tense", "s": "Tu ___ timidement avec les nouveaux élèves.", "a": "interagissais", "en": "You used to interact shyly with the new students.", "alts": [], "form": "Imparfait"},
+      {"slot": "t|Imparfait|1", "f": "tense", "s": "Il ___ beaucoup avec sa grand-mère.", "a": "interagissait", "en": "He used to interact a lot with his grandmother.", "alts": [], "form": "Imparfait"},
+      {"slot": "t|Imparfait|1", "f": "tense", "s": "L'interface ___ mal avec l'ancien système.", "a": "interagissait", "en": "The interface interacted poorly with the old system.", "alts": [], "form": "Imparfait"},
+      {"slot": "t|Imparfait|2", "f": "tense", "s": "Nous ___ avec le public lors des spectacles.", "a": "interagissions", "en": "We used to interact with the audience during shows.", "alts": [], "form": "Imparfait"},
+      {"slot": "t|Imparfait|2", "f": "tense", "s": "Nous ___ peu avec l'autre département.", "a": "interagissions", "en": "We interacted little with the other department.", "alts": [], "form": "Imparfait"},
+      {"slot": "t|Imparfait|3", "f": "tense", "s": "Vous ___ avec les participants par chat.", "a": "interagissiez", "en": "You used to interact with participants by chat.", "alts": [], "form": "Imparfait"},
+      {"slot": "t|Imparfait|3", "f": "tense", "s": "Vous ___ ensemble sur ce projet.", "a": "interagissiez", "en": "You used to interact together on this project.", "alts": [], "form": "Imparfait"},
+      {"slot": "t|Imparfait|4", "f": "tense", "s": "Les deux équipes ___ régulièrement.", "a": "interagissaient", "en": "The two teams interacted regularly.", "alts": [], "form": "Imparfait"},
+      {"slot": "t|Imparfait|4", "f": "tense", "s": "Les enfants ___ librement dans la cour.", "a": "interagissaient", "en": "The children interacted freely in the yard.", "alts": [], "form": "Imparfait"},
+      {"slot": "t|Futur|0", "f": "tense", "s": "Je ___ davantage avec le public lors de la conférence.", "a": "interagirai", "en": "I will interact more with the audience during the conference.", "alts": [], "form": "Futur"},
+      {"slot": "t|Futur|0", "f": "tense", "s": "J'___ avec toi par message demain.", "a": "interagirai", "en": "I will interact with you by message tomorrow.", "alts": [], "form": "Futur"},
+      {"slot": "t|Futur|1", "f": "tense", "s": "Tu ___ avec tes camarades sur le forum.", "a": "interagiras", "en": "You will interact with your classmates on the forum.", "alts": [], "form": "Futur"},
+      {"slot": "t|Futur|1", "f": "tense", "s": "Tu ___ mieux avec les clients la semaine prochaine.", "a": "interagiras", "en": "You will interact better with clients next week.", "alts": [], "form": "Futur"},
+      {"slot": "t|Futur|2", "f": "tense", "s": "Elle ___ avec ses followers en direct demain.", "a": "interagira", "en": "She will interact with her followers live tomorrow.", "alts": [], "form": "Futur"},
+      {"slot": "t|Futur|2", "f": "tense", "s": "Le robot ___ avec les humains de façon naturelle.", "a": "interagira", "en": "The robot will interact with humans in a natural way.", "alts": [], "form": "Futur"},
+      {"slot": "t|Futur|3", "f": "tense", "s": "Nous ___ avec plusieurs experts pendant l'atelier.", "a": "interagirons", "en": "We will interact with several experts during the workshop.", "alts": [], "form": "Futur"},
+      {"slot": "t|Futur|3", "f": "tense", "s": "Nous ___ ensemble sur ce document en ligne.", "a": "interagirons", "en": "We will interact together on this online document.", "alts": [], "form": "Futur"},
+      {"slot": "t|Futur|4", "f": "tense", "s": "Vous ___ avec l'équipe via visioconférence.", "a": "interagirez", "en": "You will interact with the team via videoconference.", "alts": [], "form": "Futur"},
+      {"slot": "t|Futur|4", "f": "tense", "s": "Vous ___ directement avec le speaker pendant le Q&R.", "a": "interagirez", "en": "You will interact directly with the speaker during Q&A.", "alts": [], "form": "Futur"},
+      {"slot": "t|Futur|5", "f": "tense", "s": "Les deux applications ___ automatiquement.", "a": "interagiront", "en": "The two applications will interact automatically.", "alts": [], "form": "Futur"},
+      {"slot": "t|Futur|5", "f": "tense", "s": "Les élèves ___ en petits groupes demain.", "a": "interagiront", "en": "The students will interact in small groups tomorrow.", "alts": [], "form": "Futur"},
+      {"slot": "t|Conditionnel|0", "f": "tense", "s": "Je ___ plus avec eux si j'avais le temps.", "a": "interagirais", "en": "I would interact more with them if I had time.", "alts": [], "form": "Conditionnel"},
+      {"slot": "t|Conditionnel|0", "f": "tense", "s": "Tu ___ mieux avec elle si tu l'écoutais.", "a": "interagirais", "en": "You would interact better with her if you listened to her.", "alts": [], "form": "Conditionnel"},
+      {"slot": "t|Conditionnel|1", "f": "tense", "s": "Elle ___ davantage si on lui posait des questions.", "a": "interagirait", "en": "She would interact more if we asked her questions.", "alts": [], "form": "Conditionnel"},
+      {"slot": "t|Conditionnel|1", "f": "tense", "s": "Le système ___ avec la base de données si tout allait bien.", "a": "interagirait", "en": "The system would interact with the database if everything went well.", "alts": [], "form": "Conditionnel"},
+      {"slot": "t|Conditionnel|2", "f": "tense", "s": "Nous ___ plus souvent si nous travaillions ensemble.", "a": "interagirions", "en": "We would interact more often if we worked together.", "alts": [], "form": "Conditionnel"},
+      {"slot": "t|Conditionnel|2", "f": "tense", "s": "Nous ___ avec plus de fluidité si nous nous connaissions mieux.", "a": "interagirions", "en": "We would interact more smoothly if we knew each other better.", "alts": [], "form": "Conditionnel"},
+      {"slot": "t|Conditionnel|3", "f": "tense", "s": "Vous ___ différemment si vous appreniez à vous connaître.", "a": "interagiriez", "en": "You would interact differently if you learned to know each other.", "alts": [], "form": "Conditionnel"},
+      {"slot": "t|Conditionnel|3", "f": "tense", "s": "Vous ___ mieux si vous communiquiez plus.", "a": "interagiriez", "en": "You would interact better if you communicated more.", "alts": [], "form": "Conditionnel"},
+      {"slot": "t|Conditionnel|4", "f": "tense", "s": "Les deux équipes ___ plus si elles se réunissaient régulièrement.", "a": "interagiraient", "en": "The two teams would interact more if they met regularly.", "alts": [], "form": "Conditionnel"},
+      {"slot": "t|Conditionnel|4", "f": "tense", "s": "Les enfants ___ davantage s'ils avaient des activités communes.", "a": "interagiraient", "en": "The children would interact more if they had shared activities.", "alts": [], "form": "Conditionnel"},
+      {"slot": "t|Subjonctif", "f": "subj", "s": "Il faut que nous ___ avec respect.", "a": "interagissions", "en": "We must interact with respect.", "alts": [], "form": "Subjonctif"},
+      {"slot": "t|Subjonctif", "f": "subj", "s": "Je veux qu'il ___ avec tout le monde.", "a": "interagisse", "en": "I want him to interact with everyone.", "alts": [], "form": "Subjonctif"},
+      {"slot": "s|0", "f": "sense", "s": "Les deux espèces apprennent à ___ dans cet écosystème.", "a": "interagir", "en": "The two species learn to interact in this ecosystem.", "alts": []},
+      {"slot": "s|0", "f": "sense", "s": "Il est important d'apprendre à ___ avec les autres.", "a": "interagir", "en": "It's important to learn to interact with others.", "alts": []}
+    ]
+  },
+  {
+    "id": 6940,
+    "qs": [
+      {"slot": "s|0", "f": "sense", "s": "N'oublie pas ton ___ , il va pleuvoir.", "a": "imperméable", "en": "Don't forget your raincoat, it's going to rain.", "alts": []},
+      {"slot": "s|0", "f": "sense", "s": "Je porte un ___ quand il fait mauvais.", "a": "imperméable", "en": "I wear a raincoat when the weather is bad.", "alts": []},
+      {"slot": "s|1", "f": "sense", "s": "Cette veste est ___ et coupe-vent.", "a": "imperméable", "en": "This jacket is waterproof and windproof.", "alts": []},
+      {"slot": "s|1", "f": "sense", "s": "Le tissu ___ protège de la pluie.", "a": "imperméable", "en": "The waterproof fabric protects from rain.", "alts": []},
+      {"slot": "gender", "f": "gender", "s": "___ imperméable est dans l'armoire.", "a": "L'", "en": "The raincoat is in the closet.", "alts": ["l'"]},
+      {"slot": "gender", "f": "gender", "s": "Achète ___ imperméable avant le voyage.", "a": "un", "en": "Buy a raincoat before the trip.", "alts": []}
+    ]
+  },
+  {
+    "id": 6941,
+    "qs": [
+      {"slot": "s|0", "f": "sense", "s": "Je prends mon ___ à huit heures.", "a": "petit-déjeuner", "en": "I have my breakfast at eight o'clock.", "alts": []},
+      {"slot": "s|0", "f": "sense", "s": "Le ___ est le repas le plus important.", "a": "petit-déjeuner", "en": "Breakfast is the most important meal.", "alts": []},
+      {"slot": "gender", "f": "gender", "s": "___ petit-déjeuner était délicieux.", "a": "Le", "en": "The breakfast was delicious.", "alts": ["le"]},
+      {"slot": "gender", "f": "gender", "s": "Prépare ___ petit-déjeuner, s'il te plaît.", "a": "le", "en": "Prepare the breakfast, please.", "alts": ["Le"]}
+    ]
+  },
+  {
+    "id": 6942,
+    "qs": [
+      {"slot": "s|0", "f": "sense", "s": "L'___ passe beaucoup de temps sur son téléphone.", "a": "ado", "en": "The teenager spends a lot of time on his phone.", "alts": []},
+      {"slot": "s|0", "f": "sense", "s": "C'est un ___ de seize ans.", "a": "ado", "en": "He is a sixteen-year-old teenager.", "alts": []},
+      {"slot": "gender", "f": "gender", "s": "___ ado étudie au lycée.", "a": "L'", "en": "The teenager studies in high school.", "alts": ["l'"]},
+      {"slot": "gender", "f": "gender", "s": "J'ai vu ___ ado dans le parc.", "a": "l'", "en": "I saw the teenager in the park.", "alts": ["L'"]}
+    ]
+  },
+  {
+    "id": 6943,
+    "qs": [
+      {"slot": "s|0", "f": "sense", "s": "Le ___ fabrique des outils en fer.", "a": "forgeron", "en": "The blacksmith makes iron tools.", "alts": []},
+      {"slot": "s|0", "f": "sense", "s": "Autrefois, chaque village avait son ___ .", "a": "forgeron", "en": "In the past, every village had its blacksmith.", "alts": []},
+      {"slot": "gender", "f": "gender", "s": "___ forgeron travaille près de l'enclume.", "a": "Le", "en": "The blacksmith works near the anvil.", "alts": ["le"]},
+      {"slot": "gender", "f": "gender", "s": "Les enfants observent ___ forgeron.", "a": "le", "en": "The children watch the blacksmith.", "alts": ["Le"]}
+    ]
+  },
+  {
+    "id": 6944,
+    "qs": [
+      {"slot": "s|0", "f": "sense", "s": "La ___ grecque regorge de héros célèbres.", "a": "mythologie", "en": "Greek mythology is full of famous heroes.", "alts": []},
+      {"slot": "s|0", "f": "sense", "s": "Il étudie la ___ nordique à l'université.", "a": "mythologie", "en": "He studies Norse mythology at university.", "alts": []},
+      {"slot": "gender", "f": "gender", "s": "___ mythologie explique l'origine du monde.", "a": "La", "en": "Mythology explains the origin of the world.", "alts": ["la"]},
+      {"slot": "gender", "f": "gender", "s": "Elle adore ___ mythologie grecque.", "a": "la", "en": "She loves Greek mythology.", "alts": ["La"]}
+    ]
+  }
+]
