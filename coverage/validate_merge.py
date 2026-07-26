@@ -2,7 +2,7 @@
 """校验 6 个 enr_batch + 合入 skeleton / enrich_out / etym_hook_out / formF_out。"""
 import json, glob, unicodedata, re, sys
 
-TAG = "b2_w5"
+TAG = "b2_w6"
 
 def strip_acc(s):
     return "".join(c for c in unicodedata.normalize("NFD", s) if unicodedata.category(c) != "Mn")

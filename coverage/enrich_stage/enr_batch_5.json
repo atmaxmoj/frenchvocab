@@ -1,1107 +1,1152 @@
 [
- {
-  "id": "7045",
-  "fr": "astre",
-  "pos": "noun",
-  "en": "celestial body, heavenly body",
-  "ipa": "/astʁ/",
-  "zh": "天体；星辰（文学或科学用语，泛指日月星辰）",
-  "etym": {
-   "from": "lat.",
-   "text": "Du latin <em>astrum</em>, « astre, étoile ».",
-   "hook": {
-    "roots": "astre ← 拉丁 astrum ← 希腊 astron（星）。astr- 在英语=astronomy、astronaut、asterisk、disaster。",
-    "why": "disaster「灾难」字面=dis-（坏）+astr（星）=「灾星当头」，古人以星象定吉凶。"
-   }
+  {
+    "id": "7345",
+    "fr": "adjurer",
+    "pos": "verb",
+    "en": "to adjure, to implore solemnly",
+    "zh": "郑重恳求；庄严请求",
+    "ipa": "/aʒyʁe/",
+    "etym": {
+      "from": "lat.",
+      "text": "Du latin <em>adjurare</em>, de <em>ad-</em> « vers » et <em>jurare</em> « jurer ».",
+      "hook": {
+        "roots": "源自拉丁语 adjurare（ad-「朝向」+ jurare「发誓」），与 jury（陪审团）、juror（陪审员）、abjure（公开放弃）、perjure（作伪证）同源，核心意象是「以发誓来约束对方」。",
+        "why": "古人发誓时举手向天，它就像把恳求装进誓言的框架里：「我以神的名义求你」，所以比普通的请求更庄重、更有约束力。"
+      }
+    },
+    "examples": [
+      {"fr": "Je t'adjure de me dire la vérité avant qu'il ne soit trop tard.", "en": "I adjure you to tell me the truth before it is too late.", "target": "adjure"},
+      {"fr": "Le juge lui a adjuré de révéler ce qu'il savait sur l'affaire.", "en": "The judge adjured him to reveal what he knew about the case.", "target": "adjuré"}
+    ],
+    "formF": "",
+    "cog": "adjure",
+    "cogWarn": []
   },
-  "examples": [
-   {"fr": "Les astres brillaient dans le ciel nocturne.", "en": "The celestial bodies shone in the night sky.", "target": "astres"},
-   {"fr": "Cet astronome étudie le mouvement des astres.", "en": "This astronomer studies the movement of the heavenly bodies.", "target": "astres"}
-  ],
-  "formF": "",
-  "cog": ""
- },
- {
-  "id": "7046",
-  "fr": "généticien",
-  "pos": "noun",
-  "en": "geneticist",
-  "ipa": "/ʒenetisjɛ̃/",
-  "zh": "遗传学家",
-  "etym": {
-   "from": "gr.",
-   "text": "Du grec <em>genesis</em>, « origine, naissance ».",
-   "hook": {
-    "roots": "généticien ← génétique ← 希腊 genesis（起源）← gen-（生、种）。gen- 在英语=gene、genesis、genetic、generate。",
-    "why": "研究「基因/遗传」之人；gen- 核心义「生育、产生」贯穿整个遗传学词族。"
-   }
+  {
+    "id": "7346",
+    "fr": "boom",
+    "pos": "noun",
+    "en": "economic boom; sudden prosperity",
+    "zh": "经济繁荣；突然兴旺",
+    "ipa": "/bum/",
+    "etym": {
+      "from": "angl.",
+      "text": "De l'anglais <em>boom</em>, onomatopée ou emprunt au néerlandais <em>boom</em> « arbre, poutre ».",
+      "hook": {
+        "roots": "来自英语 boom，拟声词（隆隆声），亦可能借自荷兰语 boom（树、梁）；英语同源词有 boom（繁荣）、boomerang（回旋镖）、sonic boom（音爆），核心意象是「突然轰然升起」。",
+        "why": "想象大炮一响经济腾飞，它像一声巨响把沉寂的市场炸开，所以引申为「繁荣、暴涨」。"
+      }
+    },
+    "examples": [
+      {"fr": "Le boom économique des années cinquante a transformé le paysage industriel.", "en": "The economic boom of the fifties transformed the industrial landscape.", "target": "boom"},
+      {"fr": "Les start-ups ont connu un boom après la levée de fonds.", "en": "The start-ups experienced a boom after the fundraising round.", "target": "boom"}
+    ],
+    "formF": "",
+    "cog": "boom",
+    "cogWarn": []
   },
-  "examples": [
-   {"fr": "Le généticien a séquencé le génome de la plante.", "en": "The geneticist sequenced the plant's genome.", "target": "généticien"},
-   {"fr": "Une équipe de généticiens cherche l'origine de la maladie.", "en": "A team of geneticists is looking for the origin of the disease.", "target": "généticiens"}
-  ],
-  "formF": "généticienne",
-  "cog": "geneticist"
- },
- {
-  "id": "7047",
-  "fr": "géométrique",
-  "pos": "adj",
-  "en": "geometric, geometrical",
-  "ipa": "/ʒeɔmetʁik/",
-  "zh": "几何的；几何图形的",
-  "etym": {
-   "from": "gr.",
-   "text": "Du grec <em>geometria</em>, « mesure de la terre ».",
-   "hook": {
-    "roots": "géométrique ← 希腊 geometria = gê（地、土地）+ metron（测量）。geo- 在英语=geography、geology；metr- 在英语=metric、meter、diameter。",
-    "why": "「几何」本义「量地」——古埃及丈量田地，后抽象为形状与空间之学。"
-   }
+  {
+    "id": "7347",
+    "fr": "caniculaire",
+    "pos": "adj",
+    "en": "scorching, dog-day (heat)",
+    "zh": "酷热的；三伏天般的",
+    "ipa": "/kanikylɛʁ/",
+    "etym": {
+      "from": "lat.",
+      "text": "Du latin <em>canicularis</em>, de <em>canicula</em> « petite chienne, Sirius ».",
+      "hook": {
+        "roots": "源自拉丁语 canicularis（canicula「小狗、天狼星」← canis「狗」），与 canine（犬的）、Canis Major（大犬座）同源，核心意象是「天狼星当空，热如焚狗」。",
+        "why": "古罗马人把盛夏称为「犬日」，因为天狼星与太阳同升，仿佛一只热疯的小狗在天上喷火。"
+      }
+    },
+    "examples": [
+      {"fr": "Une chaleur caniculaire s'est abattue sur la ville toute la semaine.", "en": "A scorching heat wave fell on the city all week.", "target": "caniculaire"},
+      {"fr": "Les terrasses étaient désertes en raison des températures caniculaires.", "en": "The terraces were deserted because of the dog-day temperatures.", "target": "caniculaires"}
+    ],
+    "formF": "",
+    "cog": "canine",
+    "cogWarn": []
   },
-  "examples": [
-   {"fr": "Le tableau est composé de formes géométriques.", "en": "The painting is made up of geometric shapes.", "target": "géométriques"},
-   {"fr": "Cette suite géométrique double à chaque terme.", "en": "This geometric sequence doubles with each term.", "target": "géométrique"}
-  ],
-  "formF": "",
-  "cog": "geometric"
- },
- {
-  "id": "7048",
-  "fr": "intestin",
-  "pos": "noun",
-  "en": "intestine, gut",
-  "ipa": "/ɛ̃tɛstɛ̃/",
-  "zh": "肠；肠道（消化系统）",
-  "etym": {
-   "from": "lat.",
-   "text": "Du latin <em>intestinum</em>, « boyau, intérieur ».",
-   "hook": {
-    "roots": "intestin ← 拉丁 intestinum ← intus（内部），同源 in-（里）。英语借词=intestine、intestinal。",
-    "why": "字面「体内之物」——身体最深处的管道，故名「肠」。"
-   }
+  {
+    "id": "7348",
+    "fr": "collatéral",
+    "pos": "adj",
+    "en": "collateral, indirect, side",
+    "zh": "附带的；侧面的；间接的",
+    "ipa": "/kɔlateʁal/",
+    "etym": {
+      "from": "lat.",
+      "text": "Du latin <em>collateralis</em>, de <em>col-</em> « avec » et <em>lateralis</em> « latéral ».",
+      "hook": {
+        "roots": "源自拉丁语 collateralis（col-「共同」+ lateralis「侧面的」← latus「侧、肋」），与 lateral（侧面的）、collateral（附属的）、latitude（纬度）同源，核心意象是「位于侧面的辅助线」。",
+        "why": "想象主路旁边有一条辅路，它就是那条不抢眼却可能承担重要流量的侧路；所以引申为「次要的、附带的」。"
+      }
+    },
+    "examples": [
+      {"fr": "L'accident a causé des dommages collatéraux importants dans le quartier.", "en": "The accident caused significant collateral damage in the neighborhood.", "target": "collatéraux"},
+      {"fr": "Il a reçu un soutien collatéral de plusieurs associations.", "en": "He received collateral support from several associations.", "target": "collatéral"}
+    ],
+    "formF": "collatérale",
+    "cog": "collateral",
+    "cogWarn": []
   },
-  "examples": [
-   {"fr": "L'intestin grêle absorbe les nutriments.", "en": "The small intestine absorbs nutrients.", "target": "intestin"},
-   {"fr": "Une bactérie a infecté son intestin.", "en": "A bacterium infected his gut.", "target": "intestin"}
-  ],
-  "formF": "",
-  "cog": "intestine"
- },
- {
-  "id": "7049",
-  "fr": "clip",
-  "pos": "noun",
-  "en": "music video; clip (fastener)",
-  "ipa": "/klip/",
-  "zh": "音乐短片，MV；夹子、别针（借自英语）",
-  "etym": {
-   "from": "angl.",
-   "text": "De l'anglais <em>clip</em>, « pince, extrait ».",
-   "hook": {
-    "roots": "clip ← 英语 clip（夹、剪）← 古英语 clyppan（抱、夹住）。法语借入指「MV/短片」与「夹子」。",
-    "why": "英语 clip 兼「剪辑片段」与「夹子」；法语主要取「音乐短片」义。"
-   }
+  {
+    "id": "7349",
+    "fr": "consciemment",
+    "pos": "adv",
+    "en": "consciously, knowingly",
+    "zh": "有意识地；明知地",
+    "ipa": "/kɔsjɛmɑ̃/",
+    "etym": {
+      "from": "lat.",
+      "text": "Du latin <em>conscire</em>, de <em>con-</em> « avec » et <em>scire</em> « savoir ».",
+      "hook": {
+        "roots": "源自拉丁语 conscire（con-「共同」+ scire「知道」），与 conscious（有意识的）、consciousness（意识）、science（科学）、omniscient（全知的）同源，核心意象是「与知识同在」。",
+        "why": "当你有意识地做一件事，你的大脑像开着一盏灯，把每个选择都照得清清楚楚，不是无意的反应。"
+      }
+    },
+    "examples": [
+      {"fr": "Elle a consciemment choisi de ne pas répondre à ses messages.", "en": "She consciously chose not to answer his messages.", "target": "consciemment"},
+      {"fr": "Il faut agir consciemment pour protéger l'environnement.", "en": "We must act consciously to protect the environment.", "target": "consciemment"}
+    ],
+    "formF": "",
+    "cog": "conscious",
+    "cogWarn": []
   },
-  "examples": [
-   {"fr": "Le clip de la chanson a été vu un million de fois.", "en": "The song's music video was viewed a million times.", "target": "clip"},
-   {"fr": "Elle a fixé le micro avec un clip.", "en": "She attached the microphone with a clip.", "target": "clip"}
-  ],
-  "formF": "",
-  "cog": "clip"
- },
- {
-  "id": "7050",
-  "fr": "volcanique",
-  "pos": "adj",
-  "en": "volcanic",
-  "ipa": "/vɔlkanik/",
-  "zh": "火山的；（脾气）火爆的",
-  "etym": {
-   "from": "lat.",
-   "text": "Du latin <em>Vulcanus</em>, « Vulcain, dieu du feu ».",
-   "hook": {
-    "roots": "volcanique ← volcan ← 拉丁 Vulcanus（火神伏尔甘）。英语=volcano、volcanic、vulcanize（硫化）。",
-    "why": "罗马火神之名，转指喷火之山，再引申形容脾气一触即发。"
-   }
+  {
+    "id": "7350",
+    "fr": "constituant",
+    "pos": "adj",
+    "en": "constituent, constitutive, component",
+    "zh": "构成的；组成的；要素的",
+    "ipa": "/kɔ̃stityɑ̃/",
+    "etym": {
+      "from": "lat.",
+      "text": "Du latin <em>constituens</em>, de <em>constituere</em> « établir, constituer ».",
+      "hook": {
+        "roots": "源自拉丁语 constituens（constituere「建立、组成」← con-「一起」+ statuere「使站立」），与 constitute（构成）、constitution（宪法）、statue（雕像）、institute（设立）同源，核心意象是「把各部分立起来拼成整体」。",
+        "why": "想象用积木搭城堡，每一块这样的要素都「立」在关键位置，抽掉任何一块整体就会塌。"
+      }
+    },
+    "examples": [
+      {"fr": "L'eau est un élément constituant de tout organisme vivant.", "en": "Water is a constituent element of every living organism.", "target": "constituant"},
+      {"fr": "Les différentes parties constituantes du contrat ont été négociées.", "en": "The various constituent parts of the contract were negotiated.", "target": "constituantes"}
+    ],
+    "formF": "constituante",
+    "cog": "constituent",
+    "cogWarn": []
   },
-  "examples": [
-   {"fr": "L'île est d'origine volcanique.", "en": "The island is of volcanic origin.", "target": "volcanique"},
-   {"fr": "Une roche volcanique noire couvre la plage.", "en": "Black volcanic rock covers the beach.", "target": "volcanique"}
-  ],
-  "formF": "",
-  "cog": "volcanic"
- },
- {
-  "id": "7051",
-  "fr": "pommier",
-  "pos": "noun",
-  "en": "apple tree",
-  "ipa": "/pɔmje/",
-  "zh": "苹果树",
-  "etym": {
-   "from": "lat.",
-   "text": "Du latin <em>pomarium</em>, « verger », de <em>pomum</em>, « fruit ».",
-   "hook": {
-    "roots": "pommier ← pomme（苹果）← 拉丁 pomum（果实）+ -ier（树名后缀）。pom- 在英语=pomegranate、pomace、pommel。",
-    "why": "拉丁 pomum「果实」在法语专指「苹果」；-ier 后缀造「结某果之树」，如 pommier、cerisier。"
-   }
+  {
+    "id": "7351",
+    "fr": "décrier",
+    "pos": "verb",
+    "en": "to decry, to disparage publicly",
+    "zh": "公开谴责；贬低",
+    "ipa": "/dekʁije/",
+    "etym": {
+      "from": "lat.",
+      "text": "De l'ancien français <em>descrier</em>, du latin <em>dis-</em> « en différentes directions » et <em>quiritare</em> « crier ».",
+      "hook": {
+        "roots": "源自拉丁语 dis-（分开、向四周）+ quiritare（大声喊叫、诉苦），与 cry（哭喊）、decree（法令）、recruit（招募）同源，核心意象是「四处大声反对」。",
+        "why": "中世纪市场上有人站在广场四角大喊反对，它就是要把坏消息或批评「喊」得全城皆知。"
+      }
+    },
+    "examples": [
+      {"fr": "La presse a décrié cette réforme dès son annonce.", "en": "The press decried this reform as soon as it was announced.", "target": "décrié"},
+      {"fr": "Il est facile de décrier le travail des autres sans rien proposer.", "en": "It is easy to disparage others' work without offering anything.", "target": "décrier"}
+    ],
+    "formF": "",
+    "cog": "decry",
+    "cogWarn": []
   },
-  "examples": [
-   {"fr": "Le pommier du jardin donne des fruits en automne.", "en": "The apple tree in the garden bears fruit in autumn.", "target": "pommier"},
-   {"fr": "Il a planté trois pommiers derrière la maison.", "en": "He planted three apple trees behind the house.", "target": "pommiers"}
-  ],
-  "formF": "",
-  "cog": ""
- },
- {
-  "id": "7052",
-  "fr": "automatisme",
-  "pos": "noun",
-  "en": "automatism, reflex action; automatic mechanism",
-  "ipa": "/ɔtɔmatism/",
-  "zh": "自动性；下意识的习惯动作；自动装置",
-  "etym": {
-   "from": "gr.",
-   "text": "Du grec <em>automatos</em>, « qui se meut de soi-même ».",
-   "hook": {
-    "roots": "automatisme ← 希腊 automatos = autos（自己）+ 词根 -matos（想动，源 men-）。auto- 在英语=automatic、automaton、autonomy。",
-    "why": "「自行运作」→机械的自动机制，再引申人的下意识习惯反应。"
-   }
+  {
+    "id": "7352",
+    "fr": "exploitant",
+    "pos": "noun",
+    "en": "operator, manager (of a business, farm, or mine)",
+    "zh": "经营者；业主；开采者",
+    "ipa": "/ɛksplwɑtɑ̃/",
+    "etym": {
+      "from": "lat.",
+      "text": "Du latin <em>explicare</em> « déployer, expliquer », puis <em>exploit</em> au sens de « travail accompli ».",
+      "hook": {
+        "roots": "源自拉丁语 explicare（展开、解释），与 exploit（功绩）、exploitative（剥削的）、explicate（详细说明）同源，核心意象是「把资源展开来利用的人」。",
+        "why": "从「把土地展开来耕作」到「把机器开动起来生产」，它就是坐在驾驶位上把资源变成产出的人。"
+      }
+    },
+    "examples": [
+      {"fr": "L'exploitant de cette ferme biologique cultive des légumes depuis vingt ans.", "en": "The operator of this organic farm has grown vegetables for twenty years.", "target": "exploitant"},
+      {"fr": "Les exploitants du réseau de transport ont annoncé des grèves.", "en": "The operators of the transport network announced strikes.", "target": "exploitants"}
+    ],
+    "formF": "exploitante",
+    "cog": "exploiter",
+    "cogWarn": ["英语 exploiter 常带「剥削者」贬义，法语 exploitant 是中性的经营者、业主。"]
   },
-  "examples": [
-   {"fr": "Freiner est devenu un automatisme pour lui.", "en": "Braking has become a reflex for him.", "target": "automatisme"},
-   {"fr": "L'usine fonctionne grâce à des automatismes complexes.", "en": "The factory runs thanks to complex automatic systems.", "target": "automatismes"}
-  ],
-  "formF": "",
-  "cog": "automatism"
- },
- {
-  "id": "7053",
-  "fr": "cathodique",
-  "pos": "adj",
-  "en": "cathode-ray, cathodic",
-  "ipa": "/katɔdik/",
-  "zh": "阴极的；阴极射线的（如老式显像管电视）",
-  "etym": {
-   "from": "gr.",
-   "text": "Du grec <em>kathodos</em>, « chemin vers le bas, descente ».",
-   "hook": {
-    "roots": "cathodique ← cathode ← 希腊 kathodos = kata（向下）+ hodos（路）。hodos 在英语=method、exodus、period、odometer。",
-    "why": "电流「下行」之极即阴极；tube cathodique 就是老式显像管。"
-   }
+  {
+    "id": "7353",
+    "fr": "fur",
+    "pos": "noun",
+    "en": "fury, rage (literary)",
+    "zh": "狂怒；暴怒（文学用语）",
+    "ipa": "/fyʁ/",
+    "etym": {
+      "from": "lat.",
+      "text": "Du latin <em>furor</em>, de <em>furere</em> « être furieux ».",
+      "hook": {
+        "roots": "源自拉丁语 furor（狂怒 ← furere「发狂」），与 fury（狂怒）、furious（暴怒的）、furor（狂热）同源，核心意象是「被烈焰吞噬的失控状态」。",
+        "why": "古罗马人相信 furor 是神降的疯狂，像一阵黑风吹过人脑，让人失去理智、怒吼破坏。"
+      }
+    },
+    "examples": [
+      {"fr": "Il s'est jeté dans la bataille avec une fur que rien n'apaisait.", "en": "He threw himself into battle with a fury that nothing could calm.", "target": "fur"},
+      {"fr": "Ses yeux brûlaient d'une fur silencieuse.", "en": "His eyes burned with silent fury.", "target": "fur"}
+    ],
+    "formF": "",
+    "cog": "fury",
+    "cogWarn": []
   },
-  "examples": [
-   {"fr": "Les vieux téléviseurs utilisaient un tube cathodique.", "en": "Old televisions used a cathode-ray tube.", "target": "cathodique"},
-   {"fr": "Le rayon cathodique frappe l'écran fluorescent.", "en": "The cathode ray strikes the fluorescent screen.", "target": "cathodique"}
-  ],
-  "formF": "",
-  "cog": "cathodic"
- },
- {
-  "id": "7054",
-  "fr": "consumériste",
-  "pos": "adj",
-  "en": "consumerist",
-  "ipa": "/kɔ̃symeʁist/",
-  "zh": "消费主义的；崇尚消费的",
-  "etym": {
-   "from": "angl.",
-   "text": "De l'anglais <em>consumer</em>, « consommateur », du latin <em>consumere</em>.",
-   "hook": {
-    "roots": "consumériste ← 英语 consumer ← 拉丁 consumere = con-（全）+ sumere（取用）。英语=consume、consumer、consumption、assume。",
-    "why": "拉丁「全部取用/耗尽」→英语「消费者」→批评「消费至上」的意识形态。"
-   }
+  {
+    "id": "7354",
+    "fr": "fustiger",
+    "pos": "verb",
+    "en": "to castigate, to lambast",
+    "zh": "严厉抨击；鞭笞",
+    "ipa": "/fystiʒe/",
+    "etym": {
+      "from": "lat.",
+      "text": "Du latin <em>fustigare</em>, de <em>fustis</em> « bâton, gourdin ».",
+      "hook": {
+        "roots": "源自拉丁语 fustigare（用棍棒打 ← fustis「棍棒、武器」），与 fustian（浮夸的织物/言语）、fustigate（鞭笞，罕见）同源，核心意象是「高举木棍抽打过错」。",
+        "why": "罗马教师手握 fustis 惩戒学生，它就是将批评当作棍棒，一下下打在对方的论点或行为上。"
+      }
+    },
+    "examples": [
+      {"fr": "Le critique a fustigé le dernier film pour son manque d'originalité.", "en": "The critic lambasted the latest film for its lack of originality.", "target": "fustigé"},
+      {"fr": "Le maire a fustigé les retards répétés des entreprises chargées des travaux.", "en": "The mayor castigated the repeated delays of the companies in charge of the work.", "target": "fustigé"}
+    ],
+    "formF": "",
+    "cog": "fustigate",
+    "cogWarn": []
   },
-  "examples": [
-   {"fr": "Il critique la société consumériste actuelle.", "en": "He criticizes today's consumerist society.", "target": "consumériste"},
-   {"fr": "Cette publicité incarne une logique consumériste.", "en": "This ad embodies a consumerist mindset.", "target": "consumériste"}
-  ],
-  "formF": "",
-  "cog": "consumerist"
- },
- {
-  "id": "7055",
-  "fr": "endurance",
-  "pos": "noun",
-  "en": "endurance, stamina",
-  "ipa": "/ɑ̃dyʁɑ̃s/",
-  "zh": "耐力；持久力（体育、意志）",
-  "etym": {
-   "from": "lat.",
-   "text": "Du latin <em>indurare</em>, « rendre dur ».",
-   "hook": {
-    "roots": "endurance ← endurer ← 拉丁 indurare = in-（使）+ durus（硬）。dur- 在英语=durable、endure、duration、obdurate。",
-    "why": "「使坚硬」→「使能承受」→长久忍耐的能力，即耐力。"
-   }
+  {
+    "id": "7355",
+    "fr": "gothique",
+    "pos": "adj",
+    "en": "Gothic (architecture, art, or style)",
+    "zh": "哥特式的；哥特风格的",
+    "ipa": "/gɔtik/",
+    "etym": {
+      "from": "frq.",
+      "text": "De l'ancien nom des Goths, peuple germanique, via le latin <em>Gothicus</em>.",
+      "hook": {
+        "roots": "源自拉丁语 Gothicus（哥特人，指日耳曼部落），经意大利文艺复兴时期贬义指称「野蛮」建筑风格；与 Goth（哥特人/哥特亚文化）、Gothic（哥特式的）同源，核心意象是「尖拱、飞扶壁与幽暗神秘」。",
+        "why": "文艺复兴者认为哥特建筑粗野如蛮族，却没想到那些高耸尖塔和彩色玻璃把光影变成了神性的瀑布。"
+      }
+    },
+    "examples": [
+      {"fr": "La cathédrale Notre-Dame est un chef-d'œuvre de l'art gothique.", "en": "Notre-Dame Cathedral is a masterpiece of Gothic art.", "target": "gothique"},
+      {"fr": "Elle aime l'esthétique gothique avec ses couleurs sombres et ses motifs complexes.", "en": "She loves the Gothic aesthetic with its dark colors and intricate patterns.", "target": "gothique"}
+    ],
+    "formF": "",
+    "cog": "gothic",
+    "cogWarn": []
   },
-  "examples": [
-   {"fr": "Le marathon exige une grande endurance.", "en": "The marathon demands great endurance.", "target": "endurance"},
-   {"fr": "Elle a couru avec une endurance impressionnante.", "en": "She ran with impressive stamina.", "target": "endurance"}
-  ],
-  "formF": "",
-  "cog": "endurance"
- },
- {
-  "id": "7056",
-  "fr": "fluctuation",
-  "pos": "noun",
-  "en": "fluctuation",
-  "ipa": "/flyktɥasjɔ̃/",
-  "zh": "波动，起伏（价格、情绪、数值）",
-  "etym": {
-   "from": "lat.",
-   "text": "Du latin <em>fluctus</em>, « vague, flot ».",
-   "hook": {
-    "roots": "fluctuation ← 拉丁 fluctuare（起浪）← fluctus（波浪）← fluere（流）。flu- 在英语=fluid、flux、influence、fluent。",
-    "why": "「像波浪一样起伏」→数值或情绪的上下波动。"
-   }
+  {
+    "id": "7356",
+    "fr": "généralisation",
+    "pos": "noun",
+    "en": "generalization",
+    "zh": "概括；推广；普遍化",
+    "ipa": "/ʒeneʁalizasjɔ̃/",
+    "etym": {
+      "from": "lat.",
+      "text": "Du latin <em>generalis</em>, de <em>genus</em> « genre, espèce ».",
+      "hook": {
+        "roots": "源自拉丁语 generalis（genus「种类、出生」），与 general（一般的）、generalize（概括）、generic（通用的）同源，核心意象是「从特例抽升到整体类型」。",
+        "why": "归纳就像把许多具体的点连成一条平均线，它就是画这条线，让零散现象变成可谈论的整体。"
+      }
+    },
+    "examples": [
+      {"fr": "Cette généralisation masque des réalités très différentes selon les régions.", "en": "This generalization hides very different realities depending on the regions.", "target": "généralisation"},
+      {"fr": "La généralisation du télétravail a transformé les habitudes de bureau.", "en": "The generalization of remote work transformed office habits.", "target": "généralisation"}
+    ],
+    "formF": "",
+    "cog": "generalization",
+    "cogWarn": []
   },
-  "examples": [
-   {"fr": "Les fluctuations du marché inquiètent les investisseurs.", "en": "Market fluctuations worry investors.", "target": "fluctuations"},
-   {"fr": "On observe une fluctuation de la température.", "en": "A fluctuation in temperature is observed.", "target": "fluctuation"}
-  ],
-  "formF": "",
-  "cog": "fluctuation"
- },
- {
-  "id": "7057",
-  "fr": "machisme",
-  "pos": "noun",
-  "en": "machismo, male chauvinism",
-  "ipa": "/maʃism/",
-  "zh": "大男子主义；男性沙文主义",
-  "etym": {
-   "from": "esp.",
-   "text": "De l'espagnol <em>macho</em>, « mâle », du latin <em>masculus</em>.",
-   "hook": {
-    "roots": "machisme ← 西班牙 macho（雄性）← 拉丁 masculus（男性）。mascul- 在英语=masculine、male、machismo、macho。",
-    "why": "西语「雄性」→夸耀男性气概→贬指压制女性的大男子主义。"
-   }
+  {
+    "id": "7357",
+    "fr": "imposable",
+    "pos": "adj",
+    "en": "taxable, subject to tax",
+    "zh": "应纳税的；可征税的",
+    "ipa": "/ɛ̃pozabl/",
+    "etym": {
+      "from": "lat.",
+      "text": "Du latin <em>imponere</em>, de <em>in-</em> « sur » et <em>ponere</em> « placer ».",
+      "hook": {
+        "roots": "源自拉丁语 imponere（in-「在上」+ ponere「放置」），与 impose（强加）、imposition（征收）、compose（组成）、position（位置）同源，核心意象是「把税负压在头上」。",
+        "why": "国家像一位收租人，把税款「放」在收入之上，它就是逃不过这笔账的物品或所得。"
+      }
+    },
+    "examples": [
+      {"fr": "Tous les revenus imposables doivent être déclarés au fisc.", "en": "All taxable income must be declared to the tax authorities.", "target": "imposables"},
+      {"fr": "Ce produit n'est pas imposable car il relève d'une exemption.", "en": "This product is not taxable because it falls under an exemption.", "target": "imposable"}
+    ],
+    "formF": "",
+    "cog": "imposable",
+    "cogWarn": []
   },
-  "examples": [
-   {"fr": "Elle dénonce le machisme au travail.", "en": "She denounces male chauvinism at work.", "target": "machisme"},
-   {"fr": "Ce film critique le machisme de son époque.", "en": "This film criticizes the machismo of its era.", "target": "machisme"}
-  ],
-  "formF": "",
-  "cog": "machismo"
- },
- {
-  "id": "7058",
-  "fr": "subjectivité",
-  "pos": "noun",
-  "en": "subjectivity",
-  "ipa": "/sybʒɛktivite/",
-  "zh": "主观性；主观看法（与客观相对）",
-  "etym": {
-   "from": "lat.",
-   "text": "Du latin <em>subjectus</em>, « placé dessous ».",
-   "hook": {
-    "roots": "subjectivité ← subjectif ← 拉丁 subjectus = sub-（下）+ jacere（投、置）。ject- 在英语=subject、project、inject、reject。",
-    "why": "「置于（心）下」→由个人内在视角出发→主观性，与 objectivité 相对。"
-   }
+  {
+    "id": "7358",
+    "fr": "imprévu",
+    "pos": "adj",
+    "en": "unforeseen, unexpected",
+    "zh": "未预见的；意外的",
+    "ipa": "/ɛ̃pʁevy/",
+    "etym": {
+      "from": "lat.",
+      "text": "Du latin <em>praevidere</em>, de <em>prae-</em> « devant » et <em>videre</em> « voir ».",
+      "hook": {
+        "roots": "源自拉丁语 praevidere（prae-「在前」+ videre「看见」），与 preview（预览）、provide（提供）、provision（供应）、improvise（即兴）同源，核心意象是「眼前之前没有出现过的」。",
+        "why": "生活像一条前路，预见是提前看到的风景，未预见则是从拐弯处突然跳出来的障碍物。"
+      }
+    },
+    "examples": [
+      {"fr": "Un imprévu de dernière minute a retardé le départ du train.", "en": "A last-minute unforeseen event delayed the train's departure.", "target": "imprévu"},
+      {"fr": "Les frais imprévus ont largement dépassé le budget initial.", "en": "The unexpected expenses far exceeded the initial budget.", "target": "imprévus"}
+    ],
+    "formF": "imprévue",
+    "cog": "",
+    "cogWarn": []
   },
-  "examples": [
-   {"fr": "La subjectivité du juge peut fausser le verdict.", "en": "The judge's subjectivity can distort the verdict.", "target": "subjectivité"},
-   {"fr": "Toute critique d'art comporte une part de subjectivité.", "en": "All art criticism involves a degree of subjectivity.", "target": "subjectivité"}
-  ],
-  "formF": "",
-  "cog": "subjectivity"
- },
- {
-  "id": "7059",
-  "fr": "transmissible",
-  "pos": "adj",
-  "en": "transmissible, communicable",
-  "ipa": "/tʁɑ̃smisibl/",
-  "zh": "可传播的；可传染的；可传递的（疾病、财产、权利）",
-  "etym": {
-   "from": "lat.",
-   "text": "Du latin <em>transmittere</em>, « envoyer à travers ».",
-   "hook": {
-    "roots": "transmissible ← transmettre ← 拉丁 transmittere = trans-（穿过）+ mittere（送、放）。miss/mitt- 在英语=transmit、mission、emit、submit。",
-    "why": "「送过去」→能被传递或传染的；疾病、遗产、信号皆可 transmissible。"
-   }
+  {
+    "id": "7359",
+    "fr": "intentionnellement",
+    "pos": "adv",
+    "en": "intentionally, on purpose",
+    "zh": "故意地；蓄意地",
+    "ipa": "/ɛ̃tɑ̃sjɔ̃nɛlmɑ̃/",
+    "etym": {
+      "from": "lat.",
+      "text": "Du latin <em>intendere</em>, de <em>in-</em> « vers » et <em>tendere</em> « tendre, viser ».",
+      "hook": {
+        "roots": "源自拉丁语 intendere（in-「向内」+ tendere「拉紧、瞄准」），与 intend（打算）、intention（意图）、intense（强烈的）、tense（紧张的）同源，核心意象是「把心弦拉向一个目标」。",
+        "why": "射箭前拉紧弓弦瞄准靶心，这就是心念已定后射出的一箭——不是手滑，而是蓄意松手的瞬间。"
+      }
+    },
+    "examples": [
+      {"fr": "Il a intentionnellement omis de mentionner ce détail embarrassant.", "en": "He intentionally omitted to mention that embarrassing detail.", "target": "intentionnellement"},
+      {"fr": "Elle ne l'a pas fait par hasard, elle l'a fait intentionnellement.", "en": "She did not do it by chance; she did it intentionally.", "target": "intentionnellement"}
+    ],
+    "formF": "",
+    "cog": "intentionally",
+    "cogWarn": []
   },
-  "examples": [
-   {"fr": "Cette maladie est transmissible par contact.", "en": "This disease is transmissible through contact.", "target": "transmissible"},
-   {"fr": "Ce droit est transmissible aux héritiers.", "en": "This right is transferable to the heirs.", "target": "transmissible"}
-  ],
-  "formF": "",
-  "cog": "transmissible"
- },
- {
-  "id": "7060",
-  "fr": "épidémiologique",
-  "pos": "adj",
-  "en": "epidemiological",
-  "ipa": "/epidemjɔlɔʒik/",
-  "zh": "流行病学的（研究疾病在人群中分布与成因）",
-  "etym": {
-   "from": "gr.",
-   "text": "Du grec <em>epidēmia</em>, « séjour dans le peuple ».",
-   "hook": {
-    "roots": "épidémiologique ← épidémie = epi-（在…之上）+ dēmos（人民）+ logos（学）。dem- 在英语=democracy、demographic、endemic、pandemic。",
-    "why": "「降临于民众」的疾病即流行病；加 -logie 成「流行病学」，研究其传播规律。"
-   }
+  {
+    "id": "7360",
+    "fr": "irréductible",
+    "pos": "adj",
+    "en": "irreducible, uncompromising, indomitable",
+    "zh": "不可约的；不屈服的；顽强的",
+    "ipa": "/iʁedyktibl/",
+    "etym": {
+      "from": "lat.",
+      "text": "Du latin <em>reducere</em>, de <em>re-</em> « en arrière » et <em>ducere</em> « conduire ».",
+      "hook": {
+        "roots": "源自拉丁语 reducere（re-「回」+ ducere「引导」），与 reduce（减少）、reduction（减少）、duct（管道）、educate（教育）同源，核心意象是「无法再被压缩或拉回」。",
+        "why": "想象一块太硬的石头，锤子砸下去它不会碎成更小，只会把锤子弹开；它就是这种宁折不弯的质地。"
+      }
+    },
+    "examples": [
+      {"fr": "Cette fraction irréductible ne peut plus être simplifiée.", "en": "This irreducible fraction can no longer be simplified.", "target": "irréductible"},
+      {"fr": "Il reste irréductible sur la question des libertés fondamentales.", "en": "He remains uncompromising on the issue of fundamental freedoms.", "target": "irréductible"}
+    ],
+    "formF": "",
+    "cog": "irreducible",
+    "cogWarn": []
   },
-  "examples": [
-   {"fr": "L'enquête épidémiologique a identifié la source du virus.", "en": "The epidemiological investigation identified the source of the virus.", "target": "épidémiologique"},
-   {"fr": "Les données épidémiologiques montrent une baisse des cas.", "en": "The epidemiological data show a drop in cases.", "target": "épidémiologiques"}
-  ],
-  "formF": "",
-  "cog": "epidemiological"
- },
- {
-  "id": "7061",
-  "fr": "équatorial",
-  "pos": "adj",
-  "en": "equatorial",
-  "ipa": "/ekwatɔʁjal/",
-  "zh": "赤道的；赤道地区的（气候、地带）",
-  "etym": {
-   "from": "lat.",
-   "text": "Du latin <em>aequator</em>, « qui égalise », de <em>aequus</em>, « égal ».",
-   "hook": {
-    "roots": "équatorial ← équateur ← 拉丁 aequator ← aequus（相等）。aequ- 在英语=equal、equator、equate、equity。",
-    "why": "赤道把地球「平分」为南北两半→équateur；形容词即「赤道的」。"
-   }
+  {
+    "id": "7361",
+    "fr": "malsain",
+    "pos": "adj",
+    "en": "unhealthy, noxious, morbid",
+    "zh": "不健康的；有害的；病态的",
+    "ipa": "/malsɛ̃/",
+    "etym": {
+      "from": "lat.",
+      "text": "Du latin <em>male sanus</em>, de <em>male</em> « mal » et <em>sanus</em> « sain ».",
+      "hook": {
+        "roots": "源自拉丁语 male sanus（male「坏地」+ sanus「健康的」），与 sane（心智健全的）、sanity（理智）、sanitary（卫生的）、insane（疯狂的）同源，核心意象是「健康状态被破坏」。",
+        "why": "sanus 是一片干净的绿地，male 像一桶脏水泼上去，它就是这片被污染、开始发霉的土地。"
+      }
+    },
+    "examples": [
+      {"fr": "Cette atmosphère malsaine favorise les rumeurs et la jalousie.", "en": "This unhealthy atmosphere fosters rumors and jealousy.", "target": "malsaine"},
+      {"fr": "Il a adopté des habitudes alimentaires manifestement malsaines.", "en": "He adopted clearly unhealthy eating habits.", "target": "malsaines"}
+    ],
+    "formF": "malsaine",
+    "cog": "",
+    "cogWarn": []
   },
-  "examples": [
-   {"fr": "La forêt équatoriale reçoit des pluies abondantes.", "en": "The equatorial forest receives abundant rainfall.", "target": "équatoriale"},
-   {"fr": "Ce pays a un climat équatorial chaud et humide.", "en": "This country has a hot, humid equatorial climate.", "target": "équatorial"}
-  ],
-  "formF": "équatoriale",
-  "cog": "equatorial"
- },
- {
-  "id": "7062",
-  "fr": "offense",
-  "pos": "noun",
-  "en": "insult, affront",
-  "ipa": "/ɔfɑ̃s/",
-  "zh": "冒犯，侮辱；（宗教）罪过",
-  "etym": {
-   "from": "lat.",
-   "text": "Du latin <em>offendere</em>, « heurter, frapper contre ».",
-   "hook": {
-    "roots": "offense ← 拉丁 offendere = ob-（对着）+ -fendere（打）。-fend- 在英语=offend、defend、offense、fender。",
-    "why": "「撞到、冒犯到」→言语行为对人的侮辱；宗教语境指对神的罪过。"
-   }
+  {
+    "id": "7362",
+    "fr": "millésime",
+    "pos": "noun",
+    "en": "vintage, year (on a coin or wine)",
+    "zh": "年份；酿造年份",
+    "ipa": "/milesim/",
+    "etym": {
+      "from": "lat.",
+      "text": "Du latin <em>millesimus</em> « millième », de <em>mille</em> « mille ».",
+      "hook": {
+        "roots": "源自拉丁语 millesimus（第一千 ← mille「千」），与 millennium（千年）、millenary（一千年）、mile（英里，由 mille passuum「一千步」而来）同源，核心意象是「用数字标记的特定年份」。",
+        "why": "酒瓶上的它像一枚时间印章，告诉你这瓶酒出生于哪一年，那一年的阳光和雨水都藏在标签里。"
+      }
+    },
+    "examples": [
+      {"fr": "Le millésime de ce bordeaux est particulièrement réputé.", "en": "The vintage of this Bordeaux is particularly renowned.", "target": "millésime"},
+      {"fr": "Les collectionneurs recherchent les pièces rares d'un millésime ancien.", "en": "Collectors seek rare coins of an old date.", "target": "millésime"}
+    ],
+    "formF": "",
+    "cog": "millennium",
+    "cogWarn": []
   },
-  "examples": [
-   {"fr": "Ses paroles étaient une véritable offense.", "en": "His words were a real insult.", "target": "offense"},
-   {"fr": "Il a pardonné l'offense sans rancune.", "en": "He forgave the affront without resentment.", "target": "offense"}
-  ],
-  "formF": "",
-  "cog": "offense"
- },
- {
-  "id": "7063",
-  "fr": "fêtard",
-  "pos": "noun",
-  "en": "party animal, reveler",
-  "ipa": "/fɛtaʁ/",
-  "zh": "爱玩乐的人；夜夜笙歌者（口语，略带贬义）",
-  "etym": {
-   "from": "lat.",
-   "text": "Du latin <em>festa</em>, « fêtes », de <em>festus</em>, « de fête ».",
-   "hook": {
-    "roots": "fêtard ← fête（节庆、派对）← 拉丁 festa ← festus（节日的）+ 贬义后缀 -ard。fest- 在英语=festival、feast、festive。",
-    "why": "fête「派对」加贬义 -ard，指「泡派对成性的人」，带调侃色彩。"
-   }
+  {
+    "id": "7363",
+    "fr": "ralenti",
+    "pos": "noun",
+    "en": "slow motion",
+    "zh": "慢动作；减速",
+    "ipa": "/ʁɑlɑ̃ti/",
+    "etym": {
+      "from": "lat.",
+      "text": "Du latin <em>lentus</em> « lent, souple », avec le préfixe <em>re-</em>.",
+      "hook": {
+        "roots": "源自拉丁语 lentus（缓慢的、柔韧的），前缀 re- 表示「再次、向后」；与 relent（变缓和）、lenient（宽大的）、lentil（扁豆，小圆而扁）同源，核心意象是「把速度重新放慢」。",
+        "why": "电影里的慢动作像把一秒掰成十秒，水滴悬停、发丝飞扬，时间被拉长成一道慢动作的诗。"
+      }
+    },
+    "examples": [
+      {"fr": "La chute a été filmée au ralenti pour montrer chaque détail.", "en": "The fall was filmed in slow motion to show every detail.", "target": "ralenti"},
+      {"fr": "L'économie est entrée dans un ralenti marqué au deuxième trimestre.", "en": "The economy entered a marked slowdown in the second quarter.", "target": "ralenti"}
+    ],
+    "formF": "",
+    "cog": "relent",
+    "cogWarn": []
   },
-  "examples": [
-   {"fr": "C'est un fêtard qui rentre toujours à l'aube.", "en": "He's a party animal who always comes home at dawn.", "target": "fêtard"},
-   {"fr": "Les fêtards ont dansé jusqu'au matin.", "en": "The revelers danced until morning.", "target": "fêtards"}
-  ],
-  "formF": "fêtarde",
-  "cog": ""
- },
- {
-  "id": "7064",
-  "fr": "gastronomique",
-  "pos": "adj",
-  "en": "gastronomic, gourmet",
-  "ipa": "/ɡastʁɔnɔmik/",
-  "zh": "美食的；讲究烹饪的（餐厅、菜肴）",
-  "etym": {
-   "from": "gr.",
-   "text": "Du grec <em>gastēr</em>, « estomac », et <em>nomos</em>, « loi, règle ».",
-   "hook": {
-    "roots": "gastronomique ← gastronomie = 希腊 gastēr（胃）+ nomos（法则）。gastr- 在英语=gastric、gastronomy、gastritis；nom- 在=economy、autonomy。",
-    "why": "「治胃之法」→讲究吃的学问→形容高档美食。"
-   }
+  {
+    "id": "7364",
+    "fr": "échographie",
+    "pos": "noun",
+    "en": "ultrasound (scan)",
+    "zh": "超声波检查；B超",
+    "ipa": "/ekɔɡʁafi/",
+    "etym": {
+      "from": "gr.",
+      "text": "Du grec <em>ēkhō</em> « écho » et <em>graphein</em> « écrire ».",
+      "hook": {
+        "roots": "源自希腊语 ēkhō（回声）+ graphein（书写、记录），与 echo（回声）、graph（图表）、graphics（图形）、phonograph（留声机）同源，核心意象是「用回声绘制体内图像」。",
+        "why": "胎儿在黑暗子宫里，超声波像一束听不见的声波手电筒，照出轮廓再「写」成一张灰白色的照片。"
+      }
+    },
+    "examples": [
+      {"fr": "L'échographie a confirmé que le bébé se développait normalement.", "en": "The ultrasound confirmed that the baby was developing normally.", "target": "échographie"},
+      {"fr": "Elle doit passer une échographie cardiaque la semaine prochaine.", "en": "She has to have a cardiac ultrasound next week.", "target": "échographie"}
+    ],
+    "formF": "",
+    "cog": "echography",
+    "cogWarn": []
   },
-  "examples": [
-   {"fr": "Ils ont dîné dans un restaurant gastronomique.", "en": "They dined at a gourmet restaurant.", "target": "gastronomique"},
-   {"fr": "Cette région est réputée pour ses spécialités gastronomiques.", "en": "This region is famous for its gastronomic specialties.", "target": "gastronomiques"}
-  ],
-  "formF": "",
-  "cog": "gastronomic"
- },
- {
-  "id": "7065",
-  "fr": "baromètre",
-  "pos": "noun",
-  "en": "barometer",
-  "ipa": "/baʁɔmɛtʁ/",
-  "zh": "气压计；（比喻）晴雨表、风向标",
-  "etym": {
-   "from": "gr.",
-   "text": "Du grec <em>baros</em>, « poids, pesanteur », et <em>metron</em>, « mesure ».",
-   "hook": {
-    "roots": "baromètre ← 希腊 baros（重）+ metron（量）。bar- 在英语=barometer、isobar、baric；metr- 在=metric、diameter。",
-    "why": "「测气之重（压）」→气压计；引申「民意或市场的晴雨表」。"
-   }
+  {
+    "id": "7365",
+    "fr": "éloquent",
+    "pos": "adj",
+    "en": "eloquent, articulate, persuasive",
+    "zh": "雄辩的；有说服力的",
+    "ipa": "/elɔkɑ̃/",
+    "etym": {
+      "from": "lat.",
+      "text": "Du latin <em>eloquens</em>, de <em>eloqui</em> « parler avec éloquence ».",
+      "hook": {
+        "roots": "源自拉丁语 eloquens（eloqui「向外说」← e-「出」+ loqui「说」），与 eloquent（雄辩的）、elocution（演说术）、loquacious（话多的）、locution（措辞）同源，核心意象是「话语如流水般涌出并打动人心」。",
+        "why": "法庭上的雄辩律师像一位乐手，每个词都落在听众情绪的琴键上，让陪审团不由自主地跟随他的旋律。"
+      }
+    },
+    "examples": [
+      {"fr": "Son discours éloquent a convaincu même les plus sceptiques.", "en": "His eloquent speech convinced even the most skeptical.", "target": "éloquent"},
+      {"fr": "Elle est devenue une avocate éloquente et redoutée.", "en": "She became an eloquent and feared lawyer.", "target": "éloquente"}
+    ],
+    "formF": "éloquente",
+    "cog": "eloquent",
+    "cogWarn": []
   },
-  "examples": [
-   {"fr": "Le baromètre annonce une tempête.", "en": "The barometer indicates a storm is coming.", "target": "baromètre"},
-   {"fr": "Ce sondage est un baromètre de l'opinion publique.", "en": "This poll is a barometer of public opinion.", "target": "baromètre"}
-  ],
-  "formF": "",
-  "cog": "barometer"
- },
- {
-  "id": "7066",
-  "fr": "stop",
-  "pos": "noun",
-  "en": "stop sign; hitchhiking (faire du stop)",
-  "ipa": "/stɔp/",
-  "zh": "停车标志；（faire du stop）搭便车（借自英语）",
-  "etym": {
-   "from": "angl.",
-   "text": "De l'anglais <em>stop</em>, « arrêter ».",
-   "hook": {
-    "roots": "stop ← 英语 stop ← 古英语 stoppian（塞住）← 通俗拉丁 stuppare（用麻絮塞）。",
-    "why": "英语「停」被法语借入指停车标志；faire du stop=竖拇指拦车（搭顺风车）。"
-   }
+  {
+    "id": "7366",
+    "fr": "étirement",
+    "pos": "noun",
+    "en": "stretching",
+    "zh": "伸展；拉伸",
+    "ipa": "/etiʁmɑ̃/",
+    "etym": {
+      "from": "germ.",
+      "text": "De l'ancien français <em>estirer</em>, d'origine germanique <em>*stirjan</em> « agiter ».",
+      "hook": {
+        "roots": "来自日耳曼语 *stirjan（移动、搅动），与 stir（搅动）有远缘关系，核心意象是「把身体或材料向外拉长」。",
+        "why": "早晨醒来伸懒腰，肌肉像橡皮筋被慢慢拉长，伸展运动就是这声舒服的「咯嘣」前那一瞬间。"
+      }
+    },
+    "examples": [
+      {"fr": "Les étirements avant le sport réduisent le risque de blessure.", "en": "Stretching before sport reduces the risk of injury.", "target": "étirements"},
+      {"fr": "On entendait l'étirement lent du métal sous la chaleur.", "en": "One could hear the slow stretching of the metal in the heat.", "target": "étirement"}
+    ],
+    "formF": "",
+    "cog": "stir",
+    "cogWarn": []
   },
-  "examples": [
-   {"fr": "Il a grillé un stop et reçu une amende.", "en": "He ran a stop sign and got a fine.", "target": "stop"},
-   {"fr": "Nous avons fait du stop jusqu'à la côte.", "en": "We hitchhiked to the coast.", "target": "stop"}
-  ],
-  "formF": "",
-  "cog": "stop"
- },
- {
-  "id": "7067",
-  "fr": "flash-back",
-  "pos": "noun",
-  "en": "flashback",
-  "ipa": "/flaʃbak/",
-  "zh": "（影视、文学）闪回，倒叙",
-  "etym": {
-   "from": "angl.",
-   "text": "De l'anglais <em>flashback</em>, « retour en arrière ».",
-   "hook": {
-    "roots": "flash-back ← 英语 flash（闪）+ back（回）。法语原样借入这一影视术语。",
-    "why": "英语「闪回过去」→叙事中突然回溯往事的镜头或段落。"
-   }
+  {
+    "id": "7367",
+    "fr": "manufacture",
+    "pos": "noun",
+    "en": "factory, manufacturing plant",
+    "zh": "制造厂；工厂",
+    "ipa": "/manyfaktyʁ/",
+    "etym": {
+      "from": "lat.",
+      "text": "Du latin <em>manufactura</em>, de <em>manu</em> « à la main » et <em>factus</em> « fait ».",
+      "hook": {
+        "roots": "源自拉丁语 manufactura（manu「用手」+ factus「做」← facere），与 manual（手工的）、factory（工厂）、fact（事实）、manufacture（制造）同源，核心意象是「用手做出产品的场所」。",
+        "why": "工业革命前，工匠们坐在长桌旁手工打磨零件，制造厂就是那张长桌变成的大房子。"
+      }
+    },
+    "examples": [
+      {"fr": "Cette manufacture produit encore des tapis à la main.", "en": "This factory still produces handmade carpets.", "target": "manufacture"},
+      {"fr": "L'ancienne manufacture de porcelaine est devenue un musée.", "en": "The old porcelain factory has become a museum.", "target": "manufacture"}
+    ],
+    "formF": "",
+    "cog": "manufacture",
+    "cogWarn": ["法语 manufacture 多指制造厂、手工工场；英语 manufacture 主要指制造行为或产品。"]
   },
-  "examples": [
-   {"fr": "Le film commence par un long flash-back.", "en": "The film opens with a long flashback.", "target": "flash-back"},
-   {"fr": "Un flash-back révèle son enfance difficile.", "en": "A flashback reveals his difficult childhood.", "target": "flash-back"}
-  ],
-  "formF": "",
-  "cog": "flashback"
- },
- {
-  "id": "7068",
-  "fr": "fécondation",
-  "pos": "noun",
-  "en": "fertilization",
-  "ipa": "/fekɔ̃dasjɔ̃/",
-  "zh": "受精；受孕（生物学）",
-  "etym": {
-   "from": "lat.",
-   "text": "Du latin <em>fecundus</em>, « fertile, fécond ».",
-   "hook": {
-    "roots": "fécondation ← féconder ← 拉丁 fecundus（多产的）← 词根 fe-（哺育、生育）。英语=fecund、fetus、feminine。",
-    "why": "「使多产」→精卵结合使生命萌发，即受精。"
-   }
+  {
+    "id": "7368",
+    "fr": "alarmiste",
+    "pos": "adj",
+    "en": "alarmist",
+    "zh": "危言耸听的；制造恐慌的",
+    "ipa": "/alaʁmist/",
+    "etym": {
+      "from": "it.",
+      "text": "De l'italien <em>all'arme</em> « aux armes », passé par l'ancien français <em>alarme</em>.",
+      "hook": {
+        "roots": "源自意大利语 all'arme（alle「向」+ arme「武器」，即「拿起武器」），与 alarm（警报）、alarmist（危言耸听者）、arm（武器）同源，核心意象是「把小事吹成要拿武器的危机」。",
+        "why": "警报器一响大家本能地摸武器，这种人就是总把咳嗽说成瘟疫、把小雨说成洪水的人。"
+      }
+    },
+    "examples": [
+      {"fr": "Ses articles alarmistes ont semé la panique dans la population.", "en": "His alarmist articles sowed panic in the population.", "target": "alarmistes"},
+      {"fr": "Il ne faut pas être alarmiste face à une simple rumeur.", "en": "One must not be alarmist in the face of a simple rumor.", "target": "alarmiste"}
+    ],
+    "formF": "",
+    "cog": "alarmist",
+    "cogWarn": []
   },
-  "examples": [
-   {"fr": "La fécondation a lieu dans la trompe.", "en": "Fertilization takes place in the fallopian tube.", "target": "fécondation"},
-   {"fr": "La fécondation in vitro aide les couples infertiles.", "en": "In vitro fertilization helps infertile couples.", "target": "fécondation"}
-  ],
-  "formF": "",
-  "cog": "fecundation"
- },
- {
-  "id": "7069",
-  "fr": "enrouler",
-  "pos": "verb",
-  "en": "to wind, coil, roll up",
-  "ipa": "/ɑ̃ʁule/",
-  "zh": "缠绕；卷起（把某物绕成一卷）",
-  "etym": {
-   "from": "lat.",
-   "text": "Du latin <em>rotulus</em>, « petite roue », de <em>rota</em>, « roue ».",
-   "hook": {
-    "roots": "enrouler ← en-（使）+ rouler（滚、卷）← 拉丁 rotulus（小轮）← rota（轮）。rot- 在英语=rotate、roll、control、rotund。",
-    "why": "「使成卷」→缠绕、卷起。注意与英语 enroll「注册」拼写近但不同义。"
-   }
+  {
+    "id": "7369",
+    "fr": "amérindien",
+    "pos": "adj",
+    "en": "Amerindian, Native American",
+    "zh": "美洲印第安人的；美洲原住民的",
+    "ipa": "/ameʁindjɛ̃/",
+    "etym": {
+      "from": "onom.",
+      "text": "Mot formé en anglais de <em>Amérique</em> et <em>indien</em>, emprunté au français.",
+      "hook": {
+        "roots": "由英语 Amerindian（America + Indian）进入法语，属于地名+民族名的合成造词；与 America（美洲）、Indian（印度人/印第安人）、Amerindian（美洲印第安人）同源，核心意象是「美洲大陆的原住民」。",
+        "why": "哥伦布误把美洲当印度，于是把当地人叫「印第安」；后人发现错误后把这个词把「美洲」和「印第安」粘在一起，既承认历史又修正地理。"
+      }
+    },
+    "examples": [
+      {"fr": "Les cultures amérindiennes sont extrêmement diverses sur le continent.", "en": "Amerindian cultures are extremely diverse across the continent.", "target": "amérindiennes"},
+      {"fr": "Ce musée expose des artéfacts amérindiens millénaires.", "en": "This museum exhibits thousand-year-old Amerindian artifacts.", "target": "amérindiens"}
+    ],
+    "formF": "amérindienne",
+    "cog": "Amerindian",
+    "cogWarn": []
   },
-  "examples": [
-   {"fr": "Il faut enrouler le câble avant de le ranger.", "en": "You need to coil the cable before storing it.", "target": "enrouler"},
-   {"fr": "Le serpent s'est enroulé autour de la branche.", "en": "The snake coiled around the branch.", "target": "enroulé"}
-  ],
-  "formF": "",
-  "cog": "enroll",
-  "cogWarn": "假朋友：英语 enroll=注册、报名（≈s'inscrire）；法语 enrouler=缠绕、卷起，词义完全不同。"
- },
- {
-  "id": "7070",
-  "fr": "simulation",
-  "pos": "noun",
-  "en": "simulation",
-  "ipa": "/simylasjɔ̃/",
-  "zh": "模拟，仿真；（医学或法律）装病、伪装",
-  "etym": {
-   "from": "lat.",
-   "text": "Du latin <em>similis</em>, « semblable ».",
-   "hook": {
-    "roots": "simulation ← simuler ← 拉丁 simulare（使相似）← similis（相似）。simil- 在英语=similar、simulate、assemble、resemble。",
-    "why": "「做得像真的」→计算机或训练中的模拟；也指「假装（生病）」。"
-   }
+  {
+    "id": "7370",
+    "fr": "carreler",
+    "pos": "verb",
+    "en": "to tile",
+    "zh": "铺瓷砖；贴方砖",
+    "ipa": "/kaʁle/",
+    "etym": {
+      "from": "lat.",
+      "text": "De l'ancien français <em>carrel</em>, du latin <em>quadrus</em> « carré ».",
+      "hook": {
+        "roots": "源自拉丁语 quadrus（方的）与 quadratus（使成方形）← quattuor「四」，与 quarry（采石场）、quarter（四分之一）、quadrangle（四边形）、square（广场/正方形）同源，核心意象是「用方形石片覆盖表面」。",
+        "why": "古罗马人用 quadratus 石块铺地，工匠一块块卡进去，地面就变成由小方块拼成的棋盘。"
+      }
+    },
+    "examples": [
+      {"fr": "Ils ont décidé de carreler la salle de bain en blanc.", "en": "They decided to tile the bathroom in white.", "target": "carreler"},
+      {"fr": "Le sol est carrelé de petits carreaux de céramique.", "en": "The floor is tiled with small ceramic tiles.", "target": "carrelé"}
+    ],
+    "formF": "",
+    "cog": "quarry",
+    "cogWarn": []
   },
-  "examples": [
-   {"fr": "La simulation informatique prédit le trajet de la tempête.", "en": "The computer simulation predicts the storm's path.", "target": "simulation"},
-   {"fr": "Les soldats s'entraînent lors d'une simulation de combat.", "en": "The soldiers train during a combat simulation.", "target": "simulation"}
-  ],
-  "formF": "",
-  "cog": "simulation"
- },
- {
-  "id": "7071",
-  "fr": "gentiment",
-  "pos": "adv",
-  "en": "kindly, nicely",
-  "ipa": "/ʒɑ̃timɑ̃/",
-  "zh": "友善地，和气地；乖乖地（口语）",
-  "etym": {
-   "from": "lat.",
-   "text": "Du latin <em>gentilis</em>, « de bonne famille, de bonne race ».",
-   "hook": {
-    "roots": "gentiment ← gentil ← 拉丁 gentilis（同族的、出身好的）← gens（氏族）。gen- 在英语=gentle、genteel、gentile、gentleman。",
-    "why": "「出身高贵」→举止温雅→gentil「友善」；副词 gentiment=友善地。注意英语 gently 偏「轻柔地」。"
-   }
+  {
+    "id": "7371",
+    "fr": "clivage",
+    "pos": "noun",
+    "en": "cleavage, divide, split",
+    "zh": "分裂；裂痕；分层",
+    "ipa": "/klivaʒ/",
+    "etym": {
+      "from": "germ.",
+      "text": "Du verbe <em>cliver</em>, emprunté à l'anglais <em>to cleave</em>, d'origine germanique.",
+      "hook": {
+        "roots": "来自英语 cleave（劈开），源自古英语 cleofan，与日耳曼语根相关；与 cleave（劈开）、cleft（裂缝）、cloven（分裂的）同源，核心意象是「沿纹理被劈成两半」。",
+        "why": "木头顺纹理一斧下去会裂成两半，社会被观念一劈，也会产生左右分明的分裂。"
+      }
+    },
+    "examples": [
+      {"fr": "Le clivage entre urbains et ruraux s'est accentué lors du débat.", "en": "The divide between urban and rural residents intensified during the debate.", "target": "clivage"},
+      {"fr": "Cette réforme a créé un clivage au sein même du parti.", "en": "This reform created a split within the party itself.", "target": "clivage"}
+    ],
+    "formF": "",
+    "cog": "cleavage",
+    "cogWarn": []
   },
-  "examples": [
-   {"fr": "Elle m'a répondu gentiment.", "en": "She answered me kindly.", "target": "gentiment"},
-   {"fr": "Les enfants ont attendu gentiment leur tour.", "en": "The children waited nicely for their turn.", "target": "gentiment"}
-  ],
-  "formF": "",
-  "cog": "gently",
-  "cogWarn": "半假朋友：英语 gently 主要指「轻柔地、缓慢地」（≈doucement）；法语 gentiment 主要指「友善地、乖乖地」。"
- },
- {
-  "id": "7072",
-  "fr": "planning",
-  "pos": "noun",
-  "en": "schedule, timetable",
-  "ipa": "/planiŋ/",
-  "zh": "日程表，排班表（指「计划表」这个物件，非「做计划」这一行为）",
-  "etym": {
-   "from": "angl.",
-   "text": "De l'anglais <em>planning</em>, « planification », de <em>plan</em>.",
-   "hook": {
-    "roots": "planning ← 英语 planning ← plan ← 拉丁 planus（平的）。英语=plan、plane、plain、explanation。",
-    "why": "英语借入后语义窄化，指「排定好的时间表」这一实物，而非抽象的「规划」。"
-   }
+  {
+    "id": "7372",
+    "fr": "dynamiser",
+    "pos": "verb",
+    "en": "to energize, to boost, to revitalize",
+    "zh": "使有活力；促进；振兴",
+    "ipa": "/dinamize/",
+    "etym": {
+      "from": "gr.",
+      "text": "Du grec <em>dynamis</em> « force, puissance ».",
+      "hook": {
+        "roots": "源自希腊语 dynamis（力量、能力），与 dynamic（动态的）、dynamite（炸药）、dynamo（发电机）、aerodynamics（空气动力学）同源，核心意象是「注入力量让事物运转」。",
+        "why": "像给熄火的引擎接上一台 dynamo，它就是让死气沉沉的团队或街区重新嗡嗡作响。"
+      }
+    },
+    "examples": [
+      {"fr": "Le festival devrait dynamiser le centre-ville cet été.", "en": "The festival should revitalize downtown this summer.", "target": "dynamiser"},
+      {"fr": "Elle a proposé des mesures pour dynamiser l'apprentissage des langues.", "en": "She proposed measures to boost language learning.", "target": "dynamiser"}
+    ],
+    "formF": "",
+    "cog": "dynamize",
+    "cogWarn": []
   },
-  "examples": [
-   {"fr": "J'ai noté la réunion dans mon planning.", "en": "I noted the meeting on my schedule.", "target": "planning"},
-   {"fr": "Le planning de la semaine est déjà complet.", "en": "The week's timetable is already full.", "target": "planning"}
-  ],
-  "formF": "",
-  "cog": "planning",
-  "cogWarn": "假朋友：英语 planning=规划（这一行为/活动）；法语 le planning=排好的日程表、排班表（一个物件），行为义要用 la planification。"
- },
- {
-  "id": "7073",
-  "fr": "simulacre",
-  "pos": "noun",
-  "en": "simulacrum, sham, pretense",
-  "ipa": "/simylakʁ/",
-  "zh": "虚假的表象；徒有其表的东西；（哲学）拟像",
-  "etym": {
-   "from": "lat.",
-   "text": "Du latin <em>simulacrum</em>, « image, représentation ».",
-   "hook": {
-    "roots": "simulacre ← 拉丁 simulacrum ← simulare（使相似）← similis（相似）。英语=simulacrum、simulate、similar。",
-    "why": "「相似之像」→只有其形而无其实→骗人的假象、走过场。"
-   }
+  {
+    "id": "7373",
+    "fr": "décibel",
+    "pos": "noun",
+    "en": "decibel (unit of sound intensity)",
+    "zh": "分贝（声音强度单位）",
+    "ipa": "/desibɛl/",
+    "etym": {
+      "from": "lat.",
+      "text": "Du latin <em>decimus</em> « dixième » et du nom de <em>Bell</em>, inventeur et scientifique.",
+      "hook": {
+        "roots": "由拉丁语 decimus（第十，十分之一）+ Bell（亚历山大·格拉汉姆·贝尔，电话发明者）构成；与 decimal（十进制的）、decimate（大量毁灭，原指杀十分之一）、bell（铃声转指贝尔）同源，核心意象是「以对数尺度十分之一贝尔来量声音」。",
+        "why": "电话发明家贝尔的名字成了响度单位，分贝就是把这个单位切成十份，用来精确描述从耳语到喷气机的轰鸣。"
+      }
+    },
+    "examples": [
+      {"fr": "Le bruit dans cette rue atteint parfois 85 décibels.", "en": "The noise on this street sometimes reaches 85 decibels.", "target": "décibels"},
+      {"fr": "Un concert de rock peut dépasser les 120 décibels.", "en": "A rock concert can exceed 120 decibels.", "target": "décibels"}
+    ],
+    "formF": "",
+    "cog": "decibel",
+    "cogWarn": []
   },
-  "examples": [
-   {"fr": "Ce procès n'était qu'un simulacre de justice.", "en": "That trial was nothing but a sham of justice.", "target": "simulacre"},
-   {"fr": "Ils ont organisé un simulacre d'élection.", "en": "They staged a mock election.", "target": "simulacre"}
-  ],
-  "formF": "",
-  "cog": "simulacrum"
- },
- {
-  "id": "7074",
-  "fr": "éveil",
-  "pos": "noun",
-  "en": "awakening, arousal (of interest, senses)",
-  "ipa": "/evɛj/",
-  "zh": "觉醒，苏醒；（兴趣、意识的）萌发",
-  "etym": {
-   "from": "lat.",
-   "text": "Du latin <em>vigilare</em>, « veiller, être éveillé ».",
-   "hook": {
-    "roots": "éveil ← éveiller ← 拉丁 ex-vigilare = ex-（出）+ vigilare（守夜、警醒）← vigil（清醒的）。vigil- 在英语=vigil、vigilant、reveille、surveillance。",
-    "why": "「从睡中警醒」→醒来；引申兴趣、意识的觉醒。éveil 与 sommeil「睡眠」相对。"
-   }
+  {
+    "id": "7374",
+    "fr": "démocratisation",
+    "pos": "noun",
+    "en": "democratization",
+    "zh": "民主化；普及",
+    "ipa": "/demɔkʁatizasjɔ̃/",
+    "etym": {
+      "from": "gr.",
+      "text": "Du grec <em>dēmokratia</em>, de <em>dēmos</em> « peuple » et <em>kratos</em> « pouvoir ».",
+      "hook": {
+        "roots": "源自希腊语 dēmokratia（dēmos「人民」+ kratos「权力」），与 democracy（民主）、democrat（民主人士）、democratic（民主的）、autocracy（独裁）同源，核心意象是「把权力交到人民手中」。",
+        "why": "kratos 是王座，dēmos 是广场上的民众；民主化就是越来越多的人从围观者变成能投票、能发言的参与者。"
+      }
+    },
+    "examples": [
+      {"fr": "La démocratisation de l'internet a changé l'accès à l'information.", "en": "The democratization of the internet changed access to information.", "target": "démocratisation"},
+      {"fr": "La démocratisation de l'enseignement supérieur reste un enjeu majeur.", "en": "The democratization of higher education remains a major issue.", "target": "démocratisation"}
+    ],
+    "formF": "",
+    "cog": "democratization",
+    "cogWarn": []
   },
-  "examples": [
-   {"fr": "Le chant des oiseaux marque l'éveil de la nature.", "en": "Birdsong marks the awakening of nature.", "target": "éveil"},
-   {"fr": "Ce livre a provoqué son éveil politique.", "en": "This book triggered his political awakening.", "target": "éveil"}
-  ],
-  "formF": "",
-  "cog": ""
- },
- {
-  "id": "7075",
-  "fr": "christianisme",
-  "pos": "noun",
-  "en": "Christianity",
-  "ipa": "/kʁistjanism/",
-  "zh": "基督教",
-  "etym": {
-   "from": "gr.",
-   "text": "Du grec <em>khristos</em>, « oint », traduisant l'hébreu « messie ».",
-   "hook": {
-    "roots": "christianisme ← Christ ← 希腊 khristos（受膏者）← khriein（涂油）。英语=Christ、Christian、christen、chrism。",
-    "why": "希腊「受膏者」译希伯来「弥赛亚」→基督→以基督为核心的宗教，即基督教。"
-   }
+  {
+    "id": "7375",
+    "fr": "momentané",
+    "pos": "adj",
+    "en": "momentary, temporary",
+    "zh": "短暂的；临时的",
+    "ipa": "/mɔmɑ̃tane/",
+    "etym": {
+      "from": "lat.",
+      "text": "Du latin <em>momentaneus</em>, de <em>momentum</em> « mouvement, instant ».",
+      "hook": {
+        "roots": "源自拉丁语 momentaneus（momentum「瞬间、动力」），与 moment（瞬间）、momentum（动量）、momentous（重大的）同源，核心意象是「只持续一个瞬间」。",
+        "why": "momentum 是钟表指针的一格，短暂的状态就像那一格划过时的样子，稍不留神就已过去。"
+      }
+    },
+    "examples": [
+      {"fr": "Cette panne n'est qu'un problème momentané.", "en": "This breakdown is only a temporary problem.", "target": "momentané"},
+      {"fr": "Elle a ressenti une gêne momentanée avant de reprendre sa marche.", "en": "She felt a momentary discomfort before resuming her walk.", "target": "momentanée"}
+    ],
+    "formF": "momentanée",
+    "cog": "momentary",
+    "cogWarn": []
   },
-  "examples": [
-   {"fr": "Le christianisme s'est répandu dans tout l'Empire romain.", "en": "Christianity spread throughout the Roman Empire.", "target": "christianisme"},
-   {"fr": "Elle étudie l'histoire du christianisme médiéval.", "en": "She studies the history of medieval Christianity.", "target": "christianisme"}
-  ],
-  "formF": "",
-  "cog": "Christianity"
- },
- {
-  "id": "7076",
-  "fr": "cligner",
-  "pos": "verb",
-  "en": "to blink, wink",
-  "ipa": "/kliɲe/",
-  "zh": "眨眼；（cligner de l'œil）使眼色",
-  "etym": {
-   "from": "lat.",
-   "text": "Probablement du latin <em>cludere</em>, « fermer ».",
-   "hook": {
-    "roots": "cligner ← 或源拉丁 cludere/claudere（关闭）。claud- 在英语=close、conclude、exclude、include。",
-    "why": "「短暂闭合（眼）」→眨眼；cligner de l'œil=挤眼示意。"
-   }
+  {
+    "id": "7376",
+    "fr": "pathologique",
+    "pos": "adj",
+    "en": "pathological",
+    "zh": "病理的；病态的",
+    "ipa": "/patɔlɔʒik/",
+    "etym": {
+      "from": "gr.",
+      "text": "Du grec <em>pathologia</em>, de <em>pathos</em> « souffrance » et <em>logos</em> « discours, étude ».",
+      "hook": {
+        "roots": "源自希腊语 pathologia（pathos「痛苦、情感」+ logos「研究」），与 pathos（感染力）、pathetic（可怜的）、pathology（病理学）、pathogen（病原体）同源，核心意象是「研究疾病的学问」。",
+        "why": "医生翻开 pathos 这本「痛苦之书」，用 logos 的逻辑找出病因，病理性的就是书中标记病态的章节。"
+      }
+    },
+    "examples": [
+      {"fr": "Ce mensonge répété relève presque d'un comportement pathologique.", "en": "This repeated lying is almost pathological behavior.", "target": "pathologique"},
+      {"fr": "Un examen pathologique a confirmé la présence de la tumeur.", "en": "A pathological examination confirmed the presence of the tumor.", "target": "pathologique"}
+    ],
+    "formF": "",
+    "cog": "pathological",
+    "cogWarn": []
   },
-  "examples": [
-   {"fr": "La lumière vive l'a fait cligner des yeux.", "en": "The bright light made him blink.", "target": "cligner"},
-   {"fr": "Il m'a fait un signe en clignant de l'œil.", "en": "He signaled to me with a wink.", "target": "clignant"}
-  ],
-  "formF": "",
-  "cog": ""
- },
- {
-  "id": "7077",
-  "fr": "pinceau",
-  "pos": "noun",
-  "en": "paintbrush",
-  "ipa": "/pɛ̃so/",
-  "zh": "画笔，毛笔（绘画用）",
-  "etym": {
-   "from": "lat.",
-   "text": "Du latin <em>penicillus</em>, « petit pinceau, petite queue ».",
-   "hook": {
-    "roots": "pinceau ← 拉丁 penicillus（小尾巴、小刷），penis（尾巴）的指小词。英语=pencil、penicillin（霉菌呈刷状而得名）。",
-    "why": "拉丁「小刷子」→法语「画笔」；英语同源却变成 pencil「铅笔」，词义已分岔。"
-   }
+  {
+    "id": "7377",
+    "fr": "pollueur",
+    "pos": "noun",
+    "en": "polluter",
+    "zh": "污染者；污染源",
+    "ipa": "/pɔlyœʁ/",
+    "etym": {
+      "from": "lat.",
+      "text": "Du latin <em>polluere</em> « souiller, rendre impur ».",
+      "hook": {
+        "roots": "源自拉丁语 polluere（弄脏、使不洁），与 pollute（污染）、pollution（污染）、pollutant（污染物）同源，核心意象是「把干净的东西弄脏的人或物」。",
+        "why": "polluere 像一双沾满泥浆的手伸进清水，污染者就是那双手的拥有者，让空气、河流和他人承担污浊。"
+      }
+    },
+    "examples": [
+      {"fr": "L'industrie est souvent désignée comme le principal pollueur.", "en": "Industry is often identified as the main polluter.", "target": "pollueur"},
+      {"fr": "Les pollueurs devraient payer pour la dépollution des sols.", "en": "Polluters should pay for the cleanup of the soil.", "target": "pollueurs"}
+    ],
+    "formF": "pollueuse",
+    "cog": "polluter",
+    "cogWarn": []
   },
-  "examples": [
-   {"fr": "L'artiste trempe son pinceau dans la peinture.", "en": "The artist dips his paintbrush in the paint.", "target": "pinceau"},
-   {"fr": "Elle nettoie ses pinceaux après chaque tableau.", "en": "She cleans her brushes after each painting.", "target": "pinceaux"}
-  ],
-  "formF": "",
-  "cog": "pencil",
-  "cogWarn": "假朋友：英语 pencil=铅笔（≈crayon）；法语 pinceau=画笔、毛笔。同源 penicillus，词义已分岔。"
- },
- {
-  "id": "7078",
-  "fr": "cavalerie",
-  "pos": "noun",
-  "en": "cavalry",
-  "ipa": "/kavalʁi/",
-  "zh": "骑兵（部队）；（现代）装甲、机械化部队",
-  "etym": {
-   "from": "ital.",
-   "text": "De l'italien <em>cavalleria</em>, de <em>cavallo</em>, « cheval », du latin <em>caballus</em>.",
-   "hook": {
-    "roots": "cavalerie ← 意大利 cavalleria ← cavallo（马）← 拉丁 caballus（驽马）。caball- 在英语=cavalry、cavalier、chivalry、cavalcade。",
-    "why": "「骑马的兵种」即骑兵；同根 chivalry「骑士精神」也源于「骑马者」。"
-   }
+  {
+    "id": "7378",
+    "fr": "périmètre",
+    "pos": "noun",
+    "en": "perimeter, scope",
+    "zh": "周长；范围；边界",
+    "ipa": "/peʁimɛtʁ/",
+    "etym": {
+      "from": "gr.",
+      "text": "Du grec <em>perimetron</em>, de <em>peri</em> « autour » et <em>metron</em> « mesure ».",
+      "hook": {
+        "roots": "源自希腊语 perimetron（peri「周围」+ metron「测量」），与 perimeter（周长）、diameter（直径）、geometry（几何）、metronome（节拍器）同源，核心意象是「围绕边界量一圈」。",
+        "why": "拿一根绳子绕着操场量一圈，量出来的长度就是周长；引申到项目，就是不能跨出这条边界线。"
+      }
+    },
+    "examples": [
+      {"fr": "Le périmètre de sécurité a été établi autour du chantier.", "en": "A safety perimeter was established around the worksite.", "target": "périmètre"},
+      {"fr": "Il faut définir le périmètre de cette étude avant de commencer.", "en": "We must define the scope of this study before beginning.", "target": "périmètre"}
+    ],
+    "formF": "",
+    "cog": "perimeter",
+    "cogWarn": []
   },
-  "examples": [
-   {"fr": "La cavalerie a chargé l'ennemi au galop.", "en": "The cavalry charged the enemy at a gallop.", "target": "cavalerie"},
-   {"fr": "Ce régiment de cavalerie est maintenant blindé.", "en": "This cavalry regiment is now armored.", "target": "cavalerie"}
-  ],
-  "formF": "",
-  "cog": "cavalry"
- },
- {
-  "id": "7079",
-  "fr": "pelouse",
-  "pos": "noun",
-  "en": "lawn, grass (of a garden or stadium)",
-  "ipa": "/pəluz/",
-  "zh": "草坪，草地（花园、球场）",
-  "etym": {
-   "from": "lat.",
-   "text": "Du latin <em>pilosus</em>, « poilu, velu ».",
-   "hook": {
-    "roots": "pelouse ← 拉丁 pilosus（多毛的）← pilus（毛发）。pil- 在英语=pile（绒毛）、depilate、caterpillar。",
-    "why": "草像「细密的绒毛」铺满地面→草坪，与「毛发」同源。"
-   }
+  {
+    "id": "7379",
+    "fr": "scolariser",
+    "pos": "verb",
+    "en": "to provide schooling, to educate",
+    "zh": "使入学；让……接受学校教育",
+    "ipa": "/skɔlaʁize/",
+    "etym": {
+      "from": "gr.",
+      "text": "Du grec <em>skholē</em> « loisir, école », passé par le latin <em>schola</em>.",
+      "hook": {
+        "roots": "源自希腊语 skholē（闲暇、学校），经拉丁语 schola 进入法语；与 school（学校）、scholar（学者）、scholastic（经院的）、scholarly（学术的）同源，核心意象是「把孩子送进学校接受系统教育」。",
+        "why": "古希腊人认为学习需要 skholē（闲暇），普及学校教育就是把孩子从劳动中释放出来，坐进学校长椅。"
+      }
+    },
+    "examples": [
+      {"fr": "L'État doit scolariser tous les enfants jusqu'à seize ans.", "en": "The state must provide schooling for all children until sixteen.", "target": "scolariser"},
+      {"fr": "Les villages reculés peinent à scolariser les filles.", "en": "Remote villages struggle to educate girls.", "target": "scolariser"}
+    ],
+    "formF": "",
+    "cog": "school",
+    "cogWarn": []
   },
-  "examples": [
-   {"fr": "Les enfants jouent sur la pelouse du parc.", "en": "The children are playing on the park's lawn.", "target": "pelouse"},
-   {"fr": "Il est interdit de marcher sur la pelouse.", "en": "Walking on the grass is forbidden.", "target": "pelouse"}
-  ],
-  "formF": "",
-  "cog": ""
- },
- {
-  "id": "7080",
-  "fr": "snob",
-  "pos": "adj",
-  "en": "snobbish, snobby",
-  "ipa": "/snɔb/",
-  "zh": "势利的；附庸风雅的（借自英语）",
-  "etym": {
-   "from": "angl.",
-   "text": "De l'anglais <em>snob</em>, « personne qui affecte des goûts supérieurs ».",
-   "hook": {
-    "roots": "snob ← 英语 snob（原指鞋匠、平民，后指攀附上流者）。法语借入作形容词，指势利的。",
-    "why": "英语 snob 由「下等人」反转为「假装高雅、看不起人者」；法语沿用此贬义。"
-   }
+  {
+    "id": "7380",
+    "fr": "volubile",
+    "pos": "adj",
+    "en": "voluble, talkative, fluent",
+    "zh": "健谈的；滔滔不绝的",
+    "ipa": "/vɔlybil/",
+    "etym": {
+      "from": "lat.",
+      "text": "Du latin <em>volubilis</em> « qui roule, fluent », de <em>volvere</em> « rouler ».",
+      "hook": {
+        "roots": "源自拉丁语 volubilis（滚动的、流利的 ← volvere「滚动」），与 voluble（健谈的）、volume（卷）、involve（涉及）、revolve（旋转）同源，核心意象是「话语像轮子一样滚滚向前」。",
+        "why": "想象舌头变成飞速旋转的车轮，健谈的人一开口就停不下来，话语连成一条光滑的高速公路。"
+      }
+    },
+    "examples": [
+      {"fr": "Son interlocuteur était si volubile qu'il n'a pas pu placer un mot.", "en": "His interlocutor was so voluble that he could not get a word in.", "target": "volubile"},
+      {"fr": "L'orateur volubile a séduit l'auditoire pendant une heure.", "en": "The voluble speaker captivated the audience for an hour.", "target": "volubile"}
+    ],
+    "formF": "",
+    "cog": "voluble",
+    "cogWarn": []
   },
-  "examples": [
-   {"fr": "Il est trop snob pour manger dans ce café.", "en": "He's too snobbish to eat at this café.", "target": "snob"},
-   {"fr": "Elle a un côté snob qui agace ses amis.", "en": "She has a snobby side that annoys her friends.", "target": "snob"}
-  ],
-  "formF": "",
-  "cog": "snobbish"
- },
- {
-  "id": "7081",
-  "fr": "toutou",
-  "pos": "noun",
-  "en": "doggy, pooch",
-  "ipa": "/tutu/",
-  "zh": "狗狗，汪汪（儿语或亲昵说法）",
-  "etym": {
-   "from": "onomat.",
-   "text": "D'origine onomatopéique, formation enfantine évoquant le chien.",
-   "hook": {
-    "roots": "toutou ← 儿童语叠音造词，亲昵地呼唤小狗。类似英语 doggy、法语 dada（马）、joujou（玩具）的叠音亲昵词。",
-    "why": "叠音儿语，无拉丁词源，属家庭口语造词，亲昵地称呼狗。"
-   }
+  {
+    "id": "7381",
+    "fr": "agronomique",
+    "pos": "adj",
+    "en": "agronomic, agricultural",
+    "zh": "农艺学的；农业的",
+    "ipa": "/aɡʁɔnɔmik/",
+    "etym": {
+      "from": "gr.",
+      "text": "Du grec <em>agronomia</em>, de <em>agros</em> « champ » et <em>nomos</em> « loi, gestion ».",
+      "hook": {
+        "roots": "源自希腊语 agronomia（agros「田地」+ nomos「法则、管理」），与 agronomy（农艺学）、agriculture（农业）、agrarian（土地的）、nomad（游牧者，按草场法则迁徙）同源，核心意象是「按规律管理田地」。",
+        "why": "古希腊城邦把田地管理写成 nomos（法则），农艺学的目标就是现代农业科学给土地定的规矩：何时播种、如何轮作、怎样施肥。"
+      }
+    },
+    "examples": [
+      {"fr": "Les résultats agronomiques dépendent beaucoup du climat local.", "en": "Agronomic results depend heavily on the local climate.", "target": "agronomiques"},
+      {"fr": "Une station agronomique expérimente de nouvelles variétés de blé.", "en": "An agronomic station is experimenting with new wheat varieties.", "target": "agronomique"}
+    ],
+    "formF": "",
+    "cog": "agronomic",
+    "cogWarn": []
   },
-  "examples": [
-   {"fr": "Le petit toutou remue la queue.", "en": "The little doggy wags its tail.", "target": "toutou"},
-   {"fr": "Viens ici, mon toutou !", "en": "Come here, my little pooch!", "target": "toutou"}
-  ],
-  "formF": "",
-  "cog": ""
- },
- {
-  "id": "7082",
-  "fr": "romantisme",
-  "pos": "noun",
-  "en": "Romanticism (art movement); romantic disposition",
-  "ipa": "/ʁɔmɑ̃tism/",
-  "zh": "浪漫主义（18至19世纪文艺运动）；浪漫气质",
-  "etym": {
-   "from": "angl.",
-   "text": "De l'anglais <em>romantic</em>, lui-même du français <em>romant</em>, « récit en langue romane ».",
-   "hook": {
-    "roots": "romantisme ← romantique ← 英语 romantic ← 古法语 romant（用罗曼语写的故事）← 拉丁 romanicus（罗马式的）。英语=romance、romantic、Romance languages。",
-    "why": "「用民间罗曼语写的传奇」→充满想象与情感→浪漫主义文艺运动。"
-   }
+  {
+    "id": "7382",
+    "fr": "ambrer",
+    "pos": "verb",
+    "en": "to amber, to turn amber-colored",
+    "zh": "使呈琥珀色；染成琥珀色",
+    "ipa": "/ɑ̃bʁe/",
+    "etym": {
+      "from": "ar.",
+      "text": "De l'arabe <em>anbar</em> « ambre gris », passé par le latin médiéval <em>ambar</em>.",
+      "hook": {
+        "roots": "源自阿拉伯语 anbar（龙涎香），经中世纪拉丁语 ambar 进入法语；与 amber（琥珀/琥珀色）同源，核心意象是「染成金黄透亮的琥珀色」。",
+        "why": "松脂滴落千万年变成琥珀，使呈琥珀色就像把那一抹温暖的光泽刷到灯光、液体或玻璃上。"
+      }
+    },
+    "examples": [
+      {"fr": "Le soleil couchant a ambré les vitres de la véranda.", "en": "The setting sun turned the veranda windows amber.", "target": "ambré"},
+      {"fr": "On peut ambrer la bière en ajoutant du malt caramélisé.", "en": "You can amber the beer by adding caramelized malt.", "target": "ambrer"}
+    ],
+    "formF": "",
+    "cog": "amber",
+    "cogWarn": []
   },
-  "examples": [
-   {"fr": "Le romantisme exalte la nature et les sentiments.", "en": "Romanticism exalts nature and feelings.", "target": "romantisme"},
-   {"fr": "Victor Hugo est une figure du romantisme français.", "en": "Victor Hugo is a figure of French Romanticism.", "target": "romantisme"}
-  ],
-  "formF": "",
-  "cog": "romanticism"
- },
- {
-  "id": "7083",
-  "fr": "clouer",
-  "pos": "verb",
-  "en": "to nail (down)",
-  "ipa": "/klue/",
-  "zh": "钉住，用钉子固定；（比喻）使动弹不得、哑口无言",
-  "etym": {
-   "from": "lat.",
-   "text": "Du latin <em>clavus</em>, « clou ».",
-   "hook": {
-    "roots": "clouer ← clou（钉子）← 拉丁 clavus（钉）。clav- 在英语=clove（丁香，形似钉）、clavicle（锁骨）；近亲 clavis（钥匙）→clef。",
-    "why": "「用钉子固定」→clouer；比喻 clouer le bec「把嘴钉住」=使无言以对。"
-   }
+  {
+    "id": "7383",
+    "fr": "appauvrissement",
+    "pos": "noun",
+    "en": "impoverishment, depletion",
+    "zh": "贫困化；贫瘠化",
+    "ipa": "/apovʁismɑ̃/",
+    "etym": {
+      "from": "lat.",
+      "text": "Du latin <em>pauper</em> « pauvre », par l'ancien français <em>apovrir</em>.",
+      "hook": {
+        "roots": "源自拉丁语 pauper（贫穷的），与 poor（贫穷的）、poverty（贫困）、pauper（贫民）、impoverish（使贫困）同源，核心意象是「从富足滑向匮乏」。",
+        "why": "pauper 是空空的口袋，贫困化就是这个口袋越掏越空，不管是土壤、语言还是社会。"
+      }
+    },
+    "examples": [
+      {"fr": "L'appauvrissement des sols menace la production agricole.", "en": "The impoverishment of the soil threatens agricultural production.", "target": "appauvrissement"},
+      {"fr": "On observe un appauvrissement croissant de la classe moyenne.", "en": "We observe a growing impoverishment of the middle class.", "target": "appauvrissement"}
+    ],
+    "formF": "",
+    "cog": "impoverishment",
+    "cogWarn": []
   },
-  "examples": [
-   {"fr": "Il faut clouer ces planches ensemble.", "en": "These boards need to be nailed together.", "target": "clouer"},
-   {"fr": "La peur l'a cloué sur place.", "en": "Fear nailed him to the spot.", "target": "cloué"}
-  ],
-  "formF": "",
-  "cog": ""
- },
- {
-  "id": "7084",
-  "fr": "trinquer",
-  "pos": "verb",
-  "en": "to clink glasses, toast; to take the blame (informal)",
-  "ipa": "/tʁɛ̃ke/",
-  "zh": "碰杯，干杯；（口语）替人受过、吃苦头",
-  "etym": {
-   "from": "germ.",
-   "text": "De l'allemand <em>trinken</em>, « boire ».",
-   "hook": {
-    "roots": "trinquer ← 德语 trinken（喝）← 日耳曼词根，同英语 drink。英语 drink、drench 同源。",
-    "why": "德国雇佣兵碰杯共饮的习俗传入→碰杯祝酒；口语引申「碰上倒霉、代人受罚」。"
-   }
+  {
+    "id": "7384",
+    "fr": "aspérité",
+    "pos": "noun",
+    "en": "asperity, roughness, harshness",
+    "zh": "粗糙；崎岖；严厉",
+    "ipa": "/aspeʁite/",
+    "etym": {
+      "from": "lat.",
+      "text": "Du latin <em>asperitas</em>, de <em>asper</em> « rude, âpre ».",
+      "hook": {
+        "roots": "源自拉丁语 asperitas（asper「粗糙、严酷」），与 asperity（粗糙）、exasperate（激怒）同源，核心意象是「表面不平或态度刺耳」。",
+        "why": "像砂纸的颗粒摩擦皮肤，粗糙之处就是事物或语气上那些让人不舒服的小凸起。"
+      }
+    },
+    "examples": [
+      {"fr": "L'aspérité du terrain rendait la marche difficile.", "en": "The roughness of the terrain made walking difficult.", "target": "aspérité"},
+      {"fr": "Il y avait une certaine aspérité dans sa voix lorsqu'il a répondu.", "en": "There was a certain harshness in his voice when he answered.", "target": "aspérité"}
+    ],
+    "formF": "",
+    "cog": "asperity",
+    "cogWarn": []
   },
-  "examples": [
-   {"fr": "Ils ont trinqué à la santé des mariés.", "en": "They toasted the health of the newlyweds.", "target": "trinqué"},
-   {"fr": "Quand le patron est de mauvaise humeur, c'est nous qui trinquons.", "en": "When the boss is in a bad mood, we're the ones who suffer for it.", "target": "trinquons"}
-  ],
-  "formF": "",
-  "cog": ""
- },
- {
-  "id": "7085",
-  "fr": "drogué",
-  "pos": "noun",
-  "en": "drug addict",
-  "ipa": "/dʁɔɡe/",
-  "zh": "吸毒者，瘾君子",
-  "etym": {
-   "from": "néerl.",
-   "text": "De <em>drogue</em>, peut-être du néerlandais <em>droog</em>, « sec » (marchandises sèches).",
-   "hook": {
-    "roots": "drogué ← droguer ← drogue（毒品）← 或源荷兰语 droog（干的，指干货香料）。英语=drug、druggist、drugstore。",
-    "why": "drogue 本指药材、干货，后专指毒品；drogué 即（服）毒品成瘾者。"
-   }
+  {
+    "id": "7385",
+    "fr": "causalité",
+    "pos": "noun",
+    "en": "causality, causal relationship",
+    "zh": "因果关系；因果性",
+    "ipa": "/kozalite/",
+    "etym": {
+      "from": "lat.",
+      "text": "Du latin <em>causa</em> « cause, motif ».",
+      "hook": {
+        "roots": "源自拉丁语 causa（原因、事由），与 cause（原因）、causal（因果的）、because（因为，由 by+cause 构成）、accuse（指控，原指提出原因）同源，核心意象是「原因与结果之间的链条」。",
+        "why": "拉一下 causa 这根绳，结果那端的铃铛就会响，因果性就是研究这根绳到底有多长、会不会断。"
+      }
+    },
+    "examples": [
+      {"fr": "La causalité entre le tabagisme et certaines maladies est bien établie.", "en": "The causality between smoking and certain diseases is well established.", "target": "causalité"},
+      {"fr": "Les historiens débattent de la causalité de cet événement politique.", "en": "Historians debate the causality of this political event.", "target": "causalité"}
+    ],
+    "formF": "",
+    "cog": "causality",
+    "cogWarn": []
   },
-  "examples": [
-   {"fr": "Ce centre aide les drogués à se désintoxiquer.", "en": "This center helps drug addicts to detox.", "target": "drogués"},
-   {"fr": "Il est devenu un drogué après des années de dépendance.", "en": "He became a drug addict after years of dependency.", "target": "drogué"}
-  ],
-  "formF": "droguée",
-  "cog": "druggie",
-  "cogWarn": "口语对应：英语 druggie/druggy（俚语，瘾君子）拼写相近；正式说 drug addict。别用 drugged，那是「被下药的、嗑了药的」形容词。"
- },
- {
-  "id": "7086",
-  "fr": "oasis",
-  "pos": "noun",
-  "en": "oasis",
-  "ipa": "/ɔazis/",
-  "zh": "绿洲；（比喻）避风港，安宁之所",
-  "etym": {
-   "from": "gr.",
-   "text": "Du grec <em>oasis</em>, mot d'origine égyptienne, « lieu habité ».",
-   "hook": {
-    "roots": "oasis ← 希腊 oasis ← 古埃及、科普特语（有水可居之地）。英语原样借入=oasis。",
-    "why": "沙漠中有水草的绿地→引申喧嚣中的一方净土。"
-   }
+  {
+    "id": "7386",
+    "fr": "chaînon",
+    "pos": "noun",
+    "en": "link (in a chain)",
+    "zh": "（链条的）一环；连接环节",
+    "ipa": "/ʃɛnɔ̃/",
+    "etym": {
+      "from": "lat.",
+      "text": "Du latin <em>catena</em> « chaîne », avec le suffixe diminutif.",
+      "hook": {
+        "roots": "源自拉丁语 catena（链条），加指小后缀 -on 构成；与 chain（链）、concatenate（连接）、catenary（悬链线）同源，核心意象是「链条上单个金属环」。",
+        "why": "一条长链由无数小环相扣，它就是其中一环；抽掉它，整个论证或供应链就会松脱。"
+      }
+    },
+    "examples": [
+      {"fr": "Ce document est le chaînon manquant de toute l'enquête.", "en": "This document is the missing link in the whole investigation.", "target": "chaînon"},
+      {"fr": "Chaque chaînon de la production doit être contrôlé.", "en": "Every link in production must be controlled.", "target": "chaînon"}
+    ],
+    "formF": "",
+    "cog": "chain",
+    "cogWarn": ["chaînon 指链条中的「一个环节」，不是整条 chain。"]
   },
-  "examples": [
-   {"fr": "Les voyageurs se sont reposés dans une oasis.", "en": "The travelers rested in an oasis.", "target": "oasis"},
-   {"fr": "Ce jardin est une oasis de calme en pleine ville.", "en": "This garden is an oasis of calm in the middle of the city.", "target": "oasis"}
-  ],
-  "formF": "",
-  "cog": "oasis"
- },
- {
-  "id": "7087",
-  "fr": "luminosité",
-  "pos": "noun",
-  "en": "brightness, luminosity",
-  "ipa": "/lyminozite/",
-  "zh": "亮度，明亮度（屏幕、光线、颜色）",
-  "etym": {
-   "from": "lat.",
-   "text": "Du latin <em>lumen</em>, « lumière ».",
-   "hook": {
-    "roots": "luminosité ← lumineux ← 拉丁 lumen/luminis（光）← lucere（发光）。lumin/luc- 在英语=luminous、illuminate、lumen、lucid。",
-    "why": "「发光的性质或程度」即亮度；调屏幕 luminosité 就是调亮度。"
-   }
+  {
+    "id": "7387",
+    "fr": "chimiste",
+    "pos": "noun",
+    "en": "chemist",
+    "zh": "化学家；药剂师",
+    "ipa": "/ʃimist/",
+    "etym": {
+      "from": "ar.",
+      "text": "De l'arabe <em>al-kīmiyā</em>, lui-même du grec <em>khemeia</em>.",
+      "hook": {
+        "roots": "源自阿拉伯语 al-kīmiyā（炼金术），借自希腊语 khemeia；与 chemistry（化学）、chemist（化学家）、alchemy（炼金术）、chemical（化学的）同源，核心意象是「调配物质秘密的人」。",
+        "why": "中世纪炼金术士在暗室里煮药水，想点石成金；今天的化学家继承了那口锅，只是目标换成了分子与方程式。"
+      }
+    },
+    "examples": [
+      {"fr": "Le chimiste a analysé la composition de l'échantillon.", "en": "The chemist analyzed the composition of the sample.", "target": "chimiste"},
+      {"fr": "Cette chimiste travaille sur de nouveaux matériaux pour les batteries.", "en": "This chemist is working on new materials for batteries.", "target": "chimiste"}
+    ],
+    "formF": "",
+    "cog": "chemist",
+    "cogWarn": []
   },
-  "examples": [
-   {"fr": "Réglez la luminosité de l'écran pour vos yeux.", "en": "Adjust the screen's brightness for your eyes.", "target": "luminosité"},
-   {"fr": "La luminosité du ciel a baissé au crépuscule.", "en": "The brightness of the sky dropped at dusk.", "target": "luminosité"}
-  ],
-  "formF": "",
-  "cog": "luminosity"
- },
- {
-  "id": "7088",
-  "fr": "culpabiliser",
-  "pos": "verb",
-  "en": "to make someone feel guilty; to feel guilty",
-  "ipa": "/kylpabilize/",
-  "zh": "使某人产生负罪感；（自身）内疚自责",
-  "etym": {
-   "from": "lat.",
-   "text": "Du latin <em>culpa</em>, « faute ».",
-   "hook": {
-    "roots": "culpabiliser ← culpable ← 拉丁 culpa（过失）+ -abilis。culp- 在英语=culpable、culprit、exculpate、mea culpa。",
-    "why": "「使有过错感」→让人内疚；反身 se culpabiliser=自责。"
-   }
+  {
+    "id": "7388",
+    "fr": "destructeur",
+    "pos": "adj",
+    "en": "destructive",
+    "zh": "破坏性的；毁灭性的",
+    "ipa": "/destʁyktœʁ/",
+    "etym": {
+      "from": "lat.",
+      "text": "Du latin <em>destructor</em>, de <em>destruere</em> « détruire ».",
+      "hook": {
+        "roots": "源自拉丁语 destructor（destruere「拆毁」← de-「向下」+ struere「堆积」），与 destroy（摧毁）、destruct（破坏）、destruction（毁灭）、construct（建造）同源，核心意象是「把堆好的东西推倒」。",
+        "why": "struere 是砌墙，destruere 是从墙根抽砖，破坏性的力量就是专干这件事的力量或人。"
+      }
+    },
+    "examples": [
+      {"fr": "L'incendie a eu des effets destructeurs sur la forêt.", "en": "The fire had destructive effects on the forest.", "target": "destructeurs"},
+      {"fr": "Cette critique est plus constructive que destructrice.", "en": "This criticism is more constructive than destructive.", "target": "destructrice"}
+    ],
+    "formF": "destructrice",
+    "cog": "destructive",
+    "cogWarn": []
   },
-  "examples": [
-   {"fr": "Arrête de me culpabiliser pour un simple retard.", "en": "Stop making me feel guilty over a small delay.", "target": "culpabiliser"},
-   {"fr": "Elle culpabilise dès qu'elle prend du repos.", "en": "She feels guilty as soon as she takes a rest.", "target": "culpabilise"}
-  ],
-  "formF": "",
-  "cog": ""
- },
- {
-  "id": "7089",
-  "fr": "veilleur",
-  "pos": "noun",
-  "en": "watchman, sentry (veilleur de nuit: night watchman)",
-  "ipa": "/vɛjœʁ/",
-  "zh": "守夜人，看守（veilleur de nuit=夜班守卫）",
-  "etym": {
-   "from": "lat.",
-   "text": "Du latin <em>vigilare</em>, « veiller, rester éveillé ».",
-   "hook": {
-    "roots": "veilleur ← veiller（守夜、警醒）← 拉丁 vigilare ← vigil（清醒的）。vigil- 在英语=vigil、vigilant、surveillance、reveille。",
-    "why": "「夜里保持清醒看守之人」即守夜人、警卫。"
-   }
+  {
+    "id": "7389",
+    "fr": "discriminatoire",
+    "pos": "adj",
+    "en": "discriminatory",
+    "zh": "歧视性的；区别对待的",
+    "ipa": "/diskʁiminatwaʁ/",
+    "etym": {
+      "from": "lat.",
+      "text": "Du latin <em>discriminare</em>, de <em>discrimen</em> « distinction, séparation ».",
+      "hook": {
+        "roots": "源自拉丁语 discriminare（discrimen「区别、分界线」），与 discriminate（区分）、discrimination（歧视）、discern（辨别）同源，核心意象是「把人分成不同等级并区别对待」。",
+        "why": "discrimen 是一把刀把人群切成两块，歧视性的做法就是用这把刀不公平地切：肤色、性别、出身成了被排斥的理由。"
+      }
+    },
+    "examples": [
+      {"fr": "Cette politique a été jugée discriminatoire par la cour.", "en": "This policy was judged discriminatory by the court.", "target": "discriminatoire"},
+      {"fr": "Des pratiques discriminatoires persistent dans certains secteurs.", "en": "Discriminatory practices persist in certain sectors.", "target": "discriminatoires"}
+    ],
+    "formF": "",
+    "cog": "discriminatory",
+    "cogWarn": []
   },
-  "examples": [
-   {"fr": "Le veilleur de nuit fait sa ronde à minuit.", "en": "The night watchman makes his rounds at midnight.", "target": "veilleur"},
-   {"fr": "Un veilleur surveille l'entrée de l'usine.", "en": "A watchman guards the factory entrance.", "target": "veilleur"}
-  ],
-  "formF": "veilleuse",
-  "cog": ""
- },
- {
-  "id": "7090",
-  "fr": "lièvre",
-  "pos": "noun",
-  "en": "hare",
-  "ipa": "/ljɛvʁ/",
-  "zh": "野兔（比家兔 lapin 大，耳长腿长）",
-  "etym": {
-   "from": "lat.",
-   "text": "Du latin <em>lepus, leporis</em>, « lièvre ».",
-   "hook": {
-    "roots": "lièvre ← 拉丁 lepus/leporis（野兔）。lepor- 在英语=leporine（兔的）、leveret（幼兔）；星座 Lepus（天兔座）。",
-    "why": "拉丁「野兔」直系遗传；注意 lièvre（野兔）不同于 lapin（家兔、穴兔）。"
-   }
+  {
+    "id": "7390",
+    "fr": "dissuasif",
+    "pos": "adj",
+    "en": "deterrent, dissuasive",
+    "zh": "威慑的；劝阻的",
+    "ipa": "/disɥazif/",
+    "etym": {
+      "from": "lat.",
+      "text": "Du latin <em>dissuadere</em>, de <em>dis-</em> « contre » et <em>suadere</em> « conseiller ».",
+      "hook": {
+        "roots": "源自拉丁语 dissuadere（dis-「相反」+ suadere「劝告」），与 dissuade（劝阻）、dissuasive（劝阻的）、persuade（说服）同源，核心意象是「用劝告把人从错误方向拉回来」。",
+        "why": "suadere 是温柔地拉衣袖提醒，劝阻性的力量就是站在悬崖边拉人一把：「别往前，会掉下去。」"
+      }
+    },
+    "examples": [
+      {"fr": "L'armement nucléaire est souvent présenté comme dissuasif.", "en": "Nuclear weapons are often presented as a deterrent.", "target": "dissuasif"},
+      {"fr": "Une amende lourde peut avoir un effet dissuasif sur les infractions.", "en": "A heavy fine can have a deterrent effect on offenses.", "target": "dissuasif"}
+    ],
+    "formF": "dissuasive",
+    "cog": "dissuasive",
+    "cogWarn": []
   },
-  "examples": [
-   {"fr": "Un lièvre a détalé à travers le champ.", "en": "A hare bolted across the field.", "target": "lièvre"},
-   {"fr": "Le chien a levé un lièvre dans les buissons.", "en": "The dog flushed out a hare in the bushes.", "target": "lièvre"}
-  ],
-  "formF": "",
-  "cog": ""
- },
- {
-  "id": "7091",
-  "fr": "alpiniste",
-  "pos": "noun",
-  "en": "mountaineer, mountain climber",
-  "ipa": "/alpinist/",
-  "zh": "登山运动员，高山攀登者",
-  "etym": {
-   "from": "topon.",
-   "text": "De <em>Alpes</em>, du latin <em>Alpes</em>, la chaîne montagneuse.",
-   "hook": {
-    "roots": "alpiniste ← Alpes（阿尔卑斯山）+ -iste。英语=alpine、Alps、alpinist。",
-    "why": "由攀登阿尔卑斯山发展出的运动→泛指攀登高山者。"
-   }
+  {
+    "id": "7391",
+    "fr": "défaillant",
+    "pos": "adj",
+    "en": "failing, faulty, deficient",
+    "zh": "有缺陷的；失效的；虚弱的",
+    "ipa": "/defajɑ̃/",
+    "etym": {
+      "from": "lat.",
+      "text": "De l'ancien français <em>defaillir</em>, du latin <em>defallere</em> « manquer ».",
+      "hook": {
+        "roots": "源自拉丁语 defallere（de-「向下」+ fallere「欺骗、失败」），与 fail（失败）、failure（失败）、fallible（易错的）、default（违约）同源，核心意象是「支撑不住、往下掉」。",
+        "why": "像桥墩在水里慢慢被腐蚀，有缺陷的部分看起来还在，其实已经撑不住上面的重量。"
+      }
+    },
+    "examples": [
+      {"fr": "Le service client est défaillant depuis plusieurs semaines.", "en": "Customer service has been failing for several weeks.", "target": "défaillant"},
+      {"fr": "Des preuves défaillantes ne suffisent pas à condamner l'accusé.", "en": "Deficient evidence is not enough to convict the accused.", "target": "défaillantes"}
+    ],
+    "formF": "défaillante",
+    "cog": "default",
+    "cogWarn": []
   },
-  "examples": [
-   {"fr": "L'alpiniste a atteint le sommet à l'aube.", "en": "The mountaineer reached the summit at dawn.", "target": "alpiniste"},
-   {"fr": "Les alpinistes portent des cordes et des crampons.", "en": "Mountain climbers carry ropes and crampons.", "target": "alpinistes"}
-  ],
-  "formF": "",
-  "cog": "alpinist"
- },
- {
-  "id": "7092",
-  "fr": "cramponner",
-  "pos": "verb",
-  "en": "to cling to; (se cramponner) to hold on tightly",
-  "ipa": "/kʁɑ̃pɔne/",
-  "zh": "紧抓，攀附；（se cramponner）死死抓住、纠缠不放",
-  "etym": {
-   "from": "germ.",
-   "text": "De <em>crampon</em>, du francique <em>*krampo</em>, « crochet, agrafe ».",
-   "hook": {
-    "roots": "cramponner ← crampon（铁爪、鞋钉）← 法兰克 *krampo（钩）← 日耳曼词根，同英语 cramp、crimp、clamp。",
-    "why": "「用铁爪钩住」→紧抓不放；se cramponner à=死死攀住（栏杆、希望、人）。"
-   }
+  {
+    "id": "7392",
+    "fr": "déviance",
+    "pos": "noun",
+    "en": "deviance, deviation (from norms)",
+    "zh": "偏差；越轨；异常行为",
+    "ipa": "/devjɑ̃s/",
+    "etym": {
+      "from": "lat.",
+      "text": "Du latin <em>deviare</em>, de <em>de-</em> « de côté » et <em>via</em> « chemin ».",
+      "hook": {
+        "roots": "源自拉丁语 deviare（de-「离开」+ via「道路」），与 deviate（偏离）、deviation（偏差）、deviant（越轨的）、via（经由）同源，核心意象是「离开常规道路」。",
+        "why": "via 是大家走的大路，deviare 是拐进旁边小巷；越轨在社会学里就是被贴上标签的「那条小巷」。"
+      }
+    },
+    "examples": [
+      {"fr": "La déviance juvenile est au centre des préoccupations des éducateurs.", "en": "Juvenile deviance is at the center of educators' concerns.", "target": "déviance"},
+      {"fr": "Cette théorie explique la déviance par les normes sociales.", "en": "This theory explains deviance through social norms.", "target": "déviance"}
+    ],
+    "formF": "",
+    "cog": "deviance",
+    "cogWarn": []
   },
-  "examples": [
-   {"fr": "Elle se cramponne à la rampe dans l'escalier.", "en": "She clings to the railing on the stairs.", "target": "cramponne"},
-   {"fr": "L'enfant se cramponnait à sa mère.", "en": "The child was clinging to his mother.", "target": "cramponnait"}
-  ],
-  "formF": "",
-  "cog": ""
- },
- {
-  "id": "7093",
-  "fr": "éboueur",
-  "pos": "noun",
-  "en": "garbage collector, refuse collector",
-  "ipa": "/ebwœʁ/",
-  "zh": "清洁工，垃圾收运工",
-  "etym": {
-   "from": "anc. fr.",
-   "text": "De <em>boue</em>, « boue, fange », d'origine gauloise.",
-   "hook": {
-    "roots": "éboueur ← ébouer（清除淤泥）← é-（去除）+ boue（泥、淤泥，源高卢语）。无常见英语同源词。",
-    "why": "原指「清除街道淤泥之人」→现代的垃圾收运工。"
-   }
+  {
+    "id": "7393",
+    "fr": "enchaîné",
+    "pos": "adj",
+    "en": "chained, linked, bound",
+    "zh": "被锁链束缚的；紧密相连的",
+    "ipa": "/ɑ̃ʃɛne/",
+    "etym": {
+      "from": "lat.",
+      "text": "Du latin <em>catena</em> « chaîne », avec le préfixe <em>en-</em>.",
+      "hook": {
+        "roots": "源自拉丁语 catena（链条），前缀 en- 表示「使进入……状态」；与 chain（链条）、concatenate（连接）、catenary（悬链线）同源，核心意象是「被链条串在一起」。",
+        "why": "想象用铁环把事件一环扣一环串起来，被锁住的状态就是首尾相接、无法单独拆开的状态。"
+      }
+    },
+    "examples": [
+      {"fr": "Les épisodes de la série sont étroitement enchaînés.", "en": "The series episodes are tightly linked.", "target": "enchaînés"},
+      {"fr": "Il se sentait enchaîné par des obligations familiales.", "en": "He felt bound by family obligations.", "target": "enchaîné"}
+    ],
+    "formF": "enchaînée",
+    "cog": "chained",
+    "cogWarn": []
   },
-  "examples": [
-   {"fr": "L'éboueur passe tôt le matin dans notre rue.", "en": "The garbage collector comes by early in the morning on our street.", "target": "éboueur"},
-   {"fr": "Les éboueurs sont en grève cette semaine.", "en": "The refuse collectors are on strike this week.", "target": "éboueurs"}
-  ],
-  "formF": "éboueuse",
-  "cog": ""
- },
- {
-  "id": "7094",
-  "fr": "débiteur",
-  "pos": "adj",
-  "en": "debtor; (compte débiteur) in-debit, overdrawn",
-  "ipa": "/debitœʁ/",
-  "zh": "欠债的，负债方的；（账户）借方的、透支的",
-  "etym": {
-   "from": "lat.",
-   "text": "Du latin <em>debitor</em>, « celui qui doit », de <em>debere</em>, « devoir ».",
-   "hook": {
-    "roots": "débiteur ← 拉丁 debitor ← debere（欠、应该）= de-（从）+ habere（拥有）。deb-/hab- 在英语=debt、debit、debenture、due。",
-    "why": "「欠钱的一方」即债务人（对 créancier 债权人）；账目上 débiteur=借方。"
-   }
-  },
-  "examples": [
-   {"fr": "Le solde débiteur du compte inquiète la banque.", "en": "The account's debit balance worries the bank.", "target": "débiteur"},
-   {"fr": "Il reste débiteur envers son associé.", "en": "He remains indebted to his business partner.", "target": "débiteur"}
-  ],
-  "formF": "débitrice",
-  "cog": "debtor"
- }
+  {
+    "id": "7394",
+    "fr": "flexibilité",
+    "pos": "noun",
+    "en": "flexibility, adaptability",
+    "zh": "灵活性；柔韧性",
+    "ipa": "/flɛksibilite/",
+    "etym": {
+      "from": "lat.",
+      "text": "Du latin <em>flexibilitas</em>, de <em>flexibilis</em> « flexible », de <em>flectere</em> « plier ».",
+      "hook": {
+        "roots": "源自拉丁语 flexibilitas（flexibilis「可弯曲的」← flectere「弯曲」），与 flexible（灵活的）、flex（屈伸）、reflect（反射）、inflect（变调）同源，核心意象是「可弯曲而不折断」。",
+        "why": "芦苇在风中弯腰，风停后又挺直，灵活性就是这种能屈能伸的智慧，不是软弱，是避免断裂。"
+      }
+    },
+    "examples": [
+      {"fr": "La flexibilité de l'horaire facilite la conciliation travail-famille.", "en": "The flexibility of the schedule makes it easier to balance work and family.", "target": "flexibilité"},
+      {"fr": "Les athlètes travaillent leur flexibilité tous les matins.", "en": "The athletes work on their flexibility every morning.", "target": "flexibilité"}
+    ],
+    "formF": "",
+    "cog": "flexibility",
+    "cogWarn": []
+  }
 ]
