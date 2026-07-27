@@ -1,0 +1,2185 @@
+[
+  {
+    "id": 7120,
+    "fr": "promulguer",
+    "pos": "verb",
+    "gender": null,
+    "en": "to promulgate; to proclaim",
+    "zh": "颁布；公布；宣传",
+    "slots": [
+      {
+        "key": "t|Présent|0",
+        "facet": "tense",
+        "tense": "Présent",
+        "target": "promulgue",
+        "persons": [
+          "je/j'",
+          "il/elle/on"
+        ]
+      },
+      {
+        "key": "t|Présent|1",
+        "facet": "tense",
+        "tense": "Présent",
+        "target": "promulgues",
+        "persons": [
+          "tu"
+        ]
+      },
+      {
+        "key": "t|Présent|2",
+        "facet": "tense",
+        "tense": "Présent",
+        "target": "promulguons",
+        "persons": [
+          "nous"
+        ]
+      },
+      {
+        "key": "t|Présent|3",
+        "facet": "tense",
+        "tense": "Présent",
+        "target": "promulguez",
+        "persons": [
+          "vous"
+        ]
+      },
+      {
+        "key": "t|Présent|4",
+        "facet": "tense",
+        "tense": "Présent",
+        "target": "promulguent",
+        "persons": [
+          "ils/elles"
+        ]
+      },
+      {
+        "key": "t|Passé composé|0",
+        "facet": "tense",
+        "tense": "Passé composé",
+        "target": "ai promulgué",
+        "persons": [
+          "je/j'"
+        ]
+      },
+      {
+        "key": "t|Passé composé|1",
+        "facet": "tense",
+        "tense": "Passé composé",
+        "target": "as promulgué",
+        "persons": [
+          "tu"
+        ]
+      },
+      {
+        "key": "t|Passé composé|2",
+        "facet": "tense",
+        "tense": "Passé composé",
+        "target": "a promulgué",
+        "persons": [
+          "il/elle/on"
+        ]
+      },
+      {
+        "key": "t|Passé composé|3",
+        "facet": "tense",
+        "tense": "Passé composé",
+        "target": "avons promulgué",
+        "persons": [
+          "nous"
+        ]
+      },
+      {
+        "key": "t|Passé composé|4",
+        "facet": "tense",
+        "tense": "Passé composé",
+        "target": "avez promulgué",
+        "persons": [
+          "vous"
+        ]
+      },
+      {
+        "key": "t|Passé composé|5",
+        "facet": "tense",
+        "tense": "Passé composé",
+        "target": "ont promulgué",
+        "persons": [
+          "ils/elles"
+        ]
+      },
+      {
+        "key": "t|Imparfait|0",
+        "facet": "tense",
+        "tense": "Imparfait",
+        "target": "promulguais",
+        "persons": [
+          "je/j'",
+          "tu"
+        ]
+      },
+      {
+        "key": "t|Imparfait|1",
+        "facet": "tense",
+        "tense": "Imparfait",
+        "target": "promulguait",
+        "persons": [
+          "il/elle/on"
+        ]
+      },
+      {
+        "key": "t|Imparfait|2",
+        "facet": "tense",
+        "tense": "Imparfait",
+        "target": "promulguions",
+        "persons": [
+          "nous"
+        ]
+      },
+      {
+        "key": "t|Imparfait|3",
+        "facet": "tense",
+        "tense": "Imparfait",
+        "target": "promulguiez",
+        "persons": [
+          "vous"
+        ]
+      },
+      {
+        "key": "t|Imparfait|4",
+        "facet": "tense",
+        "tense": "Imparfait",
+        "target": "promulguaient",
+        "persons": [
+          "ils/elles"
+        ]
+      },
+      {
+        "key": "t|Futur|0",
+        "facet": "tense",
+        "tense": "Futur",
+        "target": "promulguerai",
+        "persons": [
+          "je/j'"
+        ]
+      },
+      {
+        "key": "t|Futur|1",
+        "facet": "tense",
+        "tense": "Futur",
+        "target": "promulgueras",
+        "persons": [
+          "tu"
+        ]
+      },
+      {
+        "key": "t|Futur|2",
+        "facet": "tense",
+        "tense": "Futur",
+        "target": "promulguera",
+        "persons": [
+          "il/elle/on"
+        ]
+      },
+      {
+        "key": "t|Futur|3",
+        "facet": "tense",
+        "tense": "Futur",
+        "target": "promulguerons",
+        "persons": [
+          "nous"
+        ]
+      },
+      {
+        "key": "t|Futur|4",
+        "facet": "tense",
+        "tense": "Futur",
+        "target": "promulguerez",
+        "persons": [
+          "vous"
+        ]
+      },
+      {
+        "key": "t|Futur|5",
+        "facet": "tense",
+        "tense": "Futur",
+        "target": "promulgueront",
+        "persons": [
+          "ils/elles"
+        ]
+      },
+      {
+        "key": "t|Conditionnel|0",
+        "facet": "tense",
+        "tense": "Conditionnel",
+        "target": "promulguerais",
+        "persons": [
+          "je/j'",
+          "tu"
+        ]
+      },
+      {
+        "key": "t|Conditionnel|1",
+        "facet": "tense",
+        "tense": "Conditionnel",
+        "target": "promulguerait",
+        "persons": [
+          "il/elle/on"
+        ]
+      },
+      {
+        "key": "t|Conditionnel|2",
+        "facet": "tense",
+        "tense": "Conditionnel",
+        "target": "promulguerions",
+        "persons": [
+          "nous"
+        ]
+      },
+      {
+        "key": "t|Conditionnel|3",
+        "facet": "tense",
+        "tense": "Conditionnel",
+        "target": "promulgueriez",
+        "persons": [
+          "vous"
+        ]
+      },
+      {
+        "key": "t|Conditionnel|4",
+        "facet": "tense",
+        "tense": "Conditionnel",
+        "target": "promulgueraient",
+        "persons": [
+          "ils/elles"
+        ]
+      },
+      {
+        "key": "t|Subjonctif",
+        "facet": "subj",
+        "tense": "Subjonctif"
+      },
+      {
+        "key": "s|0",
+        "facet": "sense",
+        "sense_zh": "颁布"
+      },
+      {
+        "key": "s|1",
+        "facet": "sense",
+        "sense_zh": "公布"
+      },
+      {
+        "key": "s|2",
+        "facet": "sense",
+        "sense_zh": "宣传"
+      }
+    ]
+  },
+  {
+    "id": 7121,
+    "fr": "baby-sitter",
+    "pos": "noun",
+    "gender": "f",
+    "en": "babysitter",
+    "zh": "临时保姆；临时照看小孩的人",
+    "slots": [
+      {
+        "key": "s|0",
+        "facet": "sense",
+        "sense_zh": "临时保姆"
+      },
+      {
+        "key": "s|1",
+        "facet": "sense",
+        "sense_zh": "临时照看小孩的人"
+      },
+      {
+        "key": "gender",
+        "facet": "gender",
+        "gender": "f"
+      }
+    ]
+  },
+  {
+    "id": 7122,
+    "fr": "festivité",
+    "pos": "noun",
+    "gender": "f",
+    "en": "festivity; celebration",
+    "zh": "庆祝活动；欢庆",
+    "slots": [
+      {
+        "key": "s|0",
+        "facet": "sense",
+        "sense_zh": "庆祝活动"
+      },
+      {
+        "key": "s|1",
+        "facet": "sense",
+        "sense_zh": "欢庆"
+      },
+      {
+        "key": "gender",
+        "facet": "gender",
+        "gender": "f"
+      }
+    ]
+  },
+  {
+    "id": 7123,
+    "fr": "oubliette",
+    "pos": "noun",
+    "gender": "f",
+    "en": "oubliette; secret dungeon",
+    "zh": "（只留活门进出口的）地下牢房",
+    "slots": [
+      {
+        "key": "s|0",
+        "facet": "sense",
+        "sense_zh": "（只留活门进出口的）地下牢房"
+      },
+      {
+        "key": "gender",
+        "facet": "gender",
+        "gender": "f"
+      }
+    ]
+  },
+  {
+    "id": 7124,
+    "fr": "écumer",
+    "pos": "verb",
+    "gender": null,
+    "en": "to skim (a liquid); to roam (the sea)",
+    "zh": "撇去浮沫；在（海上）劫掠，游荡",
+    "slots": [
+      {
+        "key": "t|Présent|0",
+        "facet": "tense",
+        "tense": "Présent",
+        "target": "écume",
+        "persons": [
+          "je/j'",
+          "il/elle/on"
+        ]
+      },
+      {
+        "key": "t|Présent|1",
+        "facet": "tense",
+        "tense": "Présent",
+        "target": "écumes",
+        "persons": [
+          "tu"
+        ]
+      },
+      {
+        "key": "t|Présent|2",
+        "facet": "tense",
+        "tense": "Présent",
+        "target": "écumons",
+        "persons": [
+          "nous"
+        ]
+      },
+      {
+        "key": "t|Présent|3",
+        "facet": "tense",
+        "tense": "Présent",
+        "target": "écumez",
+        "persons": [
+          "vous"
+        ]
+      },
+      {
+        "key": "t|Présent|4",
+        "facet": "tense",
+        "tense": "Présent",
+        "target": "écument",
+        "persons": [
+          "ils/elles"
+        ]
+      },
+      {
+        "key": "t|Passé composé|0",
+        "facet": "tense",
+        "tense": "Passé composé",
+        "target": "ai écumé",
+        "persons": [
+          "je/j'"
+        ]
+      },
+      {
+        "key": "t|Passé composé|1",
+        "facet": "tense",
+        "tense": "Passé composé",
+        "target": "as écumé",
+        "persons": [
+          "tu"
+        ]
+      },
+      {
+        "key": "t|Passé composé|2",
+        "facet": "tense",
+        "tense": "Passé composé",
+        "target": "a écumé",
+        "persons": [
+          "il/elle/on"
+        ]
+      },
+      {
+        "key": "t|Passé composé|3",
+        "facet": "tense",
+        "tense": "Passé composé",
+        "target": "avons écumé",
+        "persons": [
+          "nous"
+        ]
+      },
+      {
+        "key": "t|Passé composé|4",
+        "facet": "tense",
+        "tense": "Passé composé",
+        "target": "avez écumé",
+        "persons": [
+          "vous"
+        ]
+      },
+      {
+        "key": "t|Passé composé|5",
+        "facet": "tense",
+        "tense": "Passé composé",
+        "target": "ont écumé",
+        "persons": [
+          "ils/elles"
+        ]
+      },
+      {
+        "key": "t|Imparfait|0",
+        "facet": "tense",
+        "tense": "Imparfait",
+        "target": "écumais",
+        "persons": [
+          "je/j'",
+          "tu"
+        ]
+      },
+      {
+        "key": "t|Imparfait|1",
+        "facet": "tense",
+        "tense": "Imparfait",
+        "target": "écumait",
+        "persons": [
+          "il/elle/on"
+        ]
+      },
+      {
+        "key": "t|Imparfait|2",
+        "facet": "tense",
+        "tense": "Imparfait",
+        "target": "écumions",
+        "persons": [
+          "nous"
+        ]
+      },
+      {
+        "key": "t|Imparfait|3",
+        "facet": "tense",
+        "tense": "Imparfait",
+        "target": "écumiez",
+        "persons": [
+          "vous"
+        ]
+      },
+      {
+        "key": "t|Imparfait|4",
+        "facet": "tense",
+        "tense": "Imparfait",
+        "target": "écumaient",
+        "persons": [
+          "ils/elles"
+        ]
+      },
+      {
+        "key": "t|Futur|0",
+        "facet": "tense",
+        "tense": "Futur",
+        "target": "écumerai",
+        "persons": [
+          "je/j'"
+        ]
+      },
+      {
+        "key": "t|Futur|1",
+        "facet": "tense",
+        "tense": "Futur",
+        "target": "écumeras",
+        "persons": [
+          "tu"
+        ]
+      },
+      {
+        "key": "t|Futur|2",
+        "facet": "tense",
+        "tense": "Futur",
+        "target": "écumera",
+        "persons": [
+          "il/elle/on"
+        ]
+      },
+      {
+        "key": "t|Futur|3",
+        "facet": "tense",
+        "tense": "Futur",
+        "target": "écumerons",
+        "persons": [
+          "nous"
+        ]
+      },
+      {
+        "key": "t|Futur|4",
+        "facet": "tense",
+        "tense": "Futur",
+        "target": "écumerez",
+        "persons": [
+          "vous"
+        ]
+      },
+      {
+        "key": "t|Futur|5",
+        "facet": "tense",
+        "tense": "Futur",
+        "target": "écumeront",
+        "persons": [
+          "ils/elles"
+        ]
+      },
+      {
+        "key": "t|Conditionnel|0",
+        "facet": "tense",
+        "tense": "Conditionnel",
+        "target": "écumerais",
+        "persons": [
+          "je/j'",
+          "tu"
+        ]
+      },
+      {
+        "key": "t|Conditionnel|1",
+        "facet": "tense",
+        "tense": "Conditionnel",
+        "target": "écumerait",
+        "persons": [
+          "il/elle/on"
+        ]
+      },
+      {
+        "key": "t|Conditionnel|2",
+        "facet": "tense",
+        "tense": "Conditionnel",
+        "target": "écumerions",
+        "persons": [
+          "nous"
+        ]
+      },
+      {
+        "key": "t|Conditionnel|3",
+        "facet": "tense",
+        "tense": "Conditionnel",
+        "target": "écumeriez",
+        "persons": [
+          "vous"
+        ]
+      },
+      {
+        "key": "t|Conditionnel|4",
+        "facet": "tense",
+        "tense": "Conditionnel",
+        "target": "écumeraient",
+        "persons": [
+          "ils/elles"
+        ]
+      },
+      {
+        "key": "t|Subjonctif",
+        "facet": "subj",
+        "tense": "Subjonctif"
+      },
+      {
+        "key": "s|0",
+        "facet": "sense",
+        "sense_zh": "撇去浮沫"
+      },
+      {
+        "key": "s|1",
+        "facet": "sense",
+        "sense_zh": "在（海上）劫掠，游荡"
+      }
+    ]
+  },
+  {
+    "id": 7125,
+    "fr": "césar",
+    "pos": "noun",
+    "gender": "m",
+    "en": "Caesar; emperor; autocrat",
+    "zh": "凯撒；独裁者；（法国电影）凯撒奖",
+    "slots": [
+      {
+        "key": "s|0",
+        "facet": "sense",
+        "sense_zh": "凯撒"
+      },
+      {
+        "key": "s|1",
+        "facet": "sense",
+        "sense_zh": "独裁者"
+      },
+      {
+        "key": "s|2",
+        "facet": "sense",
+        "sense_zh": "（法国电影）凯撒奖"
+      },
+      {
+        "key": "gender",
+        "facet": "gender",
+        "gender": "m"
+      }
+    ]
+  },
+  {
+    "id": 7126,
+    "fr": "aiguë",
+    "pos": "adj",
+    "gender": null,
+    "en": "acute; sharp; high-pitched; severe",
+    "zh": "尖锐的；高音的；急性的；严重的",
+    "slots": [
+      {
+        "key": "s|0",
+        "facet": "sense",
+        "sense_zh": "尖锐的"
+      },
+      {
+        "key": "s|1",
+        "facet": "sense",
+        "sense_zh": "高音的"
+      },
+      {
+        "key": "s|2",
+        "facet": "sense",
+        "sense_zh": "急性的"
+      },
+      {
+        "key": "s|3",
+        "facet": "sense",
+        "sense_zh": "严重的"
+      },
+      {
+        "key": "g|mp",
+        "facet": "agree",
+        "gender": "mp",
+        "label": "阳性复数"
+      },
+      {
+        "key": "g|f",
+        "facet": "agree",
+        "gender": "f",
+        "label": "阴性单数"
+      },
+      {
+        "key": "g|fp",
+        "facet": "agree",
+        "gender": "fp",
+        "label": "阴性复数"
+      }
+    ]
+  },
+  {
+    "id": 7127,
+    "fr": "ellipse",
+    "pos": "noun",
+    "gender": "f",
+    "en": "ellipse; ellipsis, omission",
+    "zh": "椭圆；省略，略去",
+    "slots": [
+      {
+        "key": "s|0",
+        "facet": "sense",
+        "sense_zh": "椭圆"
+      },
+      {
+        "key": "s|1",
+        "facet": "sense",
+        "sense_zh": "省略，略去"
+      },
+      {
+        "key": "gender",
+        "facet": "gender",
+        "gender": "f"
+      }
+    ]
+  },
+  {
+    "id": 7128,
+    "fr": "logis",
+    "pos": "noun",
+    "gender": "m",
+    "en": "dwelling; lodgings; abode",
+    "zh": "住所；住宅；家",
+    "slots": [
+      {
+        "key": "s|0",
+        "facet": "sense",
+        "sense_zh": "住所"
+      },
+      {
+        "key": "s|1",
+        "facet": "sense",
+        "sense_zh": "住宅"
+      },
+      {
+        "key": "s|2",
+        "facet": "sense",
+        "sense_zh": "家"
+      },
+      {
+        "key": "gender",
+        "facet": "gender",
+        "gender": "m"
+      }
+    ]
+  },
+  {
+    "id": 7129,
+    "fr": "abonner",
+    "pos": "verb",
+    "gender": null,
+    "en": "to subscribe (to); to take out a subscription",
+    "zh": "订阅；订购；使加入",
+    "slots": [
+      {
+        "key": "t|Présent|0",
+        "facet": "tense",
+        "tense": "Présent",
+        "target": "abonne",
+        "persons": [
+          "je/j'",
+          "il/elle/on"
+        ]
+      },
+      {
+        "key": "t|Présent|1",
+        "facet": "tense",
+        "tense": "Présent",
+        "target": "abonnes",
+        "persons": [
+          "tu"
+        ]
+      },
+      {
+        "key": "t|Présent|2",
+        "facet": "tense",
+        "tense": "Présent",
+        "target": "abonnons",
+        "persons": [
+          "nous"
+        ]
+      },
+      {
+        "key": "t|Présent|3",
+        "facet": "tense",
+        "tense": "Présent",
+        "target": "abonnez",
+        "persons": [
+          "vous"
+        ]
+      },
+      {
+        "key": "t|Présent|4",
+        "facet": "tense",
+        "tense": "Présent",
+        "target": "abonnent",
+        "persons": [
+          "ils/elles"
+        ]
+      },
+      {
+        "key": "t|Passé composé|0",
+        "facet": "tense",
+        "tense": "Passé composé",
+        "target": "ai abonné",
+        "persons": [
+          "je/j'"
+        ]
+      },
+      {
+        "key": "t|Passé composé|1",
+        "facet": "tense",
+        "tense": "Passé composé",
+        "target": "as abonné",
+        "persons": [
+          "tu"
+        ]
+      },
+      {
+        "key": "t|Passé composé|2",
+        "facet": "tense",
+        "tense": "Passé composé",
+        "target": "a abonné",
+        "persons": [
+          "il/elle/on"
+        ]
+      },
+      {
+        "key": "t|Passé composé|3",
+        "facet": "tense",
+        "tense": "Passé composé",
+        "target": "avons abonné",
+        "persons": [
+          "nous"
+        ]
+      },
+      {
+        "key": "t|Passé composé|4",
+        "facet": "tense",
+        "tense": "Passé composé",
+        "target": "avez abonné",
+        "persons": [
+          "vous"
+        ]
+      },
+      {
+        "key": "t|Passé composé|5",
+        "facet": "tense",
+        "tense": "Passé composé",
+        "target": "ont abonné",
+        "persons": [
+          "ils/elles"
+        ]
+      },
+      {
+        "key": "t|Imparfait|0",
+        "facet": "tense",
+        "tense": "Imparfait",
+        "target": "abonnais",
+        "persons": [
+          "je/j'",
+          "tu"
+        ]
+      },
+      {
+        "key": "t|Imparfait|1",
+        "facet": "tense",
+        "tense": "Imparfait",
+        "target": "abonnait",
+        "persons": [
+          "il/elle/on"
+        ]
+      },
+      {
+        "key": "t|Imparfait|2",
+        "facet": "tense",
+        "tense": "Imparfait",
+        "target": "abonnions",
+        "persons": [
+          "nous"
+        ]
+      },
+      {
+        "key": "t|Imparfait|3",
+        "facet": "tense",
+        "tense": "Imparfait",
+        "target": "abonniez",
+        "persons": [
+          "vous"
+        ]
+      },
+      {
+        "key": "t|Imparfait|4",
+        "facet": "tense",
+        "tense": "Imparfait",
+        "target": "abonnaient",
+        "persons": [
+          "ils/elles"
+        ]
+      },
+      {
+        "key": "t|Futur|0",
+        "facet": "tense",
+        "tense": "Futur",
+        "target": "abonnerai",
+        "persons": [
+          "je/j'"
+        ]
+      },
+      {
+        "key": "t|Futur|1",
+        "facet": "tense",
+        "tense": "Futur",
+        "target": "abonneras",
+        "persons": [
+          "tu"
+        ]
+      },
+      {
+        "key": "t|Futur|2",
+        "facet": "tense",
+        "tense": "Futur",
+        "target": "abonnera",
+        "persons": [
+          "il/elle/on"
+        ]
+      },
+      {
+        "key": "t|Futur|3",
+        "facet": "tense",
+        "tense": "Futur",
+        "target": "abonnerons",
+        "persons": [
+          "nous"
+        ]
+      },
+      {
+        "key": "t|Futur|4",
+        "facet": "tense",
+        "tense": "Futur",
+        "target": "abonnerez",
+        "persons": [
+          "vous"
+        ]
+      },
+      {
+        "key": "t|Futur|5",
+        "facet": "tense",
+        "tense": "Futur",
+        "target": "abonneront",
+        "persons": [
+          "ils/elles"
+        ]
+      },
+      {
+        "key": "t|Conditionnel|0",
+        "facet": "tense",
+        "tense": "Conditionnel",
+        "target": "abonnerais",
+        "persons": [
+          "je/j'",
+          "tu"
+        ]
+      },
+      {
+        "key": "t|Conditionnel|1",
+        "facet": "tense",
+        "tense": "Conditionnel",
+        "target": "abonnerait",
+        "persons": [
+          "il/elle/on"
+        ]
+      },
+      {
+        "key": "t|Conditionnel|2",
+        "facet": "tense",
+        "tense": "Conditionnel",
+        "target": "abonnerions",
+        "persons": [
+          "nous"
+        ]
+      },
+      {
+        "key": "t|Conditionnel|3",
+        "facet": "tense",
+        "tense": "Conditionnel",
+        "target": "abonneriez",
+        "persons": [
+          "vous"
+        ]
+      },
+      {
+        "key": "t|Conditionnel|4",
+        "facet": "tense",
+        "tense": "Conditionnel",
+        "target": "abonneraient",
+        "persons": [
+          "ils/elles"
+        ]
+      },
+      {
+        "key": "t|Subjonctif",
+        "facet": "subj",
+        "tense": "Subjonctif"
+      },
+      {
+        "key": "s|0",
+        "facet": "sense",
+        "sense_zh": "订阅"
+      },
+      {
+        "key": "s|1",
+        "facet": "sense",
+        "sense_zh": "订购"
+      },
+      {
+        "key": "s|2",
+        "facet": "sense",
+        "sense_zh": "使加入"
+      }
+    ]
+  },
+  {
+    "id": 7130,
+    "fr": "hémisphère",
+    "pos": "noun",
+    "gender": "m",
+    "en": "hemisphere",
+    "zh": "半球",
+    "slots": [
+      {
+        "key": "s|0",
+        "facet": "sense",
+        "sense_zh": "半球"
+      },
+      {
+        "key": "gender",
+        "facet": "gender",
+        "gender": "m"
+      }
+    ]
+  },
+  {
+    "id": 7131,
+    "fr": "pragmatique",
+    "pos": "adj",
+    "gender": null,
+    "en": "pragmatic; practical, matter-of-fact",
+    "zh": "务实的；实用主义的",
+    "slots": [
+      {
+        "key": "s|0",
+        "facet": "sense",
+        "sense_zh": "务实的"
+      },
+      {
+        "key": "s|1",
+        "facet": "sense",
+        "sense_zh": "实用主义的"
+      },
+      {
+        "key": "g|mp",
+        "facet": "agree",
+        "gender": "mp",
+        "label": "阳性复数"
+      },
+      {
+        "key": "g|f",
+        "facet": "agree",
+        "gender": "f",
+        "label": "阴性单数"
+      },
+      {
+        "key": "g|fp",
+        "facet": "agree",
+        "gender": "fp",
+        "label": "阴性复数"
+      }
+    ]
+  },
+  {
+    "id": 7132,
+    "fr": "do",
+    "pos": "noun",
+    "gender": "m",
+    "en": "do; C (musical note)",
+    "zh": "（音乐）do音；C音",
+    "slots": [
+      {
+        "key": "s|0",
+        "facet": "sense",
+        "sense_zh": "（音乐）do音"
+      },
+      {
+        "key": "s|1",
+        "facet": "sense",
+        "sense_zh": "C音"
+      },
+      {
+        "key": "gender",
+        "facet": "gender",
+        "gender": "m"
+      }
+    ]
+  },
+  {
+    "id": 7133,
+    "fr": "épopée",
+    "pos": "noun",
+    "gender": "f",
+    "en": "epic; saga; heroic tale",
+    "zh": "史诗；英雄传奇",
+    "slots": [
+      {
+        "key": "s|0",
+        "facet": "sense",
+        "sense_zh": "史诗"
+      },
+      {
+        "key": "s|1",
+        "facet": "sense",
+        "sense_zh": "英雄传奇"
+      },
+      {
+        "key": "gender",
+        "facet": "gender",
+        "gender": "f"
+      }
+    ]
+  },
+  {
+    "id": 7134,
+    "fr": "macadam",
+    "pos": "noun",
+    "gender": "m",
+    "en": "macadam; tarmac",
+    "zh": "碎石路面；柏油路",
+    "slots": [
+      {
+        "key": "s|0",
+        "facet": "sense",
+        "sense_zh": "碎石路面"
+      },
+      {
+        "key": "s|1",
+        "facet": "sense",
+        "sense_zh": "柏油路"
+      },
+      {
+        "key": "gender",
+        "facet": "gender",
+        "gender": "m"
+      }
+    ]
+  },
+  {
+    "id": 7135,
+    "fr": "dicton",
+    "pos": "noun",
+    "gender": "m",
+    "en": "saying; proverb; adage",
+    "zh": "谚语；格言",
+    "slots": [
+      {
+        "key": "s|0",
+        "facet": "sense",
+        "sense_zh": "谚语"
+      },
+      {
+        "key": "s|1",
+        "facet": "sense",
+        "sense_zh": "格言"
+      },
+      {
+        "key": "gender",
+        "facet": "gender",
+        "gender": "m"
+      }
+    ]
+  },
+  {
+    "id": 7136,
+    "fr": "narine",
+    "pos": "noun",
+    "gender": "f",
+    "en": "nostril",
+    "zh": "鼻孔",
+    "slots": [
+      {
+        "key": "s|0",
+        "facet": "sense",
+        "sense_zh": "鼻孔"
+      },
+      {
+        "key": "gender",
+        "facet": "gender",
+        "gender": "f"
+      }
+    ]
+  },
+  {
+    "id": 7137,
+    "fr": "rôtir",
+    "pos": "verb",
+    "gender": null,
+    "en": "to roast",
+    "zh": "烤；烘烤",
+    "slots": [
+      {
+        "key": "t|Présent|0",
+        "facet": "tense",
+        "tense": "Présent",
+        "target": "rôtis",
+        "persons": [
+          "je/j'",
+          "tu"
+        ]
+      },
+      {
+        "key": "t|Présent|1",
+        "facet": "tense",
+        "tense": "Présent",
+        "target": "rôtit",
+        "persons": [
+          "il/elle/on"
+        ]
+      },
+      {
+        "key": "t|Présent|2",
+        "facet": "tense",
+        "tense": "Présent",
+        "target": "rôtissons",
+        "persons": [
+          "nous"
+        ]
+      },
+      {
+        "key": "t|Présent|3",
+        "facet": "tense",
+        "tense": "Présent",
+        "target": "rôtissez",
+        "persons": [
+          "vous"
+        ]
+      },
+      {
+        "key": "t|Présent|4",
+        "facet": "tense",
+        "tense": "Présent",
+        "target": "rôtissent",
+        "persons": [
+          "ils/elles"
+        ]
+      },
+      {
+        "key": "t|Passé composé|0",
+        "facet": "tense",
+        "tense": "Passé composé",
+        "target": "ai rôti",
+        "persons": [
+          "je/j'"
+        ]
+      },
+      {
+        "key": "t|Passé composé|1",
+        "facet": "tense",
+        "tense": "Passé composé",
+        "target": "as rôti",
+        "persons": [
+          "tu"
+        ]
+      },
+      {
+        "key": "t|Passé composé|2",
+        "facet": "tense",
+        "tense": "Passé composé",
+        "target": "a rôti",
+        "persons": [
+          "il/elle/on"
+        ]
+      },
+      {
+        "key": "t|Passé composé|3",
+        "facet": "tense",
+        "tense": "Passé composé",
+        "target": "avons rôti",
+        "persons": [
+          "nous"
+        ]
+      },
+      {
+        "key": "t|Passé composé|4",
+        "facet": "tense",
+        "tense": "Passé composé",
+        "target": "avez rôti",
+        "persons": [
+          "vous"
+        ]
+      },
+      {
+        "key": "t|Passé composé|5",
+        "facet": "tense",
+        "tense": "Passé composé",
+        "target": "ont rôti",
+        "persons": [
+          "ils/elles"
+        ]
+      },
+      {
+        "key": "t|Imparfait|0",
+        "facet": "tense",
+        "tense": "Imparfait",
+        "target": "rôtissais",
+        "persons": [
+          "je/j'",
+          "tu"
+        ]
+      },
+      {
+        "key": "t|Imparfait|1",
+        "facet": "tense",
+        "tense": "Imparfait",
+        "target": "rôtissait",
+        "persons": [
+          "il/elle/on"
+        ]
+      },
+      {
+        "key": "t|Imparfait|2",
+        "facet": "tense",
+        "tense": "Imparfait",
+        "target": "rôtissions",
+        "persons": [
+          "nous"
+        ]
+      },
+      {
+        "key": "t|Imparfait|3",
+        "facet": "tense",
+        "tense": "Imparfait",
+        "target": "rôtissiez",
+        "persons": [
+          "vous"
+        ]
+      },
+      {
+        "key": "t|Imparfait|4",
+        "facet": "tense",
+        "tense": "Imparfait",
+        "target": "rôtissaient",
+        "persons": [
+          "ils/elles"
+        ]
+      },
+      {
+        "key": "t|Futur|0",
+        "facet": "tense",
+        "tense": "Futur",
+        "target": "rôtirai",
+        "persons": [
+          "je/j'"
+        ]
+      },
+      {
+        "key": "t|Futur|1",
+        "facet": "tense",
+        "tense": "Futur",
+        "target": "rôtiras",
+        "persons": [
+          "tu"
+        ]
+      },
+      {
+        "key": "t|Futur|2",
+        "facet": "tense",
+        "tense": "Futur",
+        "target": "rôtira",
+        "persons": [
+          "il/elle/on"
+        ]
+      },
+      {
+        "key": "t|Futur|3",
+        "facet": "tense",
+        "tense": "Futur",
+        "target": "rôtirons",
+        "persons": [
+          "nous"
+        ]
+      },
+      {
+        "key": "t|Futur|4",
+        "facet": "tense",
+        "tense": "Futur",
+        "target": "rôtirez",
+        "persons": [
+          "vous"
+        ]
+      },
+      {
+        "key": "t|Futur|5",
+        "facet": "tense",
+        "tense": "Futur",
+        "target": "rôtiront",
+        "persons": [
+          "ils/elles"
+        ]
+      },
+      {
+        "key": "t|Conditionnel|0",
+        "facet": "tense",
+        "tense": "Conditionnel",
+        "target": "rôtirais",
+        "persons": [
+          "je/j'",
+          "tu"
+        ]
+      },
+      {
+        "key": "t|Conditionnel|1",
+        "facet": "tense",
+        "tense": "Conditionnel",
+        "target": "rôtirait",
+        "persons": [
+          "il/elle/on"
+        ]
+      },
+      {
+        "key": "t|Conditionnel|2",
+        "facet": "tense",
+        "tense": "Conditionnel",
+        "target": "rôtirions",
+        "persons": [
+          "nous"
+        ]
+      },
+      {
+        "key": "t|Conditionnel|3",
+        "facet": "tense",
+        "tense": "Conditionnel",
+        "target": "rôtiriez",
+        "persons": [
+          "vous"
+        ]
+      },
+      {
+        "key": "t|Conditionnel|4",
+        "facet": "tense",
+        "tense": "Conditionnel",
+        "target": "rôtiraient",
+        "persons": [
+          "ils/elles"
+        ]
+      },
+      {
+        "key": "t|Subjonctif",
+        "facet": "subj",
+        "tense": "Subjonctif"
+      },
+      {
+        "key": "s|0",
+        "facet": "sense",
+        "sense_zh": "烤"
+      },
+      {
+        "key": "s|1",
+        "facet": "sense",
+        "sense_zh": "烘烤"
+      }
+    ]
+  },
+  {
+    "id": 7138,
+    "fr": "tsar",
+    "pos": "noun",
+    "gender": "m",
+    "en": "tsar; czar; autocrat",
+    "zh": "沙皇；独裁者",
+    "slots": [
+      {
+        "key": "s|0",
+        "facet": "sense",
+        "sense_zh": "沙皇"
+      },
+      {
+        "key": "s|1",
+        "facet": "sense",
+        "sense_zh": "独裁者"
+      },
+      {
+        "key": "gender",
+        "facet": "gender",
+        "gender": "m"
+      }
+    ]
+  },
+  {
+    "id": 7139,
+    "fr": "catégorique",
+    "pos": "adj",
+    "gender": null,
+    "en": "categorical; absolute, unequivocal",
+    "zh": "明确的；绝对的；断然的",
+    "slots": [
+      {
+        "key": "s|0",
+        "facet": "sense",
+        "sense_zh": "明确的"
+      },
+      {
+        "key": "s|1",
+        "facet": "sense",
+        "sense_zh": "绝对的"
+      },
+      {
+        "key": "s|2",
+        "facet": "sense",
+        "sense_zh": "断然的"
+      },
+      {
+        "key": "g|mp",
+        "facet": "agree",
+        "gender": "mp",
+        "label": "阳性复数"
+      },
+      {
+        "key": "g|f",
+        "facet": "agree",
+        "gender": "f",
+        "label": "阴性单数"
+      },
+      {
+        "key": "g|fp",
+        "facet": "agree",
+        "gender": "fp",
+        "label": "阴性复数"
+      }
+    ]
+  },
+  {
+    "id": 7140,
+    "fr": "inutilité",
+    "pos": "noun",
+    "gender": "f",
+    "en": "uselessness; futility",
+    "zh": "无用；徒劳；无价值",
+    "slots": [
+      {
+        "key": "s|0",
+        "facet": "sense",
+        "sense_zh": "无用"
+      },
+      {
+        "key": "s|1",
+        "facet": "sense",
+        "sense_zh": "徒劳"
+      },
+      {
+        "key": "s|2",
+        "facet": "sense",
+        "sense_zh": "无价值"
+      },
+      {
+        "key": "gender",
+        "facet": "gender",
+        "gender": "f"
+      }
+    ]
+  },
+  {
+    "id": 7141,
+    "fr": "rayonner",
+    "pos": "verb",
+    "gender": null,
+    "en": "to radiate; to shine; to spread out (from a center)",
+    "zh": "发光；辐射；四散分布",
+    "slots": [
+      {
+        "key": "t|Présent|0",
+        "facet": "tense",
+        "tense": "Présent",
+        "target": "rayonne",
+        "persons": [
+          "je/j'",
+          "il/elle/on"
+        ]
+      },
+      {
+        "key": "t|Présent|1",
+        "facet": "tense",
+        "tense": "Présent",
+        "target": "rayonnes",
+        "persons": [
+          "tu"
+        ]
+      },
+      {
+        "key": "t|Présent|2",
+        "facet": "tense",
+        "tense": "Présent",
+        "target": "rayonnons",
+        "persons": [
+          "nous"
+        ]
+      },
+      {
+        "key": "t|Présent|3",
+        "facet": "tense",
+        "tense": "Présent",
+        "target": "rayonnez",
+        "persons": [
+          "vous"
+        ]
+      },
+      {
+        "key": "t|Présent|4",
+        "facet": "tense",
+        "tense": "Présent",
+        "target": "rayonnent",
+        "persons": [
+          "ils/elles"
+        ]
+      },
+      {
+        "key": "t|Passé composé|0",
+        "facet": "tense",
+        "tense": "Passé composé",
+        "target": "ai rayonné",
+        "persons": [
+          "je/j'"
+        ]
+      },
+      {
+        "key": "t|Passé composé|1",
+        "facet": "tense",
+        "tense": "Passé composé",
+        "target": "as rayonné",
+        "persons": [
+          "tu"
+        ]
+      },
+      {
+        "key": "t|Passé composé|2",
+        "facet": "tense",
+        "tense": "Passé composé",
+        "target": "a rayonné",
+        "persons": [
+          "il/elle/on"
+        ]
+      },
+      {
+        "key": "t|Passé composé|3",
+        "facet": "tense",
+        "tense": "Passé composé",
+        "target": "avons rayonné",
+        "persons": [
+          "nous"
+        ]
+      },
+      {
+        "key": "t|Passé composé|4",
+        "facet": "tense",
+        "tense": "Passé composé",
+        "target": "avez rayonné",
+        "persons": [
+          "vous"
+        ]
+      },
+      {
+        "key": "t|Passé composé|5",
+        "facet": "tense",
+        "tense": "Passé composé",
+        "target": "ont rayonné",
+        "persons": [
+          "ils/elles"
+        ]
+      },
+      {
+        "key": "t|Imparfait|0",
+        "facet": "tense",
+        "tense": "Imparfait",
+        "target": "rayonnais",
+        "persons": [
+          "je/j'",
+          "tu"
+        ]
+      },
+      {
+        "key": "t|Imparfait|1",
+        "facet": "tense",
+        "tense": "Imparfait",
+        "target": "rayonnait",
+        "persons": [
+          "il/elle/on"
+        ]
+      },
+      {
+        "key": "t|Imparfait|2",
+        "facet": "tense",
+        "tense": "Imparfait",
+        "target": "rayonnions",
+        "persons": [
+          "nous"
+        ]
+      },
+      {
+        "key": "t|Imparfait|3",
+        "facet": "tense",
+        "tense": "Imparfait",
+        "target": "rayonniez",
+        "persons": [
+          "vous"
+        ]
+      },
+      {
+        "key": "t|Imparfait|4",
+        "facet": "tense",
+        "tense": "Imparfait",
+        "target": "rayonnaient",
+        "persons": [
+          "ils/elles"
+        ]
+      },
+      {
+        "key": "t|Futur|0",
+        "facet": "tense",
+        "tense": "Futur",
+        "target": "rayonnerai",
+        "persons": [
+          "je/j'"
+        ]
+      },
+      {
+        "key": "t|Futur|1",
+        "facet": "tense",
+        "tense": "Futur",
+        "target": "rayonneras",
+        "persons": [
+          "tu"
+        ]
+      },
+      {
+        "key": "t|Futur|2",
+        "facet": "tense",
+        "tense": "Futur",
+        "target": "rayonnera",
+        "persons": [
+          "il/elle/on"
+        ]
+      },
+      {
+        "key": "t|Futur|3",
+        "facet": "tense",
+        "tense": "Futur",
+        "target": "rayonnerons",
+        "persons": [
+          "nous"
+        ]
+      },
+      {
+        "key": "t|Futur|4",
+        "facet": "tense",
+        "tense": "Futur",
+        "target": "rayonnerez",
+        "persons": [
+          "vous"
+        ]
+      },
+      {
+        "key": "t|Futur|5",
+        "facet": "tense",
+        "tense": "Futur",
+        "target": "rayonneront",
+        "persons": [
+          "ils/elles"
+        ]
+      },
+      {
+        "key": "t|Conditionnel|0",
+        "facet": "tense",
+        "tense": "Conditionnel",
+        "target": "rayonnerais",
+        "persons": [
+          "je/j'",
+          "tu"
+        ]
+      },
+      {
+        "key": "t|Conditionnel|1",
+        "facet": "tense",
+        "tense": "Conditionnel",
+        "target": "rayonnerait",
+        "persons": [
+          "il/elle/on"
+        ]
+      },
+      {
+        "key": "t|Conditionnel|2",
+        "facet": "tense",
+        "tense": "Conditionnel",
+        "target": "rayonnerions",
+        "persons": [
+          "nous"
+        ]
+      },
+      {
+        "key": "t|Conditionnel|3",
+        "facet": "tense",
+        "tense": "Conditionnel",
+        "target": "rayonneriez",
+        "persons": [
+          "vous"
+        ]
+      },
+      {
+        "key": "t|Conditionnel|4",
+        "facet": "tense",
+        "tense": "Conditionnel",
+        "target": "rayonneraient",
+        "persons": [
+          "ils/elles"
+        ]
+      },
+      {
+        "key": "t|Subjonctif",
+        "facet": "subj",
+        "tense": "Subjonctif"
+      },
+      {
+        "key": "s|0",
+        "facet": "sense",
+        "sense_zh": "发光"
+      },
+      {
+        "key": "s|1",
+        "facet": "sense",
+        "sense_zh": "辐射"
+      },
+      {
+        "key": "s|2",
+        "facet": "sense",
+        "sense_zh": "四散分布"
+      }
+    ]
+  },
+  {
+    "id": 7142,
+    "fr": "éprendre",
+    "pos": "verb",
+    "gender": null,
+    "en": "to fall in love with; to become enamored of",
+    "zh": "爱上；迷恋",
+    "slots": [
+      {
+        "key": "t|Présent|0",
+        "facet": "tense",
+        "tense": "Présent",
+        "target": "éprends",
+        "persons": [
+          "je/j'",
+          "tu"
+        ]
+      },
+      {
+        "key": "t|Présent|1",
+        "facet": "tense",
+        "tense": "Présent",
+        "target": "éprend",
+        "persons": [
+          "il/elle/on"
+        ]
+      },
+      {
+        "key": "t|Présent|2",
+        "facet": "tense",
+        "tense": "Présent",
+        "target": "éprenons",
+        "persons": [
+          "nous"
+        ]
+      },
+      {
+        "key": "t|Présent|3",
+        "facet": "tense",
+        "tense": "Présent",
+        "target": "éprenez",
+        "persons": [
+          "vous"
+        ]
+      },
+      {
+        "key": "t|Présent|4",
+        "facet": "tense",
+        "tense": "Présent",
+        "target": "éprennent",
+        "persons": [
+          "ils/elles"
+        ]
+      },
+      {
+        "key": "t|Passé composé|0",
+        "facet": "tense",
+        "tense": "Passé composé",
+        "target": "ai épris",
+        "persons": [
+          "je/j'"
+        ]
+      },
+      {
+        "key": "t|Passé composé|1",
+        "facet": "tense",
+        "tense": "Passé composé",
+        "target": "as épris",
+        "persons": [
+          "tu"
+        ]
+      },
+      {
+        "key": "t|Passé composé|2",
+        "facet": "tense",
+        "tense": "Passé composé",
+        "target": "a épris",
+        "persons": [
+          "il/elle/on"
+        ]
+      },
+      {
+        "key": "t|Passé composé|3",
+        "facet": "tense",
+        "tense": "Passé composé",
+        "target": "avons épris",
+        "persons": [
+          "nous"
+        ]
+      },
+      {
+        "key": "t|Passé composé|4",
+        "facet": "tense",
+        "tense": "Passé composé",
+        "target": "avez épris",
+        "persons": [
+          "vous"
+        ]
+      },
+      {
+        "key": "t|Passé composé|5",
+        "facet": "tense",
+        "tense": "Passé composé",
+        "target": "ont épris",
+        "persons": [
+          "ils/elles"
+        ]
+      },
+      {
+        "key": "t|Imparfait|0",
+        "facet": "tense",
+        "tense": "Imparfait",
+        "target": "éprenais",
+        "persons": [
+          "je/j'",
+          "tu"
+        ]
+      },
+      {
+        "key": "t|Imparfait|1",
+        "facet": "tense",
+        "tense": "Imparfait",
+        "target": "éprenait",
+        "persons": [
+          "il/elle/on"
+        ]
+      },
+      {
+        "key": "t|Imparfait|2",
+        "facet": "tense",
+        "tense": "Imparfait",
+        "target": "éprenions",
+        "persons": [
+          "nous"
+        ]
+      },
+      {
+        "key": "t|Imparfait|3",
+        "facet": "tense",
+        "tense": "Imparfait",
+        "target": "épreniez",
+        "persons": [
+          "vous"
+        ]
+      },
+      {
+        "key": "t|Imparfait|4",
+        "facet": "tense",
+        "tense": "Imparfait",
+        "target": "éprenaient",
+        "persons": [
+          "ils/elles"
+        ]
+      },
+      {
+        "key": "t|Futur|0",
+        "facet": "tense",
+        "tense": "Futur",
+        "target": "éprendrai",
+        "persons": [
+          "je/j'"
+        ]
+      },
+      {
+        "key": "t|Futur|1",
+        "facet": "tense",
+        "tense": "Futur",
+        "target": "éprendras",
+        "persons": [
+          "tu"
+        ]
+      },
+      {
+        "key": "t|Futur|2",
+        "facet": "tense",
+        "tense": "Futur",
+        "target": "éprendra",
+        "persons": [
+          "il/elle/on"
+        ]
+      },
+      {
+        "key": "t|Futur|3",
+        "facet": "tense",
+        "tense": "Futur",
+        "target": "éprendrons",
+        "persons": [
+          "nous"
+        ]
+      },
+      {
+        "key": "t|Futur|4",
+        "facet": "tense",
+        "tense": "Futur",
+        "target": "éprendrez",
+        "persons": [
+          "vous"
+        ]
+      },
+      {
+        "key": "t|Futur|5",
+        "facet": "tense",
+        "tense": "Futur",
+        "target": "éprendront",
+        "persons": [
+          "ils/elles"
+        ]
+      },
+      {
+        "key": "t|Conditionnel|0",
+        "facet": "tense",
+        "tense": "Conditionnel",
+        "target": "éprendrais",
+        "persons": [
+          "je/j'",
+          "tu"
+        ]
+      },
+      {
+        "key": "t|Conditionnel|1",
+        "facet": "tense",
+        "tense": "Conditionnel",
+        "target": "éprendrait",
+        "persons": [
+          "il/elle/on"
+        ]
+      },
+      {
+        "key": "t|Conditionnel|2",
+        "facet": "tense",
+        "tense": "Conditionnel",
+        "target": "éprendrions",
+        "persons": [
+          "nous"
+        ]
+      },
+      {
+        "key": "t|Conditionnel|3",
+        "facet": "tense",
+        "tense": "Conditionnel",
+        "target": "éprendriez",
+        "persons": [
+          "vous"
+        ]
+      },
+      {
+        "key": "t|Conditionnel|4",
+        "facet": "tense",
+        "tense": "Conditionnel",
+        "target": "éprendraient",
+        "persons": [
+          "ils/elles"
+        ]
+      },
+      {
+        "key": "t|Subjonctif",
+        "facet": "subj",
+        "tense": "Subjonctif"
+      },
+      {
+        "key": "s|0",
+        "facet": "sense",
+        "sense_zh": "爱上"
+      },
+      {
+        "key": "s|1",
+        "facet": "sense",
+        "sense_zh": "迷恋"
+      }
+    ]
+  },
+  {
+    "id": 7143,
+    "fr": "livide",
+    "pos": "adj",
+    "gender": null,
+    "en": "livid; pale, ashen; black-and-blue",
+    "zh": "惨白的；青灰色的；暴怒的（脸色）",
+    "slots": [
+      {
+        "key": "s|0",
+        "facet": "sense",
+        "sense_zh": "惨白的"
+      },
+      {
+        "key": "s|1",
+        "facet": "sense",
+        "sense_zh": "青灰色的"
+      },
+      {
+        "key": "s|2",
+        "facet": "sense",
+        "sense_zh": "暴怒的（脸色）"
+      },
+      {
+        "key": "g|mp",
+        "facet": "agree",
+        "gender": "mp",
+        "label": "阳性复数"
+      },
+      {
+        "key": "g|f",
+        "facet": "agree",
+        "gender": "f",
+        "label": "阴性单数"
+      },
+      {
+        "key": "g|fp",
+        "facet": "agree",
+        "gender": "fp",
+        "label": "阴性复数"
+      }
+    ]
+  },
+  {
+    "id": 7144,
+    "fr": "girofle",
+    "pos": "noun",
+    "gender": "m",
+    "en": "clove (spice)",
+    "zh": "丁香（香料）",
+    "slots": [
+      {
+        "key": "s|0",
+        "facet": "sense",
+        "sense_zh": "丁香（香料）"
+      },
+      {
+        "key": "gender",
+        "facet": "gender",
+        "gender": "m"
+      }
+    ]
+  }
+]

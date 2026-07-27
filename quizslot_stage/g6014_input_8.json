@@ -1,0 +1,1606 @@
+[
+  {
+    "id": 7595,
+    "fr": "pourpre",
+    "pos": "noun",
+    "gender": "m",
+    "en": "purple, crimson, imperial purple (dye or color)",
+    "zh": "紫红色，深红色，帝王紫（染料或颜色）",
+    "slots": [
+      {
+        "key": "s|0",
+        "facet": "sense",
+        "sense_zh": "紫红色，深红色，帝王紫（染料或颜色）"
+      },
+      {
+        "key": "gender",
+        "facet": "gender",
+        "gender": "m"
+      }
+    ]
+  },
+  {
+    "id": 7596,
+    "fr": "poussiéreux",
+    "pos": "adj",
+    "gender": null,
+    "en": "dusty, covered with dust",
+    "zh": "布满灰尘的，积满尘土的",
+    "slots": [
+      {
+        "key": "s|0",
+        "facet": "sense",
+        "sense_zh": "布满灰尘的，积满尘土的"
+      },
+      {
+        "key": "g|mp",
+        "facet": "agree",
+        "gender": "mp",
+        "label": "阳性复数"
+      },
+      {
+        "key": "g|f",
+        "facet": "agree",
+        "gender": "f",
+        "label": "阴性单数"
+      },
+      {
+        "key": "g|fp",
+        "facet": "agree",
+        "gender": "fp",
+        "label": "阴性复数"
+      }
+    ]
+  },
+  {
+    "id": 7597,
+    "fr": "sacoche",
+    "pos": "noun",
+    "gender": "f",
+    "en": "bag, satchel, pouch",
+    "zh": "挎包，小袋，工具包",
+    "slots": [
+      {
+        "key": "s|0",
+        "facet": "sense",
+        "sense_zh": "挎包，小袋，工具包"
+      },
+      {
+        "key": "gender",
+        "facet": "gender",
+        "gender": "f"
+      }
+    ]
+  },
+  {
+    "id": 7598,
+    "fr": "échoppe",
+    "pos": "noun",
+    "gender": "f",
+    "en": "small shop, booth, workshop",
+    "zh": "小店铺，摊位，作坊",
+    "slots": [
+      {
+        "key": "s|0",
+        "facet": "sense",
+        "sense_zh": "小店铺，摊位，作坊"
+      },
+      {
+        "key": "gender",
+        "facet": "gender",
+        "gender": "f"
+      }
+    ]
+  },
+  {
+    "id": 7599,
+    "fr": "honnêtement",
+    "pos": "adv",
+    "gender": null,
+    "en": "honestly, fairly, frankly",
+    "zh": "诚实地，公正地，坦率地",
+    "slots": [
+      {
+        "key": "s|0",
+        "facet": "sense",
+        "sense_zh": "诚实地，公正地，坦率地"
+      }
+    ]
+  },
+  {
+    "id": 7600,
+    "fr": "dégainer",
+    "pos": "verb",
+    "gender": null,
+    "en": "to draw (a weapon), to unsheathe",
+    "zh": "拔（刀、剑等武器），出鞘",
+    "slots": [
+      {
+        "key": "t|Présent|0",
+        "facet": "tense",
+        "tense": "Présent",
+        "target": "dégaine",
+        "persons": [
+          "je/j'",
+          "il/elle/on"
+        ]
+      },
+      {
+        "key": "t|Présent|1",
+        "facet": "tense",
+        "tense": "Présent",
+        "target": "dégaines",
+        "persons": [
+          "tu"
+        ]
+      },
+      {
+        "key": "t|Présent|2",
+        "facet": "tense",
+        "tense": "Présent",
+        "target": "dégainons",
+        "persons": [
+          "nous"
+        ]
+      },
+      {
+        "key": "t|Présent|3",
+        "facet": "tense",
+        "tense": "Présent",
+        "target": "dégainez",
+        "persons": [
+          "vous"
+        ]
+      },
+      {
+        "key": "t|Présent|4",
+        "facet": "tense",
+        "tense": "Présent",
+        "target": "dégainent",
+        "persons": [
+          "ils/elles"
+        ]
+      },
+      {
+        "key": "t|Passé composé|0",
+        "facet": "tense",
+        "tense": "Passé composé",
+        "target": "ai dégainé",
+        "persons": [
+          "je/j'"
+        ]
+      },
+      {
+        "key": "t|Passé composé|1",
+        "facet": "tense",
+        "tense": "Passé composé",
+        "target": "as dégainé",
+        "persons": [
+          "tu"
+        ]
+      },
+      {
+        "key": "t|Passé composé|2",
+        "facet": "tense",
+        "tense": "Passé composé",
+        "target": "a dégainé",
+        "persons": [
+          "il/elle/on"
+        ]
+      },
+      {
+        "key": "t|Passé composé|3",
+        "facet": "tense",
+        "tense": "Passé composé",
+        "target": "avons dégainé",
+        "persons": [
+          "nous"
+        ]
+      },
+      {
+        "key": "t|Passé composé|4",
+        "facet": "tense",
+        "tense": "Passé composé",
+        "target": "avez dégainé",
+        "persons": [
+          "vous"
+        ]
+      },
+      {
+        "key": "t|Passé composé|5",
+        "facet": "tense",
+        "tense": "Passé composé",
+        "target": "ont dégainé",
+        "persons": [
+          "ils/elles"
+        ]
+      },
+      {
+        "key": "t|Imparfait|0",
+        "facet": "tense",
+        "tense": "Imparfait",
+        "target": "dégainais",
+        "persons": [
+          "je/j'",
+          "tu"
+        ]
+      },
+      {
+        "key": "t|Imparfait|1",
+        "facet": "tense",
+        "tense": "Imparfait",
+        "target": "dégainait",
+        "persons": [
+          "il/elle/on"
+        ]
+      },
+      {
+        "key": "t|Imparfait|2",
+        "facet": "tense",
+        "tense": "Imparfait",
+        "target": "dégainions",
+        "persons": [
+          "nous"
+        ]
+      },
+      {
+        "key": "t|Imparfait|3",
+        "facet": "tense",
+        "tense": "Imparfait",
+        "target": "dégainiez",
+        "persons": [
+          "vous"
+        ]
+      },
+      {
+        "key": "t|Imparfait|4",
+        "facet": "tense",
+        "tense": "Imparfait",
+        "target": "dégainaient",
+        "persons": [
+          "ils/elles"
+        ]
+      },
+      {
+        "key": "t|Futur|0",
+        "facet": "tense",
+        "tense": "Futur",
+        "target": "dégainerai",
+        "persons": [
+          "je/j'"
+        ]
+      },
+      {
+        "key": "t|Futur|1",
+        "facet": "tense",
+        "tense": "Futur",
+        "target": "dégaineras",
+        "persons": [
+          "tu"
+        ]
+      },
+      {
+        "key": "t|Futur|2",
+        "facet": "tense",
+        "tense": "Futur",
+        "target": "dégainera",
+        "persons": [
+          "il/elle/on"
+        ]
+      },
+      {
+        "key": "t|Futur|3",
+        "facet": "tense",
+        "tense": "Futur",
+        "target": "dégainerons",
+        "persons": [
+          "nous"
+        ]
+      },
+      {
+        "key": "t|Futur|4",
+        "facet": "tense",
+        "tense": "Futur",
+        "target": "dégainerez",
+        "persons": [
+          "vous"
+        ]
+      },
+      {
+        "key": "t|Futur|5",
+        "facet": "tense",
+        "tense": "Futur",
+        "target": "dégaineront",
+        "persons": [
+          "ils/elles"
+        ]
+      },
+      {
+        "key": "t|Conditionnel|0",
+        "facet": "tense",
+        "tense": "Conditionnel",
+        "target": "dégainerais",
+        "persons": [
+          "je/j'",
+          "tu"
+        ]
+      },
+      {
+        "key": "t|Conditionnel|1",
+        "facet": "tense",
+        "tense": "Conditionnel",
+        "target": "dégainerait",
+        "persons": [
+          "il/elle/on"
+        ]
+      },
+      {
+        "key": "t|Conditionnel|2",
+        "facet": "tense",
+        "tense": "Conditionnel",
+        "target": "dégainerions",
+        "persons": [
+          "nous"
+        ]
+      },
+      {
+        "key": "t|Conditionnel|3",
+        "facet": "tense",
+        "tense": "Conditionnel",
+        "target": "dégaineriez",
+        "persons": [
+          "vous"
+        ]
+      },
+      {
+        "key": "t|Conditionnel|4",
+        "facet": "tense",
+        "tense": "Conditionnel",
+        "target": "dégaineraient",
+        "persons": [
+          "ils/elles"
+        ]
+      },
+      {
+        "key": "t|Subjonctif",
+        "facet": "subj",
+        "tense": "Subjonctif"
+      },
+      {
+        "key": "s|0",
+        "facet": "sense",
+        "sense_zh": "拔（刀"
+      },
+      {
+        "key": "s|1",
+        "facet": "sense",
+        "sense_zh": "剑等武器），出鞘"
+      }
+    ]
+  },
+  {
+    "id": 7601,
+    "fr": "maladresse",
+    "pos": "noun",
+    "gender": "f",
+    "en": "clumsiness, awkwardness, tactlessness",
+    "zh": "笨拙，不灵巧；不得体",
+    "slots": [
+      {
+        "key": "s|0",
+        "facet": "sense",
+        "sense_zh": "笨拙，不灵巧"
+      },
+      {
+        "key": "s|1",
+        "facet": "sense",
+        "sense_zh": "不得体"
+      },
+      {
+        "key": "gender",
+        "facet": "gender",
+        "gender": "f"
+      }
+    ]
+  },
+  {
+    "id": 7602,
+    "fr": "arsenal",
+    "pos": "noun",
+    "gender": "m",
+    "en": "arsenal, armory, dockyard",
+    "zh": "兵工厂，军火库，造船厂",
+    "slots": [
+      {
+        "key": "s|0",
+        "facet": "sense",
+        "sense_zh": "兵工厂，军火库，造船厂"
+      },
+      {
+        "key": "gender",
+        "facet": "gender",
+        "gender": "m"
+      }
+    ]
+  },
+  {
+    "id": 7603,
+    "fr": "monoxyde",
+    "pos": "noun",
+    "gender": "m",
+    "en": "monoxide",
+    "zh": "一氧化碳；一氧化物",
+    "slots": [
+      {
+        "key": "s|0",
+        "facet": "sense",
+        "sense_zh": "一氧化碳"
+      },
+      {
+        "key": "s|1",
+        "facet": "sense",
+        "sense_zh": "一氧化物"
+      },
+      {
+        "key": "gender",
+        "facet": "gender",
+        "gender": "m"
+      }
+    ]
+  },
+  {
+    "id": 7604,
+    "fr": "pascal",
+    "pos": "adj",
+    "gender": null,
+    "en": "Pascal, Paschal (relating to Easter); (physics) pascal (unit of pressure)",
+    "zh": "复活节的，帕斯卡的；压强单位帕斯卡的",
+    "slots": [
+      {
+        "key": "s|0",
+        "facet": "sense",
+        "sense_zh": "复活节的，帕斯卡的"
+      },
+      {
+        "key": "s|1",
+        "facet": "sense",
+        "sense_zh": "压强单位帕斯卡的"
+      },
+      {
+        "key": "g|mp",
+        "facet": "agree",
+        "gender": "mp",
+        "label": "阳性复数"
+      },
+      {
+        "key": "g|f",
+        "facet": "agree",
+        "gender": "f",
+        "label": "阴性单数"
+      },
+      {
+        "key": "g|fp",
+        "facet": "agree",
+        "gender": "fp",
+        "label": "阴性复数"
+      }
+    ]
+  },
+  {
+    "id": 7605,
+    "fr": "pressoir",
+    "pos": "noun",
+    "gender": "m",
+    "en": "press (for grapes, olives, etc.)",
+    "zh": "压榨机，榨汁机（用于葡萄、橄榄等）",
+    "slots": [
+      {
+        "key": "s|0",
+        "facet": "sense",
+        "sense_zh": "压榨机，榨汁机（用于葡萄"
+      },
+      {
+        "key": "s|1",
+        "facet": "sense",
+        "sense_zh": "橄榄等）"
+      },
+      {
+        "key": "gender",
+        "facet": "gender",
+        "gender": "m"
+      }
+    ]
+  },
+  {
+    "id": 7606,
+    "fr": "pérenne",
+    "pos": "adj",
+    "gender": null,
+    "en": "perennial, lasting, enduring, sustainable",
+    "zh": "持久的，长期的，多年生的",
+    "slots": [
+      {
+        "key": "s|0",
+        "facet": "sense",
+        "sense_zh": "持久的，长期的，多年生的"
+      },
+      {
+        "key": "g|mp",
+        "facet": "agree",
+        "gender": "mp",
+        "label": "阳性复数"
+      },
+      {
+        "key": "g|f",
+        "facet": "agree",
+        "gender": "f",
+        "label": "阴性单数"
+      },
+      {
+        "key": "g|fp",
+        "facet": "agree",
+        "gender": "fp",
+        "label": "阴性复数"
+      }
+    ]
+  },
+  {
+    "id": 7607,
+    "fr": "édification",
+    "pos": "noun",
+    "gender": "f",
+    "en": "edification, construction; moral improvement",
+    "zh": "建造，建设；道德教化，启迪",
+    "slots": [
+      {
+        "key": "s|0",
+        "facet": "sense",
+        "sense_zh": "建造，建设"
+      },
+      {
+        "key": "s|1",
+        "facet": "sense",
+        "sense_zh": "道德教化，启迪"
+      },
+      {
+        "key": "gender",
+        "facet": "gender",
+        "gender": "f"
+      }
+    ]
+  },
+  {
+    "id": 7608,
+    "fr": "avant-bras",
+    "pos": "noun",
+    "gender": "m",
+    "en": "forearm",
+    "zh": "前臂",
+    "slots": [
+      {
+        "key": "s|0",
+        "facet": "sense",
+        "sense_zh": "前臂"
+      },
+      {
+        "key": "gender",
+        "facet": "gender",
+        "gender": "m"
+      }
+    ]
+  },
+  {
+    "id": 7609,
+    "fr": "banalisation",
+    "pos": "noun",
+    "gender": "f",
+    "en": "trivialization, normalization, making commonplace",
+    "zh": "平庸化，淡化；常态化",
+    "slots": [
+      {
+        "key": "s|0",
+        "facet": "sense",
+        "sense_zh": "平庸化，淡化"
+      },
+      {
+        "key": "s|1",
+        "facet": "sense",
+        "sense_zh": "常态化"
+      },
+      {
+        "key": "gender",
+        "facet": "gender",
+        "gender": "f"
+      }
+    ]
+  },
+  {
+    "id": 7610,
+    "fr": "brimade",
+    "pos": "noun",
+    "gender": "f",
+    "en": "bullying, hazing, teasing, mockery",
+    "zh": "欺负，捉弄，恶作剧式的羞辱",
+    "slots": [
+      {
+        "key": "s|0",
+        "facet": "sense",
+        "sense_zh": "欺负，捉弄，恶作剧式的羞辱"
+      },
+      {
+        "key": "gender",
+        "facet": "gender",
+        "gender": "f"
+      }
+    ]
+  },
+  {
+    "id": 7611,
+    "fr": "congélateur",
+    "pos": "noun",
+    "gender": "m",
+    "en": "freezer",
+    "zh": "冰柜，冷冻室",
+    "slots": [
+      {
+        "key": "s|0",
+        "facet": "sense",
+        "sense_zh": "冰柜，冷冻室"
+      },
+      {
+        "key": "gender",
+        "facet": "gender",
+        "gender": "m"
+      }
+    ]
+  },
+  {
+    "id": 7612,
+    "fr": "cube",
+    "pos": "noun",
+    "gender": "m",
+    "en": "cube; (culinary) cube, dice",
+    "zh": "立方体；方块，小方块",
+    "slots": [
+      {
+        "key": "s|0",
+        "facet": "sense",
+        "sense_zh": "立方体"
+      },
+      {
+        "key": "s|1",
+        "facet": "sense",
+        "sense_zh": "方块，小方块"
+      },
+      {
+        "key": "gender",
+        "facet": "gender",
+        "gender": "m"
+      }
+    ]
+  },
+  {
+    "id": 7613,
+    "fr": "curseur",
+    "pos": "noun",
+    "gender": "m",
+    "en": "cursor, slider, pointer",
+    "zh": "光标，游标；滑块",
+    "slots": [
+      {
+        "key": "s|0",
+        "facet": "sense",
+        "sense_zh": "光标，游标"
+      },
+      {
+        "key": "s|1",
+        "facet": "sense",
+        "sense_zh": "滑块"
+      },
+      {
+        "key": "gender",
+        "facet": "gender",
+        "gender": "m"
+      }
+    ]
+  },
+  {
+    "id": 7614,
+    "fr": "dédaigner",
+    "pos": "verb",
+    "gender": null,
+    "en": "to disdain, to scorn, to look down on",
+    "zh": "蔑视，鄙视，不屑",
+    "slots": [
+      {
+        "key": "t|Présent|0",
+        "facet": "tense",
+        "tense": "Présent",
+        "target": "dédaigne",
+        "persons": [
+          "je/j'",
+          "il/elle/on"
+        ]
+      },
+      {
+        "key": "t|Présent|1",
+        "facet": "tense",
+        "tense": "Présent",
+        "target": "dédaignes",
+        "persons": [
+          "tu"
+        ]
+      },
+      {
+        "key": "t|Présent|2",
+        "facet": "tense",
+        "tense": "Présent",
+        "target": "dédaignons",
+        "persons": [
+          "nous"
+        ]
+      },
+      {
+        "key": "t|Présent|3",
+        "facet": "tense",
+        "tense": "Présent",
+        "target": "dédaignez",
+        "persons": [
+          "vous"
+        ]
+      },
+      {
+        "key": "t|Présent|4",
+        "facet": "tense",
+        "tense": "Présent",
+        "target": "dédaignent",
+        "persons": [
+          "ils/elles"
+        ]
+      },
+      {
+        "key": "t|Passé composé|0",
+        "facet": "tense",
+        "tense": "Passé composé",
+        "target": "ai dédaigné",
+        "persons": [
+          "je/j'"
+        ]
+      },
+      {
+        "key": "t|Passé composé|1",
+        "facet": "tense",
+        "tense": "Passé composé",
+        "target": "as dédaigné",
+        "persons": [
+          "tu"
+        ]
+      },
+      {
+        "key": "t|Passé composé|2",
+        "facet": "tense",
+        "tense": "Passé composé",
+        "target": "a dédaigné",
+        "persons": [
+          "il/elle/on"
+        ]
+      },
+      {
+        "key": "t|Passé composé|3",
+        "facet": "tense",
+        "tense": "Passé composé",
+        "target": "avons dédaigné",
+        "persons": [
+          "nous"
+        ]
+      },
+      {
+        "key": "t|Passé composé|4",
+        "facet": "tense",
+        "tense": "Passé composé",
+        "target": "avez dédaigné",
+        "persons": [
+          "vous"
+        ]
+      },
+      {
+        "key": "t|Passé composé|5",
+        "facet": "tense",
+        "tense": "Passé composé",
+        "target": "ont dédaigné",
+        "persons": [
+          "ils/elles"
+        ]
+      },
+      {
+        "key": "t|Imparfait|0",
+        "facet": "tense",
+        "tense": "Imparfait",
+        "target": "dédaignais",
+        "persons": [
+          "je/j'",
+          "tu"
+        ]
+      },
+      {
+        "key": "t|Imparfait|1",
+        "facet": "tense",
+        "tense": "Imparfait",
+        "target": "dédaignait",
+        "persons": [
+          "il/elle/on"
+        ]
+      },
+      {
+        "key": "t|Imparfait|2",
+        "facet": "tense",
+        "tense": "Imparfait",
+        "target": "dédaignions",
+        "persons": [
+          "nous"
+        ]
+      },
+      {
+        "key": "t|Imparfait|3",
+        "facet": "tense",
+        "tense": "Imparfait",
+        "target": "dédaigniez",
+        "persons": [
+          "vous"
+        ]
+      },
+      {
+        "key": "t|Imparfait|4",
+        "facet": "tense",
+        "tense": "Imparfait",
+        "target": "dédaignaient",
+        "persons": [
+          "ils/elles"
+        ]
+      },
+      {
+        "key": "t|Futur|0",
+        "facet": "tense",
+        "tense": "Futur",
+        "target": "dédaignerai",
+        "persons": [
+          "je/j'"
+        ]
+      },
+      {
+        "key": "t|Futur|1",
+        "facet": "tense",
+        "tense": "Futur",
+        "target": "dédaigneras",
+        "persons": [
+          "tu"
+        ]
+      },
+      {
+        "key": "t|Futur|2",
+        "facet": "tense",
+        "tense": "Futur",
+        "target": "dédaignera",
+        "persons": [
+          "il/elle/on"
+        ]
+      },
+      {
+        "key": "t|Futur|3",
+        "facet": "tense",
+        "tense": "Futur",
+        "target": "dédaignerons",
+        "persons": [
+          "nous"
+        ]
+      },
+      {
+        "key": "t|Futur|4",
+        "facet": "tense",
+        "tense": "Futur",
+        "target": "dédaignerez",
+        "persons": [
+          "vous"
+        ]
+      },
+      {
+        "key": "t|Futur|5",
+        "facet": "tense",
+        "tense": "Futur",
+        "target": "dédaigneront",
+        "persons": [
+          "ils/elles"
+        ]
+      },
+      {
+        "key": "t|Conditionnel|0",
+        "facet": "tense",
+        "tense": "Conditionnel",
+        "target": "dédaignerais",
+        "persons": [
+          "je/j'",
+          "tu"
+        ]
+      },
+      {
+        "key": "t|Conditionnel|1",
+        "facet": "tense",
+        "tense": "Conditionnel",
+        "target": "dédaignerait",
+        "persons": [
+          "il/elle/on"
+        ]
+      },
+      {
+        "key": "t|Conditionnel|2",
+        "facet": "tense",
+        "tense": "Conditionnel",
+        "target": "dédaignerions",
+        "persons": [
+          "nous"
+        ]
+      },
+      {
+        "key": "t|Conditionnel|3",
+        "facet": "tense",
+        "tense": "Conditionnel",
+        "target": "dédaigneriez",
+        "persons": [
+          "vous"
+        ]
+      },
+      {
+        "key": "t|Conditionnel|4",
+        "facet": "tense",
+        "tense": "Conditionnel",
+        "target": "dédaigneraient",
+        "persons": [
+          "ils/elles"
+        ]
+      },
+      {
+        "key": "t|Subjonctif",
+        "facet": "subj",
+        "tense": "Subjonctif"
+      },
+      {
+        "key": "s|0",
+        "facet": "sense",
+        "sense_zh": "蔑视，鄙视，不屑"
+      }
+    ]
+  },
+  {
+    "id": 7615,
+    "fr": "dégradant",
+    "pos": "adj",
+    "gender": null,
+    "en": "degrading, humiliating, demeaning",
+    "zh": "有辱人格的，贬低的，堕落的",
+    "slots": [
+      {
+        "key": "s|0",
+        "facet": "sense",
+        "sense_zh": "有辱人格的，贬低的，堕落的"
+      },
+      {
+        "key": "g|mp",
+        "facet": "agree",
+        "gender": "mp",
+        "label": "阳性复数"
+      },
+      {
+        "key": "g|f",
+        "facet": "agree",
+        "gender": "f",
+        "label": "阴性单数"
+      },
+      {
+        "key": "g|fp",
+        "facet": "agree",
+        "gender": "fp",
+        "label": "阴性复数"
+      }
+    ]
+  },
+  {
+    "id": 7616,
+    "fr": "enraciner",
+    "pos": "verb",
+    "gender": null,
+    "en": "to root, to establish firmly, to take root",
+    "zh": "使生根，使扎根；使根深蒂固",
+    "slots": [
+      {
+        "key": "t|Présent|0",
+        "facet": "tense",
+        "tense": "Présent",
+        "target": "enracine",
+        "persons": [
+          "je/j'",
+          "il/elle/on"
+        ]
+      },
+      {
+        "key": "t|Présent|1",
+        "facet": "tense",
+        "tense": "Présent",
+        "target": "enracines",
+        "persons": [
+          "tu"
+        ]
+      },
+      {
+        "key": "t|Présent|2",
+        "facet": "tense",
+        "tense": "Présent",
+        "target": "enracinons",
+        "persons": [
+          "nous"
+        ]
+      },
+      {
+        "key": "t|Présent|3",
+        "facet": "tense",
+        "tense": "Présent",
+        "target": "enracinez",
+        "persons": [
+          "vous"
+        ]
+      },
+      {
+        "key": "t|Présent|4",
+        "facet": "tense",
+        "tense": "Présent",
+        "target": "enracinent",
+        "persons": [
+          "ils/elles"
+        ]
+      },
+      {
+        "key": "t|Passé composé|0",
+        "facet": "tense",
+        "tense": "Passé composé",
+        "target": "ai enraciné",
+        "persons": [
+          "je/j'"
+        ]
+      },
+      {
+        "key": "t|Passé composé|1",
+        "facet": "tense",
+        "tense": "Passé composé",
+        "target": "as enraciné",
+        "persons": [
+          "tu"
+        ]
+      },
+      {
+        "key": "t|Passé composé|2",
+        "facet": "tense",
+        "tense": "Passé composé",
+        "target": "a enraciné",
+        "persons": [
+          "il/elle/on"
+        ]
+      },
+      {
+        "key": "t|Passé composé|3",
+        "facet": "tense",
+        "tense": "Passé composé",
+        "target": "avons enraciné",
+        "persons": [
+          "nous"
+        ]
+      },
+      {
+        "key": "t|Passé composé|4",
+        "facet": "tense",
+        "tense": "Passé composé",
+        "target": "avez enraciné",
+        "persons": [
+          "vous"
+        ]
+      },
+      {
+        "key": "t|Passé composé|5",
+        "facet": "tense",
+        "tense": "Passé composé",
+        "target": "ont enraciné",
+        "persons": [
+          "ils/elles"
+        ]
+      },
+      {
+        "key": "t|Imparfait|0",
+        "facet": "tense",
+        "tense": "Imparfait",
+        "target": "enracinais",
+        "persons": [
+          "je/j'",
+          "tu"
+        ]
+      },
+      {
+        "key": "t|Imparfait|1",
+        "facet": "tense",
+        "tense": "Imparfait",
+        "target": "enracinait",
+        "persons": [
+          "il/elle/on"
+        ]
+      },
+      {
+        "key": "t|Imparfait|2",
+        "facet": "tense",
+        "tense": "Imparfait",
+        "target": "enracinions",
+        "persons": [
+          "nous"
+        ]
+      },
+      {
+        "key": "t|Imparfait|3",
+        "facet": "tense",
+        "tense": "Imparfait",
+        "target": "enraciniez",
+        "persons": [
+          "vous"
+        ]
+      },
+      {
+        "key": "t|Imparfait|4",
+        "facet": "tense",
+        "tense": "Imparfait",
+        "target": "enracinaient",
+        "persons": [
+          "ils/elles"
+        ]
+      },
+      {
+        "key": "t|Futur|0",
+        "facet": "tense",
+        "tense": "Futur",
+        "target": "enracinerai",
+        "persons": [
+          "je/j'"
+        ]
+      },
+      {
+        "key": "t|Futur|1",
+        "facet": "tense",
+        "tense": "Futur",
+        "target": "enracineras",
+        "persons": [
+          "tu"
+        ]
+      },
+      {
+        "key": "t|Futur|2",
+        "facet": "tense",
+        "tense": "Futur",
+        "target": "enracinera",
+        "persons": [
+          "il/elle/on"
+        ]
+      },
+      {
+        "key": "t|Futur|3",
+        "facet": "tense",
+        "tense": "Futur",
+        "target": "enracinerons",
+        "persons": [
+          "nous"
+        ]
+      },
+      {
+        "key": "t|Futur|4",
+        "facet": "tense",
+        "tense": "Futur",
+        "target": "enracinerez",
+        "persons": [
+          "vous"
+        ]
+      },
+      {
+        "key": "t|Futur|5",
+        "facet": "tense",
+        "tense": "Futur",
+        "target": "enracineront",
+        "persons": [
+          "ils/elles"
+        ]
+      },
+      {
+        "key": "t|Conditionnel|0",
+        "facet": "tense",
+        "tense": "Conditionnel",
+        "target": "enracinerais",
+        "persons": [
+          "je/j'",
+          "tu"
+        ]
+      },
+      {
+        "key": "t|Conditionnel|1",
+        "facet": "tense",
+        "tense": "Conditionnel",
+        "target": "enracinerait",
+        "persons": [
+          "il/elle/on"
+        ]
+      },
+      {
+        "key": "t|Conditionnel|2",
+        "facet": "tense",
+        "tense": "Conditionnel",
+        "target": "enracinerions",
+        "persons": [
+          "nous"
+        ]
+      },
+      {
+        "key": "t|Conditionnel|3",
+        "facet": "tense",
+        "tense": "Conditionnel",
+        "target": "enracineriez",
+        "persons": [
+          "vous"
+        ]
+      },
+      {
+        "key": "t|Conditionnel|4",
+        "facet": "tense",
+        "tense": "Conditionnel",
+        "target": "enracineraient",
+        "persons": [
+          "ils/elles"
+        ]
+      },
+      {
+        "key": "t|Subjonctif",
+        "facet": "subj",
+        "tense": "Subjonctif"
+      },
+      {
+        "key": "s|0",
+        "facet": "sense",
+        "sense_zh": "使生根，使扎根"
+      },
+      {
+        "key": "s|1",
+        "facet": "sense",
+        "sense_zh": "使根深蒂固"
+      }
+    ]
+  },
+  {
+    "id": 7617,
+    "fr": "expéditeur",
+    "pos": "noun",
+    "gender": "m",
+    "en": "sender (of a letter or package)",
+    "zh": "寄件人，发件人",
+    "slots": [
+      {
+        "key": "s|0",
+        "facet": "sense",
+        "sense_zh": "寄件人，发件人"
+      },
+      {
+        "key": "gender",
+        "facet": "gender",
+        "gender": "m"
+      }
+    ]
+  },
+  {
+    "id": 7618,
+    "fr": "femelle",
+    "pos": "adj",
+    "gender": null,
+    "en": "female (animal or plant); feminine",
+    "zh": "雌的，母的；女性的",
+    "slots": [
+      {
+        "key": "s|0",
+        "facet": "sense",
+        "sense_zh": "雌的，母的"
+      },
+      {
+        "key": "s|1",
+        "facet": "sense",
+        "sense_zh": "女性的"
+      },
+      {
+        "key": "g|mp",
+        "facet": "agree",
+        "gender": "mp",
+        "label": "阳性复数"
+      },
+      {
+        "key": "g|f",
+        "facet": "agree",
+        "gender": "f",
+        "label": "阴性单数"
+      },
+      {
+        "key": "g|fp",
+        "facet": "agree",
+        "gender": "fp",
+        "label": "阴性复数"
+      }
+    ]
+  },
+  {
+    "id": 7619,
+    "fr": "fruiter",
+    "pos": "verb",
+    "gender": null,
+    "en": "to bear fruit; (figurative) to yield results",
+    "zh": "结果实；取得成果",
+    "slots": [
+      {
+        "key": "t|Présent|0",
+        "facet": "tense",
+        "tense": "Présent",
+        "target": "fruite",
+        "persons": [
+          "je/j'",
+          "il/elle/on"
+        ]
+      },
+      {
+        "key": "t|Présent|1",
+        "facet": "tense",
+        "tense": "Présent",
+        "target": "fruites",
+        "persons": [
+          "tu"
+        ]
+      },
+      {
+        "key": "t|Présent|2",
+        "facet": "tense",
+        "tense": "Présent",
+        "target": "fruitons",
+        "persons": [
+          "nous"
+        ]
+      },
+      {
+        "key": "t|Présent|3",
+        "facet": "tense",
+        "tense": "Présent",
+        "target": "fruitez",
+        "persons": [
+          "vous"
+        ]
+      },
+      {
+        "key": "t|Présent|4",
+        "facet": "tense",
+        "tense": "Présent",
+        "target": "fruitent",
+        "persons": [
+          "ils/elles"
+        ]
+      },
+      {
+        "key": "t|Passé composé|0",
+        "facet": "tense",
+        "tense": "Passé composé",
+        "target": "ai fruité",
+        "persons": [
+          "je/j'"
+        ]
+      },
+      {
+        "key": "t|Passé composé|1",
+        "facet": "tense",
+        "tense": "Passé composé",
+        "target": "as fruité",
+        "persons": [
+          "tu"
+        ]
+      },
+      {
+        "key": "t|Passé composé|2",
+        "facet": "tense",
+        "tense": "Passé composé",
+        "target": "a fruité",
+        "persons": [
+          "il/elle/on"
+        ]
+      },
+      {
+        "key": "t|Passé composé|3",
+        "facet": "tense",
+        "tense": "Passé composé",
+        "target": "avons fruité",
+        "persons": [
+          "nous"
+        ]
+      },
+      {
+        "key": "t|Passé composé|4",
+        "facet": "tense",
+        "tense": "Passé composé",
+        "target": "avez fruité",
+        "persons": [
+          "vous"
+        ]
+      },
+      {
+        "key": "t|Passé composé|5",
+        "facet": "tense",
+        "tense": "Passé composé",
+        "target": "ont fruité",
+        "persons": [
+          "ils/elles"
+        ]
+      },
+      {
+        "key": "t|Imparfait|0",
+        "facet": "tense",
+        "tense": "Imparfait",
+        "target": "fruitais",
+        "persons": [
+          "je/j'",
+          "tu"
+        ]
+      },
+      {
+        "key": "t|Imparfait|1",
+        "facet": "tense",
+        "tense": "Imparfait",
+        "target": "fruitait",
+        "persons": [
+          "il/elle/on"
+        ]
+      },
+      {
+        "key": "t|Imparfait|2",
+        "facet": "tense",
+        "tense": "Imparfait",
+        "target": "fruitions",
+        "persons": [
+          "nous"
+        ]
+      },
+      {
+        "key": "t|Imparfait|3",
+        "facet": "tense",
+        "tense": "Imparfait",
+        "target": "fruitiez",
+        "persons": [
+          "vous"
+        ]
+      },
+      {
+        "key": "t|Imparfait|4",
+        "facet": "tense",
+        "tense": "Imparfait",
+        "target": "fruitaient",
+        "persons": [
+          "ils/elles"
+        ]
+      },
+      {
+        "key": "t|Futur|0",
+        "facet": "tense",
+        "tense": "Futur",
+        "target": "fruiterai",
+        "persons": [
+          "je/j'"
+        ]
+      },
+      {
+        "key": "t|Futur|1",
+        "facet": "tense",
+        "tense": "Futur",
+        "target": "fruiteras",
+        "persons": [
+          "tu"
+        ]
+      },
+      {
+        "key": "t|Futur|2",
+        "facet": "tense",
+        "tense": "Futur",
+        "target": "fruitera",
+        "persons": [
+          "il/elle/on"
+        ]
+      },
+      {
+        "key": "t|Futur|3",
+        "facet": "tense",
+        "tense": "Futur",
+        "target": "fruiterons",
+        "persons": [
+          "nous"
+        ]
+      },
+      {
+        "key": "t|Futur|4",
+        "facet": "tense",
+        "tense": "Futur",
+        "target": "fruiterez",
+        "persons": [
+          "vous"
+        ]
+      },
+      {
+        "key": "t|Futur|5",
+        "facet": "tense",
+        "tense": "Futur",
+        "target": "fruiteront",
+        "persons": [
+          "ils/elles"
+        ]
+      },
+      {
+        "key": "t|Conditionnel|0",
+        "facet": "tense",
+        "tense": "Conditionnel",
+        "target": "fruiterais",
+        "persons": [
+          "je/j'",
+          "tu"
+        ]
+      },
+      {
+        "key": "t|Conditionnel|1",
+        "facet": "tense",
+        "tense": "Conditionnel",
+        "target": "fruiterait",
+        "persons": [
+          "il/elle/on"
+        ]
+      },
+      {
+        "key": "t|Conditionnel|2",
+        "facet": "tense",
+        "tense": "Conditionnel",
+        "target": "fruiterions",
+        "persons": [
+          "nous"
+        ]
+      },
+      {
+        "key": "t|Conditionnel|3",
+        "facet": "tense",
+        "tense": "Conditionnel",
+        "target": "fruiteriez",
+        "persons": [
+          "vous"
+        ]
+      },
+      {
+        "key": "t|Conditionnel|4",
+        "facet": "tense",
+        "tense": "Conditionnel",
+        "target": "fruiteraient",
+        "persons": [
+          "ils/elles"
+        ]
+      },
+      {
+        "key": "t|Subjonctif",
+        "facet": "subj",
+        "tense": "Subjonctif"
+      },
+      {
+        "key": "s|0",
+        "facet": "sense",
+        "sense_zh": "结果实"
+      },
+      {
+        "key": "s|1",
+        "facet": "sense",
+        "sense_zh": "取得成果"
+      }
+    ]
+  }
+]

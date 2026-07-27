@@ -1,0 +1,1753 @@
+[
+  {
+    "id": 7370,
+    "fr": "carreler",
+    "pos": "verb",
+    "gender": null,
+    "en": "to tile",
+    "zh": "铺瓷砖；贴方砖",
+    "slots": [
+      {
+        "key": "t|Présent|0",
+        "facet": "tense",
+        "tense": "Présent",
+        "target": "carrelle",
+        "persons": [
+          "je/j'",
+          "il/elle/on"
+        ]
+      },
+      {
+        "key": "t|Présent|1",
+        "facet": "tense",
+        "tense": "Présent",
+        "target": "carrelles",
+        "persons": [
+          "tu"
+        ]
+      },
+      {
+        "key": "t|Présent|2",
+        "facet": "tense",
+        "tense": "Présent",
+        "target": "carrelons",
+        "persons": [
+          "nous"
+        ]
+      },
+      {
+        "key": "t|Présent|3",
+        "facet": "tense",
+        "tense": "Présent",
+        "target": "carrelez",
+        "persons": [
+          "vous"
+        ]
+      },
+      {
+        "key": "t|Présent|4",
+        "facet": "tense",
+        "tense": "Présent",
+        "target": "carrellent",
+        "persons": [
+          "ils/elles"
+        ]
+      },
+      {
+        "key": "t|Passé composé|0",
+        "facet": "tense",
+        "tense": "Passé composé",
+        "target": "ai carrelé",
+        "persons": [
+          "je/j'"
+        ]
+      },
+      {
+        "key": "t|Passé composé|1",
+        "facet": "tense",
+        "tense": "Passé composé",
+        "target": "as carrelé",
+        "persons": [
+          "tu"
+        ]
+      },
+      {
+        "key": "t|Passé composé|2",
+        "facet": "tense",
+        "tense": "Passé composé",
+        "target": "a carrelé",
+        "persons": [
+          "il/elle/on"
+        ]
+      },
+      {
+        "key": "t|Passé composé|3",
+        "facet": "tense",
+        "tense": "Passé composé",
+        "target": "avons carrelé",
+        "persons": [
+          "nous"
+        ]
+      },
+      {
+        "key": "t|Passé composé|4",
+        "facet": "tense",
+        "tense": "Passé composé",
+        "target": "avez carrelé",
+        "persons": [
+          "vous"
+        ]
+      },
+      {
+        "key": "t|Passé composé|5",
+        "facet": "tense",
+        "tense": "Passé composé",
+        "target": "ont carrelé",
+        "persons": [
+          "ils/elles"
+        ]
+      },
+      {
+        "key": "t|Imparfait|0",
+        "facet": "tense",
+        "tense": "Imparfait",
+        "target": "carrelais",
+        "persons": [
+          "je/j'",
+          "tu"
+        ]
+      },
+      {
+        "key": "t|Imparfait|1",
+        "facet": "tense",
+        "tense": "Imparfait",
+        "target": "carrelait",
+        "persons": [
+          "il/elle/on"
+        ]
+      },
+      {
+        "key": "t|Imparfait|2",
+        "facet": "tense",
+        "tense": "Imparfait",
+        "target": "carrelions",
+        "persons": [
+          "nous"
+        ]
+      },
+      {
+        "key": "t|Imparfait|3",
+        "facet": "tense",
+        "tense": "Imparfait",
+        "target": "carreliez",
+        "persons": [
+          "vous"
+        ]
+      },
+      {
+        "key": "t|Imparfait|4",
+        "facet": "tense",
+        "tense": "Imparfait",
+        "target": "carrelaient",
+        "persons": [
+          "ils/elles"
+        ]
+      },
+      {
+        "key": "t|Futur|0",
+        "facet": "tense",
+        "tense": "Futur",
+        "target": "carrellerai",
+        "persons": [
+          "je/j'"
+        ]
+      },
+      {
+        "key": "t|Futur|1",
+        "facet": "tense",
+        "tense": "Futur",
+        "target": "carrelleras",
+        "persons": [
+          "tu"
+        ]
+      },
+      {
+        "key": "t|Futur|2",
+        "facet": "tense",
+        "tense": "Futur",
+        "target": "carrellera",
+        "persons": [
+          "il/elle/on"
+        ]
+      },
+      {
+        "key": "t|Futur|3",
+        "facet": "tense",
+        "tense": "Futur",
+        "target": "carrellerons",
+        "persons": [
+          "nous"
+        ]
+      },
+      {
+        "key": "t|Futur|4",
+        "facet": "tense",
+        "tense": "Futur",
+        "target": "carrellerez",
+        "persons": [
+          "vous"
+        ]
+      },
+      {
+        "key": "t|Futur|5",
+        "facet": "tense",
+        "tense": "Futur",
+        "target": "carrelleront",
+        "persons": [
+          "ils/elles"
+        ]
+      },
+      {
+        "key": "t|Conditionnel|0",
+        "facet": "tense",
+        "tense": "Conditionnel",
+        "target": "carrellerais",
+        "persons": [
+          "je/j'",
+          "tu"
+        ]
+      },
+      {
+        "key": "t|Conditionnel|1",
+        "facet": "tense",
+        "tense": "Conditionnel",
+        "target": "carrellerait",
+        "persons": [
+          "il/elle/on"
+        ]
+      },
+      {
+        "key": "t|Conditionnel|2",
+        "facet": "tense",
+        "tense": "Conditionnel",
+        "target": "carrellerions",
+        "persons": [
+          "nous"
+        ]
+      },
+      {
+        "key": "t|Conditionnel|3",
+        "facet": "tense",
+        "tense": "Conditionnel",
+        "target": "carrelleriez",
+        "persons": [
+          "vous"
+        ]
+      },
+      {
+        "key": "t|Conditionnel|4",
+        "facet": "tense",
+        "tense": "Conditionnel",
+        "target": "carrelleraient",
+        "persons": [
+          "ils/elles"
+        ]
+      },
+      {
+        "key": "t|Subjonctif",
+        "facet": "subj",
+        "tense": "Subjonctif"
+      },
+      {
+        "key": "s|0",
+        "facet": "sense",
+        "sense_zh": "铺瓷砖"
+      },
+      {
+        "key": "s|1",
+        "facet": "sense",
+        "sense_zh": "贴方砖"
+      }
+    ]
+  },
+  {
+    "id": 7371,
+    "fr": "clivage",
+    "pos": "noun",
+    "gender": "m",
+    "en": "cleavage, divide, split",
+    "zh": "分裂；裂痕；分层",
+    "slots": [
+      {
+        "key": "s|0",
+        "facet": "sense",
+        "sense_zh": "分裂"
+      },
+      {
+        "key": "s|1",
+        "facet": "sense",
+        "sense_zh": "裂痕"
+      },
+      {
+        "key": "s|2",
+        "facet": "sense",
+        "sense_zh": "分层"
+      },
+      {
+        "key": "gender",
+        "facet": "gender",
+        "gender": "m"
+      }
+    ]
+  },
+  {
+    "id": 7372,
+    "fr": "dynamiser",
+    "pos": "verb",
+    "gender": null,
+    "en": "to energize, to boost, to revitalize",
+    "zh": "使有活力；促进；振兴",
+    "slots": [
+      {
+        "key": "t|Présent|0",
+        "facet": "tense",
+        "tense": "Présent",
+        "target": "dynamise",
+        "persons": [
+          "je/j'",
+          "il/elle/on"
+        ]
+      },
+      {
+        "key": "t|Présent|1",
+        "facet": "tense",
+        "tense": "Présent",
+        "target": "dynamises",
+        "persons": [
+          "tu"
+        ]
+      },
+      {
+        "key": "t|Présent|2",
+        "facet": "tense",
+        "tense": "Présent",
+        "target": "dynamisons",
+        "persons": [
+          "nous"
+        ]
+      },
+      {
+        "key": "t|Présent|3",
+        "facet": "tense",
+        "tense": "Présent",
+        "target": "dynamisez",
+        "persons": [
+          "vous"
+        ]
+      },
+      {
+        "key": "t|Présent|4",
+        "facet": "tense",
+        "tense": "Présent",
+        "target": "dynamisent",
+        "persons": [
+          "ils/elles"
+        ]
+      },
+      {
+        "key": "t|Passé composé|0",
+        "facet": "tense",
+        "tense": "Passé composé",
+        "target": "ai dynamisé",
+        "persons": [
+          "je/j'"
+        ]
+      },
+      {
+        "key": "t|Passé composé|1",
+        "facet": "tense",
+        "tense": "Passé composé",
+        "target": "as dynamisé",
+        "persons": [
+          "tu"
+        ]
+      },
+      {
+        "key": "t|Passé composé|2",
+        "facet": "tense",
+        "tense": "Passé composé",
+        "target": "a dynamisé",
+        "persons": [
+          "il/elle/on"
+        ]
+      },
+      {
+        "key": "t|Passé composé|3",
+        "facet": "tense",
+        "tense": "Passé composé",
+        "target": "avons dynamisé",
+        "persons": [
+          "nous"
+        ]
+      },
+      {
+        "key": "t|Passé composé|4",
+        "facet": "tense",
+        "tense": "Passé composé",
+        "target": "avez dynamisé",
+        "persons": [
+          "vous"
+        ]
+      },
+      {
+        "key": "t|Passé composé|5",
+        "facet": "tense",
+        "tense": "Passé composé",
+        "target": "ont dynamisé",
+        "persons": [
+          "ils/elles"
+        ]
+      },
+      {
+        "key": "t|Imparfait|0",
+        "facet": "tense",
+        "tense": "Imparfait",
+        "target": "dynamisais",
+        "persons": [
+          "je/j'",
+          "tu"
+        ]
+      },
+      {
+        "key": "t|Imparfait|1",
+        "facet": "tense",
+        "tense": "Imparfait",
+        "target": "dynamisait",
+        "persons": [
+          "il/elle/on"
+        ]
+      },
+      {
+        "key": "t|Imparfait|2",
+        "facet": "tense",
+        "tense": "Imparfait",
+        "target": "dynamisions",
+        "persons": [
+          "nous"
+        ]
+      },
+      {
+        "key": "t|Imparfait|3",
+        "facet": "tense",
+        "tense": "Imparfait",
+        "target": "dynamisiez",
+        "persons": [
+          "vous"
+        ]
+      },
+      {
+        "key": "t|Imparfait|4",
+        "facet": "tense",
+        "tense": "Imparfait",
+        "target": "dynamisaient",
+        "persons": [
+          "ils/elles"
+        ]
+      },
+      {
+        "key": "t|Futur|0",
+        "facet": "tense",
+        "tense": "Futur",
+        "target": "dynamiserai",
+        "persons": [
+          "je/j'"
+        ]
+      },
+      {
+        "key": "t|Futur|1",
+        "facet": "tense",
+        "tense": "Futur",
+        "target": "dynamiseras",
+        "persons": [
+          "tu"
+        ]
+      },
+      {
+        "key": "t|Futur|2",
+        "facet": "tense",
+        "tense": "Futur",
+        "target": "dynamisera",
+        "persons": [
+          "il/elle/on"
+        ]
+      },
+      {
+        "key": "t|Futur|3",
+        "facet": "tense",
+        "tense": "Futur",
+        "target": "dynamiserons",
+        "persons": [
+          "nous"
+        ]
+      },
+      {
+        "key": "t|Futur|4",
+        "facet": "tense",
+        "tense": "Futur",
+        "target": "dynamiserez",
+        "persons": [
+          "vous"
+        ]
+      },
+      {
+        "key": "t|Futur|5",
+        "facet": "tense",
+        "tense": "Futur",
+        "target": "dynamiseront",
+        "persons": [
+          "ils/elles"
+        ]
+      },
+      {
+        "key": "t|Conditionnel|0",
+        "facet": "tense",
+        "tense": "Conditionnel",
+        "target": "dynamiserais",
+        "persons": [
+          "je/j'",
+          "tu"
+        ]
+      },
+      {
+        "key": "t|Conditionnel|1",
+        "facet": "tense",
+        "tense": "Conditionnel",
+        "target": "dynamiserait",
+        "persons": [
+          "il/elle/on"
+        ]
+      },
+      {
+        "key": "t|Conditionnel|2",
+        "facet": "tense",
+        "tense": "Conditionnel",
+        "target": "dynamiserions",
+        "persons": [
+          "nous"
+        ]
+      },
+      {
+        "key": "t|Conditionnel|3",
+        "facet": "tense",
+        "tense": "Conditionnel",
+        "target": "dynamiseriez",
+        "persons": [
+          "vous"
+        ]
+      },
+      {
+        "key": "t|Conditionnel|4",
+        "facet": "tense",
+        "tense": "Conditionnel",
+        "target": "dynamiseraient",
+        "persons": [
+          "ils/elles"
+        ]
+      },
+      {
+        "key": "t|Subjonctif",
+        "facet": "subj",
+        "tense": "Subjonctif"
+      },
+      {
+        "key": "s|0",
+        "facet": "sense",
+        "sense_zh": "使有活力"
+      },
+      {
+        "key": "s|1",
+        "facet": "sense",
+        "sense_zh": "促进"
+      },
+      {
+        "key": "s|2",
+        "facet": "sense",
+        "sense_zh": "振兴"
+      }
+    ]
+  },
+  {
+    "id": 7373,
+    "fr": "décibel",
+    "pos": "noun",
+    "gender": "m",
+    "en": "decibel (unit of sound intensity)",
+    "zh": "分贝（声音强度单位）",
+    "slots": [
+      {
+        "key": "s|0",
+        "facet": "sense",
+        "sense_zh": "分贝（声音强度单位）"
+      },
+      {
+        "key": "gender",
+        "facet": "gender",
+        "gender": "m"
+      }
+    ]
+  },
+  {
+    "id": 7374,
+    "fr": "démocratisation",
+    "pos": "noun",
+    "gender": "f",
+    "en": "democratization",
+    "zh": "民主化；普及",
+    "slots": [
+      {
+        "key": "s|0",
+        "facet": "sense",
+        "sense_zh": "民主化"
+      },
+      {
+        "key": "s|1",
+        "facet": "sense",
+        "sense_zh": "普及"
+      },
+      {
+        "key": "gender",
+        "facet": "gender",
+        "gender": "f"
+      }
+    ]
+  },
+  {
+    "id": 7375,
+    "fr": "momentané",
+    "pos": "adj",
+    "gender": null,
+    "en": "momentary, temporary",
+    "zh": "短暂的；临时的",
+    "slots": [
+      {
+        "key": "s|0",
+        "facet": "sense",
+        "sense_zh": "短暂的"
+      },
+      {
+        "key": "s|1",
+        "facet": "sense",
+        "sense_zh": "临时的"
+      },
+      {
+        "key": "g|mp",
+        "facet": "agree",
+        "gender": "mp",
+        "label": "阳性复数"
+      },
+      {
+        "key": "g|f",
+        "facet": "agree",
+        "gender": "f",
+        "label": "阴性单数"
+      },
+      {
+        "key": "g|fp",
+        "facet": "agree",
+        "gender": "fp",
+        "label": "阴性复数"
+      }
+    ]
+  },
+  {
+    "id": 7376,
+    "fr": "pathologique",
+    "pos": "adj",
+    "gender": null,
+    "en": "pathological",
+    "zh": "病理的；病态的",
+    "slots": [
+      {
+        "key": "s|0",
+        "facet": "sense",
+        "sense_zh": "病理的"
+      },
+      {
+        "key": "s|1",
+        "facet": "sense",
+        "sense_zh": "病态的"
+      },
+      {
+        "key": "g|mp",
+        "facet": "agree",
+        "gender": "mp",
+        "label": "阳性复数"
+      },
+      {
+        "key": "g|f",
+        "facet": "agree",
+        "gender": "f",
+        "label": "阴性单数"
+      },
+      {
+        "key": "g|fp",
+        "facet": "agree",
+        "gender": "fp",
+        "label": "阴性复数"
+      }
+    ]
+  },
+  {
+    "id": 7377,
+    "fr": "pollueur",
+    "pos": "noun",
+    "gender": "m",
+    "en": "polluter",
+    "zh": "污染者；污染源",
+    "slots": [
+      {
+        "key": "s|0",
+        "facet": "sense",
+        "sense_zh": "污染者"
+      },
+      {
+        "key": "s|1",
+        "facet": "sense",
+        "sense_zh": "污染源"
+      },
+      {
+        "key": "gender",
+        "facet": "gender",
+        "gender": "m"
+      }
+    ]
+  },
+  {
+    "id": 7378,
+    "fr": "périmètre",
+    "pos": "noun",
+    "gender": "m",
+    "en": "perimeter, scope",
+    "zh": "周长；范围；边界",
+    "slots": [
+      {
+        "key": "s|0",
+        "facet": "sense",
+        "sense_zh": "周长"
+      },
+      {
+        "key": "s|1",
+        "facet": "sense",
+        "sense_zh": "范围"
+      },
+      {
+        "key": "s|2",
+        "facet": "sense",
+        "sense_zh": "边界"
+      },
+      {
+        "key": "gender",
+        "facet": "gender",
+        "gender": "m"
+      }
+    ]
+  },
+  {
+    "id": 7379,
+    "fr": "scolariser",
+    "pos": "verb",
+    "gender": null,
+    "en": "to provide schooling, to educate",
+    "zh": "使入学；让……接受学校教育",
+    "slots": [
+      {
+        "key": "t|Présent|0",
+        "facet": "tense",
+        "tense": "Présent",
+        "target": "scolarise",
+        "persons": [
+          "je/j'",
+          "il/elle/on"
+        ]
+      },
+      {
+        "key": "t|Présent|1",
+        "facet": "tense",
+        "tense": "Présent",
+        "target": "scolarises",
+        "persons": [
+          "tu"
+        ]
+      },
+      {
+        "key": "t|Présent|2",
+        "facet": "tense",
+        "tense": "Présent",
+        "target": "scolarisons",
+        "persons": [
+          "nous"
+        ]
+      },
+      {
+        "key": "t|Présent|3",
+        "facet": "tense",
+        "tense": "Présent",
+        "target": "scolarisez",
+        "persons": [
+          "vous"
+        ]
+      },
+      {
+        "key": "t|Présent|4",
+        "facet": "tense",
+        "tense": "Présent",
+        "target": "scolarisent",
+        "persons": [
+          "ils/elles"
+        ]
+      },
+      {
+        "key": "t|Passé composé|0",
+        "facet": "tense",
+        "tense": "Passé composé",
+        "target": "ai scolarisé",
+        "persons": [
+          "je/j'"
+        ]
+      },
+      {
+        "key": "t|Passé composé|1",
+        "facet": "tense",
+        "tense": "Passé composé",
+        "target": "as scolarisé",
+        "persons": [
+          "tu"
+        ]
+      },
+      {
+        "key": "t|Passé composé|2",
+        "facet": "tense",
+        "tense": "Passé composé",
+        "target": "a scolarisé",
+        "persons": [
+          "il/elle/on"
+        ]
+      },
+      {
+        "key": "t|Passé composé|3",
+        "facet": "tense",
+        "tense": "Passé composé",
+        "target": "avons scolarisé",
+        "persons": [
+          "nous"
+        ]
+      },
+      {
+        "key": "t|Passé composé|4",
+        "facet": "tense",
+        "tense": "Passé composé",
+        "target": "avez scolarisé",
+        "persons": [
+          "vous"
+        ]
+      },
+      {
+        "key": "t|Passé composé|5",
+        "facet": "tense",
+        "tense": "Passé composé",
+        "target": "ont scolarisé",
+        "persons": [
+          "ils/elles"
+        ]
+      },
+      {
+        "key": "t|Imparfait|0",
+        "facet": "tense",
+        "tense": "Imparfait",
+        "target": "scolarisais",
+        "persons": [
+          "je/j'",
+          "tu"
+        ]
+      },
+      {
+        "key": "t|Imparfait|1",
+        "facet": "tense",
+        "tense": "Imparfait",
+        "target": "scolarisait",
+        "persons": [
+          "il/elle/on"
+        ]
+      },
+      {
+        "key": "t|Imparfait|2",
+        "facet": "tense",
+        "tense": "Imparfait",
+        "target": "scolarisions",
+        "persons": [
+          "nous"
+        ]
+      },
+      {
+        "key": "t|Imparfait|3",
+        "facet": "tense",
+        "tense": "Imparfait",
+        "target": "scolarisiez",
+        "persons": [
+          "vous"
+        ]
+      },
+      {
+        "key": "t|Imparfait|4",
+        "facet": "tense",
+        "tense": "Imparfait",
+        "target": "scolarisaient",
+        "persons": [
+          "ils/elles"
+        ]
+      },
+      {
+        "key": "t|Futur|0",
+        "facet": "tense",
+        "tense": "Futur",
+        "target": "scolariserai",
+        "persons": [
+          "je/j'"
+        ]
+      },
+      {
+        "key": "t|Futur|1",
+        "facet": "tense",
+        "tense": "Futur",
+        "target": "scolariseras",
+        "persons": [
+          "tu"
+        ]
+      },
+      {
+        "key": "t|Futur|2",
+        "facet": "tense",
+        "tense": "Futur",
+        "target": "scolarisera",
+        "persons": [
+          "il/elle/on"
+        ]
+      },
+      {
+        "key": "t|Futur|3",
+        "facet": "tense",
+        "tense": "Futur",
+        "target": "scolariserons",
+        "persons": [
+          "nous"
+        ]
+      },
+      {
+        "key": "t|Futur|4",
+        "facet": "tense",
+        "tense": "Futur",
+        "target": "scolariserez",
+        "persons": [
+          "vous"
+        ]
+      },
+      {
+        "key": "t|Futur|5",
+        "facet": "tense",
+        "tense": "Futur",
+        "target": "scolariseront",
+        "persons": [
+          "ils/elles"
+        ]
+      },
+      {
+        "key": "t|Conditionnel|0",
+        "facet": "tense",
+        "tense": "Conditionnel",
+        "target": "scolariserais",
+        "persons": [
+          "je/j'",
+          "tu"
+        ]
+      },
+      {
+        "key": "t|Conditionnel|1",
+        "facet": "tense",
+        "tense": "Conditionnel",
+        "target": "scolariserait",
+        "persons": [
+          "il/elle/on"
+        ]
+      },
+      {
+        "key": "t|Conditionnel|2",
+        "facet": "tense",
+        "tense": "Conditionnel",
+        "target": "scolariserions",
+        "persons": [
+          "nous"
+        ]
+      },
+      {
+        "key": "t|Conditionnel|3",
+        "facet": "tense",
+        "tense": "Conditionnel",
+        "target": "scolariseriez",
+        "persons": [
+          "vous"
+        ]
+      },
+      {
+        "key": "t|Conditionnel|4",
+        "facet": "tense",
+        "tense": "Conditionnel",
+        "target": "scolariseraient",
+        "persons": [
+          "ils/elles"
+        ]
+      },
+      {
+        "key": "t|Subjonctif",
+        "facet": "subj",
+        "tense": "Subjonctif"
+      },
+      {
+        "key": "s|0",
+        "facet": "sense",
+        "sense_zh": "使入学"
+      },
+      {
+        "key": "s|1",
+        "facet": "sense",
+        "sense_zh": "让……接受学校教育"
+      }
+    ]
+  },
+  {
+    "id": 7380,
+    "fr": "volubile",
+    "pos": "adj",
+    "gender": null,
+    "en": "voluble, talkative, fluent",
+    "zh": "健谈的；滔滔不绝的",
+    "slots": [
+      {
+        "key": "s|0",
+        "facet": "sense",
+        "sense_zh": "健谈的"
+      },
+      {
+        "key": "s|1",
+        "facet": "sense",
+        "sense_zh": "滔滔不绝的"
+      },
+      {
+        "key": "g|mp",
+        "facet": "agree",
+        "gender": "mp",
+        "label": "阳性复数"
+      },
+      {
+        "key": "g|f",
+        "facet": "agree",
+        "gender": "f",
+        "label": "阴性单数"
+      },
+      {
+        "key": "g|fp",
+        "facet": "agree",
+        "gender": "fp",
+        "label": "阴性复数"
+      }
+    ]
+  },
+  {
+    "id": 7381,
+    "fr": "agronomique",
+    "pos": "adj",
+    "gender": null,
+    "en": "agronomic, agricultural",
+    "zh": "农艺学的；农业的",
+    "slots": [
+      {
+        "key": "s|0",
+        "facet": "sense",
+        "sense_zh": "农艺学的"
+      },
+      {
+        "key": "s|1",
+        "facet": "sense",
+        "sense_zh": "农业的"
+      },
+      {
+        "key": "g|mp",
+        "facet": "agree",
+        "gender": "mp",
+        "label": "阳性复数"
+      },
+      {
+        "key": "g|f",
+        "facet": "agree",
+        "gender": "f",
+        "label": "阴性单数"
+      },
+      {
+        "key": "g|fp",
+        "facet": "agree",
+        "gender": "fp",
+        "label": "阴性复数"
+      }
+    ]
+  },
+  {
+    "id": 7382,
+    "fr": "ambrer",
+    "pos": "verb",
+    "gender": null,
+    "en": "to amber, to turn amber-colored",
+    "zh": "使呈琥珀色；染成琥珀色",
+    "slots": [
+      {
+        "key": "t|Présent|0",
+        "facet": "tense",
+        "tense": "Présent",
+        "target": "ambre",
+        "persons": [
+          "je/j'",
+          "il/elle/on"
+        ]
+      },
+      {
+        "key": "t|Présent|1",
+        "facet": "tense",
+        "tense": "Présent",
+        "target": "ambres",
+        "persons": [
+          "tu"
+        ]
+      },
+      {
+        "key": "t|Présent|2",
+        "facet": "tense",
+        "tense": "Présent",
+        "target": "ambrons",
+        "persons": [
+          "nous"
+        ]
+      },
+      {
+        "key": "t|Présent|3",
+        "facet": "tense",
+        "tense": "Présent",
+        "target": "ambrez",
+        "persons": [
+          "vous"
+        ]
+      },
+      {
+        "key": "t|Présent|4",
+        "facet": "tense",
+        "tense": "Présent",
+        "target": "ambrent",
+        "persons": [
+          "ils/elles"
+        ]
+      },
+      {
+        "key": "t|Passé composé|0",
+        "facet": "tense",
+        "tense": "Passé composé",
+        "target": "ai ambré",
+        "persons": [
+          "je/j'"
+        ]
+      },
+      {
+        "key": "t|Passé composé|1",
+        "facet": "tense",
+        "tense": "Passé composé",
+        "target": "as ambré",
+        "persons": [
+          "tu"
+        ]
+      },
+      {
+        "key": "t|Passé composé|2",
+        "facet": "tense",
+        "tense": "Passé composé",
+        "target": "a ambré",
+        "persons": [
+          "il/elle/on"
+        ]
+      },
+      {
+        "key": "t|Passé composé|3",
+        "facet": "tense",
+        "tense": "Passé composé",
+        "target": "avons ambré",
+        "persons": [
+          "nous"
+        ]
+      },
+      {
+        "key": "t|Passé composé|4",
+        "facet": "tense",
+        "tense": "Passé composé",
+        "target": "avez ambré",
+        "persons": [
+          "vous"
+        ]
+      },
+      {
+        "key": "t|Passé composé|5",
+        "facet": "tense",
+        "tense": "Passé composé",
+        "target": "ont ambré",
+        "persons": [
+          "ils/elles"
+        ]
+      },
+      {
+        "key": "t|Imparfait|0",
+        "facet": "tense",
+        "tense": "Imparfait",
+        "target": "ambrais",
+        "persons": [
+          "je/j'",
+          "tu"
+        ]
+      },
+      {
+        "key": "t|Imparfait|1",
+        "facet": "tense",
+        "tense": "Imparfait",
+        "target": "ambrait",
+        "persons": [
+          "il/elle/on"
+        ]
+      },
+      {
+        "key": "t|Imparfait|2",
+        "facet": "tense",
+        "tense": "Imparfait",
+        "target": "ambrions",
+        "persons": [
+          "nous"
+        ]
+      },
+      {
+        "key": "t|Imparfait|3",
+        "facet": "tense",
+        "tense": "Imparfait",
+        "target": "ambriez",
+        "persons": [
+          "vous"
+        ]
+      },
+      {
+        "key": "t|Imparfait|4",
+        "facet": "tense",
+        "tense": "Imparfait",
+        "target": "ambraient",
+        "persons": [
+          "ils/elles"
+        ]
+      },
+      {
+        "key": "t|Futur|0",
+        "facet": "tense",
+        "tense": "Futur",
+        "target": "ambrerai",
+        "persons": [
+          "je/j'"
+        ]
+      },
+      {
+        "key": "t|Futur|1",
+        "facet": "tense",
+        "tense": "Futur",
+        "target": "ambreras",
+        "persons": [
+          "tu"
+        ]
+      },
+      {
+        "key": "t|Futur|2",
+        "facet": "tense",
+        "tense": "Futur",
+        "target": "ambrera",
+        "persons": [
+          "il/elle/on"
+        ]
+      },
+      {
+        "key": "t|Futur|3",
+        "facet": "tense",
+        "tense": "Futur",
+        "target": "ambrerons",
+        "persons": [
+          "nous"
+        ]
+      },
+      {
+        "key": "t|Futur|4",
+        "facet": "tense",
+        "tense": "Futur",
+        "target": "ambrerez",
+        "persons": [
+          "vous"
+        ]
+      },
+      {
+        "key": "t|Futur|5",
+        "facet": "tense",
+        "tense": "Futur",
+        "target": "ambreront",
+        "persons": [
+          "ils/elles"
+        ]
+      },
+      {
+        "key": "t|Conditionnel|0",
+        "facet": "tense",
+        "tense": "Conditionnel",
+        "target": "ambrerais",
+        "persons": [
+          "je/j'",
+          "tu"
+        ]
+      },
+      {
+        "key": "t|Conditionnel|1",
+        "facet": "tense",
+        "tense": "Conditionnel",
+        "target": "ambrerait",
+        "persons": [
+          "il/elle/on"
+        ]
+      },
+      {
+        "key": "t|Conditionnel|2",
+        "facet": "tense",
+        "tense": "Conditionnel",
+        "target": "ambrerions",
+        "persons": [
+          "nous"
+        ]
+      },
+      {
+        "key": "t|Conditionnel|3",
+        "facet": "tense",
+        "tense": "Conditionnel",
+        "target": "ambreriez",
+        "persons": [
+          "vous"
+        ]
+      },
+      {
+        "key": "t|Conditionnel|4",
+        "facet": "tense",
+        "tense": "Conditionnel",
+        "target": "ambreraient",
+        "persons": [
+          "ils/elles"
+        ]
+      },
+      {
+        "key": "t|Subjonctif",
+        "facet": "subj",
+        "tense": "Subjonctif"
+      },
+      {
+        "key": "s|0",
+        "facet": "sense",
+        "sense_zh": "使呈琥珀色"
+      },
+      {
+        "key": "s|1",
+        "facet": "sense",
+        "sense_zh": "染成琥珀色"
+      }
+    ]
+  },
+  {
+    "id": 7383,
+    "fr": "appauvrissement",
+    "pos": "noun",
+    "gender": "m",
+    "en": "impoverishment, depletion",
+    "zh": "贫困化；贫瘠化",
+    "slots": [
+      {
+        "key": "s|0",
+        "facet": "sense",
+        "sense_zh": "贫困化"
+      },
+      {
+        "key": "s|1",
+        "facet": "sense",
+        "sense_zh": "贫瘠化"
+      },
+      {
+        "key": "gender",
+        "facet": "gender",
+        "gender": "m"
+      }
+    ]
+  },
+  {
+    "id": 7384,
+    "fr": "aspérité",
+    "pos": "noun",
+    "gender": "f",
+    "en": "asperity, roughness, harshness",
+    "zh": "粗糙；崎岖；严厉",
+    "slots": [
+      {
+        "key": "s|0",
+        "facet": "sense",
+        "sense_zh": "粗糙"
+      },
+      {
+        "key": "s|1",
+        "facet": "sense",
+        "sense_zh": "崎岖"
+      },
+      {
+        "key": "s|2",
+        "facet": "sense",
+        "sense_zh": "严厉"
+      },
+      {
+        "key": "gender",
+        "facet": "gender",
+        "gender": "f"
+      }
+    ]
+  },
+  {
+    "id": 7385,
+    "fr": "causalité",
+    "pos": "noun",
+    "gender": "f",
+    "en": "causality, causal relationship",
+    "zh": "因果关系；因果性",
+    "slots": [
+      {
+        "key": "s|0",
+        "facet": "sense",
+        "sense_zh": "因果关系"
+      },
+      {
+        "key": "s|1",
+        "facet": "sense",
+        "sense_zh": "因果性"
+      },
+      {
+        "key": "gender",
+        "facet": "gender",
+        "gender": "f"
+      }
+    ]
+  },
+  {
+    "id": 7386,
+    "fr": "chaînon",
+    "pos": "noun",
+    "gender": "m",
+    "en": "link (in a chain)",
+    "zh": "（链条的）一环；连接环节",
+    "slots": [
+      {
+        "key": "s|0",
+        "facet": "sense",
+        "sense_zh": "（链条的）一环"
+      },
+      {
+        "key": "s|1",
+        "facet": "sense",
+        "sense_zh": "连接环节"
+      },
+      {
+        "key": "gender",
+        "facet": "gender",
+        "gender": "m"
+      }
+    ]
+  },
+  {
+    "id": 7387,
+    "fr": "chimiste",
+    "pos": "noun",
+    "gender": "m",
+    "en": "chemist",
+    "zh": "化学家；药剂师",
+    "slots": [
+      {
+        "key": "s|0",
+        "facet": "sense",
+        "sense_zh": "化学家"
+      },
+      {
+        "key": "s|1",
+        "facet": "sense",
+        "sense_zh": "药剂师"
+      },
+      {
+        "key": "gender",
+        "facet": "gender",
+        "gender": "m"
+      }
+    ]
+  },
+  {
+    "id": 7388,
+    "fr": "destructeur",
+    "pos": "adj",
+    "gender": null,
+    "en": "destructive",
+    "zh": "破坏性的；毁灭性的",
+    "slots": [
+      {
+        "key": "s|0",
+        "facet": "sense",
+        "sense_zh": "破坏性的"
+      },
+      {
+        "key": "s|1",
+        "facet": "sense",
+        "sense_zh": "毁灭性的"
+      },
+      {
+        "key": "g|mp",
+        "facet": "agree",
+        "gender": "mp",
+        "label": "阳性复数"
+      },
+      {
+        "key": "g|f",
+        "facet": "agree",
+        "gender": "f",
+        "label": "阴性单数"
+      },
+      {
+        "key": "g|fp",
+        "facet": "agree",
+        "gender": "fp",
+        "label": "阴性复数"
+      }
+    ]
+  },
+  {
+    "id": 7389,
+    "fr": "discriminatoire",
+    "pos": "adj",
+    "gender": null,
+    "en": "discriminatory",
+    "zh": "歧视性的；区别对待的",
+    "slots": [
+      {
+        "key": "s|0",
+        "facet": "sense",
+        "sense_zh": "歧视性的"
+      },
+      {
+        "key": "s|1",
+        "facet": "sense",
+        "sense_zh": "区别对待的"
+      },
+      {
+        "key": "g|mp",
+        "facet": "agree",
+        "gender": "mp",
+        "label": "阳性复数"
+      },
+      {
+        "key": "g|f",
+        "facet": "agree",
+        "gender": "f",
+        "label": "阴性单数"
+      },
+      {
+        "key": "g|fp",
+        "facet": "agree",
+        "gender": "fp",
+        "label": "阴性复数"
+      }
+    ]
+  },
+  {
+    "id": 7390,
+    "fr": "dissuasif",
+    "pos": "adj",
+    "gender": null,
+    "en": "deterrent, dissuasive",
+    "zh": "威慑的；劝阻的",
+    "slots": [
+      {
+        "key": "s|0",
+        "facet": "sense",
+        "sense_zh": "威慑的"
+      },
+      {
+        "key": "s|1",
+        "facet": "sense",
+        "sense_zh": "劝阻的"
+      },
+      {
+        "key": "g|mp",
+        "facet": "agree",
+        "gender": "mp",
+        "label": "阳性复数"
+      },
+      {
+        "key": "g|f",
+        "facet": "agree",
+        "gender": "f",
+        "label": "阴性单数"
+      },
+      {
+        "key": "g|fp",
+        "facet": "agree",
+        "gender": "fp",
+        "label": "阴性复数"
+      }
+    ]
+  },
+  {
+    "id": 7391,
+    "fr": "défaillant",
+    "pos": "adj",
+    "gender": null,
+    "en": "failing, faulty, deficient",
+    "zh": "有缺陷的；失效的；虚弱的",
+    "slots": [
+      {
+        "key": "s|0",
+        "facet": "sense",
+        "sense_zh": "有缺陷的"
+      },
+      {
+        "key": "s|1",
+        "facet": "sense",
+        "sense_zh": "失效的"
+      },
+      {
+        "key": "s|2",
+        "facet": "sense",
+        "sense_zh": "虚弱的"
+      },
+      {
+        "key": "g|mp",
+        "facet": "agree",
+        "gender": "mp",
+        "label": "阳性复数"
+      },
+      {
+        "key": "g|f",
+        "facet": "agree",
+        "gender": "f",
+        "label": "阴性单数"
+      },
+      {
+        "key": "g|fp",
+        "facet": "agree",
+        "gender": "fp",
+        "label": "阴性复数"
+      }
+    ]
+  },
+  {
+    "id": 7392,
+    "fr": "déviance",
+    "pos": "noun",
+    "gender": "f",
+    "en": "deviance, deviation (from norms)",
+    "zh": "偏差；越轨；异常行为",
+    "slots": [
+      {
+        "key": "s|0",
+        "facet": "sense",
+        "sense_zh": "偏差"
+      },
+      {
+        "key": "s|1",
+        "facet": "sense",
+        "sense_zh": "越轨"
+      },
+      {
+        "key": "s|2",
+        "facet": "sense",
+        "sense_zh": "异常行为"
+      },
+      {
+        "key": "gender",
+        "facet": "gender",
+        "gender": "f"
+      }
+    ]
+  },
+  {
+    "id": 7393,
+    "fr": "enchaîné",
+    "pos": "adj",
+    "gender": null,
+    "en": "chained, linked, bound",
+    "zh": "被锁链束缚的；紧密相连的",
+    "slots": [
+      {
+        "key": "s|0",
+        "facet": "sense",
+        "sense_zh": "被锁链束缚的"
+      },
+      {
+        "key": "s|1",
+        "facet": "sense",
+        "sense_zh": "紧密相连的"
+      },
+      {
+        "key": "g|mp",
+        "facet": "agree",
+        "gender": "mp",
+        "label": "阳性复数"
+      },
+      {
+        "key": "g|f",
+        "facet": "agree",
+        "gender": "f",
+        "label": "阴性单数"
+      },
+      {
+        "key": "g|fp",
+        "facet": "agree",
+        "gender": "fp",
+        "label": "阴性复数"
+      }
+    ]
+  },
+  {
+    "id": 7394,
+    "fr": "flexibilité",
+    "pos": "noun",
+    "gender": "f",
+    "en": "flexibility, adaptability",
+    "zh": "灵活性；柔韧性",
+    "slots": [
+      {
+        "key": "s|0",
+        "facet": "sense",
+        "sense_zh": "灵活性"
+      },
+      {
+        "key": "s|1",
+        "facet": "sense",
+        "sense_zh": "柔韧性"
+      },
+      {
+        "key": "gender",
+        "facet": "gender",
+        "gender": "f"
+      }
+    ]
+  }
+]

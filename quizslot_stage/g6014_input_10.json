@@ -1,0 +1,986 @@
+[
+  {
+    "id": 7645,
+    "fr": "rouvre",
+    "pos": "noun",
+    "gender": "m",
+    "en": "sessile oak (Quercus petraea)",
+    "zh": "无梗花栎；夏栎",
+    "slots": [
+      {
+        "key": "s|0",
+        "facet": "sense",
+        "sense_zh": "无梗花栎"
+      },
+      {
+        "key": "s|1",
+        "facet": "sense",
+        "sense_zh": "夏栎"
+      },
+      {
+        "key": "gender",
+        "facet": "gender",
+        "gender": "m"
+      }
+    ]
+  },
+  {
+    "id": 7646,
+    "fr": "apocalyptique",
+    "pos": "adj",
+    "gender": null,
+    "en": "apocalyptic; revelatory",
+    "zh": "启示录的；末世的；具有启示意义的",
+    "slots": [
+      {
+        "key": "s|0",
+        "facet": "sense",
+        "sense_zh": "启示录的"
+      },
+      {
+        "key": "s|1",
+        "facet": "sense",
+        "sense_zh": "末世的"
+      },
+      {
+        "key": "s|2",
+        "facet": "sense",
+        "sense_zh": "具有启示意义的"
+      },
+      {
+        "key": "g|mp",
+        "facet": "agree",
+        "gender": "mp",
+        "label": "阳性复数"
+      },
+      {
+        "key": "g|f",
+        "facet": "agree",
+        "gender": "f",
+        "label": "阴性单数"
+      },
+      {
+        "key": "g|fp",
+        "facet": "agree",
+        "gender": "fp",
+        "label": "阴性复数"
+      }
+    ]
+  },
+  {
+    "id": 7647,
+    "fr": "baby",
+    "pos": "noun",
+    "gender": "m",
+    "en": "baby, infant",
+    "zh": "婴儿；宝宝",
+    "slots": [
+      {
+        "key": "s|0",
+        "facet": "sense",
+        "sense_zh": "婴儿"
+      },
+      {
+        "key": "s|1",
+        "facet": "sense",
+        "sense_zh": "宝宝"
+      },
+      {
+        "key": "gender",
+        "facet": "gender",
+        "gender": "m"
+      }
+    ]
+  },
+  {
+    "id": 7648,
+    "fr": "bit",
+    "pos": "noun",
+    "gender": "m",
+    "en": "bit, binary digit",
+    "zh": "比特；二进制位",
+    "slots": [
+      {
+        "key": "s|0",
+        "facet": "sense",
+        "sense_zh": "比特"
+      },
+      {
+        "key": "s|1",
+        "facet": "sense",
+        "sense_zh": "二进制位"
+      },
+      {
+        "key": "gender",
+        "facet": "gender",
+        "gender": "m"
+      }
+    ]
+  },
+  {
+    "id": 7649,
+    "fr": "canalisation",
+    "pos": "noun",
+    "gender": "f",
+    "en": "pipeline, conduit; channeling",
+    "zh": "管道；水道；疏导",
+    "slots": [
+      {
+        "key": "s|0",
+        "facet": "sense",
+        "sense_zh": "管道"
+      },
+      {
+        "key": "s|1",
+        "facet": "sense",
+        "sense_zh": "水道"
+      },
+      {
+        "key": "s|2",
+        "facet": "sense",
+        "sense_zh": "疏导"
+      },
+      {
+        "key": "gender",
+        "facet": "gender",
+        "gender": "f"
+      }
+    ]
+  },
+  {
+    "id": 7650,
+    "fr": "côtier",
+    "pos": "adj",
+    "gender": null,
+    "en": "coastal",
+    "zh": "沿海的；海滨的",
+    "slots": [
+      {
+        "key": "s|0",
+        "facet": "sense",
+        "sense_zh": "沿海的"
+      },
+      {
+        "key": "s|1",
+        "facet": "sense",
+        "sense_zh": "海滨的"
+      },
+      {
+        "key": "g|mp",
+        "facet": "agree",
+        "gender": "mp",
+        "label": "阳性复数"
+      },
+      {
+        "key": "g|f",
+        "facet": "agree",
+        "gender": "f",
+        "label": "阴性单数"
+      },
+      {
+        "key": "g|fp",
+        "facet": "agree",
+        "gender": "fp",
+        "label": "阴性复数"
+      }
+    ]
+  },
+  {
+    "id": 7651,
+    "fr": "géographiquement",
+    "pos": "adv",
+    "gender": null,
+    "en": "geographically",
+    "zh": "在地理上；地理方面",
+    "slots": [
+      {
+        "key": "s|0",
+        "facet": "sense",
+        "sense_zh": "在地理上"
+      },
+      {
+        "key": "s|1",
+        "facet": "sense",
+        "sense_zh": "地理方面"
+      }
+    ]
+  },
+  {
+    "id": 7652,
+    "fr": "historiquement",
+    "pos": "adv",
+    "gender": null,
+    "en": "historically",
+    "zh": "历史上；从历史角度看",
+    "slots": [
+      {
+        "key": "s|0",
+        "facet": "sense",
+        "sense_zh": "历史上"
+      },
+      {
+        "key": "s|1",
+        "facet": "sense",
+        "sense_zh": "从历史角度看"
+      }
+    ]
+  },
+  {
+    "id": 7653,
+    "fr": "incalculable",
+    "pos": "adj",
+    "gender": null,
+    "en": "incalculable; immeasurable; countless",
+    "zh": "不可估量的；无数的",
+    "slots": [
+      {
+        "key": "s|0",
+        "facet": "sense",
+        "sense_zh": "不可估量的"
+      },
+      {
+        "key": "s|1",
+        "facet": "sense",
+        "sense_zh": "无数的"
+      },
+      {
+        "key": "g|mp",
+        "facet": "agree",
+        "gender": "mp",
+        "label": "阳性复数"
+      },
+      {
+        "key": "g|f",
+        "facet": "agree",
+        "gender": "f",
+        "label": "阴性单数"
+      },
+      {
+        "key": "g|fp",
+        "facet": "agree",
+        "gender": "fp",
+        "label": "阴性复数"
+      }
+    ]
+  },
+  {
+    "id": 7654,
+    "fr": "jogging",
+    "pos": "noun",
+    "gender": "m",
+    "en": "jogging; slow run; tracksuit",
+    "zh": "慢跑；运动服",
+    "slots": [
+      {
+        "key": "s|0",
+        "facet": "sense",
+        "sense_zh": "慢跑"
+      },
+      {
+        "key": "s|1",
+        "facet": "sense",
+        "sense_zh": "运动服"
+      },
+      {
+        "key": "gender",
+        "facet": "gender",
+        "gender": "m"
+      }
+    ]
+  },
+  {
+    "id": 7655,
+    "fr": "monstruosité",
+    "pos": "noun",
+    "gender": "f",
+    "en": "monstrosity; atrocity; hideousness",
+    "zh": "畸形；丑恶；暴行",
+    "slots": [
+      {
+        "key": "s|0",
+        "facet": "sense",
+        "sense_zh": "畸形"
+      },
+      {
+        "key": "s|1",
+        "facet": "sense",
+        "sense_zh": "丑恶"
+      },
+      {
+        "key": "s|2",
+        "facet": "sense",
+        "sense_zh": "暴行"
+      },
+      {
+        "key": "gender",
+        "facet": "gender",
+        "gender": "f"
+      }
+    ]
+  },
+  {
+    "id": 7656,
+    "fr": "revêtement",
+    "pos": "noun",
+    "gender": "m",
+    "en": "coating, covering; cladding; surface layer",
+    "zh": "涂层；覆盖物；路面层",
+    "slots": [
+      {
+        "key": "s|0",
+        "facet": "sense",
+        "sense_zh": "涂层"
+      },
+      {
+        "key": "s|1",
+        "facet": "sense",
+        "sense_zh": "覆盖物"
+      },
+      {
+        "key": "s|2",
+        "facet": "sense",
+        "sense_zh": "路面层"
+      },
+      {
+        "key": "gender",
+        "facet": "gender",
+        "gender": "m"
+      }
+    ]
+  },
+  {
+    "id": 7657,
+    "fr": "romanesque",
+    "pos": "noun",
+    "gender": "m",
+    "en": "novel-like quality; romantic or fanciful nature",
+    "zh": "小说般的特质；传奇性",
+    "slots": [
+      {
+        "key": "s|0",
+        "facet": "sense",
+        "sense_zh": "小说般的特质"
+      },
+      {
+        "key": "s|1",
+        "facet": "sense",
+        "sense_zh": "传奇性"
+      },
+      {
+        "key": "gender",
+        "facet": "gender",
+        "gender": "m"
+      }
+    ]
+  },
+  {
+    "id": 7658,
+    "fr": "sauvegarde",
+    "pos": "noun",
+    "gender": "f",
+    "en": "safeguard; backup; protection",
+    "zh": "保护；保障；备份",
+    "slots": [
+      {
+        "key": "s|0",
+        "facet": "sense",
+        "sense_zh": "保护"
+      },
+      {
+        "key": "s|1",
+        "facet": "sense",
+        "sense_zh": "保障"
+      },
+      {
+        "key": "s|2",
+        "facet": "sense",
+        "sense_zh": "备份"
+      },
+      {
+        "key": "gender",
+        "facet": "gender",
+        "gender": "f"
+      }
+    ]
+  },
+  {
+    "id": 7659,
+    "fr": "sexualité",
+    "pos": "noun",
+    "gender": "f",
+    "en": "sexuality; sexual nature",
+    "zh": "性；性欲；性特征",
+    "slots": [
+      {
+        "key": "s|0",
+        "facet": "sense",
+        "sense_zh": "性"
+      },
+      {
+        "key": "s|1",
+        "facet": "sense",
+        "sense_zh": "性欲"
+      },
+      {
+        "key": "s|2",
+        "facet": "sense",
+        "sense_zh": "性特征"
+      },
+      {
+        "key": "gender",
+        "facet": "gender",
+        "gender": "f"
+      }
+    ]
+  },
+  {
+    "id": 7660,
+    "fr": "sexy",
+    "pos": "adj",
+    "gender": null,
+    "en": "sexy; sexually attractive",
+    "zh": "性感的；迷人的",
+    "slots": [
+      {
+        "key": "s|0",
+        "facet": "sense",
+        "sense_zh": "性感的"
+      },
+      {
+        "key": "s|1",
+        "facet": "sense",
+        "sense_zh": "迷人的"
+      },
+      {
+        "key": "g|mp",
+        "facet": "agree",
+        "gender": "mp",
+        "label": "阳性复数"
+      },
+      {
+        "key": "g|f",
+        "facet": "agree",
+        "gender": "f",
+        "label": "阴性单数"
+      },
+      {
+        "key": "g|fp",
+        "facet": "agree",
+        "gender": "fp",
+        "label": "阴性复数"
+      }
+    ]
+  },
+  {
+    "id": 7661,
+    "fr": "tyran",
+    "pos": "noun",
+    "gender": "m",
+    "en": "tyrant; despot",
+    "zh": "暴君；专制者",
+    "slots": [
+      {
+        "key": "s|0",
+        "facet": "sense",
+        "sense_zh": "暴君"
+      },
+      {
+        "key": "s|1",
+        "facet": "sense",
+        "sense_zh": "专制者"
+      },
+      {
+        "key": "gender",
+        "facet": "gender",
+        "gender": "m"
+      }
+    ]
+  },
+  {
+    "id": 7662,
+    "fr": "western",
+    "pos": "noun",
+    "gender": "m",
+    "en": "western, cowboy film",
+    "zh": "西部片",
+    "slots": [
+      {
+        "key": "s|0",
+        "facet": "sense",
+        "sense_zh": "西部片"
+      },
+      {
+        "key": "gender",
+        "facet": "gender",
+        "gender": "m"
+      }
+    ]
+  },
+  {
+    "id": 7663,
+    "fr": "éminemment",
+    "pos": "adv",
+    "gender": null,
+    "en": "eminently; highly; outstandingly",
+    "zh": "极其；卓越地；非常",
+    "slots": [
+      {
+        "key": "s|0",
+        "facet": "sense",
+        "sense_zh": "极其"
+      },
+      {
+        "key": "s|1",
+        "facet": "sense",
+        "sense_zh": "卓越地"
+      },
+      {
+        "key": "s|2",
+        "facet": "sense",
+        "sense_zh": "非常"
+      }
+    ]
+  },
+  {
+    "id": 7664,
+    "fr": "demi-mot",
+    "pos": "noun",
+    "gender": "m",
+    "en": "hint, half-word; implicit suggestion",
+    "zh": "暗示；半句话",
+    "slots": [
+      {
+        "key": "s|0",
+        "facet": "sense",
+        "sense_zh": "暗示"
+      },
+      {
+        "key": "s|1",
+        "facet": "sense",
+        "sense_zh": "半句话"
+      },
+      {
+        "key": "gender",
+        "facet": "gender",
+        "gender": "m"
+      }
+    ]
+  },
+  {
+    "id": 7665,
+    "fr": "douteux",
+    "pos": "adj",
+    "gender": null,
+    "en": "doubtful; dubious; shady",
+    "zh": "可疑的；不可靠的；暧昧的",
+    "slots": [
+      {
+        "key": "s|0",
+        "facet": "sense",
+        "sense_zh": "可疑的"
+      },
+      {
+        "key": "s|1",
+        "facet": "sense",
+        "sense_zh": "不可靠的"
+      },
+      {
+        "key": "s|2",
+        "facet": "sense",
+        "sense_zh": "暧昧的"
+      },
+      {
+        "key": "g|mp",
+        "facet": "agree",
+        "gender": "mp",
+        "label": "阳性复数"
+      },
+      {
+        "key": "g|f",
+        "facet": "agree",
+        "gender": "f",
+        "label": "阴性单数"
+      },
+      {
+        "key": "g|fp",
+        "facet": "agree",
+        "gender": "fp",
+        "label": "阴性复数"
+      }
+    ]
+  },
+  {
+    "id": 7666,
+    "fr": "déverser",
+    "pos": "verb",
+    "gender": null,
+    "en": "to pour out; to discharge; to spill",
+    "zh": "倾倒；排放；宣泄",
+    "slots": [
+      {
+        "key": "t|Présent|0",
+        "facet": "tense",
+        "tense": "Présent",
+        "target": "déverse",
+        "persons": [
+          "je/j'",
+          "il/elle/on"
+        ]
+      },
+      {
+        "key": "t|Présent|1",
+        "facet": "tense",
+        "tense": "Présent",
+        "target": "déverses",
+        "persons": [
+          "tu"
+        ]
+      },
+      {
+        "key": "t|Présent|2",
+        "facet": "tense",
+        "tense": "Présent",
+        "target": "déversons",
+        "persons": [
+          "nous"
+        ]
+      },
+      {
+        "key": "t|Présent|3",
+        "facet": "tense",
+        "tense": "Présent",
+        "target": "déversez",
+        "persons": [
+          "vous"
+        ]
+      },
+      {
+        "key": "t|Présent|4",
+        "facet": "tense",
+        "tense": "Présent",
+        "target": "déversent",
+        "persons": [
+          "ils/elles"
+        ]
+      },
+      {
+        "key": "t|Passé composé|0",
+        "facet": "tense",
+        "tense": "Passé composé",
+        "target": "ai déversé",
+        "persons": [
+          "je/j'"
+        ]
+      },
+      {
+        "key": "t|Passé composé|1",
+        "facet": "tense",
+        "tense": "Passé composé",
+        "target": "as déversé",
+        "persons": [
+          "tu"
+        ]
+      },
+      {
+        "key": "t|Passé composé|2",
+        "facet": "tense",
+        "tense": "Passé composé",
+        "target": "a déversé",
+        "persons": [
+          "il/elle/on"
+        ]
+      },
+      {
+        "key": "t|Passé composé|3",
+        "facet": "tense",
+        "tense": "Passé composé",
+        "target": "avons déversé",
+        "persons": [
+          "nous"
+        ]
+      },
+      {
+        "key": "t|Passé composé|4",
+        "facet": "tense",
+        "tense": "Passé composé",
+        "target": "avez déversé",
+        "persons": [
+          "vous"
+        ]
+      },
+      {
+        "key": "t|Passé composé|5",
+        "facet": "tense",
+        "tense": "Passé composé",
+        "target": "ont déversé",
+        "persons": [
+          "ils/elles"
+        ]
+      },
+      {
+        "key": "t|Imparfait|0",
+        "facet": "tense",
+        "tense": "Imparfait",
+        "target": "déversais",
+        "persons": [
+          "je/j'",
+          "tu"
+        ]
+      },
+      {
+        "key": "t|Imparfait|1",
+        "facet": "tense",
+        "tense": "Imparfait",
+        "target": "déversait",
+        "persons": [
+          "il/elle/on"
+        ]
+      },
+      {
+        "key": "t|Imparfait|2",
+        "facet": "tense",
+        "tense": "Imparfait",
+        "target": "déversions",
+        "persons": [
+          "nous"
+        ]
+      },
+      {
+        "key": "t|Imparfait|3",
+        "facet": "tense",
+        "tense": "Imparfait",
+        "target": "déversiez",
+        "persons": [
+          "vous"
+        ]
+      },
+      {
+        "key": "t|Imparfait|4",
+        "facet": "tense",
+        "tense": "Imparfait",
+        "target": "déversaient",
+        "persons": [
+          "ils/elles"
+        ]
+      },
+      {
+        "key": "t|Futur|0",
+        "facet": "tense",
+        "tense": "Futur",
+        "target": "déverserai",
+        "persons": [
+          "je/j'"
+        ]
+      },
+      {
+        "key": "t|Futur|1",
+        "facet": "tense",
+        "tense": "Futur",
+        "target": "déverseras",
+        "persons": [
+          "tu"
+        ]
+      },
+      {
+        "key": "t|Futur|2",
+        "facet": "tense",
+        "tense": "Futur",
+        "target": "déversera",
+        "persons": [
+          "il/elle/on"
+        ]
+      },
+      {
+        "key": "t|Futur|3",
+        "facet": "tense",
+        "tense": "Futur",
+        "target": "déverserons",
+        "persons": [
+          "nous"
+        ]
+      },
+      {
+        "key": "t|Futur|4",
+        "facet": "tense",
+        "tense": "Futur",
+        "target": "déverserez",
+        "persons": [
+          "vous"
+        ]
+      },
+      {
+        "key": "t|Futur|5",
+        "facet": "tense",
+        "tense": "Futur",
+        "target": "déverseront",
+        "persons": [
+          "ils/elles"
+        ]
+      },
+      {
+        "key": "t|Conditionnel|0",
+        "facet": "tense",
+        "tense": "Conditionnel",
+        "target": "déverserais",
+        "persons": [
+          "je/j'",
+          "tu"
+        ]
+      },
+      {
+        "key": "t|Conditionnel|1",
+        "facet": "tense",
+        "tense": "Conditionnel",
+        "target": "déverserait",
+        "persons": [
+          "il/elle/on"
+        ]
+      },
+      {
+        "key": "t|Conditionnel|2",
+        "facet": "tense",
+        "tense": "Conditionnel",
+        "target": "déverserions",
+        "persons": [
+          "nous"
+        ]
+      },
+      {
+        "key": "t|Conditionnel|3",
+        "facet": "tense",
+        "tense": "Conditionnel",
+        "target": "déverseriez",
+        "persons": [
+          "vous"
+        ]
+      },
+      {
+        "key": "t|Conditionnel|4",
+        "facet": "tense",
+        "tense": "Conditionnel",
+        "target": "déverseraient",
+        "persons": [
+          "ils/elles"
+        ]
+      },
+      {
+        "key": "t|Subjonctif",
+        "facet": "subj",
+        "tense": "Subjonctif"
+      },
+      {
+        "key": "s|0",
+        "facet": "sense",
+        "sense_zh": "倾倒"
+      },
+      {
+        "key": "s|1",
+        "facet": "sense",
+        "sense_zh": "排放"
+      },
+      {
+        "key": "s|2",
+        "facet": "sense",
+        "sense_zh": "宣泄"
+      }
+    ]
+  },
+  {
+    "id": 7667,
+    "fr": "malignité",
+    "pos": "noun",
+    "gender": "f",
+    "en": "malice; malignity; spitefulness",
+    "zh": "恶意；恶毒；狡猾",
+    "slots": [
+      {
+        "key": "s|0",
+        "facet": "sense",
+        "sense_zh": "恶意"
+      },
+      {
+        "key": "s|1",
+        "facet": "sense",
+        "sense_zh": "恶毒"
+      },
+      {
+        "key": "s|2",
+        "facet": "sense",
+        "sense_zh": "狡猾"
+      },
+      {
+        "key": "gender",
+        "facet": "gender",
+        "gender": "f"
+      }
+    ]
+  },
+  {
+    "id": 7668,
+    "fr": "ramassage",
+    "pos": "noun",
+    "gender": "m",
+    "en": "collection; gathering; pickup",
+    "zh": "收集；采摘；接送",
+    "slots": [
+      {
+        "key": "s|0",
+        "facet": "sense",
+        "sense_zh": "收集"
+      },
+      {
+        "key": "s|1",
+        "facet": "sense",
+        "sense_zh": "采摘"
+      },
+      {
+        "key": "s|2",
+        "facet": "sense",
+        "sense_zh": "接送"
+      },
+      {
+        "key": "gender",
+        "facet": "gender",
+        "gender": "m"
+      }
+    ]
+  },
+  {
+    "id": 7669,
+    "fr": "révoltant",
+    "pos": "adj",
+    "gender": null,
+    "en": "revolting; appalling; outrageous",
+    "zh": "令人愤慨的；令人厌恶的",
+    "slots": [
+      {
+        "key": "s|0",
+        "facet": "sense",
+        "sense_zh": "令人愤慨的"
+      },
+      {
+        "key": "s|1",
+        "facet": "sense",
+        "sense_zh": "令人厌恶的"
+      },
+      {
+        "key": "g|mp",
+        "facet": "agree",
+        "gender": "mp",
+        "label": "阳性复数"
+      },
+      {
+        "key": "g|f",
+        "facet": "agree",
+        "gender": "f",
+        "label": "阴性单数"
+      },
+      {
+        "key": "g|fp",
+        "facet": "agree",
+        "gender": "fp",
+        "label": "阴性复数"
+      }
+    ]
+  }
+]

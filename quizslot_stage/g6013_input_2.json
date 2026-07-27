@@ -1,0 +1,1197 @@
+[
+  {
+    "id": 7145,
+    "fr": "anatomique",
+    "pos": "adj",
+    "gender": null,
+    "en": "anatomical",
+    "zh": "解剖的；解剖学的",
+    "slots": [
+      {
+        "key": "s|0",
+        "facet": "sense",
+        "sense_zh": "解剖的"
+      },
+      {
+        "key": "s|1",
+        "facet": "sense",
+        "sense_zh": "解剖学的"
+      },
+      {
+        "key": "g|mp",
+        "facet": "agree",
+        "gender": "mp",
+        "label": "阳性复数"
+      },
+      {
+        "key": "g|f",
+        "facet": "agree",
+        "gender": "f",
+        "label": "阴性单数"
+      },
+      {
+        "key": "g|fp",
+        "facet": "agree",
+        "gender": "fp",
+        "label": "阴性复数"
+      }
+    ]
+  },
+  {
+    "id": 7146,
+    "fr": "forcé",
+    "pos": "adj",
+    "gender": null,
+    "en": "forced; compulsory",
+    "zh": "被迫的；强制的",
+    "slots": [
+      {
+        "key": "s|0",
+        "facet": "sense",
+        "sense_zh": "被迫的"
+      },
+      {
+        "key": "s|1",
+        "facet": "sense",
+        "sense_zh": "强制的"
+      },
+      {
+        "key": "g|mp",
+        "facet": "agree",
+        "gender": "mp",
+        "label": "阳性复数"
+      },
+      {
+        "key": "g|f",
+        "facet": "agree",
+        "gender": "f",
+        "label": "阴性单数"
+      },
+      {
+        "key": "g|fp",
+        "facet": "agree",
+        "gender": "fp",
+        "label": "阴性复数"
+      }
+    ]
+  },
+  {
+    "id": 7147,
+    "fr": "live",
+    "pos": "adj",
+    "gender": null,
+    "en": "live (broadcast)",
+    "zh": "现场直播的",
+    "slots": [
+      {
+        "key": "s|0",
+        "facet": "sense",
+        "sense_zh": "现场直播的"
+      },
+      {
+        "key": "g|mp",
+        "facet": "agree",
+        "gender": "mp",
+        "label": "阳性复数"
+      },
+      {
+        "key": "g|f",
+        "facet": "agree",
+        "gender": "f",
+        "label": "阴性单数"
+      },
+      {
+        "key": "g|fp",
+        "facet": "agree",
+        "gender": "fp",
+        "label": "阴性复数"
+      }
+    ]
+  },
+  {
+    "id": 7148,
+    "fr": "patate",
+    "pos": "noun",
+    "gender": "f",
+    "en": "potato; (slang) face, mug",
+    "zh": "土豆；（俚语）脸，面孔",
+    "slots": [
+      {
+        "key": "s|0",
+        "facet": "sense",
+        "sense_zh": "土豆"
+      },
+      {
+        "key": "s|1",
+        "facet": "sense",
+        "sense_zh": "（俚语）脸，面孔"
+      },
+      {
+        "key": "gender",
+        "facet": "gender",
+        "gender": "f"
+      }
+    ]
+  },
+  {
+    "id": 7149,
+    "fr": "pédaler",
+    "pos": "verb",
+    "gender": null,
+    "en": "to pedal",
+    "zh": "蹬踏板；骑自行车",
+    "slots": [
+      {
+        "key": "t|Présent|0",
+        "facet": "tense",
+        "tense": "Présent",
+        "target": "pédale",
+        "persons": [
+          "je/j'",
+          "il/elle/on"
+        ]
+      },
+      {
+        "key": "t|Présent|1",
+        "facet": "tense",
+        "tense": "Présent",
+        "target": "pédales",
+        "persons": [
+          "tu"
+        ]
+      },
+      {
+        "key": "t|Présent|2",
+        "facet": "tense",
+        "tense": "Présent",
+        "target": "pédalons",
+        "persons": [
+          "nous"
+        ]
+      },
+      {
+        "key": "t|Présent|3",
+        "facet": "tense",
+        "tense": "Présent",
+        "target": "pédalez",
+        "persons": [
+          "vous"
+        ]
+      },
+      {
+        "key": "t|Présent|4",
+        "facet": "tense",
+        "tense": "Présent",
+        "target": "pédalent",
+        "persons": [
+          "ils/elles"
+        ]
+      },
+      {
+        "key": "t|Passé composé|0",
+        "facet": "tense",
+        "tense": "Passé composé",
+        "target": "ai pédalé",
+        "persons": [
+          "je/j'"
+        ]
+      },
+      {
+        "key": "t|Passé composé|1",
+        "facet": "tense",
+        "tense": "Passé composé",
+        "target": "as pédalé",
+        "persons": [
+          "tu"
+        ]
+      },
+      {
+        "key": "t|Passé composé|2",
+        "facet": "tense",
+        "tense": "Passé composé",
+        "target": "a pédalé",
+        "persons": [
+          "il/elle/on"
+        ]
+      },
+      {
+        "key": "t|Passé composé|3",
+        "facet": "tense",
+        "tense": "Passé composé",
+        "target": "avons pédalé",
+        "persons": [
+          "nous"
+        ]
+      },
+      {
+        "key": "t|Passé composé|4",
+        "facet": "tense",
+        "tense": "Passé composé",
+        "target": "avez pédalé",
+        "persons": [
+          "vous"
+        ]
+      },
+      {
+        "key": "t|Passé composé|5",
+        "facet": "tense",
+        "tense": "Passé composé",
+        "target": "ont pédalé",
+        "persons": [
+          "ils/elles"
+        ]
+      },
+      {
+        "key": "t|Imparfait|0",
+        "facet": "tense",
+        "tense": "Imparfait",
+        "target": "pédalais",
+        "persons": [
+          "je/j'",
+          "tu"
+        ]
+      },
+      {
+        "key": "t|Imparfait|1",
+        "facet": "tense",
+        "tense": "Imparfait",
+        "target": "pédalait",
+        "persons": [
+          "il/elle/on"
+        ]
+      },
+      {
+        "key": "t|Imparfait|2",
+        "facet": "tense",
+        "tense": "Imparfait",
+        "target": "pédalions",
+        "persons": [
+          "nous"
+        ]
+      },
+      {
+        "key": "t|Imparfait|3",
+        "facet": "tense",
+        "tense": "Imparfait",
+        "target": "pédaliez",
+        "persons": [
+          "vous"
+        ]
+      },
+      {
+        "key": "t|Imparfait|4",
+        "facet": "tense",
+        "tense": "Imparfait",
+        "target": "pédalaient",
+        "persons": [
+          "ils/elles"
+        ]
+      },
+      {
+        "key": "t|Futur|0",
+        "facet": "tense",
+        "tense": "Futur",
+        "target": "pédalerai",
+        "persons": [
+          "je/j'"
+        ]
+      },
+      {
+        "key": "t|Futur|1",
+        "facet": "tense",
+        "tense": "Futur",
+        "target": "pédaleras",
+        "persons": [
+          "tu"
+        ]
+      },
+      {
+        "key": "t|Futur|2",
+        "facet": "tense",
+        "tense": "Futur",
+        "target": "pédalera",
+        "persons": [
+          "il/elle/on"
+        ]
+      },
+      {
+        "key": "t|Futur|3",
+        "facet": "tense",
+        "tense": "Futur",
+        "target": "pédalerons",
+        "persons": [
+          "nous"
+        ]
+      },
+      {
+        "key": "t|Futur|4",
+        "facet": "tense",
+        "tense": "Futur",
+        "target": "pédalerez",
+        "persons": [
+          "vous"
+        ]
+      },
+      {
+        "key": "t|Futur|5",
+        "facet": "tense",
+        "tense": "Futur",
+        "target": "pédaleront",
+        "persons": [
+          "ils/elles"
+        ]
+      },
+      {
+        "key": "t|Conditionnel|0",
+        "facet": "tense",
+        "tense": "Conditionnel",
+        "target": "pédalerais",
+        "persons": [
+          "je/j'",
+          "tu"
+        ]
+      },
+      {
+        "key": "t|Conditionnel|1",
+        "facet": "tense",
+        "tense": "Conditionnel",
+        "target": "pédalerait",
+        "persons": [
+          "il/elle/on"
+        ]
+      },
+      {
+        "key": "t|Conditionnel|2",
+        "facet": "tense",
+        "tense": "Conditionnel",
+        "target": "pédalerions",
+        "persons": [
+          "nous"
+        ]
+      },
+      {
+        "key": "t|Conditionnel|3",
+        "facet": "tense",
+        "tense": "Conditionnel",
+        "target": "pédaleriez",
+        "persons": [
+          "vous"
+        ]
+      },
+      {
+        "key": "t|Conditionnel|4",
+        "facet": "tense",
+        "tense": "Conditionnel",
+        "target": "pédaleraient",
+        "persons": [
+          "ils/elles"
+        ]
+      },
+      {
+        "key": "t|Subjonctif",
+        "facet": "subj",
+        "tense": "Subjonctif"
+      },
+      {
+        "key": "s|0",
+        "facet": "sense",
+        "sense_zh": "蹬踏板"
+      },
+      {
+        "key": "s|1",
+        "facet": "sense",
+        "sense_zh": "骑自行车"
+      }
+    ]
+  },
+  {
+    "id": 7150,
+    "fr": "surnom",
+    "pos": "noun",
+    "gender": "m",
+    "en": "nickname",
+    "zh": "绰号；昵称；外号",
+    "slots": [
+      {
+        "key": "s|0",
+        "facet": "sense",
+        "sense_zh": "绰号"
+      },
+      {
+        "key": "s|1",
+        "facet": "sense",
+        "sense_zh": "昵称"
+      },
+      {
+        "key": "s|2",
+        "facet": "sense",
+        "sense_zh": "外号"
+      },
+      {
+        "key": "gender",
+        "facet": "gender",
+        "gender": "m"
+      }
+    ]
+  },
+  {
+    "id": 7151,
+    "fr": "moniteur",
+    "pos": "noun",
+    "gender": "m",
+    "en": "instructor; monitor",
+    "zh": "教练；指导员；监视器",
+    "slots": [
+      {
+        "key": "s|0",
+        "facet": "sense",
+        "sense_zh": "教练"
+      },
+      {
+        "key": "s|1",
+        "facet": "sense",
+        "sense_zh": "指导员"
+      },
+      {
+        "key": "s|2",
+        "facet": "sense",
+        "sense_zh": "监视器"
+      },
+      {
+        "key": "gender",
+        "facet": "gender",
+        "gender": "m"
+      }
+    ]
+  },
+  {
+    "id": 7152,
+    "fr": "steak",
+    "pos": "noun",
+    "gender": "m",
+    "en": "steak; beef patty",
+    "zh": "牛排；肉饼",
+    "slots": [
+      {
+        "key": "s|0",
+        "facet": "sense",
+        "sense_zh": "牛排"
+      },
+      {
+        "key": "s|1",
+        "facet": "sense",
+        "sense_zh": "肉饼"
+      },
+      {
+        "key": "gender",
+        "facet": "gender",
+        "gender": "m"
+      }
+    ]
+  },
+  {
+    "id": 7153,
+    "fr": "tunique",
+    "pos": "noun",
+    "gender": "f",
+    "en": "tunic",
+    "zh": "长袍；束腰外衣",
+    "slots": [
+      {
+        "key": "s|0",
+        "facet": "sense",
+        "sense_zh": "长袍"
+      },
+      {
+        "key": "s|1",
+        "facet": "sense",
+        "sense_zh": "束腰外衣"
+      },
+      {
+        "key": "gender",
+        "facet": "gender",
+        "gender": "f"
+      }
+    ]
+  },
+  {
+    "id": 7154,
+    "fr": "immortalité",
+    "pos": "noun",
+    "gender": "f",
+    "en": "immortality",
+    "zh": "不朽；永生",
+    "slots": [
+      {
+        "key": "s|0",
+        "facet": "sense",
+        "sense_zh": "不朽"
+      },
+      {
+        "key": "s|1",
+        "facet": "sense",
+        "sense_zh": "永生"
+      },
+      {
+        "key": "gender",
+        "facet": "gender",
+        "gender": "f"
+      }
+    ]
+  },
+  {
+    "id": 7155,
+    "fr": "casse",
+    "pos": "noun",
+    "gender": "f",
+    "en": "breakage; (slang) trouble, hassle",
+    "zh": "破损；损坏；（俚语）麻烦",
+    "slots": [
+      {
+        "key": "s|0",
+        "facet": "sense",
+        "sense_zh": "破损"
+      },
+      {
+        "key": "s|1",
+        "facet": "sense",
+        "sense_zh": "损坏"
+      },
+      {
+        "key": "s|2",
+        "facet": "sense",
+        "sense_zh": "（俚语）麻烦"
+      },
+      {
+        "key": "gender",
+        "facet": "gender",
+        "gender": "f"
+      }
+    ]
+  },
+  {
+    "id": 7156,
+    "fr": "reproductif",
+    "pos": "adj",
+    "gender": null,
+    "en": "reproductive",
+    "zh": "生殖的；繁殖的",
+    "slots": [
+      {
+        "key": "s|0",
+        "facet": "sense",
+        "sense_zh": "生殖的"
+      },
+      {
+        "key": "s|1",
+        "facet": "sense",
+        "sense_zh": "繁殖的"
+      },
+      {
+        "key": "g|mp",
+        "facet": "agree",
+        "gender": "mp",
+        "label": "阳性复数"
+      },
+      {
+        "key": "g|f",
+        "facet": "agree",
+        "gender": "f",
+        "label": "阴性单数"
+      },
+      {
+        "key": "g|fp",
+        "facet": "agree",
+        "gender": "fp",
+        "label": "阴性复数"
+      }
+    ]
+  },
+  {
+    "id": 7157,
+    "fr": "fouetter",
+    "pos": "verb",
+    "gender": null,
+    "en": "to whip; to whisk",
+    "zh": "鞭打；搅打",
+    "slots": [
+      {
+        "key": "t|Présent|0",
+        "facet": "tense",
+        "tense": "Présent",
+        "target": "fouette",
+        "persons": [
+          "je/j'",
+          "il/elle/on"
+        ]
+      },
+      {
+        "key": "t|Présent|1",
+        "facet": "tense",
+        "tense": "Présent",
+        "target": "fouettes",
+        "persons": [
+          "tu"
+        ]
+      },
+      {
+        "key": "t|Présent|2",
+        "facet": "tense",
+        "tense": "Présent",
+        "target": "fouettons",
+        "persons": [
+          "nous"
+        ]
+      },
+      {
+        "key": "t|Présent|3",
+        "facet": "tense",
+        "tense": "Présent",
+        "target": "fouettez",
+        "persons": [
+          "vous"
+        ]
+      },
+      {
+        "key": "t|Présent|4",
+        "facet": "tense",
+        "tense": "Présent",
+        "target": "fouettent",
+        "persons": [
+          "ils/elles"
+        ]
+      },
+      {
+        "key": "t|Passé composé|0",
+        "facet": "tense",
+        "tense": "Passé composé",
+        "target": "ai fouetté",
+        "persons": [
+          "je/j'"
+        ]
+      },
+      {
+        "key": "t|Passé composé|1",
+        "facet": "tense",
+        "tense": "Passé composé",
+        "target": "as fouetté",
+        "persons": [
+          "tu"
+        ]
+      },
+      {
+        "key": "t|Passé composé|2",
+        "facet": "tense",
+        "tense": "Passé composé",
+        "target": "a fouetté",
+        "persons": [
+          "il/elle/on"
+        ]
+      },
+      {
+        "key": "t|Passé composé|3",
+        "facet": "tense",
+        "tense": "Passé composé",
+        "target": "avons fouetté",
+        "persons": [
+          "nous"
+        ]
+      },
+      {
+        "key": "t|Passé composé|4",
+        "facet": "tense",
+        "tense": "Passé composé",
+        "target": "avez fouetté",
+        "persons": [
+          "vous"
+        ]
+      },
+      {
+        "key": "t|Passé composé|5",
+        "facet": "tense",
+        "tense": "Passé composé",
+        "target": "ont fouetté",
+        "persons": [
+          "ils/elles"
+        ]
+      },
+      {
+        "key": "t|Imparfait|0",
+        "facet": "tense",
+        "tense": "Imparfait",
+        "target": "fouettais",
+        "persons": [
+          "je/j'",
+          "tu"
+        ]
+      },
+      {
+        "key": "t|Imparfait|1",
+        "facet": "tense",
+        "tense": "Imparfait",
+        "target": "fouettait",
+        "persons": [
+          "il/elle/on"
+        ]
+      },
+      {
+        "key": "t|Imparfait|2",
+        "facet": "tense",
+        "tense": "Imparfait",
+        "target": "fouettions",
+        "persons": [
+          "nous"
+        ]
+      },
+      {
+        "key": "t|Imparfait|3",
+        "facet": "tense",
+        "tense": "Imparfait",
+        "target": "fouettiez",
+        "persons": [
+          "vous"
+        ]
+      },
+      {
+        "key": "t|Imparfait|4",
+        "facet": "tense",
+        "tense": "Imparfait",
+        "target": "fouettaient",
+        "persons": [
+          "ils/elles"
+        ]
+      },
+      {
+        "key": "t|Futur|0",
+        "facet": "tense",
+        "tense": "Futur",
+        "target": "fouetterai",
+        "persons": [
+          "je/j'"
+        ]
+      },
+      {
+        "key": "t|Futur|1",
+        "facet": "tense",
+        "tense": "Futur",
+        "target": "fouetteras",
+        "persons": [
+          "tu"
+        ]
+      },
+      {
+        "key": "t|Futur|2",
+        "facet": "tense",
+        "tense": "Futur",
+        "target": "fouettera",
+        "persons": [
+          "il/elle/on"
+        ]
+      },
+      {
+        "key": "t|Futur|3",
+        "facet": "tense",
+        "tense": "Futur",
+        "target": "fouetterons",
+        "persons": [
+          "nous"
+        ]
+      },
+      {
+        "key": "t|Futur|4",
+        "facet": "tense",
+        "tense": "Futur",
+        "target": "fouetterez",
+        "persons": [
+          "vous"
+        ]
+      },
+      {
+        "key": "t|Futur|5",
+        "facet": "tense",
+        "tense": "Futur",
+        "target": "fouetteront",
+        "persons": [
+          "ils/elles"
+        ]
+      },
+      {
+        "key": "t|Conditionnel|0",
+        "facet": "tense",
+        "tense": "Conditionnel",
+        "target": "fouetterais",
+        "persons": [
+          "je/j'",
+          "tu"
+        ]
+      },
+      {
+        "key": "t|Conditionnel|1",
+        "facet": "tense",
+        "tense": "Conditionnel",
+        "target": "fouetterait",
+        "persons": [
+          "il/elle/on"
+        ]
+      },
+      {
+        "key": "t|Conditionnel|2",
+        "facet": "tense",
+        "tense": "Conditionnel",
+        "target": "fouetterions",
+        "persons": [
+          "nous"
+        ]
+      },
+      {
+        "key": "t|Conditionnel|3",
+        "facet": "tense",
+        "tense": "Conditionnel",
+        "target": "fouetteriez",
+        "persons": [
+          "vous"
+        ]
+      },
+      {
+        "key": "t|Conditionnel|4",
+        "facet": "tense",
+        "tense": "Conditionnel",
+        "target": "fouetteraient",
+        "persons": [
+          "ils/elles"
+        ]
+      },
+      {
+        "key": "t|Subjonctif",
+        "facet": "subj",
+        "tense": "Subjonctif"
+      },
+      {
+        "key": "s|0",
+        "facet": "sense",
+        "sense_zh": "鞭打"
+      },
+      {
+        "key": "s|1",
+        "facet": "sense",
+        "sense_zh": "搅打"
+      }
+    ]
+  },
+  {
+    "id": 7158,
+    "fr": "peigne",
+    "pos": "noun",
+    "gender": "m",
+    "en": "comb",
+    "zh": "梳子",
+    "slots": [
+      {
+        "key": "s|0",
+        "facet": "sense",
+        "sense_zh": "梳子"
+      },
+      {
+        "key": "gender",
+        "facet": "gender",
+        "gender": "m"
+      }
+    ]
+  },
+  {
+    "id": 7159,
+    "fr": "guitariste",
+    "pos": "noun",
+    "gender": "m",
+    "en": "guitarist",
+    "zh": "吉他手",
+    "slots": [
+      {
+        "key": "s|0",
+        "facet": "sense",
+        "sense_zh": "吉他手"
+      },
+      {
+        "key": "gender",
+        "facet": "gender",
+        "gender": "m"
+      }
+    ]
+  },
+  {
+    "id": 7160,
+    "fr": "peignoir",
+    "pos": "noun",
+    "gender": "m",
+    "en": "bathrobe; dressing gown",
+    "zh": "浴袍；晨衣",
+    "slots": [
+      {
+        "key": "s|0",
+        "facet": "sense",
+        "sense_zh": "浴袍"
+      },
+      {
+        "key": "s|1",
+        "facet": "sense",
+        "sense_zh": "晨衣"
+      },
+      {
+        "key": "gender",
+        "facet": "gender",
+        "gender": "m"
+      }
+    ]
+  },
+  {
+    "id": 7161,
+    "fr": "rudement",
+    "pos": "adv",
+    "gender": null,
+    "en": "roughly; extremely",
+    "zh": "粗鲁地；非常，极其",
+    "slots": [
+      {
+        "key": "s|0",
+        "facet": "sense",
+        "sense_zh": "粗鲁地"
+      },
+      {
+        "key": "s|1",
+        "facet": "sense",
+        "sense_zh": "非常，极其"
+      }
+    ]
+  },
+  {
+    "id": 7162,
+    "fr": "garagiste",
+    "pos": "noun",
+    "gender": "m",
+    "en": "garage owner; mechanic",
+    "zh": "汽车修理厂老板；修理工",
+    "slots": [
+      {
+        "key": "s|0",
+        "facet": "sense",
+        "sense_zh": "汽车修理厂老板"
+      },
+      {
+        "key": "s|1",
+        "facet": "sense",
+        "sense_zh": "修理工"
+      },
+      {
+        "key": "gender",
+        "facet": "gender",
+        "gender": "m"
+      }
+    ]
+  },
+  {
+    "id": 7163,
+    "fr": "pourpoint",
+    "pos": "noun",
+    "gender": "m",
+    "en": "doublet (historical padded jacket)",
+    "zh": "（中世纪）男式紧身短上衣",
+    "slots": [
+      {
+        "key": "s|0",
+        "facet": "sense",
+        "sense_zh": "（中世纪）男式紧身短上衣"
+      },
+      {
+        "key": "gender",
+        "facet": "gender",
+        "gender": "m"
+      }
+    ]
+  },
+  {
+    "id": 7164,
+    "fr": "infernal",
+    "pos": "adj",
+    "gender": null,
+    "en": "infernal; hellish",
+    "zh": "地狱的；恶魔般的；极讨厌的",
+    "slots": [
+      {
+        "key": "s|0",
+        "facet": "sense",
+        "sense_zh": "地狱的"
+      },
+      {
+        "key": "s|1",
+        "facet": "sense",
+        "sense_zh": "恶魔般的"
+      },
+      {
+        "key": "s|2",
+        "facet": "sense",
+        "sense_zh": "极讨厌的"
+      },
+      {
+        "key": "g|mp",
+        "facet": "agree",
+        "gender": "mp",
+        "label": "阳性复数"
+      },
+      {
+        "key": "g|f",
+        "facet": "agree",
+        "gender": "f",
+        "label": "阴性单数"
+      },
+      {
+        "key": "g|fp",
+        "facet": "agree",
+        "gender": "fp",
+        "label": "阴性复数"
+      }
+    ]
+  },
+  {
+    "id": 7165,
+    "fr": "ermitage",
+    "pos": "noun",
+    "gender": "m",
+    "en": "hermitage; secluded retreat",
+    "zh": "隐士居所；僻静的隐居处",
+    "slots": [
+      {
+        "key": "s|0",
+        "facet": "sense",
+        "sense_zh": "隐士居所"
+      },
+      {
+        "key": "s|1",
+        "facet": "sense",
+        "sense_zh": "僻静的隐居处"
+      },
+      {
+        "key": "gender",
+        "facet": "gender",
+        "gender": "m"
+      }
+    ]
+  },
+  {
+    "id": 7166,
+    "fr": "hanche",
+    "pos": "noun",
+    "gender": "f",
+    "en": "hip",
+    "zh": "髋；臀部；腰胯",
+    "slots": [
+      {
+        "key": "s|0",
+        "facet": "sense",
+        "sense_zh": "髋"
+      },
+      {
+        "key": "s|1",
+        "facet": "sense",
+        "sense_zh": "臀部"
+      },
+      {
+        "key": "s|2",
+        "facet": "sense",
+        "sense_zh": "腰胯"
+      },
+      {
+        "key": "gender",
+        "facet": "gender",
+        "gender": "f"
+      }
+    ]
+  },
+  {
+    "id": 7167,
+    "fr": "potier",
+    "pos": "noun",
+    "gender": "m",
+    "en": "potter",
+    "zh": "陶工；制陶工人",
+    "slots": [
+      {
+        "key": "s|0",
+        "facet": "sense",
+        "sense_zh": "陶工"
+      },
+      {
+        "key": "s|1",
+        "facet": "sense",
+        "sense_zh": "制陶工人"
+      },
+      {
+        "key": "gender",
+        "facet": "gender",
+        "gender": "m"
+      }
+    ]
+  },
+  {
+    "id": 7168,
+    "fr": "poignard",
+    "pos": "noun",
+    "gender": "m",
+    "en": "dagger",
+    "zh": "匕首；短剑",
+    "slots": [
+      {
+        "key": "s|0",
+        "facet": "sense",
+        "sense_zh": "匕首"
+      },
+      {
+        "key": "s|1",
+        "facet": "sense",
+        "sense_zh": "短剑"
+      },
+      {
+        "key": "gender",
+        "facet": "gender",
+        "gender": "m"
+      }
+    ]
+  },
+  {
+    "id": 7169,
+    "fr": "frisé",
+    "pos": "adj",
+    "gender": null,
+    "en": "curly; frizzy",
+    "zh": "卷曲的；卷发的",
+    "slots": [
+      {
+        "key": "s|0",
+        "facet": "sense",
+        "sense_zh": "卷曲的"
+      },
+      {
+        "key": "s|1",
+        "facet": "sense",
+        "sense_zh": "卷发的"
+      },
+      {
+        "key": "g|mp",
+        "facet": "agree",
+        "gender": "mp",
+        "label": "阳性复数"
+      },
+      {
+        "key": "g|f",
+        "facet": "agree",
+        "gender": "f",
+        "label": "阴性单数"
+      },
+      {
+        "key": "g|fp",
+        "facet": "agree",
+        "gender": "fp",
+        "label": "阴性复数"
+      }
+    ]
+  }
+]

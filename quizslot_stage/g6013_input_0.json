@@ -1,0 +1,1171 @@
+[
+  {
+    "id": 7095,
+    "fr": "largeur",
+    "pos": "noun",
+    "gender": "f",
+    "en": "width; breadth",
+    "zh": "宽度；广度",
+    "slots": [
+      {
+        "key": "s|0",
+        "facet": "sense",
+        "sense_zh": "宽度"
+      },
+      {
+        "key": "s|1",
+        "facet": "sense",
+        "sense_zh": "广度"
+      },
+      {
+        "key": "gender",
+        "facet": "gender",
+        "gender": "f"
+      }
+    ]
+  },
+  {
+    "id": 7096,
+    "fr": "complainte",
+    "pos": "noun",
+    "gender": "f",
+    "en": "lament; plaintive song",
+    "zh": "哀歌；悲叹",
+    "slots": [
+      {
+        "key": "s|0",
+        "facet": "sense",
+        "sense_zh": "哀歌"
+      },
+      {
+        "key": "s|1",
+        "facet": "sense",
+        "sense_zh": "悲叹"
+      },
+      {
+        "key": "gender",
+        "facet": "gender",
+        "gender": "f"
+      }
+    ]
+  },
+  {
+    "id": 7097,
+    "fr": "grotesque",
+    "pos": "adj",
+    "gender": null,
+    "en": "grotesque; absurd, ridiculous",
+    "zh": "怪诞的；荒唐可笑的",
+    "slots": [
+      {
+        "key": "s|0",
+        "facet": "sense",
+        "sense_zh": "怪诞的"
+      },
+      {
+        "key": "s|1",
+        "facet": "sense",
+        "sense_zh": "荒唐可笑的"
+      },
+      {
+        "key": "g|mp",
+        "facet": "agree",
+        "gender": "mp",
+        "label": "阳性复数"
+      },
+      {
+        "key": "g|f",
+        "facet": "agree",
+        "gender": "f",
+        "label": "阴性单数"
+      },
+      {
+        "key": "g|fp",
+        "facet": "agree",
+        "gender": "fp",
+        "label": "阴性复数"
+      }
+    ]
+  },
+  {
+    "id": 7098,
+    "fr": "caverne",
+    "pos": "noun",
+    "gender": "f",
+    "en": "cavern; large cave",
+    "zh": "洞穴；大岩洞",
+    "slots": [
+      {
+        "key": "s|0",
+        "facet": "sense",
+        "sense_zh": "洞穴"
+      },
+      {
+        "key": "s|1",
+        "facet": "sense",
+        "sense_zh": "大岩洞"
+      },
+      {
+        "key": "gender",
+        "facet": "gender",
+        "gender": "f"
+      }
+    ]
+  },
+  {
+    "id": 7099,
+    "fr": "foulard",
+    "pos": "noun",
+    "gender": "m",
+    "en": "scarf; neckerchief",
+    "zh": "丝巾；围巾",
+    "slots": [
+      {
+        "key": "s|0",
+        "facet": "sense",
+        "sense_zh": "丝巾"
+      },
+      {
+        "key": "s|1",
+        "facet": "sense",
+        "sense_zh": "围巾"
+      },
+      {
+        "key": "gender",
+        "facet": "gender",
+        "gender": "m"
+      }
+    ]
+  },
+  {
+    "id": 7100,
+    "fr": "betterave",
+    "pos": "noun",
+    "gender": "f",
+    "en": "beet; beetroot",
+    "zh": "甜菜；糖萝卜",
+    "slots": [
+      {
+        "key": "s|0",
+        "facet": "sense",
+        "sense_zh": "甜菜"
+      },
+      {
+        "key": "s|1",
+        "facet": "sense",
+        "sense_zh": "糖萝卜"
+      },
+      {
+        "key": "gender",
+        "facet": "gender",
+        "gender": "f"
+      }
+    ]
+  },
+  {
+    "id": 7101,
+    "fr": "biotechnologie",
+    "pos": "noun",
+    "gender": "f",
+    "en": "biotechnology",
+    "zh": "生物技术；生物科技",
+    "slots": [
+      {
+        "key": "s|0",
+        "facet": "sense",
+        "sense_zh": "生物技术"
+      },
+      {
+        "key": "s|1",
+        "facet": "sense",
+        "sense_zh": "生物科技"
+      },
+      {
+        "key": "gender",
+        "facet": "gender",
+        "gender": "f"
+      }
+    ]
+  },
+  {
+    "id": 7102,
+    "fr": "praticien",
+    "pos": "noun",
+    "gender": "m",
+    "en": "practitioner; practicing professional",
+    "zh": "执业医师；开业从业者",
+    "slots": [
+      {
+        "key": "s|0",
+        "facet": "sense",
+        "sense_zh": "执业医师"
+      },
+      {
+        "key": "s|1",
+        "facet": "sense",
+        "sense_zh": "开业从业者"
+      },
+      {
+        "key": "gender",
+        "facet": "gender",
+        "gender": "m"
+      }
+    ]
+  },
+  {
+    "id": 7103,
+    "fr": "val",
+    "pos": "noun",
+    "gender": "m",
+    "en": "valley (literary); vale",
+    "zh": "山谷；溪谷（文学用语）",
+    "slots": [
+      {
+        "key": "s|0",
+        "facet": "sense",
+        "sense_zh": "山谷"
+      },
+      {
+        "key": "s|1",
+        "facet": "sense",
+        "sense_zh": "溪谷（文学用语）"
+      },
+      {
+        "key": "gender",
+        "facet": "gender",
+        "gender": "m"
+      }
+    ]
+  },
+  {
+    "id": 7104,
+    "fr": "éphémère",
+    "pos": "adj",
+    "gender": null,
+    "en": "ephemeral; fleeting, short-lived",
+    "zh": "短暂的；转瞬即逝的",
+    "slots": [
+      {
+        "key": "s|0",
+        "facet": "sense",
+        "sense_zh": "短暂的"
+      },
+      {
+        "key": "s|1",
+        "facet": "sense",
+        "sense_zh": "转瞬即逝的"
+      },
+      {
+        "key": "g|mp",
+        "facet": "agree",
+        "gender": "mp",
+        "label": "阳性复数"
+      },
+      {
+        "key": "g|f",
+        "facet": "agree",
+        "gender": "f",
+        "label": "阴性单数"
+      },
+      {
+        "key": "g|fp",
+        "facet": "agree",
+        "gender": "fp",
+        "label": "阴性复数"
+      }
+    ]
+  },
+  {
+    "id": 7105,
+    "fr": "christ",
+    "pos": "noun",
+    "gender": "m",
+    "en": "Christ; the Messiah",
+    "zh": "基督；救世主",
+    "slots": [
+      {
+        "key": "s|0",
+        "facet": "sense",
+        "sense_zh": "基督"
+      },
+      {
+        "key": "s|1",
+        "facet": "sense",
+        "sense_zh": "救世主"
+      },
+      {
+        "key": "gender",
+        "facet": "gender",
+        "gender": "m"
+      }
+    ]
+  },
+  {
+    "id": 7106,
+    "fr": "portraire",
+    "pos": "verb",
+    "gender": null,
+    "en": "to portray; to depict",
+    "zh": "描绘；刻画",
+    "slots": [
+      {
+        "key": "t|Présent|0",
+        "facet": "tense",
+        "tense": "Présent",
+        "target": "portrais",
+        "persons": [
+          "je/j'",
+          "tu"
+        ]
+      },
+      {
+        "key": "t|Présent|1",
+        "facet": "tense",
+        "tense": "Présent",
+        "target": "portrait",
+        "persons": [
+          "il/elle/on"
+        ]
+      },
+      {
+        "key": "t|Présent|2",
+        "facet": "tense",
+        "tense": "Présent",
+        "target": "portrayons",
+        "persons": [
+          "nous"
+        ]
+      },
+      {
+        "key": "t|Présent|3",
+        "facet": "tense",
+        "tense": "Présent",
+        "target": "portrayez",
+        "persons": [
+          "vous"
+        ]
+      },
+      {
+        "key": "t|Présent|4",
+        "facet": "tense",
+        "tense": "Présent",
+        "target": "portraient",
+        "persons": [
+          "ils/elles"
+        ]
+      },
+      {
+        "key": "t|Passé composé|0",
+        "facet": "tense",
+        "tense": "Passé composé",
+        "target": "ai portrait",
+        "persons": [
+          "je/j'"
+        ]
+      },
+      {
+        "key": "t|Passé composé|1",
+        "facet": "tense",
+        "tense": "Passé composé",
+        "target": "as portrait",
+        "persons": [
+          "tu"
+        ]
+      },
+      {
+        "key": "t|Passé composé|2",
+        "facet": "tense",
+        "tense": "Passé composé",
+        "target": "a portrait",
+        "persons": [
+          "il/elle/on"
+        ]
+      },
+      {
+        "key": "t|Passé composé|3",
+        "facet": "tense",
+        "tense": "Passé composé",
+        "target": "avons portrait",
+        "persons": [
+          "nous"
+        ]
+      },
+      {
+        "key": "t|Passé composé|4",
+        "facet": "tense",
+        "tense": "Passé composé",
+        "target": "avez portrait",
+        "persons": [
+          "vous"
+        ]
+      },
+      {
+        "key": "t|Passé composé|5",
+        "facet": "tense",
+        "tense": "Passé composé",
+        "target": "ont portrait",
+        "persons": [
+          "ils/elles"
+        ]
+      },
+      {
+        "key": "t|Imparfait|0",
+        "facet": "tense",
+        "tense": "Imparfait",
+        "target": "portrayais",
+        "persons": [
+          "je/j'",
+          "tu"
+        ]
+      },
+      {
+        "key": "t|Imparfait|1",
+        "facet": "tense",
+        "tense": "Imparfait",
+        "target": "portrayait",
+        "persons": [
+          "il/elle/on"
+        ]
+      },
+      {
+        "key": "t|Imparfait|2",
+        "facet": "tense",
+        "tense": "Imparfait",
+        "target": "portrayions",
+        "persons": [
+          "nous"
+        ]
+      },
+      {
+        "key": "t|Imparfait|3",
+        "facet": "tense",
+        "tense": "Imparfait",
+        "target": "portrayiez",
+        "persons": [
+          "vous"
+        ]
+      },
+      {
+        "key": "t|Imparfait|4",
+        "facet": "tense",
+        "tense": "Imparfait",
+        "target": "portrayaient",
+        "persons": [
+          "ils/elles"
+        ]
+      },
+      {
+        "key": "t|Futur|0",
+        "facet": "tense",
+        "tense": "Futur",
+        "target": "portrairai",
+        "persons": [
+          "je/j'"
+        ]
+      },
+      {
+        "key": "t|Futur|1",
+        "facet": "tense",
+        "tense": "Futur",
+        "target": "portrairas",
+        "persons": [
+          "tu"
+        ]
+      },
+      {
+        "key": "t|Futur|2",
+        "facet": "tense",
+        "tense": "Futur",
+        "target": "portraira",
+        "persons": [
+          "il/elle/on"
+        ]
+      },
+      {
+        "key": "t|Futur|3",
+        "facet": "tense",
+        "tense": "Futur",
+        "target": "portrairons",
+        "persons": [
+          "nous"
+        ]
+      },
+      {
+        "key": "t|Futur|4",
+        "facet": "tense",
+        "tense": "Futur",
+        "target": "portrairez",
+        "persons": [
+          "vous"
+        ]
+      },
+      {
+        "key": "t|Futur|5",
+        "facet": "tense",
+        "tense": "Futur",
+        "target": "portrairont",
+        "persons": [
+          "ils/elles"
+        ]
+      },
+      {
+        "key": "t|Conditionnel|0",
+        "facet": "tense",
+        "tense": "Conditionnel",
+        "target": "portrairais",
+        "persons": [
+          "je/j'",
+          "tu"
+        ]
+      },
+      {
+        "key": "t|Conditionnel|1",
+        "facet": "tense",
+        "tense": "Conditionnel",
+        "target": "portrairait",
+        "persons": [
+          "il/elle/on"
+        ]
+      },
+      {
+        "key": "t|Conditionnel|2",
+        "facet": "tense",
+        "tense": "Conditionnel",
+        "target": "portrairions",
+        "persons": [
+          "nous"
+        ]
+      },
+      {
+        "key": "t|Conditionnel|3",
+        "facet": "tense",
+        "tense": "Conditionnel",
+        "target": "portrairiez",
+        "persons": [
+          "vous"
+        ]
+      },
+      {
+        "key": "t|Conditionnel|4",
+        "facet": "tense",
+        "tense": "Conditionnel",
+        "target": "portrairaient",
+        "persons": [
+          "ils/elles"
+        ]
+      },
+      {
+        "key": "t|Subjonctif",
+        "facet": "subj",
+        "tense": "Subjonctif"
+      },
+      {
+        "key": "s|0",
+        "facet": "sense",
+        "sense_zh": "描绘"
+      },
+      {
+        "key": "s|1",
+        "facet": "sense",
+        "sense_zh": "刻画"
+      }
+    ]
+  },
+  {
+    "id": 7107,
+    "fr": "mantille",
+    "pos": "noun",
+    "gender": "f",
+    "en": "mantilla; lace headscarf",
+    "zh": "曼蒂拉（西班牙蕾丝头纱）",
+    "slots": [
+      {
+        "key": "s|0",
+        "facet": "sense",
+        "sense_zh": "曼蒂拉（西班牙蕾丝头纱）"
+      },
+      {
+        "key": "gender",
+        "facet": "gender",
+        "gender": "f"
+      }
+    ]
+  },
+  {
+    "id": 7108,
+    "fr": "tourne",
+    "pos": "noun",
+    "gender": "f",
+    "en": "turn; rotation; bend",
+    "zh": "旋转；转弯；转向",
+    "slots": [
+      {
+        "key": "s|0",
+        "facet": "sense",
+        "sense_zh": "旋转"
+      },
+      {
+        "key": "s|1",
+        "facet": "sense",
+        "sense_zh": "转弯"
+      },
+      {
+        "key": "s|2",
+        "facet": "sense",
+        "sense_zh": "转向"
+      },
+      {
+        "key": "gender",
+        "facet": "gender",
+        "gender": "f"
+      }
+    ]
+  },
+  {
+    "id": 7109,
+    "fr": "athlétisme",
+    "pos": "noun",
+    "gender": "m",
+    "en": "athletics; track and field",
+    "zh": "田径运动；竞技",
+    "slots": [
+      {
+        "key": "s|0",
+        "facet": "sense",
+        "sense_zh": "田径运动"
+      },
+      {
+        "key": "s|1",
+        "facet": "sense",
+        "sense_zh": "竞技"
+      },
+      {
+        "key": "gender",
+        "facet": "gender",
+        "gender": "m"
+      }
+    ]
+  },
+  {
+    "id": 7110,
+    "fr": "calembour",
+    "pos": "noun",
+    "gender": "m",
+    "en": "pun; play on words",
+    "zh": "双关语；文字游戏",
+    "slots": [
+      {
+        "key": "s|0",
+        "facet": "sense",
+        "sense_zh": "双关语"
+      },
+      {
+        "key": "s|1",
+        "facet": "sense",
+        "sense_zh": "文字游戏"
+      },
+      {
+        "key": "gender",
+        "facet": "gender",
+        "gender": "m"
+      }
+    ]
+  },
+  {
+    "id": 7111,
+    "fr": "démener",
+    "pos": "verb",
+    "gender": null,
+    "en": "to thrash about; to bustle; to struggle",
+    "zh": "拼命挣扎；忙碌，折腾",
+    "slots": [
+      {
+        "key": "t|Présent|0",
+        "facet": "tense",
+        "tense": "Présent",
+        "target": "démène",
+        "persons": [
+          "je/j'",
+          "il/elle/on"
+        ]
+      },
+      {
+        "key": "t|Présent|1",
+        "facet": "tense",
+        "tense": "Présent",
+        "target": "démènes",
+        "persons": [
+          "tu"
+        ]
+      },
+      {
+        "key": "t|Présent|2",
+        "facet": "tense",
+        "tense": "Présent",
+        "target": "démenons",
+        "persons": [
+          "nous"
+        ]
+      },
+      {
+        "key": "t|Présent|3",
+        "facet": "tense",
+        "tense": "Présent",
+        "target": "démenez",
+        "persons": [
+          "vous"
+        ]
+      },
+      {
+        "key": "t|Présent|4",
+        "facet": "tense",
+        "tense": "Présent",
+        "target": "démènent",
+        "persons": [
+          "ils/elles"
+        ]
+      },
+      {
+        "key": "t|Passé composé|0",
+        "facet": "tense",
+        "tense": "Passé composé",
+        "target": "ai démené",
+        "persons": [
+          "je/j'"
+        ]
+      },
+      {
+        "key": "t|Passé composé|1",
+        "facet": "tense",
+        "tense": "Passé composé",
+        "target": "as démené",
+        "persons": [
+          "tu"
+        ]
+      },
+      {
+        "key": "t|Passé composé|2",
+        "facet": "tense",
+        "tense": "Passé composé",
+        "target": "a démené",
+        "persons": [
+          "il/elle/on"
+        ]
+      },
+      {
+        "key": "t|Passé composé|3",
+        "facet": "tense",
+        "tense": "Passé composé",
+        "target": "avons démené",
+        "persons": [
+          "nous"
+        ]
+      },
+      {
+        "key": "t|Passé composé|4",
+        "facet": "tense",
+        "tense": "Passé composé",
+        "target": "avez démené",
+        "persons": [
+          "vous"
+        ]
+      },
+      {
+        "key": "t|Passé composé|5",
+        "facet": "tense",
+        "tense": "Passé composé",
+        "target": "ont démené",
+        "persons": [
+          "ils/elles"
+        ]
+      },
+      {
+        "key": "t|Imparfait|0",
+        "facet": "tense",
+        "tense": "Imparfait",
+        "target": "démenais",
+        "persons": [
+          "je/j'",
+          "tu"
+        ]
+      },
+      {
+        "key": "t|Imparfait|1",
+        "facet": "tense",
+        "tense": "Imparfait",
+        "target": "démenait",
+        "persons": [
+          "il/elle/on"
+        ]
+      },
+      {
+        "key": "t|Imparfait|2",
+        "facet": "tense",
+        "tense": "Imparfait",
+        "target": "démenions",
+        "persons": [
+          "nous"
+        ]
+      },
+      {
+        "key": "t|Imparfait|3",
+        "facet": "tense",
+        "tense": "Imparfait",
+        "target": "démeniez",
+        "persons": [
+          "vous"
+        ]
+      },
+      {
+        "key": "t|Imparfait|4",
+        "facet": "tense",
+        "tense": "Imparfait",
+        "target": "démenaient",
+        "persons": [
+          "ils/elles"
+        ]
+      },
+      {
+        "key": "t|Futur|0",
+        "facet": "tense",
+        "tense": "Futur",
+        "target": "démènerai",
+        "persons": [
+          "je/j'"
+        ]
+      },
+      {
+        "key": "t|Futur|1",
+        "facet": "tense",
+        "tense": "Futur",
+        "target": "démèneras",
+        "persons": [
+          "tu"
+        ]
+      },
+      {
+        "key": "t|Futur|2",
+        "facet": "tense",
+        "tense": "Futur",
+        "target": "démènera",
+        "persons": [
+          "il/elle/on"
+        ]
+      },
+      {
+        "key": "t|Futur|3",
+        "facet": "tense",
+        "tense": "Futur",
+        "target": "démènerons",
+        "persons": [
+          "nous"
+        ]
+      },
+      {
+        "key": "t|Futur|4",
+        "facet": "tense",
+        "tense": "Futur",
+        "target": "démènerez",
+        "persons": [
+          "vous"
+        ]
+      },
+      {
+        "key": "t|Futur|5",
+        "facet": "tense",
+        "tense": "Futur",
+        "target": "démèneront",
+        "persons": [
+          "ils/elles"
+        ]
+      },
+      {
+        "key": "t|Conditionnel|0",
+        "facet": "tense",
+        "tense": "Conditionnel",
+        "target": "démènerais",
+        "persons": [
+          "je/j'",
+          "tu"
+        ]
+      },
+      {
+        "key": "t|Conditionnel|1",
+        "facet": "tense",
+        "tense": "Conditionnel",
+        "target": "démènerait",
+        "persons": [
+          "il/elle/on"
+        ]
+      },
+      {
+        "key": "t|Conditionnel|2",
+        "facet": "tense",
+        "tense": "Conditionnel",
+        "target": "démènerions",
+        "persons": [
+          "nous"
+        ]
+      },
+      {
+        "key": "t|Conditionnel|3",
+        "facet": "tense",
+        "tense": "Conditionnel",
+        "target": "démèneriez",
+        "persons": [
+          "vous"
+        ]
+      },
+      {
+        "key": "t|Conditionnel|4",
+        "facet": "tense",
+        "tense": "Conditionnel",
+        "target": "démèneraient",
+        "persons": [
+          "ils/elles"
+        ]
+      },
+      {
+        "key": "t|Subjonctif",
+        "facet": "subj",
+        "tense": "Subjonctif"
+      },
+      {
+        "key": "s|0",
+        "facet": "sense",
+        "sense_zh": "拼命挣扎"
+      },
+      {
+        "key": "s|1",
+        "facet": "sense",
+        "sense_zh": "忙碌，折腾"
+      }
+    ]
+  },
+  {
+    "id": 7112,
+    "fr": "forteresse",
+    "pos": "noun",
+    "gender": "f",
+    "en": "fortress; stronghold",
+    "zh": "堡垒；要塞",
+    "slots": [
+      {
+        "key": "s|0",
+        "facet": "sense",
+        "sense_zh": "堡垒"
+      },
+      {
+        "key": "s|1",
+        "facet": "sense",
+        "sense_zh": "要塞"
+      },
+      {
+        "key": "gender",
+        "facet": "gender",
+        "gender": "f"
+      }
+    ]
+  },
+  {
+    "id": 7113,
+    "fr": "plasticité",
+    "pos": "noun",
+    "gender": "f",
+    "en": "plasticity; malleability; adaptability",
+    "zh": "可塑性；适应性",
+    "slots": [
+      {
+        "key": "s|0",
+        "facet": "sense",
+        "sense_zh": "可塑性"
+      },
+      {
+        "key": "s|1",
+        "facet": "sense",
+        "sense_zh": "适应性"
+      },
+      {
+        "key": "gender",
+        "facet": "gender",
+        "gender": "f"
+      }
+    ]
+  },
+  {
+    "id": 7114,
+    "fr": "solvant",
+    "pos": "noun",
+    "gender": "m",
+    "en": "solvent",
+    "zh": "溶剂",
+    "slots": [
+      {
+        "key": "s|0",
+        "facet": "sense",
+        "sense_zh": "溶剂"
+      },
+      {
+        "key": "gender",
+        "facet": "gender",
+        "gender": "m"
+      }
+    ]
+  },
+  {
+    "id": 7115,
+    "fr": "stagiaire",
+    "pos": "noun",
+    "gender": "m",
+    "en": "intern; trainee",
+    "zh": "实习生；见习生",
+    "slots": [
+      {
+        "key": "s|0",
+        "facet": "sense",
+        "sense_zh": "实习生"
+      },
+      {
+        "key": "s|1",
+        "facet": "sense",
+        "sense_zh": "见习生"
+      },
+      {
+        "key": "gender",
+        "facet": "gender",
+        "gender": "m"
+      }
+    ]
+  },
+  {
+    "id": 7116,
+    "fr": "biscotte",
+    "pos": "noun",
+    "gender": "f",
+    "en": "rusk; crispbread; dry biscuit",
+    "zh": "烤面包干；干饼干",
+    "slots": [
+      {
+        "key": "s|0",
+        "facet": "sense",
+        "sense_zh": "烤面包干"
+      },
+      {
+        "key": "s|1",
+        "facet": "sense",
+        "sense_zh": "干饼干"
+      },
+      {
+        "key": "gender",
+        "facet": "gender",
+        "gender": "f"
+      }
+    ]
+  },
+  {
+    "id": 7117,
+    "fr": "criard",
+    "pos": "adj",
+    "gender": null,
+    "en": "shrill; strident; loud; gaudy (color)",
+    "zh": "刺耳的；刺眼的，花哨的",
+    "slots": [
+      {
+        "key": "s|0",
+        "facet": "sense",
+        "sense_zh": "刺耳的"
+      },
+      {
+        "key": "s|1",
+        "facet": "sense",
+        "sense_zh": "刺眼的，花哨的"
+      },
+      {
+        "key": "g|mp",
+        "facet": "agree",
+        "gender": "mp",
+        "label": "阳性复数"
+      },
+      {
+        "key": "g|f",
+        "facet": "agree",
+        "gender": "f",
+        "label": "阴性单数"
+      },
+      {
+        "key": "g|fp",
+        "facet": "agree",
+        "gender": "fp",
+        "label": "阴性复数"
+      }
+    ]
+  },
+  {
+    "id": 7118,
+    "fr": "forfaitaire",
+    "pos": "adj",
+    "gender": null,
+    "en": "lump-sum; flat-rate; all-inclusive",
+    "zh": "一揽子的；包干的；按总价计算的",
+    "slots": [
+      {
+        "key": "s|0",
+        "facet": "sense",
+        "sense_zh": "一揽子的"
+      },
+      {
+        "key": "s|1",
+        "facet": "sense",
+        "sense_zh": "包干的"
+      },
+      {
+        "key": "s|2",
+        "facet": "sense",
+        "sense_zh": "按总价计算的"
+      },
+      {
+        "key": "g|mp",
+        "facet": "agree",
+        "gender": "mp",
+        "label": "阳性复数"
+      },
+      {
+        "key": "g|f",
+        "facet": "agree",
+        "gender": "f",
+        "label": "阴性单数"
+      },
+      {
+        "key": "g|fp",
+        "facet": "agree",
+        "gender": "fp",
+        "label": "阴性复数"
+      }
+    ]
+  },
+  {
+    "id": 7119,
+    "fr": "liseré",
+    "pos": "noun",
+    "gender": "m",
+    "en": "border; edging; trim",
+    "zh": "镶边；边饰",
+    "slots": [
+      {
+        "key": "s|0",
+        "facet": "sense",
+        "sense_zh": "镶边"
+      },
+      {
+        "key": "s|1",
+        "facet": "sense",
+        "sense_zh": "边饰"
+      },
+      {
+        "key": "gender",
+        "facet": "gender",
+        "gender": "m"
+      }
+    ]
+  }
+]

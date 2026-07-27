@@ -1,0 +1,1215 @@
+[
+  {
+    "id": 7245,
+    "fr": "stimulation",
+    "pos": "noun",
+    "gender": "f",
+    "en": "stimulation, incitement",
+    "zh": "刺激；激励；促进",
+    "slots": [
+      {
+        "key": "s|0",
+        "facet": "sense",
+        "sense_zh": "刺激"
+      },
+      {
+        "key": "s|1",
+        "facet": "sense",
+        "sense_zh": "激励"
+      },
+      {
+        "key": "s|2",
+        "facet": "sense",
+        "sense_zh": "促进"
+      },
+      {
+        "key": "gender",
+        "facet": "gender",
+        "gender": "f"
+      }
+    ]
+  },
+  {
+    "id": 7246,
+    "fr": "prototype",
+    "pos": "noun",
+    "gender": "m",
+    "en": "prototype, original model",
+    "zh": "原型；样机；雏形",
+    "slots": [
+      {
+        "key": "s|0",
+        "facet": "sense",
+        "sense_zh": "原型"
+      },
+      {
+        "key": "s|1",
+        "facet": "sense",
+        "sense_zh": "样机"
+      },
+      {
+        "key": "s|2",
+        "facet": "sense",
+        "sense_zh": "雏形"
+      },
+      {
+        "key": "gender",
+        "facet": "gender",
+        "gender": "m"
+      }
+    ]
+  },
+  {
+    "id": 7247,
+    "fr": "cyclisme",
+    "pos": "noun",
+    "gender": "m",
+    "en": "cycling, bicycling",
+    "zh": "骑自行车运动；自行车运动",
+    "slots": [
+      {
+        "key": "s|0",
+        "facet": "sense",
+        "sense_zh": "骑自行车运动"
+      },
+      {
+        "key": "s|1",
+        "facet": "sense",
+        "sense_zh": "自行车运动"
+      },
+      {
+        "key": "gender",
+        "facet": "gender",
+        "gender": "m"
+      }
+    ]
+  },
+  {
+    "id": 7248,
+    "fr": "navet",
+    "pos": "noun",
+    "gender": "m",
+    "en": "turnip; (colloquial) flop, turkey (film or play)",
+    "zh": "芜菁；萝卜；（口语）烂片，失败之作",
+    "slots": [
+      {
+        "key": "s|0",
+        "facet": "sense",
+        "sense_zh": "芜菁"
+      },
+      {
+        "key": "s|1",
+        "facet": "sense",
+        "sense_zh": "萝卜"
+      },
+      {
+        "key": "s|2",
+        "facet": "sense",
+        "sense_zh": "（口语）烂片，失败之作"
+      },
+      {
+        "key": "gender",
+        "facet": "gender",
+        "gender": "m"
+      }
+    ]
+  },
+  {
+    "id": 7249,
+    "fr": "équitation",
+    "pos": "noun",
+    "gender": "f",
+    "en": "horseback riding, equestrianism",
+    "zh": "骑马；马术",
+    "slots": [
+      {
+        "key": "s|0",
+        "facet": "sense",
+        "sense_zh": "骑马"
+      },
+      {
+        "key": "s|1",
+        "facet": "sense",
+        "sense_zh": "马术"
+      },
+      {
+        "key": "gender",
+        "facet": "gender",
+        "gender": "f"
+      }
+    ]
+  },
+  {
+    "id": 7250,
+    "fr": "fâcheux",
+    "pos": "adj",
+    "gender": null,
+    "en": "annoying, regrettable, troublesome",
+    "zh": "令人烦恼的；遗憾的；棘手的",
+    "slots": [
+      {
+        "key": "s|0",
+        "facet": "sense",
+        "sense_zh": "令人烦恼的"
+      },
+      {
+        "key": "s|1",
+        "facet": "sense",
+        "sense_zh": "遗憾的"
+      },
+      {
+        "key": "s|2",
+        "facet": "sense",
+        "sense_zh": "棘手的"
+      },
+      {
+        "key": "g|mp",
+        "facet": "agree",
+        "gender": "mp",
+        "label": "阳性复数"
+      },
+      {
+        "key": "g|f",
+        "facet": "agree",
+        "gender": "f",
+        "label": "阴性单数"
+      },
+      {
+        "key": "g|fp",
+        "facet": "agree",
+        "gender": "fp",
+        "label": "阴性复数"
+      }
+    ]
+  },
+  {
+    "id": 7251,
+    "fr": "appropriation",
+    "pos": "noun",
+    "gender": "f",
+    "en": "appropriation, taking possession",
+    "zh": "占有；挪用；据为己有",
+    "slots": [
+      {
+        "key": "s|0",
+        "facet": "sense",
+        "sense_zh": "占有"
+      },
+      {
+        "key": "s|1",
+        "facet": "sense",
+        "sense_zh": "挪用"
+      },
+      {
+        "key": "s|2",
+        "facet": "sense",
+        "sense_zh": "据为己有"
+      },
+      {
+        "key": "gender",
+        "facet": "gender",
+        "gender": "f"
+      }
+    ]
+  },
+  {
+    "id": 7252,
+    "fr": "aéroportuaire",
+    "pos": "adj",
+    "gender": null,
+    "en": "airport-related, airport (system)",
+    "zh": "机场的；航空港的",
+    "slots": [
+      {
+        "key": "s|0",
+        "facet": "sense",
+        "sense_zh": "机场的"
+      },
+      {
+        "key": "s|1",
+        "facet": "sense",
+        "sense_zh": "航空港的"
+      },
+      {
+        "key": "g|mp",
+        "facet": "agree",
+        "gender": "mp",
+        "label": "阳性复数"
+      },
+      {
+        "key": "g|f",
+        "facet": "agree",
+        "gender": "f",
+        "label": "阴性单数"
+      },
+      {
+        "key": "g|fp",
+        "facet": "agree",
+        "gender": "fp",
+        "label": "阴性复数"
+      }
+    ]
+  },
+  {
+    "id": 7253,
+    "fr": "bonhomie",
+    "pos": "noun",
+    "gender": "f",
+    "en": "good-naturedness, affability, geniality",
+    "zh": "和善；豪爽；平易近人",
+    "slots": [
+      {
+        "key": "s|0",
+        "facet": "sense",
+        "sense_zh": "和善"
+      },
+      {
+        "key": "s|1",
+        "facet": "sense",
+        "sense_zh": "豪爽"
+      },
+      {
+        "key": "s|2",
+        "facet": "sense",
+        "sense_zh": "平易近人"
+      },
+      {
+        "key": "gender",
+        "facet": "gender",
+        "gender": "f"
+      }
+    ]
+  },
+  {
+    "id": 7254,
+    "fr": "garderie",
+    "pos": "noun",
+    "gender": "f",
+    "en": "day care, daycare center, nursery",
+    "zh": "日托中心；托儿所",
+    "slots": [
+      {
+        "key": "s|0",
+        "facet": "sense",
+        "sense_zh": "日托中心"
+      },
+      {
+        "key": "s|1",
+        "facet": "sense",
+        "sense_zh": "托儿所"
+      },
+      {
+        "key": "gender",
+        "facet": "gender",
+        "gender": "f"
+      }
+    ]
+  },
+  {
+    "id": 7255,
+    "fr": "vecteur",
+    "pos": "noun",
+    "gender": "m",
+    "en": "vector, carrier, means of transmission",
+    "zh": "向量；载体；传播媒介",
+    "slots": [
+      {
+        "key": "s|0",
+        "facet": "sense",
+        "sense_zh": "向量"
+      },
+      {
+        "key": "s|1",
+        "facet": "sense",
+        "sense_zh": "载体"
+      },
+      {
+        "key": "s|2",
+        "facet": "sense",
+        "sense_zh": "传播媒介"
+      },
+      {
+        "key": "gender",
+        "facet": "gender",
+        "gender": "m"
+      }
+    ]
+  },
+  {
+    "id": 7256,
+    "fr": "inventivité",
+    "pos": "noun",
+    "gender": "f",
+    "en": "inventiveness, creativity",
+    "zh": "创造力；发明才能",
+    "slots": [
+      {
+        "key": "s|0",
+        "facet": "sense",
+        "sense_zh": "创造力"
+      },
+      {
+        "key": "s|1",
+        "facet": "sense",
+        "sense_zh": "发明才能"
+      },
+      {
+        "key": "gender",
+        "facet": "gender",
+        "gender": "f"
+      }
+    ]
+  },
+  {
+    "id": 7257,
+    "fr": "conduit",
+    "pos": "noun",
+    "gender": "m",
+    "en": "pipe, duct, conduit; (figurative) channel",
+    "zh": "管道；导管；渠道",
+    "slots": [
+      {
+        "key": "s|0",
+        "facet": "sense",
+        "sense_zh": "管道"
+      },
+      {
+        "key": "s|1",
+        "facet": "sense",
+        "sense_zh": "导管"
+      },
+      {
+        "key": "s|2",
+        "facet": "sense",
+        "sense_zh": "渠道"
+      },
+      {
+        "key": "gender",
+        "facet": "gender",
+        "gender": "m"
+      }
+    ]
+  },
+  {
+    "id": 7258,
+    "fr": "contraception",
+    "pos": "noun",
+    "gender": "f",
+    "en": "contraception, birth control",
+    "zh": "避孕；节育",
+    "slots": [
+      {
+        "key": "s|0",
+        "facet": "sense",
+        "sense_zh": "避孕"
+      },
+      {
+        "key": "s|1",
+        "facet": "sense",
+        "sense_zh": "节育"
+      },
+      {
+        "key": "gender",
+        "facet": "gender",
+        "gender": "f"
+      }
+    ]
+  },
+  {
+    "id": 7259,
+    "fr": "ordure",
+    "pos": "noun",
+    "gender": "f",
+    "en": "garbage, trash, filth; (vulgar) scumbag",
+    "zh": "垃圾；污秽；（粗话）混蛋",
+    "slots": [
+      {
+        "key": "s|0",
+        "facet": "sense",
+        "sense_zh": "垃圾"
+      },
+      {
+        "key": "s|1",
+        "facet": "sense",
+        "sense_zh": "污秽"
+      },
+      {
+        "key": "s|2",
+        "facet": "sense",
+        "sense_zh": "（粗话）混蛋"
+      },
+      {
+        "key": "gender",
+        "facet": "gender",
+        "gender": "f"
+      }
+    ]
+  },
+  {
+    "id": 7260,
+    "fr": "pilotage",
+    "pos": "noun",
+    "gender": "m",
+    "en": "piloting, flying, steering; management",
+    "zh": "驾驶；领航；指导/管理",
+    "slots": [
+      {
+        "key": "s|0",
+        "facet": "sense",
+        "sense_zh": "驾驶"
+      },
+      {
+        "key": "s|1",
+        "facet": "sense",
+        "sense_zh": "领航"
+      },
+      {
+        "key": "s|2",
+        "facet": "sense",
+        "sense_zh": "指导/管理"
+      },
+      {
+        "key": "gender",
+        "facet": "gender",
+        "gender": "m"
+      }
+    ]
+  },
+  {
+    "id": 7261,
+    "fr": "pleurant",
+    "pos": "noun",
+    "gender": "m",
+    "en": "mourner, weeper; (art) kneeling figure on a tomb",
+    "zh": "哭泣者；墓地哀悼雕像",
+    "slots": [
+      {
+        "key": "s|0",
+        "facet": "sense",
+        "sense_zh": "哭泣者"
+      },
+      {
+        "key": "s|1",
+        "facet": "sense",
+        "sense_zh": "墓地哀悼雕像"
+      },
+      {
+        "key": "gender",
+        "facet": "gender",
+        "gender": "m"
+      }
+    ]
+  },
+  {
+    "id": 7262,
+    "fr": "berline",
+    "pos": "noun",
+    "gender": "f",
+    "en": "sedan, saloon (car); (historical) covered carriage",
+    "zh": "轿车；（历史上的）轿式马车",
+    "slots": [
+      {
+        "key": "s|0",
+        "facet": "sense",
+        "sense_zh": "轿车"
+      },
+      {
+        "key": "s|1",
+        "facet": "sense",
+        "sense_zh": "（历史上的）轿式马车"
+      },
+      {
+        "key": "gender",
+        "facet": "gender",
+        "gender": "f"
+      }
+    ]
+  },
+  {
+    "id": 7263,
+    "fr": "cuisson",
+    "pos": "noun",
+    "gender": "f",
+    "en": "cooking, baking, roasting; firing (ceramics)",
+    "zh": "烹饪；烘烤；（陶瓷）烧制",
+    "slots": [
+      {
+        "key": "s|0",
+        "facet": "sense",
+        "sense_zh": "烹饪"
+      },
+      {
+        "key": "s|1",
+        "facet": "sense",
+        "sense_zh": "烘烤"
+      },
+      {
+        "key": "s|2",
+        "facet": "sense",
+        "sense_zh": "（陶瓷）烧制"
+      },
+      {
+        "key": "gender",
+        "facet": "gender",
+        "gender": "f"
+      }
+    ]
+  },
+  {
+    "id": 7264,
+    "fr": "tic",
+    "pos": "noun",
+    "gender": "m",
+    "en": "tic, nervous twitch; habit, quirk",
+    "zh": "抽搐；痉挛；小习惯",
+    "slots": [
+      {
+        "key": "s|0",
+        "facet": "sense",
+        "sense_zh": "抽搐"
+      },
+      {
+        "key": "s|1",
+        "facet": "sense",
+        "sense_zh": "痉挛"
+      },
+      {
+        "key": "s|2",
+        "facet": "sense",
+        "sense_zh": "小习惯"
+      },
+      {
+        "key": "gender",
+        "facet": "gender",
+        "gender": "m"
+      }
+    ]
+  },
+  {
+    "id": 7265,
+    "fr": "écuyer",
+    "pos": "noun",
+    "gender": "m",
+    "en": "squire, shield-bearer; riding instructor",
+    "zh": "侍从；马术教练；（纹章）盾形牌持有者",
+    "slots": [
+      {
+        "key": "s|0",
+        "facet": "sense",
+        "sense_zh": "侍从"
+      },
+      {
+        "key": "s|1",
+        "facet": "sense",
+        "sense_zh": "马术教练"
+      },
+      {
+        "key": "s|2",
+        "facet": "sense",
+        "sense_zh": "（纹章）盾形牌持有者"
+      },
+      {
+        "key": "gender",
+        "facet": "gender",
+        "gender": "m"
+      }
+    ]
+  },
+  {
+    "id": 7266,
+    "fr": "tom",
+    "pos": "noun",
+    "gender": "m",
+    "en": "tomcat",
+    "zh": "公猫；雄猫",
+    "slots": [
+      {
+        "key": "s|0",
+        "facet": "sense",
+        "sense_zh": "公猫"
+      },
+      {
+        "key": "s|1",
+        "facet": "sense",
+        "sense_zh": "雄猫"
+      },
+      {
+        "key": "gender",
+        "facet": "gender",
+        "gender": "m"
+      }
+    ]
+  },
+  {
+    "id": 7267,
+    "fr": "sketch",
+    "pos": "noun",
+    "gender": "m",
+    "en": "sketch, short comic scene",
+    "zh": "短剧；滑稽小品",
+    "slots": [
+      {
+        "key": "s|0",
+        "facet": "sense",
+        "sense_zh": "短剧"
+      },
+      {
+        "key": "s|1",
+        "facet": "sense",
+        "sense_zh": "滑稽小品"
+      },
+      {
+        "key": "gender",
+        "facet": "gender",
+        "gender": "m"
+      }
+    ]
+  },
+  {
+    "id": 7268,
+    "fr": "poignarder",
+    "pos": "verb",
+    "gender": null,
+    "en": "to stab (with a dagger)",
+    "zh": "用匕首刺；捅",
+    "slots": [
+      {
+        "key": "t|Présent|0",
+        "facet": "tense",
+        "tense": "Présent",
+        "target": "poignarde",
+        "persons": [
+          "je/j'",
+          "il/elle/on"
+        ]
+      },
+      {
+        "key": "t|Présent|1",
+        "facet": "tense",
+        "tense": "Présent",
+        "target": "poignardes",
+        "persons": [
+          "tu"
+        ]
+      },
+      {
+        "key": "t|Présent|2",
+        "facet": "tense",
+        "tense": "Présent",
+        "target": "poignardons",
+        "persons": [
+          "nous"
+        ]
+      },
+      {
+        "key": "t|Présent|3",
+        "facet": "tense",
+        "tense": "Présent",
+        "target": "poignardez",
+        "persons": [
+          "vous"
+        ]
+      },
+      {
+        "key": "t|Présent|4",
+        "facet": "tense",
+        "tense": "Présent",
+        "target": "poignardent",
+        "persons": [
+          "ils/elles"
+        ]
+      },
+      {
+        "key": "t|Passé composé|0",
+        "facet": "tense",
+        "tense": "Passé composé",
+        "target": "ai poignardé",
+        "persons": [
+          "je/j'"
+        ]
+      },
+      {
+        "key": "t|Passé composé|1",
+        "facet": "tense",
+        "tense": "Passé composé",
+        "target": "as poignardé",
+        "persons": [
+          "tu"
+        ]
+      },
+      {
+        "key": "t|Passé composé|2",
+        "facet": "tense",
+        "tense": "Passé composé",
+        "target": "a poignardé",
+        "persons": [
+          "il/elle/on"
+        ]
+      },
+      {
+        "key": "t|Passé composé|3",
+        "facet": "tense",
+        "tense": "Passé composé",
+        "target": "avons poignardé",
+        "persons": [
+          "nous"
+        ]
+      },
+      {
+        "key": "t|Passé composé|4",
+        "facet": "tense",
+        "tense": "Passé composé",
+        "target": "avez poignardé",
+        "persons": [
+          "vous"
+        ]
+      },
+      {
+        "key": "t|Passé composé|5",
+        "facet": "tense",
+        "tense": "Passé composé",
+        "target": "ont poignardé",
+        "persons": [
+          "ils/elles"
+        ]
+      },
+      {
+        "key": "t|Imparfait|0",
+        "facet": "tense",
+        "tense": "Imparfait",
+        "target": "poignardais",
+        "persons": [
+          "je/j'",
+          "tu"
+        ]
+      },
+      {
+        "key": "t|Imparfait|1",
+        "facet": "tense",
+        "tense": "Imparfait",
+        "target": "poignardait",
+        "persons": [
+          "il/elle/on"
+        ]
+      },
+      {
+        "key": "t|Imparfait|2",
+        "facet": "tense",
+        "tense": "Imparfait",
+        "target": "poignardions",
+        "persons": [
+          "nous"
+        ]
+      },
+      {
+        "key": "t|Imparfait|3",
+        "facet": "tense",
+        "tense": "Imparfait",
+        "target": "poignardiez",
+        "persons": [
+          "vous"
+        ]
+      },
+      {
+        "key": "t|Imparfait|4",
+        "facet": "tense",
+        "tense": "Imparfait",
+        "target": "poignardaient",
+        "persons": [
+          "ils/elles"
+        ]
+      },
+      {
+        "key": "t|Futur|0",
+        "facet": "tense",
+        "tense": "Futur",
+        "target": "poignarderai",
+        "persons": [
+          "je/j'"
+        ]
+      },
+      {
+        "key": "t|Futur|1",
+        "facet": "tense",
+        "tense": "Futur",
+        "target": "poignarderas",
+        "persons": [
+          "tu"
+        ]
+      },
+      {
+        "key": "t|Futur|2",
+        "facet": "tense",
+        "tense": "Futur",
+        "target": "poignardera",
+        "persons": [
+          "il/elle/on"
+        ]
+      },
+      {
+        "key": "t|Futur|3",
+        "facet": "tense",
+        "tense": "Futur",
+        "target": "poignarderons",
+        "persons": [
+          "nous"
+        ]
+      },
+      {
+        "key": "t|Futur|4",
+        "facet": "tense",
+        "tense": "Futur",
+        "target": "poignarderez",
+        "persons": [
+          "vous"
+        ]
+      },
+      {
+        "key": "t|Futur|5",
+        "facet": "tense",
+        "tense": "Futur",
+        "target": "poignarderont",
+        "persons": [
+          "ils/elles"
+        ]
+      },
+      {
+        "key": "t|Conditionnel|0",
+        "facet": "tense",
+        "tense": "Conditionnel",
+        "target": "poignarderais",
+        "persons": [
+          "je/j'",
+          "tu"
+        ]
+      },
+      {
+        "key": "t|Conditionnel|1",
+        "facet": "tense",
+        "tense": "Conditionnel",
+        "target": "poignarderait",
+        "persons": [
+          "il/elle/on"
+        ]
+      },
+      {
+        "key": "t|Conditionnel|2",
+        "facet": "tense",
+        "tense": "Conditionnel",
+        "target": "poignarderions",
+        "persons": [
+          "nous"
+        ]
+      },
+      {
+        "key": "t|Conditionnel|3",
+        "facet": "tense",
+        "tense": "Conditionnel",
+        "target": "poignarderiez",
+        "persons": [
+          "vous"
+        ]
+      },
+      {
+        "key": "t|Conditionnel|4",
+        "facet": "tense",
+        "tense": "Conditionnel",
+        "target": "poignarderaient",
+        "persons": [
+          "ils/elles"
+        ]
+      },
+      {
+        "key": "t|Subjonctif",
+        "facet": "subj",
+        "tense": "Subjonctif"
+      },
+      {
+        "key": "s|0",
+        "facet": "sense",
+        "sense_zh": "用匕首刺"
+      },
+      {
+        "key": "s|1",
+        "facet": "sense",
+        "sense_zh": "捅"
+      }
+    ]
+  },
+  {
+    "id": 7269,
+    "fr": "éduquer",
+    "pos": "verb",
+    "gender": null,
+    "en": "to educate, to raise (a child)",
+    "zh": "教育；教养；培养",
+    "slots": [
+      {
+        "key": "t|Présent|0",
+        "facet": "tense",
+        "tense": "Présent",
+        "target": "éduque",
+        "persons": [
+          "je/j'",
+          "il/elle/on"
+        ]
+      },
+      {
+        "key": "t|Présent|1",
+        "facet": "tense",
+        "tense": "Présent",
+        "target": "éduques",
+        "persons": [
+          "tu"
+        ]
+      },
+      {
+        "key": "t|Présent|2",
+        "facet": "tense",
+        "tense": "Présent",
+        "target": "éduquons",
+        "persons": [
+          "nous"
+        ]
+      },
+      {
+        "key": "t|Présent|3",
+        "facet": "tense",
+        "tense": "Présent",
+        "target": "éduquez",
+        "persons": [
+          "vous"
+        ]
+      },
+      {
+        "key": "t|Présent|4",
+        "facet": "tense",
+        "tense": "Présent",
+        "target": "éduquent",
+        "persons": [
+          "ils/elles"
+        ]
+      },
+      {
+        "key": "t|Passé composé|0",
+        "facet": "tense",
+        "tense": "Passé composé",
+        "target": "ai éduqué",
+        "persons": [
+          "je/j'"
+        ]
+      },
+      {
+        "key": "t|Passé composé|1",
+        "facet": "tense",
+        "tense": "Passé composé",
+        "target": "as éduqué",
+        "persons": [
+          "tu"
+        ]
+      },
+      {
+        "key": "t|Passé composé|2",
+        "facet": "tense",
+        "tense": "Passé composé",
+        "target": "a éduqué",
+        "persons": [
+          "il/elle/on"
+        ]
+      },
+      {
+        "key": "t|Passé composé|3",
+        "facet": "tense",
+        "tense": "Passé composé",
+        "target": "avons éduqué",
+        "persons": [
+          "nous"
+        ]
+      },
+      {
+        "key": "t|Passé composé|4",
+        "facet": "tense",
+        "tense": "Passé composé",
+        "target": "avez éduqué",
+        "persons": [
+          "vous"
+        ]
+      },
+      {
+        "key": "t|Passé composé|5",
+        "facet": "tense",
+        "tense": "Passé composé",
+        "target": "ont éduqué",
+        "persons": [
+          "ils/elles"
+        ]
+      },
+      {
+        "key": "t|Imparfait|0",
+        "facet": "tense",
+        "tense": "Imparfait",
+        "target": "éduquais",
+        "persons": [
+          "je/j'",
+          "tu"
+        ]
+      },
+      {
+        "key": "t|Imparfait|1",
+        "facet": "tense",
+        "tense": "Imparfait",
+        "target": "éduquait",
+        "persons": [
+          "il/elle/on"
+        ]
+      },
+      {
+        "key": "t|Imparfait|2",
+        "facet": "tense",
+        "tense": "Imparfait",
+        "target": "éduquions",
+        "persons": [
+          "nous"
+        ]
+      },
+      {
+        "key": "t|Imparfait|3",
+        "facet": "tense",
+        "tense": "Imparfait",
+        "target": "éduquiez",
+        "persons": [
+          "vous"
+        ]
+      },
+      {
+        "key": "t|Imparfait|4",
+        "facet": "tense",
+        "tense": "Imparfait",
+        "target": "éduquaient",
+        "persons": [
+          "ils/elles"
+        ]
+      },
+      {
+        "key": "t|Futur|0",
+        "facet": "tense",
+        "tense": "Futur",
+        "target": "éduquerai",
+        "persons": [
+          "je/j'"
+        ]
+      },
+      {
+        "key": "t|Futur|1",
+        "facet": "tense",
+        "tense": "Futur",
+        "target": "éduqueras",
+        "persons": [
+          "tu"
+        ]
+      },
+      {
+        "key": "t|Futur|2",
+        "facet": "tense",
+        "tense": "Futur",
+        "target": "éduquera",
+        "persons": [
+          "il/elle/on"
+        ]
+      },
+      {
+        "key": "t|Futur|3",
+        "facet": "tense",
+        "tense": "Futur",
+        "target": "éduquerons",
+        "persons": [
+          "nous"
+        ]
+      },
+      {
+        "key": "t|Futur|4",
+        "facet": "tense",
+        "tense": "Futur",
+        "target": "éduquerez",
+        "persons": [
+          "vous"
+        ]
+      },
+      {
+        "key": "t|Futur|5",
+        "facet": "tense",
+        "tense": "Futur",
+        "target": "éduqueront",
+        "persons": [
+          "ils/elles"
+        ]
+      },
+      {
+        "key": "t|Conditionnel|0",
+        "facet": "tense",
+        "tense": "Conditionnel",
+        "target": "éduquerais",
+        "persons": [
+          "je/j'",
+          "tu"
+        ]
+      },
+      {
+        "key": "t|Conditionnel|1",
+        "facet": "tense",
+        "tense": "Conditionnel",
+        "target": "éduquerait",
+        "persons": [
+          "il/elle/on"
+        ]
+      },
+      {
+        "key": "t|Conditionnel|2",
+        "facet": "tense",
+        "tense": "Conditionnel",
+        "target": "éduquerions",
+        "persons": [
+          "nous"
+        ]
+      },
+      {
+        "key": "t|Conditionnel|3",
+        "facet": "tense",
+        "tense": "Conditionnel",
+        "target": "éduqueriez",
+        "persons": [
+          "vous"
+        ]
+      },
+      {
+        "key": "t|Conditionnel|4",
+        "facet": "tense",
+        "tense": "Conditionnel",
+        "target": "éduqueraient",
+        "persons": [
+          "ils/elles"
+        ]
+      },
+      {
+        "key": "t|Subjonctif",
+        "facet": "subj",
+        "tense": "Subjonctif"
+      },
+      {
+        "key": "s|0",
+        "facet": "sense",
+        "sense_zh": "教育"
+      },
+      {
+        "key": "s|1",
+        "facet": "sense",
+        "sense_zh": "教养"
+      },
+      {
+        "key": "s|2",
+        "facet": "sense",
+        "sense_zh": "培养"
+      }
+    ]
+  }
+]
