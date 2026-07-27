@@ -265,11 +265,15 @@ def generate_word(w, spec, conj):
     return {"id": int(w["id"]), "qs": qs}
 
 def main():
+    import sys
     words = load_words()
     conj = load_conj()
     os.makedirs(OUT_DIR, exist_ok=True)
     batch_size = 25
-    ids = list(range(7095, 7395))
+    start = int(sys.argv[1]) if len(sys.argv) > 1 else 7095
+    count = int(sys.argv[2]) if len(sys.argv) > 2 else 300
+    round_tag = sys.argv[3] if len(sys.argv) > 3 else "g6013"
+    ids = list(range(start, start + count))
     total = 0
     for i in range(0, len(ids), batch_size):
         chunk = ids[i:i+batch_size]
@@ -280,7 +284,7 @@ def main():
             item = generate_word(w, spec, conj)
             out.append(item)
             total += len(item["qs"])
-        out_path = os.path.join(OUT_DIR, f"g6013_{i//batch_size}.json")
+        out_path = os.path.join(OUT_DIR, f"{round_tag}_{i//batch_size}.json")
         json.dump(out, open(out_path, "w", encoding="utf-8"), ensure_ascii=False, indent=None)
         print(f"wrote {out_path}: {len(out)} words, {sum(len(x['qs']) for x in out)} questions")
     print(f"total questions: {total}")

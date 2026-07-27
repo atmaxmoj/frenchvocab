@@ -30,7 +30,7 @@ with open("Lexique383.tsv", encoding="utf-8") as f:
             gender.setdefault(norm(row[ilem]), g)
 
 # 坏 lemma 黑名单：gap 表里拼错/异体，且正确形已在 deck（normalization 桥不过去）
-BLOCKLIST = {"bruir", "accroire", "gaspard", "mac"}   # accroire=缺陷动词(仅不定式,verbecc变不了→过不了闸门)
+BLOCKLIST = {"bruir", "accroire", "gaspard", "mac", "assavoir"}   # accroire=缺陷动词(仅不定式,verbecc变不了→过不了闸门)
 # 注：enrich gloss 铁律(修正在 gloss_audit_out/user_fix.json)：
 #  ① en 禁「French phrase = English」格式(=号会污染 MC 选项)
 #  ② en/zh 禁出现【任何法语词，尤其词本身的反身/变形】——那等于把答案写在题面上，Réviser 考不到人

@@ -99,7 +99,7 @@ def missing_compartments(w, quiz_ids, audio=None):
     # formF 只对"阴性会变形"的形容词要求：以 -e 结尾者阴阳同形；下列为已知不变形形容词
     INVARIABLE_ADJ = {"soi-disant", "chic", "sympa", "super", "extra", "marron", "orange",
                       "snob", "kaki", "sexy", "cool", "bien", "châtain", "standard", "récap",
-                      "high-tech", "pop", "in", "multimédia", "aiguë", "toc", "ultra"}
+                      "high-tech", "pop", "in", "multimédia", "aiguë", "toc", "ultra", "baba"}
     if pos == "adj" and not fr.endswith("e") and fr not in INVARIABLE_ADJ:
         checks["formF"] = nonempty(w.get("formF"))
     # 音频三音色：Réviser=henri(裸词) · Cram/Quiz=denise(冠词形) · 英文跟读=aria(释义)
