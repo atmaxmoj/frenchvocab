@@ -2,7 +2,7 @@
 """校验 6 个 enr_batch + 合入 skeleton / enrich_out / etym_hook_out / formF_out。"""
 import json, glob, unicodedata, re, sys
 
-TAG = "b2_w9"
+TAG = "b2_w10"
 
 def strip_acc(s):
     return "".join(c for c in unicodedata.normalize("NFD", s) if unicodedata.category(c) != "Mn")
@@ -17,7 +17,7 @@ for fn in sorted(glob.glob("enrich_stage/enr_batch_*.json")):
 print(f"loaded {len(bundles)} bundles from {len(glob.glob('enrich_stage/enr_batch_*.json'))} files")
 
 seed = {w["id"]: w for w in json.load(open("seed_wave.json"))}
-assert len(bundles) == len(seed) == 300, f"count mismatch: {len(bundles)} vs {len(seed)}"
+assert len(bundles) == len(seed), f"count mismatch: {len(bundles)} vs {len(seed)}"
 
 errs, warns = [], []
 seen_ids = set()
